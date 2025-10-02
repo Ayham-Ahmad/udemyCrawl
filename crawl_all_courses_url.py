@@ -9,12 +9,7 @@ from crawl4ai import AsyncWebCrawler, CrawlerRunConfig
 from crawl4ai.content_scraping_strategy import LXMLWebScrapingStrategy
 from pyquery import PyQuery as pq
 
-import logging
 import random
-from urllib.parse import urljoin
-from crawl4ai import AsyncWebCrawler, CrawlerRunConfig
-from crawl4ai.content_scraping_strategy import LXMLWebScrapingStrategy
-from pyquery import PyQuery as pq
 from playwright.async_api import async_playwright
 from playwright_stealth import Stealth
 
@@ -28,7 +23,7 @@ USER_AGENTS = [
 
 # ---------- CONFIG ----------
 ROOT_INDEX_URL = "https://www.udemy.com/courses/"
-OUTPUT_DIR = Path("Tutorials_ALL")
+OUTPUT_DIR = Path("Tutorials_ALL_URLs")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 TUTORIALS_INDEX_URL = ['development', 'business', 'finance-and-accounting', 'it-and-software', 'office-productivity',

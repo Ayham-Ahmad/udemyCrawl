@@ -51,119 +51,117 @@ def sanitize_filename(name: str) -> str:
         n = "course"
     return n
 
+def chunked(iterable, size):
+    """Yield successive chunks of given size from iterable."""
+    for i in range(0, len(iterable), size):
+        yield iterable[i:i+size]
+
 # ---------- CRAWLING LOGIC ----------
-async def crawl_course(main_category, sub_category, tut_url: str):
+async def crawl_course(browser, main_category, sub_category, tut_url: str):
     safe_sub = sub_category.replace(" ", "_").replace("/", "-")
     safe_main = main_category.replace(" ", "_")
 
-    out_file = OUTPUT_DIR / f"{safe_main}_{safe_sub}"
+    category_dir = OUTPUT_DIR / main_category / sub_category
+    category_dir.mkdir(parents=True, exist_ok=True)
 
-    print(f"➡️  Crawling Category (stealth mode): {sub_category} -> {tut_url}")
+    out_file = category_dir / f"{safe_main}_{safe_sub}"
+
+    print(f"➡️ Crawling Category (stealth mode): {sub_category} -> {tut_url}")
 
     try:
-        async with Stealth().use_async(async_playwright()) as p:
-            browser = await p.chromium.launch(headless=False)
-            context = await browser.new_context(
-                user_agent=("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                            "AppleWebKit/537.36 (KHTML, like Gecko) "
-                            "Chrome/125.0.0.0 Safari/537.36"),
-                locale="en-US"
-            )
-            page = await context.new_page()
+        # create new isolated context per crawl
+        context = await browser.new_context(
+            user_agent=("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                        "AppleWebKit/537.36 (KHTML, like Gecko) "
+                        "Chrome/125.0.0.0 Safari/537.36"),
+            locale="en-US"
+        )
+        page = await context.new_page()
 
-            # navigator.webdriver check
-            print("navigator.webdriver =", await page.evaluate("() => navigator.webdriver"))
+        # navigator.webdriver check
+        print("navigator.webdriver =", await page.evaluate("() => navigator.webdriver"))
 
-            await page.goto(tut_url, wait_until="domcontentloaded")
-            await page.wait_for_selector("h3[data-purpose='course-title-url'] a", timeout=30000)
+        await page.goto(tut_url, wait_until="domcontentloaded")
+        await page.wait_for_selector("h3[data-purpose='course-title-url'] a", timeout=30000)
 
+        courses = set()
+        file_index = 1
+        no_more_page = False
 
-            # pull HTML and pass it through pyquery
+        while True:
             html = await page.content()
             tut_doc = pq(html)
 
-            # collect courses
-            courses = set()
-            file_index = 1
-            no_more_page = False
+            for course in tut_doc("h3[data-purpose='course-title-url'] a"):
+                course_el = pq(course)
+                title = course_el.clone().children("div.ud-sr-only").remove().end().text().strip()
+                href = course_el.attr("href")
+                full_url = urljoin("https://www.udemy.com", href) if href else "N/A"
+                courses.add((title, full_url))
 
-            while True:
-                # pull HTML and parse courses on this page
-                html = await page.content()
-                tut_doc = pq(html)
-
-                for course in tut_doc("h3[data-purpose='course-title-url'] a"):
-                    course_el = pq(course)
-                    title = course_el.clone().children("div.ud-sr-only").remove().end().text().strip()
-                    href = course_el.attr("href")
-                    full_url = urljoin("https://www.udemy.com", href) if href else "N/A"
-
-                    # add to set (title, url) tuple → ensures uniqueness
-                    courses.add((title, full_url))
-
-                # try to go to the next page
-                try:
-                    next_btn = await page.query_selector("a.pagination_next__aBqfT[aria-disabled='false']")
-                    if not next_btn:
-                        print("No more pages 🚀")
-                        no_more_page = True
-
-                    # add random delay before clicking (2–6 seconds for example)
-                    delay = random.uniform(2, 6)
-                    print(f"⏳ Waiting {delay:.2f}s before next page...")
-                    await asyncio.sleep(delay)
-
-                    await next_btn.click()
-                    await page.wait_for_timeout(2000)  # wait a bit for next page to load
-                    await page.wait_for_selector("h3[data-purpose='course-title-url'] a", timeout=20000)
-
-                except Exception:
-                    print("Pagination ended 🚀")
+            try:
+                next_btn = await page.query_selector("a.pagination_next__aBqfT[aria-disabled='false']")
+                if not next_btn:
+                    print("No more pages 🚀")
                     no_more_page = True
 
-                # if batch threshold reached
-                if len(courses) >= 500 or no_more_page:
-                    data = {
-                        "main_category": main_category,
-                        "sub_category": sub_category,
-                        "courses": [{"title": t, "url": u} for t, u in courses]
-                    }
+                # random human-like pause
+                delay = random.uniform(2, 7)
+                print(f"⏳ Waiting {delay:.2f}s before next page...")
+                await asyncio.sleep(delay)
 
-                    out_file_saved_url_title = f"{out_file}_{file_index}.json"
-                    with open(out_file_saved_url_title, "w", encoding="utf-8") as f:
-                        json.dump(data, f, indent=2, ensure_ascii=False)
+                await next_btn.click()
+                await page.wait_for_timeout(2000)
+                await page.wait_for_selector("h3[data-purpose='course-title-url'] a", timeout=20000)
 
-                    print(f"💾 Saved {len(courses)} unique courses → {out_file_saved_url_title}")
+            except Exception:
+                print("Pagination ended 🚀")
+                no_more_page = True
 
-                    if no_more_page:
-                        break
+            if len(courses) >= 500 or no_more_page:
+                data = {
+                    "main_category": main_category,
+                    "sub_category": sub_category,
+                    "courses": [{"title": t, "url": u} for t, u in courses]
+                }
 
-                    file_index += 1
-                    courses.clear() 
+                out_file_saved_url_title = f"{out_file}_{file_index}.json"
+                with open(out_file_saved_url_title, "w", encoding="utf-8") as f:
+                    json.dump(data, f, indent=2, ensure_ascii=False)
 
-            # Debug print
-            # for i, c in enumerate(courses, start=1):
-            #     print(f"{i}. {c['title']} -> {c['url']}")
+                print(f"💾 Saved {len(courses)} unique courses → {out_file_saved_url_title}")
 
-            ### debugging ###
-            # with open(f"debug_{Category_name}.html", "w", encoding="utf-8") as f:
-            #     f.write(html)
+                if no_more_page:
+                    break
 
-            # matches = tut_doc("h3[data-purpose='course-title-url'] a")
+                file_index += 1
+                courses.clear()
 
-            # print("Matches found:", len(matches))
-            # for i, match in enumerate(matches.items(), start=1):
-            #     title = match.text().strip()
-            #     href = match.attr("href")
-            #     full_url = urljoin("https://www.udemy.com", href) if href else "N/A"
-            #     print(f"{i}. {title} -> {full_url}")
-
-
-            await browser.close()
+        await context.close()
 
     except Exception as e:
         print(f"❌ Failed to fetch course root {tut_url}: {e}")
         return
+
+
+# ------------------ PARALLEL RUNNER ------------------ #
+async def crawl_multiple(targets, concurrency_limit=3):
+    async with Stealth().use_async(async_playwright()) as p:
+        browser = await p.chromium.launch(headless=False)
+
+        sem = asyncio.Semaphore(concurrency_limit)
+
+        async def sem_task(main, sub, url):
+            async with sem:
+                delay = random.uniform(1, 5)
+                print(f"⏳ Delaying {delay:.1f}s before starting {sub}")
+                await asyncio.sleep(delay)
+                return await crawl_course(browser, main, sub, url)
+
+        tasks = [sem_task(m, s, u) for m, s, u in targets]
+        await asyncio.gather(*tasks)
+
+        await browser.close()
     
 
 async def main():
@@ -180,7 +178,7 @@ async def main():
     ) as crawler:
         
         # Looping on each main category in TUTORIALS_INDEX_URL
-        for INDEX_URL in TUTORIALS_INDEX_URL[:1]:
+        for INDEX_URL in TUTORIALS_INDEX_URL:
             full_url = ROOT_INDEX_URL + INDEX_URL
             print(f"Main Category: {INDEX_URL}, URL: {full_url}")
 
@@ -214,6 +212,8 @@ async def main():
                 # print(f"Course Category: {course_category}")
                 if not href or not course_category:
                     continue
+                if course_category == "IT Certifications":
+                    href = "it-and-software/it-certification/?p=423"
                 full = urljoin(full_url, href)
                 if course_category not in course_categories:
                     course_categories[course_category] = full # Store it in a dict, key: category name -> value: Category link
@@ -221,7 +221,7 @@ async def main():
             print(f"Course Categories Num: {len(course_categories)}") 
 
             # Saving main category name, for json naming later
-            main_category = next(iter(course_categories))
+            # main_category = next(iter(course_categories))
             # print(f"Main Category Title: {Main_Category}")
 
             # Taking out the first Category because it is the main one
@@ -230,19 +230,24 @@ async def main():
             course_categories = dict(it)
             # print(f"Course Categories: {course_categories}")
 
-
-            for (sub_category, url), _ in zip(course_categories.items(), range(2)):
-                file_name = sanitize_filename(main_category + '_' + sub_category) + ".json"
+            targets = []
+            for sub_category, url in course_categories.items():
+                file_name = sanitize_filename(f"{INDEX_URL}_{sub_category}.json")
                 # print(main_Category, sub_category)
                 if (OUTPUT_DIR / file_name).exists():
                     print(f"⏭️ Skipping {sub_category} (file exists: {file_name})")
                     continue
+                targets.append((INDEX_URL, sub_category, url))
 
                 # print(file_name)
 
-                await crawl_course(main_category, sub_category, url)
+                # await crawl_course(main_category, sub_category, url)
+                # Run in batches of 3
 
-            print("*" * 50)
+            for batch in chunked(targets, 3):
+                print(f"🚀 Starting batch with {len(batch)} targets...")
+                await crawl_multiple(batch, concurrency_limit=3)  # <= run 3 in parallel
+                print("✅ Batch finished")
 
 
 if __name__ == "__main__":

@@ -171,7 +171,7 @@ def sanitize_filename(name: str) -> str:
 def chunked(iterable, size):
     """Yield successive chunks of given size from iterable."""
     for i in range(0, len(iterable), size):
-        yield iterable[i:i+size]
+        yield iterable[i:i + size]
 
 def path_maker(main_category, sub_category, file_index):
     safe_main = sanitize_filename(main_category)
@@ -226,7 +226,7 @@ def save_course(out_file: str | Path, course: dict, main_category: str, sub_cate
 async def crawl_course(page, main_category, sub_category, cou_urls: list[str], out_file: str, done_list):
     print(f"➡️ Started crawling: {main_category} -> {sub_category}")
 
-    for url in cou_urls:
+    for url in cou_urls[:2]:
         try:
             status, crawled_in_main_cat, crawled_in_sub_cat = is_already_crawled(url, main_category, sub_category, done_list)
 
@@ -289,62 +289,89 @@ async def crawl_course(page, main_category, sub_category, cou_urls: list[str], o
 
 # ------------------ PARALLEL RUNNER ------------------ #
 async def crawl_multiple(targets, concurrency_limit=3):
+    """
+    Crawl multiple sub-category URLs in parallel, limited by concurrency_limit.
+    Each task runs in its own browser context (like a new window).
+    Skips creating tasks if the URL was already crawled.
+    """
     async with Stealth().use_async(async_playwright()) as p:
         browser = await p.chromium.launch(headless=False)
-
         sem = asyncio.Semaphore(concurrency_limit)
 
-        async def sem_task(main, sub, url):
+        # Load once instead of reloading for every URL
+        done_list = load_done_crawling()
+
+        async def sem_task(main, sub, url, out_file):
             async with sem:
                 delay = random.uniform(1, 5)
                 print(f"⏳ Delaying {delay:.1f}s before starting {sub}")
                 await asyncio.sleep(delay)
-                return await crawl_course(browser, main, sub, url)
 
-        tasks = [sem_task(m, s, u) for m, s, u in targets]
-        await asyncio.gather(*tasks)
+                context = await browser.new_context(user_agent=random.choice(USER_AGENTS))
+                page = await context.new_page()
+                try:
+                    return await crawl_course(
+                        page,
+                        main_category=main,
+                        sub_category=sub,
+                        cou_urls=[url],
+                        out_file=out_file,
+                        done_list=done_list
+                    )
+                finally:
+                    await context.close()
+
+        tasks = []
+        for m, s, u in targets:
+            # Check only once here before scheduling
+            status, crawled_main, crawled_sub = is_already_crawled(u, m, s, done_list)
+            if status == "same":
+                print(f"✅ Already crawled in this category: {u}")
+                continue
+            elif status == "different":
+                print(f"⚠️ Already crawled in another category ({crawled_main}/{crawled_sub}): {u}")
+                save_done_crawling_entry(u, m, s)
+                continue
+
+            out_file = path_maker(m, s, 1)
+            tasks.append(sem_task(m, s, u, out_file))
+
+        if tasks:
+            await asyncio.gather(*tasks)
 
         await browser.close()
 
 # --------------------- MAIN FUNCTION ----------------- #
 async def main():
-
     all_urls = load_all_course_urls(INPUT_DIR)
 
-    async with Stealth().use_async(async_playwright()) as p:
-        browser = await p.chromium.launch(headless=False, args=[
-            "--disable-blink-features=AutomationControlled",
-            "--no-sandbox",
-            "--disable-dev-shm-usage"
-        ])
-        context = await browser.new_context(user_agent=random.choice(USER_AGENTS))
-        page = await context.new_page()
+    prev_sub_cat = ''
+    file_index = 1
 
-        prev_sub_cat = ''
-        file_index = 1
-        for i, (main_cat, subs) in enumerate(all_urls.items(), start=1):
-            print(f"{i} {main_cat} in Progress...")
-            for sub in subs:
-                for sub_cat, urls in sub.items():
-                    done_list = load_done_crawling()
-                    if sub_cat == prev_sub_cat:
-                        file_index += 1
-                    else:
-                        prev_sub_cat = sub_cat
-                        file_index = 1
-                    file_path = path_maker(main_cat, sub_cat, file_index)
-                    if Path(file_path).is_file():
-                        print(f"{file_path} is Skipped...")
-                        prev_sub_cat = sub_cat
-                        continue
-                    print(f"➡️ Crawling Courses for: {main_cat}_{sub_cat}_{file_index}")
-                    await crawl_course(page, main_category=main_cat, sub_category=sub_cat, cou_urls=urls, out_file=file_path, done_list=done_list)
+    for i, (main_cat, subs) in enumerate(all_urls.items(), start=1):
+        # print(f"{i} {main_cat} in Progress...")
+        for sub in subs:
+            for sub_cat, urls in sub.items():
+                if sub_cat == prev_sub_cat:
+                    file_index += 1
+                else:
+                    prev_sub_cat = sub_cat
+                    file_index = 1
 
+                file_path = path_maker(main_cat, sub_cat, file_index)
+                if Path(file_path).is_file():
+                    # print(f"{file_path} is Skipped...")
+                    prev_sub_cat = sub_cat
+                    continue
+                # print(f"➡️ Crawling Courses for: {main_cat}_{sub_cat}_{file_index}")
 
-                    # for batch in chunked(targets, 3):
-                    #     print(f"🚀 Starting batch with {len(batch)} targets...")
-                    #     await crawl_multiple(batch, concurrency_limit=3)  # <= run 3 in parallel
-                    #     print("✅ Batch finished")
+                # Run in batches of 3
+                for batch in chunked(urls, 3):
+                    print(f"🚀 Starting batch with {len(batch)} targets...")
+                    # Prepare (main, sub, url) tuples for crawl_multiple
+                    targets = [(main_cat, sub_cat, u) for u in batch]
+                    await crawl_multiple(targets)
+                    print("✅ Batch finished")
 
 if __name__ == "__main__":
     asyncio.run(main())

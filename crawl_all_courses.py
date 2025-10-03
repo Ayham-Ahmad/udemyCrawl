@@ -1,11 +1,8 @@
 import asyncio
 import json
-import logging
 import re
 from pathlib import Path
-
 from pyquery import PyQuery as pq
-
 import random
 from playwright.async_api import async_playwright
 from playwright_stealth import Stealth
@@ -19,17 +16,77 @@ USER_AGENTS = [
 ]
 
 # ---------- CONFIG ----------
-ROOT_INDEX_URL = "https://www.udemy.com/courses/"
 INPUT_DIR = Path("Tutorials_ALL_URLs")
 OUTPUT_DIR = Path("Tutorials_ALL")
 OUTPUT_DIR.mkdir(exist_ok=True)
 DONE_FILE = Path("done_crawling.json")
 
-logging.basicConfig(
-    filename="crawl_log.txt",
-    level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - %(message)s",
-)
+from pyquery import PyQuery as pq
+
+class Page:
+    def __init__(self, html: str):
+        self._cou_doc = pq(html)
+
+    def title(self) -> str | None:
+        title_el = self._cou_doc("h1.ud-heading-xxl.clp-lead__title.clp-lead__title--small")
+        if title_el and title_el.text().strip():
+            return title_el.text().strip()
+        return None
+
+    def bio(self) -> str | None:
+        bio_el = self._cou_doc("div.ud-text-lg.clp-lead__headline")
+        if bio_el and bio_el.text().strip():
+            return bio_el.text().strip()
+        return None
+
+    def objectives(self) -> list[str]:
+        objs = [pq(obj).text().strip()
+                for obj in self._cou_doc("span.what-you-will-learn--objective-item--VZFww").items()]
+        if objs:
+            return objs
+        return []
+
+    def course_content(self) -> dict[str, list[str]]:
+        content = {}
+        for section_el in self._cou_doc("div.accordion-panel-module--panel--Eb0it.section--panel--qYPjj"):
+            section = pq(section_el)
+            section_title = section("span.section--section-title--svpHP").text().strip()
+            section_sub_titles = [pq(sub).text().strip()
+                                  for sub in section(".section--course-lecture-title--lH1Wi").items()]
+            if section_title and section_sub_titles:
+                content[section_title] = section_sub_titles
+            elif section_title:
+                content[section_title] = []
+        return content
+
+    def requirements(self) -> list[str]:
+        reqs = []
+        req_title = self._cou_doc("h2[data-purpose='requirements-title']")
+        if req_title:
+            req_block = req_title.parent()
+            for requirement_el in req_block.find("ul li .ud-block-list-item-content"):
+                text = requirement_el.text_content().strip()
+                if text:
+                    reqs.append(text)
+        return reqs
+
+    def description(self) -> str | None:
+        desc_el = self._cou_doc(
+            "div[data-purpose='course-description'] div[data-purpose='safely-set-inner-html:description:description']")
+        if desc_el:
+            desc = desc_el.text().strip()
+            if desc:
+                return desc
+        return None
+
+    def target_audience(self) -> list[str]:
+        audience_list = []
+        for li in self._cou_doc(
+            "div[data-purpose='course-description'] div[data-purpose='target-audience'] ul li"):
+            text = li.text_content().strip()
+            if text:
+                audience_list.append(text)
+        return audience_list
 
 def load_done_crawling():
     if DONE_FILE.exists():
@@ -50,11 +107,13 @@ def save_done_crawling_entry(url, main_category, sub_category):
 def is_already_crawled(url, main_category, sub_category, done_list):
     for entry in done_list:
         if entry["url"] == url:
-            if entry["main_category"] == main_category and entry["sub_category"] == sub_category:
-                return "same"
+            main_cat = entry["main_category"]
+            sub_cat = entry["sub_category"]
+            if  main_cat == main_category and sub_cat== sub_category:
+                return "same", None, None
             else:
-                return "different"
-    return False
+                return "different", main_cat, sub_cat
+    return False, None, None
 
 def load_all_course_urls(root_dir: str = "Tutorials_ALL_URLs"):
     """
@@ -114,122 +173,119 @@ def chunked(iterable, size):
     for i in range(0, len(iterable), size):
         yield iterable[i:i+size]
 
-# ---------- CRAWLING LOGIC ----------
-async def crawl_course(page, main_category, sub_category, cou_urls: list[str], file_index: int, done_list: list):
-    safe_sub = sub_category.replace(" ", "_").replace("/", "-")
-    safe_main = main_category.replace(" ", "_")
+def path_maker(main_category, sub_category, file_index):
+    safe_main = sanitize_filename(main_category)
+    # print("safe main is good")
+    safe_sub = sanitize_filename(sub_category)
+    # print("safe sub is good")
 
-    category_dir = OUTPUT_DIR / main_category / sub_category
+    category_dir = OUTPUT_DIR / safe_main / safe_sub
     category_dir.mkdir(parents=True, exist_ok=True)
 
-    out_file = category_dir / f"{safe_main}_{safe_sub}_{file_index}.json"
-    print(f"➡️ Crawling Courses for: {main_category} -> {sub_category}")
+    out_file_path = category_dir / f"{safe_main}_{safe_sub}_{file_index}.json"
 
-    for url in cou_urls[:5]:  # loop over each course
+    return out_file_path
+
+def save_course(out_file: str | Path, course: dict, main_category: str, sub_category: str):
+    """
+    Save a course dict into a JSON file for a given category/subcategory.
+    - Prevents duplicate URLs.
+    - Creates the file if it doesn't exist.
+    
+    Args:
+        out_file (str | Path): Path to the JSON file.
+        course (dict): The course data to save.
+        main_category (str): Main category name.
+        sub_category (str): Subcategory name.
+    """
+    out_file = Path(out_file)
+    
+    if out_file.exists():
+        with open(out_file, "r", encoding="utf-8") as f:
+            existing_data = json.load(f)
+        existing_courses = existing_data.get("courses", [])
+        existing_urls = {c.get("url") for c in existing_courses}
+        if course.get("url") not in existing_urls:
+            existing_courses.append(course)
+        all_courses = existing_courses
+    else:
+        all_courses = [course]
+
+    data = {
+        "main_category": main_category,
+        "sub_category": sub_category,
+        "courses": all_courses
+    }
+
+    with open(out_file, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+
+    print(f"💾 Saved course → {out_file}")
+
+# ---------- CRAWLING LOGIC ----------
+async def crawl_course(page, main_category, sub_category, cou_urls: list[str], out_file: str, done_list):
+    print(f"➡️ Started crawling: {main_category} -> {sub_category}")
+
+    for url in cou_urls:
         try:
-            status = is_already_crawled(url, main_category, sub_category, done_list)
+            status, crawled_in_main_cat, crawled_in_sub_cat = is_already_crawled(url, main_category, sub_category, done_list)
+
+            course = {}
+
+            # Handle URL already crawled in this category
             if status == "same":
                 print(f"✅ Already crawled in this category: {url}")
                 continue
-            elif status == "different":
-                print(f"⚠️ URL already crawled in another category. Logging and skipping: {url}")
-                save_done_crawling_entry(url, main_category, sub_category)
-                done_list.append({"url": url, "main_category": main_category, "sub_category": sub_category})
-                continue
 
-            # Crawl the page
-            course = {}
-            print(f"🌍 Visiting (stealth): {url}")
-            await page.goto(url, wait_until="domcontentloaded", timeout=60000)
-            await asyncio.sleep(random.uniform(2, 5))
+            # Handle URL crawled in a different category
+            if status == "different":
+                print(f"⚠️ URL already crawled in another category: {url}")
+                course["crawled_in_main_category"] = crawled_in_main_cat
+                course["crawled_in_sub_category"] = crawled_in_sub_cat
+                course["url"] = url
 
-            html = await page.content()
-            tut_doc = pq(html)
-
-            # Title
-            title_el = tut_doc("h1.ud-heading-xxl.clp-lead__title.clp-lead__title--small")
-            if title_el:
-                course["title"] = title_el.text().strip()
-
-            # Bio
-            bio_el = tut_doc("div.ud-text-lg.clp-lead__headline")
-            if bio_el:
-                course["bio"] = bio_el.text().strip()
-
-            # Objectives
-            objectives = [pq(obj).text().strip()
-                          for obj in tut_doc("span.what-you-will-learn--objective-item--VZFww")]
-            if objectives:
-                course["objectives"] = objectives
-
-            # Course content
-            course_content = {}
-            for section_el in tut_doc("div.accordion-panel-module--panel--Eb0it.section--panel--qYPjj"):
-                section = pq(section_el)
-                section_title = section("span.section--section-title--svpHP").text().strip()
-                section_sub_titles = [pq(sub).text().strip()
-                                      for sub in section(".section--course-lecture-title--lH1Wi").items()]
-                if section_title:
-                    course_content[section_title] = section_sub_titles
-            if course_content:
-                course["course_content"] = course_content
-
-            # Crawl requirements
-            requirements = []
-            req_title = tut_doc("h2[data-purpose='requirements-title']")
-            if req_title:
-                req_block = req_title.parent()
-                for requirement_el in req_block.find("ul li .ud-block-list-item-content"):
-                    requirement = requirement_el.text_content().strip()
-                    requirements.append(requirement)
-            if requirements:
-                course["requirements"] = requirements
-
-            # Crawl description
-            desc_el = tut_doc("div[data-purpose='course-description'] div[data-purpose='safely-set-inner-html:description:description']")
-            if desc_el:
-                description = desc_el.text().strip()
-                if description:
-                    course["description"] = description
-
-            # Crawl target audience
-            audience = []
-            for li in tut_doc("div[data-purpose='course-description'] div[data-purpose='target-audience'] ul li"):
-                audience.append(li.text_content().strip())
-            if audience:
-                course["target_audience"] = audience
-
-            # Save course immediately
-            if out_file.exists():
-                with open(out_file, "r", encoding="utf-8") as f:
-                    existing_data = json.load(f)
-                existing_courses = existing_data.get("courses", [])
-                existing_urls = {c.get("url") for c in existing_courses}
-                if url not in existing_urls:
-                    existing_courses.append({**course, "url": url})
-                all_courses = existing_courses
             else:
-                all_courses = [{**course, "url": url}]
+                # Crawl the page normally
+                print(f"🌍 Visiting (stealth): {url}")
+                await page.goto(url, wait_until="domcontentloaded", timeout=60000)
+                await asyncio.sleep(random.uniform(2, 5))
 
-            data = {
-                "main_category": main_category,
-                "sub_category": sub_category,
-                "courses": all_courses
-            }
+                html_content = await page.content()
+                course_page = Page(html_content)
 
-            with open(out_file, "w", encoding="utf-8") as f:
-                json.dump(data, f, indent=2, ensure_ascii=False)
-            print(f"💾 Saved course → {out_file}")
+                # Title
+                course["title"] = course_page.title()
 
-            # Mark URL as done immediately
+                # URL
+                course["url"] = url
+
+                # Bio
+                course["bio"] = course_page.bio()
+
+                # Objectives
+                course["objectives"] = course_page.objectives()
+
+                # Course content
+                course["course_content"] = course_page.course_content()
+
+                # Requirements
+                course["requirements"] = course_page.requirements()
+
+                # Description
+                course["description"] = course_page.description()
+
+                # Target audience
+                course["target_audience"] = course_page.target_audience()
+
+            # ---------------- SAVE COURSE ---------------- #
+            save_course(out_file, course, main_category, sub_category)
+
+            # Mark URL as done
             save_done_crawling_entry(url, main_category, sub_category)
-            done_list.append({"url": url, "main_category": main_category, "sub_category": sub_category})
 
         except Exception as e:
             print(f"❌ Error crawling {url}: {e}")
-            # Mark as done even on error to prevent infinite retry
             save_done_crawling_entry(url, main_category, sub_category)
-            done_list.append({"url": url, "main_category": main_category, "sub_category": sub_category})
 
 # ------------------ PARALLEL RUNNER ------------------ #
 async def crawl_multiple(targets, concurrency_limit=3):
@@ -250,17 +306,10 @@ async def crawl_multiple(targets, concurrency_limit=3):
 
         await browser.close()
 
+# --------------------- MAIN FUNCTION ----------------- #
 async def main():
 
     all_urls = load_all_course_urls(INPUT_DIR)
-    done_list = load_done_crawling()
-
-    # Print one category
-    # for main_cat, subs in all_urls.items():
-    #     print(main_cat)
-    #     for sub in subs:
-    #         for sub_cat, urls in sub.items():
-    #             print("  ", sub_cat, "->", len(urls), "urls")
 
     async with Stealth().use_async(async_playwright()) as p:
         browser = await p.chromium.launch(headless=False, args=[
@@ -274,26 +323,28 @@ async def main():
         prev_sub_cat = ''
         file_index = 1
         for i, (main_cat, subs) in enumerate(all_urls.items(), start=1):
-            # print(f"{i} {main_cat} in Progress...")
-            for sub in subs[:1]:
+            print(f"{i} {main_cat} in Progress...")
+            for sub in subs:
                 for sub_cat, urls in sub.items():
+                    done_list = load_done_crawling()
                     if sub_cat == prev_sub_cat:
                         file_index += 1
                     else:
                         prev_sub_cat = sub_cat
                         file_index = 1
-                    targets = {sub_cat: urls}
-                    if i == 1:
-                    #     print(targets)
-                        for urls in targets.values():
-                            await crawl_course(page, main_category=main_cat, sub_category=sub_cat, cou_urls=urls, file_index=file_index, done_list=done_list)
+                    file_path = path_maker(main_cat, sub_cat, file_index)
+                    if Path(file_path).is_file():
+                        print(f"{file_path} is Skipped...")
+                        prev_sub_cat = sub_cat
+                        continue
+                    print(f"➡️ Crawling Courses for: {main_cat}_{sub_cat}_{file_index}")
+                    await crawl_course(page, main_category=main_cat, sub_category=sub_cat, cou_urls=urls, out_file=file_path, done_list=done_list)
 
 
-    # for batch in chunked(targets, 3):
-    #     print(f"🚀 Starting batch with {len(batch)} targets...")
-    #     await crawl_multiple(batch, concurrency_limit=3)  # <= run 3 in parallel
-    #     print("✅ Batch finished")
-
+                    # for batch in chunked(targets, 3):
+                    #     print(f"🚀 Starting batch with {len(batch)} targets...")
+                    #     await crawl_multiple(batch, concurrency_limit=3)  # <= run 3 in parallel
+                    #     print("✅ Batch finished")
 
 if __name__ == "__main__":
     asyncio.run(main())

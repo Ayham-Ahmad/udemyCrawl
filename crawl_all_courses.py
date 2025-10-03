@@ -345,33 +345,43 @@ async def crawl_multiple(targets, concurrency_limit=3):
 async def main():
     all_urls = load_all_course_urls(INPUT_DIR)
 
-    prev_sub_cat = ''
-    file_index = 1
-
-    for i, (main_cat, subs) in enumerate(all_urls.items(), start=1):
-        # print(f"{i} {main_cat} in Progress...")
+    for main_cat, subs in all_urls.items():
         for sub in subs:
             for sub_cat, urls in sub.items():
-                if sub_cat == prev_sub_cat:
+                
+                # Find the next available file index for this sub_cat
+                file_index = 1
+                while True:
+                    file_path = Path(path_maker(main_cat, sub_cat, file_index))
+                    if not file_path.exists():
+                        break
                     file_index += 1
-                else:
-                    prev_sub_cat = sub_cat
-                    file_index = 1
 
-                file_path = path_maker(main_cat, sub_cat, file_index)
-                if Path(file_path).is_file():
-                    # print(f"{file_path} is Skipped...")
-                    prev_sub_cat = sub_cat
+                # Load already crawled URLs from existing files for this sub_cat
+                crawled_urls = set()
+                for old_index in range(1, file_index):  # all earlier files
+                    old_file = Path(path_maker(main_cat, sub_cat, old_index))
+                    if old_file.exists():
+                        try:
+                            with open(old_file, "r", encoding="utf-8") as f:
+                                data = json.load(f)
+                                for c in data.get("courses", []):
+                                    if "url" in c:
+                                        crawled_urls.add(c["url"])
+                        except Exception as e:
+                            print(f"⚠️ Error reading {old_file}: {e}")
+
+                # Filter out URLs that were already crawled
+                new_urls = [u for u in urls if u not in crawled_urls]
+                if not new_urls:
+                    print(f"✅ All URLs already crawled for {main_cat}/{sub_cat}")
                     continue
-                # print(f"➡️ Crawling Courses for: {main_cat}_{sub_cat}_{file_index}")
 
-                # Run in batches of 3
-                for batch in chunked(urls, 3):
-                    print(f"🚀 Starting batch with {len(batch)} targets...")
-                    # Prepare (main, sub, url) tuples for crawl_multiple
+                # Crawl in batches of 3
+                for batch in chunked(new_urls, 3):
+                    print(f"🚀 Crawling batch of {len(batch)} for {main_cat}/{sub_cat}")
                     targets = [(main_cat, sub_cat, u) for u in batch]
                     await crawl_multiple(targets)
                     print("✅ Batch finished")
-
 if __name__ == "__main__":
     asyncio.run(main())

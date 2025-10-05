@@ -21,8 +21,8 @@ OUTPUT_DIR = Path("Tutorials_ALL")
 OUTPUT_DIR.mkdir(exist_ok=True)
 DONE_FILE = Path("done_crawling.json")
 
-BATCH_SIZE = 5          # change to 10 (or any number) if you want bigger batches
-CONCURRENCY_LIMIT = 5   # how many browsers/pages open at once
+BATCH_SIZE = 10          # change to 10 (or any number) if you want bigger batches
+CONCURRENCY_LIMIT = 10   # how many browsers/pages open at once
 
 class Page:
     def __init__(self, html: str):
@@ -289,7 +289,7 @@ async def crawl_course(page, main_category, sub_category, cou_urls: list[str], o
             save_done_crawling_entry(url, main_category, sub_category)
 
 # ------------------ PARALLEL RUNNER ------------------ #
-async def crawl_multiple(targets, concurrency_limit=CONCURRENCY_LIMIT): 
+async def crawl_multiple(targets, concurrency_limit=CONCURRENCY_LIMIT, file_index=1): 
     """ 
     Crawl multiple sub-category URLs in parallel, limited by concurrency_limit. 
     Each task runs in its own browser context (like a new window). 
@@ -334,7 +334,7 @@ async def crawl_multiple(targets, concurrency_limit=CONCURRENCY_LIMIT):
                 save_done_crawling_entry(u, m, s) 
                 continue 
  
-            out_file = path_maker(m, s, 1) 
+            out_file = path_maker(m, s, file_index) 
             tasks.append(sem_task(m, s, u, out_file)) 
  
         if tasks: 
@@ -346,7 +346,7 @@ async def crawl_multiple(targets, concurrency_limit=CONCURRENCY_LIMIT):
 async def main():
     all_urls = load_all_course_urls(INPUT_DIR)
 
-    for (main_cat, subs) in list(all_urls.items())[3:]:
+    for (main_cat, subs) in list(all_urls.items())[5:]:
         print(main_cat)
         for sub in subs:
             for sub_cat, urls in sub.items():
@@ -383,7 +383,7 @@ async def main():
                 for batch in chunked(new_urls, BATCH_SIZE): 
                     print(f"🚀 Crawling batch of {len(batch)} for {main_cat}/{sub_cat}") 
                     targets = [(main_cat, sub_cat, u) for u in batch] 
-                    await crawl_multiple(targets, CONCURRENCY_LIMIT) 
+                    await crawl_multiple(targets, CONCURRENCY_LIMIT, file_index) 
                     print("✅ Batch finished")
 if __name__ == "__main__":
     asyncio.run(main())

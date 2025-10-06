@@ -96,7 +96,7 @@ def load_done_crawling(): # ✅
             return json.load(f)
     return []
 
-async def safe_save_done_crawling(main_category, sub_category, url):
+async def safe_save_done_crawling(main_category, sub_category, url): # ✅
     async with SAVE_LOCK:
         save_done_crawling_entry(main_category, sub_category, url)
 
@@ -218,6 +218,36 @@ def save_course(out_file: Path, course: dict, main_category: str, sub_category: 
 
     print(f"💾 Saved course → {out_file}")
 
+def remaining(verbose=False): # ✅
+    all_urls = load_all_course_urls()
+    done_list = load_done_crawling()
+    done_urls = {entry["url"] for entry in done_list if "url" in entry}
+
+    total_remaining = 0
+
+    message = "📊 Remaining courses per main category:\n" if not verbose else "📊 Remaining courses per main & sub category:\n"
+    print(message)
+
+    for main_cat, subs in all_urls.items():
+        main_total = 0
+        sub_total = []
+        for sub in subs:
+            sub_cat, urls = next(iter(sub.items()))
+            remaining_urls = [u for u in urls if u not in done_urls]
+            main_total += len(remaining_urls)
+
+            if verbose and remaining_urls:
+                sub_total.append({sub_cat: remaining_urls})
+                
+        print(f"{main_cat}: {main_total}")
+        for sub_sum in sub_total:
+            sub_cat, urls = next(iter(sub_sum.items()))
+            print(f"  - {sub_cat}: {len(urls)} remaining")
+
+        total_remaining += main_total
+
+    print(f"\n✅ Total remaining to crawl: {total_remaining}")
+
 # ---------- CRAWLING LOGIC ----------
 async def crawl_course(page, main_category, sub_category, url, out_file: str): # ✅
     print(f"➡️ Started crawling: {main_category} -> {sub_category} -> {url}")
@@ -267,7 +297,6 @@ async def crawl_course(page, main_category, sub_category, url, out_file: str): #
         print(f"❌ Error crawling {url}: {e}")
     finally:
         await page.close()
-
 
 # ------------------ PARALLEL RUNNER ------------------ #
 async def crawl_multiple(targets, out_file, concurrency_limit=CONCURRENCY_LIMIT): # ✅
@@ -333,18 +362,10 @@ async def crawl_multiple(targets, out_file, concurrency_limit=CONCURRENCY_LIMIT)
 async def main(): # ✅
     all_urls = load_all_course_urls() # ✅
 
-    # total = 0
     for (main_cat, subs) in list(all_urls.items())[8:]: # ✅
-        # print(main_cat)
-        # sum = 0
         for sub in subs: # ✅
-    #         sum += len(list(sub.items())[0][1])
-    #     print(sum)
-    #     total += sum
-    # print(f"\n\nTotal: {total}")
             for sub_cat, urls in sub.items(): # ✅
-                # print(f"{sub_cat}: {len(urls)}")
-                
+
                 # Find the next available file index for this sub_cat  # ✅
                 file_index = 1
                 while True:
@@ -383,3 +404,4 @@ async def main(): # ✅
 
 if __name__ == "__main__": # ✅
     asyncio.run(main())
+    # remaining() # just uncomment this line if you want to know how many urls are remaining (don't forget to comment the asyncio.run(main()))

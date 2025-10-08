@@ -1,0 +1,2038 @@
+{
+  "main_category": "it-and-software",
+  "sub_category": "Network & Security",
+  "courses": [
+    {
+      "title": "Cisco CCNA 200-301 (v1.1) Practice Test Certification Exam",
+      "url": "https://www.udemy.com/course/cisco-ccna-200-301-v1-1-practice-test-certification-exam/"
+    },
+    {
+      "title": "Cybersecurity & Cryptography : Secure Data & Networks",
+      "url": "https://www.udemy.com/course/complete-cryptography-guide-secure-data-networks/"
+    },
+    {
+      "title": "Kusto Query Language (KQL) for Cybersecurity",
+      "url": "https://www.udemy.com/course/kusto-query-language-kql-for-cybersecurity/"
+    },
+    {
+      "title": "Master Cloud Security on Microsoft AZURE",
+      "url": "https://www.udemy.com/course/mastering-cloud-security-on-microsoft-azure/"
+    },
+    {
+      "title": "How to Hack The Box To Your OSCP (The Extra Boxes)",
+      "url": "https://www.udemy.com/course/how-to-hack-the-box-to-your-oscp-the-bonus-boxes/"
+    },
+    {
+      "title": "OSINT & Maltego Forensic Tools Beginners to Expert",
+      "url": "https://www.udemy.com/course/maltego-forensic-tool-for-beginners/"
+    },
+    {
+      "title": "Mikrotik Vpn Tunnels Real Labs With OpenVpn ,pptp ,l2tp,sstp",
+      "url": "https://www.udemy.com/course/mikrotik-vpn-tunnels-real-labs-with-openvpn-pptp-l2tpsstp/"
+    },
+    {
+      "title": "Dell EMC Certification Prep: Guide to Core Technologies",
+      "url": "https://www.udemy.com/course/dell-emc-certification-prep-guide-to-core-technologies/"
+    },
+    {
+      "title": "How To Become A Security Operations Center (SOC) Analyst",
+      "url": "https://www.udemy.com/course/how-to-become-a-security-operations-center-soc-analyst/"
+    },
+    {
+      "title": "Manage And Secure Your DNS In The Cloud With AWS Route 53",
+      "url": "https://www.udemy.com/course/manage-and-secure-your-dns-in-the-cloud-with-aws-route-53/"
+    },
+    {
+      "title": "Netcat for Ethical Hackers & Network Ninjas",
+      "url": "https://www.udemy.com/course/learn-hacking-with-netcat-from-scratch/"
+    },
+    {
+      "title": "Certified Professional Ethical Hacker (CPEH)",
+      "url": "https://www.udemy.com/course/certified-professional-ethical-hacker-cpeh/"
+    },
+    {
+      "title": "Ethical Hacking Tools: John The Ripper",
+      "url": "https://www.udemy.com/course/password-cracking-with-john-the-ripper/"
+    },
+    {
+      "title": "IPv6 (Internet Protocol version 6): The Complete Course",
+      "url": "https://www.udemy.com/course/ipv6-internet-protocol-course/"
+    },
+    {
+      "title": "Fundamentals of Cloud computing",
+      "url": "https://www.udemy.com/course/fundamentals-of-cloud/"
+    },
+    {
+      "title": "Windows Server 2016 Administration Masterclass: 2-In-1",
+      "url": "https://www.udemy.com/course/windows-server-2016-administration-masterclass-2-in-1/"
+    },
+    {
+      "title": "Hack The Box - Learn Cyber Security & Ethical Hacking in Fun",
+      "url": "https://www.udemy.com/course/hack-the-box-learn-cyber-security-ethical-hacking-in-fun/"
+    },
+    {
+      "title": "Cybersecurity Defense with GenAI",
+      "url": "https://www.udemy.com/course/cybersecurity-defense-with-genai-r/"
+    },
+    {
+      "title": "Computer Forensics",
+      "url": "https://www.udemy.com/course/digital-forensic-from-scratch/"
+    },
+    {
+      "title": "Cisco SD-WAN Fundamentals",
+      "url": "https://www.udemy.com/course/cisco-sd-wan-onboarding-controllers-using-cisco-pki/"
+    },
+    {
+      "title": "Docker Containers on MikroTik RouterOS",
+      "url": "https://www.udemy.com/course/docker-containers-on-mikrotik-routeros/"
+    },
+    {
+      "title": "Foundations of Networking with Cisco",
+      "url": "https://www.udemy.com/course/foundations-of-networking-with-cisco/"
+    },
+    {
+      "title": "Design, Implement and Deploy Kubernetes Cluster from Scratch",
+      "url": "https://www.udemy.com/course/design-implement-and-deploy-kubernetes-cluster-from-scratch/"
+    },
+    {
+      "title": "Networking Fundamentals: Hands-on Training for Beginners",
+      "url": "https://www.udemy.com/course/networking-fundamentals-training-for-beginners/"
+    },
+    {
+      "title": "Solarwinds: Effective IT infrastructure Monitoring",
+      "url": "https://www.udemy.com/course/mastering-solarwinds-it-monitoring/"
+    },
+    {
+      "title": "Complete F5 BIGIP 16.1 Bootcamp (LTM,ASM,DNS) P3 -DNS \"GTM\"",
+      "url": "https://www.udemy.com/course/the-complete-f5-bootcamp-ltmasmdns-p2-dns-302-1613/"
+    },
+    {
+      "title": "Sap security Course: Basics, roles and Information Security",
+      "url": "https://www.udemy.com/course/sap-security-course-basics-sap-roles-sap-security-consultant/"
+    },
+    {
+      "title": "Azure Security Administration course with SIMULATIONS",
+      "url": "https://www.udemy.com/course/azure-security-administration-course-with-simulations/"
+    },
+    {
+      "title": "Password Cracking: Brute Forcing",
+      "url": "https://www.udemy.com/course/password-cracking-brute-forcing/"
+    },
+    {
+      "title": "LoRaWAN for Advanced Users",
+      "url": "https://www.udemy.com/course/lorawan-for-advanced-users/"
+    },
+    {
+      "title": "Amazon Web Services - LAMP Setup - Step By Step",
+      "url": "https://www.udemy.com/course/amazon-web-services-lamp-setup-step-by-step/"
+    },
+    {
+      "title": "Getting Started with the Bash Bunny from Hak5",
+      "url": "https://www.udemy.com/course/bashbunny-intro/"
+    },
+    {
+      "title": "GenAI Cybersecurity Solutions",
+      "url": "https://www.udemy.com/course/genai-cybersecurity-solutions-j/"
+    },
+    {
+      "title": "CompTIA Security+:Threats,Vulnerabilities & Mitigations-VOL2",
+      "url": "https://www.udemy.com/course/comptia-sy0-701-threatsvulnerabilities-mitigations-vol-2/"
+    },
+    {
+      "title": "Robotics Process Automation (RPA)Security Risks |Mitigation",
+      "url": "https://www.udemy.com/course/robotics-process-automation-security/"
+    },
+    {
+      "title": "Learning Python Web Penetration Testing",
+      "url": "https://www.udemy.com/course/learning-python-web-penetration-testing/"
+    },
+    {
+      "title": "The Complete guide 0f CISCO iOS Backup and Upgrade",
+      "url": "https://www.udemy.com/course/the-complete-guide-0f-cisco-ios-backup-and-upgrade/"
+    },
+    {
+      "title": "Beyond Hacks: Pro Elite Ethical Hacking & Forensic Part: ONE",
+      "url": "https://www.udemy.com/course/the-art-of-ethical-hacking-learn-to-legally-hack-anonymousl/"
+    },
+    {
+      "title": "Cryptography Basics From Scratch in Python",
+      "url": "https://www.udemy.com/course/cryptography-basics-from-scratch-in-python/"
+    },
+    {
+      "title": "5G O-RAN: Architecture and Key Principles (Open RAN)",
+      "url": "https://www.udemy.com/course/5g-o-ran-architecture-and-key-principles-open-ran/"
+    },
+    {
+      "title": "Cisco ASA Firewall 9.X Training",
+      "url": "https://www.udemy.com/course/asasikandar/"
+    },
+    {
+      "title": "Metasploit: Hands-on Guide to Pentesting with Metasploit",
+      "url": "https://www.udemy.com/course/metasploit-hands-on-guide-to-pentesting-with-metasploit/"
+    },
+    {
+      "title": "The Complete Course of Zabbix and Network Monitoring",
+      "url": "https://www.udemy.com/course/course-zabbix/"
+    },
+    {
+      "title": "The Complete Course of Red Team 2025",
+      "url": "https://www.udemy.com/course/red-team-course/"
+    },
+    {
+      "title": "Networking Protocols (CCENT/CCNA and CompTIA Network+ prep)",
+      "url": "https://www.udemy.com/course/networking-protocols-ccent-ccna-comptianetworkplus-prepcourse/"
+    },
+    {
+      "title": "Vmware by Broadcom - Velocloud SDWAN Labs for beginners",
+      "url": "https://www.udemy.com/course/vmware-broadcom-sdwan-labs-for-beginners/"
+    },
+    {
+      "title": "Essential Computer Networking for DevOps, Cloud and more.",
+      "url": "https://www.udemy.com/course/essential-computer-networking-for-devops-cloud-and-more/"
+    },
+    {
+      "title": "The Complete Practical Ethical Hacking Expert",
+      "url": "https://www.udemy.com/course/the-certified-ethical-hacking-practical-expert-199courses/"
+    },
+    {
+      "title": "Apply Artificial Intelligence in OT Security - AI in Action",
+      "url": "https://www.udemy.com/course/ai-mastery-in-ot-security/"
+    },
+    {
+      "title": "Azure MasterClass: Manage Cloud Storage With Azure Storage",
+      "url": "https://www.udemy.com/course/azure-masterclass-manage-cloud-storage-with-azure-storage/"
+    },
+    {
+      "title": "Complete Home Network Security Monitoring w/ Security Onion",
+      "url": "https://www.udemy.com/course/complete-home-network-security-monitoring-w-security-onion/"
+    },
+    {
+      "title": "ISO 27001 Internal Auditor Certification Practice Tests",
+      "url": "https://www.udemy.com/course/iso-27001-internal-auditor-certification-practice-tests/"
+    },
+    {
+      "title": "The Ultimate CISSP prep course 2023 - Domain 1",
+      "url": "https://www.udemy.com/course/cissp-prep-course-2023-domain-1/"
+    },
+    {
+      "title": "Fixed Line and Broadband Network",
+      "url": "https://www.udemy.com/course/fixed-line-and-broadband-network/"
+    },
+    {
+      "title": "Master fundamentals of General chemistry",
+      "url": "https://www.udemy.com/course/master__fundamentals/"
+    },
+    {
+      "title": "IPsec (IPsecurity) by Arash Deljoo",
+      "url": "https://www.udemy.com/course/ipsec-zero-to-hero-by-arash-deljoo/"
+    },
+    {
+      "title": "Hacking Android Games using GameGuardian for Beginners",
+      "url": "https://www.udemy.com/course/hacking-android-games/"
+    },
+    {
+      "title": "CCNA Service Provider - PART 3/4",
+      "url": "https://www.udemy.com/course/ccnasp333/"
+    },
+    {
+      "title": "Troubleshoot Network Issues",
+      "url": "https://www.udemy.com/course/troubleshoot-network-issues/"
+    },
+    {
+      "title": "Mastering Digital Forensics with FTK Imager",
+      "url": "https://www.udemy.com/course/mastering-digital-forensics-with-ftk-imager/"
+    },
+    {
+      "title": "The Complete Ethical Hacking, Pen Testing : System Security",
+      "url": "https://www.udemy.com/course/the-complete-ethical-hacking-pen-testing-enbd/"
+    },
+    {
+      "title": "AI Cybersecurity Fundamentals for Absolute Beginners!!",
+      "url": "https://www.udemy.com/course/ai-cybersecurity-fundamentals-for-absolute-beginners/"
+    },
+    {
+      "title": "Cisco virtual Port Channel (vPC) by Arash Deljoo",
+      "url": "https://www.udemy.com/course/cisco-vpc-virtual-port-channel-by-arash-deljoo/"
+    },
+    {
+      "title": "Cisco WLC 9800 Security BYOD Guest Access LabsWith Cisco ISE",
+      "url": "https://www.udemy.com/course/cisco-wlc-9800-security-byod-guest-access-labs-with-cisco-ise/"
+    },
+    {
+      "title": "Ethical Hacking + Bug Bounty in IT Security",
+      "url": "https://www.udemy.com/course/ethical-hacking-bug-bounty-in-it-security/"
+    },
+    {
+      "title": "Ansible for Network Engineers - Beginners Guide",
+      "url": "https://www.udemy.com/course/automation-for-network-engineers/"
+    },
+    {
+      "title": "Become a Professional Penetration Tester",
+      "url": "https://www.udemy.com/course/ethical-hacking-pentester/"
+    },
+    {
+      "title": "Automotive Ethernet",
+      "url": "https://www.udemy.com/course/automotive-ethernet-basic/"
+    },
+    {
+      "title": "CompTIA Security+ SY0-701 with Cloud and Networking",
+      "url": "https://www.udemy.com/course/comptia-sec/"
+    },
+    {
+      "title": "Check Point Advanced Network Threat Prevention [Sandblast]",
+      "url": "https://www.udemy.com/course/check-point-sandblast-course/"
+    },
+    {
+      "title": "pfSense LABS for Beginners",
+      "url": "https://www.udemy.com/course/pfsense-labs-for-beginners/"
+    },
+    {
+      "title": "Linux Security: Network Defense with Snort",
+      "url": "https://www.udemy.com/course/linux-security-network-defense-with-snort/"
+    },
+    {
+      "title": "CYBER LAW FOR EVERY PROFESSIONAL - DR. PAVAN DUGGAL",
+      "url": "https://www.udemy.com/course/cyber-law-for-every-professional-dr-pavan-duggal-clu/"
+    },
+    {
+      "title": "Cisco CyberOps Associate - Practice Exams (300 Questions)",
+      "url": "https://www.udemy.com/course/cisco-cyberops-associate-practice-exams/"
+    },
+    {
+      "title": "Ethical Hacking of RESTful and GraphQL APIs Training Course",
+      "url": "https://www.udemy.com/course/ethical-hacking-of-restful-and-graphql-apis-training-course/"
+    },
+    {
+      "title": "Learn IoT based Automation System",
+      "url": "https://www.udemy.com/course/internet-of-things-iot-from-scratch-to-advance/"
+    },
+    {
+      "title": "Certified Security Leadership Officer (CSLO)",
+      "url": "https://www.udemy.com/course/certified-security-leadership-officer-cslo/"
+    },
+    {
+      "title": "Metasploit: Ethical hacking and Penetration testing on Kali",
+      "url": "https://www.udemy.com/course/ethical-hacking-with-metasploit/"
+    },
+    {
+      "title": "Malware Forensics Mastery v1:Static & Cloud Malware Analysis",
+      "url": "https://www.udemy.com/course/malware-forensics-v1static-cloud-malware-analysis-mastery/"
+    },
+    {
+      "title": "Ethical Hacking techniques and Networks Security",
+      "url": "https://www.udemy.com/course/mis-part1/"
+    },
+    {
+      "title": "CheckPoint Firewall Administration - Quantum Spark",
+      "url": "https://www.udemy.com/course/check-point-quantum-spark-ngfw-essentials/"
+    },
+    {
+      "title": "Kubernetes Hands-on for the Absolute Beginners",
+      "url": "https://www.udemy.com/course/kubernetes-hands-on-for-the-absolute-beginners/"
+    },
+    {
+      "title": "Cyber Security Masterclass: Testing and Security Assessment",
+      "url": "https://www.udemy.com/course/cyber-security-masterclass-testing-and-security-assessment/"
+    },
+    {
+      "title": "Advanced Ethical Hacking: Network-Web PenTest-1 HandsOn_Labs",
+      "url": "https://www.udemy.com/course/advanced-ethical-hacking-network-web-pentesting-part-1/"
+    },
+    {
+      "title": "6G Total Overview: Spectrum, Sensing, Metaverse",
+      "url": "https://www.udemy.com/course/6g-total-overview/"
+    },
+    {
+      "title": "Hash cracking,Ethical hacking,pentesting, John, hashcat tool",
+      "url": "https://www.udemy.com/course/hash-cracking-password-hacking-and-pentesting-cybersecurit/"
+    },
+    {
+      "title": "Information Security Risk Management (ISO 27005)",
+      "url": "https://www.udemy.com/course/information-security-risk-management-iso-27005/"
+    },
+    {
+      "title": "THE ART OF WEB SECURITY TESTING",
+      "url": "https://www.udemy.com/course/the-art-of-web-security-testing/"
+    },
+    {
+      "title": "OWASP Mobile Security Testing Top 10 Vulnerabilities",
+      "url": "https://www.udemy.com/course/owasp-mobile-security-testing-top-10-ethical-hacking/"
+    },
+    {
+      "title": "Hacking tutorial: Undetectable Payloads",
+      "url": "https://www.udemy.com/course/hacking-tutorial-undetectable-payloads/"
+    },
+    {
+      "title": "DevOps: Configuration Management, CI/CD, Monitoring-Security",
+      "url": "https://www.udemy.com/course/devops-configuration-management-cicd-monitoring-security/"
+    },
+    {
+      "title": "Mastering CAN bus System",
+      "url": "https://www.udemy.com/course/mastering-can-bus-system/"
+    },
+    {
+      "title": "Video streaming workflows and AWS Cloud",
+      "url": "https://www.udemy.com/course/streaming-media/"
+    },
+    {
+      "title": "VMware vCenter Mastery: vCenter and vCenter Appliance Guide",
+      "url": "https://www.udemy.com/course/vmware-vcenter-virtualization/"
+    },
+    {
+      "title": "CompTIA Security+ OFFICIAL Video Training Partner (SY0-501)",
+      "url": "https://www.udemy.com/course/comptia-security-official-video-training-partner-sy0-501/"
+    },
+    {
+      "title": "LogRhythm Central Administration – Novice to Professional",
+      "url": "https://www.udemy.com/course/logrhythm-central-administration-novice-to-professional/"
+    },
+    {
+      "title": "Learn Kali Linux from Scratch: Master 100+ Built-In Tools",
+      "url": "https://www.udemy.com/course/learn-kali-linux-from-scratch-master-100-built-in-tools/"
+    },
+    {
+      "title": "Surveillance in the frame of Ethical Hacking",
+      "url": "https://www.udemy.com/course/surveillance-the-frame-of-ethical-hacking/"
+    },
+    {
+      "title": "OWASP TOP 10: File upload vulnerabilities ~2023",
+      "url": "https://www.udemy.com/course/file-upload-vulnerabilities-best-course/"
+    },
+    {
+      "title": "CCNP Service Provider -300-515 SPVI",
+      "url": "https://www.udemy.com/course/spvi300515/"
+    },
+    {
+      "title": "Networking Fundamentals - IP, DHCP, ARP and NAT",
+      "url": "https://www.udemy.com/course/networking-fundamentals-ip/"
+    },
+    {
+      "title": "F5 BIG-IP Local Traffic Manager (LTM) Training",
+      "url": "https://www.udemy.com/course/f5-big-ip-ltm-course/"
+    },
+    {
+      "title": "Metasploit Framework for Beginners",
+      "url": "https://www.udemy.com/course/metasploit-framework-for-beginners/"
+    },
+    {
+      "title": "MikroTik WiFiwave2 and CAPsMAN v3",
+      "url": "https://www.udemy.com/course/mikrotik-wifiwave2-and-capsman-v3/"
+    },
+    {
+      "title": "Cyber Security Fundamentals One",
+      "url": "https://www.udemy.com/course/cyber-security-fundamentals-one/"
+    },
+    {
+      "title": "Case Studies of Award-Winning XSS Attacks: Part 2",
+      "url": "https://www.udemy.com/course/case-studies-of-award-winning-xss-attacks-part-2/"
+    },
+    {
+      "title": "Practical CCTV (Analogue and IP) installation Course",
+      "url": "https://www.udemy.com/course/how-to-install-analogue-cctv/"
+    },
+    {
+      "title": "Learn NxtGen Ethical Hacking with Technology",
+      "url": "https://www.udemy.com/course/learn-nextgen-hacking-with-technology/"
+    },
+    {
+      "title": "Cryptography for Beginners to the Advanced Level",
+      "url": "https://www.udemy.com/course/cryptography-for-beginners/"
+    },
+    {
+      "title": "Computer Security: Fundamental Concepts and Practices",
+      "url": "https://www.udemy.com/course/computer-security-fundamental-concepts-and-practices/"
+    },
+    {
+      "title": "AI Agents for Cybersecurity: Fundamental Basics!!",
+      "url": "https://www.udemy.com/course/ai-agents-for-cybersecurity-fundamental-basics/"
+    },
+    {
+      "title": "Exploit Development From Scratch",
+      "url": "https://www.udemy.com/course/exploit-development-from-scratch/"
+    },
+    {
+      "title": "Router Commands for Networking Students",
+      "url": "https://www.udemy.com/course/understand-router-commands-in-1-hr-for-ccna-ccnp-students/"
+    },
+    {
+      "title": "How to become a Computer Technical Support Specialist",
+      "url": "https://www.udemy.com/course/how-to-become-a-computer-technical-support-specialist/"
+    },
+    {
+      "title": "IP Addressing and Subnetting Unleashed: From Novice to Ninja",
+      "url": "https://www.udemy.com/course/ip-addressing-and-subnetting-networking-subnet-masking/"
+    },
+    {
+      "title": "Advanced Hacking Mindset: The Cyber Kill Chain",
+      "url": "https://www.udemy.com/course/inside-the-hackers-mind-exploring-the-cyber-kill-chain/"
+    },
+    {
+      "title": "Top 100 Interesting Bugs | Ethical Hacking & Bug Bounty",
+      "url": "https://www.udemy.com/course/top-100-interesting-bugs-ethical-hacking-bug-bounty/"
+    },
+    {
+      "title": "Check Point Firewalls Troubleshooting Expert Course (CCTE)",
+      "url": "https://www.udemy.com/course/check-point-firewalls-troubleshooting-expert-course-ccte/"
+    },
+    {
+      "title": "Fundamentals of Auth0: Modernizing Identity!!",
+      "url": "https://www.udemy.com/course/fundamentals-of-auth0-modernizing-identity/"
+    },
+    {
+      "title": "Crack the Cyber Security Career Code",
+      "url": "https://www.udemy.com/course/crack-the-cyber-security-career-code/"
+    },
+    {
+      "title": "Breaking APIs: An Offensive API Pentesting Course",
+      "url": "https://www.udemy.com/course/breaking-apis-an-offensive-api-pentesting-course/"
+    },
+    {
+      "title": "Prometheus And Grafana - Learn Monitoring & Alerting Today",
+      "url": "https://www.udemy.com/course/prometheus-and-grafana-learn-monitoring-alerting-today/"
+    },
+    {
+      "title": "CentOS 7: A Complete Guide!: 2-in-1",
+      "url": "https://www.udemy.com/course/centos-7-a-complete-guide-2-in-1/"
+    },
+    {
+      "title": "Identity Management on Linux FreeIPA IdM",
+      "url": "https://www.udemy.com/course/identity-management-on-linux/"
+    },
+    {
+      "title": "OSINT for hackers and penetration testers",
+      "url": "https://www.udemy.com/course/osint-for-hackers-and-penetration-testers/"
+    },
+    {
+      "title": "Hands On AI (LLM) Red Teaming",
+      "url": "https://www.udemy.com/course/hands-on-ai-llm-red-teaming/"
+    },
+    {
+      "title": "AWS Security Groups and Network ACLs",
+      "url": "https://www.udemy.com/course/aws-security-groups-and-network-acls/"
+    },
+    {
+      "title": "Mastering Of FortiGate Firewall NSE4 & NSE5 Training",
+      "url": "https://www.udemy.com/course/hindi-mastering-of-fortigate-firewall-nse4-nse5-training/"
+    },
+    {
+      "title": "Threat Hunting with Data Science and Splunk for Beginners",
+      "url": "https://www.udemy.com/course/threat-hunting-with-data-science-and-splunk-for-beginners/"
+    },
+    {
+      "title": "How To Write Powerful Executive Reports in Infosec",
+      "url": "https://www.udemy.com/course/how-to-write-powerful-executive-reports-in-infosec/"
+    },
+    {
+      "title": "Cryptography in Cyber Security with Python",
+      "url": "https://www.udemy.com/course/cryptography-in-cyber-security/"
+    },
+    {
+      "title": "FCP-FortiGate 7.6 Administrator Training Part 1/2",
+      "url": "https://www.udemy.com/course/fcp-fortigate-76-administrator-training-part-12/"
+    },
+    {
+      "title": "Blue Team (Boot Camp) Defensive Security Essential Training",
+      "url": "https://www.udemy.com/course/blue-team-boot-camp-defensive-security-essential-training/"
+    },
+    {
+      "title": "2017 - How to Stay Anonymous Online - VPN TOR Mobile Email",
+      "url": "https://www.udemy.com/course/2015-how-to-stay-anonymous-online-vpn-tor-mobile-email/"
+    },
+    {
+      "title": "OneLogin - IAM tactics for beginner / intermediate levels",
+      "url": "https://www.udemy.com/course/onelogin/"
+    },
+    {
+      "title": "System Penetration Testing And Ethical Hacking",
+      "url": "https://www.udemy.com/course/pentesting_system/"
+    },
+    {
+      "title": "Networking Fundamentals: Build a solid foundation",
+      "url": "https://www.udemy.com/course/cybr-networking-fundamentals/"
+    },
+    {
+      "title": "Learn Caddy Webserver in less than 2 hours",
+      "url": "https://www.udemy.com/course/learn-caddy-webserver-in-less-than-2-hours/"
+    },
+    {
+      "title": "Mastering Nuclei with Automation for Pentest & BugBounty2025",
+      "url": "https://www.udemy.com/course/mastering-nuclei-with-automation-for-pentesting-bug-bounty-by-hacktify/"
+    },
+    {
+      "title": "Let's Hack ANDROID : BUG BOUNTY & Penetration Testing",
+      "url": "https://www.udemy.com/course/bug-bounty-hunting-practical-android-penetration-testing/"
+    },
+    {
+      "title": "The Basics of DAO (Autonomous Organization) in Blockchain",
+      "url": "https://www.udemy.com/course/introduction-to-decentralized-autonomous-organization-dao-blockchain/"
+    },
+    {
+      "title": "Real-World Kubernetes In Action",
+      "url": "https://www.udemy.com/course/real-world-kubernetes-in-action/"
+    },
+    {
+      "title": "Cyber Security SOC Analyst :- System Attacks from Scratch",
+      "url": "https://www.udemy.com/course/cyber-security-soc-analyst-system-attacks-from-scratch/"
+    },
+    {
+      "title": "VoIP and IP Telephony Fundamentals course - For Beginners",
+      "url": "https://www.udemy.com/course/voip-and-ip-telephony-fundamentals-part-2/"
+    },
+    {
+      "title": "Practical Security Investigation with Splunk, Wazuh, Osquery",
+      "url": "https://www.udemy.com/course/practical-security-investigation-with-splunk-wazuh-osquery/"
+    },
+    {
+      "title": "Third-Party Risk Analyst Interview Playbook.",
+      "url": "https://www.udemy.com/course/third-party-risk-analyst-interview-playbook/"
+    },
+    {
+      "title": "Complete OSPF for Juniper JNCIS JNCIP",
+      "url": "https://www.udemy.com/course/ospf-for-juniper-jncis-jncip/"
+    },
+    {
+      "title": "CEH - Practice Tests (Set of 6 Practice Tests) #UNOFFICIAL#",
+      "url": "https://www.udemy.com/course/ceh-practice-tests/"
+    },
+    {
+      "title": "ORAN : Beginner to Expert level with 5G-ORAN lab Testing",
+      "url": "https://www.udemy.com/course/oran-beginner-to-expert-level-with-5g-oran-lab-testing/"
+    },
+    {
+      "title": "Internet Safety - How to stay safe online",
+      "url": "https://www.udemy.com/course/how-to-stay-safe-online/"
+    },
+    {
+      "title": "Master Segment Routing with MPLS: From Basics to Advance",
+      "url": "https://www.udemy.com/course/master-segment-routing-with-mpls-from-basics-to-advance/"
+    },
+    {
+      "title": "Advanced Cybersecurity & Ethical Hacking: Tools & Techniques",
+      "url": "https://www.udemy.com/course/cyber-security-and-ethical-hacking/"
+    },
+    {
+      "title": "CCNP SECURITY - SVPN 300-730 PART 3/3",
+      "url": "https://www.udemy.com/course/svpn300-730-part13/"
+    },
+    {
+      "title": "IP Networks for the Absolute Beginners - Part 1",
+      "url": "https://www.udemy.com/course/master-computer-networks-from-zero/"
+    },
+    {
+      "title": "Social Engineering With Generative AI - Learn How To Defend",
+      "url": "https://www.udemy.com/course/social-engineering-with-genai-generative-ai/"
+    },
+    {
+      "title": "Implementing Multi-Factor Authentication",
+      "url": "https://www.udemy.com/course/implementing-mfa/"
+    },
+    {
+      "title": "Cybersecurity Masterclass: Risk Management & Compliance",
+      "url": "https://www.udemy.com/course/cybersecurity-security-solutions-risk-mitigation/"
+    },
+    {
+      "title": "Ethical Hacking: Man in the Middle Attacks Basic to Advance",
+      "url": "https://www.udemy.com/course/ethical-hacking-man-in-the-middle-attacks/"
+    },
+    {
+      "title": "Practical NIST Risk Management Framework(RMF) Implementation",
+      "url": "https://www.udemy.com/course/practical-nist-risk-management-framework-implementation/"
+    },
+    {
+      "title": "Networking Fundamentals & Troubleshooting Masterclass",
+      "url": "https://www.udemy.com/course/learn-the-fundamentals-of-networking-joshua_israel/"
+    },
+    {
+      "title": "Cisco DNA Center Automation",
+      "url": "https://www.udemy.com/course/cisco-dna-center-automation/"
+    },
+    {
+      "title": "ManageEngine ADManager Plus - Active Directory Management",
+      "url": "https://www.udemy.com/course/manageengine-admanager-plus-active-directory-management/"
+    },
+    {
+      "title": "Security Testing Basics (Getting started for Beginners)",
+      "url": "https://www.udemy.com/course/security-testing-basics-getting-started-for-beginners/"
+    },
+    {
+      "title": "NEW CCNA 200-301 PART 1/6",
+      "url": "https://www.udemy.com/course/ccna200-301-1/"
+    },
+    {
+      "title": "CYBERCRIME IN SOCIAL MEDIA & LAW - DR. PAVAN DUGGAL - CLU",
+      "url": "https://www.udemy.com/course/cybercrime-in-social-media-law-dr-pavan-duggal-clu/"
+    },
+    {
+      "title": "Practice Test:SC-200: Microsoft Security Operations Analyst",
+      "url": "https://www.udemy.com/course/practice-testsc-200-microsoft-security-operations-analyst/"
+    },
+    {
+      "title": "Using Wireshark for traffic analysis in digital substations",
+      "url": "https://www.udemy.com/course/using-wireshark-for-traffic-analysis-in-digital-substations/"
+    },
+    {
+      "title": "CCNP R&S – 300-101 Route Labs Only",
+      "url": "https://www.udemy.com/course/ccnp-route-labs-only/"
+    },
+    {
+      "title": "Computer Virus Alarms: 15 Warning Signals",
+      "url": "https://www.udemy.com/course/15-signs-to-tell-that-your-computer-has-got-virus/"
+    },
+    {
+      "title": "A to Z: Digital Forensics and Cyber Crime Investigations",
+      "url": "https://www.udemy.com/course/a-to-z-digital-forensics-and-cyber-crime-investigations/"
+    },
+    {
+      "title": "Cisco Network Security Packet Tracer Activities Guide",
+      "url": "https://www.udemy.com/course/ccna-security-activities-guide-h/"
+    },
+    {
+      "title": "Learn Social Engineering Attacks Using Android Without Root",
+      "url": "https://www.udemy.com/course/learn-ethical-hacking-with-android-social-engineering/"
+    },
+    {
+      "title": "CCIE v5 Technology Focused Lab : OSPF",
+      "url": "https://www.udemy.com/course/ccie-v5-technology-focused-lab-ospf/"
+    },
+    {
+      "title": "Complete Web Application Offensive Hacking Course:Pro Hacker",
+      "url": "https://www.udemy.com/course/the-practical-guide-to-web-application-offensive-hacking/"
+    },
+    {
+      "title": "Mastering Fortinet Firewall Configuration and Management",
+      "url": "https://www.udemy.com/course/mastering-firewall-configuration-and-management/"
+    },
+    {
+      "title": "Cybersecurity & Ethical Hacking: Mastering the Basics",
+      "url": "https://www.udemy.com/course/cybersecurity-exam-fundamentals/"
+    },
+    {
+      "title": "[New] Nuage SD-WAN lab installation in GNS3 step by step",
+      "url": "https://www.udemy.com/course/nuage-sd-wan-lab-installation-in-gns3-step-by-step/"
+    },
+    {
+      "title": "MPLS Intro To Expert",
+      "url": "https://www.udemy.com/course/mpls-intro-to-expert/"
+    },
+    {
+      "title": "Cyber Security - SOC Analyst Interview Question and Answers",
+      "url": "https://www.udemy.com/course/cyber-security-soc-analyst-interview-question-and-answers/"
+    },
+    {
+      "title": "Email phishing",
+      "url": "https://www.udemy.com/course/email-phishing/"
+    },
+    {
+      "title": "Payment Card Industry Professional (PCIP) Practice Test",
+      "url": "https://www.udemy.com/course/payment-card-industry-professional-pcip-practice-test/"
+    },
+    {
+      "title": "Hands-On Linux System Administration",
+      "url": "https://www.udemy.com/course/hands-on-linux-system-administration/"
+    },
+    {
+      "title": "Practical Windows Penetration Testing",
+      "url": "https://www.udemy.com/course/practical-windows-penetration-testing/"
+    },
+    {
+      "title": "BigBlueButton & Jitsi Installation & Configuration",
+      "url": "https://www.udemy.com/course/bigbluebutton-jitsi-installation-configuration/"
+    },
+    {
+      "title": "Fundamental Question on Application of Ethical Hacking",
+      "url": "https://www.udemy.com/course/fundamental-question-on-application-of-ethical-hacking/"
+    },
+    {
+      "title": "Learning Samba Quickly",
+      "url": "https://www.udemy.com/course/learning-samba-quickly/"
+    },
+    {
+      "title": "Mastering Governance, Risk, and Compliance (GRC): A Handbook",
+      "url": "https://www.udemy.com/course/mastering-governance-risk-and-compliance-grc-a-complete/"
+    },
+    {
+      "title": "CompTIA CySA+ REALISTIC Practice Exam (WITH LOGS!)",
+      "url": "https://www.udemy.com/course/comptiacysa/"
+    },
+    {
+      "title": "Exploiting Android Apps for beginners - Check Apps Security",
+      "url": "https://www.udemy.com/course/how-to-hack-android-apps/"
+    },
+    {
+      "title": "Certified Network Forensics Examiner : CNFE",
+      "url": "https://www.udemy.com/course/certified-network-forensics-examiner-cnfe-part1-of-part2/"
+    },
+    {
+      "title": "Software Code Signing For Enhanced Security and Brand Trust",
+      "url": "https://www.udemy.com/course/software-code-signing-for-enhanced-security-and-brand-trust/"
+    },
+    {
+      "title": "Network Security",
+      "url": "https://www.udemy.com/course/network-security-c/"
+    },
+    {
+      "title": "BGP with Cisco&Huawei",
+      "url": "https://www.udemy.com/course/bgp-with-ciscohuawei/"
+    },
+    {
+      "title": "Juniper JNCIA-Junos (JN0-105) - Practice Exam",
+      "url": "https://www.udemy.com/course/jncia-junos-exam/"
+    },
+    {
+      "title": "Learn Active Directory Pentesting for RedTeaming - Part 1",
+      "url": "https://www.udemy.com/course/learn-active-directory-pentesting-for-redteaming-part-1/"
+    },
+    {
+      "title": "Burp Suite: Hands-On Testing on Real Sites with bug bounty",
+      "url": "https://www.udemy.com/course/burp-suite-hands-on-testing-on-real-sites-with-bug-bounty/"
+    },
+    {
+      "title": "Domain Practice Exams for CISA | 700+ IT Auditing Questions",
+      "url": "https://www.udemy.com/course/cisa-certification-exam-mock-questions-updated-2024/"
+    },
+    {
+      "title": "Learn Ethical Hacking From Scratch",
+      "url": "https://www.udemy.com/course/learn-ethical-hacking-from-scratch/"
+    },
+    {
+      "title": "Part 1D - JNCIS-SP BGP",
+      "url": "https://www.udemy.com/course/jncis-bgp/"
+    },
+    {
+      "title": "DevOps: DevOps in the Real World: 3-in-1",
+      "url": "https://www.udemy.com/course/devops-devops-in-the-real-world-3-in-1/"
+    },
+    {
+      "title": "Automobile Hacking and Security v2.0",
+      "url": "https://www.udemy.com/course/automobile-vulnerability-and-security-2v/"
+    },
+    {
+      "title": "Zscaler Client Connector (ZCC) Advance Features",
+      "url": "https://www.udemy.com/course/zscaler-client-connector-zcc-advance-features/"
+    },
+    {
+      "title": "NEW CCNA 200-301 PART 2/6 - Switching",
+      "url": "https://www.udemy.com/course/new-ccna-200-301-part-26-switching/"
+    },
+    {
+      "title": "Practical Nessus Vulnerability Scanning",
+      "url": "https://www.udemy.com/course/practical-nessus-vulnerability-scanning/"
+    },
+    {
+      "title": "CompTIA Cloud+ Advanced",
+      "url": "https://www.udemy.com/course/comptia-cloud-advanced/"
+    },
+    {
+      "title": "Learning Path: Microsoft Azure: Cloud Computing and Storage",
+      "url": "https://www.udemy.com/course/learning-path-microsoft-azure-cloud-computing-and-storage/"
+    },
+    {
+      "title": "Sophos UTM Firewall",
+      "url": "https://www.udemy.com/course/sophos-utm-advanced-course/"
+    },
+    {
+      "title": "Master Splunk: Install, Search, Reports & Security Use Cases",
+      "url": "https://www.udemy.com/course/splunk-mastering-security-data-analysis/"
+    },
+    {
+      "title": "LogRhythm Custom MPE Rules - Parsing the Custom Log Sources",
+      "url": "https://www.udemy.com/course/logrhythm-custom-mpe-rules-parsing-the-custom-log-sources/"
+    },
+    {
+      "title": "Hitachi Storage Administration and Replication",
+      "url": "https://www.udemy.com/course/hitachi-storage-administration-and-replication/"
+    },
+    {
+      "title": "SAP HANA Database Security",
+      "url": "https://www.udemy.com/course/sap-hana-database-security/"
+    },
+    {
+      "title": "Deployment and Management of Azure red-hat open-shift ARO",
+      "url": "https://www.udemy.com/course/deployment-and-management-of-azure-red-hat-open-shift-aro/"
+    },
+    {
+      "title": "Master XSS(Cross Site Scripting) for real world Applications",
+      "url": "https://www.udemy.com/course/master-the-xsscross-site-scripting-for-real-world-apps/"
+    },
+    {
+      "title": "SDR for Ethical Hackers and Security Researchers 4.0",
+      "url": "https://www.udemy.com/course/software-defined-radio-4/"
+    },
+    {
+      "title": "Secure your Home Network with a Raspberry Pi and Python",
+      "url": "https://www.udemy.com/course/secure-your-home-network-with-a-raspberry-pi-and-python/"
+    },
+    {
+      "title": "Pentesters Practical Approach for Bug Hunting and Bug Bounty",
+      "url": "https://www.udemy.com/course/pentesters-practical-approach-for-bug-hunting-and-bug-bounty/"
+    },
+    {
+      "title": "IS-IS Crash Course (Updated 2025): Concepts & Configuration",
+      "url": "https://www.udemy.com/course/is-is-crash-course/"
+    },
+    {
+      "title": "Juniper JNCIS-ENT (JN0-351) - Practice Exam",
+      "url": "https://www.udemy.com/course/jncis-ent-exam/"
+    },
+    {
+      "title": "The Complete Cyber Security Course : Hackers Exposed!",
+      "url": "https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1/"
+    },
+    {
+      "title": "Mastering Windows Server 2019",
+      "url": "https://www.udemy.com/course/mastering-windows-server-2019/"
+    },
+    {
+      "title": "Concepts of Computer Networks",
+      "url": "https://www.udemy.com/course/concepts-of-computer-networks/"
+    },
+    {
+      "title": "Windows & AD Pentesting - Hands-on Lab Scenarios",
+      "url": "https://www.udemy.com/course/windows-ad-pentesting-hands-on-lab-scenarios/"
+    },
+    {
+      "title": "Essentials of Physical Network Connectivity",
+      "url": "https://www.udemy.com/course/understanding-physical-networking/"
+    },
+    {
+      "title": "Okta - OAuth 2.0 and OIDC (OpenID Connect)",
+      "url": "https://www.udemy.com/course/okta-oauth-20-and-oidc-openid-connect/"
+    },
+    {
+      "title": "Java Network Programming: Recipes for Building Web Services",
+      "url": "https://www.udemy.com/course/java-network-programming-recipes-for-building-web-services/"
+    },
+    {
+      "title": "SIP Demystified: A course on Session Initiation Protocol",
+      "url": "https://www.udemy.com/course/sip-voip-session-initiation-protocol/"
+    },
+    {
+      "title": "SOC Cybersecurity Threat Hunting with Splunk",
+      "url": "https://www.udemy.com/course/soc-cybersecurity-threat-hunting-with-splunk/"
+    },
+    {
+      "title": "* Huawei HCIA (HCNA) Configuration Labs *",
+      "url": "https://www.udemy.com/course/huawei-hcia-hcna-configuration-training/"
+    },
+    {
+      "title": "Cisco WLC 9800 Advanced Labs Flexconnect and Wireless 8021X",
+      "url": "https://www.udemy.com/course/cisco-wlc-9800-advanced-labs-flexconnect-and-wireless-8021x/"
+    },
+    {
+      "title": "Automated Cyber Security Incident Response: Outfox adversary",
+      "url": "https://www.udemy.com/course/automated-cyber-security-incident-response-outfox-adversary/"
+    },
+    {
+      "title": "Ethical Hacking: Cybersecurity & Penetration Testing",
+      "url": "https://www.udemy.com/course/ethical-hacking-mastery-cybersecurity-pen-testing/"
+    },
+    {
+      "title": "Cisco CCNA 200-301 – සිංහල",
+      "url": "https://www.udemy.com/course/ccna-sinhala-language/"
+    },
+    {
+      "title": "Ethical Hacking & Cyber Security with Digital Forensics",
+      "url": "https://www.udemy.com/course/ethical-hacking-cyber-security-with-digital-forensics/"
+    },
+    {
+      "title": "Course 6: Automate Administration with PowerShell 2019/2022",
+      "url": "https://www.udemy.com/course/course-6a-powershell-62-windows-server-2019/"
+    },
+    {
+      "title": "Cyber Security & Digital Forensics : From Beginner to Expert",
+      "url": "https://www.udemy.com/course/cyber-security-it-forensics-from-beginner-to-expert/"
+    },
+    {
+      "title": "CCTV VIDEO FOOTAGE AUDITING AND INVESTIGATION - ADVANCED",
+      "url": "https://www.udemy.com/course/cctv-video-footage-auditing-and-investigation-advanced/"
+    },
+    {
+      "title": "Hashcat For Penetration Testers",
+      "url": "https://www.udemy.com/course/hashcat-for-penetration-testers/"
+    },
+    {
+      "title": "Cisco Networking CCNA FHRP",
+      "url": "https://www.udemy.com/course/networkingstepbystep-first-hop-redundancy-protocols/"
+    },
+    {
+      "title": "CyberChef Basics for Beginners",
+      "url": "https://www.udemy.com/course/cyberchef-basics-for-beginners/"
+    },
+    {
+      "title": "COMPLEX CISSP practice questions #1: All CISSP domains 125Q",
+      "url": "https://www.udemy.com/course/cissp-complex-questions-1/"
+    },
+    {
+      "title": "Cisco ACI Fundamentals || ACI & Nexus Automation via Ansible",
+      "url": "https://www.udemy.com/course/cisco-aci-fundamentals/"
+    },
+    {
+      "title": "MikroTik DoH against DNS spoofing attacks",
+      "url": "https://www.udemy.com/course/mikrotik-doh-against-dns-spoofing-attacks/"
+    },
+    {
+      "title": "Learn Hyperledger Fabric Fundamentals",
+      "url": "https://www.udemy.com/course/learn-hyperledger-fabric-fundamentals/"
+    },
+    {
+      "title": "Computer Network Security Protocols And Techniques",
+      "url": "https://www.udemy.com/course/computer-network-security-protocols-cryptography-tls-ssl-ipsec-rsa/"
+    },
+    {
+      "title": "Ultimate Wi Fi Hacking & Security Series 2018",
+      "url": "https://www.udemy.com/course/ultimate-wifi-hacking-security/"
+    },
+    {
+      "title": "Meraki's platform deployment best practice",
+      "url": "https://www.udemy.com/course/merakis-platform-deployment-best-practice/"
+    },
+    {
+      "title": "Security+ (SY0-701) - 1900+ Best Exam Preparation Quizzes",
+      "url": "https://www.udemy.com/course/security-plus-best-quizzes-for-exam-preparation/"
+    },
+    {
+      "title": "Unlocking Nmap: The Ultimate Guide to Network Scanning",
+      "url": "https://www.udemy.com/course/the-magic-of-nmap-master-network-scanning-and-hacking/"
+    },
+    {
+      "title": "Ethical Hacking: Master Password Cracking",
+      "url": "https://www.udemy.com/course/ethical-hacking-master-password-cracking/"
+    },
+    {
+      "title": "Palo Alto Firewall Training | PCNSA/PCNSE Preparation",
+      "url": "https://www.udemy.com/course/palo-alto-firewall-course/"
+    },
+    {
+      "title": "Internet Safety - How to keep your children safe online",
+      "url": "https://www.udemy.com/course/how-to-keep-your-children-safe-online/"
+    },
+    {
+      "title": "Practical Zero Trust Implementation",
+      "url": "https://www.udemy.com/course/practical-zero-trust-implementation/"
+    },
+    {
+      "title": "Ethical Hacking and Penetration Testing",
+      "url": "https://www.udemy.com/course/ethical-hacking-basics-for-dummies/"
+    },
+    {
+      "title": "HTTP Deep Dive",
+      "url": "https://www.udemy.com/course/http-deep-dive/"
+    },
+    {
+      "title": "Burp Suite Certified Practitioner Exam Preparation Training",
+      "url": "https://www.udemy.com/course/burp-suite-certified-practitioner-exam-preparation-training/"
+    },
+    {
+      "title": "Nmap For Ethical Hacking Bootcamp Masterclass For Bug Bounty",
+      "url": "https://www.udemy.com/course/nmap-for-ethical-hacking-bootcamp-masterclass-for-bug-bounty-2025/"
+    },
+    {
+      "title": "Securing Your Bitcoin",
+      "url": "https://www.udemy.com/course/securing-your-bitcoin/"
+    },
+    {
+      "title": "AI-Driven SOC: Fundamentals of Security Operations!!",
+      "url": "https://www.udemy.com/course/ai-driven-soc-fundamentals-of-security-operations/"
+    },
+    {
+      "title": "Cybersecurity Prep 2025: Comprehensive Practice Test Course",
+      "url": "https://www.udemy.com/course/cybersecurity-prep-2024-comprehensive-practice-test-course/"
+    },
+    {
+      "title": "Ethical Hacking with Burp Suite",
+      "url": "https://www.udemy.com/course/attacking-web-applications-with-burp-suite/"
+    },
+    {
+      "title": "Packet Capture Analysis - What You Really Need To Know",
+      "url": "https://www.udemy.com/course/packet-capture-analysis-what-you-really-need-to-know/"
+    },
+    {
+      "title": "Cisco Network Systems Management (CCNA/CCNP)",
+      "url": "https://www.udemy.com/course/managing-cisco-network-devices-netops/"
+    },
+    {
+      "title": "Web Application Penetration Testing Complete Course 2023",
+      "url": "https://www.udemy.com/course/penetration-testing-best-course/"
+    },
+    {
+      "title": "Ethical Hacking & Penetration Testing",
+      "url": "https://www.udemy.com/course/ethical-hacking-penetration-testing-i/"
+    },
+    {
+      "title": "Information Security Incident Management Step by Step",
+      "url": "https://www.udemy.com/course/information-security-incident-management-step-by-step/"
+    },
+    {
+      "title": "Bug Bounty With CVE Hunting Along With Ethical Hacking",
+      "url": "https://www.udemy.com/course/bug-bounty-with-cve-hunting-along-with-ethical-hacking/"
+    },
+    {
+      "title": "Software Supply Chain Security and Risk Masterclass 2025",
+      "url": "https://www.udemy.com/course/software-supply-chain-security-and-risk-masterclass-2024/"
+    },
+    {
+      "title": "Wireshark: A Comprehensive Guide to Network Analysis",
+      "url": "https://www.udemy.com/course/wireshark-network-analysis/"
+    },
+    {
+      "title": "The Complete Ethical Hacking Course: Beginner to Advanced!",
+      "url": "https://www.udemy.com/course/penetration-testing/"
+    },
+    {
+      "title": "IS20 Security Controls Certification",
+      "url": "https://www.udemy.com/course/is20-security-controls-certification/"
+    },
+    {
+      "title": "AWS Infra Design & Provisioning - Case Study",
+      "url": "https://www.udemy.com/course/mastering-public-cloud-design/"
+    },
+    {
+      "title": "CISO Guide to Cyber Resilience",
+      "url": "https://www.udemy.com/course/ciso-guide-to-cyber-resilience/"
+    },
+    {
+      "title": "Kubernetes for Absolute Beginners - Hands-on",
+      "url": "https://www.udemy.com/course/kubernetes-for-absolute-beginners-hands-on/"
+    },
+    {
+      "title": "HackTheBox & TryHackMe- Cyber Security Upskilling Platforms",
+      "url": "https://www.udemy.com/course/hackthebox-tryhackme-cyber-security-upskilling-platforms/"
+    },
+    {
+      "title": "EVE-NG - How To Build Cyber Security and Networking Labs",
+      "url": "https://www.udemy.com/course/eve-ng-how-to-build-cyber-security-and-networking-labs/"
+    },
+    {
+      "title": "AWS Developer : All about Simple Notification Service (SNS)",
+      "url": "https://www.udemy.com/course/aws-developer-all-about-sns/"
+    },
+    {
+      "title": "NIST Cyber Security Framework",
+      "url": "https://www.udemy.com/course/nist-cyber-security-framework-o/"
+    },
+    {
+      "title": "CCNA Labs - Cisco Packet Tracer with Networking Practices",
+      "url": "https://www.udemy.com/course/ccna-labs-cisco-packet-tracer-with-networking-practices/"
+    },
+    {
+      "title": "Active Directory RedTeam Engagement & Lab Setup",
+      "url": "https://www.udemy.com/course/active-directory-read-team-engagement-lab-setup/"
+    },
+    {
+      "title": "Windows 8: Hacking & Securing - Complete Course",
+      "url": "https://www.udemy.com/course/windows-8-hacking-and-securing/"
+    },
+    {
+      "title": "GRC | Risk Management and Controls Expert Masterclass",
+      "url": "https://www.udemy.com/course/introduction-to-risk-management-and-security-controls/"
+    },
+    {
+      "title": "PKI Essentials-Understand the security of Digital Identities",
+      "url": "https://www.udemy.com/course/pki-essentials-understand-the-security-of-digital-identities/"
+    },
+    {
+      "title": "TSHOOT: Troubleshooting & Maintaining Cisco (Part1 of Part2)",
+      "url": "https://www.udemy.com/course/tshoot-troubleshooting-maintaining-cisco-part1-of-part2/"
+    },
+    {
+      "title": "Fortinet Fortigate Firewall Essentials Course with Exercises",
+      "url": "https://www.udemy.com/course/fortinet-fortigate-firewall-essentials-course-with-exercises/"
+    },
+    {
+      "title": "Third Party Risk Management (TPRM) - A Complete Guide",
+      "url": "https://www.udemy.com/course/tprm-supplychain-risk-management/"
+    },
+    {
+      "title": "Network Routing Fundamentals",
+      "url": "https://www.udemy.com/course/routing-fundamentals/"
+    },
+    {
+      "title": "X (Twitter) OSINT Hacking: Ethical Hackers and OSINTeers",
+      "url": "https://www.udemy.com/course/twitter-osint-hacking/"
+    },
+    {
+      "title": "GenAI Cybersecurity Solutions",
+      "url": "https://www.udemy.com/course/genai-cybersecurity-solutions-h/"
+    },
+    {
+      "title": "Linux Administration and Troubleshooting - Masterclass!",
+      "url": "https://www.udemy.com/course/linux-administration-and-troubleshooting-masterclass/"
+    },
+    {
+      "title": "Radio Frequency Fundamentals Quickstart Guide For RF Signals",
+      "url": "https://www.udemy.com/course/radio-frequency-fundamentals-quickstart-guide-for-rf-signals/"
+    },
+    {
+      "title": "JavaScript Security Essentials: Exploring the Attack Surface",
+      "url": "https://www.udemy.com/course/javascript-attack-surface/"
+    },
+    {
+      "title": "Internet Of Things Security: VAPT of IoT devices",
+      "url": "https://www.udemy.com/course/hacking-iot/"
+    },
+    {
+      "title": "23 NYCRR Part 500",
+      "url": "https://www.udemy.com/course/23-nycrr-part-500/"
+    },
+    {
+      "title": "Splunk Cloud Certified Admin",
+      "url": "https://www.udemy.com/course/splunk-cloud-certified-admin/"
+    },
+    {
+      "title": "Cybersecurity Fundamentals Explained Certificate",
+      "url": "https://www.udemy.com/course/cybersecurity-fundamentals-explained-with-brian-mackay/"
+    },
+    {
+      "title": "The Black Terminal: Hacking Basics to Real-World Scenarios",
+      "url": "https://www.udemy.com/course/the-black-terminal-hacking-basics-to-real-world-scenarios/"
+    },
+    {
+      "title": "Puppet 5 - From Beginner to Paid Professional: 2-in-1",
+      "url": "https://www.udemy.com/course/puppet-5-from-beginner-to-paid-professional-2-in-1/"
+    },
+    {
+      "title": "Hacking and Securing Kubernetes Clusters",
+      "url": "https://www.udemy.com/course/hacking-and-securing-kubernetes-clusters/"
+    },
+    {
+      "title": "Linux Command Line From A Hacker's Perspective",
+      "url": "https://www.udemy.com/course/linux-command-lines-from-a-hackers-perspective/"
+    },
+    {
+      "title": "Machine Learning for Red Team Hackers",
+      "url": "https://www.udemy.com/course/machine-learning-for-red-team-hackers/"
+    },
+    {
+      "title": "Identity and Access management - CA SiteMinder [Part 1]",
+      "url": "https://www.udemy.com/course/ca-siteminder-part-1/"
+    },
+    {
+      "title": "Microsoft Excel for Data Analysts",
+      "url": "https://www.udemy.com/course/microsoft-excel-for-data-analysts-t/"
+    },
+    {
+      "title": "Subnetting IPv4 The Easy Way",
+      "url": "https://www.udemy.com/course/subnetting-ipv4-the-easy-way/"
+    },
+    {
+      "title": "MikroTik Network Management with LABS",
+      "url": "https://www.udemy.com/course/mikrotik-network-management-with-labs/"
+    },
+    {
+      "title": "AI in 5G Networks: Deployment Aspects, Risks and Telecom LLM",
+      "url": "https://www.udemy.com/course/5g-ai-networks-and-telecom-llm/"
+    },
+    {
+      "title": "Flutter and Django Course",
+      "url": "https://www.udemy.com/course/flutter-and-django-full-stack-course/"
+    },
+    {
+      "title": "AWS Virtual Private Cloud (VPC) - Hands On Learning!",
+      "url": "https://www.udemy.com/course/aws-virtual-private-cloud-vpc/"
+    },
+    {
+      "title": "IP MASTERCLASS",
+      "url": "https://www.udemy.com/course/ip-master-class/"
+    },
+    {
+      "title": "The Simple CEH Course #UNOFFICIAL#",
+      "url": "https://www.udemy.com/course/the-simple-ceh-course/"
+    },
+    {
+      "title": "Cyber Security 2020: Beginners Guide to Cyber Security™",
+      "url": "https://www.udemy.com/course/cyber-security-for-absolute-beginners/"
+    },
+    {
+      "title": "Amazon VPC Mastery for AWS Certifications",
+      "url": "https://www.udemy.com/course/amazon-vpc-mastery-for-aws-certifications/"
+    },
+    {
+      "title": "Cybersecurity & Information Security Fundamentals",
+      "url": "https://www.udemy.com/course/cybersecurity-information-security-fundamentals/"
+    },
+    {
+      "title": "Ultimate black hat approach to ethical hacking",
+      "url": "https://www.udemy.com/course/ultimate-black-hat-approach-to-ethical-hacking/"
+    },
+    {
+      "title": "CCTV VIDEO FOOTAGE AUDITING AND INVESTIGATION - FUNDAMENTAL",
+      "url": "https://www.udemy.com/course/cctv-video-footage-auditing-and-investigation-fundamental/"
+    },
+    {
+      "title": "Certified Ethical Hacker (CEH) v13 – Complete Course",
+      "url": "https://www.udemy.com/course/certified-ethical-hacker-ceh-v12-complete-course/"
+    },
+    {
+      "title": "JNCIS-SP MPLS PART 1F",
+      "url": "https://www.udemy.com/course/jncis-sp-mpls-part-1f/"
+    },
+    {
+      "title": "OWASP TOP 10: Server-side request forgery SSRF ~2023",
+      "url": "https://www.udemy.com/course/ssrf-best-course/"
+    },
+    {
+      "title": "Cisco SD-WAN Viptela Automation using APIs",
+      "url": "https://www.udemy.com/course/cisco-sd-wan-viptela-automation-using-apis/"
+    },
+    {
+      "title": "GenAI Cybersecurity: OWASP Top 10, MITRE ATLAS & API Attacks",
+      "url": "https://www.udemy.com/course/genai-cybersecurity-owasp-top-10-mitre-atlas-api-attacks/"
+    },
+    {
+      "title": "Certificate of Competence in Zero Trust (CCZT) Training",
+      "url": "https://www.udemy.com/course/introduction-to-certificate-of-competence-in-zero-trust-cczt/"
+    },
+    {
+      "title": "Cybersecurity Solution Architecture 301 (2025 Edition)",
+      "url": "https://www.udemy.com/course/cybersecurity-solution-architecture-301-2025-edition/"
+    },
+    {
+      "title": "ISO/IEC 42001: Cybersecurity Compliance Essentials",
+      "url": "https://www.udemy.com/course/isoiec-42001-cybersecurity-compliance-essentials/"
+    },
+    {
+      "title": "Advance Microsoft Intune Endpoint Manager MDM / MAM Training",
+      "url": "https://www.udemy.com/course/advance-microsoft-intune-endpoint-manager-mdm-mam-training/"
+    },
+    {
+      "title": "Juniper JNCIA OSPF",
+      "url": "https://www.udemy.com/course/networkingstepbystep-juniper-network-jncia-ospf/"
+    },
+    {
+      "title": "Master EC-Council Certified CISO (CCISO) Certification",
+      "url": "https://www.udemy.com/course/master-ec-council-certified-ciso-cciso-certification/"
+    },
+    {
+      "title": "Cybersecurity: Password Hacking and Malware security",
+      "url": "https://www.udemy.com/course/password-hacking-malware-security/"
+    },
+    {
+      "title": "How to set up a Smart Contract",
+      "url": "https://www.udemy.com/course/how-to-set-up-a-smart-contract/"
+    },
+    {
+      "title": "Network Security: Protocols, Architecture, and Defense",
+      "url": "https://www.udemy.com/course/network-security-protocols-architecture-and-defense/"
+    },
+    {
+      "title": "IoT Application Development with ESP Rainmaker",
+      "url": "https://www.udemy.com/course/esp-rainmaker/"
+    },
+    {
+      "title": "MikroTik Hotspot using RouterOS v7",
+      "url": "https://www.udemy.com/course/mikrotik-hotspot-using-routeros-v7/"
+    },
+    {
+      "title": "Hands On: Azure Sentinel Cloud SIEM & SOAR",
+      "url": "https://www.udemy.com/course/azure-sentinel-hands-on-first-cloud-based-siem-soar/"
+    },
+    {
+      "title": "Cisco CallManager Automation with Python (Zeep & Pandas)",
+      "url": "https://www.udemy.com/course/cisco-callmanager-automation-with-python/"
+    },
+    {
+      "title": "SDR for Ethical Hackers and Security Researchers 5.0",
+      "url": "https://www.udemy.com/course/software-defined-radio-5/"
+    },
+    {
+      "title": "CCIE - MPLS Design and Configuration",
+      "url": "https://www.udemy.com/course/ccie-mpls-design-and-configuration/"
+    },
+    {
+      "title": "How to Secure Your Servers, Network and Infrastructure",
+      "url": "https://www.udemy.com/course/adminsecurity/"
+    },
+    {
+      "title": "Google Certified Associate Cloud Engineer Real Practice Exam",
+      "url": "https://www.udemy.com/course/google-associate-cloud-engineer-gcp-test-sets/"
+    },
+    {
+      "title": "Hack like a white hat hacker - A practical introduction",
+      "url": "https://www.udemy.com/course/hack-like-a-white-hat-hacker-a-practical-introduction/"
+    },
+    {
+      "title": "Fundamentals of Artificial Intelligence and Cyber Security",
+      "url": "https://www.udemy.com/course/fundamentals-of-artificial-intelligence-cyber-security/"
+    },
+    {
+      "title": "Cybersecurity Hands-On Training: Beginner to Advanced",
+      "url": "https://www.udemy.com/course/cybersecurity-hands-on-training-beginner-to-advanced/"
+    },
+    {
+      "title": "Routing with Traefik: Learn Traefik in less than 2 hours",
+      "url": "https://www.udemy.com/course/routing-with-traefik-learn-traefik-in-less-than-2-hours/"
+    },
+    {
+      "title": "Network Automation & Programmability Foundations",
+      "url": "https://www.udemy.com/course/network-automation-programmability-foundations/"
+    },
+    {
+      "title": "Course 11: SQL Server 2019 on Windows Server 2019 Series",
+      "url": "https://www.udemy.com/course/course-11-sql-server-2019-on-windows-server-2019/"
+    },
+    {
+      "title": "Network Analysis Using Wireshark 3",
+      "url": "https://www.udemy.com/course/network-analysis-using-wireshark-3/"
+    },
+    {
+      "title": "ABC of Cisco ACI Fundamentals",
+      "url": "https://www.udemy.com/course/cisco-aci-fundamentals-o/"
+    },
+    {
+      "title": "Splunk Administration & Architecture",
+      "url": "https://www.udemy.com/course/splunk-implementation-for-enterprises/"
+    },
+    {
+      "title": "Juniper IP Fabric EVPN-VXLAN",
+      "url": "https://www.udemy.com/course/juniper-ip-fabric-evpn-vxlan/"
+    },
+    {
+      "title": "Follow Me to Learn Wireshark Packet Capture",
+      "url": "https://www.udemy.com/course/follow-me-to-learn-wireshark/"
+    },
+    {
+      "title": "Network+ (N10-009) - 1400+ Best Exam Preparation Quizzes",
+      "url": "https://www.udemy.com/course/comptia-network-n10-009-practical-course-2500-quiz-2-exams/"
+    },
+    {
+      "title": "Live Master Email Security Spot Phishing & Spam Fast 2025",
+      "url": "https://www.udemy.com/course/live-master-email-security-spot-phishing-spam-fast-2025/"
+    },
+    {
+      "title": "Cyber Crime and Fraud Management: Online Fraud Protection",
+      "url": "https://www.udemy.com/course/cyber-crime-and-fraud-management-online-fraud-protection/"
+    },
+    {
+      "title": "How to create REST API's - Create & Consume (2020)",
+      "url": "https://www.udemy.com/course/restful-api-with-aspnet-core-31-server-client/"
+    },
+    {
+      "title": "CISRM - Certified Information Systems Risk Manager",
+      "url": "https://www.udemy.com/course/certified-information-systems-risk-manager/"
+    },
+    {
+      "title": "LEARNING PATH: Master Continuous Delivery Pipeline with Ease",
+      "url": "https://www.udemy.com/course/learning-path-master-continuous-delivery-pipeline-with-ease/"
+    },
+    {
+      "title": "Introduction to NIS2 Directive",
+      "url": "https://www.udemy.com/course/introduction-to-nis2-directive/"
+    },
+    {
+      "title": "IPv6 Tutorials- Learn the Basics",
+      "url": "https://www.udemy.com/course/ipv6-training-videos/"
+    },
+    {
+      "title": "DirectAdmin Complete Installation and Configuration",
+      "url": "https://www.udemy.com/course/directadmin-complete-installation-and-configuration/"
+    },
+    {
+      "title": "Introduction to Cloud Computing",
+      "url": "https://www.udemy.com/course/introduction-to-cloud-computing-vtc/"
+    },
+    {
+      "title": "Hands-on SOC Analyst Course for Beginners 2025",
+      "url": "https://www.udemy.com/course/practical-soc-analyst-course-beginner-guide/"
+    },
+    {
+      "title": "Password Hacking: Ultimate Guide For Hackers & Developers.",
+      "url": "https://www.udemy.com/course/password-hacking-ultimate-guide/"
+    },
+    {
+      "title": "Master OPNsense Firewall Part 1",
+      "url": "https://www.udemy.com/course/cyber-security-network-security-with-opnsense-firewall/"
+    },
+    {
+      "title": "Adversary Emulation: Mimicking a real-world cyber attack",
+      "url": "https://www.udemy.com/course/adversary-emulation-101-mimicking-a-real-world-cyber-attack/"
+    },
+    {
+      "title": "ISO 27001 Fundamentals",
+      "url": "https://www.udemy.com/course/iso-27001-fundamentals/"
+    },
+    {
+      "title": "Burp Suite in Bug Bounty for Web Application Pentesting",
+      "url": "https://www.udemy.com/course/burp-suite-in-bug-bounty-for-web-application-pentesting/"
+    },
+    {
+      "title": "Troubleshooting Web Applications and APIs",
+      "url": "https://www.udemy.com/course/networking-fundamentals-for-full-stack-web-developers/"
+    },
+    {
+      "title": "Computer Security Made Easy",
+      "url": "https://www.udemy.com/course/computer-security-made-easy/"
+    },
+    {
+      "title": "CCSK v4.0 preparation course -Section2/2Cloud Operations",
+      "url": "https://www.udemy.com/course/preparation-course-for-ccsk-v40-section22cloud-operations/"
+    },
+    {
+      "title": "Data Loss Prevention (DLP) in the modern Enterprise!",
+      "url": "https://www.udemy.com/course/data-loss-prevention-dlp-in-the-enterprise/"
+    },
+    {
+      "title": "Cisco Tetration",
+      "url": "https://www.udemy.com/course/cisco-tetration/"
+    },
+    {
+      "title": "Mastering Black Hat Techniques: A Guide to Hacking & Cyberse",
+      "url": "https://www.udemy.com/course/cybersecurity-mastery-hacking-techniques/"
+    },
+    {
+      "title": "Cybersecurity Solution Architecture 201 (2025 Edition)",
+      "url": "https://www.udemy.com/course/cybersecurity-solution-architecture-201/"
+    },
+    {
+      "title": "Azure KeyVault Course: Learn about Keys,Secrets,Certificates",
+      "url": "https://www.udemy.com/course/key-vault-tutorial-learn-about-keys-secrets-certificates/"
+    },
+    {
+      "title": "Mastering Security Tools on Amazon Cloud",
+      "url": "https://www.udemy.com/course/mastering-security-tools-on-amazon-cloud-aws/"
+    },
+    {
+      "title": "Secure Shell (SSH)",
+      "url": "https://www.udemy.com/course/secure-shell-ssh/"
+    },
+    {
+      "title": "Real World - Penetration Testing With Netcat - (Red Teaming)",
+      "url": "https://www.udemy.com/course/real-world-penetration-testing-with-netcat-red-teaming/"
+    },
+    {
+      "title": "Interactive Dashboards with Python: Plotly/Dash Masterclass",
+      "url": "https://www.udemy.com/course/interactive-dashboards-with-python-plotly-dash-masterclass/"
+    },
+    {
+      "title": "The Concept of Cyber Espionage",
+      "url": "https://www.udemy.com/course/hicsacademyce/"
+    },
+    {
+      "title": "Mastering Ethical Hacking and Web Application Security",
+      "url": "https://www.udemy.com/course/mastering-ethical-hacking-and-web-application-security/"
+    },
+    {
+      "title": "Splunk administration course for absolute beginners | 2022",
+      "url": "https://www.udemy.com/course/splunk-administration-course-for-absolute-beginners-2021/"
+    },
+    {
+      "title": "Introduction to Cybersecurity",
+      "url": "https://www.udemy.com/course/intro-to-cyber-security/"
+    },
+    {
+      "title": "CompTIA Network+ (N10-008) 6 Practice Exams",
+      "url": "https://www.udemy.com/course/comptia-network-n10-008-6-practice-exams/"
+    },
+    {
+      "title": "Cracking the Code: Demystifying Computer Viruses",
+      "url": "https://www.udemy.com/course/understanding-computer-viruses-meaning-purpose-spread/"
+    },
+    {
+      "title": "Networking Basics Made Easy: Beginner’s IT Guide",
+      "url": "https://www.udemy.com/course/it-network-made-easy-foundations-for-net-sys-and-pc-admin/"
+    },
+    {
+      "title": "Mastering AWS: Featuring S3",
+      "url": "https://www.udemy.com/course/mastering-aws-s3-tutorial/"
+    },
+    {
+      "title": "ISO 27001:2022 Cybersecurity Guidelines for Managers",
+      "url": "https://www.udemy.com/course/iso-270012022-cybersecurity-guidelines-for-managers/"
+    },
+    {
+      "title": "IP Addressing and Subnetting - Zero to Hero",
+      "url": "https://www.udemy.com/course/ip-addressing-zero-to-hero/"
+    },
+    {
+      "title": "CCNA 200-301 | Cisco Certified Network Associate Exam Course",
+      "url": "https://www.udemy.com/course/new-cisco-ccna-course/"
+    },
+    {
+      "title": "YARA - Malware Analysis and Threat Detection",
+      "url": "https://www.udemy.com/course/yara-malware/"
+    },
+    {
+      "title": "CCNA Service Provider - PART 4/4",
+      "url": "https://www.udemy.com/course/ccnasp444/"
+    },
+    {
+      "title": "Modern TLS Bootcamp: TLS 1.3, TLS 1.2 & Cert Management",
+      "url": "https://www.udemy.com/course/modern-tls-bootcamp/"
+    },
+    {
+      "title": "Mastering API Security for Pentesting & Bug Bounties 2025",
+      "url": "https://www.udemy.com/course/mastering-api-security-for-pentesting-bug-bounties-2025/"
+    },
+    {
+      "title": "[English] Palo Alto Firewall PCNSA and PCNSE Training",
+      "url": "https://www.udemy.com/course/palo-alto-firewall-pcnsa-and-pcnse-training/"
+    },
+    {
+      "title": "PHP REST API cybersecurity",
+      "url": "https://www.udemy.com/course/php-rest-api-cybersecurity/"
+    },
+    {
+      "title": "Internet Network Ecosystem",
+      "url": "https://www.udemy.com/course/internet-network-ecosystem/"
+    },
+    {
+      "title": "Cyber Security Essentials",
+      "url": "https://www.udemy.com/course/cyber-security-essentials/"
+    },
+    {
+      "title": "Kali Linux from A to Z",
+      "url": "https://www.udemy.com/course/hacking-using-kali-linux-from-a-to-z/"
+    },
+    {
+      "title": "Cryptography Mastery:Learn Encryption & Secure Communication",
+      "url": "https://www.udemy.com/course/a-to-z-of-cryptography/"
+    },
+    {
+      "title": "Pentesting GenAI LLM models: Securing Large Language Models",
+      "url": "https://www.udemy.com/course/pentesting-genai-llm-models/"
+    },
+    {
+      "title": "OWASP Top 10 for Large Language Models",
+      "url": "https://www.udemy.com/course/owasp-top-10-for-llms/"
+    },
+    {
+      "title": "Linux and Windows Pentesting with Python and Kali Linux",
+      "url": "https://www.udemy.com/course/linux-and-windows-pentesting-with-python-and-kali-linux/"
+    },
+    {
+      "title": "CCNP SERVICE PROVIDER - SPRI-300-510",
+      "url": "https://www.udemy.com/course/spri-300-510/"
+    },
+    {
+      "title": "Starting a budget ISP with one MikroTik Router",
+      "url": "https://www.udemy.com/course/starting-a-budget-isp-with-one-mikrotik-router/"
+    },
+    {
+      "title": "Ethical Hacking Complete Course 2017/2018 : kali and Python",
+      "url": "https://www.udemy.com/course/ethical-hacking-course-with-kali-linux-python-programming/"
+    },
+    {
+      "title": "Complete IT Troubleshooting Skill Training 101 Course",
+      "url": "https://www.udemy.com/course/complete-it-troubleshooting-skill-training-101-course-2021/"
+    },
+    {
+      "title": "Threat Detection in an Enterprise",
+      "url": "https://www.udemy.com/course/threat-detection-in-an-enterprise/"
+    },
+    {
+      "title": "Windows Active Directory for IT Security Adepts",
+      "url": "https://www.udemy.com/course/windows-active-directory-for-it-security-adepts/"
+    },
+    {
+      "title": "Enterprise Security Fundamentals",
+      "url": "https://www.udemy.com/course/enterprise-security-fundamentals-d/"
+    },
+    {
+      "title": "Hacking Windows 7: Complete guide to Hardening and Securing",
+      "url": "https://www.udemy.com/course/windows-7-hacking-and-securing/"
+    },
+    {
+      "title": "ISO 27001 Information Security Employee Awareness Training",
+      "url": "https://www.udemy.com/course/iso-27001-information-security-employee-awareness-training/"
+    },
+    {
+      "title": "Official OPNsense Course: Hands-On Labs for Beginners",
+      "url": "https://www.udemy.com/course/official-opnsense-course-hands-on-labs-for-beginners/"
+    },
+    {
+      "title": "OPNsense Firewall: Complete Guide to Network Security",
+      "url": "https://www.udemy.com/course/opnsense-firewall-complete-guide-to-network-security/"
+    },
+    {
+      "title": "Palo Alto Networks certified Sec Eng (PCNSE) practice test",
+      "url": "https://www.udemy.com/course/paloalto-networks-certified-sec-eng-pcnse-practice-test/"
+    },
+    {
+      "title": "Advanced Metasploit Proficiency Exam",
+      "url": "https://www.udemy.com/course/advanced-metasploit-proficiency-exam/"
+    },
+    {
+      "title": "TCP/IP & OSI Models for Beginners",
+      "url": "https://www.udemy.com/course/tcpip-osi-models/"
+    },
+    {
+      "title": "CIPP/E Practice Question Set",
+      "url": "https://www.udemy.com/course/cippe-practice-question-set/"
+    },
+    {
+      "title": "Mastering SSL (TLS), Keys and Certificates Management 2025",
+      "url": "https://www.udemy.com/course/mastering-ssl-tls-keys-and-certificates-management/"
+    },
+    {
+      "title": "Splunk | Splunk Core Certified Power User SPLK 1002 Prep",
+      "url": "https://www.udemy.com/course/splunk-splunk-core-certified-power-user-splk-1002-prep/"
+    },
+    {
+      "title": "Network For Beginners With Lab",
+      "url": "https://www.udemy.com/course/network-for-beginners-with-lab/"
+    },
+    {
+      "title": "Linux Binary Analysis for Ethical Hackers and Pentesters",
+      "url": "https://www.udemy.com/course/linux-binary-analysis-for-ethical-hackers-and-pentesters/"
+    },
+    {
+      "title": "Wireshark | Wireshark Packet Analysis for Network Security",
+      "url": "https://www.udemy.com/course/wireshark-wireshark-packet-analysis-for-network-security/"
+    },
+    {
+      "title": "Cisco CCNA: Networking Patterns, Routing & Switching",
+      "url": "https://www.udemy.com/course/cisco-ccna-networking-architecture-patterns/"
+    },
+    {
+      "title": "ArubaOS CX on GNS3 for LABS Emulation",
+      "url": "https://www.udemy.com/course/arubaos-cx-on-gns3-for-labs-emulation/"
+    },
+    {
+      "title": "Ethical Hacking: WhatsApp Extracting and Decrypting!",
+      "url": "https://www.udemy.com/course/ethical-hacking-whatsapp-extracting-and-decrypting/"
+    },
+    {
+      "title": "Malware Analysis Course for IT Security",
+      "url": "https://www.udemy.com/course/malware-analysis-course-for-it-security/"
+    },
+    {
+      "title": "Fundamentals of Cyber Security",
+      "url": "https://www.udemy.com/course/fundamentals-of-cyber/"
+    },
+    {
+      "title": "Antivirus Uncovered: A Comprehensive Study",
+      "url": "https://www.udemy.com/course/an-in-depth-study-of-antivirus-software/"
+    },
+    {
+      "title": "Palo Alto Networks Next-Generation Firewall Engineer - Exams",
+      "url": "https://www.udemy.com/course/palo-alto-networks-next-generation-firewall-engineer-exams/"
+    },
+    {
+      "title": "ISO 31010:2019 - 30+ Risk Assessment Techniques Explained",
+      "url": "https://www.udemy.com/course/iso-310102019-30-risk-assessment-techniques-explained/"
+    },
+    {
+      "title": "Modbus Communication Protocol: Concise, Clear & Career-Ready",
+      "url": "https://www.udemy.com/course/modbus-communication-protocol-concise-clear-career-ready/"
+    },
+    {
+      "title": "Serverless Apps Development with Azure Functions and Node.js",
+      "url": "https://www.udemy.com/course/serverless-apps-development-with-azure-functions-and-nodejs/"
+    },
+    {
+      "title": "FortiGate LABS for Beginners",
+      "url": "https://www.udemy.com/course/fortigate-labs-for-beginners/"
+    },
+    {
+      "title": "Practical Guide to Windows Pentesting with Kali Linux",
+      "url": "https://www.udemy.com/course/practical-guide-to-windows-pentesting-with-kali-linux/"
+    },
+    {
+      "title": "Ansible for VMware By 20+ Examples",
+      "url": "https://www.udemy.com/course/ansible-for-vmware-by-examples/"
+    },
+    {
+      "title": "Reverse Engineering: Cutter for Beginners",
+      "url": "https://www.udemy.com/course/cutter-for-beginners/"
+    },
+    {
+      "title": "Wireless Hacking - Offensive",
+      "url": "https://www.udemy.com/course/wireless-hacking-offensive/"
+    },
+    {
+      "title": "Ethical Hacking and Cyber security Bootcamp for beginners",
+      "url": "https://www.udemy.com/course/ethical-hacking-and-penetration-testing-preview-course-2017/"
+    },
+    {
+      "title": "Kubernetes for the Absolute Beginners - Hands-on",
+      "url": "https://www.udemy.com/course/learn-kubernetes/"
+    },
+    {
+      "title": "Wireless Security",
+      "url": "https://www.udemy.com/course/wireless-security/"
+    },
+    {
+      "title": "SQL Server Administration & Apache Web Server: SSL & HTTP",
+      "url": "https://www.udemy.com/course/sql-server-administration-apache-web-server-ssl-http/"
+    },
+    {
+      "title": "Learn Secure Database Administration: MS SQL Server Security",
+      "url": "https://www.udemy.com/course/mssql-server-security/"
+    },
+    {
+      "title": "Learn Ethical Hacking & Penetration Testing",
+      "url": "https://www.udemy.com/course/learn-ethical-hacking-penetration-testing/"
+    },
+    {
+      "title": "IPSec IKEv2 Internals",
+      "url": "https://www.udemy.com/course/ipsec-ikev2/"
+    },
+    {
+      "title": "Keep Hacking at HackerOne",
+      "url": "https://www.udemy.com/course/keep-hacking-and-making-money-at-hackerone/"
+    },
+    {
+      "title": "MS-500 Microsoft 365 Security Administration + Practice Exam",
+      "url": "https://www.udemy.com/course/ms-500-microsoft-365-security-admin-associate-practice-exam/"
+    },
+    {
+      "title": "Amazon Appstream 2.0",
+      "url": "https://www.udemy.com/course/aws-appstream-2/"
+    },
+    {
+      "title": "Web Security: OWASP Top 10 for APIs",
+      "url": "https://www.udemy.com/course/web-security-owasp-top-10-for-apis/"
+    },
+    {
+      "title": "IP Addresses and Subnetting",
+      "url": "https://www.udemy.com/course/ip-addresses-and-subnetting/"
+    },
+    {
+      "title": "CISSP - Certified Information Systems Security Professional",
+      "url": "https://www.udemy.com/course/isc2-certified-information-systems-security-professional-cissp/"
+    },
+    {
+      "title": "Cyber Security: Linux Audit",
+      "url": "https://www.udemy.com/course/cyber-security-linux-audit/"
+    },
+    {
+      "title": "Cisco Meraki Power Pact Training",
+      "url": "https://www.udemy.com/course/cisco-meraki-power-pact-training/"
+    },
+    {
+      "title": "Cyber Security: Endpoint Defense",
+      "url": "https://www.udemy.com/course/cyber-security-endpoint-defense/"
+    },
+    {
+      "title": "Cloud Computing & Cloud Native Fundamentals",
+      "url": "https://www.udemy.com/course/cloud-computing-fundamentals-a-crash-course/"
+    },
+    {
+      "title": "Cybersecurity Solution Architecture 101 (2025 Edition)",
+      "url": "https://www.udemy.com/course/cybersecurity-solutions-architecture-101/"
+    },
+    {
+      "title": "Master Subnetting in an Easy Way",
+      "url": "https://www.udemy.com/course/free-ccna-routing-switching-subnetting-online-course/"
+    },
+    {
+      "title": "Cisco FirePower FTD Course | Part-2 FMC",
+      "url": "https://www.udemy.com/course/cisco-firepower-fmc-course/"
+    },
+    {
+      "title": "A Hacker's Guide to Internet Safety and Cybersecurity",
+      "url": "https://www.udemy.com/course/a-hackers-guide-to-internet-safety-and-cybersecurity/"
+    },
+    {
+      "title": "NGINX Bootcamp: From NGINX Basics to Advanced NGINX Mastery",
+      "url": "https://www.udemy.com/course/nginx-bootcamp-from-nginx-basics-to-advanced-nginx-mastery/"
+    },
+    {
+      "title": "Practical Blockchain Security",
+      "url": "https://www.udemy.com/course/practical-blockchain-security/"
+    },
+    {
+      "title": "Privileged Account (Access) Management (PAM) - Course",
+      "url": "https://www.udemy.com/course/privileged-access-managementmastering-security-fundamentals/"
+    },
+    {
+      "title": "Python Hacking Scripts",
+      "url": "https://www.udemy.com/course/python-hacking-scripts/"
+    },
+    {
+      "title": "CompTIA Network+ N10-007",
+      "url": "https://www.udemy.com/course/comptia-network-n10-007-v/"
+    },
+    {
+      "title": "Ethical Hacking™: Learn to hack Websites and Applications",
+      "url": "https://www.udemy.com/course/ethical-hackingtm-learn-to-hack-websites-and-applications/"
+    },
+    {
+      "title": "OWASP Course 2025 | Complete Guide | Beginner Friendly",
+      "url": "https://www.udemy.com/course/best-owasp-course-for-hackers/"
+    },
+    {
+      "title": "Binary Exploits with Python",
+      "url": "https://www.udemy.com/course/binary-exploits-with-python/"
+    },
+    {
+      "title": "Advanced Windows Active Directory Penetration Testing",
+      "url": "https://www.udemy.com/course/advanced-windows-active-directory-penetration-testing/"
+    },
+    {
+      "title": "Learn VirtualBox Basic to Advance",
+      "url": "https://www.udemy.com/course/learn-virtualbox-basic-to-advance/"
+    },
+    {
+      "title": "Data Center Infrastructure & Design: Fire Fighting Design",
+      "url": "https://www.udemy.com/course/data-center-infrastructure-design-fire-fighting-basics/"
+    },
+    {
+      "title": "IS-IS MASTERCLASS",
+      "url": "https://www.udemy.com/course/is-is-masterclass/"
+    },
+    {
+      "title": "Session Border Controller Fundamentals",
+      "url": "https://www.udemy.com/course/session-border-controller-fundamentals/"
+    },
+    {
+      "title": "Cisco Catalyst Center Labs Training New DNA Center WLC 9800",
+      "url": "https://www.udemy.com/course/cisco-catalyst-center-labs-training-new-dna-center-wlc-9800/"
+    },
+    {
+      "title": "High Availability Setup with Heartbeat and Floating IP",
+      "url": "https://www.udemy.com/course/high-availability-setup-with-heartbeat-and-floating-ip/"
+    },
+    {
+      "title": "Wireguard & OpenVPN Server Installation and Configuration",
+      "url": "https://www.udemy.com/course/wireguard-openvpn-server-installation-and-configuration/"
+    },
+    {
+      "title": "Fortinet FortiGate - Firewalling Masterclass 2025",
+      "url": "https://www.udemy.com/course/fortinet-fortigate-pracical-firewalling-course/"
+    },
+    {
+      "title": "Introduction to Chaos & Reliability Engineering [Hands-On]",
+      "url": "https://www.udemy.com/course/introduction-to-chaos-reliability-engineering/"
+    },
+    {
+      "title": "SolarWinds Access Right Manager Data Security-Prevent breach",
+      "url": "https://www.udemy.com/course/solarwinds-arm/"
+    },
+    {
+      "title": "OT Cyber Security 101",
+      "url": "https://www.udemy.com/course/ot-cyber-security-101/"
+    },
+    {
+      "title": "Master Ethical Hacking & Bug Bounty-OSCP 2.0 From Scratch",
+      "url": "https://www.udemy.com/course/master-ethical-hacking-bug-bounty-oscp-2-from-scratch/"
+    },
+    {
+      "title": "Cisco CCNP EIGRP Practical Labs - Basic to Advanced",
+      "url": "https://www.udemy.com/course/eigrp-labs-for-ccna-ccnp-students/"
+    },
+    {
+      "title": "Cisco Meraki Complete Course",
+      "url": "https://www.udemy.com/course/cisco-meraki-mx-training/"
+    },
+    {
+      "title": "Ransomware Attack & Prevention: Everything You Need To Know",
+      "url": "https://www.udemy.com/course/ransomware-attack-prevention/"
+    },
+    {
+      "title": "Ultimate Flipper Zero Course (EN)",
+      "url": "https://www.udemy.com/course/ultimate-flipper-zero-course/"
+    },
+    {
+      "title": "IT Security Fundamentals for Help Desk IT Technical Support",
+      "url": "https://www.udemy.com/course/it-security-fundamentals-for-help-desk-it-technical-support/"
+    },
+    {
+      "title": "Computer Network : Internet Protocol, IPv4 and Subnetting 1.",
+      "url": "https://www.udemy.com/course/mastering-internet-protocol-ipv4-and-subnetting/"
+    },
+    {
+      "title": "Introduction to OVHcloud Public Cloud: A Beginner’s Guide",
+      "url": "https://www.udemy.com/course/ovhcloud/"
+    },
+    {
+      "title": "Issue a Security or Asset Token on Ethereum With No Coding",
+      "url": "https://www.udemy.com/course/issue-a-security-or-asset-token-on-ethereum-with-no-coding/"
+    },
+    {
+      "title": "Format String Vulnerabilities",
+      "url": "https://www.udemy.com/course/format-string-vulnerabilities/"
+    },
+    {
+      "title": "Implement CMMC Model v2.0 – Step by Step",
+      "url": "https://www.udemy.com/course/implement-cmmc-model-v20-step-by-step/"
+    },
+    {
+      "title": "Mastering Cyber Security: Advanced VAPT and Beyond",
+      "url": "https://www.udemy.com/course/mastering-cyber-security-advanced-vapt-and-beyond/"
+    },
+    {
+      "title": "Palo Alto Firewall Administration Course",
+      "url": "https://www.udemy.com/course/palo-alto-firewall-administration-course/"
+    },
+    {
+      "title": "Follow Me to learn Wi-Fi Packet Capture using Wireshark",
+      "url": "https://www.udemy.com/course/wificapture_using_wireshark/"
+    },
+    {
+      "title": "CCNA Service Provider - PART 2/4",
+      "url": "https://www.udemy.com/course/ccnasp222/"
+    },
+    {
+      "title": "OWASP TOP 10: Cross-site scripting (XSS) ~2023",
+      "url": "https://www.udemy.com/course/cross-site-scripting-best-course/"
+    },
+    {
+      "title": "Cross Site Scripting: Attack & Defense",
+      "url": "https://www.udemy.com/course/cross-site-scripting-attack-defense/"
+    },
+    {
+      "title": "Subnetting for Absolute Beginners",
+      "url": "https://www.udemy.com/course/subnetting-for-absolute-beginners/"
+    },
+    {
+      "title": "Cybersecurity course | Vulnerability Assessment | VAPT",
+      "url": "https://www.udemy.com/course/vulnerability-assessment-penetration-testing/"
+    },
+    {
+      "title": "Cyber Security 101 - Introduction",
+      "url": "https://www.udemy.com/course/cyber-information-security-101/"
+    },
+    {
+      "title": "Real-World Cybersecurity with AI",
+      "url": "https://www.udemy.com/course/real-world-cybersecurity-with-ai/"
+    },
+    {
+      "title": "Generative AI for Cybersecurity Experts",
+      "url": "https://www.udemy.com/course/generative-ai-for-cybersecurity-experts/"
+    },
+    {
+      "title": "Nagios | Ultimate IT monitoring guide with EyesOfNetwork",
+      "url": "https://www.udemy.com/course/nagios-ultimate-it-monitoring-guide-with-eyesofnetwork/"
+    },
+    {
+      "title": "Tokenisation and Encryption in Digital Payments: Fintech",
+      "url": "https://www.udemy.com/course/tokenisation-and-encryption-in-digital-payments-fintech-course/"
+    },
+    {
+      "title": "CompTIA A+ Certification ( Part 2 of 2)",
+      "url": "https://www.udemy.com/course/comptia-a-certification-part-2-of-part2/"
+    },
+    {
+      "title": "ISO 27001:2022 Data Classification Step by Step",
+      "url": "https://www.udemy.com/course/iso-27001-data-classification-step-by-step/"
+    },
+    {
+      "title": "OWASP TOP 10: SQL injection ~2023",
+      "url": "https://www.udemy.com/course/sql-injection-best-course/"
+    },
+    {
+      "title": "Mastering Network Security with Sophos XG Firewall",
+      "url": "https://www.udemy.com/course/mastering-network-security-with-sophos-xg-firewall/"
+    },
+    {
+      "title": "CCIE Security Layer 2 Security Deep Dive: Labs",
+      "url": "https://www.udemy.com/course/ccie-security-v50-l2-security-labs-with-baldev/"
+    },
+    {
+      "title": "Mastering In NSX-T Troubleshooting",
+      "url": "https://www.udemy.com/course/mastering-in-nsx-t-troubleshooting/"
+    },
+    {
+      "title": "Defending Against Generative AI-Based Fraud",
+      "url": "https://www.udemy.com/course/fraud-with-gen-ai-defense/"
+    },
+    {
+      "title": "Cisco Switched Network Implementation",
+      "url": "https://www.udemy.com/course/cisco-switched-network-implementation/"
+    },
+    {
+      "title": "Programming For Network Engineers Training With Labs Devasc",
+      "url": "https://www.udemy.com/course/veyhurdam-programming-for-network-engineers-training-with-labs/"
+    }
+  ]
+}

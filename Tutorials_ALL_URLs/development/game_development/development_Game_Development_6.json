@@ -1,0 +1,1122 @@
+{
+  "main_category": "development",
+  "sub_category": "Game Development",
+  "courses": [
+    {
+      "title": "Come creare un videogioco Arcade (PC, Android, iOS, Html 5)",
+      "url": "https://www.udemy.com/course/creare-un-videogioco/"
+    },
+    {
+      "title": "Construct 3 Top Down Shooter - בעברית לילדים",
+      "url": "https://www.udemy.com/course/construct-3-top-down-shooter-hebrew/"
+    },
+    {
+      "title": "Creación y Publicación de Islas en Fortnite para Monetizar.",
+      "url": "https://www.udemy.com/course/creacion-y-publicacion-de-islas-en-fortnite-para-monetizar/"
+    },
+    {
+      "title": "【2025年版】Unity×C#入門｜Playrの周りを回転する武器で敵を倒す2Dゲーム制作講座【Unity6対応】",
+      "url": "https://www.udemy.com/course/2024-unityplayr-2022lts/"
+    },
+    {
+      "title": "Unity初心者講座 - プロの現場ですぐに使えるUnity講座",
+      "url": "https://www.udemy.com/course/anogame_unity_001/"
+    },
+    {
+      "title": "Unity Optimizasyon Teknikleri",
+      "url": "https://www.udemy.com/course/unity-optimizasyon-teknikleri/"
+    },
+    {
+      "title": "Уроки Unity 3D - Разработка игр | Занятия для детей",
+      "url": "https://www.udemy.com/course/unity-3d-aq/"
+    },
+    {
+      "title": "Create a first person shooter from scratch on Unity (हिन्दी)",
+      "url": "https://www.udemy.com/course/firstperson-gameclan/"
+    },
+    {
+      "title": "Kodwise - Unity Başlangıç Eğitimi",
+      "url": "https://www.udemy.com/course/kodwise-unity-baslangic-egitimi/"
+    },
+    {
+      "title": "Diseña y Desarrolla un Videojuego desde cero con Unity 6",
+      "url": "https://www.udemy.com/course/disena-y-desarrolla-un-videojuego-desde-cero-con-unity-6/"
+    },
+    {
+      "title": "Kod Yazmadan 2 Boyutlu Oyun Yapımı (Construct 2 İle)",
+      "url": "https://www.udemy.com/course/kod-yazmadan-2-boyutlu-oyun-yapm-construct-2-ile/"
+    },
+    {
+      "title": "Aprenda Pixel Art do Zero: Curso Prático para Iniciantes",
+      "url": "https://www.udemy.com/course/aprenda-pixel-art-do-zero-para-criancas-e-iniciantes/"
+    },
+    {
+      "title": "Masterclass: Git & source control pour Unreal Engine",
+      "url": "https://www.udemy.com/course/ue-masterclass/"
+    },
+    {
+      "title": "【2025年版】Unity×C#入門｜イライラ棒風の2Dゲーム制作講座【2022LTS(Unity6対応)】",
+      "url": "https://www.udemy.com/course/2024-unity2d-2022lts-y/"
+    },
+    {
+      "title": "Curso básico da GODOT ENGINE 3.2.3",
+      "url": "https://www.udemy.com/course/curso-basico-da-godot-engine-323/"
+    },
+    {
+      "title": "Unityでコインプッシャーゲームを作ろう",
+      "url": "https://www.udemy.com/course/unity-coin-pusher/"
+    },
+    {
+      "title": "Introducción a Roblox Studio: Crea tu primer plataformas",
+      "url": "https://www.udemy.com/course/introduccion-a-roblox-studio-crea-tu-primer-plataformas/"
+    },
+    {
+      "title": "Программирование на C# в Unity",
+      "url": "https://www.udemy.com/course/unityforyou/"
+    },
+    {
+      "title": "Introdução ao 2D Game Kit do Unity",
+      "url": "https://www.udemy.com/course/introducao-2d-game-kit-unity/"
+    },
+    {
+      "title": "【Unity6】Unity × C#で学ぶポップ系カジュアルタワーディフェンスゲーム制作講座",
+      "url": "https://www.udemy.com/course/unity6unity-c/"
+    },
+    {
+      "title": "【Unity】InputSystem入門：新しい入力システムであるInputSystemの基本的な使い方を習得する",
+      "url": "https://www.udemy.com/course/unity-basic-inputsystem/"
+    },
+    {
+      "title": "Основы Риггинга за Час в MAYA!",
+      "url": "https://www.udemy.com/course/maya-base-rigging/"
+    },
+    {
+      "title": "Créez un Flappy Bird Like avec Godot, sans coder !",
+      "url": "https://www.udemy.com/course/creez-un-flappy-bird-like-avec-godot-sans-coder/"
+    },
+    {
+      "title": "【2025年版】Unity×C#入門｜2Dの縦スクロールシューティングゲーム制作講座【Unity6対応】",
+      "url": "https://www.udemy.com/course/2024-unity2d-2022lts-yv/"
+    },
+    {
+      "title": "Como criar seu videogame gratuitamente com o MakeBlock web",
+      "url": "https://www.udemy.com/course/como-projetar-seu-videogame-com-a-plataforma-gratuita-mblock/"
+    },
+    {
+      "title": "Scratch программирование: обучение детей созданию игр",
+      "url": "https://www.udemy.com/course/scratch-cs/"
+    },
+    {
+      "title": "SPRG Studio: Initiation pour créer votre propre Jeux de rôle",
+      "url": "https://www.udemy.com/course/sprg-studio-initiation-pour-creer-votre-propre-jeux-de-role/"
+    },
+    {
+      "title": "Construa o jogo Breakout no Game Maker Studio",
+      "url": "https://www.udemy.com/course/construa-o-jogo-breakout-no-game-maker-studio/"
+    },
+    {
+      "title": "Programmiergrundlagen in Scratch für Anfänger",
+      "url": "https://www.udemy.com/course/programmiergrundlagen-in-scratch/"
+    },
+    {
+      "title": "Unity 6 ile 2D Oyun Yapımı: Kendi Oyununun Geliştiricisi Ol!",
+      "url": "https://www.udemy.com/course/unity-ile-2d-oyun-gelistirme-rehberi/"
+    },
+    {
+      "title": "Kurs podstaw programowania w języku Scratch oparty na grach.",
+      "url": "https://www.udemy.com/course/kurs-podstaw-programowania-w-jezyku-scratch-oparty-na-grach/"
+    },
+    {
+      "title": "Unreal Engine 5.6 Eğitim Seti",
+      "url": "https://www.udemy.com/course/unreal-engine-56-egitim-seti/"
+    },
+    {
+      "title": "Unreal Engine: 50 Dicas e Macetes Para Jogos e Vídeos",
+      "url": "https://www.udemy.com/course/unreal-engine-50-dicas-e-macetes-para-jogos-e-videos/"
+    },
+    {
+      "title": "【2025年版】Unity×C#入門｜レベルアップで強化×タワーディフェンス風×射程のゲーム制作講座【Unity6対応】",
+      "url": "https://www.udemy.com/course/2024-unity-a/"
+    },
+    {
+      "title": "Создание игр на Scratch для школьников",
+      "url": "https://www.udemy.com/course/scratch-ua/"
+    },
+    {
+      "title": "Unity | Editör Window | Kendi pencerelerinizi oluşturun.",
+      "url": "https://www.udemy.com/course/unity-editor-window-kendi-pencerelerinizi-olusturun/"
+    },
+    {
+      "title": "UnityでFlappyBird風ゲームを作ろう",
+      "url": "https://www.udemy.com/course/unity_flappybird/"
+    },
+    {
+      "title": "Создание игр на Python для детей",
+      "url": "https://www.udemy.com/course/python-zt/"
+    },
+    {
+      "title": "虚幻5场景美工速成课",
+      "url": "https://www.udemy.com/course/5-wpvobf/"
+    },
+    {
+      "title": "Unity游戏开发0基础RPG-入门实战",
+      "url": "https://www.udemy.com/course/duoxiaozhang-primaryclass/"
+    },
+    {
+      "title": "[MapleStory Worlds] 초보도 가능한 게임 만들기 - 2편",
+      "url": "https://www.udemy.com/course/maplestory-worlds-2/"
+    },
+    {
+      "title": "Desarrollo de videojuegos con Phaser 3 - Iniciación",
+      "url": "https://www.udemy.com/course/phaser-iniciacion/"
+    },
+    {
+      "title": "【2025年版】Unity×C#入門｜2Dの全方位シューティングゲーム制作講座【2022LTS(Unity6対応)】",
+      "url": "https://www.udemy.com/course/2024-unity2d-2022lts-h/"
+    },
+    {
+      "title": "INSTALAR PTERODACTYL CON IP PARA SERVIDORES DE MINECRAFT",
+      "url": "https://www.udemy.com/course/instalar-pterodactyl-con-playit-para-servidores-de-minecraft/"
+    },
+    {
+      "title": "Создание игр в Minecraft на Python | Занятия для детей",
+      "url": "https://www.udemy.com/course/minecraft-python/"
+    },
+    {
+      "title": "Разработка простой игры в Unity 5",
+      "url": "https://www.udemy.com/course/simple-game-unity-5/"
+    },
+    {
+      "title": "【2025年版】Unity×C#入門講座｜2Dタワーディフェンスゲーム開発マスター｜クリック&バトルシステムの作り方",
+      "url": "https://www.udemy.com/course/2025unityc2d/"
+    },
+    {
+      "title": "Aprenda Unity 5 (2016) - Como criar um jogo de plataforma 3D",
+      "url": "https://www.udemy.com/course/como-criar-um-jogo-de-plataforma-3d-aprenda-unity-5/"
+    },
+    {
+      "title": "Criação de Mapa 2D, Tilemap com o Unity",
+      "url": "https://www.udemy.com/course/criacao-de-mapa-2d-unity/"
+    },
+    {
+      "title": "Unity ile Online RPG Oyunu Yapın! [Ayrıntılı ve İleri Düzey]",
+      "url": "https://www.udemy.com/course/ucretsiz-online-rpg-oyunu-yapn/"
+    },
+    {
+      "title": "Создание игр в Roblox. PUBG. Программирование для детей",
+      "url": "https://www.udemy.com/course/roblox-pubg/"
+    },
+    {
+      "title": "Curso básico de Godot 2D",
+      "url": "https://www.udemy.com/course/curso-basico-de-godot-2d/"
+    },
+    {
+      "title": "わかる！Unity C# ゲーム開発講座 「ポンゲーム編」 ゼロから完成までをじっくり学べる",
+      "url": "https://www.udemy.com/course/unity-pongame/"
+    },
+    {
+      "title": "Básico de desenvolvimento de jogos",
+      "url": "https://www.udemy.com/course/basicodedesenvolvimentodejogos/"
+    },
+    {
+      "title": "Adobe AIR ve ActionScript 3.0 ile Mobil Oyun Programlama",
+      "url": "https://www.udemy.com/course/adobe-air-ve-actionscript-3-ile-mobil-oyun-programlama/"
+    },
+    {
+      "title": "Unreal Engine Blueprints for Architecture/Virtual Scenarios",
+      "url": "https://www.udemy.com/course/unreal-engine-blueprints-for-architecture-virtual-scenarios/"
+    },
+    {
+      "title": "Unity ile 2D Oyun Geliştir",
+      "url": "https://www.udemy.com/course/unity-ile-2d-oyun-gelistir/"
+    },
+    {
+      "title": "Curso básico de Godot 2D - 5a parte",
+      "url": "https://www.udemy.com/course/curso-basico-de-godot-2d-5aparte/"
+    },
+    {
+      "title": "Introducere în Unity: Cum să faci un joc video",
+      "url": "https://www.udemy.com/course/introducere-in-unity/"
+    },
+    {
+      "title": "Unity'de 2D oyun nasıl yapılır",
+      "url": "https://www.udemy.com/course/unity3d-2d-mobil-platformer-yapyoruz/"
+    },
+    {
+      "title": "Construção de cenários com Unity 3D + iluminação",
+      "url": "https://www.udemy.com/course/construcao-de-cenarios-com-unity-3d-iluminacao/"
+    },
+    {
+      "title": "Sıfırdan Görsel Roman (Visual Novel) Yapın",
+      "url": "https://www.udemy.com/course/sfrdan-gorsel-roman-yapn/"
+    },
+    {
+      "title": "리터칭으로 쉽게 가능한 MapleStory Worlds 아바타 아이템 제작!",
+      "url": "https://www.udemy.com/course/maplestory-worlds-ppokkum/"
+    },
+    {
+      "title": "Shooter Top-Down en Godot 4: De Cero hasta el Juego Completo",
+      "url": "https://www.udemy.com/course/shooter-top-down-en-godot-de-cero-hasta-el-juego-completo/"
+    },
+    {
+      "title": "Vuforia 辨識圖互動式 AR 系列：工業應用篇",
+      "url": "https://www.udemy.com/course/vuforia-industry/"
+    },
+    {
+      "title": "Unreal Engine 5 – UMG e UI/UX – Crie Interfaces Incríveis!",
+      "url": "https://www.udemy.com/course/unrealengine5umg/"
+    },
+    {
+      "title": "Roblox Studio: Level 2",
+      "url": "https://www.udemy.com/course/roblox-studio-level-2/"
+    },
+    {
+      "title": "Découverte d'Unreal engine 5 et du langage C++",
+      "url": "https://www.udemy.com/course/decouverte-unreal-engine-4/"
+    },
+    {
+      "title": "Crie Visual Novel e Text-based Games com Twine (open-source)",
+      "url": "https://www.udemy.com/course/crie-visual-novel-e-text-based-games-com-twine-open-source/"
+    },
+    {
+      "title": "Знакомство с Unreal Engine 4",
+      "url": "https://www.udemy.com/course/unreal-engine-4-i/"
+    },
+    {
+      "title": "RPG Core Combat Creator: Learn Intermediate Unity C# Coding",
+      "url": "https://www.udemy.com/course/unityrpg/"
+    },
+    {
+      "title": "Crea Juegos Para Fortnite Con Unreal Engine [UEFN]",
+      "url": "https://www.udemy.com/course/crea-juegos-para-fortnite-con-unreal-engine-uefn/"
+    },
+    {
+      "title": "Game Developer Curso Express: Tower Defense Game en Unity",
+      "url": "https://www.udemy.com/course/game-developer-curso-express-tower-defense-game-en-unity/"
+    },
+    {
+      "title": "Python Pygame ile Helikopter Oyunu: Sıfırdan Oyun Geliştirme",
+      "url": "https://www.udemy.com/course/python-pygame-ile-helikopter-oyunu-sfrdan-oyun-gelistirme/"
+    },
+    {
+      "title": "Crea un juego de Plataformas 3D con Unreal Engine 5",
+      "url": "https://www.udemy.com/course/crea-un-juego-de-plataformas-3d-con-unreal-engine-5/"
+    },
+    {
+      "title": "Learn to Code Blocky Breaker Game with Scratch 3",
+      "url": "https://www.udemy.com/course/belajar-coding-game-dengan-scratch-programming-part-2/"
+    },
+    {
+      "title": "GameMaker: Stwórz grę platformową od podstaw",
+      "url": "https://www.udemy.com/course/gamemaker-stworz-gre-platformowa-od-podstaw/"
+    },
+    {
+      "title": "Sıfırdan İleri Seviye Scratch Eğitimi",
+      "url": "https://www.udemy.com/course/aek-scratch-egitimi/"
+    },
+    {
+      "title": "Unity C# Öğrenmeye Başla",
+      "url": "https://www.udemy.com/course/unity-c-ogrenmeye-basla/"
+    },
+    {
+      "title": "【2025年版】Unity×C#入門｜2Dキャッチゲーム制作講座【2022LTS(Unity6対応)】",
+      "url": "https://www.udemy.com/course/2024-unity2d-2022lts/"
+    },
+    {
+      "title": "JavaScript ile nesne-tabanlı interaktif projeler geliştirmek",
+      "url": "https://www.udemy.com/course/javascript-ile-nesne-tabanli-interaktif-projeler-gelistirmek/"
+    },
+    {
+      "title": "【unity unreal engine gadot ゲーム開発】アプリ時代のゲーム制作　基礎編",
+      "url": "https://www.udemy.com/course/development-game-app/"
+    },
+    {
+      "title": "Introducción al Desarrollo de Videojuegos con Unity 3D",
+      "url": "https://www.udemy.com/course/introduccion-al-desarrollo-de-videojuegos-con-unity-3d/"
+    },
+    {
+      "title": "Pembuatan Game Side Scrolling Sederhana : Game Mechanic",
+      "url": "https://www.udemy.com/course/pembuatan-game-side-scrolling-sederhana-game-mechanic/"
+    },
+    {
+      "title": "Roblox Studio 2025: Erstelle deine eigenen Roblox Spiele",
+      "url": "https://www.udemy.com/course/gamedevbase/"
+    },
+    {
+      "title": "Wer motiviert Kai - Programmiergrundlagen in Scratch",
+      "url": "https://www.udemy.com/course/wer-motiviert-kai-programmiergrundlagen-in-scratch/"
+    },
+    {
+      "title": "Learn Blueprints Programming for Unreal Engine (हिंदी में)",
+      "url": "https://www.udemy.com/course/learn-blueprints-programming-for-unreal-engine/"
+    },
+    {
+      "title": "Come creare un videogioco Platform [ITA] - Senza codici",
+      "url": "https://www.udemy.com/course/come-creare-un-videogioco-platform/"
+    },
+    {
+      "title": "Do ZERO ao Primeiro Jogo com Unity",
+      "url": "https://www.udemy.com/course/dozeroaoprimeirojogo/"
+    },
+    {
+      "title": "虚幻5蓝图初级：小型RTS游戏",
+      "url": "https://www.udemy.com/course/5rts-dvp/"
+    },
+    {
+      "title": "Réaliser Pong en 90 min : Maîtriser Godot par la pratique",
+      "url": "https://www.udemy.com/course/realiser-pong-en-90-min-maitriser-godot-par-la-pratique/"
+    },
+    {
+      "title": "Créez un jeu 2.5D/2D HD avec Aseprite, Blender et Unity !",
+      "url": "https://www.udemy.com/course/creez-un-jeu-2-5d-2d-hd-avec-aseprite-blender-sprytile-et-unity/"
+    },
+    {
+      "title": "Unity ile 2D ve 3D Oyun Geliştirme: Başlangıçtan Uzmanlığa",
+      "url": "https://www.udemy.com/course/unity-ile-2d-ve-3d-oyun-gelistirme-baslangctan-uzmanlga/"
+    },
+    {
+      "title": "Come Creare un Modello 3D per Videogiochi: Corso Base",
+      "url": "https://www.udemy.com/course/creareunmodello3dpervideogiochi/"
+    },
+    {
+      "title": "Basics of Game Mechanics in Unity (हिन्दी)",
+      "url": "https://www.udemy.com/course/unity-hindi-part1/"
+    },
+    {
+      "title": "Unity Guía AVANZADA de Persistencia y Encriptación de datos",
+      "url": "https://www.udemy.com/course/unity-guia-avanzada-de-persistencia-y-encriptacion-de-datos/"
+    },
+    {
+      "title": "Unity ile Mouse-Touch İşlemleri ile Oyun Yapımı",
+      "url": "https://www.udemy.com/course/unity-ile-mouse-touch-islemleri-ile-oyun-yapm/"
+    },
+    {
+      "title": "Nodes: Desenvolva materiais incríveis para seus jogos 3D",
+      "url": "https://www.udemy.com/course/nodes-desenvolva-materiais-incriveis-para-seus-jogos-3d/"
+    },
+    {
+      "title": "ユニティちゃんが教える！初心者向けUnity講座",
+      "url": "https://www.udemy.com/course/unity-chan-tutorial-01/"
+    },
+    {
+      "title": "Haxball Bot Kodlama dersleri",
+      "url": "https://www.udemy.com/course/haxball-bot-kodlama-dersleri/"
+    },
+    {
+      "title": "Aprenda HTML + CSS + Javascript construindo um game (jogo)",
+      "url": "https://www.udemy.com/course/como-construir-um-game-pokemon-com-html-css-javascript/"
+    },
+    {
+      "title": "Programa un Donkey Kong desde cero con Scratch",
+      "url": "https://www.udemy.com/course/programa-un-donkey-kong-desde-cero-con-scratch/"
+    },
+    {
+      "title": "Impara a Sviluppare il tuo Primo Titolo in Prima Persona!",
+      "url": "https://www.udemy.com/course/impara-a-sviluppare-il-tuo-primo-titolo-in-prima-persona/"
+    },
+    {
+      "title": "Unreal Engine 4 Essentials - Uma Introdução Detalhada",
+      "url": "https://www.udemy.com/course/unreal-engine-introducao/"
+    },
+    {
+      "title": "Unity Basic Course in Hindi for Beginners Part 2",
+      "url": "https://www.udemy.com/course/unity-basic-course-in-hindi-for-beginners-part-2/"
+    },
+    {
+      "title": "Unreal Engine 5 PCG: 程式化內容生成",
+      "url": "https://www.udemy.com/course/unreal-engine-5-pcg/"
+    },
+    {
+      "title": "Scratch İle Kodlamayı Öğrenin; Çocuklar Ve Yeni Başlayanlar",
+      "url": "https://www.udemy.com/course/scratch-ile-kodlamay-ogrenin-cocuklar-ve-yeni-baslayanlar/"
+    },
+    {
+      "title": "Haz tu primer Videojuego en Godot 3.2",
+      "url": "https://www.udemy.com/course/godot-3-primer-videojuego/"
+    },
+    {
+      "title": "Tek Projeyle Scratch Öğrenin",
+      "url": "https://www.udemy.com/course/tek-projeyle-scratch-ogrenin/"
+    },
+    {
+      "title": "3D Model Yang Baik Untuk Game",
+      "url": "https://www.udemy.com/course/3d-model-yang-baik-untuk-game/"
+    },
+    {
+      "title": "Godot 4 y GDScript: Primeros pasos",
+      "url": "https://www.udemy.com/course/godot-4-y-gdscript-primeros-pasos/"
+    },
+    {
+      "title": "Swift 4 и SpriteKit: Создаем клон игры Bottle Flip",
+      "url": "https://www.udemy.com/course/ios10-swift-3-spritekit-bottle-flip/"
+    },
+    {
+      "title": "Godot 4 + GDScript 2.0 - Space Shooter",
+      "url": "https://www.udemy.com/course/godot-4-gdscript-20-space-shooter/"
+    },
+    {
+      "title": "Creación de Videojuegos en Unreal Engine para principiantes",
+      "url": "https://www.udemy.com/course/unreal-engine-principiantes/"
+    },
+    {
+      "title": "Gerçekçi 3d Oyun Ekipmanları Modelleme",
+      "url": "https://www.udemy.com/course/blender-ile-eldiven-modelleme-gercekci-oyun-ekipmanlar/"
+    },
+    {
+      "title": "[MapleStory Worlds] 초보도 가능한 게임 만들기 - 3편",
+      "url": "https://www.udemy.com/course/maplestory-worlds-3/"
+    },
+    {
+      "title": "Game Development Course - Begginner to Advance level",
+      "url": "https://www.udemy.com/course/game-development-course-begginner-to-advance-level/"
+    },
+    {
+      "title": "Creación de videojuegos con Scratch",
+      "url": "https://www.udemy.com/course/creacion-de-videojuegos-con-scratch/"
+    },
+    {
+      "title": "retr0의 유니티 클리커 게임 한방에 개발하기",
+      "url": "https://www.udemy.com/course/clicker-in-one/"
+    },
+    {
+      "title": "25+ ASTUCES POUR UNITY ET VOS JEUX VIDÉO !",
+      "url": "https://www.udemy.com/course/25-astuces-et-conseils-de-pro-pour-unity-et-vos-jeux-video/"
+    },
+    {
+      "title": "Kendi CandyCrush temalı oyununuzu GELİŞTİRİN",
+      "url": "https://www.udemy.com/course/kendi-candycrush-temal-oyununuzu-gelistirin/"
+    },
+    {
+      "title": "Crie Jogos em Construct 2: Beat'em up / Brawler",
+      "url": "https://www.udemy.com/course/beatem-up-construct-2/"
+    },
+    {
+      "title": "Unreal Engine 4 Başlangıç Seviye",
+      "url": "https://www.udemy.com/course/unreal-engine-4-baslangc-seviye/"
+    },
+    {
+      "title": "Podstawy języka XOJO część II",
+      "url": "https://www.udemy.com/course/podstawy-jezyka-xojo-czesc-ii/"
+    },
+    {
+      "title": "Создание игр на Unity. Программирование для подростков",
+      "url": "https://www.udemy.com/course/unity-mm/"
+    },
+    {
+      "title": "Game Design Document (GDD): Como Criar, Organizar e Utilizar",
+      "url": "https://www.udemy.com/course/introducao-ao-game-design-document-gdd/"
+    },
+    {
+      "title": "Unreal Engine 5 C++ Game Development (Updated 5.6)",
+      "url": "https://www.udemy.com/course/unrealcourse/"
+    },
+    {
+      "title": "Construct 2 - Como Criar Seu Primeiro Jogo - Iniciante",
+      "url": "https://www.udemy.com/course/construct-2-como-criar-seu-primeiro-jogo-iniciante/"
+    },
+    {
+      "title": "Eğlenceli Kodlama (Programlama) Eğitimi - Bölüm 3",
+      "url": "https://www.udemy.com/course/cocuklar-icin-kodlama-programlama-egitimi-bolum-3/"
+    },
+    {
+      "title": "Costruct 3 - Crie um jogo de plataforma: Estilo Super Mario",
+      "url": "https://www.udemy.com/course/costruct-3-crie-um-jogo-de-plataforma-estilo-super-mario/"
+    },
+    {
+      "title": "Apprends Unity : recrée le célèbre jeu mobile 3D Bridge Race",
+      "url": "https://www.udemy.com/course/unity-bridge-race-jeu-mobile/"
+    },
+    {
+      "title": "Crie Jogos em Construct 2: Roguelike de Plataforma",
+      "url": "https://www.udemy.com/course/roguelike-plataforma-construct-2/"
+    },
+    {
+      "title": "Unreal Engine 4 Création de niveaux à grande échelle",
+      "url": "https://www.udemy.com/course/unreal-engine-4-creation-de-niveaux-a-grande-echelle/"
+    },
+    {
+      "title": "Kodwise - Scratch Başlangıç Eğitimi",
+      "url": "https://www.udemy.com/course/kodwise-scratch-baslangic-egitimi/"
+    },
+    {
+      "title": "Базовый курс по PIXIJS и Tween-анимациям",
+      "url": "https://www.udemy.com/course/pixijs-tween-base-course/"
+    },
+    {
+      "title": "【2025年最新】Unity × C#で作る本格2D戦略型タワーディフェンスゲーム開発講座",
+      "url": "https://www.udemy.com/course/2025unityc2d-t/"
+    },
+    {
+      "title": "Introducción a Programación de Videojuegos con Unity",
+      "url": "https://www.udemy.com/course/introduccion-a-programacion-de-videojuegos-con-unity/"
+    },
+    {
+      "title": "Unity + krita: game comercial com 100 niveis",
+      "url": "https://www.udemy.com/course/unity-krita-a-biblia/"
+    },
+    {
+      "title": "Sviluppiamo un Platform in Unity",
+      "url": "https://www.udemy.com/course/sviluppiamo-un-platform-in-unity/"
+    },
+    {
+      "title": "Conhecendo a Área de Jogos Digitais",
+      "url": "https://www.udemy.com/course/conhecendo-a-area-de-jogos-digitais/"
+    },
+    {
+      "title": "Débuter et créer votre premier jeu avec Unity sans code",
+      "url": "https://www.udemy.com/course/debuter-et-creer-votre-premier-jeux-avec-unity-sans-code/"
+    },
+    {
+      "title": "Godot engine les bases",
+      "url": "https://www.udemy.com/course/godot-engine-les-bases/"
+    },
+    {
+      "title": "Crie um Jogo de Ping Pong 2D na Unity e C#!",
+      "url": "https://www.udemy.com/course/crie-um-jogo-de-ping-pong-na-unity-e-c/"
+    },
+    {
+      "title": "Programación de videojuegos con pygame",
+      "url": "https://www.udemy.com/course/pygame-breakout/"
+    },
+    {
+      "title": "\"Unreal Engine 5 ile Sıfırdan Oyun Yapmayı Öğren\"",
+      "url": "https://www.udemy.com/course/unreal-engine-5-ile-sfrdan-oyun-yapmay-ogren-n/"
+    },
+    {
+      "title": "程式設計邏輯訓練超簡單：Scratch｜動畫遊戲與創意設計主題必修課",
+      "url": "https://www.udemy.com/course/taischoolscratch/"
+    },
+    {
+      "title": "Unity 2D jogo de plataforma básico",
+      "url": "https://www.udemy.com/course/unity-2d-jogo-de-plataforma-basico/"
+    },
+    {
+      "title": "RPG Marker MV Desde 0 De Principiante a Profesioonal",
+      "url": "https://www.udemy.com/course/rpg-marker-mv-desde-0-de-principiante-a-profesioonal/"
+    },
+    {
+      "title": "Crie Seu Primeiro Jogo em Java",
+      "url": "https://www.udemy.com/course/crie-seu-primeiro-jogo-em-java/"
+    },
+    {
+      "title": "Unity Yapay Zeka | Hızlı Ajanı Tahmin Et | Oyun Örneği",
+      "url": "https://www.udemy.com/course/unity-yapay-zeka-hizli-ajani-tahmin-et-oyun-ornegi/"
+    },
+    {
+      "title": "【2025年版】Unity×C#入門｜横からくる敵を倒す2Dタワーディフェンス風ゲーム制作講座【Unity6対応】",
+      "url": "https://www.udemy.com/course/2024-unity-2022lts-z/"
+    },
+    {
+      "title": "Learn to Code Penguin Maze Game with Scratch 3",
+      "url": "https://www.udemy.com/course/belajar-membuat-game-maze-coding-scratch-v3-sampai-tuntas/"
+    },
+    {
+      "title": "पायगेम: हिंदी में पायथन में गेम बनाना सीखें",
+      "url": "https://www.udemy.com/course/pygame101/"
+    },
+    {
+      "title": "Découvrez la réalité augmentée avec Vuforia et Unity",
+      "url": "https://www.udemy.com/course/decouvrez-la-realite-augmentee-avec-vuforia-et-unity-2018/"
+    },
+    {
+      "title": "Unity C# 2019 Multiplayer Oyun Tasarlama",
+      "url": "https://www.udemy.com/course/photonnetwork-ile-unity-de-multiplayer-oyun-tasarlama/"
+    },
+    {
+      "title": "Crie um JOGO simples na Unity 2019 e C#! | (Curso GRATUITO)",
+      "url": "https://www.udemy.com/course/crie-um-jogo-simples-na-unity-2019-curso-gratuito/"
+    },
+    {
+      "title": "Crea tu juego musical Finger Drumming en Unreal Engine 5",
+      "url": "https://www.udemy.com/course/crea-tu-juego-musical-finger-drumming-en-unreal-engine-5/"
+    },
+    {
+      "title": "Complete C# Unity 2D Game Development (Updated To Unity 6)",
+      "url": "https://www.udemy.com/course/unitycourse/"
+    },
+    {
+      "title": "MapleStory Worlds를 활용하여 게임만들기",
+      "url": "https://www.udemy.com/course/maplestory-worlds/"
+    },
+    {
+      "title": "虚幻引擎功能性菜单教程",
+      "url": "https://www.udemy.com/course/jerusvtz/"
+    },
+    {
+      "title": "Aprenda rápido Unity3D",
+      "url": "https://www.udemy.com/course/aprenda-rapido-unity3d/"
+    },
+    {
+      "title": "¡Flappy Bird en Unity! [Parte 1]",
+      "url": "https://www.udemy.com/course/flappy-bird-en-unity-parte-1/"
+    },
+    {
+      "title": "虚幻5进阶Niagara课程【中字】",
+      "url": "https://www.udemy.com/course/5niagara-s/"
+    },
+    {
+      "title": "JavaScriptでジャンプゲーム作成",
+      "url": "https://www.udemy.com/course/javascript-jump_game/"
+    },
+    {
+      "title": "Основы разработки игр. Создай игру на C# и Windows Forms",
+      "url": "https://www.udemy.com/course/c-windows-forms/"
+    },
+    {
+      "title": "GAME DEVELOPMENT WITH CONSTRUCT 2/3 - MASTER COURSE IN HINDI",
+      "url": "https://www.udemy.com/course/game-development-with-construct-23-master-course/"
+    },
+    {
+      "title": "Curso de Introdução a Programação em C# + Unity",
+      "url": "https://www.udemy.com/course/curso-programacao-iniciante-unity-csharp/"
+    },
+    {
+      "title": "Unity Oyun Yapmayı Öğreniyorum",
+      "url": "https://www.udemy.com/course/unity-oyun-yapmay-ogreniyorum/"
+    },
+    {
+      "title": "Уроки Python в мире Minecraft | Программирование для детей",
+      "url": "https://www.udemy.com/course/python-minecraft/"
+    },
+    {
+      "title": "【2025年版】Unity×C#入門｜タワーディフェンス風2Dゲーム制作講座【2022LTS(Unity6対応)】",
+      "url": "https://www.udemy.com/course/2024-unity-2022lts-x/"
+    },
+    {
+      "title": "Paralı Unity3d Assetleri İnceleme",
+      "url": "https://www.udemy.com/course/parali-unity3d-assetleri-inceleme/"
+    },
+    {
+      "title": "Lógica da programação com Unity",
+      "url": "https://www.udemy.com/course/logica-da-programacao-em-unity/"
+    },
+    {
+      "title": "超初心者からのゲームプログラミング入門！JavaScriptでジャンプアクションゲームを作ろう（p5js）",
+      "url": "https://www.udemy.com/course/kumitate_javascriptp5js/"
+    },
+    {
+      "title": "Unity Dersleri (Admob , Play & Search Console , Blogger)",
+      "url": "https://www.udemy.com/course/unity-dersleri-admob-play-search-console-blogger/"
+    },
+    {
+      "title": "Unity ile Mobil 2D Araba Oyunu Yapımı: Sıfırdan Öğrenin!",
+      "url": "https://www.udemy.com/course/unity-mobil-2d-araba-oyunu-/"
+    },
+    {
+      "title": "CREAR UN SERVIDOR DE MODS Y PLUGINS EN MINECRAFT FACIL",
+      "url": "https://www.udemy.com/course/crear-un-servidor-de-mods-y-plugins-en-minecraft-facil/"
+    },
+    {
+      "title": "DESARROLLA tu primer videojuego con Unity 2025 paso a paso",
+      "url": "https://www.udemy.com/course/desarrolla-tu-primer-videojuego-con-unity-2025-paso-a-paso/"
+    },
+    {
+      "title": "Godot 4.0 + C# - Pong",
+      "url": "https://www.udemy.com/course/godot-4-c-pong/"
+    },
+    {
+      "title": "Unity save sistemi | Dosya sistemine kayıt | Belleğe kayıt",
+      "url": "https://www.udemy.com/course/unity-save-sistemi-dosya-sistemine-kayit-bellege-kayit/"
+    },
+    {
+      "title": "Curso de desenvolvimento de scripts no FiveM com foco em NUI",
+      "url": "https://www.udemy.com/course/curso-de-desenvolvimento-de-scripts-no-fivem-com-foco-em-nui/"
+    },
+    {
+      "title": "برمجة الألعاب باستخدام لغة الجافا",
+      "url": "https://www.udemy.com/course/java_game_programming_using_greenfoot/"
+    },
+    {
+      "title": "【2025年版】Unity×C#入門｜2Dの鬼ごっこゲーム制作講座【2022LTS(Unity6対応)】",
+      "url": "https://www.udemy.com/course/2024-unity2d-2022lts-hh/"
+    },
+    {
+      "title": "Inserta tus vídeos en un proyecto de Unity 3D",
+      "url": "https://www.udemy.com/course/inserta-tus-videos-en-un-proyecto-de-unity-3d/"
+    },
+    {
+      "title": "Curso básico de Godot 2D - II",
+      "url": "https://www.udemy.com/course/curso-basico-de-godot-2d-2aparte/"
+    },
+    {
+      "title": "Mengenal Unreal Engine Editor Dari Nol",
+      "url": "https://www.udemy.com/course/mengenal-unreal-engine-editor-dari-nol/"
+    },
+    {
+      "title": "Introducción Gratuita al Unreal Engine 5 por Gastón Cava",
+      "url": "https://www.udemy.com/course/introduccion-gratuita-al-unreal-engine-5-por-gaston-cava/"
+    },
+    {
+      "title": "JOGO DA VELHA JAVA LIBGDX",
+      "url": "https://www.udemy.com/course/jogo-da-velha-java-libgdx/"
+    },
+    {
+      "title": "Créer un jeu d'exploration 3D avec Unity, C# et Blender !",
+      "url": "https://www.udemy.com/course/creer-un-jeu-d-exploration-3d-avec-unity-csharp-et-blender-debutant/"
+    },
+    {
+      "title": "Jogo da Memoria Java LibGDX",
+      "url": "https://www.udemy.com/course/jogo-da-memoria-java-libgdx/"
+    },
+    {
+      "title": "Unity Oyun Projesiyle Uygulamalı Reklam ve Yayınlama Eğitimi",
+      "url": "https://www.udemy.com/course/unity-oyun-ads-publish-play-console-yaynlama-oyun/"
+    },
+    {
+      "title": "Construct 2 / Construct 3 - Crie um jogo de tiro",
+      "url": "https://www.udemy.com/course/construct2-crie-o-jogo-survivor/"
+    },
+    {
+      "title": "Roblox: видеообучение для детей",
+      "url": "https://www.udemy.com/course/roblox-i/"
+    },
+    {
+      "title": "Разработка игр в среде Scratch",
+      "url": "https://www.udemy.com/course/scratch-game/"
+    },
+    {
+      "title": "Unity - Crie sua própria janela de editor personalizada",
+      "url": "https://www.udemy.com/course/unity-crie-sua-propria-janela-de-editor-personalizada/"
+    },
+    {
+      "title": "Crea un videojuego como Flappy Bird desde 0",
+      "url": "https://www.udemy.com/course/crea-un-videojuego-como-flappybird-desde-0/"
+    },
+    {
+      "title": "Introdução ao BOLT: Criando jogos sem programação no Unity",
+      "url": "https://www.udemy.com/course/introducao-ao-bolt-criando-jogos-sem-programacao-no-unity/"
+    },
+    {
+      "title": "Criação de Jogos de Android e iOS com Unity",
+      "url": "https://www.udemy.com/course/criacao-de-jogos-de-android-e-ios-com-unity/"
+    },
+    {
+      "title": "Уроки Scratch 3.0 | Программирование для детей",
+      "url": "https://www.udemy.com/course/scratch-30-f/"
+    },
+    {
+      "title": "C# ile Form'da Uygulamalı Oyun Geliştirme",
+      "url": "https://www.udemy.com/course/csharp-ile-yilan-oyunu-tasarlama/"
+    },
+    {
+      "title": "Scratch 程式遊戲與創意專案 | 點亮孩子的創新思維",
+      "url": "https://www.udemy.com/course/scratch-for-kids/"
+    },
+    {
+      "title": "A narrativa nos jogos de videogame",
+      "url": "https://www.udemy.com/course/a-narrativa-nos-jogos-de-videogame/"
+    },
+    {
+      "title": "Programowanie gier w Unity",
+      "url": "https://www.udemy.com/course/kursunity/"
+    },
+    {
+      "title": "Introducción gratuita al Unreal Engine 4 por VR-School.",
+      "url": "https://www.udemy.com/course/introduccion-gratuita-al-unreal-engine-4-por-vr-school/"
+    },
+    {
+      "title": "Construa Um Game Plataforma Unity 3D",
+      "url": "https://www.udemy.com/course/construa-um-game-plataforma-unity-3d/"
+    },
+    {
+      "title": "Faça um pequeno game casual em construct 2",
+      "url": "https://www.udemy.com/course/faca-um-pequeno-game-casual-em-construct-2/"
+    },
+    {
+      "title": "دورة يونيتي لتصميم المشاهد",
+      "url": "https://www.udemy.com/course/lnspnuin/"
+    },
+    {
+      "title": "3D Fahrzeug-Konfigurator mit Unity erstellen",
+      "url": "https://www.udemy.com/course/3d-fahrzeug-konfigurator-mit-unity-erstellen/"
+    },
+    {
+      "title": "【2025年版】Unity×C#入門｜2D避けゲーム制作講座【2022LTS(Unity6対応)】",
+      "url": "https://www.udemy.com/course/2024-unity2d-2022lts-w/"
+    },
+    {
+      "title": "Game Design desde Cero ¿Cómo diseñar y desarrollar juegos?",
+      "url": "https://www.udemy.com/course/introduccion-al-game-design-aprende-a-crear-juegos-hoy/"
+    },
+    {
+      "title": "虛幻5.3新版Niagara入門教程",
+      "url": "https://www.udemy.com/course/52-niagara/"
+    },
+    {
+      "title": "Introducción a la programación con Scratch",
+      "url": "https://www.udemy.com/course/introduccion-a-la-programacion-con-scratch/"
+    },
+    {
+      "title": "Unity ve C# 'a Giriş",
+      "url": "https://www.udemy.com/course/unity-ve-csharp-a-giris/"
+    },
+    {
+      "title": "[유니티] 2D RPG 쯔꾸르풍 만들기",
+      "url": "https://www.udemy.com/course/keidyunityrpg/"
+    },
+    {
+      "title": "Make Games easily using Construct 2 (Arabic - Part 1)",
+      "url": "https://www.udemy.com/course/construct2ar/"
+    },
+    {
+      "title": "Phaser 3 İle Bouncing Ball Oyunu Geliştirme",
+      "url": "https://www.udemy.com/course/phaser-3-ile-bouncing-ball-oyunu-gelistirme/"
+    },
+    {
+      "title": "Sıfırdan Bedava Unreal Engine 5 FPS Eğitimi",
+      "url": "https://www.udemy.com/course/sfrdan-bedava-unreal-engine-5-fps-egitimi/"
+    },
+    {
+      "title": "Aprenda a Fazer um Jogo 2D sem código em menos de 1 hora",
+      "url": "https://www.udemy.com/course/aprenda-a-fazer-um-jogo-2d-sem-codigo-em-menos-de-1-hora/"
+    },
+    {
+      "title": "गेम कैसे बनाये ? हिंदी में",
+      "url": "https://www.udemy.com/course/how-to-make-game/"
+    },
+    {
+      "title": "Temel Unity Mekanikleri",
+      "url": "https://www.udemy.com/course/temel-unity-oyun-mekanikleri/"
+    },
+    {
+      "title": "Complete C# Unity 3D Game Development in Unity 6",
+      "url": "https://www.udemy.com/course/unitycourse2/"
+    },
+    {
+      "title": "สร้างเกมส์ 2 มิติด้วย Unity2D Game",
+      "url": "https://www.udemy.com/course/2-unity2d-game/"
+    },
+    {
+      "title": "Cómo trabajar de guionista en la industria del videojuego",
+      "url": "https://www.udemy.com/course/trabajar-de-guionista-en-la-industria-del-videojuego/"
+    },
+    {
+      "title": "Unreal Engine 4 criando game Desafios /Aventura",
+      "url": "https://www.udemy.com/course/unreal-engine-4-criando-game-desafios-aventura/"
+    },
+    {
+      "title": "【2025年版】Unity×C#入門｜2D Run&Jumpゲーム制作講座【2022LTS(Unity6対応)】",
+      "url": "https://www.udemy.com/course/2024-unityrunjump-2022lts/"
+    },
+    {
+      "title": "Unity Basic Course in Hindi for Beginners Part 1",
+      "url": "https://www.udemy.com/course/unity-basic-course-in-hindi-for-beginners-part-1/"
+    },
+    {
+      "title": "Создание игр Roblox Studio | Игры для детей",
+      "url": "https://www.udemy.com/course/roblox-studio/"
+    },
+    {
+      "title": "Unity Veri Kaydetme Yöntemleri",
+      "url": "https://www.udemy.com/course/unity-veri-kaydetme-yontemleri/"
+    },
+    {
+      "title": "Survival Horror con Unity (C#) [Ita] (No Beginner)",
+      "url": "https://www.udemy.com/course/survival-horror-con-unity-c-ita-no-beginner/"
+    },
+    {
+      "title": "Unity 3D Particle System",
+      "url": "https://www.udemy.com/course/unity-3d-particle-system/"
+    },
+    {
+      "title": "Come creare un videogioco Platform Con Unity 3D (Facile)",
+      "url": "https://www.udemy.com/course/come-creare-un-videogioco-platform-con-unity-3d-facile/"
+    },
+    {
+      "title": "Aprenda a Criar Jogos 2D e 3D na Unreal Engine 5",
+      "url": "https://www.udemy.com/course/aprenda-a-criar-jogos-2d-e-3d-na-unreal-engine-5/"
+    },
+    {
+      "title": "Membuat Game Puzzle Matematika di Unity 3D",
+      "url": "https://www.udemy.com/course/membuat-game-puzzle-matematika-di-unity-3d/"
+    },
+    {
+      "title": "Konsep Dasar dalam Membuat Desain Game",
+      "url": "https://www.udemy.com/course/game-design-/"
+    },
+    {
+      "title": "Unity Coroutine Kullanımı",
+      "url": "https://www.udemy.com/course/unity-coroutine-kullanimi/"
+    },
+    {
+      "title": "Twine - Crie histórias interativas e não lineares",
+      "url": "https://www.udemy.com/course/curso-twine/"
+    },
+    {
+      "title": "Meu primeiro Jogo com phaser 3 e Ionic 5",
+      "url": "https://www.udemy.com/course/meu-primeiro-jogo-com-phaser-3-e-ionic/"
+    },
+    {
+      "title": "Программирование: создание игр в Scratch",
+      "url": "https://www.udemy.com/course/scratch-r/"
+    },
+    {
+      "title": "2025 虚幻引擎5：完全入门（基于UE5.5）",
+      "url": "https://www.udemy.com/course/2025-5ue55/"
+    },
+    {
+      "title": "Curso básico de Godot 2D - IV",
+      "url": "https://www.udemy.com/course/curso-basico-de-godot-2d-4aparte/"
+    },
+    {
+      "title": "Makehuman Introdução",
+      "url": "https://www.udemy.com/course/makehuman-introducao/"
+    },
+    {
+      "title": "Pixel Run : Moto Plateforme 2D avec Unity et Aseprite",
+      "url": "https://www.udemy.com/course/pixel-run-moto-plateforme-2d-avec-unity-et-aseprite/"
+    },
+    {
+      "title": "Уроки Scratch 3.0 | Создание игр для детей",
+      "url": "https://www.udemy.com/course/scratch-30-l/"
+    },
+    {
+      "title": "OpenGL ile 2 Boyutlu Oyun Programlama",
+      "url": "https://www.udemy.com/course/opengl-ile-2-boyutlu-oyun-programlama/"
+    },
+    {
+      "title": "Il corso libGDX gratuito per creare un videogioco in Java !",
+      "url": "https://www.udemy.com/course/il-corso-libgdx-gratuito-per-creare-un-videogioco-in-java/"
+    },
+    {
+      "title": "Podstawy języka XOJO",
+      "url": "https://www.udemy.com/course/podstawy-jezyka-xojo/"
+    },
+    {
+      "title": "Membuat Augmented Reality Menggunakan Unity dan Vuforia",
+      "url": "https://www.udemy.com/course/membuat-augmented-reality-menggunakan-unity-dan-vuforia/"
+    },
+    {
+      "title": "Creando un juego 2D con Godot 4.3",
+      "url": "https://www.udemy.com/course/creando-un-juego-2d-con-godot-43/"
+    },
+    {
+      "title": "Dasar Pengembangan Game menggunakan Unity",
+      "url": "https://www.udemy.com/course/dasar-pengembangan-game-menggunakan-unity/"
+    },
+    {
+      "title": "【unity ゲーム開発】ゲーム業界歴30年のゲーム企画が教える インディゲーム向け企画 入門",
+      "url": "https://www.udemy.com/course/indy-game-develop/"
+    },
+    {
+      "title": "Learn to make a Snake 3D game on Unity (हिन्दी)",
+      "url": "https://www.udemy.com/course/snake3d-gameclan/"
+    },
+    {
+      "title": "Kodu Game Lab | Программирование для детей",
+      "url": "https://www.udemy.com/course/kodu-game-lab/"
+    },
+    {
+      "title": "Pengenalan Dasar eXtended Reality (XR)",
+      "url": "https://www.udemy.com/course/pengenalan-dasar-extended-reality-xr/"
+    },
+    {
+      "title": "Game Maker Studio 2 Dersleri (Kitap --Ebook--Makale)",
+      "url": "https://www.udemy.com/course/game-maker-studio-2-dersleri-kitap-ebook-makale/"
+    },
+    {
+      "title": "Başlangıç Seviyesinde Unity C#",
+      "url": "https://www.udemy.com/course/baslangc-seviyesinde-unity-c/"
+    },
+    {
+      "title": "Membuat Game Ping Pong 3D Menggunakan Unity",
+      "url": "https://www.udemy.com/course/membuat-game-ping-pong-3d-menggunakan-unity/"
+    },
+    {
+      "title": "【初心者向け】Unityで電流イライラ棒風ゲームを作る方法",
+      "url": "https://www.udemy.com/course/unity-irairabou/"
+    },
+    {
+      "title": "FiveM Master - Crie a Sua Cidade de GTA Roleplay",
+      "url": "https://www.udemy.com/course/fivem-master-crie-a-sua-cidade-de-gta-roleplay/"
+    },
+    {
+      "title": "Знакомство с Unity. 3D Snake.",
+      "url": "https://www.udemy.com/course/unity-3d-snake/"
+    },
+    {
+      "title": "Oyun Tasarımına Giriş (Game Jam)",
+      "url": "https://www.udemy.com/course/oyun-tasarimina-giris-game-jam/"
+    },
+    {
+      "title": "Pengenalan Komponen Dasar di Unity",
+      "url": "https://www.udemy.com/course/pengenalan-komponen-dasar-di-unity/"
+    },
+    {
+      "title": "Créer et monetiser une application sur Amazon sans coder",
+      "url": "https://www.udemy.com/course/creer-et-monetiser-une-application-sur-amazon-sans-coder/"
+    },
+    {
+      "title": "UE5 VR/MR 基础开发教程（Pico，Quest 通用）",
+      "url": "https://www.udemy.com/course/ue5-vrmr/"
+    },
+    {
+      "title": "【Unity6入門】3D反射神経テストゲームを作りながら学ぶゲーム開発",
+      "url": "https://www.udemy.com/course/unity6-reflex/"
+    },
+    {
+      "title": "Unity + ChatGPT : Créez un Tower Defense mobile complet",
+      "url": "https://www.udemy.com/course/unity-chatgpt-creez-un-tower-defense-mobile-complet/"
+    },
+    {
+      "title": "Roblox Studio — создание игр и программирование на языке Lua",
+      "url": "https://www.udemy.com/course/roblox-studio-lua/"
+    },
+    {
+      "title": "Unity3D Oyun Programlama",
+      "url": "https://www.udemy.com/course/unity3d-oyun-programlama/"
+    },
+    {
+      "title": "Membuat Game Sederhana Menggunakan Greenfoot",
+      "url": "https://www.udemy.com/course/introduction-to-greenfoot/"
+    },
+    {
+      "title": "Desenvolva um Game Completo na GODOT 3.2 com GDSCRIPT",
+      "url": "https://www.udemy.com/course/crie-um-game-na-godot/"
+    },
+    {
+      "title": "Scratch Oyunlarda Temel Kontroller- Joystick Vb.",
+      "url": "https://www.udemy.com/course/scratch-oyunlarda-temel-kontroller-joystick-vb/"
+    },
+    {
+      "title": "UNİTY İLE YAPAY ZEKAYI ÖĞREN 2",
+      "url": "https://www.udemy.com/course/unity-ile-yapay-zekayi-ogren-2/"
+    },
+    {
+      "title": "Flappy Bird en Unity! [Parte 2]",
+      "url": "https://www.udemy.com/course/flappy-bird-en-unity-parte-2/"
+    },
+    {
+      "title": "MapleStory Worlds로 탕탕특공대 만들기 - 1편",
+      "url": "https://www.udemy.com/course/today_coding_msw2/"
+    },
+    {
+      "title": "[MapleStory Worlds] 초보도 가능한 게임 만들기 - 1편",
+      "url": "https://www.udemy.com/course/maplestory-worlds-1/"
+    },
+    {
+      "title": "Lua Becerileri ve Temel Roblox Kodlama: E-Kitaplı Kurs",
+      "url": "https://www.udemy.com/course/lua-becerileri-ve-temel-roblox-kodlama-e-kitapl-kurs/"
+    },
+    {
+      "title": "Programación de juegos Web 2D en JavaScript HTML5 con Phaser",
+      "url": "https://www.udemy.com/course/programacion-de-juegos-web-2d-en-javascript-html5-con-phaser/"
+    },
+    {
+      "title": "UNİTY İLE YAPAY ZEKAYI ÖĞREN",
+      "url": "https://www.udemy.com/course/unity-ile-yapay-zekayi-ogren/"
+    },
+    {
+      "title": "[Temel Seviye] Phaser 3 ile Ping Pong Oyunu Geliştirme",
+      "url": "https://www.udemy.com/course/ucretsiz-phaser-3-ile-ping-pong-oyunu-gelistirme/"
+    },
+    {
+      "title": "Unity Game Development Crash Course for Beginners in Hindi",
+      "url": "https://www.udemy.com/course/unity-crash-course-in-hindi/"
+    },
+    {
+      "title": "Unity 3D - Découvrir les bases",
+      "url": "https://www.udemy.com/course/unity-3d-decouvrir-les-bases/"
+    }
+  ]
+}

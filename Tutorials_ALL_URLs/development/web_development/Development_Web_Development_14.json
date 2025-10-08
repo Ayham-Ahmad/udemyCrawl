@@ -1,0 +1,2006 @@
+{
+  "main_category": "development",
+  "sub_category": "Web Development",
+  "courses": [
+    {
+      "title": "CSSを効率的に書く！フロントエンドエンジニアのための「Sass」講座 ~基礎から実践まで~",
+      "url": "https://www.udemy.com/course/sass-for-frontend-engineer/"
+    },
+    {
+      "title": "Curso de Go - Como programar y crear APIs RESTful con Golang",
+      "url": "https://www.udemy.com/course/curso-de-go-como-programar-y-crear-apis-restful-con-golang/"
+    },
+    {
+      "title": "Le guide de Laravel 8",
+      "url": "https://www.udemy.com/course/le-guide-de-laravel-8/"
+    },
+    {
+      "title": "The Complete Full-Stack Web Development Bootcamp",
+      "url": "https://www.udemy.com/course/the-complete-web-development-bootcamp/"
+    },
+    {
+      "title": "Guía Completa Jakarta EE 9: Java EE 9 de cero a experto",
+      "url": "https://www.udemy.com/course/curso-jakartaee-java-ee-9-desde-cero-a-experto/"
+    },
+    {
+      "title": "تعلم لغة HTML5 من الصفر",
+      "url": "https://www.udemy.com/course/html5-rf/"
+    },
+    {
+      "title": "Zustand: Gestor de estado para React",
+      "url": "https://www.udemy.com/course/react-zustand/"
+    },
+    {
+      "title": "Programación FullStack y Escritorio desde CERO a PROFESIONAL",
+      "url": "https://www.udemy.com/course/programacion-fullstack-y-escritorio-desde-cero-a-profesional/"
+    },
+    {
+      "title": "必要性から学ぶ、Git・GitHub入門講座",
+      "url": "https://www.udemy.com/course/m-github/"
+    },
+    {
+      "title": "現役エンジニアが3つのステップで基礎から教えるGAS(Google Apps Script) 開発入門",
+      "url": "https://www.udemy.com/course/wywy-google-apps-script-forty-skills/"
+    },
+    {
+      "title": "Apprendre Javascript - Créer un jeu en ligne",
+      "url": "https://www.udemy.com/course/javascript-cours/"
+    },
+    {
+      "title": "Онлайн курс по HTML и CSS. Верстка любых сайтов легко.",
+      "url": "https://www.udemy.com/course/crs-editcode/"
+    },
+    {
+      "title": "PHP do Zero - Criando sistemas com PHP e MySQL na prática",
+      "url": "https://www.udemy.com/course/php-essencial/"
+    },
+    {
+      "title": "Desenvolvimento Web com Flask",
+      "url": "https://www.udemy.com/course/desenvolvimento-web-com-flask/"
+    },
+    {
+      "title": "WordPress für Anfänger und Fortgeschrittene",
+      "url": "https://www.udemy.com/course/wordpress-fuer-anfaenger/"
+    },
+    {
+      "title": "[2024 리뉴얼] 한입 크기로 잘라 먹는 리액트(React.js)",
+      "url": "https://www.udemy.com/course/winterlood-react-basic/"
+    },
+    {
+      "title": "Desenvolvimento Web Avançado",
+      "url": "https://www.udemy.com/course/curso-desenvolvedor-web-avancado/"
+    },
+    {
+      "title": "Верстка и создание веб сайтов - с нуля до результата !",
+      "url": "https://www.udemy.com/course/dmitrii-fokeev-web-dev-essential/"
+    },
+    {
+      "title": "Full Stack Web Tasarım ve Programlama Eğitimi (2022)",
+      "url": "https://www.udemy.com/course/sifirdanhtmlcss/"
+    },
+    {
+      "title": "Maitriser web api REST avec asp.net core dotnet 6.0 (FULL)",
+      "url": "https://www.udemy.com/course/maitriser-web-api-rest-avec-aspnet-core-dotnet-50-full/"
+    },
+    {
+      "title": "【Java-Webアプリ入門】初級者向け『JavaによるWebアプリケーション開発』入門～図解と解りやすい解説で学ぶ～",
+      "url": "https://www.udemy.com/course/java-web-app/"
+    },
+    {
+      "title": "THE COMPLETE HTML5 & CSS3 COURSE IN ARABIC",
+      "url": "https://www.udemy.com/course/the-complete-html5-css3-responsive-course-in-arabic/"
+    },
+    {
+      "title": "Komple Sıfırdan Adım Adım JQuery ile Harika Web Projeleri",
+      "url": "https://www.udemy.com/course/komple-sifridan-adim-adim-jquery-ile-harika-web-projeleri/"
+    },
+    {
+      "title": "Master en TypeScript, JavaScript Moderno, ES2025, APIs HTML5",
+      "url": "https://www.udemy.com/course/master-en-typescript-javascript-moderno-ecmascript-es12-apis-html5/"
+    },
+    {
+      "title": "Laravel: Construindo APIs REST",
+      "url": "https://www.udemy.com/course/laravel-construindo-apis-rest/"
+    },
+    {
+      "title": "【한글자막】 NodeJS 완벽 가이드 : MVC, REST APIs, GraphQL, Deno",
+      "url": "https://www.udemy.com/course/nodejs-mvc-rest-apis-graphql-deno/"
+    },
+    {
+      "title": "Curso Blazor Essencial (inclui Blazor no NET 8.0)",
+      "url": "https://www.udemy.com/course/curso-blazor-essencial/"
+    },
+    {
+      "title": "Crie sites ASP.NET (webforms) utilizando C# e JavaScript",
+      "url": "https://www.udemy.com/course/aspnet-web-forms/"
+    },
+    {
+      "title": "Formation WordPress: Créez 1 Site rapidement en partant de 0",
+      "url": "https://www.udemy.com/course/cours-intensif-wordpress-debutants-creez-un-site-en-quelques-minutes/"
+    },
+    {
+      "title": "Formação Angular",
+      "url": "https://www.udemy.com/course/curso-de-angular-15-do-iniciante-ao-especialista/"
+    },
+    {
+      "title": "ASP.NET Core Clean Architecture y Domain Driven Design (DDD)",
+      "url": "https://www.udemy.com/course/aspnet-clean-architecture/"
+    },
+    {
+      "title": "Java EE : Devenez développeur d'applications Web Java",
+      "url": "https://www.udemy.com/course/developper-une-application-web-avec-java-ee/"
+    },
+    {
+      "title": "WordPress - ¡Crea tu web Profesional de 0 a Experto!",
+      "url": "https://www.udemy.com/course/crea-tu-web-wordpress-profesional-de-cero-a-experto-con-tienda/"
+    },
+    {
+      "title": "Spring Boot : Pemula sampai Mahir",
+      "url": "https://www.udemy.com/course/spring-framework-dan-spring-boot-pemula-sampai-mahir/"
+    },
+    {
+      "title": "Asp.Net Core + Redis/In-Memory",
+      "url": "https://www.udemy.com/course/aspnet-core-redis-inmemory/"
+    },
+    {
+      "title": "React JS pour TOUS - L'Ultime Formation | 71 heures | 2025",
+      "url": "https://www.udemy.com/course/formation-react-js-pour-tous/"
+    },
+    {
+      "title": "Curso PHP Proyecto web usuarios y roles Patron mvc",
+      "url": "https://www.udemy.com/course/curso-php-proyecto-web-usuarios-y-roles-patron-mvc/"
+    },
+    {
+      "title": "Algoritmos e Lógica",
+      "url": "https://www.udemy.com/course/algoritmos-e-logica/"
+    },
+    {
+      "title": "Node.js - Express.js - JWT et Mongoose par la pratique",
+      "url": "https://www.udemy.com/course/nodejs-et-expressjs-par-la-pratique/"
+    },
+    {
+      "title": "Curso Completo de Web Desenvolvimento 2.0",
+      "url": "https://www.udemy.com/course/curso-completo-de-web-desenvolvimento-20/"
+    },
+    {
+      "title": "Angular Framework Desde Cero",
+      "url": "https://www.udemy.com/course/angular-desde-cero/"
+    },
+    {
+      "title": "【Web3.0アプリ開発入門】ReactとSolidity言語で簡単ブロックチェーンWebアプリ開発を体験してみよう！",
+      "url": "https://www.udemy.com/course/web3-blockchain-app-udemy/"
+    },
+    {
+      "title": "Master en PHP 7 con Mysql - Desarrollo Web - Proyectos y más",
+      "url": "https://www.udemy.com/course/phpcomonadieteloexplico/"
+    },
+    {
+      "title": "RestFul Api con Python usando Django Rest FrameWork",
+      "url": "https://www.udemy.com/course/restful-api-con-python-usando-django-rest-framework/"
+    },
+    {
+      "title": "TDD com Ruby on Rails, RSpec e Capybara",
+      "url": "https://www.udemy.com/course/rails-tdd/"
+    },
+    {
+      "title": "HTML5 et CSS3 : La Formation Complète",
+      "url": "https://www.udemy.com/course/html5-et-css3-la-formation-complete/"
+    },
+    {
+      "title": "Flexbox CSS - Le guide complet par la pratique",
+      "url": "https://www.udemy.com/course/guide-complet-flexbox/"
+    },
+    {
+      "title": "Criando um sistema EAD com wordpress",
+      "url": "https://www.udemy.com/course/criando-um-sistema-ead-com-wordpress/"
+    },
+    {
+      "title": "พัฒนาเว็บด้วย JavaScript 40 Workshop (Building 40 Projects)",
+      "url": "https://www.udemy.com/course/javascript-30-workshop/"
+    },
+    {
+      "title": "20 Projets en JavaScript",
+      "url": "https://www.udemy.com/course/20-projets-en-javascript/"
+    },
+    {
+      "title": "Impariamo da zero il framework Spring 6 e Spring Boot 3",
+      "url": "https://www.udemy.com/course/impariamo-da-zero-lecosistema-spring-5/"
+    },
+    {
+      "title": "【Tailwindcss3.0】利用者急増中！作って学ぶ爆速で理解したい人向けのTailwindcss完全入門パック",
+      "url": "https://www.udemy.com/course/tailwindcss-for-beginner/"
+    },
+    {
+      "title": "BOOTSTRAP 4 : la formation ULTIME",
+      "url": "https://www.udemy.com/course/bootstrap-4-la-formation-ultime/"
+    },
+    {
+      "title": "Django(장고) 프레임워크로 주식 검색 웹 만들기",
+      "url": "https://www.udemy.com/course/django-s/"
+    },
+    {
+      "title": "Crea una tienda online profesional, Ecommerce con MEAN STACK",
+      "url": "https://www.udemy.com/course/crea-una-tienda-online-profesional-ecommerce-con-mean-stack/"
+    },
+    {
+      "title": "Curso WordPress Completo - 4 cursos COMPLETOS.",
+      "url": "https://www.udemy.com/course/curso-wordpress-completo/"
+    },
+    {
+      "title": "Fundamentos de Oracle APEX 19.2 - CURSO OBSOLETO",
+      "url": "https://www.udemy.com/course/oracle-application-express-workshop-i/"
+    },
+    {
+      "title": "ASP NET Core Unit Test | NUnit y XUnit | Visual Studio 2022",
+      "url": "https://www.udemy.com/course/net-core-unit-test/"
+    },
+    {
+      "title": "Apprendre ASP.NET Core 5 pour le développement WEB",
+      "url": "https://www.udemy.com/course/maitriser-laspnet-core-pour-des-applications-web-pro/"
+    },
+    {
+      "title": "Flutter Web: Aplicaciones y páginas web profesionales",
+      "url": "https://www.udemy.com/course/flutter-web-fh/"
+    },
+    {
+      "title": "Crea una Api REST FULL completa con PHP NATIVO",
+      "url": "https://www.udemy.com/course/crea-una-api-rest-full-completa-con-php/"
+    },
+    {
+      "title": "Crie uma Web API com .NET + EF Core + Docker",
+      "url": "https://www.udemy.com/course/criando-web-api-com-aspnet-core-31-ef-core-31/"
+    },
+    {
+      "title": "【画像判定AIアプリ開発パート2】Django・TensorFlow・Python・転移学習による高精度AIアプリ開発",
+      "url": "https://www.udemy.com/course/django-ai-app/"
+    },
+    {
+      "title": "React JS Hooks: De Cero a Experto Creado Aplicaciones Reales",
+      "url": "https://www.udemy.com/course/react-js-de-cero-a-experto-creado-aplicaciones-reales/"
+    },
+    {
+      "title": "Sıfırdan HTML5 ve CSS3 Kursu",
+      "url": "https://www.udemy.com/course/sifirdan-orneklerle-html5-ve-css3-kursu/"
+    },
+    {
+      "title": "Componentes en Angular - nivel PRO (Angular 2/4/5/6/7+)",
+      "url": "https://www.udemy.com/course/componentes-angular-pro/"
+    },
+    {
+      "title": "Vue.js - Intermedio: Lleva tus bases al siguiente nivel",
+      "url": "https://www.udemy.com/course/vue-intermedio/"
+    },
+    {
+      "title": "NestJS - пишем API для реального проекта с нуля",
+      "url": "https://www.udemy.com/course/nestjs-writing-api-for-the-real-project-from-scratch/"
+    },
+    {
+      "title": "初心者でも安心！Python + Flask によるビジネスに役立つWebアプリ開発入門（Bootstrap 5）",
+      "url": "https://www.udemy.com/course/python-flask-webdevelopment/"
+    },
+    {
+      "title": "24 Certifications en Développement Web : 100% PRATIQUE +100h",
+      "url": "https://www.udemy.com/course/certification-en-developpement-web-cours-pratiques/"
+    },
+    {
+      "title": "Aprende HTML5 y CSS3 de CERO a EXPERTO",
+      "url": "https://www.udemy.com/course/aprende-html5-y-css3-de-cero-a-experto/"
+    },
+    {
+      "title": "Belajar Web Development Menggunakan Bahasa Pemrograman PHP",
+      "url": "https://www.udemy.com/course/belajar-web-development-menggunakan-bahasa-pemrograman-php/"
+    },
+    {
+      "title": "NodeJS - Build a Full E-Commerce RESTful APIs (بالعربي)",
+      "url": "https://www.udemy.com/course/nodejs-build-a-full-e-commerce-restful-apis/"
+    },
+    {
+      "title": "Iniciando com React",
+      "url": "https://www.udemy.com/course/iniciando-com-react/"
+    },
+    {
+      "title": "Türkiye'nin En Güncel Spring Kursu: 2025",
+      "url": "https://www.udemy.com/course/sifirdan-ileri-seviye-spring-kursu/"
+    },
+    {
+      "title": "Microservicios con ASP.NET Core | Angular | MongoDB | Docker",
+      "url": "https://www.udemy.com/course/microservicios-aspnet-core-5-angular-mongodb/"
+    },
+    {
+      "title": "Echo/Go + Reactで始めるモダンWebアプリケーション開発",
+      "url": "https://www.udemy.com/course/echo-go-react-restapi/"
+    },
+    {
+      "title": "基礎だけ学ぶ PHPプログラミング講座",
+      "url": "https://www.udemy.com/course/code-php/"
+    },
+    {
+      "title": "Curso de Java WEB",
+      "url": "https://www.udemy.com/course/curso-de-java-web/"
+    },
+    {
+      "title": "TDD en NodeJS, guía de tests con Jest",
+      "url": "https://www.udemy.com/course/tdd-en-nodejs-guia-de-tests-con-jest/"
+    },
+    {
+      "title": "Objektorientierte Entwicklung mit PHP 7",
+      "url": "https://www.udemy.com/course/objektorientierte-entwicklung-php7/"
+    },
+    {
+      "title": "Vue.js 2 - Le guide complet pour débutant",
+      "url": "https://www.udemy.com/course/vuejs-2-le-guide-complet/"
+    },
+    {
+      "title": "Electron JS y React JS: Creando un Spotify",
+      "url": "https://www.udemy.com/course/electron-js-y-react-js-creando-un-spotify/"
+    },
+    {
+      "title": "増補改訂版『Bootstrap4入門』〜Webデザインに対して苦手意識を持つエンジニアのための〜",
+      "url": "https://www.udemy.com/course/bootstrap4_for_developer_2/"
+    },
+    {
+      "title": "Desarrollo De Aplicaciones Web Con JavaScript (Edición 2024)",
+      "url": "https://www.udemy.com/course/desarrollo-de-aplicaciones-web-con-javascript-2020/"
+    },
+    {
+      "title": "Fortgeschrittenes CSS: Animationen, Flexbox, SVG, 3D, SASS,…",
+      "url": "https://www.udemy.com/course/css-und-sass/"
+    },
+    {
+      "title": "Curso Desenvolvimento Website Responsivo COMPLETO",
+      "url": "https://www.udemy.com/course/curso-desenvolvimento-website-responsivo-completo/"
+    },
+    {
+      "title": "Asp.Net Core 5.0 ile Adım Adım Web Geliştirme",
+      "url": "https://www.udemy.com/course/aspnet-core-5-ile-adim-adim-web-gelistirme/"
+    },
+    {
+      "title": "Corso Completo React e Redux con Hooks, Redux Toolkit e RTK",
+      "url": "https://www.udemy.com/course/react-redux-per-principianti-italiano/"
+    },
+    {
+      "title": "Aprende jQuery desde cero",
+      "url": "https://www.udemy.com/course/aprende-jquery-desde-cero/"
+    },
+    {
+      "title": "Crea Sistemas Marketplace con Angular y Firebase Database",
+      "url": "https://www.udemy.com/course/crea-sistemas-marketplace-con-angular-y-firebase-database/"
+    },
+    {
+      "title": "HTML, CSS e PHP - Programação Web para Iniciantes",
+      "url": "https://www.udemy.com/course/programacao-web/"
+    },
+    {
+      "title": "MERN: React, NodeJS, Express & MongoDB in Arabic (شرح عربي)",
+      "url": "https://www.udemy.com/course/yehiatech-react-nodejs-express-mongodb-in-arabic/"
+    },
+    {
+      "title": "Java ve Spring Boot 2.0 ile Dinamik Web Uygulamaları Eğitimi",
+      "url": "https://www.udemy.com/course/spring-boot-egitimi/"
+    },
+    {
+      "title": "RxJS nivel PRO",
+      "url": "https://www.udemy.com/course/rxjs-nivel-pro/"
+    },
+    {
+      "title": "Formação em Desenvolvimento Web: Do Zero ao Avançado",
+      "url": "https://www.udemy.com/course/desenvolvimento-web-completo/"
+    },
+    {
+      "title": "Desenvolvimento avançado de aplicações corporativas c Django",
+      "url": "https://www.udemy.com/course/desenvolvimento-avancado-de-aplicacoes-corporativas-c-django/"
+    },
+    {
+      "title": "Der Komplette Web-Entwickler Kurs - Erstelle 14 Webseiten",
+      "url": "https://www.udemy.com/course/derkomplettewebentwicklerkurs/"
+    },
+    {
+      "title": "JavaScript na Essência: Curso Completo com 5 Projetos Reais",
+      "url": "https://www.udemy.com/course/javascript-completo-html-css-projetos-profissionais/"
+    },
+    {
+      "title": "Web API 開発入門：Spring Boot と OpenAPI で始めるスキーマ駆動開発",
+      "url": "https://www.udemy.com/course/poco-tech-spring-boot-web-api/"
+    },
+    {
+      "title": "Diseño y Administración de APIs con WSO2 API Management",
+      "url": "https://www.udemy.com/course/microservicios-api-management-wso2/"
+    },
+    {
+      "title": "Desarrollar una red social con PHP, Symfony3, jQuery y AJAX",
+      "url": "https://www.udemy.com/course/desarrollar-una-red-social-con-php-symfony3-jquery-y-ajax/"
+    },
+    {
+      "title": "Todo HTML5 y CSS3, de novato a experto",
+      "url": "https://www.udemy.com/course/todo-html5-y-css3-de-novato-a-experto/"
+    },
+    {
+      "title": "Crie BOT de atendimento no WhatsApp Python e PHP",
+      "url": "https://www.udemy.com/course/aprenda-a-criar-bot-de-atendimento-no-whatsapp-python-e-php/"
+    },
+    {
+      "title": "Весь WordPress и PHP. Как создавать сайты, темы и плагины.",
+      "url": "https://www.udemy.com/course/all-wordpress/"
+    },
+    {
+      "title": "Entendendo o ECMAScript 6",
+      "url": "https://www.udemy.com/course/entendendo-o-ecmascript-6/"
+    },
+    {
+      "title": "ASP NET MVC 5 (C#): Desarrollando un portafolio profesional",
+      "url": "https://www.udemy.com/course/asp-net-mvc-c-creando-un-portafolio-profesional/"
+    },
+    {
+      "title": "NestJS - с нуля, современный backend на TypeScript и Node JS",
+      "url": "https://www.udemy.com/course/nestjs-backend-typescript-node-js/"
+    },
+    {
+      "title": "Sviluppo Web JavaScript: Corso completo da Zero a Master",
+      "url": "https://www.udemy.com/course/sviluppo-web-javascript-corso-completo-da-zero-a-master/"
+    },
+    {
+      "title": "Master en JavaScript 2025: Aprender JS, Angular, Node, Astro",
+      "url": "https://www.udemy.com/course/master-en-javascript-aprender-js-angular-nodejs-astro-y-mas/"
+    },
+    {
+      "title": "Asp.Net Core Api - Rapid Api ve Api Consume",
+      "url": "https://www.udemy.com/course/aspnet-core-api-rapid-api-ve-api-consume/"
+    },
+    {
+      "title": "Vue.js 3 - Der Komplettkurs (inkl. vue-router, vuex uvm.)",
+      "url": "https://www.udemy.com/course/vuejs-3-der-komplettkurs/"
+    },
+    {
+      "title": "Yeni Başlayanlar için Web Tasarım ve Kodlama (HTML5, CSS)",
+      "url": "https://www.udemy.com/course/yeni-baslayanlar-icin-web-tasarm-ve-kodlama/"
+    },
+    {
+      "title": "Curso Banco de Dados com JAVA",
+      "url": "https://www.udemy.com/course/java-enterprise-persistencia-de-dados-com-jdbc-e-hibernate/"
+    },
+    {
+      "title": "Django 4 Avançado 100+ aulas domine o framework like a BOSS",
+      "url": "https://www.udemy.com/course/django-avancado-100-aulas/"
+    },
+    {
+      "title": "Angular: Başlangıçtan Uzmanlığa (2025)",
+      "url": "https://www.udemy.com/course/sfrdan-ileri-seviye-angular-egitimi/"
+    },
+    {
+      "title": ".Net ile Microservices ( .Net 9 )",
+      "url": "https://www.udemy.com/course/net-ile-microservices/"
+    },
+    {
+      "title": "Django & Python | Maitrisez le développement web",
+      "url": "https://www.udemy.com/course/django-2-python-maitrisez-le-developpement-web/"
+    },
+    {
+      "title": "Le développement web de A à Z par la pratique",
+      "url": "https://www.udemy.com/course/developpement-web-a-z-par-pratique/"
+    },
+    {
+      "title": "Front-End profissional completo HTML5, CSS3, SASS, JS E MAIS",
+      "url": "https://www.udemy.com/course/front-end-profissional-completo-html5-css3-sass-js-e-mais/"
+    },
+    {
+      "title": "Master en CSS3 Avanzado: Maqueta 3 sitios web profesionales",
+      "url": "https://www.udemy.com/course/master-en-css3-avanzado-flexbox-css-grid-layout-responsive/"
+    },
+    {
+      "title": "Curso Completo de jQuery + 10 Projetos Práticos",
+      "url": "https://www.udemy.com/course/jquery-completo/"
+    },
+    {
+      "title": "Curso de Diseño Web: HTML y CSS desde cero hasta avanzado.",
+      "url": "https://www.udemy.com/course/curso-de-diseno-web-html-y-css-desde-cero-hasta-avanzado/"
+    },
+    {
+      "title": "Curso de NodeJS y Angular - Crea webapps con el MEAN Stack",
+      "url": "https://www.udemy.com/course/curso-de-nodejs-y-angular-2-crea-webapps-con-el-mean-stack-2/"
+    },
+    {
+      "title": "Sıfırdan İleriye PHP ve MySQL Eğitim Seti [PDO-MYSQLİ]",
+      "url": "https://www.udemy.com/course/php-dersleri-a-dan-z-ye-mysql-egitim-seti-pdo-mysqli/"
+    },
+    {
+      "title": "Desarrollo frontend con Angular 4 y backend con Symfony 3.3",
+      "url": "https://www.udemy.com/course/desarrollo-frontend-con-angular-y-backend-con-symfony/"
+    },
+    {
+      "title": "ASP.NET WEB API ile Yazılımcıların Bağımsızlığı",
+      "url": "https://www.udemy.com/course/aspnet-web-api-ile-yazilimcilarin-bagimsizligi/"
+    },
+    {
+      "title": "jQuery - Curso COMPLETO Com Projetos Reais",
+      "url": "https://www.udemy.com/course/jquery-curso-completo/"
+    },
+    {
+      "title": "Javascript débarque dans notre Navigateur",
+      "url": "https://www.udemy.com/course/javascript-dom-html-css/"
+    },
+    {
+      "title": "Angular y NodeJS en producción - Configurar un servidor VPS",
+      "url": "https://www.udemy.com/course/angular-y-nodejs-en-produccion-configurar-un-servidor-vps/"
+    },
+    {
+      "title": "RabbitMQ na Prática",
+      "url": "https://www.udemy.com/course/rabbitmq-na-pratica/"
+    },
+    {
+      "title": "Sıfırdan php ile YÖNETİM PANELLİ KURUMSAL WEB SİTESİ YAPIMI",
+      "url": "https://www.udemy.com/course/sifirdan-php-ile-yonetim-panelli-kurumsal-web-sitesi-yapimi/"
+    },
+    {
+      "title": "클린코드 자바스크립트(JavaScript)",
+      "url": "https://www.udemy.com/course/clean-code-js/"
+    },
+    {
+      "title": "120 Dakikada PHP",
+      "url": "https://www.udemy.com/course/120-dakikada-php/"
+    },
+    {
+      "title": "Curso Completo de Sass/SCSS: Do Iniciante ao Avançado",
+      "url": "https://www.udemy.com/course/sass-curso-completo/"
+    },
+    {
+      "title": "ASP.NET Core MVC and C# Bootcamp - Desde las Bases a Expert",
+      "url": "https://www.udemy.com/course/curso-net/"
+    },
+    {
+      "title": "Curso de Tailwind CSS - Desde cero hasta profesional",
+      "url": "https://www.udemy.com/course/curso-de-tailwind-css-desde-cero-hasta-profesional/"
+    },
+    {
+      "title": "Créer un site web Pro en C# avec ASP.NET MVC 6 et Bootstrap",
+      "url": "https://www.udemy.com/course/creer-site-web-pro-aspnet-mvc-bootstrap/"
+    },
+    {
+      "title": "Asp.NET MVC Yönetim Panelli Kurumsal Web Sitesi Eğitimi",
+      "url": "https://www.udemy.com/course/aspnet-mvc-yonetim-panelli-kurumsal-web-sitesi-egitimi-2019/"
+    },
+    {
+      "title": "React с нуля для начинающих. +3 проекта в портфолио!",
+      "url": "https://www.udemy.com/course/react-from-scratch/"
+    },
+    {
+      "title": "Entity Framework Core 8 (EF Core 8) + Minimal API (2025)",
+      "url": "https://www.udemy.com/course/efcore-aspnetcore-webapi-sqlserver/"
+    },
+    {
+      "title": "【2024年版】Microsoft PowerAutomate 実践講座：新UI対応！すぐに使える厳選ケーススタディ",
+      "url": "https://www.udemy.com/course/2024microsoft-powerautomate-ui/"
+    },
+    {
+      "title": "HTML e CSS para iniciantes: Aprenda de uma vez por todas! #1",
+      "url": "https://www.udemy.com/course/descomplicando-html-iniciante/"
+    },
+    {
+      "title": "Modern Web Geliştirme Kursu | Sıfırdan İleri Seviyeye",
+      "url": "https://www.udemy.com/course/modern-web-gelistirme-kursu-sifirdan-ileri-seviyeye/"
+    },
+    {
+      "title": "Desarrollo web full-stack con Symfony 3 y Angular 2",
+      "url": "https://www.udemy.com/course/desarrollo-web-full-stack-con-symfony3-y-angular-2/"
+    },
+    {
+      "title": "Construyendo Minimal APIs con ASP.NET Core 9 y EF Core",
+      "url": "https://www.udemy.com/course/construyendo-minimal-apis-con-aspnet-core-y-ef-core/"
+    },
+    {
+      "title": "Criando REST API com Laravel 5.7",
+      "url": "https://www.udemy.com/course/curso-laravel-5/"
+    },
+    {
+      "title": "NestJS para REST API com TypeORM, Autenticação JWT e Testes",
+      "url": "https://www.udemy.com/course/nestjs-curso-completo-rest-api-typeorm-jwt-e-mais/"
+    },
+    {
+      "title": "Do Zero ao Whatsapp - Integração com ChatGPT",
+      "url": "https://www.udemy.com/course/curso-whatsapp/"
+    },
+    {
+      "title": "【Java - Webアプリ編】サーブレットを完全制覇！Java製Webアプリを構築する講座！（豊富な図解/演習問題）",
+      "url": "https://www.udemy.com/course/youtubejava5-web/"
+    },
+    {
+      "title": "Web tasarım & web sitesi nasıl yapılır? Html & CSS dersleri",
+      "url": "https://www.udemy.com/course/web-tasarim-web-sitesi-nasil-yapilir-html-css-dersleri/"
+    },
+    {
+      "title": "Crea una ASP NET Core Web API básica desde una base de datos",
+      "url": "https://www.udemy.com/course/crea-una-asp-net-core-web-api-basica-desde-una-base-de-datos/"
+    },
+    {
+      "title": "SASS & SCSS : la formation ULTIME",
+      "url": "https://www.udemy.com/course/sass-scss-la-formation-ultime/"
+    },
+    {
+      "title": "Curso de Javascript + Typescript + NodeJs - Programador JS",
+      "url": "https://www.udemy.com/course/curso-de-javascript-typescript-nodejs-basico-e-avancado/"
+    },
+    {
+      "title": "【2024年版】Microsoft PowerApps 実践講座：座席管理アプリ",
+      "url": "https://www.udemy.com/course/2024microsoft-powerapps/"
+    },
+    {
+      "title": "BLAZOR ULTIMATE: Domina Blazor en 4 proyectos",
+      "url": "https://www.udemy.com/course/blazor-ultimate/"
+    },
+    {
+      "title": "Python Desenvolvedor 2025 - Do Zero ao Avançado + Projetos",
+      "url": "https://www.udemy.com/course/python-desenvolvedor-do-zero-ao-avancado-projetos-praticos/"
+    },
+    {
+      "title": "Desenvolvimento Web Avançado com Vue (v2 e v3) e Vuex",
+      "url": "https://www.udemy.com/course/desenvolvimento-web-avancado-com-vue-strapi-vuex-e-vuetify/"
+    },
+    {
+      "title": "Curso de Vue JS 2 en Español",
+      "url": "https://www.udemy.com/course/curso-de-vuejs-2-en-espanol/"
+    },
+    {
+      "title": "【2日でできる】はじめての PHP 7 x Laravel 6 入門",
+      "url": "https://www.udemy.com/course/php7study/"
+    },
+    {
+      "title": "NodeJS 前後端開發實戰",
+      "url": "https://www.udemy.com/course/teachnodejs/"
+    },
+    {
+      "title": "[2025] Bootstrap Od Podstaw - Stwórz 4 Wyjątkowe strony WWW!",
+      "url": "https://www.udemy.com/course/bootstrap-flexbox-od-podstaw-projekty/"
+    },
+    {
+      "title": "Curso completo de Java 2025-De cero a Master",
+      "url": "https://www.udemy.com/course/curso-java-spring/"
+    },
+    {
+      "title": "【Djangoアプリ開発】たった5日で本格的なTodoリストを構築してDjangoを学べるWebアプリ開発入門講座",
+      "url": "https://www.udemy.com/course/django-todoapp-in-5day/"
+    },
+    {
+      "title": "React JS + Redux - Guide du débutant",
+      "url": "https://www.udemy.com/course/react-js-redux-guide-du-debutant/"
+    },
+    {
+      "title": "Webentwicklung mit Python und Django",
+      "url": "https://www.udemy.com/course/django-kurs/"
+    },
+    {
+      "title": "Aprende Efectos CSS3",
+      "url": "https://www.udemy.com/course/aprende-efectos-css3/"
+    },
+    {
+      "title": "【入門者向け】ASP.NET MVCでWebアプリ開発のノウハウを学ぼう！",
+      "url": "https://www.udemy.com/course/aspnet-mvcweb/"
+    },
+    {
+      "title": "Asp.Net Core Api SignalR ile QR Kodlu Sipariş Yönetimi",
+      "url": "https://www.udemy.com/course/aspnet-core-api-signalr-ile-qr-kodlu-siparis-yonetimi/"
+    },
+    {
+      "title": "Angular - NET Core - Aplicacion de Preguntas y Respuestas",
+      "url": "https://www.udemy.com/course/angular-net-core-aplicacion-de-preguntas-y-respuestas/"
+    },
+    {
+      "title": "Mvc5 ile Sıfırdan Admin Panelli Dinamik CV Sitesi",
+      "url": "https://www.udemy.com/course/mvc5-ile-sfrdan-admin-panelli-dinamik-cv-sitesi/"
+    },
+    {
+      "title": "Angular ile Sıfırdan İleri Seviye Web Geliştirme",
+      "url": "https://www.udemy.com/course/angular-dersleri/"
+    },
+    {
+      "title": "NodeJs Avançado com Clean Architecture, NestJS e Typescript",
+      "url": "https://www.udemy.com/course/nodejs-avancado-com-clean-architecture-nestjs-typescript/"
+    },
+    {
+      "title": "Java Microservices con Kafka | Spring Boot | Event Sourcing",
+      "url": "https://www.udemy.com/course/java-microservices/"
+    },
+    {
+      "title": "最短で学ぶReactとReduxの基礎から実践まで",
+      "url": "https://www.udemy.com/course/react-redux-from-beginning/"
+    },
+    {
+      "title": "React JS, Golang y MongoDB: Creando Red Social como Twitter",
+      "url": "https://www.udemy.com/course/reactjs-golang-y-mongodb-creando-red-social-como-twitter/"
+    },
+    {
+      "title": "React e TypeScript: desenvolvendo um Dashboard",
+      "url": "https://www.udemy.com/course/react-e-typescript/"
+    },
+    {
+      "title": "Microservicios Lumen: Crea tus servicios y APIs con Lumen",
+      "url": "https://www.udemy.com/course/microservicios-con-lumen-una-arquitectura-orientada-a-servicios/"
+    },
+    {
+      "title": "Deep Dive into Clean Architecture in Flutter[Arabic]",
+      "url": "https://www.udemy.com/course/deep-dive-into-clean-architecture-in-flutter-2022arabic/"
+    },
+    {
+      "title": "CodeIgniter 4 desde cero + integración con Bootstrap 4 o 5",
+      "url": "https://www.udemy.com/course/primeros-pasos-en-codeigniter-4-el-framework-php-del-futuro/"
+    },
+    {
+      "title": "【完全保存版】MERNフルスタック開発で本格的なSNSアプリを１から自分の手で構築してみよう",
+      "url": "https://www.udemy.com/course/fullstack-mern-project-course/"
+    },
+    {
+      "title": "Web Scraping com Python e Beautiful Soup",
+      "url": "https://www.udemy.com/course/webscraping/"
+    },
+    {
+      "title": "Spring Boot y Angular: Creando aplicaciones cómo Fullstack",
+      "url": "https://www.udemy.com/course/spring-boot-y-angular-creando-aplicaciones-como-fullstack/"
+    },
+    {
+      "title": "HTML5 e CSS Aprendendo criar sites do zero na pratica",
+      "url": "https://www.udemy.com/course/curso-html5-css/"
+    },
+    {
+      "title": "Web前端开发 - 玩转HTML&CSS【课程以实战为基础】",
+      "url": "https://www.udemy.com/course/web-htmlcss/"
+    },
+    {
+      "title": "RabbitMQ | Net Core",
+      "url": "https://www.udemy.com/course/aspnet-core-rabbitmq/"
+    },
+    {
+      "title": "The PHP 8 Learning Guide",
+      "url": "https://www.udemy.com/course/php-8-guide-2021-edition/"
+    },
+    {
+      "title": "Aprende PHP desde cero con 36 ejercicios prácticos",
+      "url": "https://www.udemy.com/course/aprende-php-desde-cero-con-ejercicios-practicos/"
+    },
+    {
+      "title": "Vue.js 项目实战之美团外卖 (Vue JS 2+Webpack+Vue-router+ Axios)",
+      "url": "https://www.udemy.com/course/vuejs-app/"
+    },
+    {
+      "title": "Angular Pro: Lleva tus bases al siguiente nivel",
+      "url": "https://www.udemy.com/course/angular-pro-siguiente-nivel/"
+    },
+    {
+      "title": "Vuejs 2 y Vuex desde 0 con las mejores prácticas",
+      "url": "https://www.udemy.com/course/vuejs-2-y-vuex-desde-0-con-las-mejores-practicas/"
+    },
+    {
+      "title": "Spring Boot Webentwicklung - RESTful API entwickeln mit Java",
+      "url": "https://www.udemy.com/course/spring-boot-webentwicklung/"
+    },
+    {
+      "title": "Personal Book Author Website with E-Commerce (PHP & MySQL)",
+      "url": "https://www.udemy.com/course/personal-book-author-website-with-ecommerce-php-mysql/"
+    },
+    {
+      "title": "WordPress dla nieprogramistów. Stwórz niesamowitą stronę www",
+      "url": "https://www.udemy.com/course/wordpress-dla-nieprogramistow-stworz-niesamowita-strone-www/"
+    },
+    {
+      "title": "Vue.js 3 - La formation complète pour débutants",
+      "url": "https://www.udemy.com/course/vuejs-3-la-formation-complete-pour-debutants/"
+    },
+    {
+      "title": "Vue.js 3 - La Guía Completa - Composition Pinia MEVN 10 Apps",
+      "url": "https://www.udemy.com/course/vuejs-la-guia-completa-composition-pinia-mevn-creando-proyectos-reales/"
+    },
+    {
+      "title": "React Js com TypeScript do zero ao avançado na pratica",
+      "url": "https://www.udemy.com/course/react-js-typescript/"
+    },
+    {
+      "title": "JavaScript: Verstehe die seltsamen Teile",
+      "url": "https://www.udemy.com/course/javascript-verstehe-die-seltsamen-teile/"
+    },
+    {
+      "title": "Seja Full-Stack com Vue JS + ASP.NET Core Web API + EF Core",
+      "url": "https://www.udemy.com/course/fullstack-vuejs-dotnetcore-efcore/"
+    },
+    {
+      "title": "Spring Framework 5 e Spring Boot 2",
+      "url": "https://www.udemy.com/course/spring-framework-5-spring-boot-2/"
+    },
+    {
+      "title": "PHP & MYSQLI in Arabic",
+      "url": "https://www.udemy.com/course/php-mysqli-in-arabic/"
+    },
+    {
+      "title": "（最新版）文系でも解る！ Wordpressの基礎の理解と、独自デザインをWordpress化にする",
+      "url": "https://www.udemy.com/course/wordpress55/"
+    },
+    {
+      "title": "Introducción a SharePoint online",
+      "url": "https://www.udemy.com/course/introduccion-a-sharepoint-online/"
+    },
+    {
+      "title": "Curso Desenvolvedor Web Completo",
+      "url": "https://www.udemy.com/course/curso-desenvolvedor-web-completo-do-zero/"
+    },
+    {
+      "title": "API/REST con .Net + Swagger + SQL Server",
+      "url": "https://www.udemy.com/course/apirest-con-net-5-swagger-sql-server/"
+    },
+    {
+      "title": "掌握 Git 與 Github 程式時光機",
+      "url": "https://www.udemy.com/course/learninggit/"
+    },
+    {
+      "title": "Frontend разработчик на HTML, CSS и JavaScript",
+      "url": "https://www.udemy.com/course/frontend-html-css-javascript/"
+    },
+    {
+      "title": "Webpackでウェブサイト制作のHTML/CSS/JSコーディングを一気に効率化する実践講座 (Mac / Win)",
+      "url": "https://www.udemy.com/course/webpack-config/"
+    },
+    {
+      "title": "Tomcat 11 para Administradores y desarrolladores",
+      "url": "https://www.udemy.com/course/tomcat-para-administradores-y-desarrolladores/"
+    },
+    {
+      "title": "تطويرمواقع ويب إحترافية بإستخدام نظام وورد برس",
+      "url": "https://www.udemy.com/course/auerkiuu/"
+    },
+    {
+      "title": "+100 Proyectos de Desarrollo Web con HTML, CSS y JavaScript",
+      "url": "https://www.udemy.com/course/100-proyectos-de-desarrollo-web-con-html-css-y-javascript/"
+    },
+    {
+      "title": "Sıfırdan İleri Seviye PHP Temelden Zirveye (PHP-MySQL-JS)",
+      "url": "https://www.udemy.com/course/projelere-doyamayacaksiniz-php-pdo-html-html5-css-js/"
+    },
+    {
+      "title": "Maestro del HTML y HTML5: Fundamentos para crear sitios web",
+      "url": "https://www.udemy.com/course/curso-de-html-introduccion-completa-a-html-y-html-5/"
+    },
+    {
+      "title": "Elixir e Phoenix do zero! Crie sua primeira API Phoenix.",
+      "url": "https://www.udemy.com/course/elixir-e-phoenix-do-zero/"
+    },
+    {
+      "title": "Dominando CSS 3 com SASS / SCSS",
+      "url": "https://www.udemy.com/course/curso-css-3-com-sass/"
+    },
+    {
+      "title": "React Completo do básico ao avançado",
+      "url": "https://www.udemy.com/course/react-completo-do-basico-ao-avancado/"
+    },
+    {
+      "title": "Seja Full-Stack com REACT, .NET + EF Core",
+      "url": "https://www.udemy.com/course/seja-full-stack-com-react-redux-e-aspnetcore-efcore/"
+    },
+    {
+      "title": "Django 3.0 po polsku (podstawy)",
+      "url": "https://www.udemy.com/course/django-po-polsku-podstawy/"
+    },
+    {
+      "title": "Angular 9 / 10 para Principiantes",
+      "url": "https://www.udemy.com/course/angular-9-para-principiantes/"
+    },
+    {
+      "title": "Vue JS - Curso COMPLETO do Básico ao Avançado",
+      "url": "https://www.udemy.com/course/curso-vue-js-completo/"
+    },
+    {
+      "title": "Rubyで作る! ビットコイン自動売買システム",
+      "url": "https://www.udemy.com/course/ruby-bitcoin/"
+    },
+    {
+      "title": "Aprende Laravel paso a paso desde cero - De 0 a 100",
+      "url": "https://www.udemy.com/course/aprende-laravel-paso-a-paso-desde-cero-de-0-a-100/"
+    },
+    {
+      "title": "CSS - Полный Курс по CSS",
+      "url": "https://www.udemy.com/course/html-css-ru/"
+    },
+    {
+      "title": "Dominando Linq e Lambda Expressions com C#",
+      "url": "https://www.udemy.com/course/dominando-linq-e-lambda-expressions-com-c/"
+    },
+    {
+      "title": "Aprende a publicar cualquier web en Internet (Hosting y VPS)",
+      "url": "https://www.udemy.com/course/aprende-a-publicar-sitios-web-en-internet-hosting-vps/"
+    },
+    {
+      "title": "MERN Stack Geliştirme Kursu",
+      "url": "https://www.udemy.com/course/temel-nodejs-egitimi/"
+    },
+    {
+      "title": "Web前端开发 - 玩转JavaScript 【以实战为基础】",
+      "url": "https://www.udemy.com/course/web-javascript/"
+    },
+    {
+      "title": "Uygulamalı Modern Web Geliştirme Eğitimi",
+      "url": "https://www.udemy.com/course/uygulamali-modern-web-gelistirme-egitimi/"
+    },
+    {
+      "title": "Aprende Blazor desde Cero - Curso Completo de ASP.NET Blazor",
+      "url": "https://www.udemy.com/course/aprende-blazor-desde-cero-curso-completo-de-blazor/"
+    },
+    {
+      "title": "Crea páginas web responsive con Bootstrap 3",
+      "url": "https://www.udemy.com/course/crea-paginas-web-responsive-con-bootstrap/"
+    },
+    {
+      "title": "Создание современных адаптивных веб сайтов. HTML5, CSS3",
+      "url": "https://www.udemy.com/course/web-professional-html5/"
+    },
+    {
+      "title": "【Git/GitHub】【初心者向け講座】最短で実践力を身につける【VSCode】イメージ図たっぷり【わかりやすさ重視】",
+      "url": "https://www.udemy.com/course/git-github-vscode/"
+    },
+    {
+      "title": "المرجع الشامل لبناء وبرمجه المواقع ببايثون (Python+Django)",
+      "url": "https://www.udemy.com/course/pythondjango-arabic/"
+    },
+    {
+      "title": "Angular 4: Entwickle tolle Webseiten und Apps",
+      "url": "https://www.udemy.com/course/angular-2-entwickle-webseiten-und-apps/"
+    },
+    {
+      "title": "Vue 3.x全家桶完全指南与实战（TypeScript + Vue Router 4 + Vuex 4...）",
+      "url": "https://www.udemy.com/course/vue3-vue-router4-vuex4-complete-tutorial/"
+    },
+    {
+      "title": "Curso Projeto Web MVC com Java + Orçamentação APF",
+      "url": "https://www.udemy.com/course/java-enterprise-java-servlets-e-jsp/"
+    },
+    {
+      "title": "Fundamentos de Angular",
+      "url": "https://www.udemy.com/course/fundamentos-de-angular-12/"
+    },
+    {
+      "title": "Mvc5 ile 3 Panelli Kütüphane Yönetim Sistemi",
+      "url": "https://www.udemy.com/course/mvc5-ile-3-panelli-kutuphane-yonetim-sistemi/"
+    },
+    {
+      "title": "Curso Desenvolvedor Web",
+      "url": "https://www.udemy.com/course/curso-de-desenvolvedor-web-completo/"
+    },
+    {
+      "title": "Node.js - Полный Курс по Node.js",
+      "url": "https://www.udemy.com/course/nodejs-ru/"
+    },
+    {
+      "title": "Introducción a Spring Web MVC 5.0 con Spring Boot",
+      "url": "https://www.udemy.com/course/spring-mvc-boot/"
+    },
+    {
+      "title": "Curso Pacotes, Lambdas, Streams, Interfaces Gráficas",
+      "url": "https://www.udemy.com/course/java-8-pacotes-lambdas-streams-interfaces-graficas/"
+    },
+    {
+      "title": "Asp.Net Core MultiShop Mikroservis E-Ticaret Kursu",
+      "url": "https://www.udemy.com/course/aspnet-core-multishop-mikroservis-e-ticaret-kursu/"
+    },
+    {
+      "title": "Criando Apis robustas em C#",
+      "url": "https://www.udemy.com/course/criando-apis-robustas-em-c/"
+    },
+    {
+      "title": "Aprenda TYPESCRIPT em 7 Dias com Projetos Práticos",
+      "url": "https://www.udemy.com/course/aprenda-typescript-em-7-dias/"
+    },
+    {
+      "title": "Diseñador Web Profesional. Aprende Hostings, SEO y más",
+      "url": "https://www.udemy.com/course/disenador-web-profesional-de-intermedio-a-experto/"
+    },
+    {
+      "title": "JavaScript ES6",
+      "url": "https://www.udemy.com/course/javascript-es6-supdecode/"
+    },
+    {
+      "title": "【AngularとNode.jsで始める】JavaScript系 WEBアプリケーション開発コンプリートガイド①",
+      "url": "https://www.udemy.com/course/angular-nodejs-web/"
+    },
+    {
+      "title": "ฝึกสร้าง เว็บ จาก เริ่มต้น ไปเป็น มือโปร",
+      "url": "https://www.udemy.com/course/web-developer-bootcamp/"
+    },
+    {
+      "title": "Sistema de ventas en ASP.NET MVC en C# and SQL full stack",
+      "url": "https://www.udemy.com/course/curso-sistema-de-ventas-y-facturacion-en-aspnet-core-mvc/"
+    },
+    {
+      "title": "Asp.Net Core Api 8.0 Onion Architecture ile BookCar Projesi",
+      "url": "https://www.udemy.com/course/aspnet-core-api-8-onion-architecture-ile-bookcar-projesi/"
+    },
+    {
+      "title": "The Web Developer Bootcamp 2025",
+      "url": "https://www.udemy.com/course/the-web-developer-bootcamp/"
+    },
+    {
+      "title": "NETCore 3.1/NET5/6 - C# API - Arquitetura com DDD na PRÁTICA",
+      "url": "https://www.udemy.com/course/aspnet-core-22-c-api-com-arquitetura-ddd-na-pratica/"
+    },
+    {
+      "title": "Aprende a crear webs desde cero con HTML Y CSS",
+      "url": "https://www.udemy.com/course/aprende-a-crear-webs-desde-cero/"
+    },
+    {
+      "title": "【3日でできる】はじめてのLinuxサーバー構築入門（CentOS 7・PHP 7・Docker対応）",
+      "url": "https://www.udemy.com/course/linux_vps_3days/"
+    },
+    {
+      "title": "Master en APIs RESTful con NodeJS: Crea 3 backends completos",
+      "url": "https://www.udemy.com/course/master-en-apis-restful-con-nodejs-crea-3-backends-completos/"
+    },
+    {
+      "title": "Formação Angular 13 - Integração com API Restful Java/Spring",
+      "url": "https://www.udemy.com/course/curso-de-angular-2-5-avancado/"
+    },
+    {
+      "title": "Procesa Pagos y Suscripciones con Laravel y Llamados a APIs",
+      "url": "https://www.udemy.com/course/procesa-pagos-en-linea-con-laravel-y-pasarelas-de-pagos-paypal-stripe/"
+    },
+    {
+      "title": "API REST con PHP y MYSQL",
+      "url": "https://www.udemy.com/course/api-rest-con-php-y-mysql/"
+    },
+    {
+      "title": "Компетенция Верстальщик - HTML, CSS, JavaScript",
+      "url": "https://www.udemy.com/course/web-coder/"
+    },
+    {
+      "title": "【Redux完全入門】絶対に理解させるReduxアルゴリズム徹底解説入門パック",
+      "url": "https://www.udemy.com/course/react-redux-beginner-course/"
+    },
+    {
+      "title": "Naucz się tworzenia stron www w języku HTML",
+      "url": "https://www.udemy.com/course/naucz-sie-tworzenia-stron-www-w-jezyku-html/"
+    },
+    {
+      "title": "Html Css ve JavaScript ile E-Ticaret Sitesi Yapımı 2025",
+      "url": "https://www.udemy.com/course/html-css-javascript-ile-e-ticaret-sitesi-yapimi/"
+    },
+    {
+      "title": "Angular 6, Angular Material et RxJS 6 par la pratique",
+      "url": "https://www.udemy.com/course/angular-6-angular-material-et-rxjs-6-par-la-pratique/"
+    },
+    {
+      "title": "Angular 4: Conviértete en Desarrollador Web Full Stack",
+      "url": "https://www.udemy.com/course/angular-4-el-curso-definitivo-y-completo/"
+    },
+    {
+      "title": "NestJS入門 TypeScriptではじめるサーバーサイド開発",
+      "url": "https://www.udemy.com/course/nestjs-t/"
+    },
+    {
+      "title": "Curso Full Stack Developer",
+      "url": "https://www.udemy.com/course/curso-full-stack-developer/"
+    },
+    {
+      "title": "Asp.Net Bootstrap İle SQL Tabanlı Web Projeleri Geliştirin!",
+      "url": "https://www.udemy.com/course/aspnet-bootstrap-ile-sql-tabanli-web-projesi-gelistirin/"
+    },
+    {
+      "title": "Aprenda PHP do Zero Com Facilidade e Faça Sites Dinâmicos",
+      "url": "https://www.udemy.com/course/aprenda-e-domine-a-linguagem-php-do-zero-com-facilidade/"
+    },
+    {
+      "title": "PHP: Der ultimative Komplettkurs für Webentwicklung mit PHP",
+      "url": "https://www.udemy.com/course/php-komplettkurs/"
+    },
+    {
+      "title": "Chatbot WhatsApp API, Node JS Enviar y recibir mensajes",
+      "url": "https://www.udemy.com/course/enviar-recibir-mensajes-con-whatsapp-api-y-node-js-chatbot/"
+    },
+    {
+      "title": "CSS3 Fundamental - Estilize seus projetos web",
+      "url": "https://www.udemy.com/course/css3-fundamental-estilize-seus-projetos-web/"
+    },
+    {
+      "title": "Curso prático - HTML 5, CSS 3, JS + Bootstrap 3.3 e JQuery",
+      "url": "https://www.udemy.com/course/curso-pratico-html-5-css-3-js-bootstrap-33-e-jquery/"
+    },
+    {
+      "title": "Desarrollo Profesional Angular | Para Programadores Reales",
+      "url": "https://www.udemy.com/course/master-angular-aspnet-core/"
+    },
+    {
+      "title": "Web Tasarım Uzmanı Olmak İçin: HTML, CSS ve Bootstrap Kursu",
+      "url": "https://www.udemy.com/course/bilgisayar-ogretmeninden-temel-web-yazlm-kursu/"
+    },
+    {
+      "title": "【한글자막】 Spring Boot 3 & Spring Framework 6 마스터하기! [최신판]",
+      "url": "https://www.udemy.com/course/spring-boot-and-spring-framework-korean/"
+    },
+    {
+      "title": "Programador web: PHP y MySqli Profesional ¡Fácil y Práctico!",
+      "url": "https://www.udemy.com/course/programador-web-php-y-mysql-profesional-facil-y-practico/"
+    },
+    {
+      "title": "Crear un API RESTful con Slim PHP y usarla con AJAX",
+      "url": "https://www.udemy.com/course/crear-un-api-restful-con-slim-php-y-usarla-con-ajax/"
+    },
+    {
+      "title": "Full Track to be Oracle APEX Developer [ English subtitles]",
+      "url": "https://www.udemy.com/course/full-track-be-oracle-apex-developer/"
+    },
+    {
+      "title": "【Discordクローン開発】React/Redux/Typescript/Firebaseで作るアプリ開発実践講座",
+      "url": "https://www.udemy.com/course/discord-clone-udemy/"
+    },
+    {
+      "title": "Next.js : Cours Complet",
+      "url": "https://www.udemy.com/course/nextjs-cours-complet/"
+    },
+    {
+      "title": "SASS e SCSS do básico ao avançado + Projetos",
+      "url": "https://www.udemy.com/course/sass-e-scss-do-basico-ao-avancado-projetos/"
+    },
+    {
+      "title": "Python Django ile Sıfırdan İleri Seviye Web Geliştirme",
+      "url": "https://www.udemy.com/course/python-django-dersleri/"
+    },
+    {
+      "title": "Curso de CodeIgniter: Desenvolva para web de forma Ágil",
+      "url": "https://www.udemy.com/course/criando-aplicacoes-web-com-o-framework-php-codeigniter-3/"
+    },
+    {
+      "title": "Node.js + Express + MongoDB で作る Webアプリケーション 実践講座",
+      "url": "https://www.udemy.com/course/web-application-with-nodejs-express/"
+    },
+    {
+      "title": "Ingeniería de Software con PHP, HTML 5 y Material Design",
+      "url": "https://www.udemy.com/course/desarrollo-de-sistema-empresarial-con-php-y-material-design/"
+    },
+    {
+      "title": "HTML5 Completo",
+      "url": "https://www.udemy.com/course/modulo-i-intro-html/"
+    },
+    {
+      "title": ".Net Core Developer - Bilinmesi Gereken Kütüphaneler",
+      "url": "https://www.udemy.com/course/net-core-developer-bilmesi-gereken-kutuphaneler-konular/"
+    },
+    {
+      "title": "Asp Net Core Mvc /Api Öğrenin : A-Z",
+      "url": "https://www.udemy.com/course/asp-net-core-mvc-api-ogrenin-a-z/"
+    },
+    {
+      "title": "【しっかり身につける】PHP基礎の学習後に見てほしいLaravel入門(Laravel12対応)",
+      "url": "https://www.udemy.com/course/laravel9/"
+    },
+    {
+      "title": "Angular e integração de APIs",
+      "url": "https://www.udemy.com/course/angular-7-e-integracao-de-apis/"
+    },
+    {
+      "title": "Web Personal MERN Full Stack: MongoDB, Express, React y Node",
+      "url": "https://www.udemy.com/course/web-personal-mern-full-stack-mongodb-express-react-node/"
+    },
+    {
+      "title": "Ultimate JavaScript: de cero a programador experto",
+      "url": "https://www.udemy.com/course/ultimate-javascript-de-cero-a-programador-experto/"
+    },
+    {
+      "title": "Full Stack Node.js React TS NestJS Next.js Creando Proyectos",
+      "url": "https://www.udemy.com/course/curso-full-stack-nodejs-react-typescript-nestjs-nextjs/"
+    },
+    {
+      "title": "Фундаментальный JavaScript. С практикой и проектами",
+      "url": "https://www.udemy.com/course/fundamental-javascript/"
+    },
+    {
+      "title": "Domina los módulos más usados de Spring en 2025",
+      "url": "https://www.udemy.com/course/spring-boot-3-y-spring-framework-6-2023/"
+    },
+    {
+      "title": "Верстка интернет магазина с нуля до завершения, HTML/CSS/JS",
+      "url": "https://www.udemy.com/course/htmlcssjs/"
+    },
+    {
+      "title": "Criando um Dashboard do Zero com PHP,MySQL e Bootstrap",
+      "url": "https://www.udemy.com/course/criando-um-dashboard-do-zero-com-phpmysql-e-bootstrap/"
+    },
+    {
+      "title": "Django REST Framework de cero a experto",
+      "url": "https://www.udemy.com/course/django-rest-framework-de-cero-a-experto/"
+    },
+    {
+      "title": "Orientação a Objetos com JavaScript (Projetos e TypeScript)",
+      "url": "https://www.udemy.com/course/orientacao-a-objetos-com-javascript-projetos-e-typescript/"
+    },
+    {
+      "title": "Die WordPress Anleitung: Der komplette A bis Z Kurs 2025",
+      "url": "https://www.udemy.com/course/wordpress-anleitung/"
+    },
+    {
+      "title": "Desenvolvendo REST / RESTful APIs com Ruby on Rails",
+      "url": "https://www.udemy.com/course/rubyonrails-api/"
+    },
+    {
+      "title": "พัฒนาเว็บแอพพลิเคชั่นด้วย React (Real-World Projects)",
+      "url": "https://www.udemy.com/course/react-real-world-projects/"
+    },
+    {
+      "title": "Aprenda a Criar Especificações de APIs com Swagger e OpenAPI",
+      "url": "https://www.udemy.com/course/aprenda-a-criar-especificacoes-de-apis-com-swagger-e-openapi/"
+    },
+    {
+      "title": "【한글자막】 Next.js 15 & React - 완벽 가이드",
+      "url": "https://www.udemy.com/course/nextjs-react-incl-two-paths/"
+    },
+    {
+      "title": "Astro: El framework para sitios web orientados al contenido",
+      "url": "https://www.udemy.com/course/astro-guia-completa/"
+    },
+    {
+      "title": "Nuxt.js ile Vue.js Uygulamalarınızı Güçlendirin",
+      "url": "https://www.udemy.com/course/sifirdan-nuxtjs-egitimi/"
+    },
+    {
+      "title": "速習＋詳細＋実例 jQuery講座",
+      "url": "https://www.udemy.com/course/jquery-kouza/"
+    },
+    {
+      "title": "Chatbot WhatsApp API, Python Enviar y recibir mensajes",
+      "url": "https://www.udemy.com/course/whatsapp-api-y-python-chatbot-enviar-y-recibir-mensajes/"
+    },
+    {
+      "title": "Laravel 6-11 desde 0 +integración con Tailwind.css y Vue 3",
+      "url": "https://www.udemy.com/course/laravel-6-desde-cero-integracion-con-boopstrap-4-y-vue/"
+    },
+    {
+      "title": "Desarrollo Web con Spring 4",
+      "url": "https://www.udemy.com/course/desarrollo-web-con-spring/"
+    },
+    {
+      "title": "Angular 開發實戰：從零開始",
+      "url": "https://www.udemy.com/course/angular-zero/"
+    },
+    {
+      "title": "NodeJS Pro - Tự Học từ số 0 (MVC, REST APIs, SQL/MongoDB)",
+      "url": "https://www.udemy.com/course/hoidanit-backend-restful-api-from-zero/"
+    },
+    {
+      "title": "【HTML/CSS/JavaScript】Webプログラミング初心者のための入門講座ー制作から公開までこなせるスキルを！",
+      "url": "https://www.udemy.com/course/tane-beginner/"
+    },
+    {
+      "title": "一變應萬變的響應式網頁設計",
+      "url": "https://www.udemy.com/course/responsive/"
+    },
+    {
+      "title": "Praktyczny kurs ASP.NET Core REST Web API od podstaw (C#)",
+      "url": "https://www.udemy.com/course/praktyczny-kurs-aspnet-core-rest-web-api-od-podstaw/"
+    },
+    {
+      "title": "Aprende a programar en Java",
+      "url": "https://www.udemy.com/course/aprende-a-programar-en-java/"
+    },
+    {
+      "title": "Introdução ao Vue JS 2",
+      "url": "https://www.udemy.com/course/introducao-ao-vue-js-2/"
+    },
+    {
+      "title": "Curso Javascript do Futuro - ES6/7 / Webpack 2 / TypeScript",
+      "url": "https://www.udemy.com/course/curso-javascript-do-futuro/"
+    },
+    {
+      "title": "Angular и NgRx - пишем реальный проект с нуля",
+      "url": "https://www.udemy.com/course/angular-and-ngrx-writing-real-project-from-scratch/"
+    },
+    {
+      "title": "モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する",
+      "url": "https://www.udemy.com/course/webpack-crash-course/"
+    },
+    {
+      "title": "Temel HTML - Yeni Başlayanlar İçin Kolay ve Pratik Öğrenme",
+      "url": "https://www.udemy.com/course/course-html101/"
+    },
+    {
+      "title": "Master en PHP Moderno 7 y 8 POO, PDO, Mysql, SQL, PostgreSQL",
+      "url": "https://www.udemy.com/course/master-php-moderno/"
+    },
+    {
+      "title": "Vue 3 JS: De cero a experto creando aplicaciones reales",
+      "url": "https://www.udemy.com/course/vue-3-js-de-cero-a-experto-creando-aplicaciones-reales/"
+    },
+    {
+      "title": "LESS de cero a experto",
+      "url": "https://www.udemy.com/course/less-de-cero-a-experto/"
+    },
+    {
+      "title": "Maîtriser Node.js et son écosystème (NPM, Express, Mongo, …)",
+      "url": "https://www.udemy.com/course/maitriser-nodejs-et-son-ecosysteme-npm-express-mongo/"
+    },
+    {
+      "title": "Codeigniter ile Sıfırdan CMS Yapımı",
+      "url": "https://www.udemy.com/course/codeigniter-ile-sifirdan-ileri-duzey-cms-yapimi/"
+    },
+    {
+      "title": "Lerne großartige Webseiten zu erstellen",
+      "url": "https://www.udemy.com/course/grossartige-webseiten-erstellen/"
+    },
+    {
+      "title": "React Ultimate - React.JS Cơ Bản Từ Z Đến A Cho Beginners",
+      "url": "https://www.udemy.com/course/hoidanit-react-basic-ultimate/"
+    },
+    {
+      "title": "API REST em Node.JS aplicando testes (TDD) desde o princípio",
+      "url": "https://www.udemy.com/course/api-rest-nodejs-com-testes/"
+    },
+    {
+      "title": "Desenvolvimento Web com Quarkus",
+      "url": "https://www.udemy.com/course/des-web-quarkus/"
+    },
+    {
+      "title": "Projelerle Ustalaşın 10+ PHP Premium Proje ve Tema Giydirme",
+      "url": "https://www.udemy.com/course/projelerle-ustalasin-10-php-premium-proje-ve-tema-giydirme/"
+    },
+    {
+      "title": "A Complete Web Development Course 2.0 (In HINDI)",
+      "url": "https://www.udemy.com/course/a-complete-web-development-course-in-hindi/"
+    },
+    {
+      "title": "Java a Profundidad. JEE, MVC, JPA, RegEX, Generics y más",
+      "url": "https://www.udemy.com/course/java-a-profundidad/"
+    },
+    {
+      "title": "Backend COMPLETO com Java - APIRestFull e Microsserviços",
+      "url": "https://www.udemy.com/course/backend-completo-com-java-apirestfull-e-microsservicos/"
+    },
+    {
+      "title": "Python + Django: с нуля до коммерческих приложений",
+      "url": "https://www.udemy.com/course/python-django-app/"
+    },
+    {
+      "title": "NestJs do Zero com TypeORM, Mongoose, Prisma e Swagger",
+      "url": "https://www.udemy.com/course/nestjs-do-zero/"
+    },
+    {
+      "title": "La Ruta de Python | Django Fullstack Developer",
+      "url": "https://www.udemy.com/course/la-ruta-de-python-django/"
+    },
+    {
+      "title": "Vue.js 2 - Der Praxiskurs (inkl. vue-router, vuex, uvm.)",
+      "url": "https://www.udemy.com/course/vuejs-2-der-praxiskurs-inkl-vue-router-vuex-uvm/"
+    },
+    {
+      "title": "NestJS + Microservicios: Aplicaciones escalables y modulares",
+      "url": "https://www.udemy.com/course/nestjs-microservicios/"
+    },
+    {
+      "title": "Angular - The Complete Guide (2025 Edition)",
+      "url": "https://www.udemy.com/course/the-complete-guide-to-angular-2/"
+    },
+    {
+      "title": "Développement Moderne Javascript et ES6,ES7",
+      "url": "https://www.udemy.com/course/javascript-es6-es7/"
+    },
+    {
+      "title": "Aprende a crear una API RESTful con Java y Spring Boot",
+      "url": "https://www.udemy.com/course/aprende-a-crear-una-api-restful-con-java-y-spring-boot/"
+    },
+    {
+      "title": "NodeJS: Développer Votre Première API Rest avec MySQL",
+      "url": "https://www.udemy.com/course/nodejs-tutorial-francais-express-api-rest-mysql/"
+    },
+    {
+      "title": "Aprende a programar en PHP DESDE CERO",
+      "url": "https://www.udemy.com/course/curso-basico-de-programacion-en-php/"
+    },
+    {
+      "title": "Bootstrap3＋Dreamweaver(CC2018)＋HTML5＋CSS3　レスポンシブWEBデザイン実践コース",
+      "url": "https://www.udemy.com/course/bootstraphtml5css3dreamweaver-web/"
+    },
+    {
+      "title": "Arquitectura de Software",
+      "url": "https://www.udemy.com/course/arquitectura-de-software/"
+    },
+    {
+      "title": "Curso de Visual Studio Code: 80 Trucos de productividad",
+      "url": "https://www.udemy.com/course/curso-de-visual-studio-code-80-trucos-productividad-programar-rapido/"
+    },
+    {
+      "title": "90 Dakikada Wordpress Eğitimi",
+      "url": "https://www.udemy.com/course/90dkwordpressegitimi/"
+    },
+    {
+      "title": "Angular con DevOps, TDD, Pruebas Unitarias, Pipelines, Azure",
+      "url": "https://www.udemy.com/course/angular-con-devops-tdd-pruebas-unitarias-pipelines-git/"
+    },
+    {
+      "title": "JavaScript, HTML e CSS para Iniciantes",
+      "url": "https://www.udemy.com/course/logica-de-programacao-e-php/"
+    },
+    {
+      "title": "Sviluppare Full Stack Apps con Angular e ASP Net Core",
+      "url": "https://www.udemy.com/course/sviluppare-full-stack-applications-con-angular-e-net-core/"
+    },
+    {
+      "title": "PHP & MySQL od Podstaw do Eksperta",
+      "url": "https://www.udemy.com/course/php-mysql-od-podstaw-do-eksperta/"
+    },
+    {
+      "title": "Node.jsで学ぶWebシステムとソフトウェア開発基礎！Node.js完全入門ガイド",
+      "url": "https://www.udemy.com/course/nodejs-comp-guide/"
+    },
+    {
+      "title": "Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9",
+      "url": "https://www.udemy.com/course/desarrollando-aplicaciones-en-angular-y-aspnet-core-v2/"
+    },
+    {
+      "title": "Asp.Net Core Üyelik Sistemi (Asp.Net Core Identity)",
+      "url": "https://www.udemy.com/course/aspnet-core-uyelik-sistemi-identity-api/"
+    },
+    {
+      "title": "API REST e Spring Boot: Aprenda do Zero e na Prática",
+      "url": "https://www.udemy.com/course/api-rest-e-spring-boot-aprenda-do-zero-e-na-pratica/"
+    },
+    {
+      "title": "精通 Bootstrap 4 - 開發超強不解釋",
+      "url": "https://www.udemy.com/course/getbootstrap-4/"
+    },
+    {
+      "title": "Développeur React | Formation Complète",
+      "url": "https://www.udemy.com/course/reactjs-tutorial-francais-authentication-api-rest-autocomplete-router/"
+    },
+    {
+      "title": "Impara PHP e MySQL da zero e sviluppa un ecommerce completo",
+      "url": "https://www.udemy.com/course/realizza-pagine-web-dinamiche-con-php-e-mysql/"
+    },
+    {
+      "title": "Django 3 - Full Stack разработка веб-сайтов на Python",
+      "url": "https://www.udemy.com/course/django-3-full-stack-python/"
+    },
+    {
+      "title": "【Laravel】【Vue.js3】で【CRM(顧客管理システム)】をつくってみよう【Breeze(Inertia)】",
+      "url": "https://www.udemy.com/course/laravel-vue3-crm/"
+    },
+    {
+      "title": "Aprende Laravel y desarrolla una app de pedidos en línea",
+      "url": "https://www.udemy.com/course/curso-laravel-5-5-desde-cero-desarrolla-publica-una-app-pedidos/"
+    },
+    {
+      "title": "Introducción a JavaScript",
+      "url": "https://www.udemy.com/course/introduccion-a-javascript-x/"
+    },
+    {
+      "title": "Aprenda PHP na Prática",
+      "url": "https://www.udemy.com/course/aprenda-php-na-pratica/"
+    },
+    {
+      "title": "Tailwind CSS do básico ao avançado + Projetos",
+      "url": "https://www.udemy.com/course/tailwind-css-do-basico-ao-avancado-com-projetos/"
+    },
+    {
+      "title": "Web Tasarım ve Kodlama + Seo - Hızlı ve Kolay",
+      "url": "https://www.udemy.com/course/yeni-baslayanlar-icin-1-saat-de-hizlandirilmis-html-5-kursu/"
+    },
+    {
+      "title": "Megacurso de Bootstrap de Cero a Maestro",
+      "url": "https://www.udemy.com/course/megacurso-bootstrap-4/"
+    },
+    {
+      "title": "Sviluppare Full Stack Apps con Spring Boot 3 e Angular 17",
+      "url": "https://www.udemy.com/course/sviluppare-full-stack-applications-con-spring-boot-e-angular/"
+    },
+    {
+      "title": "ASP.NET Core y Clean Architecture con Domain Driven Design",
+      "url": "https://www.udemy.com/course/clean-architecture/"
+    },
+    {
+      "title": "Master en programación fullstack JavaScript Angular Node",
+      "url": "https://www.udemy.com/course/master-en-programacion-fullstack-javascript-angular-node/"
+    },
+    {
+      "title": "Formação Angular + Spring Boot",
+      "url": "https://www.udemy.com/course/formacao-angular-spring-boot/"
+    },
+    {
+      "title": "ASP.NET CORE MVC",
+      "url": "https://www.udemy.com/course/aspnet-core-mvc-completo/"
+    },
+    {
+      "title": "Practical HTML, CSS, JS: 10 Real-World Projects for Practice",
+      "url": "https://www.udemy.com/course/10-html-css-js-projects-html5-css3-and-vanilla-javascript/"
+    },
+    {
+      "title": "Creación de API REST con Laravel y MySQL",
+      "url": "https://www.udemy.com/course/creacion-de-webservice-api-rest-con-laravel/"
+    },
+    {
+      "title": "Sıfırdan React Kursu - Sıfırdan Uzmanlığa React Eğitimi 2025",
+      "url": "https://www.udemy.com/course/sifirdan-react-kursu-sifirdan-uzmanliga-react-egitimi/"
+    },
+    {
+      "title": "Curso de VueJS 2 en Español - Crea webapps modernas",
+      "url": "https://www.udemy.com/course/curso-de-vuejs-2-en-espanol-crea-webapps-modernas/"
+    },
+    {
+      "title": "ฝึกสร้าง เว็บ ด้วย React อย่างมือโปร",
+      "url": "https://www.udemy.com/course/react-bootcamp/"
+    },
+    {
+      "title": "Do Zero ao Chatbot - vários projetos práticos",
+      "url": "https://www.udemy.com/course/criando-chatbots/"
+    },
+    {
+      "title": "HTML et CSS - Le Cours Complet",
+      "url": "https://www.udemy.com/course/cours-html-css/"
+    },
+    {
+      "title": "HTML5＆CSS3＋JavaScript 講座【初級レベル】コーディングに自信のない方や独学者の復習に最適です。",
+      "url": "https://www.udemy.com/course/html5-jp/"
+    },
+    {
+      "title": "TypeScript Pour Tous: L'ultime Formation [19h en Français]",
+      "url": "https://www.udemy.com/course/typescript-pour-tous/"
+    },
+    {
+      "title": "Crea sistemas de ventas por suscripción y MLM con PHP-PayPal",
+      "url": "https://www.udemy.com/course/crea-sistemas-de-ventas-por-suscripcion-y-mlm-con-php-paypal/"
+    },
+    {
+      "title": "REACT para principiantes",
+      "url": "https://www.udemy.com/course/introduccion-basica-a-react/"
+    },
+    {
+      "title": "使用 jQuery 打造互動性網頁動畫效果",
+      "url": "https://www.udemy.com/course/jquery-learning/"
+    },
+    {
+      "title": "Symfony - Der umfassende Grundkurs für Einsteiger",
+      "url": "https://www.udemy.com/course/symfony-grundkurs/"
+    },
+    {
+      "title": "Crie bot através de Web Scraping, Crawling com C# e Selenium",
+      "url": "https://www.udemy.com/course/crie-bot-atraves-de-web-scraping-crawling-com-c-e-selenium/"
+    },
+    {
+      "title": "Développez Full Stack avec Spring Boot 3 et Angular [2025]",
+      "url": "https://www.udemy.com/course/developpez-en-full-stack-avec-spring-boot-et-angular/"
+    },
+    {
+      "title": "HTML da Zero: Crea il Tuo Primo Sito Web con Facilità",
+      "url": "https://www.udemy.com/course/corso-html-css-per-principianti/"
+    },
+    {
+      "title": "ReactJs-Build Full E-Commerce-Scratch Redux (بالعربي)",
+      "url": "https://www.udemy.com/course/reactjs-build-full-e-commerce-from-scratch-redux/"
+    },
+    {
+      "title": "สร้างเว็บแอพพลิเคชั่นด้วย JavaScript (Building 20 Projects)",
+      "url": "https://www.udemy.com/course/javascript-building-20-projects/"
+    },
+    {
+      "title": "WordPress - Le Cours Complet",
+      "url": "https://www.udemy.com/course/cours-wordpress/"
+    },
+    {
+      "title": "Python & Django - Formation Développeur Web Full Stack",
+      "url": "https://www.udemy.com/course/python-django-formation-developpeur-web-full-stack/"
+    },
+    {
+      "title": "【한글자막】 Typescript :기초부터 실전형 프로젝트까지 with React + NodeJS",
+      "url": "https://www.udemy.com/course/best-typescript-21/"
+    },
+    {
+      "title": "ReactJS y redux: experto en frontend en español",
+      "url": "https://www.udemy.com/course/reactjs-experto-en-frontend-2018/"
+    },
+    {
+      "title": "Spring Boot,Thymeleaf,MySQL,MongoDB,API Rest,Angular (2025)",
+      "url": "https://www.udemy.com/course/spring-boot-thymeleaf-mysql-mongodb-api-rest/"
+    },
+    {
+      "title": "React.js e Redux in Italiano: Teoria, Hooks + 11 Progetti",
+      "url": "https://www.udemy.com/course/reactjs-in-italiano-teoria-base-hooks-10-progetti/"
+    },
+    {
+      "title": "Visual Basic .NET na PRÁTICA + POO (ATUALIZADO 2021)",
+      "url": "https://www.udemy.com/course/visual-basicnet-na-pratica/"
+    },
+    {
+      "title": "NestJS: Aprende a desarrollar APIs en menos de 2 horas",
+      "url": "https://www.udemy.com/course/nestjs-aprende-a-desarrollar-de-apis-en-menos-de-2-horas/"
+    },
+    {
+      "title": "Google Firebase na Prática e em Detalhes (Usando JavaScript)",
+      "url": "https://www.udemy.com/course/google-firebase-na-pratica-e-em-detalhes-usando-javascript/"
+    },
+    {
+      "title": "Domina SOAP en 13 minutos:Node,JAX-WS,Spring y ASP.NET Fácil",
+      "url": "https://www.udemy.com/course/servicios-web-soap-con-jax-wsspringhibernate-y-osb/"
+    },
+    {
+      "title": "Web Frontend Completo: HTML, CSS, JS, TS, React e Next 2025",
+      "url": "https://www.udemy.com/course/web-frontend-completo-html-css-javascript-typescript-react-next/"
+    },
+    {
+      "title": "Conception de bases de données et langage SQL",
+      "url": "https://www.udemy.com/course/conception-de-bases-de-donnees-et-langage-sql/"
+    },
+    {
+      "title": "Máster en Front-End: Crea Temas para WordPress, PHP, Angular",
+      "url": "https://www.udemy.com/course/master-en-arquitectura-front-end-con-bootstrap4-wordpress-y-angular/"
+    },
+    {
+      "title": "Design de API's RestFul com Spring Boot, TDD, JUnit5, Mocks",
+      "url": "https://www.udemy.com/course/design-de-apis-restful-com-tdd-spring-boot-e-junit-5/"
+    },
+    {
+      "title": "WEBデザイン講座 Level1《初級者レベル》CanvaでデザインしHTMLxCSSでコーディング＋公開までを速習する",
+      "url": "https://www.udemy.com/course/web_design1/"
+    },
+    {
+      "title": "HTML5 + CSS3: Vom Anfänger zum Webentwickler",
+      "url": "https://www.udemy.com/course/html5-und-css3/"
+    },
+    {
+      "title": "Creando Restful services PHP-MYSQL (Codeigniter 3) - 2016",
+      "url": "https://www.udemy.com/course/creando-restful-services-php-mysql/"
+    },
+    {
+      "title": "HTML5 & CSS3 Build: Two Responsive Websites in Hindi",
+      "url": "https://www.udemy.com/course/css3-in-hindi/"
+    },
+    {
+      "title": "Asp.Net Core + Docker ve Docker Compose",
+      "url": "https://www.udemy.com/course/aspnet-core-docker/"
+    },
+    {
+      "title": "HTML5 e CSS3 para Iniciantes + Criação de Portal de Notícias",
+      "url": "https://www.udemy.com/course/html5-css3-basico/"
+    },
+    {
+      "title": "Sviluppo web a microservizi REST con Java Spring boot e AJAX",
+      "url": "https://www.udemy.com/course/sviluppo-web-a-microservizi-rest-con-java-spring-boot-e-ajax/"
+    },
+    {
+      "title": "Curso de PHP Orientado a Objetos",
+      "url": "https://www.udemy.com/course/curso-de-php-orientado-a-objetos/"
+    },
+    {
+      "title": "【とても古いです】【Python 3 x Django 2.0】作りながら覚えるDjango",
+      "url": "https://www.udemy.com/course/learning-while-building-django-novice/"
+    },
+    {
+      "title": "React JS + Firebase + Bootstrap: projeto passo á passo",
+      "url": "https://www.udemy.com/course/react-js-firebase-bootstrap-projeto-passo-a-passo/"
+    },
+    {
+      "title": "全端初體驗",
+      "url": "https://www.udemy.com/course/fullstack-starter/"
+    },
+    {
+      "title": "Java Microservices con Spring Boot, Spring Cloud e AWS",
+      "url": "https://www.udemy.com/course/java-microservices-con-spring-boot-e-spring-cloud/"
+    },
+    {
+      "title": "Linux с нуля до Сертификата (Линукс)",
+      "url": "https://www.udemy.com/course/linux-lpi/"
+    },
+    {
+      "title": "【Next.js13】最新バージョンのNext.js13をマイクロブログ構築しながら基礎と本質を学ぶ講座",
+      "url": "https://www.udemy.com/course/nextjs13_learning_with_microblog/"
+    },
+    {
+      "title": "Creando Web APIs Profesionales con .NET 8+",
+      "url": "https://www.udemy.com/course/creando-web-apis-profesionales-con-aspnet-core-22/"
+    },
+    {
+      "title": "Máster en Blazor - Server y WebAssembly (WASM) (.NET 9)",
+      "url": "https://www.udemy.com/course/master-blazor/"
+    },
+    {
+      "title": "Vue.js + Firebaseで作るシングルページアプリケーション",
+      "url": "https://www.udemy.com/course/vuejs-firebase/"
+    },
+    {
+      "title": "【2024年最新版】初めてのAngular超入門。実践で学ぶ本格Webアプリ開発【TypeScript】",
+      "url": "https://www.udemy.com/course/angular-beginner/"
+    },
+    {
+      "title": "Полный Курс Веб-Разработчика 2.0",
+      "url": "https://www.udemy.com/course/the-complete-web-developer-course-2-russian/"
+    },
+    {
+      "title": "Alexa Skill Builder para Iniciantes - Crie Apps para Alexa",
+      "url": "https://www.udemy.com/course/alexa-skill-builder-curso-completo/"
+    },
+    {
+      "title": "Webpack do básico ao avançado + Projeto e Micro-frontend",
+      "url": "https://www.udemy.com/course/webpack-do-basico-ao-avancado-com-projeto/"
+    },
+    {
+      "title": "모던 리액트(React)와 리덕스(Redux)",
+      "url": "https://www.udemy.com/course/react-redux-korean/"
+    },
+    {
+      "title": "(120+Saat)Komple Uygulamalı Web Geliştirme Eğitimi | .NET",
+      "url": "https://www.udemy.com/course/komple-uygulamali-web-gelistirme-egitimi/"
+    },
+    {
+      "title": ".NET 6 WEB API - Do zero ao avançado",
+      "url": "https://www.udemy.com/course/net-6-web-api-do-zero-ao-avancado/"
+    },
+    {
+      "title": "ASP.NET CORE MVC - Sistema para Gestão de Vendas",
+      "url": "https://www.udemy.com/course/aspnet-core-mvc-sistema-para-gestao-de-vendas/"
+    },
+    {
+      "title": "Sıfırdan SAS Öğrenin (Türkçe)",
+      "url": "https://www.udemy.com/course/sfrdan-sas-ogrenin-turkce/"
+    },
+    {
+      "title": "Tailwind CSS do zero ao avançado + Projetos",
+      "url": "https://www.udemy.com/course/tailwind-completo/"
+    },
+    {
+      "title": "HTML5 Fundamental - o seu primeiro passo na web",
+      "url": "https://www.udemy.com/course/html5-fundamental-o-seu-primeiro-passo-na-web/"
+    },
+    {
+      "title": "Crea Sistemas Marketplace con PHP 8 y bases de datos MySQL",
+      "url": "https://www.udemy.com/course/crea-sistemas-marketplace-con-php-y-bases-de-datos-mysql/"
+    },
+    {
+      "title": "Crea sistemas de Reservas y Alquiler con PHP y MercadoPago",
+      "url": "https://www.udemy.com/course/crea-sistemas-de-reservas-y-alquiler-con-php-y-mercado-pago/"
+    },
+    {
+      "title": "Desarrollo de un Blog con Manejo de Roles y Permisos",
+      "url": "https://www.udemy.com/course/blog-laravel/"
+    },
+    {
+      "title": "Introdução ao Node JS + Express",
+      "url": "https://www.udemy.com/course/introducao-ao-node-js-express/"
+    },
+    {
+      "title": "Spring ve React ile Web Uygulaması Geliştirmek",
+      "url": "https://www.udemy.com/course/spring-ve-react-ile-web-uygulamas-gelistirmek/"
+    },
+    {
+      "title": "フロントエンドエンジニアのためのGraphQL with React 入門 2018年版",
+      "url": "https://www.udemy.com/course/graphql-with-react/"
+    },
+    {
+      "title": "MVC : Créer des sites web PHP performants et organisés !",
+      "url": "https://www.udemy.com/course/stucture-mvc-php/"
+    },
+    {
+      "title": "Java p/ Web V",
+      "url": "https://www.udemy.com/course/java-p-web-v/"
+    },
+    {
+      "title": "Máster en Web Services con C#",
+      "url": "https://www.udemy.com/course/master-en-web-services-con-c-sharp/"
+    },
+    {
+      "title": "Formação Profissional em Wordpress + Projetos Práticos 2024",
+      "url": "https://www.udemy.com/course/formacao-profissional-em-wordpress-projetos-praticos-criar-sites/"
+    },
+    {
+      "title": "BOOTSTRAP 5 : la formation ULTIME",
+      "url": "https://www.udemy.com/course/bootstrap-5-la-formation-ultime/"
+    },
+    {
+      "title": "Laravel ile Sıfırdan Eticaret Projesi Eğitimi",
+      "url": "https://www.udemy.com/course/laravel-ile-sifirdan-eticaret-projesi/"
+    },
+    {
+      "title": "Vue.js 3 Desde Cero",
+      "url": "https://www.udemy.com/course/vue-3-desde-cero/"
+    },
+    {
+      "title": "Apache Kafka",
+      "url": "https://www.udemy.com/course/apache-kafka-valdir/"
+    },
+    {
+      "title": "HTML i CSS - poznaj podstawy i zacznij programować!",
+      "url": "https://www.udemy.com/course/kurs-html-i-css-od-podstaw/"
+    },
+    {
+      "title": "Der Angular 11 Crashkurs - Frontend Entwicklung für Anfänger",
+      "url": "https://www.udemy.com/course/angular-komplettkurs/"
+    },
+    {
+      "title": "【한글자막】 React Query / TanStack Query : React로 서버 상태 관리하기",
+      "url": "https://www.udemy.com/course/react-query-react/"
+    },
+    {
+      "title": "Proyecto Java Web JSP, Servlet con MySQL desde NetBeans IDE",
+      "url": "https://www.udemy.com/course/introduccion-a-java-web-con-jsp-y-mysql-desde-netbeans-ide/"
+    },
+    {
+      "title": "Kurs WordPress ZEROdoPRO / Strona.Blog.Sklep Krok po Kroku",
+      "url": "https://www.udemy.com/course/kurs-online-wordpress-pro/"
+    },
+    {
+      "title": "IntelliJ ではじめる Spring Boot：課題管理アプリを作って学ぶWebアプリケーション開発の基礎",
+      "url": "https://www.udemy.com/course/intellij-spring-boot/"
+    },
+    {
+      "title": "Sıfırdan İleri Seviye Php Web Geliştirme Eğitimi PHP",
+      "url": "https://www.udemy.com/course/sifirdan-ileri-seviye-php-egitimi-web-gelistirme/"
+    },
+    {
+      "title": "jQuery Avanzado - 100 trucos profesionales - 2018",
+      "url": "https://www.udemy.com/course/jquery-avanzado-100-trucos-profesionales/"
+    },
+    {
+      "title": "الدورة الشاملة لمطور الويب من المستوى المبتدئ إلى المتقدم",
+      "url": "https://www.udemy.com/course/the-complete-web-developer-course-from-beginner-to-advance/"
+    },
+    {
+      "title": "Node.js - с нуля, основы и построение архитектуры приложений",
+      "url": "https://www.udemy.com/course/nodejs-start/"
+    },
+    {
+      "title": "Wordpress Einfach & Komplett: Erstelle deine eigene Website",
+      "url": "https://www.udemy.com/course/wordpress-einfach-komplett-erstelle-deine-eigene-website/"
+    },
+    {
+      "title": "Curso de Apps Web Progresivas PWA y Responsive + Angular PWA",
+      "url": "https://www.udemy.com/course/curso-de-apps-web-progresivas-pwa-y-responsive-angular-pwa/"
+    },
+    {
+      "title": "Curso de ASP.NET MVC en C# desde cero SQL Server full stack",
+      "url": "https://www.udemy.com/course/curso-de-aplicaciones-web-modernas-en-asp-net-core-mvc/"
+    },
+    {
+      "title": "プログラミング中級者になりたい人のためのクリーンコード入門",
+      "url": "https://www.udemy.com/course/clean-code-tutorial/"
+    },
+    {
+      "title": "Programación desde cero, Desarrollo Front y Backend práctico",
+      "url": "https://www.udemy.com/course/programacion-y-desarrollo-web-practico/"
+    },
+    {
+      "title": "Node.js, Express i MongoDB",
+      "url": "https://www.udemy.com/course/kurs-nodejs-express-mongodb/"
+    },
+    {
+      "title": "Curso completo de PHP",
+      "url": "https://www.udemy.com/course/todo-php7/"
+    },
+    {
+      "title": "Node.js: Crie sua primeira API RESTful com MongoDB",
+      "url": "https://www.udemy.com/course/nodejs-crie-sua-primeira-api-restful-com-mongodb/"
+    },
+    {
+      "title": "NestJS 10 Fundamentos",
+      "url": "https://www.udemy.com/course/curso-nest-js/"
+    },
+    {
+      "title": "TypeScript En Partant De Zéro",
+      "url": "https://www.udemy.com/course/typescript-de-a-a-z/"
+    },
+    {
+      "title": "Diseño Web Profesional y Completo con HTML5 CSS3 y BOOTSTRAP",
+      "url": "https://www.udemy.com/course/desarrollo-web-de-cero-a-experto/"
+    },
+    {
+      "title": "Next JS: Crea tu tienda online completa",
+      "url": "https://www.udemy.com/course/next-js-crea-tu-tienda-online-completa/"
+    },
+    {
+      "title": "Unit Test Yazma-Asp.Net Core MVC/API(Sıfırdan)",
+      "url": "https://www.udemy.com/course/aspnet-core-mvc-api-unit-test-yazma/"
+    },
+    {
+      "title": "プロの現場から学ぶ、AWSで高可用なWEBアプリケーション構築",
+      "url": "https://www.udemy.com/course/awsweb-handson/"
+    },
+    {
+      "title": "Docker Curso Intensivo para DevOps y Desarrolladores.",
+      "url": "https://www.udemy.com/course/curso-intensivo-de-docker-para-devops-y-desarrolladores/"
+    },
+    {
+      "title": "ASP.NET Core 5.0 Katmanlı Mimari ile Blog Uygulaması | .NET5",
+      "url": "https://www.udemy.com/course/net5aspnetcore5blog/"
+    },
+    {
+      "title": "Spring Boot 入門：TODO アプリを作って学ぶ Web アプリケーション開発の基礎",
+      "url": "https://www.udemy.com/course/poco-tech-spring-boot/"
+    },
+    {
+      "title": "블랙커피 Vanilla JS Lv1. 문벅스 카페 메뉴 앱 만들기",
+      "url": "https://www.udemy.com/course/vanilla-js-lv1/"
+    },
+    {
+      "title": "Angular JS na Prática",
+      "url": "https://www.udemy.com/course/angular-js-na-pratica/"
+    },
+    {
+      "title": "Web Design Completo: HTML, CSS, Javascript, Vue JS e Git",
+      "url": "https://www.udemy.com/course/desenvolvedor-web-front-end-completo-html-css-javascript-vue-js-e-git/"
+    },
+    {
+      "title": "Domina Laravel y Crea Aplicaciones de Alto Nivel con Laravel",
+      "url": "https://www.udemy.com/course/php-con-laravel-crea-aplicaciones-avanzadas-mientras-aprendes-laravel/"
+    },
+    {
+      "title": "Curso de desenvolvimento web para iniciantes",
+      "url": "https://www.udemy.com/course/curso-desenvolvedor-web-full-stack-jr-completo/"
+    },
+    {
+      "title": "Spring - Полный курс. Boot, Hibernate, Security, REST.",
+      "url": "https://www.udemy.com/course/spring-alishev/"
+    },
+    {
+      "title": "Entity Framework Core | Sıfırdan Zirveye",
+      "url": "https://www.udemy.com/course/entity-framework-core-sifirdan-zirveye/"
+    },
+    {
+      "title": "Spring Boot & MVC com Spring Security",
+      "url": "https://www.udemy.com/course/spring-boot-mvc-com-spring-security/"
+    },
+    {
+      "title": "PythonによるWebスクレイピング 〜Webアプリケーション編〜",
+      "url": "https://www.udemy.com/course/python-scraping-application/"
+    },
+    {
+      "title": "Domine a Arquitetura Limpa e Hexagonal",
+      "url": "https://www.udemy.com/course/arquitetura-limpa-e-hexagonal/"
+    },
+    {
+      "title": "Corso Completo di Sviluppo Web: crea da zero il tuo business",
+      "url": "https://www.udemy.com/course/corso-completo-di-sviluppo-e-programmazione-web-italiano/"
+    },
+    {
+      "title": "Le CSS de A à Z",
+      "url": "https://www.udemy.com/course/le-css-de-a-a-z/"
+    },
+    {
+      "title": "The Complete JavaScript Course 2025: From Zero to Expert!",
+      "url": "https://www.udemy.com/course/the-complete-javascript-course/"
+    },
+    {
+      "title": "MVC5 ile Sıfırdan Adım Adım Web Projesi Geliştirme",
+      "url": "https://www.udemy.com/course/mvc5-ile-sifirdan-adim-adim-web-projesi-gelistirme/"
+    },
+    {
+      "title": "Sistema Farmácia Java WEB",
+      "url": "https://www.udemy.com/course/sistema-farmacia-java-web/"
+    },
+    {
+      "title": "Sistema de Compra y Facturación con Python usando Django",
+      "url": "https://www.udemy.com/course/sistema-de-compra-y-facturacion-con-python-usando-django/"
+    },
+    {
+      "title": "Le JavaScript de A à Z",
+      "url": "https://www.udemy.com/course/le-javascript-de-a-a-z/"
+    },
+    {
+      "title": "Sıfırdan Uygulamalı React Geliştirme: Hooks,Redux & Firebase",
+      "url": "https://www.udemy.com/course/react-dersleri/"
+    },
+    {
+      "title": "Domine Microservicos e Mensageria com Spring Cloud e Docker",
+      "url": "https://www.udemy.com/course/domine-microservicos-e-mensageria-com-spring-cloud-e-docker/"
+    },
+    {
+      "title": "sistema de facturacion e inventario C# mvc Net Framework 4.5",
+      "url": "https://www.udemy.com/course/sistema-web-facturacion-e-inventario-net-framework-45/"
+    },
+    {
+      "title": "Asp.Net Core API + Token bazlı kimlik doğrulama(JWT)",
+      "url": "https://www.udemy.com/course/aspnet-core-api-token-bazli-kimlik-dogrulama-jwt/"
+    },
+    {
+      "title": "Vue.js de A à Z (Version 2)",
+      "url": "https://www.udemy.com/course/vuejs-de-a-a-z/"
+    },
+    {
+      "title": "Angular 19 - Curso Completo do Iniciante ao Avançado (2025)",
+      "url": "https://www.udemy.com/course/angular-curso-completo-do-iniciante-ao-avancado/"
+    },
+    {
+      "title": "Flask - Construye aplicaciones web profesionales con Python",
+      "url": "https://www.udemy.com/course/curso-flask/"
+    },
+    {
+      "title": "ReactJS, Hooks, Recoil, TDD, Clean Architecture, SOLID",
+      "url": "https://www.udemy.com/course/react-com-mango/"
+    },
+    {
+      "title": "SPA com Vue JS e API com Laravel",
+      "url": "https://www.udemy.com/course/spa-com-vue-js/"
+    }
+  ]
+}

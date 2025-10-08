@@ -1,0 +1,2066 @@
+{
+  "main_category": "development",
+  "sub_category": "Mobile Development",
+  "courses": [
+    {
+      "title": "Firebase: Upgrading and Creating Application on new Firebase",
+      "url": "https://www.udemy.com/course/new-firebase/"
+    },
+    {
+      "title": "Build Cinema Ticket Reservation App with Xamarin Forms",
+      "url": "https://www.udemy.com/course/build-cinema-ticket-reservation-app-with-xamarin-forms/"
+    },
+    {
+      "title": "[Latest] Flutter Development Bootcamp with Dart & Firebase",
+      "url": "https://www.udemy.com/course/flutter-bootcamp-build-native-mobile-apps-with-dart-2023/"
+    },
+    {
+      "title": "Flutter - Grocery App - WordPress - WooCommerce Series",
+      "url": "https://www.udemy.com/course/flutter-grocery-app-wordpress-woocommerce-series/"
+    },
+    {
+      "title": "Android App Development Course with Kotlin | Android A-Z™",
+      "url": "https://www.udemy.com/course/android-app-development-course-with-kotlin-android-a-ztm/"
+    },
+    {
+      "title": "Twitter Clone with Flutter, Appwrite & Riverpod - Full Guide",
+      "url": "https://www.udemy.com/course/twitter-clone-with-flutter-appwrite-riverpod-full-guide/"
+    },
+    {
+      "title": "Mastering iPhone Programming",
+      "url": "https://www.udemy.com/course/mastering-iphone-programming/"
+    },
+    {
+      "title": "Build a Web Browser for Android : 2 hour Android Project",
+      "url": "https://www.udemy.com/course/make-a-mobile-web-browser-in-1-hour-android-app-development/"
+    },
+    {
+      "title": "Build a Complete Youtube Video App: Swift2.2 & 3 and Xcode",
+      "url": "https://www.udemy.com/course/build-a-complete-youtube-video-app-in-swift-22-and-xcode/"
+    },
+    {
+      "title": "Mastering SwiftData & SwiftUI for iOS Development",
+      "url": "https://www.udemy.com/course/mastering-swift-data-for-ios/"
+    },
+    {
+      "title": "Android Complete Guide for Firebase and ML using Kotlin",
+      "url": "https://www.udemy.com/course/android-complete-guide-for-firebase-and-ml-using-kotlin/"
+    },
+    {
+      "title": "Hands-On Natural Language Processing with Pytorch",
+      "url": "https://www.udemy.com/course/hands-on-natural-language-processing-with-pytorch/"
+    },
+    {
+      "title": "Android Q App Development Mastery Course - Build 20+ Apps",
+      "url": "https://www.udemy.com/course/android-app-development-masterclass/"
+    },
+    {
+      "title": "Learn Flutter and Dart: Complete App Development Projects",
+      "url": "https://www.udemy.com/course/create-awesome-apps-with-flutter/"
+    },
+    {
+      "title": "Flutter Authentication with Firebase",
+      "url": "https://www.udemy.com/course/flutter-authentication-with-firebase/"
+    },
+    {
+      "title": "Xamarin iOS Uber Clone App with C# and Firebase (2020)",
+      "url": "https://www.udemy.com/course/xamarin-ios-uber-clone-app/"
+    },
+    {
+      "title": "iOS 13 & Swift 5: Build an Onboarding, Login/Sign-up flow",
+      "url": "https://www.udemy.com/course/ios-swift-5-build-an-onboarding-login-sign-up-flow/"
+    },
+    {
+      "title": "React Native Bootcamp 2025: Build 2 Job Ready Real Projects",
+      "url": "https://www.udemy.com/course/react-native-bootcamp-2024-build-10-job-ready-real-projects/"
+    },
+    {
+      "title": "Android Cars App using Kotlin, PHP and Google Maps",
+      "url": "https://www.udemy.com/course/android-cars-app-using-kotlin-php-and-google-maps/"
+    },
+    {
+      "title": "SwiftUI Airbnb Clone | iOS 17 | Xcode 15",
+      "url": "https://www.udemy.com/course/swiftui-airbnb-clone/"
+    },
+    {
+      "title": "Learn Fresh MVVM with Xamarin Forms",
+      "url": "https://www.udemy.com/course/learn-fresh-mvvm-with-xamarin-forms/"
+    },
+    {
+      "title": "Vibe Coding for iOS Developers",
+      "url": "https://www.udemy.com/course/ai-tools-for-ios-development-chatgpt-github-copilot/"
+    },
+    {
+      "title": "Beginner Mobile App Development with Appcelerator Titanium",
+      "url": "https://www.udemy.com/course/mobile-phone-development/"
+    },
+    {
+      "title": "NativeScript - First Steps",
+      "url": "https://www.udemy.com/course/learn-nativescript/"
+    },
+    {
+      "title": "Learn to Build iOS apps, Android apps, Games and Websites!",
+      "url": "https://www.udemy.com/course/learn-to-build-ios-apps-android-apps-games-and-websites/"
+    },
+    {
+      "title": "Music Streaming Application in Xamarin Forms",
+      "url": "https://www.udemy.com/course/music-streaming-in-xamarin-forms/"
+    },
+    {
+      "title": "Intro to SwiftUI",
+      "url": "https://www.udemy.com/course/intro-to-swiftui/"
+    },
+    {
+      "title": "Swift & iOS | WhatsApp Chat | MVVM | Firestore socket",
+      "url": "https://www.udemy.com/course/swift-ios-whatsapp-chat-mvvm-firestore-socket/"
+    },
+    {
+      "title": "Develop professional apps for Android and iOS using Livecode",
+      "url": "https://www.udemy.com/course/livecodemobile/"
+    },
+    {
+      "title": "iOS 12 & Swift 4.2 - Complete Developer Course",
+      "url": "https://www.udemy.com/course/ios-12-swift-4-2/"
+    },
+    {
+      "title": "Swift 3, Spritekit, iOS 10: Program an iPhone Memory game",
+      "url": "https://www.udemy.com/course/program-a-pro-iphone-memory-game-using-swift-and-spritekit/"
+    },
+    {
+      "title": "Xamarin - deliver native apps for iOS, Android and Windows",
+      "url": "https://www.udemy.com/course/xamarin-native-mobile-apps-for-ios-android-and-windows/"
+    },
+    {
+      "title": "Publish an iOS Mega Casino game - Code and graphics included",
+      "url": "https://www.udemy.com/course/publish-an-ios-mega-casino-game-code-and-graphics-included/"
+    },
+    {
+      "title": "Train & Deploy TFLite Object Detection for Android (2025)",
+      "url": "https://www.udemy.com/course/train-object-detection-models-for-android-java-kotlin/"
+    },
+    {
+      "title": "Android MySQL Retrofit2 Multipart CRUD,Search,Pagination",
+      "url": "https://www.udemy.com/course/android-mysql-retrofit-crud-with-search-and-pagination/"
+    },
+    {
+      "title": "Flutter for window : Building your first desktop application",
+      "url": "https://www.udemy.com/course/flutter-window-application/"
+    },
+    {
+      "title": "Learn .NET MAUI as an Absolute Beginner A to Z.",
+      "url": "https://www.udemy.com/course/learn-net-maui-as-an-absolute-beginner-by-creating-apps/"
+    },
+    {
+      "title": "iOS 10 & Swift 3 - Complete Developer Course",
+      "url": "https://www.udemy.com/course/swift-3-ios10/"
+    },
+    {
+      "title": "Learn coding in Android Studio by making complete apps!",
+      "url": "https://www.udemy.com/course/android-studio-from-scratch-build-mobile-apps/"
+    },
+    {
+      "title": "React Native Step By Step for Beginners | E-commerce App",
+      "url": "https://www.udemy.com/course/react-native-e-commerce-app/"
+    },
+    {
+      "title": "Learn To Create JARVIS AI [Mark-I] Android App Using JAVA",
+      "url": "https://www.udemy.com/course/learn-to-create-jarvis-ai-mark-i-android-app-using-java/"
+    },
+    {
+      "title": "Outsystems mobile application development bootcamp.",
+      "url": "https://www.udemy.com/course/outsystems-mobile-development/"
+    },
+    {
+      "title": "Swift 4 and iOS 11: Building a Store Front App",
+      "url": "https://www.udemy.com/course/pirate-bay-ios-swift-3-development-complete/"
+    },
+    {
+      "title": "Map Kit Mastery: iOS 12 & Swift 4",
+      "url": "https://www.udemy.com/course/map-kit-mastery-ios-12-swift-4/"
+    },
+    {
+      "title": "Flutter and Nodejs Course | Job App With Chatting",
+      "url": "https://www.udemy.com/course/flutter-and-nodejs-mongodb-course-with-chatting/"
+    },
+    {
+      "title": "Build To Do List App like Google Task with Firebase & Swift5",
+      "url": "https://www.udemy.com/course/build-a-to-do-list-app-like-google-task-with-firebase/"
+    },
+    {
+      "title": "Flutter & Node Tutorial: Build Amazon Clone with Admin Panel",
+      "url": "https://www.udemy.com/course/flutter-node-tutorial/"
+    },
+    {
+      "title": "Firebase Crash Course for Flutter Developers - Android & IOS",
+      "url": "https://www.udemy.com/course/flutterfire-crash-course-for-beginners-android-ios/"
+    },
+    {
+      "title": "Learn to Build Apps for Facebook and Chrome Store",
+      "url": "https://www.udemy.com/course/learn-to-build-apps-for-facebook-and-chrome-store/"
+    },
+    {
+      "title": "Make 5 Free Awesome Augmented Reality Experiences Today",
+      "url": "https://www.udemy.com/course/make-5-free-awesome-augmented-reality-experiences-today/"
+    },
+    {
+      "title": "iOS Development - App Monetization for Swift 3 & iOS 10",
+      "url": "https://www.udemy.com/course/ios-development-app-monetization-for-swift-3-ios-10/"
+    },
+    {
+      "title": "Full Stack Android Development and Mobile App Marketing",
+      "url": "https://www.udemy.com/course/full-stack-android-development-and-mobile-app-marketing/"
+    },
+    {
+      "title": "Mastering React Native with NodeJs and MongoDB",
+      "url": "https://www.udemy.com/course/react-native-nodejs-mongodb/"
+    },
+    {
+      "title": "iPad Programming for iPhone Developers - Extend Your Reach",
+      "url": "https://www.udemy.com/course/ios9-ios-9-ipad-programming-for-swift-iphone-developers/"
+    },
+    {
+      "title": "Create A Beautiful Android Media Player Application",
+      "url": "https://www.udemy.com/course/create-a-beautiful-android-media-player-application/"
+    },
+    {
+      "title": "Engine Design (ICE) - 1 Cylinder to V16",
+      "url": "https://www.udemy.com/course/engine-design-v16/"
+    },
+    {
+      "title": "Full-Stack Android Quiz App: Ktor Backend & Jetpack Compose",
+      "url": "https://www.udemy.com/course/quiztime/"
+    },
+    {
+      "title": "The Complete iOS SDK Development Course - be job-ready!",
+      "url": "https://www.udemy.com/course/ios-sdk-course/"
+    },
+    {
+      "title": "Android NOUGAT - Develop Hands-on Android Apps",
+      "url": "https://www.udemy.com/course/develop-android-app-with-android-nougat/"
+    },
+    {
+      "title": "Flutter & Dart - The Complete Guide [2025 Edition]",
+      "url": "https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/"
+    },
+    {
+      "title": "Swift for Absolute Beginners",
+      "url": "https://www.udemy.com/course/swift-for-absolute-beginners/"
+    },
+    {
+      "title": "Android App Development Course | Android 11 From Scratch",
+      "url": "https://www.udemy.com/course/android-development-course-learn-android-oreo-from-scratch/"
+    },
+    {
+      "title": "Push Notifications with AngularJS and WordPress",
+      "url": "https://www.udemy.com/course/push-notifications-with-angularjs-and-wordpress/"
+    },
+    {
+      "title": "Mastering WidgetKit in SwiftUI 4, iOS 16 with Dynamic Island",
+      "url": "https://www.udemy.com/course/mastering-widgetkit-in-swiftui-4-ios-16-with-dynamic-island/"
+    },
+    {
+      "title": "Build Your Professional Portfolio: Learn iOS 10 and Android",
+      "url": "https://www.udemy.com/course/build-your-professional-portfolio-learn-ios-10-and-android/"
+    },
+    {
+      "title": "Ionic 3 Firebase - Become an iOS/Android rockstar developer!",
+      "url": "https://www.udemy.com/course/ionic-3-angular-4-and-firebase-become-an-iosandroid-dev/"
+    },
+    {
+      "title": "Projects in Android",
+      "url": "https://www.udemy.com/course/projects-in-android/"
+    },
+    {
+      "title": "Flutter Multi Vendor App [2025] Edition",
+      "url": "https://www.udemy.com/course/flutter-multi-vendor-app/"
+    },
+    {
+      "title": "Phonegap Application Development Complete Training",
+      "url": "https://www.udemy.com/course/building-mobile-apps-using-phonegap/"
+    },
+    {
+      "title": "Build AI Super App in Android with ChatGPT & DALLE",
+      "url": "https://www.udemy.com/course/chatgpt-android-build-chatbots-for-android-javakotlin/"
+    },
+    {
+      "title": "Flutter News Portal App-Firestore Backend(Android&ios App)",
+      "url": "https://www.udemy.com/course/flutter-news-portal-app-firestore-backendandroidios-app/"
+    },
+    {
+      "title": "The Complete Adalo App Beginners Course ( Apps With Nocode)",
+      "url": "https://www.udemy.com/course/the-complete-adalo-app-beginners-course-apps-with-nocode/"
+    },
+    {
+      "title": "Learn How To Code - Professional Swift Development For iOS",
+      "url": "https://www.udemy.com/course/learn-how-to-code-professional-swift-development-for-ios/"
+    },
+    {
+      "title": "React Native Tutorial for Beginners",
+      "url": "https://www.udemy.com/course/react-native-tutorial-for-beginners/"
+    },
+    {
+      "title": "Build Realtime Social iOS Apps With Firebase and Swift iOS 9",
+      "url": "https://www.udemy.com/course/firebases/"
+    },
+    {
+      "title": "The Complete ChatGPT with React Native - Mobile Application",
+      "url": "https://www.udemy.com/course/the-complete-chatgpt-with-react-native-mobile-application/"
+    },
+    {
+      "title": "Building Mobile Apps Using Intel® XDK",
+      "url": "https://www.udemy.com/course/building-mobile-apps-using-intel-xdk/"
+    },
+    {
+      "title": "Create Multiple Finance Apps with Android and Blockchain!",
+      "url": "https://www.udemy.com/course/create-multiple-finance-apps-with-android-and-blockchain/"
+    },
+    {
+      "title": "iOS 17 Development Crash Course: Build iOS apps with SwiftUI",
+      "url": "https://www.udemy.com/course/ios17course/"
+    },
+    {
+      "title": "Using Swift to Build an IMDb Search App",
+      "url": "https://www.udemy.com/course/using-swift-to-build-an-imdb-search-app/"
+    },
+    {
+      "title": "Comprehensive Android Testing Guide with Jetpack Compose",
+      "url": "https://www.udemy.com/course/android-testing-guide-with-jetpack-compose/"
+    },
+    {
+      "title": "Mobile App development for beginners - Android and Apple",
+      "url": "https://www.udemy.com/course/mobile-app-development-for-beginners-android-and-apple/"
+    },
+    {
+      "title": "SwiftUI Series - SwiftUI Fundamentals",
+      "url": "https://www.udemy.com/course/swiftui-series-swiftui-fundamentals/"
+    },
+    {
+      "title": "iOS Development Bootcamp For Beginners",
+      "url": "https://www.udemy.com/course/risinggalaxy-advanced-ios/"
+    },
+    {
+      "title": "Your first Android app with Kodular",
+      "url": "https://www.udemy.com/course/your-first-android-app-with-kodular/"
+    },
+    {
+      "title": "The Ultimate iOS 14, Swift 5 and WatchOS 7 Masterclass",
+      "url": "https://www.udemy.com/course/watch-os-masterclass/"
+    },
+    {
+      "title": "Learn Mobile App Development by Creating a Food Ordering App",
+      "url": "https://www.udemy.com/course/react-native-basics-food-ordering-app/"
+    },
+    {
+      "title": "Flutter Foundation with Firebase and Provider",
+      "url": "https://www.udemy.com/course/flutter-for-react-native-developers/"
+    },
+    {
+      "title": "SOLID Principle - Dart / Flutter",
+      "url": "https://www.udemy.com/course/solid-principle-dart-flutter/"
+    },
+    {
+      "title": "Offline Face Recognition & Liveness Detection in Flutter",
+      "url": "https://www.udemy.com/course/face-detection-recognition-in-flutter-the-ultimate-guide/"
+    },
+    {
+      "title": "Android App Development using Android Studio - Advance",
+      "url": "https://www.udemy.com/course/sisoft-android-app-development-advance/"
+    },
+    {
+      "title": "Mobile GIS and Mapping Applications with Leaflet",
+      "url": "https://www.udemy.com/course/mobile-gis-and-mapping-applications-with-leaflet/"
+    },
+    {
+      "title": "170+ iOS 11 & Swift 4 Interview Questions",
+      "url": "https://www.udemy.com/course/170-ios-11-swift-4-interview-questions/"
+    },
+    {
+      "title": "Learn Flutterflow. Build a Chat GPT Clone App",
+      "url": "https://www.udemy.com/course/learn-flutterflow-build-a-chat-gpt-clone-app/"
+    },
+    {
+      "title": "Flutter Bootcamp: Build Crypto Tracker Application",
+      "url": "https://www.udemy.com/course/flutter-bootcamp-build-crypto-tracker-application/"
+    },
+    {
+      "title": "Bluetooth Essentials for Microsoft .NET MAUI",
+      "url": "https://www.udemy.com/course/bluetooth-essentials/"
+    },
+    {
+      "title": "Create Android & iOS Apps Without Coding",
+      "url": "https://www.udemy.com/course/create-stunning-apps-without-coding/"
+    },
+    {
+      "title": "Flutter 3.0 & Rest API from scratch, build a mini Store app",
+      "url": "https://www.udemy.com/course/flutter-30-rest-api-from-scratch-build-a-store-app/"
+    },
+    {
+      "title": "Getting Started with Flutter and Firebase",
+      "url": "https://www.udemy.com/course/getting-started-with-flutter-and-firebase/"
+    },
+    {
+      "title": "Build inDrive & UBER Clone App with Flutter & Firebase 2025",
+      "url": "https://www.udemy.com/course/build-an-uber-clone-app-with-flutter-firebase-2025/"
+    },
+    {
+      "title": "Build AI Super App in Flutter 2025 with ChatGPT 5 & DALL·E",
+      "url": "https://www.udemy.com/course/chatgpt-flutter-build-smart-android-ios-chatbots/"
+    },
+    {
+      "title": "Android App Components: Fragments & Background Services",
+      "url": "https://www.udemy.com/course/android-app-components-fragments-background-services/"
+    },
+    {
+      "title": "Practical iOS 11: What's New in iOS 11, Swift 4 and Xcode 9",
+      "url": "https://www.udemy.com/course/practical-ios-11/"
+    },
+    {
+      "title": "Wordpress to App - Turn Your Website Into an Android App",
+      "url": "https://www.udemy.com/course/wordpress-to-app-turn-your-website-into-an-android-app/"
+    },
+    {
+      "title": "Make An AR App with Unity and Playmaker Without Coding!",
+      "url": "https://www.udemy.com/course/make-an-ar-app-with-unity-and-playmaker-without-coding/"
+    },
+    {
+      "title": "Kotlin For Android App Development: Kotlin App Development",
+      "url": "https://www.udemy.com/course/kotlin-for-android-development-learn-kotlin-from-scratch/"
+    },
+    {
+      "title": "Beast Android Development: Parsing Json Data",
+      "url": "https://www.udemy.com/course/become-a-beast-android-developer-parsing-json-data/"
+    },
+    {
+      "title": "Learning Management System Mobile App using React Native",
+      "url": "https://www.udemy.com/course/react-native-lms-mobile-app-with-api-integration-and-tailwind/"
+    },
+    {
+      "title": "Make a Pinball 2D Game in Unity and Playmaker",
+      "url": "https://www.udemy.com/course/make-a-pinball-2d-game-in-unity-and-playmaker/"
+    },
+    {
+      "title": "Build a Twitter like app for Android",
+      "url": "https://www.udemy.com/course/twitterandroid/"
+    },
+    {
+      "title": "Professional Android Developer - I",
+      "url": "https://www.udemy.com/course/professional-android-developer-i/"
+    },
+    {
+      "title": "Mobile Game Development With Corona SDK ( 2014 )",
+      "url": "https://www.udemy.com/course/mobile-game-development-with-corona-sdk-2014/"
+    },
+    {
+      "title": "Food Delivery App : Uber Eats (Flutter & Firebase)",
+      "url": "https://www.udemy.com/course/food-delivery-app-uber-eats-flutter-firebase/"
+    },
+    {
+      "title": "Learn Objective C Programming for iOS Apps",
+      "url": "https://www.udemy.com/course/learn-objective-c-programming-for-ios-apps/"
+    },
+    {
+      "title": "Make Your first Android App in 60 minutes FLAT with NO code",
+      "url": "https://www.udemy.com/course/make-your-first-android-app-in-60-minutes-flat-with-no-code/"
+    },
+    {
+      "title": "How to do more with MIT App Inventor 2, Thunkable or Kodular",
+      "url": "https://www.udemy.com/course/thunkable/"
+    },
+    {
+      "title": "Ionic 4 Angular- Build Web App, Native Android, IOS App",
+      "url": "https://www.udemy.com/course/ionic-angular/"
+    },
+    {
+      "title": "Flutter Intermediate App Development Course - Reddit Clone",
+      "url": "https://www.udemy.com/course/flutter-intermediate-app-development-course-reddit-clone/"
+    },
+    {
+      "title": "Kotlin | Android App Development with Hands-on 7 Kotlin Apps",
+      "url": "https://www.udemy.com/course/kotlin-android-app-development-with-hands-on-7-kotlin-apps/"
+    },
+    {
+      "title": "Learn Flutterflow. Build an Events App with Google Maps.",
+      "url": "https://www.udemy.com/course/learn-flutterflow-build-a-minimalist-events-app/"
+    },
+    {
+      "title": "Make Your Own Pokemon Go Game For iOS 10",
+      "url": "https://www.udemy.com/course/make-your-own-pokemon-go-game-for-ios-10/"
+    },
+    {
+      "title": "Android Development with App Inventor : Build 6 Apps & Games",
+      "url": "https://www.udemy.com/course/create-android-apps-in-minutes/"
+    },
+    {
+      "title": "Build a Trivia iPhone game that monetizes - Swift2 and iOS9",
+      "url": "https://www.udemy.com/course/build-a-trivia-iphone-game-that-monetizes-swift-and-ios-8/"
+    },
+    {
+      "title": "iOS 11, Swift 4 become professional iOS developer",
+      "url": "https://www.udemy.com/course/ios-11-swift-4-become-professional-ios-developer/"
+    },
+    {
+      "title": "Android Monetisation AdMob & in-app billing with Kotlin",
+      "url": "https://www.udemy.com/course/androidmonetisation/"
+    },
+    {
+      "title": "Mobile App Business - Develop Plan, Strategy, Marketing",
+      "url": "https://www.udemy.com/course/mobile-app-business/"
+    },
+    {
+      "title": "Learn Mobile App Development with Ionic Framework",
+      "url": "https://www.udemy.com/course/learn-mobile-app-deveopment-with-ionic-framework/"
+    },
+    {
+      "title": "SwiftCoin | SwiftUI Cryptocurrency Mobile App | iOS 16",
+      "url": "https://www.udemy.com/course/swiftcoin-swiftui-cryptocurrency-mobile-app-ios-16/"
+    },
+    {
+      "title": "Outsystems Associate Reactive Developer- 3 Practice Tests",
+      "url": "https://www.udemy.com/course/3-outsystems-associate-reactive-developer-practice-tests/"
+    },
+    {
+      "title": "Hands-On Mobile Development with Kivy: Create A Task Manager",
+      "url": "https://www.udemy.com/course/hands-on-mobile-development-with-kivy/"
+    },
+    {
+      "title": "Create a Full Ionic App with Material Design - Full Stack",
+      "url": "https://www.udemy.com/course/ionic-material-design/"
+    },
+    {
+      "title": "Applied Kotlin for Android Application Development",
+      "url": "https://www.udemy.com/course/applied-kotlin-for-android-application-development/"
+    },
+    {
+      "title": "Flutter Rest API BootCamp: Build 3 Real World Apps -[ 2025 ]",
+      "url": "https://www.udemy.com/course/flutter-rest-api-bootcamp-build-2-real-world-apps-2024/"
+    },
+    {
+      "title": "Build a RESTFul API Weather App with Alamofire & Swift 5",
+      "url": "https://www.udemy.com/course/ios-13-swift-5-restful-api-weather-app-with-alamofire-5/"
+    },
+    {
+      "title": "Complete Android Programming with KitKat 4.4",
+      "url": "https://www.udemy.com/course/complete-android-programming-with-kitkat-44/"
+    },
+    {
+      "title": "Projects in React Native: Learn By Building Real World Apps",
+      "url": "https://www.udemy.com/course/projects-in-react-native-learn-by-building-real-world-apps/"
+    },
+    {
+      "title": "Develop MQTT Client Android App",
+      "url": "https://www.udemy.com/course/develop-mqtt-client-android-app/"
+    },
+    {
+      "title": "Learn Android/iOS Mobile Development in Python and Make Apps",
+      "url": "https://www.udemy.com/course/learn-androidios-mobile-development-in-python-and-make-apps-k/"
+    },
+    {
+      "title": "The Complete Uber/Lyft Android App Development Course",
+      "url": "https://www.udemy.com/course/the-complete-uberlyft-android-app-development-course/"
+    },
+    {
+      "title": "React Native and Router: Build Mobile Apps With React",
+      "url": "https://www.udemy.com/course/react-native-router-build-mobile-apps-with-react-native/"
+    },
+    {
+      "title": "Intermediate Mobile App Development (Swift 3, iPhone iOS10)",
+      "url": "https://www.udemy.com/course/intermediate-mobile-app-development-swift-3-iphone-ios10/"
+    },
+    {
+      "title": "6 Ways To Make An Android, iPhone App With No Coding Skills",
+      "url": "https://www.udemy.com/course/how-to-create-a-mobile-app-if-you-dont-know-how-to-code/"
+    },
+    {
+      "title": "Build a Flutter Stopwatch App with Custom UI and Animations",
+      "url": "https://www.udemy.com/course/flutter-stopwatch-app/"
+    },
+    {
+      "title": "Android Jetpack: Room, Navigation and Data Binding",
+      "url": "https://www.udemy.com/course/androidroom/"
+    },
+    {
+      "title": "Build a Cordova Chat APP using Strophe and eJabberd",
+      "url": "https://www.udemy.com/course/create-a-cross-platform-chat-app-using-strophe-and-ejabberd/"
+    },
+    {
+      "title": "Practical iOS 12 with Swift 5",
+      "url": "https://www.udemy.com/course/ios12course/"
+    },
+    {
+      "title": "React Native by Projects: From Basics to Pro [2025]",
+      "url": "https://www.udemy.com/course/react-native-typescript-the-portfolio-project/"
+    },
+    {
+      "title": "Learn Cordova From Scratch - Visual Studio and Mac",
+      "url": "https://www.udemy.com/course/learn-apache-cordova-from-scratch-visual-studio-and-mac/"
+    },
+    {
+      "title": "StreamLit OpenCV Computer Vision Web App",
+      "url": "https://www.udemy.com/course/streamlit-opencv-computer-vision-web-app/"
+    },
+    {
+      "title": "Mastering MVVM with .NET MAUI: Build Modern Mobile Apps",
+      "url": "https://www.udemy.com/course/mastering-mvvm-with-net-maui-build-modern-mobile-apps/"
+    },
+    {
+      "title": "Flutter & OCR - Build Document Scanner & Text Recognizer App",
+      "url": "https://www.udemy.com/course/text-recognition-document-scanning-in-flutter-dart_android_ios/"
+    },
+    {
+      "title": "iOS App Development For Complete & Utter Coding Beginners",
+      "url": "https://www.udemy.com/course/ios-app-development-for-complete-and-utter-coding-beginners/"
+    },
+    {
+      "title": "HTML5 Mobile Apps: Create an App for iPhone, iPad & Android",
+      "url": "https://www.udemy.com/course/create-publish-monetize-an-ios-android-app-in-60-mins/"
+    },
+    {
+      "title": "Consuming RESTful API in SwiftUI Apps - Mini Course",
+      "url": "https://www.udemy.com/course/consuming-restful-api-in-swiftui-apps-mini-course/"
+    },
+    {
+      "title": "Build Apps with SwiftUI",
+      "url": "https://www.udemy.com/course/build-apps-with-swiftui/"
+    },
+    {
+      "title": "ARKit - Create Augmented Reality Apps for iOS Apps",
+      "url": "https://www.udemy.com/course/learn-ios-arkit/"
+    },
+    {
+      "title": "Android Complete Reference",
+      "url": "https://www.udemy.com/course/androidcomplete/"
+    },
+    {
+      "title": "AWS: Serverless App Development with AWS: 3-in-1",
+      "url": "https://www.udemy.com/course/aws-serverless-app-development-with-aws-3-in-1/"
+    },
+    {
+      "title": "Intermediate iOS 10 - Advance Your Skills",
+      "url": "https://www.udemy.com/course/intermediate-ios-10-advance-your-skills-xcode-8-swift-3/"
+    },
+    {
+      "title": "Learn React Native Fast",
+      "url": "https://www.udemy.com/course/learn-react-native-fast/"
+    },
+    {
+      "title": "The Ultimate In-app Purchases Guide for iOS13 and Swift 5.1",
+      "url": "https://www.udemy.com/course/the-ultimate-in-app-purchases-guide-for-ios10-and-swift-3/"
+    },
+    {
+      "title": "Ultimate Compose Multiplatform: Android/iOS + Testing",
+      "url": "https://www.udemy.com/course/ultimate-compose-multiplatform-androidios-testing-kotlin/"
+    },
+    {
+      "title": "The Complete React Native Course : from Zero to Hero",
+      "url": "https://www.udemy.com/course/the-complete-react-native-course-from-zero-to-hero/"
+    },
+    {
+      "title": "Android app development, Restaurant App,Google Map apis",
+      "url": "https://www.udemy.com/course/restaurant-application-and-google-map-apis-in-android-studio/"
+    },
+    {
+      "title": "How To Develop iOS Apps Course: No Experience to App Store",
+      "url": "https://www.udemy.com/course/how-to-develop-ios-apps/"
+    },
+    {
+      "title": "Android Media Playback with Media3 ExoPlayer and Compose",
+      "url": "https://www.udemy.com/course/android-media-playback-with-media3-exoplayer/"
+    },
+    {
+      "title": "Marketing iOS Apps Using App Store Optimization (ASO)",
+      "url": "https://www.udemy.com/course/app-store-optimization-for-ios-aso/"
+    },
+    {
+      "title": "Advanced Flutter: Build Enterprise-Ready Apps.",
+      "url": "https://www.udemy.com/course/advanced-flutter-build-enterprise-ready-apps/"
+    },
+    {
+      "title": "Learn Kotlin and build 2 basic android apps from scratch",
+      "url": "https://www.udemy.com/course/learn-kotlin/"
+    },
+    {
+      "title": "Compose Multiplatform for iOS and Android",
+      "url": "https://www.udemy.com/course/compose-multiplatform-for-ios-and-android/"
+    },
+    {
+      "title": "Learning Path: Android: Test-Driven Android App Development",
+      "url": "https://www.udemy.com/course/learning-path-android-test-driven-android-app-development/"
+    },
+    {
+      "title": "iOS App Development With Corona SDK - Mobile Apps Made Easy",
+      "url": "https://www.udemy.com/course/ios-app-development-with-corona-sdk-mobile-apps-made-easy/"
+    },
+    {
+      "title": "Jetpack Compose & Kotlin & Java for Android App Development",
+      "url": "https://www.udemy.com/course/jetpack-compose-kotlin-java-for-android-app-development/"
+    },
+    {
+      "title": "Create a Photo Sharing App for iOS with Parse in 4 Hours",
+      "url": "https://www.udemy.com/course/create-a-photo-sharing-app-for-ios-with-parse/"
+    },
+    {
+      "title": "Cocos2d-x v4.0 Developing Mobile Games",
+      "url": "https://www.udemy.com/course/cocos2d-x-v4-developing-mobile-games/"
+    },
+    {
+      "title": "Build, Modify, Upload and Sell iMessage Sticker Packs!",
+      "url": "https://www.udemy.com/course/learn-how-to-build-a-sticker-pack-for-imessage/"
+    },
+    {
+      "title": "Build a Quiz App with Java on Android Studio Beginner Course",
+      "url": "https://www.udemy.com/course/build-a-quiz-app-with-java-on-android-studio-beginner-course/"
+    },
+    {
+      "title": "Swift 4 and iOS 11: Building a Store Front App (App Only)",
+      "url": "https://www.udemy.com/course/pirate-bay-ios-swift-3-development-app-only/"
+    },
+    {
+      "title": "iOS16 Online Game, SwiftUI, MVVM and Firebase",
+      "url": "https://www.udemy.com/course/ios16-online-game-swiftui/"
+    },
+    {
+      "title": "Swift 3 and iOS 10 The Final course learn to code like a pro",
+      "url": "https://www.udemy.com/course/swift3-ios10/"
+    },
+    {
+      "title": "Build Dating/Chatting app from scratch in android",
+      "url": "https://www.udemy.com/course/build-dating-chatting-app-from-scratch-in-android/"
+    },
+    {
+      "title": "The Complete Guide to Supabase for iOS Developers",
+      "url": "https://www.udemy.com/course/the-complete-guide-to-supabase-for-ios-developers/"
+    },
+    {
+      "title": "Build Real-Time AI Assistants in Flutter with Gemini & GenAI",
+      "url": "https://www.udemy.com/course/flutter-google-gemini-build-ai-powered-flutter-apps/"
+    },
+    {
+      "title": "App Development with Ionic from Scratch",
+      "url": "https://www.udemy.com/course/app-development-with-ionic-from-scratch/"
+    },
+    {
+      "title": "Writing Reusable Framework in iOS, Swift and Cocoapods",
+      "url": "https://www.udemy.com/course/writing-reusable-framework-in-ios-swift-and-cocoapods/"
+    },
+    {
+      "title": "Unity 2017 - Build , program and publish a 3D shooter game",
+      "url": "https://www.udemy.com/course/unity-3d-2016-build-program-publish-1st-person-shooter/"
+    },
+    {
+      "title": "Xamarin Android in C# and Firebase",
+      "url": "https://www.udemy.com/course/xamarin-android-in-c-and-firebase/"
+    },
+    {
+      "title": "iOS 15 SharePlay - Build a Group Drawing App",
+      "url": "https://www.udemy.com/course/ios-15-shareplay-build-a-group-drawing-app/"
+    },
+    {
+      "title": "Learn Flutter Bloc 2024",
+      "url": "https://www.udemy.com/course/flutter-bloc-atoz/"
+    },
+    {
+      "title": "SwiftIO Micro - Using Swift Code with Electronics & IoT Tech",
+      "url": "https://www.udemy.com/course/swift_io/"
+    },
+    {
+      "title": "Professional iOS App Development with Swift",
+      "url": "https://www.udemy.com/course/real-world-ios-app-in-10-days/"
+    },
+    {
+      "title": "Web Design & Development Practical 4 in 1 full stack course",
+      "url": "https://www.udemy.com/course/practical-website-design-development-course-4-course-in-1/"
+    },
+    {
+      "title": "Introduction to Mobile Application Development - Certificate",
+      "url": "https://www.udemy.com/course/introduction-to-mobile-application-development/"
+    },
+    {
+      "title": "Advanced Flutter: MVVM with Provider, Riverpod | BLoC",
+      "url": "https://www.udemy.com/course/advanced-flutter-mvvm-with-provider-riverpod-bloc/"
+    },
+    {
+      "title": "Control Arduino Using Android App : Step By Step",
+      "url": "https://www.udemy.com/course/basic-android-programming-for-arduino-makers/"
+    },
+    {
+      "title": "Supabase for Flutter Developers",
+      "url": "https://www.udemy.com/course/supabase-for-flutter-developers/"
+    },
+    {
+      "title": "Android App Development - Build a Calculator App",
+      "url": "https://www.udemy.com/course/android-app-development-build-a-calculator/"
+    },
+    {
+      "title": "Android Redux/MVI pattern. Tests. Dependency Injection.",
+      "url": "https://www.udemy.com/course/android-mvi-pattern-tests-dependency-injection/"
+    },
+    {
+      "title": "iOS In-App Purchase with Swift Masterclass",
+      "url": "https://www.udemy.com/course/ios-in-app-purchase-with-swift/"
+    },
+    {
+      "title": "Augmented Reality Project : Image Targeted Video Playback",
+      "url": "https://www.udemy.com/course/augmented-reality/"
+    },
+    {
+      "title": "Build a Math Quiz iOS Game, no coding, source code included",
+      "url": "https://www.udemy.com/course/build-a-math-quiz-ios-game-no-coding-source-code-included/"
+    },
+    {
+      "title": "Full-Stack Mobile App with React Native, Redux, Django & AWS",
+      "url": "https://www.udemy.com/course/full-stack-mobile-app-with-react-native-django-and-aws/"
+    },
+    {
+      "title": "Create Amazing Native Apps For Both IOS & Android",
+      "url": "https://www.udemy.com/course/create-amazing-native-apps-for-both-ios-android-by-appypie/"
+    },
+    {
+      "title": "React Native Expo Chat Application with Firebase",
+      "url": "https://www.udemy.com/course/react-native-chat-application-ultimate-guide-2023/"
+    },
+    {
+      "title": "Build AI Fitness Apps in Flutter with Pose Detection",
+      "url": "https://www.udemy.com/course/flutter-pose-detection-build-ai-powered-fitness-yoga-apps/"
+    },
+    {
+      "title": "Geofencing + Places SDK for Android with Kotlin |Masterclass",
+      "url": "https://www.udemy.com/course/geofencing-places-sdk-for-android-with-kotlin-masterclass/"
+    },
+    {
+      "title": "RxSwift & RxCocoa with X Code 10 & Swift 4.2",
+      "url": "https://www.udemy.com/course/rxswift-rxcocoa-with-x-code-10-swift-42/"
+    },
+    {
+      "title": "Android Programming Tutorial Videos For Beginners",
+      "url": "https://www.udemy.com/course/android-programming/"
+    },
+    {
+      "title": "Create Android and iOS App using HTML, CSS and JS",
+      "url": "https://www.udemy.com/course/getting-started-with-ionic-framework-and-parse/"
+    },
+    {
+      "title": "ChatGPT & React Native - Build Chatbots for Android & IOS",
+      "url": "https://www.udemy.com/course/chatgpt-react-native-build-android-ios-chatbots/"
+    },
+    {
+      "title": "Mastering Android Privacy & Security",
+      "url": "https://www.udemy.com/course/mastering-android-privacy-security/"
+    },
+    {
+      "title": "Beginners - How To Create iPhone And iPad Apps - Zero Coding",
+      "url": "https://www.udemy.com/course/beginners-guide-to-iphone-ipad-app-creation/"
+    },
+    {
+      "title": "Building Your First 2D Game with Flutter and Flame",
+      "url": "https://www.udemy.com/course/building-your-first-2d-game-with-flutter-and-flame/"
+    },
+    {
+      "title": "iOS Notes App - Advanced Core Data, Navigation, & TableViews",
+      "url": "https://www.udemy.com/course/coredata/"
+    },
+    {
+      "title": "Learn programming in Swift Step by Step",
+      "url": "https://www.udemy.com/course/learn-programming-in-swift-step-by-step/"
+    },
+    {
+      "title": "Galaxy Watch Designer Developer Course 2020",
+      "url": "https://www.udemy.com/course/galaxy-watch-designer-developer-course/"
+    },
+    {
+      "title": "The Complete Android CRUD Application In Java, PHP & MySQL",
+      "url": "https://www.udemy.com/course/the-complete-android-crud-application-in-java-php-mysql/"
+    },
+    {
+      "title": "Flutter SQLite Database",
+      "url": "https://www.udemy.com/course/flutter-sqlite-database/"
+    },
+    {
+      "title": "RxJava 3 For Android Developer Masterclass",
+      "url": "https://www.udemy.com/course/rxjava-3-for-android-developer-masterclass/"
+    },
+    {
+      "title": "Train Image Classification Models & Build Flutter Apps 2025",
+      "url": "https://www.udemy.com/course/train-image-classification-models-build-smart-flutter-apps/"
+    },
+    {
+      "title": "The Cyber Security Series: Introduction to Android Security",
+      "url": "https://www.udemy.com/course/android-security/"
+    },
+    {
+      "title": "Make Android Apps with Source Code - Power Workshop Series",
+      "url": "https://www.udemy.com/course/make-android-apps-with-source-code-power-workshop-series/"
+    },
+    {
+      "title": "Full Stack Ecommerce Mobile App: React Native & Node.js 2025",
+      "url": "https://www.udemy.com/course/full-stack-e-commerce-mobile-app-react-native-nodejs/"
+    },
+    {
+      "title": "Building a Chat App for Android from Scratch",
+      "url": "https://www.udemy.com/course/building-a-chat-app-for-android-from-scratch/"
+    },
+    {
+      "title": "Master Multi-Module Architecture for Android Development",
+      "url": "https://www.udemy.com/course/master-multi-module-architecture-for-android-development/"
+    },
+    {
+      "title": "Swift & Firebase Building an impressive Realtime Drawing app",
+      "url": "https://www.udemy.com/course/app-idea-swift-with-firebase/"
+    },
+    {
+      "title": "Flutter Provider State Management - Blog & E-commerce App",
+      "url": "https://www.udemy.com/course/flutter-provider-state-management/"
+    },
+    {
+      "title": "NEW: SwiftUI Series - Core Data in SwiftUI",
+      "url": "https://www.udemy.com/course/swiftui-series-core-data-in-swiftui/"
+    },
+    {
+      "title": "Build a Zoom Clone with Flutter, Firebase and JitsiMeet SDK",
+      "url": "https://www.udemy.com/course/build-a-zoom-clone-with-flutter-firebase-and-jitsimeet-sdk/"
+    },
+    {
+      "title": "The Complete iOS App Developer Bootcamp | 2024 | iOS 17",
+      "url": "https://www.udemy.com/course/the-complete-ios-app-developer-bootcamp-2024/"
+    },
+    {
+      "title": "Android LOLLIPOP - Android App Development with Lollipop",
+      "url": "https://www.udemy.com/course/android-app-development-using-android-lollipop/"
+    },
+    {
+      "title": "Android App Development Fundamentals",
+      "url": "https://www.udemy.com/course/android-app-development-fundamentals/"
+    },
+    {
+      "title": "iOS 15 & Swift 5: Build a library with Swift Package Manager",
+      "url": "https://www.udemy.com/course/ios-15-swift-5-build-a-library-with-swift-package-manager/"
+    },
+    {
+      "title": "Android Studio Productivity Masterclass",
+      "url": "https://www.udemy.com/course/android-studio-productivity-masterclass/"
+    },
+    {
+      "title": "Building A Professional Mobile Application Backdoor Attack",
+      "url": "https://www.udemy.com/course/building-a-professional-mobile-application-backdoor-attack/"
+    },
+    {
+      "title": "Mastering SwiftUI MapKit - The Complete Guide",
+      "url": "https://www.udemy.com/course/mastering-swiftui-mapkit-the-complete-guide/"
+    },
+    {
+      "title": "iOS Development Crash Course - Beginners to Publishing App",
+      "url": "https://www.udemy.com/course/ios-development-crash-course/"
+    },
+    {
+      "title": "Flutter & Generative AI: Create Next-Level Image & Art Apps",
+      "url": "https://www.udemy.com/course/flutter-ai-mastery-build-image-art-generation-flutter-app/"
+    },
+    {
+      "title": "iOS 7 & Mac OS X Programming Tutorial - Objective C & Xcode",
+      "url": "https://www.udemy.com/course/programming-for-ios-and-mac-os-x-in-objective-c-and-xcode/"
+    },
+    {
+      "title": "Reskin an iOS App from Start to Finish with a Text Generator",
+      "url": "https://www.udemy.com/course/reskinning/"
+    },
+    {
+      "title": "Ionic Framework 101: A Quickstart to Building Mobile Apps",
+      "url": "https://www.udemy.com/course/ionic-framework-101-quickstart/"
+    },
+    {
+      "title": "Easy iOS Swift Game: Memory Puzzle",
+      "url": "https://www.udemy.com/course/easy-ios-swift-game-memroy-puzzle/"
+    },
+    {
+      "title": "Android Job Interview Preparation",
+      "url": "https://www.udemy.com/course/android-job-interview/"
+    },
+    {
+      "title": "Rebeloper Messages - the Ultimate iMessage App Template",
+      "url": "https://www.udemy.com/course/rebeloper-messages-the-ultimate-imessage-app-template/"
+    },
+    {
+      "title": "Android App Development Course - Build Hands On Android Apps",
+      "url": "https://www.udemy.com/course/build-different-android-apps-hands-on-android-course/"
+    },
+    {
+      "title": "Android Studio Productivity Masterclass",
+      "url": "https://www.udemy.com/course/android-studio-course/"
+    },
+    {
+      "title": "(Updated) Flutter, Firebase & build J.A.R.V.I.S.",
+      "url": "https://www.udemy.com/course/learn-flutter-firebase-build-jarvis-and-get-a-job/"
+    },
+    {
+      "title": "The Complete .NET MAUI Bootcamp 2025",
+      "url": "https://www.udemy.com/course/course-maui/"
+    },
+    {
+      "title": "iPhone: Push Notifications & Social Media (Swift 5 & iOS 13)",
+      "url": "https://www.udemy.com/course/write-an-iphone-app-social-media-push-notifications/"
+    },
+    {
+      "title": "NativeScript with Angular code sharing",
+      "url": "https://www.udemy.com/course/nativescript-angular-code-sharing/"
+    },
+    {
+      "title": "Hybrid Mobile App Development with Ionic",
+      "url": "https://www.udemy.com/course/hybrid-mobile-app-development-with-ionic/"
+    },
+    {
+      "title": "Building a Card Game in Flutter & Dart",
+      "url": "https://www.udemy.com/course/flutter-card-game/"
+    },
+    {
+      "title": "iOS Firebase Masterclass - Real time Database and Firestore",
+      "url": "https://www.udemy.com/course/ios-firebase-masterclass/"
+    },
+    {
+      "title": "GitHub for XCode (Swift/Objective-C) create a beautiful app",
+      "url": "https://www.udemy.com/course/learn-github/"
+    },
+    {
+      "title": "Create App Like Instagram using Parse Server: iOS 11 Swift 4",
+      "url": "https://www.udemy.com/course/parse-server-development/"
+    },
+    {
+      "title": "Icon Animations in Android Applications - Complete Course",
+      "url": "https://www.udemy.com/course/vector-animations-in-android-applications-complete-course/"
+    },
+    {
+      "title": "Build Flutter Apps with ChatGPT 5 & AI: No Coding Experience",
+      "url": "https://www.udemy.com/course/build-flutter-apps-effortlessly-with-chatgpt-zero-coding/"
+    },
+    {
+      "title": "Firebase: Firebase for Android App Development using Kotlin",
+      "url": "https://www.udemy.com/course/firebase-firebase-for-android-app-development-using-kotlin/"
+    },
+    {
+      "title": "iOS 12 & Swift 4: Build A Pokedex App",
+      "url": "https://www.udemy.com/course/ios-12-swift-4-build-a-pokedex-app/"
+    },
+    {
+      "title": "Mastering Charts Framework in SwiftUI 4 & iOS 16",
+      "url": "https://www.udemy.com/course/mastering-charts-framework-in-swiftui-4-ios-16/"
+    },
+    {
+      "title": "Swift the Next Step, Be the BEST Swift Developer TODAY",
+      "url": "https://www.udemy.com/course/swift-the-next-step/"
+    },
+    {
+      "title": "Comprehensive Course on Python KivyMD | App/APKs with Python",
+      "url": "https://www.udemy.com/course/comprehensive-course-on-python-kivymd-appapks-with-python/"
+    },
+    {
+      "title": "iOS Dev Mastery –Build a Pro Finance App with SwiftUI & MVVM",
+      "url": "https://www.udemy.com/course/become-a-pro-ios-dev-master-swiftui-mvvm-clean-code/"
+    },
+    {
+      "title": "Dart Programming: Comprehensive Training for All Levels",
+      "url": "https://www.udemy.com/course/the-complete-dart-programming-guide-for-beginners/"
+    },
+    {
+      "title": "Automate iOS UI Testing: Swift and XCUITest Essentials",
+      "url": "https://www.udemy.com/course/automate-ios-app-e2e-testing-with-native-xcuitest-framework/"
+    },
+    {
+      "title": "Create a Photo Sharing iOS app with Firebase and Swift 4",
+      "url": "https://www.udemy.com/course/create-a-photo-sharing-ios-app-with-firebase-and-swift-4/"
+    },
+    {
+      "title": "Flutterflow App Development (Expert Course)",
+      "url": "https://www.udemy.com/course/welove-flutterflow-course/"
+    },
+    {
+      "title": "Flutter and Dart | Complete Flutter Dart Programming Course",
+      "url": "https://www.udemy.com/course/flutter-and-dart-complete-flutter-dart-programming-course/"
+    },
+    {
+      "title": "Build 64 iOS9 projects in Swift. Build 50 apps and 14 games!",
+      "url": "https://www.udemy.com/course/build-64-ios9-projects-in-swift-build-50-apps-and-14-games/"
+    },
+    {
+      "title": "Microsoft Excel Masterclass: Excel from Beginner to Pro",
+      "url": "https://www.udemy.com/course/microsoft-excel-masterclass-excel-from-beginner-to-pro/"
+    },
+    {
+      "title": "Android Jetpack Compose with Retrofit Room Hilt in Kotlin",
+      "url": "https://www.udemy.com/course/android-jetpack-compose-retrofit-room-hilt/"
+    },
+    {
+      "title": "iOS Development for Android Developers",
+      "url": "https://www.udemy.com/course/ios-for-android/"
+    },
+    {
+      "title": "Android Services Beginner to Expert",
+      "url": "https://www.udemy.com/course/android-services-beginner-to-expert/"
+    },
+    {
+      "title": "Learn to Build a Professional App in Android",
+      "url": "https://www.udemy.com/course/learn-to-build-a-professional-app-in-android/"
+    },
+    {
+      "title": "SpriteKit Introduction - iOS Game Development with Swift 3",
+      "url": "https://www.udemy.com/course/introduction-to-spritekit/"
+    },
+    {
+      "title": "Full Stack React Native: Advanced & Practical Projects",
+      "url": "https://www.udemy.com/course/full-stack-react-native-advanced-practical-projects-j/"
+    },
+    {
+      "title": "Android SQLite Programming for Beginners",
+      "url": "https://www.udemy.com/course/android-sqlite-programming-for-beginners/"
+    },
+    {
+      "title": "Build an AI Powered React Native ChatGPT Mobile App",
+      "url": "https://www.udemy.com/course/chatgpt-mobile-app/"
+    },
+    {
+      "title": "App Development - The Beginner's Course To Building Your App",
+      "url": "https://www.udemy.com/course/digiruu-app/"
+    },
+    {
+      "title": "Modern Android Dev: Clean Architecture & Jetpack Compose",
+      "url": "https://www.udemy.com/course/jetpack-compose-and-solid-principles-building-robust-apps/"
+    },
+    {
+      "title": "Dart and Flutter Ultimate Course: Learn, Build & Deploy Apps",
+      "url": "https://www.udemy.com/course/flutter-for-app-developers/"
+    },
+    {
+      "title": "Data Collection App with Flutter and Firebase RTDB",
+      "url": "https://www.udemy.com/course/flutter-and-firebase-part-1-real-time-database/"
+    },
+    {
+      "title": "The App Developer Bootcamp",
+      "url": "https://www.udemy.com/course/the-app-developer-bootcamp/"
+    },
+    {
+      "title": "Build your first iOS App in Swift",
+      "url": "https://www.udemy.com/course/build-your-first-ios-app-in-swift/"
+    },
+    {
+      "title": "Android Multilingual Applications Development From Scratch",
+      "url": "https://www.udemy.com/course/android-multilingual-applications-development/"
+    },
+    {
+      "title": "Twitter Social Media Master Social Media App Twitter",
+      "url": "https://www.udemy.com/course/twitter-social-media/"
+    },
+    {
+      "title": "Beginner Introduction to Mobile App development with Xamarin",
+      "url": "https://www.udemy.com/course/beginner-introduction-to-mobile-app-development-with-xamarin/"
+    },
+    {
+      "title": "How to Put Ads Into Your Apps - AdMob - Xcode, Swift, iOS",
+      "url": "https://www.udemy.com/course/how-to-make-money-with-apps-admob-xcode-swift-ios/"
+    },
+    {
+      "title": "iOS & Swift: Server/Backend-Driven UI for Dynamic Apps",
+      "url": "https://www.udemy.com/course/ios-swift-server-backend-driven-ui-for-dynamic-apps/"
+    },
+    {
+      "title": "Android Espresso Testing Complete Guide 2022",
+      "url": "https://www.udemy.com/course/android-espresso-testing-complete-guide-2022/"
+    },
+    {
+      "title": "IONIC - Build Android & Web Apps with Ionic",
+      "url": "https://www.udemy.com/course/ionic-tutorials-build-android-web-apps-with-ionic/"
+    },
+    {
+      "title": "Flutter Mastery: Building Dynamic Apps from scratch",
+      "url": "https://www.udemy.com/course/flutter-mastery-building-dynamic-apps-from-scratch/"
+    },
+    {
+      "title": "Intro to Flutter For iOS & Android",
+      "url": "https://www.udemy.com/course/devslopes-flutter/"
+    },
+    {
+      "title": "Android Studio for Arduino: Temperature Control",
+      "url": "https://www.udemy.com/course/android-studio-for-arduino-temperature-control/"
+    },
+    {
+      "title": "Create an iOS App: Build Your First App In 1 Hour",
+      "url": "https://www.udemy.com/course/ios-development-learn-to-build-your-first-app/"
+    },
+    {
+      "title": "2022 Android test assignment. New, clean, s.o.l.i.d & tested",
+      "url": "https://www.udemy.com/course/android-test-assignment-new-clean-solid-tested/"
+    },
+    {
+      "title": "Appium 2.X Mobile Automation - Android & iOS",
+      "url": "https://www.udemy.com/course/mobile-automation-using-appium-for-android-ios-devices/"
+    },
+    {
+      "title": "Getting Started with PHP and MySQL Development",
+      "url": "https://www.udemy.com/course/getting-started-with-php-and-mysql-development/"
+    },
+    {
+      "title": "Learn how to code in objective c for beginners",
+      "url": "https://www.udemy.com/course/learn-how-to-code-in-objective-c-for-beginners/"
+    },
+    {
+      "title": "whatsapp clone with video and audio call",
+      "url": "https://www.udemy.com/course/messenger-clone-with-video-and-audio-call/"
+    },
+    {
+      "title": "Complete IOS 8 and Xcode 6 Guide - Make iPhone & iPad Apps",
+      "url": "https://www.udemy.com/course/complete-ios-8-and-xcode-6-course-make-iphone-ipad-apps/"
+    },
+    {
+      "title": "Android: Using Backendless to save data in the cloud",
+      "url": "https://www.udemy.com/course/android-using-backendless-to-save-data-in-the-cloud/"
+    },
+    {
+      "title": "Create ML for iOS Developers - A Beginner's Guide",
+      "url": "https://www.udemy.com/course/create-ml-for-ios-developers-a-beginners-guide/"
+    },
+    {
+      "title": "Beast Android Development:Integrating A Node.Js Server",
+      "url": "https://www.udemy.com/course/beast-android-developmentintegrating-a-nodejs-server/"
+    },
+    {
+      "title": "Multi-Modular Navigation | Compose Multiplatform iOS/Android",
+      "url": "https://www.udemy.com/course/multi-modular-navigation-compose-multiplatform-iosandroid/"
+    },
+    {
+      "title": "Face Recognition and Detection in Android 16- The 2025 Guide",
+      "url": "https://www.udemy.com/course/face-recognition-and-detection-in-android-the-2024-guide/"
+    },
+    {
+      "title": "Codename One 101 - Write Native Mobile Apps In Java",
+      "url": "https://www.udemy.com/course/codenameone101/"
+    },
+    {
+      "title": "Android Custom Views Masterclass",
+      "url": "https://www.udemy.com/course/custom-views-in-android/"
+    },
+    {
+      "title": "Flutter, Google Gemini Chat Bot with Hive local storage",
+      "url": "https://www.udemy.com/course/flutter-google-gemini-chat-bot-with-hive-local-storage/"
+    },
+    {
+      "title": "Swift 5",
+      "url": "https://www.udemy.com/course/swift-5-ios/"
+    },
+    {
+      "title": "Step By Step React Native Hybrid Mobile App With Spring Boot",
+      "url": "https://www.udemy.com/course/step-by-step-react-native-hybrid-mobile-app-with-spring-boot/"
+    },
+    {
+      "title": "IOS 11 Platform, An Overview With CoreML and ARKit",
+      "url": "https://www.udemy.com/course/ios-11-development-an-overview-with-coreml/"
+    },
+    {
+      "title": "Develop 6 Beginner iPhone Games with Swift and Xcode",
+      "url": "https://www.udemy.com/course/develop-6-beginner-iphone-games-with-swift-and-xcode/"
+    },
+    {
+      "title": "Practical DevOps Security",
+      "url": "https://www.udemy.com/course/practical-devops-security/"
+    },
+    {
+      "title": "Flutter AR Development: Build an IKEA Place App Clone",
+      "url": "https://www.udemy.com/course/learn-and-build-augmented-reality-ar-apps-with-flutter/"
+    },
+    {
+      "title": "Flutter & Dart: A Complete Showcase Mobile App™",
+      "url": "https://www.udemy.com/course/flutter-dart-a-complete-showcase-course-for-mobile-development/"
+    },
+    {
+      "title": "Learn SQLite Programming on Android Kitkat",
+      "url": "https://www.udemy.com/course/learn-sqlite-programming-on-android-kitkat/"
+    },
+    {
+      "title": "Android 5.0 Lollipop - Essential Training",
+      "url": "https://www.udemy.com/course/android-50-lollipop-essential-training/"
+    },
+    {
+      "title": "Xamarin iOS App in C# & Firebase",
+      "url": "https://www.udemy.com/course/ios-app-in-xamarin-c-with-firebase-backend/"
+    },
+    {
+      "title": "Create ML | Core ML | The Ultimate Swift 5 IOS Course",
+      "url": "https://www.udemy.com/course/the-ultimate-ios-machine-learning-course/"
+    },
+    {
+      "title": "Learn MVVM with .NET MAUI",
+      "url": "https://www.udemy.com/course/learn-mvvm-with-net-maui/"
+    },
+    {
+      "title": "Kotlin Coroutines - Your Course to Become a Master Easily",
+      "url": "https://www.udemy.com/course/kotlin-coroutines-your-course-to-become-a-master-easily/"
+    },
+    {
+      "title": "Calculator App Practical How-To For Flutter & Dart Beginners",
+      "url": "https://www.udemy.com/course/calculator-app-from-scratch-first-app-for-flutter-dart-beginners/"
+    },
+    {
+      "title": "Build & Publish a Word Search Puzzle Game for iOS, no coding",
+      "url": "https://www.udemy.com/course/build-publish-a-word-search-puzzle-game-for-ios-no-coding/"
+    },
+    {
+      "title": "State of the Art Android app development in Java",
+      "url": "https://www.udemy.com/course/javaandroidapp/"
+    },
+    {
+      "title": "SwiftUI & iOS 16 App Development - Instagram & TikTok",
+      "url": "https://www.udemy.com/course/swiftui-ios-14-app-development/"
+    },
+    {
+      "title": "Develop Telegram Bots with PHP and MadelineProto",
+      "url": "https://www.udemy.com/course/develop-telegram-bots-with-php-and-madelineproto/"
+    },
+    {
+      "title": "Flutter Ecommerce Course | Advanced Dart & Riverpod & Nodejs",
+      "url": "https://www.udemy.com/course/flutter-advanced-course-with-backend-api-with-nodejs/"
+    },
+    {
+      "title": "Build Beautiful Onboarding Screens With Lottie animations",
+      "url": "https://www.udemy.com/course/ios-swift-5-build-beautiful-onboarding-screens/"
+    },
+    {
+      "title": "Kotlin Flow",
+      "url": "https://www.udemy.com/course/kotlin-flow/"
+    },
+    {
+      "title": "Introduction to object-oriented programming with Arduino",
+      "url": "https://www.udemy.com/course/introduction-to-object-oriented-programming-with-arduino/"
+    },
+    {
+      "title": "Ionic Framework: JumpStart",
+      "url": "https://www.udemy.com/course/ionic-framework-jumpstart/"
+    },
+    {
+      "title": "Swift 5 for Absolute Beginners",
+      "url": "https://www.udemy.com/course/swift-5-for-absolute-beginners/"
+    },
+    {
+      "title": "iOS app development for absolute beginners!",
+      "url": "https://www.udemy.com/course/for-kids-creating-iphone-apps/"
+    },
+    {
+      "title": "2023 Flutter Beginners Course(No rubbish)",
+      "url": "https://www.udemy.com/course/2022-flutter-beginners-courseno-rubbish/"
+    },
+    {
+      "title": "Mobile App Essentials - Plan, Develop and Market Any App",
+      "url": "https://www.udemy.com/course/minting-money-with-apps/"
+    },
+    {
+      "title": "Create A Cryptocurrency Portfolio Mobile App With Python",
+      "url": "https://www.udemy.com/course/kivy-crypto-portfolio-app/"
+    },
+    {
+      "title": "Secure API Keys with a Public-Key Cryptography on Android",
+      "url": "https://www.udemy.com/course/secure-api-keys-with-a-public-key-cryptography-on-android/"
+    },
+    {
+      "title": "Flutter & Firebase Chess: From Basics to Multiplayer",
+      "url": "https://www.udemy.com/course/flutter-firebase-chess-from-basics-to-multiplayer/"
+    },
+    {
+      "title": "Make a Chat App! (Firebase : Swift in Xcode)",
+      "url": "https://www.udemy.com/course/make-a-chat-app-archetapp/"
+    },
+    {
+      "title": "Build Real World ECommerce App with Xamarin Forms",
+      "url": "https://www.udemy.com/course/build-furniture-store-application-with-xamarin-forms/"
+    },
+    {
+      "title": "Swift for Beginners - Create your first iOS App with Swift",
+      "url": "https://www.udemy.com/course/start-developing-ios-apps-with-swift-for-beginners/"
+    },
+    {
+      "title": "Mastering Flutter: From Basics to Advanced by Building Apps",
+      "url": "https://www.udemy.com/course/mastering-flutter-from-basics-to-advanced-by-building-apps/"
+    },
+    {
+      "title": "Prototyping with Sketch",
+      "url": "https://www.udemy.com/course/sketch-prototyping/"
+    },
+    {
+      "title": "Develop & Deploy Mobile Apps with React Native & Expo",
+      "url": "https://www.udemy.com/course/develop-deploy-mobile-apps-with-react-native-expo/"
+    },
+    {
+      "title": "Develop Android Apps using Python: Kivy",
+      "url": "https://www.udemy.com/course/develop-android-apps-using-python-kivy/"
+    },
+    {
+      "title": "Android Mobile App - A Published RSS Reader App",
+      "url": "https://www.udemy.com/course/creating-beautiful-android-apps-design-code-and-publish/"
+    },
+    {
+      "title": "The Complete iOS Bootcamp",
+      "url": "https://www.udemy.com/course/the-complete-ios-bootcamp/"
+    },
+    {
+      "title": "Build and Upload a STICKER PACK To The App Store In One Day",
+      "url": "https://www.udemy.com/course/stickerpack/"
+    },
+    {
+      "title": "Build a Beautiful CryptoCurrency App using Ionic",
+      "url": "https://www.udemy.com/course/cryptocurrency-app/"
+    },
+    {
+      "title": "Complete Guide to Android UI Design, Styles & Animations",
+      "url": "https://www.udemy.com/course/complete-guide-to-android-ui-design-styles-animations/"
+    },
+    {
+      "title": "Learn iOS8 and Swift App Programming",
+      "url": "https://www.udemy.com/course/ios8-and-swift-app-programming-crash-course/"
+    },
+    {
+      "title": "TikTok Clone App | iOS 18 & Swift 6 | Firebase | Xcode 16",
+      "url": "https://www.udemy.com/course/tiktokcloneapp/"
+    },
+    {
+      "title": "Create a TikTok clone with Flutter and Firebase [2020]",
+      "url": "https://www.udemy.com/course/create-a-tiktok-clone-with-flutter-and-firebase/"
+    },
+    {
+      "title": "Learn Android O development and build 10 Apps",
+      "url": "https://www.udemy.com/course/android-o-course/"
+    },
+    {
+      "title": "Develop a WebView android app for your website from scratch",
+      "url": "https://www.udemy.com/course/develop-a-webview-android-app-for-your-website-from-scratch-/"
+    },
+    {
+      "title": "Learn iPad Development and Advanced iOS Programming",
+      "url": "https://www.udemy.com/course/learn-ipad-development-and-advanced-ios-programming/"
+    },
+    {
+      "title": "Android - Make a Professional Dictionary App from Scratch",
+      "url": "https://www.udemy.com/course/android-make-a-professional-dictionary-app-from-scratch/"
+    },
+    {
+      "title": "Build Real-Time Chat App with SwiftUI & Firebase",
+      "url": "https://www.udemy.com/course/build-real-time-chat-app-with-swiftui-firebase/"
+    },
+    {
+      "title": "tvOS & Swift 2 - Apple TV Development Guide",
+      "url": "https://www.udemy.com/course/tvos-apple-tv/"
+    },
+    {
+      "title": "App Store Success : How To Make Money With Apps",
+      "url": "https://www.udemy.com/course/appstore-success/"
+    },
+    {
+      "title": "Master Flutter & Firebase by Building a ChatGPT Clone App",
+      "url": "https://www.udemy.com/course/master-flutter-firebase-by-building-a-chatgpt-clone-app/"
+    },
+    {
+      "title": "Train Object Detection Models & build Realtime Android Apps",
+      "url": "https://www.udemy.com/course/train-custom-object-detection-models-for-android-ios/"
+    },
+    {
+      "title": "Flutter Redux Essential Course (English)",
+      "url": "https://www.udemy.com/course/flutter-redux-essential-course-english/"
+    },
+    {
+      "title": ".NET MAUI - Create Apps for Android, iOS, Mac and Windows",
+      "url": "https://www.udemy.com/course/net-maui-create-apps-for-android-ios-mac-and-windows/"
+    },
+    {
+      "title": "Build a Tinder Clone in Android Jetpack Compose and Firebase",
+      "url": "https://www.udemy.com/course/tinder_app/"
+    },
+    {
+      "title": "Flutter වලින් mobile apps නිර්මාණය - Sinhala Flutter Course",
+      "url": "https://www.udemy.com/course/flutter-in-sinhala/"
+    },
+    {
+      "title": "An Introduction to Espresso Android Testing",
+      "url": "https://www.udemy.com/course/an-introduction-to-espresso-android-testing/"
+    },
+    {
+      "title": "The Amazing iOS9 Course - Over 84 hours of Content!",
+      "url": "https://www.udemy.com/course/the-amazing-ios9-course/"
+    },
+    {
+      "title": "Face Recognition in Android - Build Smart Android Apps",
+      "url": "https://www.udemy.com/course/face-recognition-in-android-the-2023-practical-guide/"
+    },
+    {
+      "title": "Building An Uber Eats Clone With No-Code Using Bubble",
+      "url": "https://www.udemy.com/course/building-an-uber-eats-clone-with-no-code-using-bubble/"
+    },
+    {
+      "title": "Learn To Build A Financial App in iOS",
+      "url": "https://www.udemy.com/course/learn-to-build-a-financial-app-in-ios/"
+    },
+    {
+      "title": "Web Scraping: Build Cross-platform Apps with Xamarin Forms",
+      "url": "https://www.udemy.com/course/web-scraping-build-cross-platform-apps-with-xamarin-forms/"
+    },
+    {
+      "title": "Complete Vapor 3 Course",
+      "url": "https://www.udemy.com/course/complete-vapor-3-course/"
+    },
+    {
+      "title": "Publish your own iPhone Camera Stickers app without coding",
+      "url": "https://www.udemy.com/course/publish-your-own-iphone-camera-stickers-app-without-coding/"
+    },
+    {
+      "title": "Implement Clean Architecture in a Flutter app",
+      "url": "https://www.udemy.com/course/master-clean-architecture-in-flutter-for-beginners/"
+    },
+    {
+      "title": "Flutter & Firebase Feature-Rich Chat App with Copilot",
+      "url": "https://www.udemy.com/course/flutter-firebase-feature-rich-chat-app-with-copilot/"
+    },
+    {
+      "title": "Swift TVOS Crash Course - Build a Space Shooter in SpriteKit",
+      "url": "https://www.udemy.com/course/swift-tvos-crash-course-build-a-space-shooter-in-spritekit/"
+    },
+    {
+      "title": "Master Android by Building 3 Applications in Kotlin Language",
+      "url": "https://www.udemy.com/course/master-android-by-building-3-applications-in-kotlin-language/"
+    },
+    {
+      "title": "Android and Firebase. Create a Live status update app.",
+      "url": "https://www.udemy.com/course/android-and-firebase-create-a-live-status-update-app/"
+    },
+    {
+      "title": "Flutter Advanced: Multi-Modular & Clean Architecture | Bloc",
+      "url": "https://www.udemy.com/course/flutter-advanced-multi-modular-clean-architecture-bloc/"
+    },
+    {
+      "title": "Machine Learning use in React Native - The Practical Guide",
+      "url": "https://www.udemy.com/course/machine-learning-use-in-react-native-the-practical-guide/"
+    },
+    {
+      "title": "Learn Android App Development & Promote Your App like a Pro",
+      "url": "https://www.udemy.com/course/android-app-development-in-3-days-1000000-downloads/"
+    },
+    {
+      "title": "Android Developer = Compose + MVVM + Clean Architecture",
+      "url": "https://www.udemy.com/course/android-developer-compose-mvvm-clean-architecture/"
+    },
+    {
+      "title": "Complete E-Commerce App in SwiftUI 3, iOS 15 and Apple Pay",
+      "url": "https://www.udemy.com/course/complete-e-commerce-app-in-swiftui-3-ios-15-and-apple-pay/"
+    },
+    {
+      "title": "Flutter and Riverpod for Beginners | Task Management App",
+      "url": "https://www.udemy.com/course/flutter-riverpod-tutorial-sqlite-notification/"
+    },
+    {
+      "title": "Learn how to build a Chess game in iOS 10.",
+      "url": "https://www.udemy.com/course/learn-how-to-build-a-chess-game-in-ios-10/"
+    },
+    {
+      "title": "Android Studio For Absolute Beginners",
+      "url": "https://www.udemy.com/course/android-studio-for-absolute-beginners/"
+    },
+    {
+      "title": "Mobile App Development & App Design for iOS & Android",
+      "url": "https://www.udemy.com/course/advanced-app-development-and-design-course-for-ios-and-android/"
+    },
+    {
+      "title": "Advance Your Coding Skills: Learn Swift and Xamarin",
+      "url": "https://www.udemy.com/course/advance-your-coding-skills-learn-swift-and-xamarin/"
+    },
+    {
+      "title": "React Native Essentials - Build Mobile Apps like a Pro",
+      "url": "https://www.udemy.com/course/react-native-essentials-build-mobile-apps-like-a-pro/"
+    },
+    {
+      "title": "Flutter & ML – Train TensorFlow Lite Models & Build AI Apps",
+      "url": "https://www.udemy.com/course/flutter-and-linear-regression-build-prediction-apps-flutter/"
+    },
+    {
+      "title": "React Native Food App",
+      "url": "https://www.udemy.com/course/react-native-food-app/"
+    },
+    {
+      "title": "iOS 10 Swift 3 hands on features - Siri Kit , Messages , ...",
+      "url": "https://www.udemy.com/course/ios-10-swift-3-hands-on-features-siri-kit-messages/"
+    },
+    {
+      "title": "Train Image & Object Detection Models & build Flutter Apps",
+      "url": "https://www.udemy.com/course/train-image-classification-object-detection-models-for-flutter/"
+    },
+    {
+      "title": "Step-by-Step Guide to Creating & Marketing Apps - No Coding",
+      "url": "https://www.udemy.com/course/step-by-step-guide-to-creating-marketing-apps-no-coding/"
+    },
+    {
+      "title": "Website to Android App - Ready to publish on Play Store",
+      "url": "https://www.udemy.com/course/convert-web-to-android-app-ready-to-publish-on-play-store/"
+    },
+    {
+      "title": "Complete IOS AWS Developer [Swift4]",
+      "url": "https://www.udemy.com/course/complete-ios-aws-developer-swift4/"
+    },
+    {
+      "title": "Objective C for iPhone-iPad App Programming",
+      "url": "https://www.udemy.com/course/learn-objective-c-for-iphone-ipad-app-programming/"
+    },
+    {
+      "title": "Build Traveling Mobile App without coding using FlutterFlow",
+      "url": "https://www.udemy.com/course/build-traveling-mobile-app-without-coding-using-flutterflow/"
+    },
+    {
+      "title": "Android App Development. LIVE and in REAL TIME.",
+      "url": "https://www.udemy.com/course/buildit-coding-a-published-android-app-in-real-time/"
+    },
+    {
+      "title": "iOS Masterclass: Build An iOS AppStore-Quality App In Swift",
+      "url": "https://www.udemy.com/course/ios-masterclass/"
+    },
+    {
+      "title": "Create Fitbit Ionic Clock Faces using JavaScript",
+      "url": "https://www.udemy.com/course/fitbit-ionic/"
+    },
+    {
+      "title": "Swift Weather (Meteorology) Application with REST API",
+      "url": "https://www.udemy.com/course/swift-weather-meteorology-application-with-rest-api/"
+    },
+    {
+      "title": "Creating a Web App for iPad",
+      "url": "https://www.udemy.com/course/creating-a-web-app-for-ipad/"
+    },
+    {
+      "title": "iPhone App Programming for iOS7 – Create a real iOS app",
+      "url": "https://www.udemy.com/course/iphone-app-programming-for-ios-7/"
+    },
+    {
+      "title": "Machine Learning use in Android - The Complete 2025 Guide",
+      "url": "https://www.udemy.com/course/the-complete-android-machine-learning-course/"
+    },
+    {
+      "title": "Getting Started with iOS 9 Development",
+      "url": "https://www.udemy.com/course/getting-started-with-ios9-development/"
+    },
+    {
+      "title": "The Complete Flutter Development Bootcamp with Dart",
+      "url": "https://www.udemy.com/course/flutter-bootcamp-with-dart/"
+    },
+    {
+      "title": "App Games Producer Course: A to Z App Publishing for All",
+      "url": "https://www.udemy.com/course/iphone-app-games-producer-course-reskin-an-iphone-game-from-a-to-z/"
+    },
+    {
+      "title": "Learn Apache Cordova using Visual Studio 2015 & Command line",
+      "url": "https://www.udemy.com/course/learn-how-to-create-hybrid-app-using-apache-cordova-using-visual-stud/"
+    },
+    {
+      "title": "Getting Started With .NET MAUI",
+      "url": "https://www.udemy.com/course/getting-started-with-net-maui/"
+    },
+    {
+      "title": "Become a Mobile App Growth Hacker . Total Theory & Training",
+      "url": "https://www.udemy.com/course/become-a-mobile-app-growth-hacker-total-theory-and-training/"
+    },
+    {
+      "title": "Flutter and Dart Certification Prep Complete Guide",
+      "url": "https://www.udemy.com/course/flutter-and-dart-certification/"
+    },
+    {
+      "title": "Dart & Flutter: The Complete Mobile Apps Development Course",
+      "url": "https://www.udemy.com/course/dart-flutter-the-complete-mobile-apps-development-course/"
+    },
+    {
+      "title": "iOS 11 & Swift 4 - Complete Developer Course",
+      "url": "https://www.udemy.com/course/ios11-swift-4/"
+    },
+    {
+      "title": "Android Marshmallow: Reskin 10-Million Downloads Android App",
+      "url": "https://www.udemy.com/course/reskin-android-app-by-using-android-studio/"
+    },
+    {
+      "title": "Swift programming - Build 20 apps for iPhone!",
+      "url": "https://www.udemy.com/course/swift-2-programming-learn-how-to-create-20-apps-for-ios/"
+    },
+    {
+      "title": "Kotlin | Develop Android Apps with Kotlin & Jetpack Compose",
+      "url": "https://www.udemy.com/course/kotlin-develop-android-apps-with-kotlin-jetpack-compose/"
+    },
+    {
+      "title": "SwiftUI Getting Started - Basics to Advanced",
+      "url": "https://www.udemy.com/course/swiftui-guide/"
+    },
+    {
+      "title": "Advanced Table View iOS App Development with Swift & Xcode",
+      "url": "https://www.udemy.com/course/tableviews/"
+    },
+    {
+      "title": "Flutter Dart | Flutter App Development Projects Course",
+      "url": "https://www.udemy.com/course/flutter-dart-flutter-app-development-projects-course/"
+    },
+    {
+      "title": "Android App Development Course with Android 11 | Android",
+      "url": "https://www.udemy.com/course/android-development-android-app-developer-course-with-pie/"
+    },
+    {
+      "title": "iOS MapKit in Swift",
+      "url": "https://www.udemy.com/course/ios-mapkit-in-swift/"
+    },
+    {
+      "title": "Learn to Build Mobile Apps from Scratch",
+      "url": "https://www.udemy.com/course/learn-to-build-mobile-apps-from-scratch/"
+    },
+    {
+      "title": "Mobile App Biz Pro Secrets - Complete App Business In A Box!",
+      "url": "https://www.udemy.com/course/mobile-app-business-course/"
+    },
+    {
+      "title": "Ultimate iOS Bootcamp: Master Swift SwiftUI App THE HARD WAY",
+      "url": "https://www.udemy.com/course/ultimate-ios-bootcamp/"
+    },
+    {
+      "title": "Create An App For Your Business in Swift",
+      "url": "https://www.udemy.com/course/create-an-app-for-your-business-in-swift-and-ios-8/"
+    },
+    {
+      "title": "Build Real World ECommerce App with .NET MAUI",
+      "url": "https://www.udemy.com/course/build-real-world-ecommerce-app-with-net-maui/"
+    },
+    {
+      "title": "React Native and JavaScript - Your Development Guide",
+      "url": "https://www.udemy.com/course/react-native-and-javascript-your-development-guide/"
+    },
+    {
+      "title": "Learn to Design for Augmented Reality with Zapworks",
+      "url": "https://www.udemy.com/course/learn-to-design-for-augmented-reality-with-zapworks/"
+    },
+    {
+      "title": "Augmented Reality (AR) For Beginners: Create AR Apps Today!",
+      "url": "https://www.udemy.com/course/augmented-reality-ar-for-beginners-create-ar-apps-today/"
+    },
+    {
+      "title": "React Native : Build Native Mobile Applications",
+      "url": "https://www.udemy.com/course/react-native-course/"
+    },
+    {
+      "title": "Master the Dart Language with Null Safety- For Beginners",
+      "url": "https://www.udemy.com/course/master-the-dart-language-for-beginners/"
+    },
+    {
+      "title": "Learn the Swift Programming Language Step by Step",
+      "url": "https://www.udemy.com/course/learn-the-swift-programming-language-step-by-step/"
+    },
+    {
+      "title": "Create Mobile Apps using Intel XDK and Ionic Framework",
+      "url": "https://www.udemy.com/course/intel-xdk-and-ionic-framework/"
+    },
+    {
+      "title": "React Native for Mobile Developers",
+      "url": "https://www.udemy.com/course/react-for-mobile-devs/"
+    },
+    {
+      "title": "Dart Essentials - From Novice to Proficient Developer",
+      "url": "https://www.udemy.com/course/dart-essentials-from-novice-to-proficient-developer/"
+    },
+    {
+      "title": "React Native Fitness Application with Firebase",
+      "url": "https://www.udemy.com/course/react-native-fitness-application-with-firebase/"
+    },
+    {
+      "title": "Ionic Angular Android iOS Apps For WooCommerce WebCheckout",
+      "url": "https://www.udemy.com/course/ionic-5-angular-android-ios-apps-for-woocommerce-web-checkout/"
+    },
+    {
+      "title": "Projects in iOS",
+      "url": "https://www.udemy.com/course/projects-in-ios/"
+    },
+    {
+      "title": "Data Governance Foundations",
+      "url": "https://www.udemy.com/course/core-data-fundamentals-getting-started/"
+    },
+    {
+      "title": "Learn Dart & Flutter for Mobile Apps | Create a Shopping App",
+      "url": "https://www.udemy.com/course/master-the-basics-of-flutter-learn-dart-flutter/"
+    },
+    {
+      "title": "Android Dev Masterclass - Build 10 Apps - Java and Kotlin",
+      "url": "https://www.udemy.com/course/complete-java-kotlin-android-beginner-to-expert/"
+    },
+    {
+      "title": "Quick Mobile App Prototyping With Ionic Creator",
+      "url": "https://www.udemy.com/course/ionic-creator/"
+    },
+    {
+      "title": "How to evolve a legacy iOS Application written in Swift",
+      "url": "https://www.udemy.com/course/how-to-evolve-a-legacy-ios-application-written-in-swift/"
+    },
+    {
+      "title": "Swift: Learn how to master Properties in just one hour",
+      "url": "https://www.udemy.com/course/swift-property/"
+    },
+    {
+      "title": "Flutter, Firebase and ChatGPT: Dall-E Image Sharing App",
+      "url": "https://www.udemy.com/course/flutter-firebase-chatgpt-and-elevenlabs-api-course/"
+    },
+    {
+      "title": "Mastering React Native, React Native Skia, and Re-animated.",
+      "url": "https://www.udemy.com/course/mastering-react-native-react-native-skia-and-re-animated/"
+    },
+    {
+      "title": "Build Full-Stack E-Commerce App: SwiftUI, Node.js & Postgres",
+      "url": "https://www.udemy.com/course/build-full-stack-e-commerce-app-swiftui-nodejs-postgres/"
+    },
+    {
+      "title": "Flutter Responsive Design Split-Screen: Mobile, Desktop, Web",
+      "url": "https://www.udemy.com/course/flutter-split-screen-responsive-design-mobile-desktop-web/"
+    },
+    {
+      "title": "Learn iOS Programming Building Advance Projects",
+      "url": "https://www.udemy.com/course/learn-ios-programming-building-advance-projects/"
+    },
+    {
+      "title": "Mastering SwiftData in iOS 17 & SwiftUI 5",
+      "url": "https://www.udemy.com/course/mastering-swiftdata-in-ios-17-swiftui-5/"
+    },
+    {
+      "title": "Learn ARKit 2 for iOS 12 from Scratch!",
+      "url": "https://www.udemy.com/course/learn-arkit-for-ios-from-scratch/"
+    },
+    {
+      "title": "Mastering Multi-Modular & Clean Architecture in Android",
+      "url": "https://www.udemy.com/course/mastering-multi-modular-clean-architecture-in-android/"
+    },
+    {
+      "title": "Develop 5 apps with python , kivy and kivymd",
+      "url": "https://www.udemy.com/course/learn-kivy-and-kivymd-by-building-5-apps/"
+    },
+    {
+      "title": "Data Structures and Algorithms in Swift and iOS",
+      "url": "https://www.udemy.com/course/data-structures-and-algorithms-in-swift-and-ios/"
+    },
+    {
+      "title": "Make an iPhone Arcade Game & Publish it. No need to program",
+      "url": "https://www.udemy.com/course/make-an-iphone-arcade-game-publish-it-no-need-to-program/"
+    },
+    {
+      "title": "Develop iPhone and iPad apps with no programming experience",
+      "url": "https://www.udemy.com/course/develop-iphone-and-ipad-apps-with-no-programming-experience/"
+    },
+    {
+      "title": "Android app development for beginners (with Kotlin)",
+      "url": "https://www.udemy.com/course/android-q-app-development-with-kotlin-beginner-to-advanced/"
+    },
+    {
+      "title": "Mastering Flutter",
+      "url": "https://www.udemy.com/course/mastering-flutter/"
+    },
+    {
+      "title": "Flutter Advanced Course Chatting Using BLoC",
+      "url": "https://www.udemy.com/course/flutter-advanced-course-chatting-using-bloc/"
+    },
+    {
+      "title": "Learn Swift 3, Xcode 8 and iOS 10 Step by Step.",
+      "url": "https://www.udemy.com/course/learn-swift-30-xcode-8-and-ios-10-step-by-step/"
+    },
+    {
+      "title": "Flutter Masterclass: Beginner to Pro [2024]",
+      "url": "https://www.udemy.com/course/fluttermasterclass/"
+    },
+    {
+      "title": "Flutter Hive NoSQL Database",
+      "url": "https://www.udemy.com/course/flutter-hive-nosql-database/"
+    },
+    {
+      "title": "Build an Employee Attendance System with Flutter & Supabase",
+      "url": "https://www.udemy.com/course/build-an-employee-attendance-system-with-flutter-supabase/"
+    },
+    {
+      "title": "Create a Native App For Your Business In 8 Days, No Coding!",
+      "url": "https://www.udemy.com/course/create-a-native-app-in-8-days-easy-as-creating-a-website/"
+    },
+    {
+      "title": "Develop Ionic Angular iOS Android Apps for WooCommerce",
+      "url": "https://www.udemy.com/course/develop-ionic-4-angular-ios-android-apps-for-woocommerce/"
+    },
+    {
+      "title": "SwiftUI Instagram 2.0 | Async/Await | Firestore | 2023",
+      "url": "https://www.udemy.com/course/swiftui-instagram/"
+    },
+    {
+      "title": "Modern Android App Architecture",
+      "url": "https://www.udemy.com/course/modern-android-app-architecture/"
+    },
+    {
+      "title": "Ionic 3 - Tips & Tricks for Developing Ionic Apps",
+      "url": "https://www.udemy.com/course/ionic-3-tips-tricks/"
+    },
+    {
+      "title": "Android Game Development : Endless Runner Game in Android",
+      "url": "https://www.udemy.com/course/build-an-endless-runner-game/"
+    },
+    {
+      "title": "Android with PHP and MySQL",
+      "url": "https://www.udemy.com/course/android-with-php-mysql/"
+    },
+    {
+      "title": "Android and Apple App Development: Beginner to Pro",
+      "url": "https://www.udemy.com/course/android-and-apple-app-development-beginner-to-pro/"
+    },
+    {
+      "title": "Build a Twitter clone with Flutter and Firestore",
+      "url": "https://www.udemy.com/course/build-a-twitter-clone-with-flutter-and-firestore/"
+    },
+    {
+      "title": "Create Backend Service for Xamarin Forms",
+      "url": "https://www.udemy.com/course/create-backend-service-for-xamarin-forms/"
+    },
+    {
+      "title": "React Native - The Practical Guide [2025]",
+      "url": "https://www.udemy.com/course/react-native-the-practical-guide/"
+    },
+    {
+      "title": "Creating Your First iPhone App",
+      "url": "https://www.udemy.com/course/creating-your-first-iphone-app/"
+    },
+    {
+      "title": "The Complete Objective-C Guide for IOS 8 and Xcode 6",
+      "url": "https://www.udemy.com/course/the-complete-objective-c-guide-for-ios-8-and-xcode-6/"
+    },
+    {
+      "title": "Flutter PHP and MySql - Build Online Quiz with Admin Panel",
+      "url": "https://www.udemy.com/course/flutter-php-and-mysql-build-online-quiz-with-admin-panel/"
+    },
+    {
+      "title": "Android Studio Masterclass - APP DEVELOPMENT COURSE",
+      "url": "https://www.udemy.com/course/android-app-development-course-with-android-studio/"
+    },
+    {
+      "title": "Build 10 Real World Apps with Flutter",
+      "url": "https://www.udemy.com/course/build-10-real-world-apps-with-flutter/"
+    },
+    {
+      "title": "Flutter with Firebase Bootcamp: The complete guide [2023]",
+      "url": "https://www.udemy.com/course/flutter-with-flutter-bootcamp-the-complete-guide-2023/"
+    },
+    {
+      "title": "Build a Tinder Clone in iOS SwiftUI and Firebase",
+      "url": "https://www.udemy.com/course/tinder-clone-ios/"
+    },
+    {
+      "title": "Mastering Flutter Admob: Monetize Your Apps Like a Pro[2025]",
+      "url": "https://www.udemy.com/course/mastering-flutter-admob-monetize-your-apps-like-a-pro-2025/"
+    },
+    {
+      "title": "Maintain Android Apps with Jetpack Architecture Components",
+      "url": "https://www.udemy.com/course/maintain-android-apps-with-jetpack-architecture-components/"
+    },
+    {
+      "title": "Master Flutter App Dev By Building A real Time Chat App",
+      "url": "https://www.udemy.com/course/flutter-firebase-complete-chat-app/"
+    },
+    {
+      "title": "React Native For Absolute Beginners with React Hooks",
+      "url": "https://www.udemy.com/course/react-native-for-absolute-beginners-with-react-hooks/"
+    },
+    {
+      "title": "The complete Java Android App development Build 10 + Apps!",
+      "url": "https://www.udemy.com/course/the-complete-java-android-app-development-build-10-apps/"
+    },
+    {
+      "title": "Learn Laravel, Laravel API, Flutter From Scratch",
+      "url": "https://www.udemy.com/course/laravel-api-laravel-api-luman-flutter/"
+    },
+    {
+      "title": "Build BeReal Clone (IOS 17) - SwiftUI 5 & Firebase",
+      "url": "https://www.udemy.com/course/swiftui-4-build-bereal-clone-ios-16-best-practices/"
+    },
+    {
+      "title": "iOS & Swift - The Complete iOS App Development Bootcamp",
+      "url": "https://www.udemy.com/course/ios-13-app-development-bootcamp/"
+    },
+    {
+      "title": "Fundamentals of SDR, Software Defined Radio -An Introduction",
+      "url": "https://www.udemy.com/course/rahsoft-software-defined-radio-sdr-training-online-course-rahsdr480/"
+    },
+    {
+      "title": "Python Mobile App Development: Build 8+ Mobile Application",
+      "url": "https://www.udemy.com/course/python-mobile-app-development-build-8-mobile-application/"
+    },
+    {
+      "title": "HTML5 for Mobile Devices",
+      "url": "https://www.udemy.com/course/html5-for-mobile-devices/"
+    },
+    {
+      "title": "Android App Development: Modern Android Development Skills",
+      "url": "https://www.udemy.com/course/android-app-development-build-10-different-android-apps/"
+    },
+    {
+      "title": "Build Full Stack iOS Ecommerce App With Plaid and Stripe",
+      "url": "https://www.udemy.com/course/build-full-stack-ios-ecommerce-app-with-plaid-and-stripe/"
+    },
+    {
+      "title": "React Native for Absolute Beginners",
+      "url": "https://www.udemy.com/course/react-native-for-absolute-beginners/"
+    },
+    {
+      "title": "Develop a Custom Keyboard in iOS 9 & Swift 2 - 4 Keyboards!",
+      "url": "https://www.udemy.com/course/keyboards/"
+    },
+    {
+      "title": "GetX flutter 2.8 latest 2021",
+      "url": "https://www.udemy.com/course/getx-flutter-25-free-latest-2021-free/"
+    },
+    {
+      "title": "Android MARSHMALLOW - Develop Hands-on Android Apps",
+      "url": "https://www.udemy.com/course/develop-android-app-with-android-marshmallow/"
+    },
+    {
+      "title": "Create Charts In Xamarin Forms",
+      "url": "https://www.udemy.com/course/create-charts-in-xamarin-forms/"
+    },
+    {
+      "title": "Building Cross Platform Apps with Xamarin and C#",
+      "url": "https://www.udemy.com/course/building-cross-platform-apps-with-xamarin-and-c/"
+    },
+    {
+      "title": "Troubleshooting Android Performance",
+      "url": "https://www.udemy.com/course/troubleshooting-android-performance/"
+    },
+    {
+      "title": "How To Make An Android App Without Knowing Development",
+      "url": "https://www.udemy.com/course/how-to-make-an-android-app-without-knowing-development/"
+    },
+    {
+      "title": "Build News Feed Android App and Learn to write Wordpress API",
+      "url": "https://www.udemy.com/course/build-news-feed-android-app-and-learn-to-write-wordpress-api/"
+    },
+    {
+      "title": "Build your first app with React Native",
+      "url": "https://www.udemy.com/course/firstappreactnativeandexpo/"
+    },
+    {
+      "title": "Build Cross Platform Native iOS & Android Apps Using Skip",
+      "url": "https://www.udemy.com/course/build-cross-platform-native-ios-android-apps-using-skip/"
+    },
+    {
+      "title": "Building a Reminders App Clone with SwiftUI & Core Data",
+      "url": "https://www.udemy.com/course/building-a-reminders-app-clone-with-swiftui-core-data/"
+    },
+    {
+      "title": "Flutter Multi Vendor App",
+      "url": "https://www.udemy.com/course/flutter-multi-vendor-grocery-restaurant-shop-food-clothes-app/"
+    },
+    {
+      "title": "FlutterFlow 2025 Bootcamp : Build \"No Code\" Apps in 2025",
+      "url": "https://www.udemy.com/course/flutterflow-for-beginners-2024-build-no-code-flutter-apps/"
+    },
+    {
+      "title": "Comprehensive Android Development 2024: Kotlin Masterclass",
+      "url": "https://www.udemy.com/course/bn-kotlin-android-course/"
+    },
+    {
+      "title": "Build Cross Platform Apps with Xamarin Forms and Azure",
+      "url": "https://www.udemy.com/course/build-cross-platform-apps-with-xamarin-forms-and-azure/"
+    },
+    {
+      "title": "SwiftUI Threads Clone | iOS 17 | Firestore | async/await",
+      "url": "https://www.udemy.com/course/swiftui-threads-clone/"
+    },
+    {
+      "title": "ASO: 20 Million App Downloads App Store Optimization",
+      "url": "https://www.udemy.com/course/app-creator-course/"
+    }
+  ]
+}

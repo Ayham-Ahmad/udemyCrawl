@@ -1,0 +1,2054 @@
+{
+  "main_category": "it-and-software",
+  "sub_category": "Hardware",
+  "courses": [
+    {
+      "title": "Mobile Phone LCD Screen Repair (Beginner to Intermediate)",
+      "url": "https://www.udemy.com/course/screen-repair-mastery-become-an-expert-in-phone-lcd-repair/"
+    },
+    {
+      "title": "High-Level Synthesis for FPGA, Part 3 - Advanced",
+      "url": "https://www.udemy.com/course/high-level-synthesis-for-fpga-part-3-advanced/"
+    },
+    {
+      "title": "Complete Delta Plc Programming Zero to Expert - All In One",
+      "url": "https://www.udemy.com/course/complete-delta-plc-programming-tips-and-tricks/"
+    },
+    {
+      "title": "Fundamentals of Cisco CLI Switch Configuration",
+      "url": "https://www.udemy.com/course/fundamentals-of-cisco-switch/"
+    },
+    {
+      "title": "Embedded System Design using UML State Machines",
+      "url": "https://www.udemy.com/course/embedded-system-design-using-uml-state-machines/"
+    },
+    {
+      "title": "Cracking Programming Questions (Digital VLSI DV Interviews)",
+      "url": "https://www.udemy.com/course/cracking-programming-questions-digital-vlsi-dv-interviews/"
+    },
+    {
+      "title": "Introduction to ZigBee",
+      "url": "https://www.udemy.com/course/introduction-to-zigbee/"
+    },
+    {
+      "title": "Building Alexa Skills for Home Automation with Raspberry Pi",
+      "url": "https://www.udemy.com/course/building-alexa-skills-for-home-automation-with-raspberry-pi/"
+    },
+    {
+      "title": "Get Certified with Electronics and Electricity Practice Test",
+      "url": "https://www.udemy.com/course/electronics-electricity-and-magnetism-practise-test/"
+    },
+    {
+      "title": "Introduction to Electronics",
+      "url": "https://www.udemy.com/course/intro-to-electronics/"
+    },
+    {
+      "title": "Make an Arduino Robot",
+      "url": "https://www.udemy.com/course/arduino-robot/"
+    },
+    {
+      "title": "Synology NAS - Configure & Administer like a Storage Pro!!",
+      "url": "https://www.udemy.com/course/synologynas/"
+    },
+    {
+      "title": "Arduino Data Visualization using Python",
+      "url": "https://www.udemy.com/course/arduino-python-data-visualization-pyserial-display-data/"
+    },
+    {
+      "title": "Learn 5 PLCs in a Day-AB, Siemens, Schneider, Omron & Delta",
+      "url": "https://www.udemy.com/course/nfi-plc-online-leaning/"
+    },
+    {
+      "title": "Make Your Own Arduino Shield",
+      "url": "https://www.udemy.com/course/arduino-shield-make-your-own-arduino-pcb-shield-arduinoshield/"
+    },
+    {
+      "title": "SPI Interface in an FPGA in VHDL and Verilog",
+      "url": "https://www.udemy.com/course/spi-interface-in-an-fpga-in-vhdl-and-verilog/"
+    },
+    {
+      "title": "Embedded Bootloader Development from Ground Up™",
+      "url": "https://www.udemy.com/course/embedded-bootloader-development-from-ground-uptm/"
+    },
+    {
+      "title": "Ultimate Guide to Raspberry Pi : Tips, Tricks and Hacks",
+      "url": "https://www.udemy.com/course/pi-ultimate-guide/"
+    },
+    {
+      "title": "DSP From Ground Up™ on ARM Processors [UPDATED]",
+      "url": "https://www.udemy.com/course/arm-cortex-dsp/"
+    },
+    {
+      "title": "Arduino Zero to Hero",
+      "url": "https://www.udemy.com/course/arduino-zero-to-hero/"
+    },
+    {
+      "title": "PYNQ FPGA Development with Python Programming & VIVADO",
+      "url": "https://www.udemy.com/course/pynq-fpga-development-with-python-programming/"
+    },
+    {
+      "title": "A-Z Microbit: Officially accredited by Microsoft [2020]",
+      "url": "https://www.udemy.com/course/a-z-robotics-project-based-coding-electronics-on-microbit/"
+    },
+    {
+      "title": "Beyond Arduino, Part 4: C for Embedded Applications",
+      "url": "https://www.udemy.com/course/beyond-arduino-c-for-embedded-applications/"
+    },
+    {
+      "title": "QNAP NAS - Configure & Administer like a Storage Pro!!",
+      "url": "https://www.udemy.com/course/qnap_nas/"
+    },
+    {
+      "title": "Pro Soldering Secrets: How to Perfectly Solder Electronics",
+      "url": "https://www.udemy.com/course/how-to-solder-electronic-components-like-a-professional/"
+    },
+    {
+      "title": "PLC Programming in Siemens TIA Portal",
+      "url": "https://www.udemy.com/course/plc-programming-in-siemens-tia/"
+    },
+    {
+      "title": "How to give your laptop a second life - SSD, HDD, RAM, Fans",
+      "url": "https://www.udemy.com/course/how-to-give-your-laptop-a-second-life-ssd-hdd-ram-fans/"
+    },
+    {
+      "title": "Set Up an Electronics Home Lab Tools and Equipment",
+      "url": "https://www.udemy.com/course/set-up-an-electronics-lab-tools-equipment-laboratory-electronic-solder/"
+    },
+    {
+      "title": "Beyond Arduino: Electronics for Developers & Makers - (GPIO)",
+      "url": "https://www.udemy.com/course/beyond-arduino-gpio/"
+    },
+    {
+      "title": "Upgrading Laptop Hardware: Improve Speed, Memory, & Cooling",
+      "url": "https://www.udemy.com/course/laptop-hardware/"
+    },
+    {
+      "title": "Arduino: Make an IoT environment monitor",
+      "url": "https://www.udemy.com/course/beginning-arduino/"
+    },
+    {
+      "title": "Analog Electronics Design & Simulate BJT Circuits on Proteus",
+      "url": "https://www.udemy.com/course/analog-electronics-part-2-all-about-transistors-in-depth/"
+    },
+    {
+      "title": "Building an Architectural Walkthrough Using Unity",
+      "url": "https://www.udemy.com/course/building-an-architectural-walkthrough-using-unity/"
+    },
+    {
+      "title": "Learn PCB Design By Designing an Arduino Nano in Altium",
+      "url": "https://www.udemy.com/course/create-and-design-your-own-arduino-nano-in-altium-designer/"
+    },
+    {
+      "title": "Complete Verilog HDL programming with Examples and Projects",
+      "url": "https://www.udemy.com/course/digital-design-using-verilog-hdl-programming-with-practical/"
+    },
+    {
+      "title": "Crash Course Digital Electronics",
+      "url": "https://www.udemy.com/course/crash-course-digital-electronics/"
+    },
+    {
+      "title": "Mastering Arduino by Building Real World Applications",
+      "url": "https://www.udemy.com/course/mastering-arduino-uno/"
+    },
+    {
+      "title": "Introduction to Raspberry Pi 4",
+      "url": "https://www.udemy.com/course/introduction-to-raspberry-pi-4/"
+    },
+    {
+      "title": "Overview of Peripheral Component Interconnect Express (PCIe)",
+      "url": "https://www.udemy.com/course/overview-of-peripheral-component-interconnect-express-pcie/"
+    },
+    {
+      "title": "PLC Fundamentals (Level I)",
+      "url": "https://www.udemy.com/course/plc-programming-from-scratch/"
+    },
+    {
+      "title": "Verification Series Part 4: UVM Projects",
+      "url": "https://www.udemy.com/course/uvm-for-verification-part-2-projects/"
+    },
+    {
+      "title": "Controller Area Network-Indepth analysis of CAN BUS/Protocol",
+      "url": "https://www.udemy.com/course/controller-area-network-indepth-analysis-of-can-busprotocol/"
+    },
+    {
+      "title": "Verification Series Part 7:SystemVerilog Functional Coverage",
+      "url": "https://www.udemy.com/course/systemverilog-functional-coverage-for-newbie/"
+    },
+    {
+      "title": "Hands-On ZYNQ: Mastering AXI4 Bus Protocol",
+      "url": "https://www.udemy.com/course/hands-on-zynq-mastering-axi4-bus-protocol/"
+    },
+    {
+      "title": "Computer Organization and Architecture - Part 3",
+      "url": "https://www.udemy.com/course/computer-organization-and-architecture-course/"
+    },
+    {
+      "title": "Raspberry Pi For Beginners - 2025 Complete Course",
+      "url": "https://www.udemy.com/course/raspberry-pi-for-beginners-step-by-step/"
+    },
+    {
+      "title": "Embedded Software Development using C++",
+      "url": "https://www.udemy.com/course/embedded-software-development-using-cpp/"
+    },
+    {
+      "title": "Learn Siemens S7-300 PLC, Simatic Manager Step 7 & WinCC HMI",
+      "url": "https://www.udemy.com/course/learn-siemens-s7-300-plc-simatic-manager-and-wincc-hmi/"
+    },
+    {
+      "title": "Machine Learning (Python) for Neuroscience Practical course",
+      "url": "https://www.udemy.com/course/machine-learning-python-for-neuroscience-practical-course/"
+    },
+    {
+      "title": "Ultimate IT Networking Fundamentals Mastery Course",
+      "url": "https://www.udemy.com/course/computing-fundamentals-it-networking-os-virtualization/"
+    },
+    {
+      "title": "Laptop Repair: Learn How to Repair Dead & Failed Motherboard",
+      "url": "https://www.udemy.com/course/laptop-repairing-how-to-repair-dead-laptop-motherboard/"
+    },
+    {
+      "title": "Microsoldering: Everything You Need to Know to Get Started",
+      "url": "https://www.udemy.com/course/microsoldering-the-full-curriculum/"
+    },
+    {
+      "title": "FPGA Embedded Design, Part 2 - Basic FPGA Training",
+      "url": "https://www.udemy.com/course/fpga-embedded-design-fpgas/"
+    },
+    {
+      "title": "High-Level Synthesis for FPGA, Part 2 - Sequential Circuits",
+      "url": "https://www.udemy.com/course/high-level-synthesis-for-fpga-part-2-sequential-circuits/"
+    },
+    {
+      "title": "design PCB using Eagle Cadsoft step by step(Older Version)",
+      "url": "https://www.udemy.com/course/design-pcb-using-eagle-cadsoft-step-by-step/"
+    },
+    {
+      "title": "Sensors: Everything You Need To Know",
+      "url": "https://www.udemy.com/course/sensors-interfacing-sensor-wiring-sensor-temperature-humidity-sensors/"
+    },
+    {
+      "title": "Learn how To Test Motherboard SMD Components with multimeter",
+      "url": "https://www.udemy.com/course/computer-repair-how-to-test-motherboard-components-course/"
+    },
+    {
+      "title": "Arduino Communication with SPI Protocol",
+      "url": "https://www.udemy.com/course/spi-arduino-communication-with-spi-protocol/"
+    },
+    {
+      "title": "Arduino for Absolute Beginners by Robojax",
+      "url": "https://www.udemy.com/course/robojax-arduino/"
+    },
+    {
+      "title": "XBee and ZigBee Technologies for the Internet of Things",
+      "url": "https://www.udemy.com/course/deesewirelessmodulesforiot/"
+    },
+    {
+      "title": "Fiber Optics Splicing and Termination Part 1",
+      "url": "https://www.udemy.com/course/fiber-optics-splicing-and-termination-part-1/"
+    },
+    {
+      "title": "Analog Circuit Design - An Intuitive Approach",
+      "url": "https://www.udemy.com/course/analog-circuit-design-intuitive-approach-to-design/"
+    },
+    {
+      "title": "Computing Fundamentals",
+      "url": "https://www.udemy.com/course/ic3-gs4-computing-fundamentals/"
+    },
+    {
+      "title": "Step-by-Step Learn Wonderware InTouch SCADA (PLC-SCADA-2)",
+      "url": "https://www.udemy.com/course/step-by-step-learn-wonderware-intouch-scada-practically/"
+    },
+    {
+      "title": "Fun & Easy Embedded Microcontroller Communication Protocols",
+      "url": "https://www.udemy.com/course/fun-easy-embedded-microcontroller-communication-protocols/"
+    },
+    {
+      "title": "Verification Series Part 3: UVM Essentials",
+      "url": "https://www.udemy.com/course/uvm-for-verification-part-1-fundamentals/"
+    },
+    {
+      "title": "FPGA Design and VHDL",
+      "url": "https://www.udemy.com/course/fpgavhdl/"
+    },
+    {
+      "title": "Learning Complete PCB Design: From an Idea to a Product",
+      "url": "https://www.udemy.com/course/learning-complete-pcb-design-from-an-idea-to-a-product/"
+    },
+    {
+      "title": "Mastering RTOS: Hands on FreeRTOS and STM32Fx with Debugging",
+      "url": "https://www.udemy.com/course/mastering-rtos-hands-on-with-freertos-arduino-and-stm32fx/"
+    },
+    {
+      "title": "Build Your Own RealTime OS (RTOS) From Ground Up™ on ARM 1",
+      "url": "https://www.udemy.com/course/rtos-building-from-ground-up-on-arm-processors/"
+    },
+    {
+      "title": "Learn to Build a Computer (PC) in 2025 - all types!",
+      "url": "https://www.udemy.com/course/computer-building/"
+    },
+    {
+      "title": "Arduino Bootcamp : Learning Through Projects",
+      "url": "https://www.udemy.com/course/arduino-bootcamp/"
+    },
+    {
+      "title": "Raspberry Pi Full Stack",
+      "url": "https://www.udemy.com/course/raspberry-pi-full-stack-raspbian/"
+    },
+    {
+      "title": "Arduino Robotics with the mBot",
+      "url": "https://www.udemy.com/course/arduino-robotics-with-the-mbot/"
+    },
+    {
+      "title": "e-Learning AMBA and I2C protocol concepts",
+      "url": "https://www.udemy.com/course/e-learning-amba-and-i2c-protocol-concepts/"
+    },
+    {
+      "title": "Develop Embedded Systems using Embedded C on AVR",
+      "url": "https://www.udemy.com/course/embedded-c-with-avr/"
+    },
+    {
+      "title": "Siemens Plc Programming Basics -All In One (S7/200/300/1200)",
+      "url": "https://www.udemy.com/course/siemens-plc-programming-basics-all-in-one/"
+    },
+    {
+      "title": "TIA Portal for S7-1200 PLC Analog Programming (PLC-SCADA-11)",
+      "url": "https://www.udemy.com/course/siemens-tia-portal-for-s7-1200-plc-analog-programming/"
+    },
+    {
+      "title": "Factory Automation using PLC Logics",
+      "url": "https://www.udemy.com/course/factory-automation-using-plc-logics/"
+    },
+    {
+      "title": "FPGA Image Processing",
+      "url": "https://www.udemy.com/course/fpga-image-processing/"
+    },
+    {
+      "title": "Become an Embedded System Engineer w/ this 60 Days Challenge",
+      "url": "https://www.udemy.com/course/become-an-embedded-system-engineer-30-days-challenge-embedded-system/"
+    },
+    {
+      "title": "Exploring AWS IoT",
+      "url": "https://www.udemy.com/course/exploring-aws-iot/"
+    },
+    {
+      "title": "Raspberry Pi meets Arduino",
+      "url": "https://www.udemy.com/course/raspberry-pi-meets-arduino/"
+    },
+    {
+      "title": "Risk Management: Master FMEA/FMECA & Criticality from A to Z",
+      "url": "https://www.udemy.com/course/risk-management-mastering-fmeafmeca-criticality-matrix/"
+    },
+    {
+      "title": "PCB/Electronics: Thermal Management, Cooling and Derating",
+      "url": "https://www.udemy.com/course/pcbelectronics-thermal-management-derating-fundamentals/"
+    },
+    {
+      "title": "SPICE Simulation For Beginners With OrCAD PSPICE -EsteemPCB",
+      "url": "https://www.udemy.com/course/spice-simulation-for-beginners/"
+    },
+    {
+      "title": "RSlogix/Studio5000 Training using Function Block Diagrams.",
+      "url": "https://www.udemy.com/course/plc-programming-using-fbds-with-logixstudio5000/"
+    },
+    {
+      "title": "Verification Series Part 6 : SystemVerilog Assertions Basics",
+      "url": "https://www.udemy.com/course/systemverilog-assertions-for-newbie/"
+    },
+    {
+      "title": "RF Circuits and Systems - Basic Concepts",
+      "url": "https://www.udemy.com/course/rfcircuitsandsystems_basicconcepts/"
+    },
+    {
+      "title": "Wireless Power to the People - Wireless Charging 101",
+      "url": "https://www.udemy.com/course/wireless-power-to-the-people-wireless-charging-101/"
+    },
+    {
+      "title": "Schematics: Electronics, Electrical Wiring & Circuit Diagram",
+      "url": "https://www.udemy.com/course/schematics-electronics-electrical-wiring-circuit-diagram/"
+    },
+    {
+      "title": "Power of Perl :: Learn Basic and Advanced Perl Programming",
+      "url": "https://www.udemy.com/course/power-of-perl/"
+    },
+    {
+      "title": "Introduction to SystemVerilog Functional Coverage Language",
+      "url": "https://www.udemy.com/course/systemverilog-functional-coverage/"
+    },
+    {
+      "title": "ESP32 and Internet of Things For Absolute Beginners",
+      "url": "https://www.udemy.com/course/esp32-and-internet-of-things-for-absolute-beginners/"
+    },
+    {
+      "title": "Computer Architecture and MIPS Assembly Language Programming",
+      "url": "https://www.udemy.com/course/computer-architectures-and-assembly-programming-mips/"
+    },
+    {
+      "title": "Learn ESP8266 for IoT",
+      "url": "https://www.udemy.com/course/learn-esp8266/"
+    },
+    {
+      "title": "Automatic Irrigation System with Arduino",
+      "url": "https://www.udemy.com/course/automatic-irrigation-system-with-arduino/"
+    },
+    {
+      "title": "MicroROS and ESP32 WiFi Controlled Robot Hands-On using ROS2",
+      "url": "https://www.udemy.com/course/mastering-mobile-robot-with-ros-ardunio-car-sensors-to-ros/"
+    },
+    {
+      "title": "The Complete Basic Electricity & Electronics Course",
+      "url": "https://www.udemy.com/course/the-complete-basic-electronics-course/"
+    },
+    {
+      "title": "Digital Electronics and Circuits",
+      "url": "https://www.udemy.com/course/digital-electronics-and-circuits-p/"
+    },
+    {
+      "title": "Make an Open Source Drone: More Fun",
+      "url": "https://www.udemy.com/course/make-an-open-source-drone-more-fun/"
+    },
+    {
+      "title": "UVM Testbenches for Newbie",
+      "url": "https://www.udemy.com/course/writing-testbenches-in-uvm-for-newbie/"
+    },
+    {
+      "title": "PCB Design with Proteus",
+      "url": "https://www.udemy.com/course/pcb-design-with-proteus/"
+    },
+    {
+      "title": "Basics of Electricity",
+      "url": "https://www.udemy.com/course/basics-of-electricity/"
+    },
+    {
+      "title": "How to Use Solderless Electronic Breadboards (Protoboards)",
+      "url": "https://www.udemy.com/course/protoboard/"
+    },
+    {
+      "title": "PIC Microcontroller: Learn By Building Practical Projects",
+      "url": "https://www.udemy.com/course/pic-microcontroller-learn-by-building-practical-projects/"
+    },
+    {
+      "title": "PCB Design: Make Arduino Nano using Altium Designer",
+      "url": "https://www.udemy.com/course/pcb-design-altium-designer-make-arduino-nano-using-altium-designer/"
+    },
+    {
+      "title": "From 0 to 1: Raspberry Pi and the Internet of Things",
+      "url": "https://www.udemy.com/course/from-0-to-1-raspberry-pi/"
+    },
+    {
+      "title": "Arduino Long Distance Communication",
+      "url": "https://www.udemy.com/course/arduino-long-distance-serial-communication-between-arduinos-rf/"
+    },
+    {
+      "title": "Embedded Systems STM32 Low-Layer APIs(LL) Driver Development",
+      "url": "https://www.udemy.com/course/embedded-systems-stm32-low-level-ll-driver-development/"
+    },
+    {
+      "title": "Mastering Microcontroller: STM32-LTDC, LCD-TFT, LVGL (MCU3)",
+      "url": "https://www.udemy.com/course/mastering-microcontroller-stm32-ltdc-lcd-tft-lvgl/"
+    },
+    {
+      "title": "PLC CODESYS - Advanced Software Structural Design | Using ST",
+      "url": "https://www.udemy.com/course/plc-structured-desig-no-more-ladder-logic-spaghetti-code/"
+    },
+    {
+      "title": "Raspberry Pi Bootcamp : For the Beginner",
+      "url": "https://www.udemy.com/course/pi-bootcamp/"
+    },
+    {
+      "title": "Introduction to Embedded Systems",
+      "url": "https://www.udemy.com/course/introduction-to-embedded-systems-arduino/"
+    },
+    {
+      "title": "ARM Cortex-M7 STM32F7 Bare-Metal Programming From Ground Up™",
+      "url": "https://www.udemy.com/course/arm-cortex-m7-stm32f7-bare-metal-programming-from-ground-uptm/"
+    },
+    {
+      "title": "Introduction to Internet of Things Complete Master Course",
+      "url": "https://www.udemy.com/course/introduction-to-internet-of-things-complete-master-course/"
+    },
+    {
+      "title": "Radio-Frequency Identification (RFID)",
+      "url": "https://www.udemy.com/course/radio-frequency-identification-rfid/"
+    },
+    {
+      "title": "Master iPhone LCD repair",
+      "url": "https://www.udemy.com/course/master-iphone-lcd-repair/"
+    },
+    {
+      "title": "Electronic & Electrical Devices Maintenance&Troubleshooting",
+      "url": "https://www.udemy.com/course/electronic-electronics-maintenance-electronic-devices-maintenance/"
+    },
+    {
+      "title": "FPGA Embedded Design, Part 3 - EDA Tools",
+      "url": "https://www.udemy.com/course/fpga-embedded-design-eda-tools/"
+    },
+    {
+      "title": "Autodesk Eagle : PCB & Hardware Design for Beginners",
+      "url": "https://www.udemy.com/course/autodesk-eagle-pcb-hardware-design-for-beginners/"
+    },
+    {
+      "title": "RFIC Design Software Advanced Design System (ADS)RAHRF209L",
+      "url": "https://www.udemy.com/course/rfic-software-keysight-advanced-design-system-adsrahrf209l-rf-sofrware/"
+    },
+    {
+      "title": "PLC Programming Basics to Advanced Siemens S7-1200",
+      "url": "https://www.udemy.com/course/introduction-to-automation-tutorialbay/"
+    },
+    {
+      "title": "Learn Circuits with Tinkercad: Arduino based Robots Design",
+      "url": "https://www.udemy.com/course/learn-circuits-with-tinkercad/"
+    },
+    {
+      "title": "Verilog HDL: VLSI Hardware Design Comprehensive Masterclass",
+      "url": "https://www.udemy.com/course/verilog-hdl-vlsi-hardware-design-comprehensive-masterclass/"
+    },
+    {
+      "title": "USB Behind the Scenes: Hands-on HID Firmware Development",
+      "url": "https://www.udemy.com/course/usb-behind-the-scenes-hands-on-hid-firmware-development/"
+    },
+    {
+      "title": "From Wire to PLC , A Bootcamp In Industrial Automation",
+      "url": "https://www.udemy.com/course/from-wire-to-plc-a-to-z-compilation/"
+    },
+    {
+      "title": "Unleash the Power of Arduino—All with Drag and Drop!",
+      "url": "https://www.udemy.com/course/arduino-programming-without-coding-visuino-arduino-kids-program-code/"
+    },
+    {
+      "title": "Internet of Things (IoT) Fundamentals Certification Training",
+      "url": "https://www.udemy.com/course/internet-of-things-iot-fundamentals/"
+    },
+    {
+      "title": "Xilinx VIVADO Beginner Course for FPGA Development in VHDL",
+      "url": "https://www.udemy.com/course/vhdl-programming-with-xilinx-vivado-and-zynq-fpga/"
+    },
+    {
+      "title": "Home Automation using Raspberry Pi",
+      "url": "https://www.udemy.com/course/home-automation-using-raspberry-pi/"
+    },
+    {
+      "title": "PCB Design Crash Course: Footprint, 3D model & Board Design.",
+      "url": "https://www.udemy.com/course/pcb-design-crash-course-3d-package-board-design-approach/"
+    },
+    {
+      "title": "Build 11 Arduino Practical Projects today!",
+      "url": "https://www.udemy.com/course/arduino-build-arduino-practical-projects/"
+    },
+    {
+      "title": "Learn x86 Assembly Language from Zero to Hero",
+      "url": "https://www.udemy.com/course/master-x86-assembly-language-part-2/"
+    },
+    {
+      "title": "Function Acceleration on FPGA with Vitis-Part 1: Fundamental",
+      "url": "https://www.udemy.com/course/function-acceleration-on-fpga-with-vitis-part-1-fundamental/"
+    },
+    {
+      "title": "LDO Circuit Design and Analysis: An Intuitive Approach",
+      "url": "https://www.udemy.com/course/ldo-circuit-design-and-analysis-an-intuitive-approach/"
+    },
+    {
+      "title": "Introduction to the IoT Development Framework : ESP-IDF",
+      "url": "https://www.udemy.com/course/introduction-to-the-iot-development-framework-esp-idf/"
+    },
+    {
+      "title": "ARM Cortex M Microcontroller DMA Programming Demystified",
+      "url": "https://www.udemy.com/course/microcontroller-dma-programming-fundamentals-to-advanced/"
+    },
+    {
+      "title": "MicroPython with the ESP32",
+      "url": "https://www.udemy.com/course/micropython-with-the-esp32/"
+    },
+    {
+      "title": "Variable Frequency Drive PowerFlex 525 VFD Programming Setup",
+      "url": "https://www.udemy.com/course/variable-frequency-vfd-powerflex-525-plc-programming-rslogix-5000/"
+    },
+    {
+      "title": "Advanced Embedded Systems with Arduino",
+      "url": "https://www.udemy.com/course/learn-to-build-advanced-embedded-systems-using-arduino/"
+    },
+    {
+      "title": "Chip Design 101",
+      "url": "https://www.udemy.com/course/chip-design-101/"
+    },
+    {
+      "title": "Computer Basics for the Simple Beginner",
+      "url": "https://www.udemy.com/course/computer-basics-for-the-simple-beginner/"
+    },
+    {
+      "title": "Arduino Pro IDE: Code like A Pro & Debug Your Arduino Board",
+      "url": "https://www.udemy.com/course/arduino-pro-ide-code-like-a-pro-debug-your-arduino-board/"
+    },
+    {
+      "title": "Electric Vehicles Specialization",
+      "url": "https://www.udemy.com/course/electric-vehicles-specialization/"
+    },
+    {
+      "title": "FreeRTOS From Ground Up™ on ARM Processors (REVISED)",
+      "url": "https://www.udemy.com/course/freertos-on-arm-processors/"
+    },
+    {
+      "title": "IoT based Emergency Health Care System",
+      "url": "https://www.udemy.com/course/iot-based-emergency-health-care-system/"
+    },
+    {
+      "title": "Circuit Design, Simulation and PCB Fabrication Bundle",
+      "url": "https://www.udemy.com/course/circuit-design-simulation-and-pcb-manufacturing-bundle/"
+    },
+    {
+      "title": "Computer Architecture & Organization Part 2 : Hard Disk",
+      "url": "https://www.udemy.com/course/computer-architecture-organization-online-course/"
+    },
+    {
+      "title": "Siemens PLC Programming Using STL In S7-1500 (TIA Portal)",
+      "url": "https://www.udemy.com/course/siemens-s7-1500-plc-programming-using-stl-statement-list/"
+    },
+    {
+      "title": "Learn How to Build a Cryptocurrency Mining Computer",
+      "url": "https://www.udemy.com/course/learn-how-to-build-an-ethereum-mining-computer/"
+    },
+    {
+      "title": "Mainframe : The Complete TSO/ISPF from Beginner to Expert",
+      "url": "https://www.udemy.com/course/master-tso-ispf-on-mainframe-from-scratch-to-advanced-level/"
+    },
+    {
+      "title": "Embedded Systems with AVR ATMEGA32 Microcontroller",
+      "url": "https://www.udemy.com/course/embedded-systems-with-avr-atmega32-microcontroller/"
+    },
+    {
+      "title": "Advanced Home Automation using Raspberry Pi 3",
+      "url": "https://www.udemy.com/course/advanced-home-automation-using-raspberry-pi-3/"
+    },
+    {
+      "title": "Designing PCB using Autodesk Eagle for Everyone!",
+      "url": "https://www.udemy.com/course/designing-pcb-using-autodesk-eagle-for-beginners/"
+    },
+    {
+      "title": "The Complete PLC Programming Bootcamp",
+      "url": "https://www.udemy.com/course/plc-programming-bootcamp-plc-delta-siemens-plcmitsubishi-s/"
+    },
+    {
+      "title": "Mastering Microcontroller: Timers, PWM, CAN, Low Power(MCU2)",
+      "url": "https://www.udemy.com/course/microcontroller-programming-stm32-timers-pwm-can-bus-protocol/"
+    },
+    {
+      "title": "Switching Theory & Logic Design of Digital Circuits",
+      "url": "https://www.udemy.com/course/switching-theory-logic-design-of-digital-circuits/"
+    },
+    {
+      "title": "Mastering STM32CubeMX 5 and CubeIDE - Embedded Systems",
+      "url": "https://www.udemy.com/course/stm32cubemx-5-and-cubeide/"
+    },
+    {
+      "title": "Mitsubishi Plc Programming Basics - All In One",
+      "url": "https://www.udemy.com/course/mitsubishi-plc-programming-basics-all-in-one/"
+    },
+    {
+      "title": "PLC Step By Step: Your Complete Guide",
+      "url": "https://www.udemy.com/course/plc-step-by-step-your-complete-guide/"
+    },
+    {
+      "title": "MOSFET Crash Course",
+      "url": "https://www.udemy.com/course/mosfet-mini-course/"
+    },
+    {
+      "title": "Arduino SMS Sending Motion Detector using Python",
+      "url": "https://www.udemy.com/course/arduino-sms-sending-motion-detector-using-python/"
+    },
+    {
+      "title": "STM32Fx Microcontroller Custom Bootloader Development",
+      "url": "https://www.udemy.com/course/stm32f4-arm-cortex-mx-custom-bootloader-development/"
+    },
+    {
+      "title": "Process Visualization (Level 3)",
+      "url": "https://www.udemy.com/course/hmi-scada/"
+    },
+    {
+      "title": "How to Build a PC [2024] - Beginners to Intermediate",
+      "url": "https://www.udemy.com/course/how-to-build-a-pc-2021-beginners-to-intermediate/"
+    },
+    {
+      "title": "Fusion 360 Circuit Design and PCB Manufacturing",
+      "url": "https://www.udemy.com/course/fusion-360-crash-course/"
+    },
+    {
+      "title": "Robot Operating System (ROS) with Arduino",
+      "url": "https://www.udemy.com/course/arduino-with-robot-operating-system-ros-robotics/"
+    },
+    {
+      "title": "Building a RepRap 3D Printer",
+      "url": "https://www.udemy.com/course/building-a-reprap-3d-printer/"
+    },
+    {
+      "title": "Build and Program Smart LEGO Mindstorm EV3 Robot",
+      "url": "https://www.udemy.com/course/build-and-program-smart-lego-mindstorm-ev3-robot/"
+    },
+    {
+      "title": "Learn FPGA Design With VHDL (Intel/Altera)",
+      "url": "https://www.udemy.com/course/learn-fpga-design-with-vhdl/"
+    },
+    {
+      "title": "ESP8266 Mastery: Rule Your Appliances Remotely | 2025",
+      "url": "https://www.udemy.com/course/getting-started-with-nodemcu-step-by-step/"
+    },
+    {
+      "title": "Complete BOOLEAN ALGEBRA & LOGIC GATES Guide For Beginners",
+      "url": "https://www.udemy.com/course/boolean-algebra-and-logic-gates/"
+    },
+    {
+      "title": "Arduino: Everything you need to Know",
+      "url": "https://www.udemy.com/course/arduino-for-newbies-crash-course/"
+    },
+    {
+      "title": "C Programming Basics For Microcontrollers & Embedded System",
+      "url": "https://www.udemy.com/course/c-programming-for-microcontrollers/"
+    },
+    {
+      "title": "Hands-On STM32: Basic Peripherals with HAL",
+      "url": "https://www.udemy.com/course/hands-on-stm32-basic-peripherals-with-hal/"
+    },
+    {
+      "title": "Real-time vehicle tracking system using ESP32 | 2025",
+      "url": "https://www.udemy.com/course/real-time-vehicle-tracking-system-using-esp32/"
+    },
+    {
+      "title": "PIC Microcontroller Step by Step: Your complete guide",
+      "url": "https://www.udemy.com/course/master-pic-microcontroller-using-mikroc-protuesprofessional/"
+    },
+    {
+      "title": "Electronics from beginning by building & designing circuits",
+      "url": "https://www.udemy.com/course/learn-electronics-from-beginning-by-build-design-circuits-h/"
+    },
+    {
+      "title": "Build your own GPS tracking system-Raspberry Pi Zero W 2025",
+      "url": "https://www.udemy.com/course/build-your-own-vehicle-tracking-system-from-scratch-raspberry-pi-w/"
+    },
+    {
+      "title": "DIY with Arduino - 5 Simple Projects to Get You Started",
+      "url": "https://www.udemy.com/course/diywitharduino/"
+    },
+    {
+      "title": "Introduction to Electronic Components: A Step By Step Guide",
+      "url": "https://www.udemy.com/course/introduction-to-electronic-components-a-step-by-step-guide/"
+    },
+    {
+      "title": "TIA Portal Master Project (Level 5)",
+      "url": "https://www.udemy.com/course/siemens-tia-portal-step-7-wincc-plc-hmi/"
+    },
+    {
+      "title": "ISO 26262-5:2018: Product development at the hardware level",
+      "url": "https://www.udemy.com/course/iso-26262-52018-product-development-at-the-hardware-level/"
+    },
+    {
+      "title": "8051 Microcontroller - An Assembly Language Programming",
+      "url": "https://www.udemy.com/course/8051-microcontroller-an-assembly-language-programming/"
+    },
+    {
+      "title": "Introduction to BBC Micro:bit",
+      "url": "https://www.udemy.com/course/introduction-to-bbc-microbit/"
+    },
+    {
+      "title": "Embedded Systems Job Interview 101",
+      "url": "https://www.udemy.com/course/embedded-systems-job-interview-101/"
+    },
+    {
+      "title": "Chip Level Laptop Repairs: Understanding 3.3 & 5Volt Circuit",
+      "url": "https://www.udemy.com/course/chip-level-laptop-repairs-understanding-33-5volt-circuit/"
+    },
+    {
+      "title": "Verification Series Part 2: Hands-On SystemVerilog Projects",
+      "url": "https://www.udemy.com/course/systemverilog-for-verification-part-2-projects/"
+    },
+    {
+      "title": "Mastering Microcontroller and Embedded Driver Development",
+      "url": "https://www.udemy.com/course/mastering-microcontroller-with-peripheral-driver-development/"
+    },
+    {
+      "title": "Electronics in Biomedical Engineering: Theory & Repair",
+      "url": "https://www.udemy.com/course/electronics-in-biomedical-engineering-theory-repair/"
+    },
+    {
+      "title": "PCB101- PCB Design & Manufacturing",
+      "url": "https://www.udemy.com/course/elektrolynx-pcb101/"
+    },
+    {
+      "title": "Arduino under the Hood - AVR for Professionals",
+      "url": "https://www.udemy.com/course/arduino-under-the-hood/"
+    },
+    {
+      "title": "Basics of Embedded C Programming for Beginners",
+      "url": "https://www.udemy.com/course/embedded-c-programming-for-embedded-systems/"
+    },
+    {
+      "title": "Cloud Computing & Hybrid Cloud vs On-Premise Solutions",
+      "url": "https://www.udemy.com/course/cloud-computing-vs-on-premise-infrastructure-solutions/"
+    },
+    {
+      "title": "Internet of Things (IoT) - The Mega Course",
+      "url": "https://www.udemy.com/course/internet-of-things-the-mega-course/"
+    },
+    {
+      "title": "Video Processing with FPGA",
+      "url": "https://www.udemy.com/course/video-processing-with-fpga/"
+    },
+    {
+      "title": "Node-RED and ESP32 Project",
+      "url": "https://www.udemy.com/course/nodered-esp32/"
+    },
+    {
+      "title": "All about Arduino Wireless and the IoT",
+      "url": "https://www.udemy.com/course/all-about-arduino-wireless/"
+    },
+    {
+      "title": "Schneider PLC Tutorial For Beginners With Ladder and SFC",
+      "url": "https://www.udemy.com/course/schneider-plc-tutorial-for-beginners-with-ladder-and-sfc/"
+    },
+    {
+      "title": "FPGA Design with MATLAB & Simulink",
+      "url": "https://www.udemy.com/course/fpga-design-with-matlab-simulink/"
+    },
+    {
+      "title": "FPGA Embedded Design, Part 4 - Microprocessor Design",
+      "url": "https://www.udemy.com/course/fpga-embedded-design-cpu/"
+    },
+    {
+      "title": "The Complete Raspberry Pi Bootcamp",
+      "url": "https://www.udemy.com/course/raspberry-pi-complete-raspberrypi-bootcamp-python-raspberry-pi/"
+    },
+    {
+      "title": "Arduino : Electronics circuit, PCB Design & IOT Programming",
+      "url": "https://www.udemy.com/course/arduino-industrial-data-logger-designing-and-programming/"
+    },
+    {
+      "title": "ABB PLC Programming from Scratch to expert (PLC-SCADA-4)",
+      "url": "https://www.udemy.com/course/learn-abb-plc-programming-from-scratch-to-expert-level/"
+    },
+    {
+      "title": "8051 Microcontroller Architecture",
+      "url": "https://www.udemy.com/course/8051-architecture-bharat-acharya/"
+    },
+    {
+      "title": "3D printer programming using G-Code",
+      "url": "https://www.udemy.com/course/3d-printer-programming-using-g-code/"
+    },
+    {
+      "title": "Robotics and ROS - Learn by Doing! Manipulators",
+      "url": "https://www.udemy.com/course/robotics-and-ros-learn-by-doing-manipulators/"
+    },
+    {
+      "title": "Learn Siemens S7-1200 PLC & HMI from Scratch using TIA",
+      "url": "https://www.udemy.com/course/learn-siemens-s7-1200-plc-from-scratch-using-tia/"
+    },
+    {
+      "title": "Fire alarm system online training with NFPA codes.",
+      "url": "https://www.udemy.com/course/fire-alarm-system/"
+    },
+    {
+      "title": "Complete x86 Assembly Programming | 120+ Practical Exercises",
+      "url": "https://www.udemy.com/course/complete-x86-assembly-language-120-practical-exercise/"
+    },
+    {
+      "title": "AMBA AXI Infrastructure Based on Xilinx FPGA IPs and Verilog",
+      "url": "https://www.udemy.com/course/axi-infra-on-xilinx/"
+    },
+    {
+      "title": "Analog Electronics for Beginners - Diodes & Capacitors",
+      "url": "https://www.udemy.com/course/analog-circuit-design-part-1-all-about-diodes-capacitor/"
+    },
+    {
+      "title": "3 in 1 IoT Bundle : Arduino Uno, ESP8266 and Raspberry Pi",
+      "url": "https://www.udemy.com/course/learn-iot/"
+    },
+    {
+      "title": "Digital Logic Circuits and Design",
+      "url": "https://www.udemy.com/course/digital-logic-circuits-and-design/"
+    },
+    {
+      "title": "Static Timing Analysis: VLSI",
+      "url": "https://www.udemy.com/course/static-timing-analysis-vlsi/"
+    },
+    {
+      "title": "ARM Assembly Language From Ground Up™ 1",
+      "url": "https://www.udemy.com/course/arm-assembly-programming/"
+    },
+    {
+      "title": "Dell EMC VNX Storage System",
+      "url": "https://www.udemy.com/course/dell-emc-vnx-storage-system/"
+    },
+    {
+      "title": "PCB Design: Master PCB Design using Ultiboard and Multisim",
+      "url": "https://www.udemy.com/course/multisim-ultiboard-pcb-design-pcbdesign-using-ultiboard-and-multisim/"
+    },
+    {
+      "title": "Complete PIC Microcontroller course from zero to hero",
+      "url": "https://www.udemy.com/course/programming-on-pic16f877a-microcontroller-from-scratch/"
+    },
+    {
+      "title": "Internet of Things IOT, Robotics and Hacking with NodeMCU",
+      "url": "https://www.udemy.com/course/iot-robotics-hacking-nodemcu/"
+    },
+    {
+      "title": "Laptop Repair : Bring Your Laptop Back to Life & Speed It Up",
+      "url": "https://www.udemy.com/course/laptop-repair-course-training/"
+    },
+    {
+      "title": "Learn ESP32 with this 30 Days Challenge",
+      "url": "https://www.udemy.com/course/learn-esp32-with-this-30-days-challenge/"
+    },
+    {
+      "title": "How to Build a Custom Gaming PC",
+      "url": "https://www.udemy.com/course/how-to-build-a-gaming-pc/"
+    },
+    {
+      "title": "Industrial Embedded Systems Hardware Penetration Testing",
+      "url": "https://www.udemy.com/course/embeddedsystemshardwarepenetesting/"
+    },
+    {
+      "title": "Program an Fpga for someone that has no Fpga experience",
+      "url": "https://www.udemy.com/course/learn-how-to-program-an-fpga/"
+    },
+    {
+      "title": "Advanced Hardware and PCB Design Masterclass 2022 -EsteemPCB",
+      "url": "https://www.udemy.com/course/advanced-hardware-design-course/"
+    },
+    {
+      "title": "Mastering Cypress PSoC-An Embedded System Design perspective",
+      "url": "https://www.udemy.com/course/mastering-cypress-psoc-an-embedded-system-design-perspective/"
+    },
+    {
+      "title": "Allen Bradley Micrologix PLC Programming (PLC-SCADA-1)",
+      "url": "https://www.udemy.com/course/learn-plc-programming-from-scratch-to-expert-level/"
+    },
+    {
+      "title": "Embedded Systems Object-Oriented Programming in C",
+      "url": "https://www.udemy.com/course/embedded-systems-object-oriented-programming-j/"
+    },
+    {
+      "title": "Advanced AC Drive- VFD, Servo & Stepper - Powerflex & Delta",
+      "url": "https://www.udemy.com/course/learn-vfd-in-a-day/"
+    },
+    {
+      "title": "Basic electronics for Arduino Makers",
+      "url": "https://www.udemy.com/course/basic-electronics/"
+    },
+    {
+      "title": "Arduino Programming and Hardware Fundamentals with Hackster",
+      "url": "https://www.udemy.com/course/arduino-programming-and-hardware-fundamentals-with-hackster/"
+    },
+    {
+      "title": "3D RUNDOWN (3D Printer Course)",
+      "url": "https://www.udemy.com/course/3d-rundown/"
+    },
+    {
+      "title": "Delta PLC Programming Using WPLSoft (PLC-SCADA-8)",
+      "url": "https://www.udemy.com/course/delta-plc-from-scratch-to-expert-laval-using-wplsoft/"
+    },
+    {
+      "title": "Complete PLC Allen Bradley Studio 5000 / RsLogix 5000 Course",
+      "url": "https://www.udemy.com/course/complete-plc-allen-bradley-studio-5000-rslogix-5000-course/"
+    },
+    {
+      "title": "IoT Automation with ESP8266: Building Smart Devices",
+      "url": "https://www.udemy.com/course/iot-internet-of-things-automation-with-esp8266/"
+    },
+    {
+      "title": "Introduction to Automotive engineering - Performance",
+      "url": "https://www.udemy.com/course/overview-of-automotive-performance-engineering/"
+    },
+    {
+      "title": "Beyond Arduino, Part 2: Analog Input Output",
+      "url": "https://www.udemy.com/course/beyond-arduino-analog/"
+    },
+    {
+      "title": "CMOS VLSI Design & Sub Systems of Digital Circuits",
+      "url": "https://www.udemy.com/course/vlsi-design-and-sub-systems/"
+    },
+    {
+      "title": "How to Set Up an Electronics Lab: Tools & Equipments",
+      "url": "https://www.udemy.com/course/how-to-set-up-an-electronics-lab-tools-equipments/"
+    },
+    {
+      "title": "ROS 2 - Hardware and ros2_control, Step by Step",
+      "url": "https://www.udemy.com/course/ros2_control/"
+    },
+    {
+      "title": "System on Chip Design using VIVADO and ZYBO Z7-10",
+      "url": "https://www.udemy.com/course/system-on-chip-design-using-vivado-and-zybo-z7-10/"
+    },
+    {
+      "title": "VLSI - Design For Test (DFT)- JTAG, Boundary SCAN and IJTAG",
+      "url": "https://www.udemy.com/course/vlsi-design-for-test-dft-jtag-boundary-scan-and-ijtag/"
+    },
+    {
+      "title": "Pic Microcontroller and Pcb designing step by step",
+      "url": "https://www.udemy.com/course/basic-microcontroller-arduino-and-pcb-design-course/"
+    },
+    {
+      "title": "Verification Series Part 5: UVM RAL Essentials",
+      "url": "https://www.udemy.com/course/uvm-for-verification-part-3register-abstraction-layer-ral/"
+    },
+    {
+      "title": "Introduction to Surface Mount Technology",
+      "url": "https://www.udemy.com/course/smd-smt-surface-mount-technology-soldering-surface-pcb-circuit-design/"
+    },
+    {
+      "title": "CNC Milling machine programming using G-Code",
+      "url": "https://www.udemy.com/course/cnc-milling-machine-programming-using-g-code/"
+    },
+    {
+      "title": "Learning SystemVerilog Testbenches with Xilinx Vivado 2020",
+      "url": "https://www.udemy.com/course/systemverilog-testbenches-for-newbie-with-xilinx-vivado-2020/"
+    },
+    {
+      "title": "Beyond Arduino, Pt 3: Interrupt Driven Embedded Applications",
+      "url": "https://www.udemy.com/course/beyond-arduino-interrupts/"
+    },
+    {
+      "title": "PLC programming Tia Portal Siemens",
+      "url": "https://www.udemy.com/course/plc-programming-siemens-tia-portal/"
+    },
+    {
+      "title": "Hands on projects with the I2C protocol - Learn by doing!",
+      "url": "https://www.udemy.com/course/i2c-protocol/"
+    },
+    {
+      "title": "Complete 8051 Microcontroller Programming Course",
+      "url": "https://www.udemy.com/course/complete-8051-microcontroller-programming-course-at89s52/"
+    },
+    {
+      "title": "The Theory Behind Electronics - A Beginners Guide",
+      "url": "https://www.udemy.com/course/the-theory-behind-electronics-a-beginners-guide/"
+    },
+    {
+      "title": "Make an Open Source Drone",
+      "url": "https://www.udemy.com/course/make_a_drone/"
+    },
+    {
+      "title": "Fusion 360 CAD/CAM for CNC routers",
+      "url": "https://www.udemy.com/course/fusion-360-cad-cam-for-cnc-routers/"
+    },
+    {
+      "title": "PCIe Gen 6.0 Protocol : Basics to Advanced (VLSI)",
+      "url": "https://www.udemy.com/course/pciegen6/"
+    },
+    {
+      "title": "SCADA System Interface with PLC",
+      "url": "https://www.udemy.com/course/scada-system-interface-with-plc/"
+    },
+    {
+      "title": "Raspberry Pi PICO an introduction with MicroPython",
+      "url": "https://www.udemy.com/course/raspberry_pi_pico_micropython/"
+    },
+    {
+      "title": "Arduino: NodeMCU ESP8266 IoT Wifi Relay Sensor Dashboard App",
+      "url": "https://www.udemy.com/course/arduino-nodemcu-esp8266-wifi-relay-sensor-dashboard-web-app/"
+    },
+    {
+      "title": "Arduino IoT Cloud - Getting Started",
+      "url": "https://www.udemy.com/course/arduino-iot/"
+    },
+    {
+      "title": "Master Allen Bradley PLC RSLogix/Studio 5000 Essential Guide",
+      "url": "https://www.udemy.com/course/master-allen-bradley-plc-rslogixstudio-5000-essential-guide/"
+    },
+    {
+      "title": "The updated Beginner's Guide for KNX (second version)",
+      "url": "https://www.udemy.com/course/knx-the-ultimate-beginners-course-for-building-automation/"
+    },
+    {
+      "title": "Master Windows IoT Core: Embedded Systems with Raspberry Pi",
+      "url": "https://www.udemy.com/course/windows-iot-core-raspberry-pi-windows10iot/"
+    },
+    {
+      "title": "Siemens S7-1200 Motion Control Using Stepper Motor.",
+      "url": "https://www.udemy.com/course/siemens-s7-1200-motion-control-using-stepper-motor/"
+    },
+    {
+      "title": "Start the Internet of Things (IoT) from scratch",
+      "url": "https://www.udemy.com/course/start-the-iot-from-scratch/"
+    },
+    {
+      "title": "Digital Timing Basics for VLSI Interview & SoC Design",
+      "url": "https://www.udemy.com/course/digital-timing-basics-for-vlsi-interview-physical-design/"
+    },
+    {
+      "title": "Arduino meets Python: Step by Step",
+      "url": "https://www.udemy.com/course/arduino-python-control-py-code-arduino-using-python-pip/"
+    },
+    {
+      "title": "Asterisk Administrators Guide to VoIP Polycom IP SIP Phones",
+      "url": "https://www.udemy.com/course/asterisk-administrators-guide-to-voip-polycom-vvx-ip-sip-phones/"
+    },
+    {
+      "title": "Learn VHDL Design using Xilinx Zynq-7000 ARM/FPGA SoC",
+      "url": "https://www.udemy.com/course/vhdl-design-and-modeling-of-digital-systems/"
+    },
+    {
+      "title": "Computer Organization: CPU Cache and the Memory Hierarchy",
+      "url": "https://www.udemy.com/course/cpu-cache-and-the-memory-hierarchy/"
+    },
+    {
+      "title": "Embedded System Design with Xilinx Zynq SoC and Vitis IDE",
+      "url": "https://www.udemy.com/course/embedded-system-design-with-xilinx-zynq-soc-and-vitis-ide/"
+    },
+    {
+      "title": "ESP32 + Databases to Control Anything Anywhere",
+      "url": "https://www.udemy.com/course/arduino-esp-database-iot-esp32-control-interfacing/"
+    },
+    {
+      "title": "VLSI Design",
+      "url": "https://www.udemy.com/course/vlsi-design-mask/"
+    },
+    {
+      "title": "Embedded Fun with RISC-V, Part 1: The RISC-V ISA",
+      "url": "https://www.udemy.com/course/riscv-isa/"
+    },
+    {
+      "title": "Essentials of Storage Management",
+      "url": "https://www.udemy.com/course/basics-of-storage-management/"
+    },
+    {
+      "title": "Advanced ESP32",
+      "url": "https://www.udemy.com/course/advanced-esp32/"
+    },
+    {
+      "title": "Microcontroller Communication Protocols Bundle",
+      "url": "https://www.udemy.com/course/serial-communication-spi-rs232-spi-communication-protocols-bundle/"
+    },
+    {
+      "title": "Basic Computer Class For Beginners",
+      "url": "https://www.udemy.com/course/basic-computer-class-for-beginners/"
+    },
+    {
+      "title": "Motherboard repairing: How to Diagnose a Laptop Motherboard",
+      "url": "https://www.udemy.com/course/motherboard-repairing-how-to-diagnose-a-laptop-motherboard/"
+    },
+    {
+      "title": "How to Build an Extreme Gaming PC!",
+      "url": "https://www.udemy.com/course/build-gaming-pc/"
+    },
+    {
+      "title": "How Computers Work - Finally resolving the mystery!",
+      "url": "https://www.udemy.com/course/how-computers-work-course/"
+    },
+    {
+      "title": "Learning Soldering: Through Hole & Surface Mount Components",
+      "url": "https://www.udemy.com/course/learning-soldering-through-hole-and-surface-mount-components/"
+    },
+    {
+      "title": "Super way to Learn Arduino | Creative",
+      "url": "https://www.udemy.com/course/super-way-to-learn-arduino-creative/"
+    },
+    {
+      "title": "Complete ARM Cortex-M Bare-Metal Programming (TM4C123)",
+      "url": "https://www.udemy.com/course/cortex-m-internals-master-pointers-structures-memory-etc/"
+    },
+    {
+      "title": "Internet of things (IoT) for Beginners: Getting Started",
+      "url": "https://www.udemy.com/course/internet-of-things-iot-for-beginners-getting-started/"
+    },
+    {
+      "title": "RF Concepts, Components and Circuits For Beginners",
+      "url": "https://www.udemy.com/course/rf-components-ciruits-rf-concepts-rf-design-rf-training-rf-engineering/"
+    },
+    {
+      "title": "ESP32 Bootcamp: A Step By Step Practical Approach",
+      "url": "https://www.udemy.com/course/esp32-esp-espboard-program-course-boot-camp/"
+    },
+    {
+      "title": "Embedded Linux Step by Step Using Beaglebone Black",
+      "url": "https://www.udemy.com/course/embedded-linux-step-by-step-using-beaglebone/"
+    },
+    {
+      "title": "Unleash the Power of Arduino with LabVIEW!",
+      "url": "https://www.udemy.com/course/labview-arduino-interfacing-labview-with-arduino-via-linx/"
+    },
+    {
+      "title": "PIC Microcontroller: Advanced Training Course",
+      "url": "https://www.udemy.com/course/pic-microcontroller-advanced-training-course/"
+    },
+    {
+      "title": "Allen Bradley Micro850 PLC with IIoT",
+      "url": "https://www.udemy.com/course/allen-bradley-micro850-plc-with-industrial-examples/"
+    },
+    {
+      "title": "Arduino Projects",
+      "url": "https://www.udemy.com/course/arduino-course/"
+    },
+    {
+      "title": "Learning UVM Testbench with Xilinx Vivado 2020",
+      "url": "https://www.udemy.com/course/learning-uvm-testbench-with-xilinx-vivado-2020-for-newbie/"
+    },
+    {
+      "title": "Embedded Systems with 8051 Micro Controller using Embedded C",
+      "url": "https://www.udemy.com/course/embedded-systems-with-8051-micro-controller/"
+    },
+    {
+      "title": "Introduction to Microsoft Azure IoT",
+      "url": "https://www.udemy.com/course/introduction-to-microsoft-azure-iot/"
+    },
+    {
+      "title": "Complete Cognex And Keyence Machine Vision From 0 To Hero",
+      "url": "https://www.udemy.com/course/complete-cognex-and-keyence-machine-vision-from-0-to-hero/"
+    },
+    {
+      "title": "Linux Device Driver Programming With Beaglebone Black (LDD1)",
+      "url": "https://www.udemy.com/course/linux-device-driver-programming-using-beaglebone-black/"
+    },
+    {
+      "title": "Embedded Systems STM32 HAL APIs Driver Development",
+      "url": "https://www.udemy.com/course/embedded-systems-stm32-hal-apis-driver-development/"
+    },
+    {
+      "title": "Physical Computing with Scratch using Raspberry Pi",
+      "url": "https://www.udemy.com/course/physical-computing-with-scratch-using-raspberry-pi/"
+    },
+    {
+      "title": "Complete Arduino Course For Beginners",
+      "url": "https://www.udemy.com/course/full-arduino-course-for-beginners/"
+    },
+    {
+      "title": "Master Embedded C: Embedded Systems Interview Questions",
+      "url": "https://www.udemy.com/course/embedded-systems-interview-questions-explanations/"
+    },
+    {
+      "title": "SIEMENS TIA PORTAL PLC Course Basic & Intermediate Pt1 PLC",
+      "url": "https://www.udemy.com/course/siemens-tia-portal-plc-course-basic-intermediate-pt1-plc/"
+    },
+    {
+      "title": "Digital Electronics: Robotics, learn by building module II",
+      "url": "https://www.udemy.com/course/digital-electronics-robotics-learn-by-building-module-ii/"
+    },
+    {
+      "title": "Embedded Systems Programming on ARM Cortex-M3/M4 Processor",
+      "url": "https://www.udemy.com/course/embedded-system-programming-on-arm-cortex-m3m4/"
+    },
+    {
+      "title": "Embedded Systems Bootcamp: RTOS, IoT, AI, Vision and FPGA",
+      "url": "https://www.udemy.com/course/embedded-electronics-bootcamp-from-bit-to-deep-learning/"
+    },
+    {
+      "title": "Configuring the Synology Network Attached Storage Appliance",
+      "url": "https://www.udemy.com/course/configuring-synology-network-attached-storage-appliances/"
+    },
+    {
+      "title": "Oscilloscopes for beginners",
+      "url": "https://www.udemy.com/course/oscilloscopes-for-beginners/"
+    },
+    {
+      "title": "Learn bits and bytes of Raspberry Pi & IoT using Node-red",
+      "url": "https://www.udemy.com/course/learn-iot-with-node-red/"
+    },
+    {
+      "title": "How To Build a Computer: A Beginner's Guide",
+      "url": "https://www.udemy.com/course/how-to-build-a-computer-a-beginners-guide/"
+    },
+    {
+      "title": "8086 Microprocessor - Architecture & Programming",
+      "url": "https://www.udemy.com/course/8086-microprocessor-architecture-programming/"
+    },
+    {
+      "title": "Obstacle Avoiding Robot with Raspberry Pi",
+      "url": "https://www.udemy.com/course/obstacle-avoiding-robot-with-raspberry-pi/"
+    },
+    {
+      "title": "Bitcoin Mining using Raspberry Pi",
+      "url": "https://www.udemy.com/course/bitcoin-mining-using-raspberry-pi/"
+    },
+    {
+      "title": "Arduino Programming and Simulation without Coding",
+      "url": "https://www.udemy.com/course/arduino-programming-and-simulation-without-coding/"
+    },
+    {
+      "title": "VHDL for FPGA: Learn from Scratch to Mastery",
+      "url": "https://www.udemy.com/course/learn-vhdl-from-the-beginning-for-fpga-and-cpld-development/"
+    },
+    {
+      "title": "Internet Of Things- From Beginner To Making You First Device",
+      "url": "https://www.udemy.com/course/internet-of-things-from-beginner-to-making-you-first-device/"
+    },
+    {
+      "title": "Communication Series P1 : UART, SPI and I2C in Verilog",
+      "url": "https://www.udemy.com/course/communication-series-p1-uart-spi-and-i2c-in-verilog/"
+    },
+    {
+      "title": "Learn PCB Printed Circuit Board: A Complete Bundle",
+      "url": "https://www.udemy.com/course/pcb-bundle-circuit-design-printed-circuit-board-proteus-orcade-altuim/"
+    },
+    {
+      "title": "Software Mobile Cell Phone Repair Mastery: Android & iPhone",
+      "url": "https://www.udemy.com/course/software-mobile-cell-phone-repair-mastery-android-iphone/"
+    },
+    {
+      "title": "Start Learning Embedded Systems with AVR Atmega32 Controller",
+      "url": "https://www.udemy.com/course/embedded-systems-with-avr-microcontroller/"
+    },
+    {
+      "title": "Siemens S7-1200 PLC & HMI using TIA Portal",
+      "url": "https://www.udemy.com/course/learn-tia-portal-from-basics/"
+    },
+    {
+      "title": "Verilog for an FPGA Engineer with Xilinx Vivado Design Suite",
+      "url": "https://www.udemy.com/course/verilog-for-an-engineer-with-xilinx-vivado-design-suite/"
+    },
+    {
+      "title": "Complete 2025 Guide: Embedded Systems from Scratch",
+      "url": "https://www.udemy.com/course/complete-2024-guide-embedded-systems-from-scratch/"
+    },
+    {
+      "title": "The Ultimate Guide to IoT with Raspberry Pi and Python -2024",
+      "url": "https://www.udemy.com/course/internet-of-things-using-raspberry-pi-and-python-2023/"
+    },
+    {
+      "title": "Introduction to Arduino",
+      "url": "https://www.udemy.com/course/introduction-to-arduino/"
+    },
+    {
+      "title": "Digital Signal Processing(DSP) From Ground Up™ using Arduino",
+      "url": "https://www.udemy.com/course/arduino-dsp/"
+    },
+    {
+      "title": "Intro to Arduino Interfacing",
+      "url": "https://www.udemy.com/course/intro-to-embedded-systems-with-arduino/"
+    },
+    {
+      "title": "Learn VHDL and FPGA Development",
+      "url": "https://www.udemy.com/course/learn-vhdl-and-fpga-development/"
+    },
+    {
+      "title": "PILZ Safety PLC (M1PETH) Programming using PNOZ MultiConfig.",
+      "url": "https://www.udemy.com/course/pilz-safety-plc-m1peth-programming-using-pnoz-multiconfig/"
+    },
+    {
+      "title": "MicroPython for everyone using ESP32 / ESP8266 (Beginner)",
+      "url": "https://www.udemy.com/course/micropython-for-everyone-using-esp32/"
+    },
+    {
+      "title": "Learn FreeRTOS from scratch",
+      "url": "https://www.udemy.com/course/freertos-getting-started/"
+    },
+    {
+      "title": "5G: Technologies, Architecture And Protocols",
+      "url": "https://www.udemy.com/course/5g-network-training-key-technologies-architecture-and-protocols/"
+    },
+    {
+      "title": "PCB Design and Fabrication For Everyone",
+      "url": "https://www.udemy.com/course/pcb-design-and-fabrication-for-everyone/"
+    },
+    {
+      "title": "Learn Siemens S7-1200 PLC and HMI via TIA Portal (Advanced)",
+      "url": "https://www.udemy.com/course/learn-siemens-s7-1200-plc-and-hmi-via-tia-portal-advanced/"
+    },
+    {
+      "title": "How to Become an Embedded Systems Engineer Bootcamp",
+      "url": "https://www.udemy.com/course/how-to-become-an-embedded-systems-engineer-embedded-developer/"
+    },
+    {
+      "title": "Arduino FreeRTOS From Ground Up™ : Build RealTime Projects",
+      "url": "https://www.udemy.com/course/arduino-freertos/"
+    },
+    {
+      "title": "The Electronics Workbench: a Setup Guide",
+      "url": "https://www.udemy.com/course/workbench/"
+    },
+    {
+      "title": "Hands-on Embedded Systems with Atmel SAM4s ARM Processor",
+      "url": "https://www.udemy.com/course/armcortex-adc/"
+    },
+    {
+      "title": "All About Brocade Fiber Channel",
+      "url": "https://www.udemy.com/course/all-about-brocade-fiber-channel/"
+    },
+    {
+      "title": "Design Your PCB Board Using Altium Designer (Arduino Nano)",
+      "url": "https://www.udemy.com/course/design-your-pcb-board-using-altium-designer-arduino-nano/"
+    },
+    {
+      "title": "Codesys Fundamentals Course - Supported by Beckhoff Software",
+      "url": "https://www.udemy.com/course/codesys-fundamentals-course-supported-by-beckhoff-software/"
+    },
+    {
+      "title": "Arduino Step by Step Getting Serious",
+      "url": "https://www.udemy.com/course/arduino-sbs-getting-serious/"
+    },
+    {
+      "title": "ESP32 Learn By Building Practical Projects",
+      "url": "https://www.udemy.com/course/esp32-learn-building-practical-projects-webserver-iot-esp32/"
+    },
+    {
+      "title": "IoT enabled Aeroponics using Raspberry Pi 3",
+      "url": "https://www.udemy.com/course/iot-enabled-aeroponics-using-raspberry-pi-3/"
+    },
+    {
+      "title": "PLC, Arduino and HMI Projects over Modbus TCP: From Scratch",
+      "url": "https://www.udemy.com/course/arduino-for-industrial-automation-plc-and-hmi-integration/"
+    },
+    {
+      "title": "NIST AI Risk Management Framework (RMF) Masterclass",
+      "url": "https://www.udemy.com/course/nist-ai-risk-management-framework-rmf-masterclass/"
+    },
+    {
+      "title": "Python Digital Image Processing From Ground Up™",
+      "url": "https://www.udemy.com/course/digital-image-processing-from-ground-up-in-python/"
+    },
+    {
+      "title": "PCB Design for everyone with EasyEDA a free and online tool",
+      "url": "https://www.udemy.com/course/pcb-design/"
+    },
+    {
+      "title": "Getting started with Data Acquisition and LabJack",
+      "url": "https://www.udemy.com/course/labjack-daq/"
+    },
+    {
+      "title": "The Complete Beginners Guide to The Arduino 2025",
+      "url": "https://www.udemy.com/course/the-complete-beginners-guide-to-the-arduino/"
+    },
+    {
+      "title": "Advanced PCB Design with KiCad 9",
+      "url": "https://www.udemy.com/course/advanced-pcb-design-with-kicad/"
+    },
+    {
+      "title": "Omron Plc Programming Basics - All In One",
+      "url": "https://www.udemy.com/course/omron-plc-programming-basics/"
+    },
+    {
+      "title": "Embedded System for Internet of Things",
+      "url": "https://www.udemy.com/course/embedded-system-for-internet-of-things-pna/"
+    },
+    {
+      "title": "Intel Server Hardware Configuration Management",
+      "url": "https://www.udemy.com/course/intel-server-management/"
+    },
+    {
+      "title": "PIC Microcontroller: Everything you need to Know",
+      "url": "https://www.udemy.com/course/pic-microcontroller-step-by-step-your-complete-guide-2/"
+    },
+    {
+      "title": "KiCAD PCB Design For Embedded Systems & Electronics Projects",
+      "url": "https://www.udemy.com/course/kicad-pcb-design/"
+    },
+    {
+      "title": "VSD - RISCV : Instruction Set Architecture (ISA) - Part 1a",
+      "url": "https://www.udemy.com/course/vsd-riscv-instruction-set-architecture-isa-part-1a/"
+    },
+    {
+      "title": "Advanced Computer Architecture & Organization: HD Course",
+      "url": "https://www.udemy.com/course/advance-computer-architecture-and-organization/"
+    },
+    {
+      "title": "Computer Repairing: Learn how to program the BIOS chip",
+      "url": "https://www.udemy.com/course/computer-repairing-learn-how-to-program-the-bios-chip/"
+    },
+    {
+      "title": "Electronics for Makers: Design Flight Computers & Controller",
+      "url": "https://www.udemy.com/course/maker-electronics/"
+    },
+    {
+      "title": "Learn Siemens S7-300 PLC & WinCC HMI or SCADA in TIA Portal",
+      "url": "https://www.udemy.com/course/learn-siemens-s7-300-plc-wincc-hmi-or-scada-in-tia-portal/"
+    },
+    {
+      "title": "Internet of Things (IoT) Automation using Raspberry Pi 2",
+      "url": "https://www.udemy.com/course/internet-of-things-automation-using-raspberry-pi-2/"
+    },
+    {
+      "title": "Advanced VHDL for Verification",
+      "url": "https://www.udemy.com/course/advanced-vhdl-for-verification/"
+    },
+    {
+      "title": "Internet of Things with Python Programming",
+      "url": "https://www.udemy.com/course/iot-with-python/"
+    },
+    {
+      "title": "Humanoid Robotics using Raspberry Pi",
+      "url": "https://www.udemy.com/course/humanoid-robotics-using-raspberry-pi/"
+    },
+    {
+      "title": "MQTT Masterclass",
+      "url": "https://www.udemy.com/course/mqtt-masterclass/"
+    },
+    {
+      "title": "CompTIA A+ Certification Preparation: Learn the Basics of IT",
+      "url": "https://www.udemy.com/course/comptia-aplus-certification-prep/"
+    },
+    {
+      "title": "Make Arduino Board at Home: Step by Step Guide",
+      "url": "https://www.udemy.com/course/make-your-own-arduino-board-at-home-step-by-step-guide/"
+    },
+    {
+      "title": "Fundamentals of Verification and System Verilog",
+      "url": "https://www.udemy.com/course/fundamentals-of-verification-and-system-verilog/"
+    },
+    {
+      "title": "Advanced Arduino Boards and Tools",
+      "url": "https://www.udemy.com/course/advanced-arduino-boards-and-tools/"
+    },
+    {
+      "title": "Mastering STM32 microcontrollers",
+      "url": "https://www.udemy.com/course/mastering-stm32f407-microcontrollers/"
+    },
+    {
+      "title": "Mastering Microcontroller Programming",
+      "url": "https://www.udemy.com/course/microcontroller-programming/"
+    },
+    {
+      "title": "Automotive - Over The Air Update [ OTA ]",
+      "url": "https://www.udemy.com/course/automotive-over-the-air-update-ota/"
+    },
+    {
+      "title": "Verilog Programming with Xilinx ISE Tool & FPGA",
+      "url": "https://www.udemy.com/course/verilog-hdl-programming-for-beginners-with-xilinx-ise-design/"
+    },
+    {
+      "title": "Mastering MQTT",
+      "url": "https://www.udemy.com/course/mastering-mqtt/"
+    },
+    {
+      "title": "Learn to Repair & Troubleshoot Electronics",
+      "url": "https://www.udemy.com/course/learn-to-repair-troubleshoot-electronics/"
+    },
+    {
+      "title": "8051 Microcontroller - Embedded C and Assembly Language",
+      "url": "https://www.udemy.com/course/8051-microcontroller-embedded-c-and-assembly-language/"
+    },
+    {
+      "title": "Arduino Masterclass For Beginners: AI, Robotics & ChatGPT",
+      "url": "https://www.udemy.com/course/arduino-masterclass/"
+    },
+    {
+      "title": "EE1C01 - Electronics Engineering Bootcamp",
+      "url": "https://www.udemy.com/course/ee1c01-electronics-engineering-bootcamp/"
+    },
+    {
+      "title": "Arduino UNO Bootcamp For Beginners - Complete Course",
+      "url": "https://www.udemy.com/course/arduino-uno-bootcamp-for-beginners-2022-complete-course/"
+    },
+    {
+      "title": "PID Controller with Arduino - Masterclass",
+      "url": "https://www.udemy.com/course/pid-controller-with-arduino/"
+    },
+    {
+      "title": "Beginners Masterclass: Raspberry Pi and Internet of Things",
+      "url": "https://www.udemy.com/course/internet-of-things-raspberrypi-azure/"
+    },
+    {
+      "title": "Learn How to Build a Computer",
+      "url": "https://www.udemy.com/course/learn-how-to-build-a-computer/"
+    },
+    {
+      "title": "Beckhoff TwinCat3 PLC Programming Basics",
+      "url": "https://www.udemy.com/course/learn-basics-of-beckhoff-twincat3-plc-in-15-hours/"
+    },
+    {
+      "title": "The Foundations of Computer Design",
+      "url": "https://www.udemy.com/course/the-foundations-of-computer-design/"
+    },
+    {
+      "title": "15 Days Arduino Masterclass: 15 Days Bootcamp",
+      "url": "https://www.udemy.com/course/arduino-step-by-step-your-complete-guide/"
+    },
+    {
+      "title": "Arduino Step by Step: Getting Started",
+      "url": "https://www.udemy.com/course/arduino-sbs-17gs/"
+    },
+    {
+      "title": "Studio 5000 Programming using SFC's.",
+      "url": "https://www.udemy.com/course/rslogixstudio5000-plc-programming-training-using-sfcs/"
+    },
+    {
+      "title": "Raspberry Pi Step By Step: You Complete Guide",
+      "url": "https://www.udemy.com/course/raspberry-pi-step-by-step-you-complete-guide/"
+    },
+    {
+      "title": "Communication Protocols: UART, USART, I2C, I3C, SPI, GPIO",
+      "url": "https://www.udemy.com/course/communication-protocols-uart-usart-i2c-i3c-spi-gpio/"
+    },
+    {
+      "title": "5G Lab for Service Based Architecture & Signaling",
+      "url": "https://www.udemy.com/course/5g-service-based-architecture-and-signaling-practical-demo/"
+    },
+    {
+      "title": "Design a CPU",
+      "url": "https://www.udemy.com/course/design-a-cpu/"
+    },
+    {
+      "title": "How to Clean Your Computer: Clean your Computer like a Pro",
+      "url": "https://www.udemy.com/course/how-to-clean-your-computer-a-beginners-guide/"
+    },
+    {
+      "title": "The Most Complete ARDUINO MASTERCLASS for Beginners",
+      "url": "https://www.udemy.com/course/the-most-complete-arduino-masterclass-for-beginners-2022/"
+    },
+    {
+      "title": "Computer Hardware, Operating System and Networking",
+      "url": "https://www.udemy.com/course/computer-hardware-operating-system-and-networking-r/"
+    },
+    {
+      "title": "Node-RED and Raspberry Pi Pico W Getting Started",
+      "url": "https://www.udemy.com/course/node-red-and-raspberry-pi-pico-w-getting-started/"
+    },
+    {
+      "title": "FANUC PLC Programming Course - Fanuc Ladder 3",
+      "url": "https://www.udemy.com/course/fanuc-plc-programming-course-fanuc-ladder-3/"
+    },
+    {
+      "title": "Learn Arduino by Building 26 Projects!",
+      "url": "https://www.udemy.com/course/arduino-learn-arduino-by-building-26-projects/"
+    },
+    {
+      "title": "Laptop Repairs Using Schematics Diagrams",
+      "url": "https://www.udemy.com/course/laptop-repairs-using-schematics-diagrams/"
+    },
+    {
+      "title": "Design with KiCad",
+      "url": "https://www.udemy.com/course/design-with-kicad-6/"
+    },
+    {
+      "title": "FreeRTOS on Raspberry PI PICO",
+      "url": "https://www.udemy.com/course/freertos-on-rpi-pico/"
+    },
+    {
+      "title": "Blynk mobile development for Arduino - Updated for Blynk 2",
+      "url": "https://www.udemy.com/course/blynk-iot/"
+    },
+    {
+      "title": "Intro to Computer Organization, Number & Data Representation",
+      "url": "https://www.udemy.com/course/intro-to-computer-organization-number-and-data-representation/"
+    },
+    {
+      "title": "CMOS Analog Circuit Design",
+      "url": "https://www.udemy.com/course/analog_ic_design_overview/"
+    },
+    {
+      "title": "How to Build a Computer from Scratch: Complete Blueprint",
+      "url": "https://www.udemy.com/course/how-to-build-a-computer-from-scratch-complete-blueprint/"
+    },
+    {
+      "title": "Arduino UNO Based Obstacle Avoiding Robot Car & RC-Control",
+      "url": "https://www.udemy.com/course/arduino-uno-based-obstacle-avoiding-robot-car-rc-control/"
+    },
+    {
+      "title": "VHDL for an FPGA Engineer with Vivado Design Suite",
+      "url": "https://www.udemy.com/course/vhdl-fpga-engineer-with-xilinx-vivado-design-suite/"
+    },
+    {
+      "title": "Arduino Sensor Mastery: Unleashing Digital Brilliance",
+      "url": "https://www.udemy.com/course/dc-motor-arduino/"
+    },
+    {
+      "title": "Zynq Ultrascale+MPSoC Development",
+      "url": "https://www.udemy.com/course/learn-zynq-ultrascale-plus-mpsoc-development/"
+    },
+    {
+      "title": "Arduino Radar: Step By Step Guide",
+      "url": "https://www.udemy.com/course/arduino-radar-step-by-step-guide/"
+    },
+    {
+      "title": "Raspberry Pi Essentials: Learn More in Less Time",
+      "url": "https://www.udemy.com/course/raspberry-pi-essentials/"
+    },
+    {
+      "title": "ESP8266 & Micro Python for Internet of Things",
+      "url": "https://www.udemy.com/course/iot_using_nodemcu_micropython/"
+    },
+    {
+      "title": "Verilog HDL Through Examples",
+      "url": "https://www.udemy.com/course/verilog-hdl-through-examples/"
+    },
+    {
+      "title": "Siemens Simotion System And Programming Course",
+      "url": "https://www.udemy.com/course/siemens-simotion-system-and-programming-course/"
+    },
+    {
+      "title": "PCB design with KiCad - updated for KiCad 9",
+      "url": "https://www.udemy.com/course/kicad-like-a-pro-3e/"
+    },
+    {
+      "title": "I2C, SPI, UART (RS232), VGA in VHDL for FPGA interfacing",
+      "url": "https://www.udemy.com/course/vhdl-implementaiton-of-i2c-serial-communication-protocol/"
+    },
+    {
+      "title": "Arduino Complete Course : Build 30+ projects step by step",
+      "url": "https://www.udemy.com/course/arduino-complete-course-build-30-projects-step-by-step/"
+    },
+    {
+      "title": "Design and Simulate Arduino Boards and Test Your Code",
+      "url": "https://www.udemy.com/course/simulate-arduino-boards-and-start-testing-your-codes-freely/"
+    },
+    {
+      "title": "Arduino: Build an Iron Man Arm with Voice Control",
+      "url": "https://www.udemy.com/course/arduino-build-your-own-bionic-arm-with-voice-recognition/"
+    },
+    {
+      "title": "Verification Series Part 1: SystemVerilog Essentials",
+      "url": "https://www.udemy.com/course/complete-systemverilog-for-rtl-verification-part-1/"
+    },
+    {
+      "title": "Altium Designer 16 - Basics (Arduino FIO)",
+      "url": "https://www.udemy.com/course/altiumdesignerbasics/"
+    },
+    {
+      "title": "PLC Object Oriented Programming :Advanced Infrastructure",
+      "url": "https://www.udemy.com/course/plc-object-oriented-programming-advanced-infastrucutre/"
+    },
+    {
+      "title": "Learning Cisco Unified Computing System - UCS",
+      "url": "https://www.udemy.com/course/learning-cisco-unified-computing-system-ucs/"
+    },
+    {
+      "title": "IoT with Raspberry Pi and Python: Building Smart Systems",
+      "url": "https://www.udemy.com/course/iot-internet-of-things-automation-using-raspberry-pi/"
+    },
+    {
+      "title": "Building Video Surveillance Apps Using ESP32 & Arduino",
+      "url": "https://www.udemy.com/course/esp32-cam-for-arduino-makers/"
+    },
+    {
+      "title": "IT Asset Management (ITAM) - Hardware Asset Management (HAM)",
+      "url": "https://www.udemy.com/course/it-asset-management/"
+    },
+    {
+      "title": "Introduction to Internet of Things(IoT) using Raspberry Pi 2",
+      "url": "https://www.udemy.com/course/introduction-to-iot-using-raspberry-pi-2/"
+    },
+    {
+      "title": "LabVIEW Step By Step: Beginners Complete Guide",
+      "url": "https://www.udemy.com/course/labview-step-by-step-your-complete-guide/"
+    },
+    {
+      "title": "Learn VHDL, ISE and FPGA by Designing a basic Home Alarm",
+      "url": "https://www.udemy.com/course/getting-started-with-fpga-ise-and-vhdl/"
+    },
+    {
+      "title": "Servo Motion Mastery (PLC Programming)",
+      "url": "https://www.udemy.com/course/servo-motion-mastery/"
+    },
+    {
+      "title": "Vivado Basics: Learn FPGA Design with a PCIe Project",
+      "url": "https://www.udemy.com/course/vivado-learn-from-the-beginning-and-with-pcie-full-project/"
+    },
+    {
+      "title": "Hardware Cell Phone Mobile Repair & Microsoldering V3.0-2025",
+      "url": "https://www.udemy.com/course/mastering-cell-phone-repair-microsolderingandroid-iphone/"
+    },
+    {
+      "title": "Learn PLC basics EASY!",
+      "url": "https://www.udemy.com/course/learn-plc-basics/"
+    },
+    {
+      "title": "Essentials of Advanced Radio Frequency IC Design",
+      "url": "https://www.udemy.com/course/introduction-to-radio-frequency-integrated-circuit-design/"
+    },
+    {
+      "title": "ESP32 For Arduino Makers",
+      "url": "https://www.udemy.com/course/esp32-for-arduino-makers/"
+    },
+    {
+      "title": "FPGA Design with VIVADO HLS -High Level Synthesis",
+      "url": "https://www.udemy.com/course/fpga-design-with-high-level-synthesis-vivado-hls/"
+    },
+    {
+      "title": "Connect and Interface Raspberry Pi with Arduino",
+      "url": "https://www.udemy.com/course/raspberry-pi-with-arduino-connect-and-interface-/"
+    },
+    {
+      "title": "Verilog HDL Fundamentals for Digital Design and Verification",
+      "url": "https://www.udemy.com/course/verilog-hdl-fundamentals-for-digital-design-and-verification/"
+    },
+    {
+      "title": "Short Circuit Repairs in Laptop Motherboards",
+      "url": "https://www.udemy.com/course/master-the-art-of-short-circuit-repair-in-laptop-motherboard/"
+    },
+    {
+      "title": "Computer technician training for CompTIA A+ certification",
+      "url": "https://www.udemy.com/course/computer-technician-training-course-u/"
+    },
+    {
+      "title": "The Complete PLC Software/Hardware full Automation Bootcamp",
+      "url": "https://www.udemy.com/course/complete-plc-classic-control-softwarehardware-designs/"
+    },
+    {
+      "title": "ARM Raspberry Pi Assembly Language From Ground Up™",
+      "url": "https://www.udemy.com/course/arm-raspberry-pi-assembly-programming-from-ground-uptm/"
+    },
+    {
+      "title": "Learn Verilog with Xilinx VIVADO Tool",
+      "url": "https://www.udemy.com/course/learn-verilog-programming-with-vivado-design-suit/"
+    },
+    {
+      "title": "Cluster Pi: Build a Raspberry Pi Beowulf cluster",
+      "url": "https://www.udemy.com/course/raspberry-pi-beowulf-cluster/"
+    },
+    {
+      "title": "IT Asset Management (ITAM)— Hardware Asset Management",
+      "url": "https://www.udemy.com/course/it-asset-management-itam-hardware-asset-management/"
+    },
+    {
+      "title": "Arduino Bluetooth Low Energy (BLE) From Ground Up™",
+      "url": "https://www.udemy.com/course/arduino-bluetooth-low-energy-ble-from-ground-uptm/"
+    },
+    {
+      "title": "Writing SystemVerilog Testbenches for Newbie",
+      "url": "https://www.udemy.com/course/system-verilog-for-chip-verification/"
+    },
+    {
+      "title": "Mastering VFD from Basic to Advance",
+      "url": "https://www.udemy.com/course/mastering-vfd-from-basic-to-advance/"
+    },
+    {
+      "title": "Circuit creation,analysis and simulation using MULTISIM",
+      "url": "https://www.udemy.com/course/circuit-creationanalysis-and-simulation-using-multisim/"
+    },
+    {
+      "title": "Building a Computer: From Zero to PC Hero",
+      "url": "https://www.udemy.com/course/building-a-computer-from-zero-to-pc-hero/"
+    },
+    {
+      "title": "Embedded Rust Development with STM32: Absolute Beginners",
+      "url": "https://www.udemy.com/course/embedded-rust-for-absolute-beginners/"
+    },
+    {
+      "title": "Arduino OOP (Object Oriented Programming)",
+      "url": "https://www.udemy.com/course/arduino-oop/"
+    },
+    {
+      "title": "Raspberry Pi for the Beginners",
+      "url": "https://www.udemy.com/course/raspberry-pi-for-the-beginners/"
+    },
+    {
+      "title": "HMI FactoryTalk Complete Course, PLC Allen Bradley PanelView",
+      "url": "https://www.udemy.com/course/hmi-factorytalk-complete-course-plc-allen-bradley-panelview/"
+    },
+    {
+      "title": "Introduction to BLE",
+      "url": "https://www.udemy.com/course/introduction-to-ble/"
+    },
+    {
+      "title": "Electrical, Electronics and PCB Design Safety & Compliance",
+      "url": "https://www.udemy.com/course/designers-guide-to-electrical-safety-isolation-standards/"
+    },
+    {
+      "title": "MicroPython for the BBC Micro:bit",
+      "url": "https://www.udemy.com/course/micropython-for-the-bbc-microbit/"
+    },
+    {
+      "title": "Microcontroller Embedded C Programming: Absolute Beginners",
+      "url": "https://www.udemy.com/course/microcontroller-embedded-c-programming/"
+    },
+    {
+      "title": "Automation with Raspberry Pi Zero",
+      "url": "https://www.udemy.com/course/automation-with-raspberry-pi-zero/"
+    },
+    {
+      "title": "FPGA Embedded Design, Part 1 - Verilog",
+      "url": "https://www.udemy.com/course/fpga-embedded-design-verilog/"
+    },
+    {
+      "title": "Embedded System Design with Xilinx ZYNQ SoC and SDK",
+      "url": "https://www.udemy.com/course/embedded-system-design-with-zynq-devices-for-newbie/"
+    },
+    {
+      "title": "Model, Simulate and Control a Drone in MATLAB & SIMULINK",
+      "url": "https://www.udemy.com/course/quadcopter-drone-dji-mavic-matlab-simulink/"
+    },
+    {
+      "title": "Building a RISC-V SoC From Scratch!",
+      "url": "https://www.udemy.com/course/building-a-risc-v-soc-from-scratch/"
+    },
+    {
+      "title": "Laptop Schematics: Learn How to Read Motherboard Schemes",
+      "url": "https://www.udemy.com/course/laptop-schematics-learn-how-to-read-motherboard-schemes/"
+    },
+    {
+      "title": "HMI Interfacing with PLC",
+      "url": "https://www.udemy.com/course/hmi-interfacing-with-plc/"
+    },
+    {
+      "title": "Applied Logic (Level 2)",
+      "url": "https://www.udemy.com/course/plc_programming/"
+    },
+    {
+      "title": "Make PIC microcontroller based Arduino Development Board",
+      "url": "https://www.udemy.com/course/pinguino-a-pic-microcontroller-based-arduino/"
+    },
+    {
+      "title": "Build Your Own Custom Computer!",
+      "url": "https://www.udemy.com/course/build-a-computer/"
+    },
+    {
+      "title": "Learn to Design Your Own Boards",
+      "url": "https://www.udemy.com/course/learn-to-design-your-own-boards/"
+    },
+    {
+      "title": "Become the FASTEST Keyboard Typer",
+      "url": "https://www.udemy.com/course/fastest-typing-course/"
+    },
+    {
+      "title": "Centrifugal pumps : Principles , Operation and Design",
+      "url": "https://www.udemy.com/course/centrifugal-pumps-principles-operation-and-design/"
+    },
+    {
+      "title": "Introduction to MicroPython using the Pyboard",
+      "url": "https://www.udemy.com/course/introduction-to-micropython-using-the-pyboard/"
+    },
+    {
+      "title": "IEC Paradigms (Level 4)",
+      "url": "https://www.udemy.com/course/advanced-plc-programming/"
+    },
+    {
+      "title": "Verilog on Intel (Altera) FPGA",
+      "url": "https://www.udemy.com/course/verilog-on-intel-altera-fpga/"
+    },
+    {
+      "title": "Embedded MicroPython from Ground Up™",
+      "url": "https://www.udemy.com/course/embedded-micropython-from-ground-uptm/"
+    },
+    {
+      "title": "Hands-On Robotics with Arduino, Build 13 robot projects",
+      "url": "https://www.udemy.com/course/robotics-for-beginners-build-time-control-robot-from-scratch/"
+    },
+    {
+      "title": "Building a Processor with Verilog HDL from Scratch",
+      "url": "https://www.udemy.com/course/building-a-processor-with-verilog-hdl-from-scratch/"
+    },
+    {
+      "title": "Arduino Simulation and Block Coding",
+      "url": "https://www.udemy.com/course/arduino-simulation-block-coding-tinkercad-proteus-visuino-ardusim/"
+    },
+    {
+      "title": "Cell Phone Motherboard Repair course for beginners - mobile",
+      "url": "https://www.udemy.com/course/cell-phone-motherboard-repair-course-for-beginners-mobile/"
+    },
+    {
+      "title": "Raspberry Pi, Python, and Electronics Bootcamp",
+      "url": "https://www.udemy.com/course/getting-started-with-raspberry-pi/"
+    },
+    {
+      "title": "Robotics for Beginners - Build Your 1st Robot",
+      "url": "https://www.udemy.com/course/robotics-with-arduino-and-magicbot-for-beginners/"
+    },
+    {
+      "title": "PCB design with Altium Designer",
+      "url": "https://www.udemy.com/course/pcb-design-with-altium-designer-2022-latest-version/"
+    },
+    {
+      "title": "How to Build a Personal Computer 2025",
+      "url": "https://www.udemy.com/course/personal-computergaming-rig-fundamentals/"
+    },
+    {
+      "title": "OMRON PLC Programming Using CX-Programmer (PLC-SCADA-3)",
+      "url": "https://www.udemy.com/course/learn-omron-plc-cx-programmer-from-scratch-to-expert-level/"
+    },
+    {
+      "title": "Build Autonomous Navigation Robot: ROS Simulation & Hardware",
+      "url": "https://www.udemy.com/course/build-your-own-ros-powered-autonomous-robot/"
+    },
+    {
+      "title": "Laptop motherboard repair Technician course",
+      "url": "https://www.udemy.com/course/advance-laptop-motherboard-repair-master-course/"
+    },
+    {
+      "title": "STM32L4 Bare-Metal Peripheral Drivers Development",
+      "url": "https://www.udemy.com/course/stm32l4-bare-metal-peripheral-drivers-development/"
+    },
+    {
+      "title": "WebMaster Arduino: Control Anything, Anytime, Anywhere",
+      "url": "https://www.udemy.com/course/arduino-web-control-step-by-step-guide/"
+    },
+    {
+      "title": "Arduino Programming for Absolute Beginners",
+      "url": "https://www.udemy.com/course/arduino-programming-for-absolute-beginners/"
+    },
+    {
+      "title": "FPGA VHDL course coding QSPI nor flash memory",
+      "url": "https://www.udemy.com/course/fpga-vhdl-coding-qspi-nor-flash-memory-from-zero-to-hero/"
+    },
+    {
+      "title": "How to Build a Computer from Scratch: The Complete Course",
+      "url": "https://www.udemy.com/course/building-a-pc-from-scratch-beginner-to-master/"
+    },
+    {
+      "title": "Raspberry Pi and Arduino - Go to The Next Level",
+      "url": "https://www.udemy.com/course/raspberry-pi-and-arduino/"
+    },
+    {
+      "title": "High-Level Synthesis for FPGA, Part 1-Combinational Circuits",
+      "url": "https://www.udemy.com/course/hls-combinational-circuits/"
+    },
+    {
+      "title": "Embedded Systems using the ARM Mbed Platform",
+      "url": "https://www.udemy.com/course/arm-mbed/"
+    },
+    {
+      "title": "Crash Course on Embedded C Programming",
+      "url": "https://www.udemy.com/course/crash-course-on-embedded-c-programming/"
+    },
+    {
+      "title": "PCB Designing in Altium Designer",
+      "url": "https://www.udemy.com/course/pcb-designing-in-altium-designer/"
+    },
+    {
+      "title": "Embedded Systems Using Cypress Programmable System on Chip",
+      "url": "https://www.udemy.com/course/embedded-system-design-using-cypsoc4/"
+    },
+    {
+      "title": "STM32F4 Programming Course for Beginners",
+      "url": "https://www.udemy.com/course/stm32f4-programming-course-for-beginners/"
+    },
+    {
+      "title": "Learn Siemens PLC S7-1500 Programming and Configuration",
+      "url": "https://www.udemy.com/course/simatic_plc_s7-1500_programming/"
+    },
+    {
+      "title": "STM32 : Internet Of Things with 4G LTE Modem - Hardware",
+      "url": "https://www.udemy.com/course/stm32-internet-of-things-with-4g-lte-modem-hardware/"
+    },
+    {
+      "title": "Electronic Repair: Learn How to Test Electronic Components",
+      "url": "https://www.udemy.com/course/how-to-test-complex-electronic-components-using-a-multimeter/"
+    },
+    {
+      "title": "Troubleshoot Your Electronics Projects",
+      "url": "https://www.udemy.com/course/troubleshoot-electronics-projects-devices-check-maintenance-electronic/"
+    },
+    {
+      "title": "Node-Red Design With Siemens S7-1200 PLC ( IoT Application)",
+      "url": "https://www.udemy.com/course/node-red-design-with-siemens-s7-1200-plc/"
+    },
+    {
+      "title": "Professional PCB Fabrication For Everyone",
+      "url": "https://www.udemy.com/course/create-pcb-design-and-fabrication-for-everyone-pcbway-pcb-design/"
+    },
+    {
+      "title": "Foundation of Embedded Systems with ARM Cortex and STM32",
+      "url": "https://www.udemy.com/course/cortex-m/"
+    },
+    {
+      "title": "Simulink Embedded Coder for Automatic C Code Generation",
+      "url": "https://www.udemy.com/course/simulink-matlab-embedded-coder-for-automatic-c-code-generation/"
+    },
+    {
+      "title": "Embedded System Design with Microblaze and Vitis IDE",
+      "url": "https://www.udemy.com/course/embedded-system-design-with-microblaze-and-vitis-ide/"
+    },
+    {
+      "title": "Introduction to Internet of Things(IoT) using Arduino",
+      "url": "https://www.udemy.com/course/introduction-to-internet-of-things-iot-using-arduino/"
+    },
+    {
+      "title": "Cognex In-Sight Machine Vision Industrial Development SCADA",
+      "url": "https://www.udemy.com/course/cognex-in-sight-machine-vision-industrial-development-scada/"
+    },
+    {
+      "title": "Learn SCADA from Scratch - Design, Program and Interface",
+      "url": "https://www.udemy.com/course/learn-scada-in-a-day-starting-from-scratch/"
+    },
+    {
+      "title": "STM32 Beginner Course",
+      "url": "https://www.udemy.com/course/stm32-beginner-course/"
+    },
+    {
+      "title": "Building Custom AXI Interface Peripherals for ZYNQ Devices",
+      "url": "https://www.udemy.com/course/custom-axi-interface-zynq-peripherals-for-newbie/"
+    }
+  ]
+}

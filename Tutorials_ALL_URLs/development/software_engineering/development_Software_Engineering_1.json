@@ -1,0 +1,2054 @@
+{
+  "main_category": "development",
+  "sub_category": "Software Engineering",
+  "courses": [
+    {
+      "title": "Master Generative AI with Java and Spring Boot | Spring AI",
+      "url": "https://www.udemy.com/course/gen-ai-spring/"
+    },
+    {
+      "title": "IBM webMethods | An Exhaustive Content (Development & Admin)",
+      "url": "https://www.udemy.com/course/webmethods-dev-admin-forall/"
+    },
+    {
+      "title": "Learn Blockchain Programming with Hyperledger Fabric",
+      "url": "https://www.udemy.com/course/learn-blockchain-programming-with-hyperledger-fabric/"
+    },
+    {
+      "title": "Algorithms and Data Structures in Python (INTERVIEW Q&A)",
+      "url": "https://www.udemy.com/course/algorithms-and-data-structures-in-python/"
+    },
+    {
+      "title": "LeetCode in Java: Algorithms Coding Interview Questions",
+      "url": "https://www.udemy.com/course/leetcode-coding-interview-question-solution-explanation/"
+    },
+    {
+      "title": "Cloud-Native: Microservices, Kubernetes, Service Mesh, CI/CD",
+      "url": "https://www.udemy.com/course/cloud-native-microservices-kubernetes-service-mesh-cicd/"
+    },
+    {
+      "title": "The Complete Introduction to New Relic One [With APM]",
+      "url": "https://www.udemy.com/course/the-complete-introduction-to-new-relic-one/"
+    },
+    {
+      "title": "Spring Batch Framework for Beginners",
+      "url": "https://www.udemy.com/course/spring-batch-framework-for-beginners-a/"
+    },
+    {
+      "title": "TCP/IP Socket Programming in C# .Net For Coders & Students",
+      "url": "https://www.udemy.com/course/tcpip-socket-programming-for-coders-using-csharp-net/"
+    },
+    {
+      "title": "Microservices: Designing Highly Scalable Systems",
+      "url": "https://www.udemy.com/course/introduction-to-microservices/"
+    },
+    {
+      "title": "Complete guide to AWS Step Functions",
+      "url": "https://www.udemy.com/course/complete-guide-to-aws-step-functions/"
+    },
+    {
+      "title": "Learn Micronaut - cloud native microservices with Java",
+      "url": "https://www.udemy.com/course/learn-micronaut/"
+    },
+    {
+      "title": "Microservices Software Architecture: Patterns and Techniques",
+      "url": "https://www.udemy.com/course/microservices-software-architecture-patterns-and-techniques/"
+    },
+    {
+      "title": "Mastering critical SKILLS in Data Structures using Python",
+      "url": "https://www.udemy.com/course/python-ds-skills/"
+    },
+    {
+      "title": "Reactive Microservices Architecture & Design Patterns",
+      "url": "https://www.udemy.com/course/spring-webflux-patterns/"
+    },
+    {
+      "title": "JavaScript & LeetCode | The Interview Bootcamp",
+      "url": "https://www.udemy.com/course/ultimate-javascript-leetcode-interview-bootcamp/"
+    },
+    {
+      "title": "Apache Kylin : Implementing OLAP on the Hadoop platform",
+      "url": "https://www.udemy.com/course/apache-kylin-implementing-olap-on-the-hadoop-platform/"
+    },
+    {
+      "title": "Node js with Test Driven Development",
+      "url": "https://www.udemy.com/course/test-driven-development-with-nodejs/"
+    },
+    {
+      "title": "Java Streams API Developer Guide",
+      "url": "https://www.udemy.com/course/java-streams/"
+    },
+    {
+      "title": "Emotional Intelligence for Software Engineers and Developers",
+      "url": "https://www.udemy.com/course/emotional-intelligence-for-software-engineers-and-developers/"
+    },
+    {
+      "title": "Coding Interview Preparation - The Softer Skills",
+      "url": "https://www.udemy.com/course/software-engineer-interview-preparation/"
+    },
+    {
+      "title": "Making Sense of User Stories",
+      "url": "https://www.udemy.com/course/making-sense-of-user-stories/"
+    },
+    {
+      "title": "Master the Coding Interview: Data Structures + Algorithms",
+      "url": "https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/"
+    },
+    {
+      "title": "Apache Airflow on AWS EKS: The Hands-On Guide",
+      "url": "https://www.udemy.com/course/apache-airflow-on-aws-eks-the-hands-on-guide/"
+    },
+    {
+      "title": "Blockchain & Bitcoin Basics",
+      "url": "https://www.udemy.com/course/create-your-own-blockchain/"
+    },
+    {
+      "title": "Learn GIT In depth with BitBucket- Practical work flows",
+      "url": "https://www.udemy.com/course/learn-git-tutorial-bitbucket/"
+    },
+    {
+      "title": "Docker - Introducing Docker Essentials, Containers, and more",
+      "url": "https://www.udemy.com/course/docker-containers/"
+    },
+    {
+      "title": "Develop Opencv based Facial recognition system using c#",
+      "url": "https://www.udemy.com/course/develop-opencv-based-facial-recognition-system-using-c/"
+    },
+    {
+      "title": "Understanding Node.js: Core Concepts",
+      "url": "https://www.udemy.com/course/understanding-nodejs-core-concepts/"
+    },
+    {
+      "title": "GitOps with Kubernetes (K8S), Terraform, Azure and AWS",
+      "url": "https://www.udemy.com/course/gitops-with-kubernetes-terraform-azure-and-aws/"
+    },
+    {
+      "title": "Concurrent and Parallel Programming in Python",
+      "url": "https://www.udemy.com/course/concurrent-and-parallel-programming-in-python/"
+    },
+    {
+      "title": "Apache Camel with Springboot Masterclass",
+      "url": "https://www.udemy.com/course/apache-camel-with-springboot-masterclass/"
+    },
+    {
+      "title": "Refactoring Java with IntelliJ IDEA",
+      "url": "https://www.udemy.com/course/refactoring-java-with-intellij-idea/"
+    },
+    {
+      "title": "Beat the Codility Coding Interview in Python",
+      "url": "https://www.udemy.com/course/beat-the-codility-coding-interview-in-python/"
+    },
+    {
+      "title": "gRPC [Node.js] MasterClass: Build Modern API & Microservices",
+      "url": "https://www.udemy.com/course/grpc-nodejs/"
+    },
+    {
+      "title": "Intro to Embedded Machine Learning",
+      "url": "https://www.udemy.com/course/intro-to-embedded-ml/"
+    },
+    {
+      "title": "Data Processing with Logstash (and Filebeat)",
+      "url": "https://www.udemy.com/course/processing-events-with-logstash/"
+    },
+    {
+      "title": "Visual C# and ADO.NET Programming",
+      "url": "https://www.udemy.com/course/visual-c-and-adonet-programming/"
+    },
+    {
+      "title": "Fast, Good & Cheap",
+      "url": "https://www.udemy.com/course/developing-and-measuring-training-the-agile-way/"
+    },
+    {
+      "title": "Collaboration and Crawling W/ Golang - Google's Go Language",
+      "url": "https://www.udemy.com/course/golang-tutorial/"
+    },
+    {
+      "title": "Design Patterns in Python",
+      "url": "https://www.udemy.com/course/design-patterns-in-python/"
+    },
+    {
+      "title": "Introduction to Web Development [HTML, CSS, JAVASCRIPT]",
+      "url": "https://www.udemy.com/course/introduction-to-web-development-h/"
+    },
+    {
+      "title": "Apache Airflow using Google Cloud Composer: Introduction",
+      "url": "https://www.udemy.com/course/apache-airflow-using-google-cloud-composer-introduction/"
+    },
+    {
+      "title": "Build A Photoshop Like App With TKinter and Python GUI Apps",
+      "url": "https://www.udemy.com/course/build-a-paint-program-with-tkinter-and-python/"
+    },
+    {
+      "title": "Beat the Codility Coding Interview in JavaScript",
+      "url": "https://www.udemy.com/course/beat-the-codility-coding-interview-in-javascript/"
+    },
+    {
+      "title": "Software Architecture: Meta and SOLID Principles in C#",
+      "url": "https://www.udemy.com/course/solid-principles/"
+    },
+    {
+      "title": "Spring Boot and React with Test Driven Development",
+      "url": "https://www.udemy.com/course/test-driven-web-application-development-with-spring-react/"
+    },
+    {
+      "title": "CI/CD with TeamCity From Beginner to Advanced",
+      "url": "https://www.udemy.com/course/teamcity-2017-build-and-deploy-the-modern-way/"
+    },
+    {
+      "title": "TDD in C# From A to Z",
+      "url": "https://www.udemy.com/course/tdd-csharp/"
+    },
+    {
+      "title": "Java Data Structures & Algorithms: Ace Coding Interviews!",
+      "url": "https://www.udemy.com/course/java-data-structures-algorithms-ace-coding-interviews/"
+    },
+    {
+      "title": "Data Structures and Algorithms Python: The Complete Bootcamp",
+      "url": "https://www.udemy.com/course/data-structures-and-algorithms-masterclass/"
+    },
+    {
+      "title": "Azure Functions Masterclass",
+      "url": "https://www.udemy.com/course/azure-functions-masterclass/"
+    },
+    {
+      "title": "Algorithms in Java :Live problem solving & Design Techniques",
+      "url": "https://www.udemy.com/course/algorithm-design-techniques-live-problem-solving-in-java/"
+    },
+    {
+      "title": "Software Design Principles for Energy Software Development",
+      "url": "https://www.udemy.com/course/software-design-principles-for-building-economic-models/"
+    },
+    {
+      "title": "Deploy Infra in the Cloud using Terraform",
+      "url": "https://www.udemy.com/course/deploy-infra-in-the-cloud-using-terraform/"
+    },
+    {
+      "title": "Learn DataDog Monitoring",
+      "url": "https://www.udemy.com/course/learn-datadog-monitoring/"
+    },
+    {
+      "title": ".NET Microservices: CQRS & Event Sourcing with Kafka",
+      "url": "https://www.udemy.com/course/net-microservices-cqrs-event-sourcing-with-kafka/"
+    },
+    {
+      "title": "Fundamentals of Backend Engineering",
+      "url": "https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/"
+    },
+    {
+      "title": "Django with Data Science",
+      "url": "https://www.udemy.com/course/django-with-data-science/"
+    },
+    {
+      "title": "gRPC [C#] Master Class: Build Modern API & Microservices",
+      "url": "https://www.udemy.com/course/grpc-csharp/"
+    },
+    {
+      "title": "Python Performance Optimization",
+      "url": "https://www.udemy.com/course/python-performance-optimization/"
+    },
+    {
+      "title": "Testing In Agile",
+      "url": "https://www.udemy.com/course/testing-in-agile/"
+    },
+    {
+      "title": "The Complete MacOS Developer Course - Apps for the Desktop!",
+      "url": "https://www.udemy.com/course/macos-programming-for-ios-developers-mac-apps-os-x-cocoa/"
+    },
+    {
+      "title": "SwiftUI Covid19 Statistics tracking with REST API & Swift 5",
+      "url": "https://www.udemy.com/course/swiftui-covid19-statistics-tracking-with-rest-api-swift-5/"
+    },
+    {
+      "title": "TDD Fundamentals in TypeScript",
+      "url": "https://www.udemy.com/course/tdd-fundamentals-in-typescript/"
+    },
+    {
+      "title": "Learn Flowcharting. Be a Professional programmer!",
+      "url": "https://www.udemy.com/course/flowcharting-flowchart-learn-flowcharting-be-a-professional-programmer/"
+    },
+    {
+      "title": "Build Microservices with .NET & Amazon Web Services",
+      "url": "https://www.udemy.com/course/build-microservices-with-aspnet-core-amazon-web-services/"
+    },
+    {
+      "title": "Automate with Python",
+      "url": "https://www.udemy.com/course/automate-with-python/"
+    },
+    {
+      "title": "Office365 and AzureAD for Developers",
+      "url": "https://www.udemy.com/course/office365dev/"
+    },
+    {
+      "title": "Dynamic programming",
+      "url": "https://www.udemy.com/course/dynamic-programming-x/"
+    },
+    {
+      "title": "Microservices Interview Questions Preparation Course",
+      "url": "https://www.udemy.com/course/microservices-interview-questions/"
+    },
+    {
+      "title": "Microservices with Java Spring Boot and Spring Cloud",
+      "url": "https://www.udemy.com/course/microservices-with-java-spring-boot-spring-cloud-eureka-api-gateway/"
+    },
+    {
+      "title": "Serverless Framework Bootcamp: Node.js, AWS & Microservices",
+      "url": "https://www.udemy.com/course/serverless-framework/"
+    },
+    {
+      "title": "Kafka Event Driven Microservices With Java + Spring [Part-1]",
+      "url": "https://www.udemy.com/course/spring-kafka-reactive/"
+    },
+    {
+      "title": "Software development in Python: A practical approach",
+      "url": "https://www.udemy.com/course/software-development-in-python-a-practical-approach/"
+    },
+    {
+      "title": "Application Programming Interface: API and Web Services",
+      "url": "https://www.udemy.com/course/application-programming-interface/"
+    },
+    {
+      "title": "Spring Boot + Apache Kafka Course - The Practical Guide",
+      "url": "https://www.udemy.com/course/spring-boot-and-apache-kafka/"
+    },
+    {
+      "title": "11 Essential Coding Interview Questions + Coding Exercises!",
+      "url": "https://www.udemy.com/course/11-essential-coding-interview-questions/"
+    },
+    {
+      "title": "Master Backend Development: Node, Docker, and MongoDB 2025",
+      "url": "https://www.udemy.com/course/learn-nodejs-docker-mongodb-express-setup/"
+    },
+    {
+      "title": "Introduction to Structured Text Programming in TwinCAT 3",
+      "url": "https://www.udemy.com/course/introduction-to-beckhoff-twincat-3/"
+    },
+    {
+      "title": "Computer Vision Fundamentals with OpenCV and C#",
+      "url": "https://www.udemy.com/course/image-processing-fundamentals-with-opencv-and-csharp/"
+    },
+    {
+      "title": "Let's develop a message-driven microservices application",
+      "url": "https://www.udemy.com/course/fullstack-microservices-course/"
+    },
+    {
+      "title": "Python Data Structures A to Z",
+      "url": "https://www.udemy.com/course/python-data-structures-a-to-z/"
+    },
+    {
+      "title": "Spring Boot For Software Engineers",
+      "url": "https://www.udemy.com/course/spring-boot-for-software-engineers/"
+    },
+    {
+      "title": "Reactive Applications with Spring WebFlux Framework",
+      "url": "https://www.udemy.com/course/reactive-applications-with-spring-webflux-framework/"
+    },
+    {
+      "title": "Learn the Agile Methodology",
+      "url": "https://www.udemy.com/course/introduction-to-agile/"
+    },
+    {
+      "title": "Programming the Arduino - Getting Started",
+      "url": "https://www.udemy.com/course/arduino-programming-for-beginners/"
+    },
+    {
+      "title": "Generative AI for Software Engineers & Developers",
+      "url": "https://www.udemy.com/course/generative-ai-for-software-engineers-developers/"
+    },
+    {
+      "title": "QC101 Quantum Computing & Intro to Quantum Machine Learning",
+      "url": "https://www.udemy.com/course/qc101-introduction-to-quantum-computing-quantum-physics-for-beginners/"
+    },
+    {
+      "title": "Embedded Ethernet on STM32 Using W5500 for IoT Applications",
+      "url": "https://www.udemy.com/course/ethernet-on-stm32-using-w5500/"
+    },
+    {
+      "title": "Learn By Example : Apache Storm",
+      "url": "https://www.udemy.com/course/learn-by-example-apache-storm/"
+    },
+    {
+      "title": "Level Up Discord Bot Nodejs Development 2023",
+      "url": "https://www.udemy.com/course/how-to-quickly-create-a-discord-bot/"
+    },
+    {
+      "title": "Backend Engineering with Go",
+      "url": "https://www.udemy.com/course/backend-engineering-with-go/"
+    },
+    {
+      "title": "Hacking with tvOS 12 - Build Apple TV Apps",
+      "url": "https://www.udemy.com/course/hackingwithtvos/"
+    },
+    {
+      "title": "Learn Google's Gemini and Anthropic's Claude API with Python",
+      "url": "https://www.udemy.com/course/google-gemini-pro-vision-api-with-python/"
+    },
+    {
+      "title": "Data Structures and Algorithms in C++ For Coding Interview",
+      "url": "https://www.udemy.com/course/data-structures-and-algorithms-cplusplus-for-interviews/"
+    },
+    {
+      "title": "Software Architecture & Design of Modern Large Scale Systems",
+      "url": "https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/"
+    },
+    {
+      "title": "Master Multithreading & Asynchronous Programming in C#/.NET",
+      "url": "https://www.udemy.com/course/master-multithreading-asynchronous-programming-in-csharp-dotnet/"
+    },
+    {
+      "title": "Technical Writing: How to Write API Software Documentation",
+      "url": "https://www.udemy.com/course/technical-writing-how-to-write-api-software-documentation/"
+    },
+    {
+      "title": "Work with RDS and DynamoDB: AWS with Python and Boto3 Series",
+      "url": "https://www.udemy.com/course/aws-with-python-and-boto3-working-with-rds-and-dynamodb/"
+    },
+    {
+      "title": "QC151 Quantum Physics for QC - Content moved to QC101",
+      "url": "https://www.udemy.com/course/quantum-physics-for-quantum-computing-superposition-and-entanglement/"
+    },
+    {
+      "title": "SOLID Principles in C# for Software Architecture & Design",
+      "url": "https://www.udemy.com/course/solid-principles-of-oop-for-software-architecture-design/"
+    },
+    {
+      "title": "Master CI/CD for Android Developers",
+      "url": "https://www.udemy.com/course/continuous-integration-and-continuous-delivery-for-android-developers/"
+    },
+    {
+      "title": "[NEW] Amazon ECS & Fargate Master Class - Docker on AWS",
+      "url": "https://www.udemy.com/course/aws-ecs-fargate/"
+    },
+    {
+      "title": "Dynamic Programming Algorithms Master Course",
+      "url": "https://www.udemy.com/course/dynamic-programming-master-course-coding-minutes/"
+    },
+    {
+      "title": "VPC Solutions with EC2 for Production: AWS with Terraform",
+      "url": "https://www.udemy.com/course/vpc-solutions-with-ec2-for-production-aws-with-terraform/"
+    },
+    {
+      "title": "Getting Started with .NET Core Clean Architecture",
+      "url": "https://www.udemy.com/course/getting-started-with-net-core-clean-architecture/"
+    },
+    {
+      "title": "Software Developer - C#/OOP/ASP.NET MVC/MS SQL/SQL Server",
+      "url": "https://www.udemy.com/course/software-developer-coopaspnet-mvcms-sqlsql-server/"
+    },
+    {
+      "title": "Introduction to Quantum Computing",
+      "url": "https://www.udemy.com/course/introduction-to-quantum-computing/"
+    },
+    {
+      "title": "RSlogix/Studio5000 Ladder Logic Training. Basic",
+      "url": "https://www.udemy.com/course/basic-introduction-and-programming-of-plcs-using-logix5000/"
+    },
+    {
+      "title": "Build An MP3 Player With Python And TKinter GUI Apps",
+      "url": "https://www.udemy.com/course/build-an-mp3-player-with-python-and-tkinter-gui-apps/"
+    },
+    {
+      "title": "Spring Boot Microservices and Spring Cloud. Build & Deploy.",
+      "url": "https://www.udemy.com/course/spring-boot-microservices-and-spring-cloud/"
+    },
+    {
+      "title": "Learn to Develop for Cloud with Pivotal Cloud Foundry",
+      "url": "https://www.udemy.com/course/learn-to-develop-for-cloud-with-pivotal-cloud-foundry/"
+    },
+    {
+      "title": "Ultimate YAML Course : YAML JSON JSONPath Zero - Master",
+      "url": "https://www.udemy.com/course/ultimate-yaml-json-jsonpath-tutorial/"
+    },
+    {
+      "title": "Kubernetes from A to Z™",
+      "url": "https://www.udemy.com/course/kubernetes-for-beginners/"
+    },
+    {
+      "title": "The complete guide to running Java in Docker and Kubernetes",
+      "url": "https://www.udemy.com/course/the-complete-guide-to-running-java-in-docker-and-kubernetes/"
+    },
+    {
+      "title": ".NET Core - Top 50 Interview Questions & Answers",
+      "url": "https://www.udemy.com/course/net-core-30-most-important-interview-questions-in-30-mins/"
+    },
+    {
+      "title": "Introduction to Kafka with Spring Boot",
+      "url": "https://www.udemy.com/course/introduction-to-kafka-with-spring-boot/"
+    },
+    {
+      "title": "Regular Expressions (Regex) with C# .NET - Easy and Fast!",
+      "url": "https://www.udemy.com/course/learning-regular-expression-with-net/"
+    },
+    {
+      "title": "Working with SQS and SNS: AWS with Python and Boto3 Series",
+      "url": "https://www.udemy.com/course/working-with-sqs-and-sns-aws-with-python-and-boto3-series/"
+    },
+    {
+      "title": "GitHub Ultimate: Master Git and GitHub - Beginner to Expert",
+      "url": "https://www.udemy.com/course/github-ultimate/"
+    },
+    {
+      "title": "Using Microsoft Bot Framework v3, LUIS, Cognitive Services",
+      "url": "https://www.udemy.com/course/using-microsoft-bot-framework-luis-and-cognitive-services/"
+    },
+    {
+      "title": "Apache Airflow: The Hands-On Guide",
+      "url": "https://www.udemy.com/course/the-ultimate-hands-on-course-to-master-apache-airflow/"
+    },
+    {
+      "title": "GoF Design Patterns - Complete Course with Java Examples",
+      "url": "https://www.udemy.com/course/gof-design-patterns-learnit/"
+    },
+    {
+      "title": "Build Interactive Plotly & Dash Dashboards with Data Science",
+      "url": "https://www.udemy.com/course/plotly-dash/"
+    },
+    {
+      "title": "Learn AWS Identity Management with AWS IAM, SSO & Federation",
+      "url": "https://www.udemy.com/course/aws-iam-aws-organizations-aws-sso-aws-directory-service-federation/"
+    },
+    {
+      "title": "Kubernetes Masterclass For Beginners [Hands-On]",
+      "url": "https://www.udemy.com/course/kubernetes-cloud-native/"
+    },
+    {
+      "title": "Event-Driven Microservices: Spring Boot, Kafka and Elastic",
+      "url": "https://www.udemy.com/course/event-driven-microservices-spring-boot-kafka-and-elasticsearch/"
+    },
+    {
+      "title": "Introduction to Microservices using .NET Core 3.1",
+      "url": "https://www.udemy.com/course/introduction-to-asp-net-core-microservices/"
+    },
+    {
+      "title": "Spring Boot For Beginners",
+      "url": "https://www.udemy.com/course/spring-boot-essentials/"
+    },
+    {
+      "title": "DevSecOps: How to secure Web App with AWS WAF and CloudWatch",
+      "url": "https://www.udemy.com/course/how-to-secure-web-application/"
+    },
+    {
+      "title": "Technical Writing: How to Write Software Documentation",
+      "url": "https://www.udemy.com/course/start-your-career-as-user-assistance-developer/"
+    },
+    {
+      "title": "Build Your own Self Driving Car [Course -2]",
+      "url": "https://www.udemy.com/course/selfdrivingcarpart2/"
+    },
+    {
+      "title": "Learn By Example: Hadoop, MapReduce for Big Data problems",
+      "url": "https://www.udemy.com/course/learn-by-example-hadoop-mapreduce/"
+    },
+    {
+      "title": "Begin Programming in Microsoft Dynamics 365 Business Central",
+      "url": "https://www.udemy.com/course/start-programming-in-dynamics-business-central/"
+    },
+    {
+      "title": "Making Sense of Use Cases",
+      "url": "https://www.udemy.com/course/making-sense-of-use-cases/"
+    },
+    {
+      "title": "Autonomous Robots: Path Planning",
+      "url": "https://www.udemy.com/course/autonomous-robots-path-planning/"
+    },
+    {
+      "title": "Master System Design and Design Pattern",
+      "url": "https://www.udemy.com/course/system-design-and-design-pattern-course/"
+    },
+    {
+      "title": "Data Structures and OOP with C++ : CS104, CS105 Masterclass",
+      "url": "https://www.udemy.com/course/data-structures-cpp/"
+    },
+    {
+      "title": "ANSYS Fluent CFD Simulation Training Course for All Levels",
+      "url": "https://www.udemy.com/course/ansys-fluent-training-course-beginner-intermediate/"
+    },
+    {
+      "title": "Write clean code by using SOLID design principles in Python",
+      "url": "https://www.udemy.com/course/solid-design-principles-with-python/"
+    },
+    {
+      "title": "Blockchain Programming with Hyperledger Composer and Fabric",
+      "url": "https://www.udemy.com/course/blockchain-programming-with-hyperledger-composer-over-fabric/"
+    },
+    {
+      "title": "AI For JavaScript Developers (OpenAI, Embeddings, Vercel AI)",
+      "url": "https://www.udemy.com/course/ai-for-js-devs/"
+    },
+    {
+      "title": "Model Based Design: Build Embedded Systems with Simulink",
+      "url": "https://www.udemy.com/course/model-based-design-build-embedded-systems-with-simulink/"
+    },
+    {
+      "title": "UML Class Diagrams for Programmers",
+      "url": "https://www.udemy.com/course/uml-class-diagrams-for-programmers/"
+    },
+    {
+      "title": "Vagrant Quick Start: Virtualized Development Environments",
+      "url": "https://www.udemy.com/course/vagrant-quick-start/"
+    },
+    {
+      "title": "Java Multithreading, Concurrency & Performance Optimization",
+      "url": "https://www.udemy.com/course/java-multithreading-concurrency-performance-optimization/"
+    },
+    {
+      "title": "Spring WebFlux Masterclass: Reactive Microservices [New]",
+      "url": "https://www.udemy.com/course/spring-webflux/"
+    },
+    {
+      "title": "Learn Parallel Programming with C# and .NET",
+      "url": "https://www.udemy.com/course/parallel-dotnet/"
+    },
+    {
+      "title": "Learn Cloud Computing from Scratch",
+      "url": "https://www.udemy.com/course/learn-cloud-computing-from-scratch/"
+    },
+    {
+      "title": "Create a Python Powered Chatbot in Under 60 Minutes",
+      "url": "https://www.udemy.com/course/create-a-python-powered-chatbot-in-under-60-minutes/"
+    },
+    {
+      "title": "Event Driven Microservices with CQRS, Saga, Event Sourcing",
+      "url": "https://www.udemy.com/course/event-driven-microservices-with-cqrs-saga-event-sourcing/"
+    },
+    {
+      "title": "Data Structures and Algorithms In Java ( DSA )",
+      "url": "https://www.udemy.com/course/data-structures-and-algorithms-in-java/"
+    },
+    {
+      "title": "Mastering Computational Geometry Algorithms with C++",
+      "url": "https://www.udemy.com/course/mastering-computational-geometry-cpp/"
+    },
+    {
+      "title": "The Linux Command Line Bootcamp: Beginner To Power User",
+      "url": "https://www.udemy.com/course/the-linux-command-line-bootcamp/"
+    },
+    {
+      "title": "Computer Vision with Python",
+      "url": "https://www.udemy.com/course/computer-vision-with-python/"
+    },
+    {
+      "title": "Full Stack Web Development with Django 5, TailwindCSS, HTMX",
+      "url": "https://www.udemy.com/course/full-stack-django/"
+    },
+    {
+      "title": "Industrial Communication by Siemens S7 1200PLC-Real Hardware",
+      "url": "https://www.udemy.com/course/industrial-communication-by-siemens-s7-1200plc-real-hardware/"
+    },
+    {
+      "title": "Design Patterns in TypeScript",
+      "url": "https://www.udemy.com/course/design-patterns-typescript/"
+    },
+    {
+      "title": "Practical Linux Command Line 2.0",
+      "url": "https://www.udemy.com/course/practical-linux-command-line/"
+    },
+    {
+      "title": "Spring AI: Beginner to Guru",
+      "url": "https://www.udemy.com/course/spring-ai-beginner-to-guru/"
+    },
+    {
+      "title": "Master in Software Architecture, Engineering and Development",
+      "url": "https://www.udemy.com/course/software-development-engineering-excellence-master-course/"
+    },
+    {
+      "title": "Master Spring Boot Microservices with CQRS & Event Sourcing",
+      "url": "https://www.udemy.com/course/master-spring-boot-microservices-with-cqrs-event-sourcing/"
+    },
+    {
+      "title": "Kubernetes Certified Application Developer (CKAD) with Tests",
+      "url": "https://www.udemy.com/course/certified-kubernetes-application-developer/"
+    },
+    {
+      "title": "Developing a Multithreaded Kernel From Scratch!",
+      "url": "https://www.udemy.com/course/developing-a-multithreaded-kernel-from-scratch/"
+    },
+    {
+      "title": "Reactive Redis Masterclass For Java Spring Boot Developers",
+      "url": "https://www.udemy.com/course/spring-webflux-redis/"
+    },
+    {
+      "title": "Mask R-CNN - Practical Deep Learning Segmentation in 1 hour",
+      "url": "https://www.udemy.com/course/mask-r-cnn-robust-deep-learning-segmentation-in-1-hour/"
+    },
+    {
+      "title": "Java Multithreading - Concurrency, Parallelism & Performance",
+      "url": "https://www.udemy.com/course/multithreading-learnit/"
+    },
+    {
+      "title": "Google Cloud Services Fundamental Crash Course For Beginners",
+      "url": "https://www.udemy.com/course/google-cloud-services-crash-course/"
+    },
+    {
+      "title": "Intro Robotics Developer Course - Using ROS in Python",
+      "url": "https://www.udemy.com/course/intro-robotics-developer-course-using-ros-in-python/"
+    },
+    {
+      "title": "Solving LeetCode's Top Interview Questions in Java [2025]",
+      "url": "https://www.udemy.com/course/solving-leetcodes-top-interview-questions-in-java/"
+    },
+    {
+      "title": "Develop Discord Bots in Nodejs: Complete Course in 2023",
+      "url": "https://www.udemy.com/course/discord-bots-development-in-nodejs-for-beginners/"
+    },
+    {
+      "title": "Pragmatic System Design",
+      "url": "https://www.udemy.com/course/pragmatic-system-design/"
+    },
+    {
+      "title": "DevOps: CI/CD using AWS CodePipeline & Elastic Beanstalk",
+      "url": "https://www.udemy.com/course/devops-automation-aws-codepipeline-elastic-beanstalk/"
+    },
+    {
+      "title": "FactorytalkView SE Training Using Studio 5000 PLC's.",
+      "url": "https://www.udemy.com/course/ftviewse-hmi-basic-project-development-with-logix5000-plcs/"
+    },
+    {
+      "title": "Node Program: From 0 to Hero with Nodejs and MongoDB",
+      "url": "https://www.udemy.com/course/nodeprogram/"
+    },
+    {
+      "title": "Generative AI for Java Developers with Google AI",
+      "url": "https://www.udemy.com/course/generative-ai-for-java-developers-with-google-palm-api/"
+    },
+    {
+      "title": "Azure Logic Apps - A practical guide ( Hands-on approach )",
+      "url": "https://www.udemy.com/course/azure-logic-app/"
+    },
+    {
+      "title": "Java Microservices: CQRS & Event Sourcing with Kafka",
+      "url": "https://www.udemy.com/course/java-microservices-cqrs-event-sourcing-with-kafka/"
+    },
+    {
+      "title": "Java Collections Framework + Generics, Lambdas & Stream API",
+      "url": "https://www.udemy.com/course/java-collections-framework-learnit/"
+    },
+    {
+      "title": "Apache Spark With Examples for Big Data Analytics",
+      "url": "https://www.udemy.com/course/spark-with-scala/"
+    },
+    {
+      "title": "UDP Socket Programming For Distributed Computing in C#.Net",
+      "url": "https://www.udemy.com/course/udpsocketprogramming/"
+    },
+    {
+      "title": "RESTful Web Services, Java, Spring Boot, Spring MVC and JPA",
+      "url": "https://www.udemy.com/course/restful-web-service-with-spring-boot-jpa-and-mysql/"
+    },
+    {
+      "title": "RAG with Azure OpenAI (AI Search, CosmosDB, GraphRAG & more)",
+      "url": "https://www.udemy.com/course/rag-with-azure-openai-ai-search-cosmosdb-graphrag-more/"
+    },
+    {
+      "title": "PSM II Certification Prep+Scrum Master+PSM 2 Certification",
+      "url": "https://www.udemy.com/course/agile-scrum-certification-psm-2/"
+    },
+    {
+      "title": "Algorithms Data Structures in Java #2 (+INTERVIEW QUESTIONS)",
+      "url": "https://www.udemy.com/course/algorithms-and-data-structures-in-java-part-ii/"
+    },
+    {
+      "title": "MCP Masterclass: Complete Guide to MCP in Python [2025]",
+      "url": "https://www.udemy.com/course/learn-mcp-model-context-protocol-complete-guide/"
+    },
+    {
+      "title": "Cryptocurrency Trading Bot with a User Interface in Python",
+      "url": "https://www.udemy.com/course/cryptocurrency-trading-bot-with-user-interface-in-python/"
+    },
+    {
+      "title": "Get into DevOps: The Masterclass",
+      "url": "https://www.udemy.com/course/devops-masterclass/"
+    },
+    {
+      "title": "Advanced Data Structures and Algorithms in Java ( DSA )",
+      "url": "https://www.udemy.com/course/data-structures-and-algorithms-in-java-2/"
+    },
+    {
+      "title": "Dependency Injection in .NET and ASP.NET Core",
+      "url": "https://www.udemy.com/course/dependency-injection-in-net-core-2-and-aspnet-core-2/"
+    },
+    {
+      "title": "Learn Spring Modulith: Monolith to Microservices Seamlessly",
+      "url": "https://www.udemy.com/course/spring-modulith-simplified/"
+    },
+    {
+      "title": "PCB Designing (with 3D Model) in Orcad [2022]",
+      "url": "https://www.udemy.com/course/orcad2019/"
+    },
+    {
+      "title": "The Complete Rust Programming Course",
+      "url": "https://www.udemy.com/course/rust-programming-the-complete-guide/"
+    },
+    {
+      "title": "Java Virtual Threads & Concurrency Masterclass [Hands-On]",
+      "url": "https://www.udemy.com/course/java-virtual-thread/"
+    },
+    {
+      "title": "ROS Actions",
+      "url": "https://www.udemy.com/course/ros-actions/"
+    },
+    {
+      "title": "Beat the Codility Coding Interview in Java",
+      "url": "https://www.udemy.com/course/beat-the-codility-coding-interview-in-java/"
+    },
+    {
+      "title": "Blockchain Development: XRP Ledger Bootcamp (Stage 1)",
+      "url": "https://www.udemy.com/course/the-complete-xrp-ledger-developer-bootcamp-stage-1/"
+    },
+    {
+      "title": "Advanced Embedded Systems Bare-Metal Programming Ground Up™",
+      "url": "https://www.udemy.com/course/embedded-systems-advance-bare-metal-programming/"
+    },
+    {
+      "title": "Easy to Advanced Data Structures",
+      "url": "https://www.udemy.com/course/introduction-to-data-structures/"
+    },
+    {
+      "title": "Apache Kafka for Event-Driven Spring Boot Microservices",
+      "url": "https://www.udemy.com/course/apache-kafka-for-spring-boot-microservices/"
+    },
+    {
+      "title": "Competitive Programming Essentials, Master Algorithms",
+      "url": "https://www.udemy.com/course/competitive-programming-algorithms-coding-minutes/"
+    },
+    {
+      "title": "Oil & Gas Process Simulation/ Modeling Using Aspen HYSYS",
+      "url": "https://www.udemy.com/course/oil-gas-process-simulation-modeling-using-aspen-hysys/"
+    },
+    {
+      "title": "Introduction to Entity Framework Core 6",
+      "url": "https://www.udemy.com/course/introduction-to-entity-framework-core/"
+    },
+    {
+      "title": "Haskell Programming",
+      "url": "https://www.udemy.com/course/learn-haskell/"
+    },
+    {
+      "title": "Managing EC2 and VPC: AWS with Python and Boto3 Series",
+      "url": "https://www.udemy.com/course/aws-with-python-and-boto3-managing-ec2-and-vpc/"
+    },
+    {
+      "title": "RabbitMQ In Practice",
+      "url": "https://www.udemy.com/course/rabbitmq-in-practice/"
+    },
+    {
+      "title": "C++ Robotics Developer Course - Using ROS in C++",
+      "url": "https://www.udemy.com/course/c-plus-plus-robotics-developer-course-using-ros-in-c-plus-plus/"
+    },
+    {
+      "title": "C# for Beginners",
+      "url": "https://www.udemy.com/course/csharp-for-beginners/"
+    },
+    {
+      "title": "Understanding Semantic Kernel SDK",
+      "url": "https://www.udemy.com/course/understanding-semantic-kernel/"
+    },
+    {
+      "title": "Software Career Starter Kit - Planning for Growth",
+      "url": "https://www.udemy.com/course/software-career-planning-bootcamp/"
+    },
+    {
+      "title": "Pyramid of Refactoring derived from Legacy Code cleaning",
+      "url": "https://www.udemy.com/course/pyramid-of-refactoring-java-interpreter-factories/"
+    },
+    {
+      "title": "Hacking the Bootcamp",
+      "url": "https://www.udemy.com/course/hacking-the-bootcamp/"
+    },
+    {
+      "title": "API in C#: The Best Practices of Design and Implementation",
+      "url": "https://www.udemy.com/course/api-in-csharp/"
+    },
+    {
+      "title": "From Java Dev to AI Engineer: Spring AI Fast Track",
+      "url": "https://www.udemy.com/course/java-spring-ai/"
+    },
+    {
+      "title": "Studio 5000 Advanced Ladder Logic Training.",
+      "url": "https://www.udemy.com/course/advanced-plc-ladder-programming-using-logix5000/"
+    },
+    {
+      "title": "System Design Bootcamp : Crack Interviews and Build Systems",
+      "url": "https://www.udemy.com/course/system-design-bootcamp/"
+    },
+    {
+      "title": "WireMock for Java Developers",
+      "url": "https://www.udemy.com/course/wiremock-for-java-developers/"
+    },
+    {
+      "title": "Java Spring Framework 6, Spring Boot 3, Spring AI Telusko",
+      "url": "https://www.udemy.com/course/spring-5-with-spring-boot-2/"
+    },
+    {
+      "title": "Algorithms and Data Structures in C++ (2020)",
+      "url": "https://www.udemy.com/course/algorithms-and-data-structures-in-c-coding-interview/"
+    },
+    {
+      "title": "30 Projects in 30 days of AI Development Bootcamp",
+      "url": "https://www.udemy.com/course/25-projects-in-25-days-of-ai-development-bootcamp/"
+    },
+    {
+      "title": "Become a Successful Software Programming Developer/ Engineer",
+      "url": "https://www.udemy.com/course/how-to-become-a-successful-software-programming-developer/"
+    },
+    {
+      "title": "Crash Course Arduino and Microcontroller Development",
+      "url": "https://www.udemy.com/course/crash-course-arduino-and-microcontroller-development/"
+    },
+    {
+      "title": "DevOps For Beginners: Saving Your Code From The Apocalypse",
+      "url": "https://www.udemy.com/course/devops-saving-your-code-from-the-apocalypse/"
+    },
+    {
+      "title": "Twilio - Make a complete Call Centre in React and Node",
+      "url": "https://www.udemy.com/course/twilio-react/"
+    },
+    {
+      "title": "Apache Spark Project World Development Indicators Analytics",
+      "url": "https://www.udemy.com/course/apache-spark-project-world-development-indicators-analytics/"
+    },
+    {
+      "title": "Python Automation Testing With Pytest",
+      "url": "https://www.udemy.com/course/python-automation-pytest/"
+    },
+    {
+      "title": "Learning Data Structures and Algorithms",
+      "url": "https://www.udemy.com/course/learning-data-structures-and-algorithms/"
+    },
+    {
+      "title": "Software Engineering 101: Plan and Execute Better Software.",
+      "url": "https://www.udemy.com/course/software-engineering-101/"
+    },
+    {
+      "title": "Binary: The Foundation of All Computing",
+      "url": "https://www.udemy.com/course/learn-binary/"
+    },
+    {
+      "title": "Complete Software Engineering Course : Build Better Software",
+      "url": "https://www.udemy.com/course/complete-software-engineering-course-build-develop-better-software/"
+    },
+    {
+      "title": "Encryption and Cryptography for Professionals",
+      "url": "https://www.udemy.com/course/encryption-and-cryptography-for-professionals/"
+    },
+    {
+      "title": "Browser Automation with Python Selenium",
+      "url": "https://www.udemy.com/course/browser-automation-with-python-selenium/"
+    },
+    {
+      "title": "Embedded C Programming Design Patterns",
+      "url": "https://www.udemy.com/course/embedded-c-programming-design-patterns/"
+    },
+    {
+      "title": "Scalable programming with Scala and Spark",
+      "url": "https://www.udemy.com/course/scalable-programming-with-scala-and-spark/"
+    },
+    {
+      "title": "Data Structures and Algorithms",
+      "url": "https://www.udemy.com/course/data-structures-and-algorithms-z/"
+    },
+    {
+      "title": "Python: Object Oriented Programming",
+      "url": "https://www.udemy.com/course/python-object-oriented-programming/"
+    },
+    {
+      "title": "Apache Kafka Series - Kafka Connect Hands-on Learning",
+      "url": "https://www.udemy.com/course/kafka-connect/"
+    },
+    {
+      "title": "Autonomous Robots: Model Predictive Control",
+      "url": "https://www.udemy.com/course/model-predictive-control/"
+    },
+    {
+      "title": "Flutter 2.0: Build Modern Responsive Web & Mobile Apps",
+      "url": "https://www.udemy.com/course/flutter-build-modern-responsive-web-mobile-apps-desktop/"
+    },
+    {
+      "title": "Advanced Data Structures and Algorithms in C# ( DSA )",
+      "url": "https://www.udemy.com/course/data-structures-and-algorithms-in-csharp-2/"
+    },
+    {
+      "title": "Python Development First Steps and Development IDE Platform",
+      "url": "https://www.udemy.com/course/python-development-first-steps-and-development-ide-platform/"
+    },
+    {
+      "title": "Graph Theory Algorithms for Competitive Programming",
+      "url": "https://www.udemy.com/course/graph-theory-algorithms-for-competitive-programming/"
+    },
+    {
+      "title": "Mendix 9.6 : Building an e-Commerce Application [Advanced]",
+      "url": "https://www.udemy.com/course/mendix-advanced-low-code-development-course/"
+    },
+    {
+      "title": "Advanced React For Enterprise: React for senior engineers",
+      "url": "https://www.udemy.com/course/react-for-senior-engineers/"
+    },
+    {
+      "title": "Taking Python to Production: A Professional Onboarding Guide",
+      "url": "https://www.udemy.com/course/setting-up-the-linux-terminal-for-software-development/"
+    },
+    {
+      "title": "Qt 5 QML Intermediate: Interfacing to C++",
+      "url": "https://www.udemy.com/course/interfacing-qt-quick-qml-to-cpp-intermediate/"
+    },
+    {
+      "title": "50 popular coding interview problems",
+      "url": "https://www.udemy.com/course/50-problems/"
+    },
+    {
+      "title": "Spring Framework for Java Developers: Practical Guide",
+      "url": "https://www.udemy.com/course/spring-learnit/"
+    },
+    {
+      "title": "The Complete Hands-On Introduction to Apache Airflow 3",
+      "url": "https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/"
+    },
+    {
+      "title": "Java Data Structures & Algorithms + LEETCODE Exercises",
+      "url": "https://www.udemy.com/course/data-structures-and-algorithms-java/"
+    },
+    {
+      "title": "SOLID Principles in PHP : Learn how to write better code",
+      "url": "https://www.udemy.com/course/solid-principles-decoded/"
+    },
+    {
+      "title": "Java Multithreading & Concurrency - Interview Practice Exams",
+      "url": "https://www.udemy.com/course/java-multithreading-concurrency-interview-practice-exams/"
+    },
+    {
+      "title": "Functional Programming using C++",
+      "url": "https://www.udemy.com/course/functional-programming-using-cpp/"
+    },
+    {
+      "title": "Open source LLM: DeepSeek AI for Developers",
+      "url": "https://www.udemy.com/course/deepseek-ai-for-developers/"
+    },
+    {
+      "title": "Data Structures and Algorithms Made Easy",
+      "url": "https://www.udemy.com/course/algorithm/"
+    },
+    {
+      "title": "[NEW] Cloud & DevOps Interview Guide - AWS, Azure & GCP",
+      "url": "https://www.udemy.com/course/aws-azure-google-cloud-devops-interview/"
+    },
+    {
+      "title": "Python Data Structures & Algorithms: Ace Coding Interviews",
+      "url": "https://www.udemy.com/course/data-structures-algorithms-in-python-j/"
+    },
+    {
+      "title": "Akka Classic Essentials with Scala",
+      "url": "https://www.udemy.com/course/akka-essentials/"
+    },
+    {
+      "title": "GUI Development with Python and Tkinter",
+      "url": "https://www.udemy.com/course/desktop-gui-python-tkinter/"
+    },
+    {
+      "title": "Domain Driven Design: Complete Software Architecture Course",
+      "url": "https://www.udemy.com/course/domain-driven-design-complete-software-architecture-course/"
+    },
+    {
+      "title": "Data Analysis in Python with Pandas",
+      "url": "https://www.udemy.com/course/data-analysis-in-python-with-pandas/"
+    },
+    {
+      "title": "Mastering Apache Airflow! Deploy to Kubernetes in AWS",
+      "url": "https://www.udemy.com/course/mastering-apache-airflow/"
+    },
+    {
+      "title": "Master Python Microservices on AWS",
+      "url": "https://www.udemy.com/course/build-microservices-with-python-aws/"
+    },
+    {
+      "title": "Complete Guide to Elasticsearch",
+      "url": "https://www.udemy.com/course/elasticsearch-complete-guide/"
+    },
+    {
+      "title": "Blockchain Programming",
+      "url": "https://www.udemy.com/course/build-your-own-cryptocurrency-in-48-hours/"
+    },
+    {
+      "title": "NinjaTrader 8 Strategy Design Essentials",
+      "url": "https://www.udemy.com/course/ninjatraderessentials/"
+    },
+    {
+      "title": "10X Developer Productivity: Master GitHub Copilot & Amazon Q",
+      "url": "https://www.udemy.com/course/master-github-copilot-coding-efficiency-copilot-complete-guide/"
+    },
+    {
+      "title": "gRPC [Java] Master Class: Build Modern API & Micro services",
+      "url": "https://www.udemy.com/course/grpc-java/"
+    },
+    {
+      "title": "From 0 to 1: Design Patterns - 24 That Matter - In Java",
+      "url": "https://www.udemy.com/course/from-0-to-1-design-patterns/"
+    },
+    {
+      "title": "Ultimate Text Editing Productivity with Sublime Text",
+      "url": "https://www.udemy.com/course/ultimate-text-editing-productivity-with-sublime-text/"
+    },
+    {
+      "title": "Complete SDLC : Software Development Life Cycle SDLC (2025)",
+      "url": "https://www.udemy.com/course/complete-sdlc-software-development-life-cycle-sdlc/"
+    },
+    {
+      "title": "Python for Software Engineering Bootcamp",
+      "url": "https://www.udemy.com/course/python-for-software-engineering/"
+    },
+    {
+      "title": "Mastering Linked Lists in Java: A Comprehensive Guide",
+      "url": "https://www.udemy.com/course/data-structures-java/"
+    },
+    {
+      "title": "Python: Coding Guidelines, Tools, Tests and Packages [2024]",
+      "url": "https://www.udemy.com/course/python-coding-guidelines-tooling-testing-and-packaging/"
+    },
+    {
+      "title": "Build a Blockchain and a Cryptocurrency from Scratch",
+      "url": "https://www.udemy.com/course/build-blockchain/"
+    },
+    {
+      "title": "Monorepos - A Beginner's Guide",
+      "url": "https://www.udemy.com/course/monorepos-a-beginners-guide/"
+    },
+    {
+      "title": "PLC & AC Drive with Automatic & Manual Industrial Control",
+      "url": "https://www.udemy.com/course/plc-ac-drive-with-automatic-manual-industrial-control/"
+    },
+    {
+      "title": "Introduction to Automata Theory, Languages and Computation",
+      "url": "https://www.udemy.com/course/introduction-to-automata-theory-languages-and-computation/"
+    },
+    {
+      "title": "Hacking with macOS - Build 18 Desktop Apps with Swift 5",
+      "url": "https://www.udemy.com/course/hacking-with-macos-and-swift4/"
+    },
+    {
+      "title": "Algorithms for Job Interviews and Competitive Programming",
+      "url": "https://www.udemy.com/course/algorithms-for-job-interviews-and-competitive-programming/"
+    },
+    {
+      "title": "Java Best Practices for Efficient, Scalable, and Secure Code",
+      "url": "https://www.udemy.com/course/java-best-practices-learnit/"
+    },
+    {
+      "title": "SOLID Principles of Object Oriented Design and Architecture",
+      "url": "https://www.udemy.com/course/solid-principles-object-oriented-design-architecture/"
+    },
+    {
+      "title": "Mastering OpenCV: A Practical Guide to Computer Vision",
+      "url": "https://www.udemy.com/course/mastering-opencv-a-practical-guide-to-computer-vision/"
+    },
+    {
+      "title": "Software Architecture and Clean Code Design in OOP",
+      "url": "https://www.udemy.com/course/software-architecture-learnit/"
+    },
+    {
+      "title": "Siemens TIA Portal: PLC Ladder Logic & WinCC HMI Design",
+      "url": "https://www.udemy.com/course/siemens-tia-portal-plc-ladder-logic-wincc-hmi-design/"
+    },
+    {
+      "title": "Requirements Engineering: Software Engineering",
+      "url": "https://www.udemy.com/course/requirements-software-engineering/"
+    },
+    {
+      "title": "NodeJS Internals and Architecture",
+      "url": "https://www.udemy.com/course/nodejs-internals-and-architecture/"
+    },
+    {
+      "title": "DevOps on AWS: Learn to set up your infrastructure on cloud",
+      "url": "https://www.udemy.com/course/devops-on-aws-learn-to-set-up-your-infrastructure-on-cloud/"
+    },
+    {
+      "title": "Technical Writing: How to Write Using DITA XML",
+      "url": "https://www.udemy.com/course/technical-writing-how-to-write-using-dita-xml/"
+    },
+    {
+      "title": "Learn Computer Vision with OpenCV and Python",
+      "url": "https://www.udemy.com/course/learn-computer-vision-with-opencv-and-python/"
+    },
+    {
+      "title": "API First Engineering with Spring Boot",
+      "url": "https://www.udemy.com/course/api-first-engineering-with-spring-boot/"
+    },
+    {
+      "title": "Qt 6 C++ GUI Development for Beginners : The Fundamentals",
+      "url": "https://www.udemy.com/course/qt6-c-gui-widgets-tutorial-for-beginners/"
+    },
+    {
+      "title": "QC051: Math Prerequisites for QC - Content moved to QC101",
+      "url": "https://www.udemy.com/course/mathematics-prerequisites-for-quantum-computing-and-quantum-physics/"
+    },
+    {
+      "title": "High Performance Coding with .NET Core and C#",
+      "url": "https://www.udemy.com/course/high-performance-coding-with-net-core-and-csharp/"
+    },
+    {
+      "title": "Multithreading and Parallel Programming in C#",
+      "url": "https://www.udemy.com/course/parallel-csharp/"
+    },
+    {
+      "title": "Mastering Multithreading Programming with Go (Golang)",
+      "url": "https://www.udemy.com/course/multithreading-in-go-lang/"
+    },
+    {
+      "title": "Build your Own Self Driving Car| [Course 1 & Course 2]",
+      "url": "https://www.udemy.com/course/selfdriving/"
+    },
+    {
+      "title": "Domain Driven Design & Microservices for Architects",
+      "url": "https://www.udemy.com/course/domain-driven-design-and-microservices/"
+    },
+    {
+      "title": "The Complete Cloud Computing Software Architecture Patterns",
+      "url": "https://www.udemy.com/course/the-complete-cloud-computing-software-architecture-patterns/"
+    },
+    {
+      "title": "Learn Multithreading in C++",
+      "url": "https://www.udemy.com/course/cplusplus-multithreading/"
+    },
+    {
+      "title": "Deploy Django + AI ML Face Recognition Web App in AWS",
+      "url": "https://www.udemy.com/course/complete-face-recognition-app-machine-learning-django-heroku/"
+    },
+    {
+      "title": "Technical Product Management: learn on 4 real industry cases",
+      "url": "https://www.udemy.com/course/technical-product-manager/"
+    },
+    {
+      "title": "SoftwareAG webMethods Integration (OnPremise) for Beginners",
+      "url": "https://www.udemy.com/course/webmethods/"
+    },
+    {
+      "title": "OpenCV Python For Beginners | Hands on Computer Vision",
+      "url": "https://www.udemy.com/course/opencv-python-for-beginners-hands-on-computer-vision/"
+    },
+    {
+      "title": "Building an Enterprise Application with ASP.NET Core MVC",
+      "url": "https://www.udemy.com/course/building-an-enterprise-application-with-aspnet-core-mvc/"
+    },
+    {
+      "title": "Software Architecture: Dependency Injection for C# Devs",
+      "url": "https://www.udemy.com/course/dependency-injection/"
+    },
+    {
+      "title": "Developing a C Compiler From Scratch - Module 1",
+      "url": "https://www.udemy.com/course/creating-a-c-compiler-from-scratch-module-1/"
+    },
+    {
+      "title": "Arduino Embedded C With Electronics/Schematics/PCB",
+      "url": "https://www.udemy.com/course/arduino-firmware-programming-with-electronicsschematicspcb/"
+    },
+    {
+      "title": "Learn Parallel Computing in Python",
+      "url": "https://www.udemy.com/course/parallel-computing-in-python/"
+    },
+    {
+      "title": "[NEW V2] AWS Lambda & Serverless Architecture Bootcamp 2025",
+      "url": "https://www.udemy.com/course/aws-lambda-serverless-architecture/"
+    },
+    {
+      "title": "Azure Container Apps: intro and deep dive",
+      "url": "https://www.udemy.com/course/azure-container-apps/"
+    },
+    {
+      "title": "Mastering critical SKILLS in Algorithms using C++: Part 2",
+      "url": "https://www.udemy.com/course/skills-algorithms-cpp2/"
+    },
+    {
+      "title": "Python, JS, & React | Build a Blockchain & Cryptocurrency",
+      "url": "https://www.udemy.com/course/python-js-react-blockchain/"
+    },
+    {
+      "title": "DevOps Interview Questions Preparation Course",
+      "url": "https://www.udemy.com/course/devops-interview-questions-preparation-course/"
+    },
+    {
+      "title": "Real-time Credit card Fraud Detection using Spark 2.2",
+      "url": "https://www.udemy.com/course/real-time-creditcard-fraud-detection-using-spark/"
+    },
+    {
+      "title": "Complete Software Engineering Course with Python",
+      "url": "https://www.udemy.com/course/learn-python-3-with-software-engineering-concepts/"
+    },
+    {
+      "title": "Computer Science 101: Master the Theory Behind Programming",
+      "url": "https://www.udemy.com/course/computer-science-101-master-the-theory-behind-programming/"
+    },
+    {
+      "title": "UML and Object-Oriented Design Foundations",
+      "url": "https://www.udemy.com/course/uml-and-object-oriented-design-foundations/"
+    },
+    {
+      "title": "Learn Spring & Spring Boot – 10x Productive Java Development",
+      "url": "https://www.udemy.com/course/learn-spring-and-spring-boot-10x-productive-java-development/"
+    },
+    {
+      "title": "SOLID Software Architecture: Complete Guide with Coding Examples",
+      "url": "https://www.udemy.com/course/solid-software-architecture-complete-guide-with-c-examples/"
+    },
+    {
+      "title": "Advanced Object Oriented Analysis of Hard Problems using UML",
+      "url": "https://www.udemy.com/course/advanced-object-oriented-analysis-of-hard-problems/"
+    },
+    {
+      "title": "Recursion",
+      "url": "https://www.udemy.com/course/learn-recursion/"
+    },
+    {
+      "title": "Master CI/CD for React Native",
+      "url": "https://www.udemy.com/course/continuous-integration-and-continuous-delivery-for-react-native/"
+    },
+    {
+      "title": "Introduction to Sequelize ORM (w/ Express.js + Postgres)",
+      "url": "https://www.udemy.com/course/introduction-to-sequelize-orm-w-expressjs-postgres/"
+    },
+    {
+      "title": "Generative AI Architectures with LLM, Prompt, RAG, Vector DB",
+      "url": "https://www.udemy.com/course/generative-ai-architectures-with-llm-prompt-rag-vector-db/"
+    },
+    {
+      "title": "Generative AI Complete Bootcamp - NLP, Transformers & Gen AI",
+      "url": "https://www.udemy.com/course/generative-ai-mastery-langchain/"
+    },
+    {
+      "title": "Microservices with Spring Cloud",
+      "url": "https://www.udemy.com/course/microservices-with-spring-cloud/"
+    },
+    {
+      "title": "Master CI/CD for iOS Developers",
+      "url": "https://www.udemy.com/course/continuous-integration-and-continuous-delivery-for-ios-developers/"
+    },
+    {
+      "title": "Build and Deploy Lambda Functions: AWS with Python and Boto3",
+      "url": "https://www.udemy.com/course/build-and-deploy-lambda-functions-aws-with-python-and-boto3/"
+    },
+    {
+      "title": "Master OpenAI API and ChatGPT API with Python",
+      "url": "https://www.udemy.com/course/openai-api-chatgpt-gpt4-with-python-bootcamp/"
+    },
+    {
+      "title": "Introduction to Software Engineering",
+      "url": "https://www.udemy.com/course/introduction-to-software-engineering/"
+    },
+    {
+      "title": "Docker & Kubernetes for .Net and Angular Developers",
+      "url": "https://www.udemy.com/course/docker-for-net-and-angular-developers/"
+    },
+    {
+      "title": "Problem Solving with C programming language",
+      "url": "https://www.udemy.com/course/problem-solving-with-c-programming-language/"
+    },
+    {
+      "title": "Object-Oriented Software Engineering with Java",
+      "url": "https://www.udemy.com/course/oo-se-java/"
+    },
+    {
+      "title": "Quantum Computing with Qiskit Ultimate Masterclass",
+      "url": "https://www.udemy.com/course/quantum-computing-with-ibm-qiskit-ultimate-masterclass/"
+    },
+    {
+      "title": "Principles of Software Safety Standards",
+      "url": "https://www.udemy.com/course/principles-of-safe-software-design/"
+    },
+    {
+      "title": "Apache Kafka - Real-time Stream Processing (Master Class)",
+      "url": "https://www.udemy.com/course/kafka-streams-real-time-stream-processing-master-class/"
+    },
+    {
+      "title": "Mastering GitOps with Argo CD",
+      "url": "https://www.udemy.com/course/mastering-gitops-with-argo-cd/"
+    },
+    {
+      "title": "ROS Tutorials for Beginners",
+      "url": "https://www.udemy.com/course/ros-tutorials/"
+    },
+    {
+      "title": "Create a Text Completion ChatGPT A.I. Bot With Tkinter",
+      "url": "https://www.udemy.com/course/create-a-chatgpt-ai-bot-with-tkinter/"
+    },
+    {
+      "title": "Functional Programming + Lambdas, Method References, Streams",
+      "url": "https://www.udemy.com/course/functional-programming-learnit/"
+    },
+    {
+      "title": "Master the Coding Interview: Big Tech (FAANG) Interviews",
+      "url": "https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/"
+    },
+    {
+      "title": "AWS Serverless Microservices with Patterns & Best Practices",
+      "url": "https://www.udemy.com/course/aws-serverless-microservices-lambda-eventbridge-sqs-apigateway/"
+    },
+    {
+      "title": "PLC Programming - Training from Scratch on RSLogix500 & 5000",
+      "url": "https://www.udemy.com/course/plc-programming-training-from-scratch-on-rslogix500-5000/"
+    },
+    {
+      "title": "Clean Architecture for Beginners: A Practical Guide",
+      "url": "https://www.udemy.com/course/software-architecture-essentials-for-business-applications/"
+    },
+    {
+      "title": "Kubernetes Training: Learn K8s from Zero to Cloud",
+      "url": "https://www.udemy.com/course/kubernetes-training-learn-kubernetes-from-zero-to-cloud/"
+    },
+    {
+      "title": "C Programming On Windows For Beginners",
+      "url": "https://www.udemy.com/course/c-programming-in-windows/"
+    },
+    {
+      "title": "SoftwareAG webMethods 10.x Development Practice Demo Videos",
+      "url": "https://www.udemy.com/course/webmethodsdemo/"
+    },
+    {
+      "title": "Event-Driven Microservices, CQRS, SAGA, Axon, Spring Boot",
+      "url": "https://www.udemy.com/course/spring-boot-microservices-cqrs-saga-axon-framework/"
+    },
+    {
+      "title": "Algorithms and Data Structures in Swift 5",
+      "url": "https://www.udemy.com/course/introduction-to-algorithms-in-swift/"
+    },
+    {
+      "title": "Recursion and Backtracking (Memoization, D&C, Combinations)",
+      "url": "https://www.udemy.com/course/recursion-and-backtracking-memoization-dc-combinations/"
+    },
+    {
+      "title": "AWS CDK for professionals (Python and TypeScript)",
+      "url": "https://www.udemy.com/course/aws-cdk-for-professionals/"
+    },
+    {
+      "title": "Algorithms Data Structures in Java #1 (+INTERVIEW QUESTIONS)",
+      "url": "https://www.udemy.com/course/algorithms-and-data-structures/"
+    },
+    {
+      "title": "Ethereum Tutorial: Ethereum & Smart Contracts from Scratch",
+      "url": "https://www.udemy.com/course/build-ethereum-from-scratch/"
+    },
+    {
+      "title": "MVVM in WPF Survival Guide From A to Z",
+      "url": "https://www.udemy.com/course/mvvm-in-wpf-survival-guide-from-a-to-z/"
+    },
+    {
+      "title": "Intermediate Level C++",
+      "url": "https://www.udemy.com/course/intermediate-level-c/"
+    },
+    {
+      "title": "The Spring-Boot Crash Course",
+      "url": "https://www.udemy.com/course/the-spring-boot-crash-course/"
+    },
+    {
+      "title": "Mastering 5G PHY: Complete Development Training",
+      "url": "https://www.udemy.com/course/5g-phy-training/"
+    },
+    {
+      "title": "Object Process Methodology (OPM) for MBSE",
+      "url": "https://www.udemy.com/course/opm-for-mbse/"
+    },
+    {
+      "title": "Learn Vert.x - Reactive microservices with Java",
+      "url": "https://www.udemy.com/course/reactive-web-applications-with-vertx-and-vuejs/"
+    },
+    {
+      "title": "OAuth 2.0 in Spring Boot Applications",
+      "url": "https://www.udemy.com/course/oauth2-in-spring-boot-applications/"
+    },
+    {
+      "title": "Embedded Systems Bare-Metal Programming Ground Up™ (STM32)",
+      "url": "https://www.udemy.com/course/embedded-systems-bare-metal-programming/"
+    },
+    {
+      "title": "Building GUI Applications with Fyne and Go (Golang)",
+      "url": "https://www.udemy.com/course/building-gui-applications-with-fyne-and-go-golang/"
+    },
+    {
+      "title": "Data Structures and Algorithms in Java",
+      "url": "https://www.udemy.com/course/algorithms-data-structures-in-java-engineering-interview/"
+    },
+    {
+      "title": "Design and Analysis of Algorithms",
+      "url": "https://www.udemy.com/course/design-and-analysis-of-algorithms/"
+    },
+    {
+      "title": "Basic to Advanced: Retreival-Augmented Generation (RAG)",
+      "url": "https://www.udemy.com/course/basic-to-advanced-retreival-augmented-generation-rag-course/"
+    },
+    {
+      "title": "Writing Maintainable Unit Tests",
+      "url": "https://www.udemy.com/course/writing-maintainable-unit-tests/"
+    },
+    {
+      "title": "From 0 to 1: Data Structures & Algorithms in Java",
+      "url": "https://www.udemy.com/course/from-0-to-1-data-structures/"
+    },
+    {
+      "title": "Docker Training: Learn Docker from Zero to Cloud",
+      "url": "https://www.udemy.com/course/docker-training-learn-docker-from-zero-to-cloud/"
+    },
+    {
+      "title": "Ultimate Tkinter Python GUI Masterclass",
+      "url": "https://www.udemy.com/course/ultimate-tkinter-python-gui-masterclass/"
+    },
+    {
+      "title": "Social Media Bots with Python",
+      "url": "https://www.udemy.com/course/social-media-bots-with-python/"
+    },
+    {
+      "title": "Writing production-ready ETL pipelines in Python / Pandas",
+      "url": "https://www.udemy.com/course/writing-production-ready-etl-pipelines-in-python-pandas/"
+    },
+    {
+      "title": "Building .NET Windows Applications using C# and WinForms",
+      "url": "https://www.udemy.com/course/developing-gui-applications-with-windows-forms/"
+    },
+    {
+      "title": "Flutter BLoC TDD & Clean Architecture | Project Based",
+      "url": "https://www.udemy.com/course/flutter-bloc-tdd-clean-architecture/"
+    },
+    {
+      "title": "Getting Started with Web3 Development",
+      "url": "https://www.udemy.com/course/getting-started-with-ethereum-solidity-development/"
+    },
+    {
+      "title": "Software Development: Better Requirements Gathering Skills",
+      "url": "https://www.udemy.com/course/software-requirements-gathering/"
+    },
+    {
+      "title": "Learn To Build DevOps Pipeline On Azure Cloud",
+      "url": "https://www.udemy.com/course/learn-to-build-devops-pipeline-on-azure-cloud/"
+    },
+    {
+      "title": "RabbitMQ: Learn all MessageQueue concepts and administration",
+      "url": "https://www.udemy.com/course/rabbitmq-from-start-to-finish/"
+    },
+    {
+      "title": "Linux Shell Programming for Beginners",
+      "url": "https://www.udemy.com/course/linux-shell-programming-for-beginners/"
+    },
+    {
+      "title": "Certified AI Engineering Masterclass: From Zero to AI Hero",
+      "url": "https://www.udemy.com/course/ai-engineering-masterclass-from-zero-to-ai-hero/"
+    },
+    {
+      "title": "TypeScript 5 for developers",
+      "url": "https://www.udemy.com/course/typescript-full-stack-programming/"
+    },
+    {
+      "title": "The Complete GitHub Actions & Workflows Guide",
+      "url": "https://www.udemy.com/course/github-actions/"
+    },
+    {
+      "title": "AWS Cloud Architecture For Java Spring Boot Developers",
+      "url": "https://www.udemy.com/course/aws-java/"
+    },
+    {
+      "title": "Jenkins 2 Introduction for Beginners on Windows",
+      "url": "https://www.udemy.com/course/jenkins2-windows/"
+    },
+    {
+      "title": "Data Structures & Algorithms using C++, C and Python - 2025",
+      "url": "https://www.udemy.com/course/mastering-data-structures-and-algorithms-using-c-programming/"
+    },
+    {
+      "title": "Create your own cryptocurrency with ERC-20 tokens on ETH !",
+      "url": "https://www.udemy.com/course/create-your-own-cryptocurrency-with-erc-20-tokens/"
+    },
+    {
+      "title": "Docker for Java Developers",
+      "url": "https://www.udemy.com/course/docker-for-java-developers/"
+    },
+    {
+      "title": "IBM webMethods: From newbie to proficiency",
+      "url": "https://www.udemy.com/course/softwareag-webmethods-from-newbie-to-proficiency/"
+    },
+    {
+      "title": "The Complete Beginner's guide to LabView Programming",
+      "url": "https://www.udemy.com/course/the-complete-labview-course/"
+    },
+    {
+      "title": "Google Cloud Professional Cloud Architect: GCP Certification",
+      "url": "https://www.udemy.com/course/gcp-professional-cloud-architect/"
+    },
+    {
+      "title": "Game Theory Algorithms in Competitive Programming",
+      "url": "https://www.udemy.com/course/game-theory-algorithms-in-competitive-programming-course/"
+    },
+    {
+      "title": "RabbitMQ & Java (Spring Boot 3) Bootcamp - Basic To Advanced",
+      "url": "https://www.udemy.com/course/rabbitmq-java-spring-boot-for-system-integration/"
+    },
+    {
+      "title": "SOLID Principles: Introducing Software Architecture & Design",
+      "url": "https://www.udemy.com/course/solid-design/"
+    },
+    {
+      "title": "Introduction to Data Structures & Algorithms in Java",
+      "url": "https://www.udemy.com/course/introduction-to-data-structures-algorithms-in-java/"
+    },
+    {
+      "title": "Learn RabbitMQ: Asynchronous Messaging with Java and Spring",
+      "url": "https://www.udemy.com/course/learn-rabbitmq-asynchronous-messaging-with-java-and-spring/"
+    },
+    {
+      "title": "Data Structures with Python",
+      "url": "https://www.udemy.com/course/data-structures-with-python/"
+    },
+    {
+      "title": "Flutter , Nodejs, Express , MongoDB: Build Multi-Store App",
+      "url": "https://www.udemy.com/course/flutter-nodejs-express-mongodb-build-multi-store-app/"
+    },
+    {
+      "title": "Kubernetes: Deploy Your First App in Kubernetes in 1 Hour",
+      "url": "https://www.udemy.com/course/kubernetes-docker/"
+    },
+    {
+      "title": "Agile Metrics for Agile Project Management",
+      "url": "https://www.udemy.com/course/agile-metrics-project-management/"
+    },
+    {
+      "title": "Mastering System Design: From Basics to Cracking Interviews",
+      "url": "https://www.udemy.com/course/mastering-system-design-from-basics-to-cracking-interviews/"
+    },
+    {
+      "title": "Mastering Node.js by answering top interview questions",
+      "url": "https://www.udemy.com/course/nodejs-interview-questions/"
+    },
+    {
+      "title": "Data Structures And Algorithms In The C Programming Language",
+      "url": "https://www.udemy.com/course/data-structures-and-algorithms-in-the-c-programming-language/"
+    },
+    {
+      "title": "Understand asynchronous programming with .NET and C#",
+      "url": "https://www.udemy.com/course/master-asynchronous-programming-with-dotnet/"
+    },
+    {
+      "title": "Software Development From A to Z - Learn What Truly Matters",
+      "url": "https://www.udemy.com/course/software-development-from-a-to-z/"
+    },
+    {
+      "title": "Intro To TKinter for Python GUI Apps",
+      "url": "https://www.udemy.com/course/intro-to-tkinter-for-python-gui-apps/"
+    },
+    {
+      "title": "Microservices Interview Questions and Answers",
+      "url": "https://www.udemy.com/course/microservices-interview-questions-passsing-guarranteed/"
+    },
+    {
+      "title": "Master .NET and C# Unit Testing with NUnit and Moq",
+      "url": "https://www.udemy.com/course/nunit-moq/"
+    },
+    {
+      "title": "Datadog Monitoring - A Full Basic to ADVANCE Datadog guide",
+      "url": "https://www.udemy.com/course/datadog-course/"
+    },
+    {
+      "title": "Retrospective+Kaizen+Agile Scrum+Continuous Improvement",
+      "url": "https://www.udemy.com/course/agile-retrospectives-kaizen-lean/"
+    },
+    {
+      "title": "Data Structures and Algorithms In C++ ( DSA )",
+      "url": "https://www.udemy.com/course/data-structures-and-algorithms-in-c-plus-plus/"
+    },
+    {
+      "title": "Qt 5 QML Advanced : Interfacing to C++",
+      "url": "https://www.udemy.com/course/interfacing-qt-quick-qml-to-cpp-advanced/"
+    },
+    {
+      "title": "Fluent API Design - A Crash Course",
+      "url": "https://www.udemy.com/course/fluent-api-design/"
+    },
+    {
+      "title": "Distributed Systems & Cloud Computing with Java",
+      "url": "https://www.udemy.com/course/distributed-systems-cloud-computing-with-java/"
+    },
+    {
+      "title": "ROS For Beginners (ROS Noetic, Melodic, Kinetic)",
+      "url": "https://www.udemy.com/course/ros-for-beginners/"
+    },
+    {
+      "title": "Devops: Jenkins Pipeline As Code: All you need to know A - Z",
+      "url": "https://www.udemy.com/course/jenkins-pipeline-as-code-all-you-need-to-know-from-a-z/"
+    },
+    {
+      "title": "Learn Entity Framework Core 2.0 (EFC2) using ASP.Net Core",
+      "url": "https://www.udemy.com/course/learn-entity-framework-core-2-efc2-using-aspnet-core/"
+    },
+    {
+      "title": "User Story Mapping Simplified",
+      "url": "https://www.udemy.com/course/user-story-mapping-simplified/"
+    },
+    {
+      "title": "Getting Started .NET Core Microservices RabbitMQ",
+      "url": "https://www.udemy.com/course/getting-started-net-core-microservices-rabbitmq/"
+    },
+    {
+      "title": "Data Structures & Algorithms, Level-up for Coding Interviews",
+      "url": "https://www.udemy.com/course/cpp-data-structures-algorithms-levelup-prateek-narang/"
+    },
+    {
+      "title": "Low Level System Design, Design Patterns & SOLID Principles",
+      "url": "https://www.udemy.com/course/low-level-system-design/"
+    },
+    {
+      "title": "Project in DevOps - Build Real World Processes",
+      "url": "https://www.udemy.com/course/project-in-devops-build-real-world-processes/"
+    },
+    {
+      "title": "Advanced C# Course : Become a Backend Developer",
+      "url": "https://www.udemy.com/course/advanced-csharp-course/"
+    },
+    {
+      "title": "Blind 75 LeetCode Questions: Ace Algorithms Coding Interview",
+      "url": "https://www.udemy.com/course/blind-75-leetcode-questions-ace-algorithms-coding-interview/"
+    },
+    {
+      "title": "Building a Serverless AWS lambda API on AWS in java",
+      "url": "https://www.udemy.com/course/serverless-api-aws-lambda-for-java-developers/"
+    },
+    {
+      "title": "Ace Your Coding Interview & Land Your Dream Developer Job",
+      "url": "https://www.udemy.com/course/programming-code-interview/"
+    },
+    {
+      "title": "Apache Spark 3 - Spark Programming in Scala for Beginners",
+      "url": "https://www.udemy.com/course/apache-spark-programming-in-scala/"
+    },
+    {
+      "title": "[Active Directory] Management using Windows PowerShell",
+      "url": "https://www.udemy.com/course/active-directory-management-using-windows-powershell/"
+    },
+    {
+      "title": "Build Your Own RealTime OS (RTOS) From Ground Up™ on ARM 2",
+      "url": "https://www.udemy.com/course/build-your-own-realtime-os-rtos-from-ground-uptm-on-arm-2/"
+    },
+    {
+      "title": "Agile Business Analysis: Getting / Writing Lean Requirements",
+      "url": "https://www.udemy.com/course/getting-and-writing-it-requirements-in-a-lean-agile-world/"
+    },
+    {
+      "title": "Autonomous Cars: Deep Learning and Computer Vision in Python",
+      "url": "https://www.udemy.com/course/autonomous-cars-deep-learning-and-computer-vision-in-python/"
+    },
+    {
+      "title": "Building Recommender Systems with Machine Learning and AI",
+      "url": "https://www.udemy.com/course/building-recommender-systems-with-machine-learning-and-ai/"
+    },
+    {
+      "title": "Java Sorting Algorithms for Newbs",
+      "url": "https://www.udemy.com/course/java-sorting-algorithms-for-newbs/"
+    },
+    {
+      "title": "AI Agents & Workflows - The Practical Guide",
+      "url": "https://www.udemy.com/course/ai-agents-workflows-the-practical-guide/"
+    },
+    {
+      "title": "The Complete Coding for Beginners Course (2025)",
+      "url": "https://www.udemy.com/course/the-complete-coding-for-beginners-course/"
+    },
+    {
+      "title": "Data Structures and Algorithms Bootcamp",
+      "url": "https://www.udemy.com/course/data-structures-and-algorithms-bootcamp/"
+    },
+    {
+      "title": "Software Engineering",
+      "url": "https://www.udemy.com/course/software-engineering-us/"
+    },
+    {
+      "title": "QC201 : Advanced Math for Quantum Computing",
+      "url": "https://www.udemy.com/course/qc201-advanced-math-for-quantum-computing-mathematics-physics/"
+    },
+    {
+      "title": "Core Java Made Easy (Covers the latest Java 18)",
+      "url": "https://www.udemy.com/course/corejavamadeeasy/"
+    },
+    {
+      "title": "Master software testing - from zero to Hero QA - 2024",
+      "url": "https://www.udemy.com/course/master-manual-qa-testing-from-zero-to-hero-qa/"
+    },
+    {
+      "title": "TDD Fundamentals in C#",
+      "url": "https://www.udemy.com/course/tdd-fundamentals-in-csharp/"
+    },
+    {
+      "title": "The Complete Data Structures and Algorithms Course in Java",
+      "url": "https://www.udemy.com/course/data-structures-and-algorithms-for-coding-interview/"
+    },
+    {
+      "title": "Introduction to Concurrency in C# - Async and Parallelism",
+      "url": "https://www.udemy.com/course/introduction-to-concurrency-in-c-async-and-paralellism/"
+    },
+    {
+      "title": "Generative AI for .NET Developers with Google AI",
+      "url": "https://www.udemy.com/course/generative-ai-for-dotnet-developers-with-google-palm-api/"
+    },
+    {
+      "title": "DevOps Fundamentals: Gain Solid Understanding",
+      "url": "https://www.udemy.com/course/devops-fundamentals/"
+    },
+    {
+      "title": "Spring Boot 2 & React FullStack Development",
+      "url": "https://www.udemy.com/course/fullstack-development-springboot/"
+    },
+    {
+      "title": "Windows Service Programming, Debugging, Installing in C#.Net",
+      "url": "https://www.udemy.com/course/windows-service-programming/"
+    },
+    {
+      "title": "Git by Example",
+      "url": "https://www.udemy.com/course/git-version-control/"
+    },
+    {
+      "title": "[NEW] Spring Boot 3, Spring Framework 6: Beginner to Guru",
+      "url": "https://www.udemy.com/course/spring-framework-6-beginner-to-guru/"
+    },
+    {
+      "title": "Object Oriented Programming and Design Crash Course",
+      "url": "https://www.udemy.com/course/object-oriented-programming-design-course/"
+    },
+    {
+      "title": "Ultimate Clean Code Masterclass for 2026",
+      "url": "https://www.udemy.com/course/ultimate-clean-code-masterclass/"
+    },
+    {
+      "title": "Qt 5 C++ GUI Development For Beginners : The Fundamentals",
+      "url": "https://www.udemy.com/course/qt-c-gui-tutorial-for-complete-beginners/"
+    },
+    {
+      "title": "Projects in Hadoop and Big Data - Learn by Building Apps",
+      "url": "https://www.udemy.com/course/projects-in-hadoop-and-big-data-learn-by-building-apps/"
+    },
+    {
+      "title": "Learn By Example : Apache Flink",
+      "url": "https://www.udemy.com/course/learn-by-example-apache-flink/"
+    },
+    {
+      "title": "#2 Scrum Product Owner -A Practical Guide For Product Owners",
+      "url": "https://www.udemy.com/course/product-owner-a-practical-way-to-scrum-product-ownership/"
+    },
+    {
+      "title": "AWS Serverless REST APIs for Java Developers. CI/CD included",
+      "url": "https://www.udemy.com/course/aws-serverless-rest-apis-for-java-developers/"
+    },
+    {
+      "title": "Data Visualization with Kibana",
+      "url": "https://www.udemy.com/course/data-visualization-with-kibana/"
+    },
+    {
+      "title": "AWS Identity Access Management (IAM) Practical Applications",
+      "url": "https://www.udemy.com/course/aws-identity-access-management-practical-applications/"
+    },
+    {
+      "title": "The Software Development Process - The Complete Course",
+      "url": "https://www.udemy.com/course/the-software-development-process-the-complete-course/"
+    },
+    {
+      "title": "Getting Started with .NET Core SignalR",
+      "url": "https://www.udemy.com/course/getting-started-with-net-core-signalr/"
+    },
+    {
+      "title": "Implementing Software Architecture of a Large-Scale System",
+      "url": "https://www.udemy.com/course/implementing-software-architecture/"
+    },
+    {
+      "title": "Clean Code",
+      "url": "https://www.udemy.com/course/writing-clean-code/"
+    },
+    {
+      "title": "Mastering CI/CD with TeamCity and Octopus Deploy",
+      "url": "https://www.udemy.com/course/mastering-cicd-with-teamcity-and-octopus-deploy/"
+    },
+    {
+      "title": "Learn Unit Testing with NUnit and C#",
+      "url": "https://www.udemy.com/course/unit-testing/"
+    },
+    {
+      "title": "Apache Spark 3 & Big Data Essentials in Scala",
+      "url": "https://www.udemy.com/course/spark-essentials/"
+    },
+    {
+      "title": "How To Become An Outstanding Solution Architect",
+      "url": "https://www.udemy.com/course/how-to-become-an-outstanding-solution-architect/"
+    },
+    {
+      "title": "DYDX Pairs Trading Bot Build in Python Running in the Cloud",
+      "url": "https://www.udemy.com/course/dydx-pairs-trading-bot-build-in-python-running-in-the-cloud/"
+    },
+    {
+      "title": "Introduction to Platform Engineering",
+      "url": "https://www.udemy.com/course/introduction-to-platform-engineering/"
+    },
+    {
+      "title": "Practical Java : Spring Boot 3 REST API with Elasticsearch 8",
+      "url": "https://www.udemy.com/course/practical-java-spring-boot-rest-api-with-elasticsearch/"
+    },
+    {
+      "title": "gRPC Masterclass with Java & Spring Boot [ Hands-On]",
+      "url": "https://www.udemy.com/course/grpc-the-complete-guide-for-java-developers/"
+    },
+    {
+      "title": "Mastering Data Structures & Algorithms using C and C++",
+      "url": "https://www.udemy.com/course/datastructurescncpp/"
+    },
+    {
+      "title": "AWS Fundamentals for Beginners",
+      "url": "https://www.udemy.com/course/aws-fundamentals-for-beginners/"
+    },
+    {
+      "title": "Deploy Fargate ECS Apps & Infrastructure: AWS with Terraform",
+      "url": "https://www.udemy.com/course/deploy-fargate-ecs-apps-infrastructure-aws-with-terraform/"
+    },
+    {
+      "title": "The Complete UML Course: Learn to Design UML Diagrams",
+      "url": "https://www.udemy.com/course/unified-modeling-language-uml-course-uml-diagram-software-enginnering/"
+    },
+    {
+      "title": "Red Hat OpenShift With Jenkins: DevOps For Beginners",
+      "url": "https://www.udemy.com/course/red-hat-openshift/"
+    },
+    {
+      "title": "Using SOLID Principles to Write Better Code - A Crash Course",
+      "url": "https://www.udemy.com/course/1-hour-crash-course-using-solid-to-write-better-code/"
+    },
+    {
+      "title": "Algorithms and Data Structures in C#: Complete Tutorial",
+      "url": "https://www.udemy.com/course/algorithms-data-structures-csharp/"
+    },
+    {
+      "title": "Bluetooth Low Energy (BLE) From Ground Up™",
+      "url": "https://www.udemy.com/course/bluetooth-low-energy-ble/"
+    },
+    {
+      "title": "Software Architecture for the Enterprise Architect",
+      "url": "https://www.udemy.com/course/software-architecture-for-the-enterprise-architect/"
+    },
+    {
+      "title": "Data Structures and Algorithms In C# ( DSA )",
+      "url": "https://www.udemy.com/course/data-structures-and-algorithms-in-csharp/"
+    },
+    {
+      "title": "Code Reviews for Secure, Clean, and Scalable Code",
+      "url": "https://www.udemy.com/course/code-reviews-learnit/"
+    },
+    {
+      "title": "Interview Preparation for SDET (Java)",
+      "url": "https://www.udemy.com/course/interview-sdet-java/"
+    },
+    {
+      "title": "Data Structures and Algorithms In Python ( DSA )",
+      "url": "https://www.udemy.com/course/data-structures-algorithms-in-python/"
+    },
+    {
+      "title": "Testing React and Redux Applications - Unit and Integration",
+      "url": "https://www.udemy.com/course/testing-react-and-redux-applications-unit-and-integration/"
+    },
+    {
+      "title": "Data Structures and Algorithms In C ( DSA )",
+      "url": "https://www.udemy.com/course/data-structures-and-algorithms-in-c/"
+    },
+    {
+      "title": "Zynq Training - Learn Zynq 7000 SOC device on Microzed FPGA",
+      "url": "https://www.udemy.com/course/zynq-training-learn-zynq-7000-soc-device-on-microzed-fpga/"
+    },
+    {
+      "title": "Design Patterns Simplified - Part 1",
+      "url": "https://www.udemy.com/course/software-design-patterns-simplified/"
+    },
+    {
+      "title": "Developing with S3: AWS with Python and Boto3 Series",
+      "url": "https://www.udemy.com/course/aws-with-python-and-boto3-implementing-solutions-with-s3/"
+    },
+    {
+      "title": "Mendix : Low-code Application Development Course",
+      "url": "https://www.udemy.com/course/mendix-low-code-application-development-course/"
+    },
+    {
+      "title": "Creating A Chip-8 Emulator In C",
+      "url": "https://www.udemy.com/course/creating-a-chip-8-emulator-in-c/"
+    },
+    {
+      "title": "Quantum Computing for Beginners",
+      "url": "https://www.udemy.com/course/quantum-computing-quantum-physics/"
+    },
+    {
+      "title": "ASPICE 4.0 - Automotive SPICE",
+      "url": "https://www.udemy.com/course/aspice-automotive-spice/"
+    },
+    {
+      "title": "Atlassian Bamboo Data Center from Beginner to Advanced!",
+      "url": "https://www.udemy.com/course/bamboo-continuous-integration-for-devops-developers/"
+    },
+    {
+      "title": "RabbitMQ: The Complete Guide with Software Architecture Applications",
+      "url": "https://www.udemy.com/course/rabbitmq-the-complete-guide-with-software-architecture-applications/"
+    },
+    {
+      "title": "Python Programming & Software Design For Absolute Beginners",
+      "url": "https://www.udemy.com/course/python-programming-software-design-for-absolute-beginners/"
+    },
+    {
+      "title": "Learn To Build Trading Indicators for NinjaTrader",
+      "url": "https://www.udemy.com/course/learn-to-build-trading-indicators-for-ninjatrader/"
+    },
+    {
+      "title": "Unified Modeling Language (UML): Complete Guide & Examples",
+      "url": "https://www.udemy.com/course/uml-the-complete-uml-unified-modeling-language-reference/"
+    },
+    {
+      "title": "Python Mastery with Tabnine: AI-Enhanced Coding Efficiency",
+      "url": "https://www.udemy.com/course/python-mastery-with-tabnine-ai-enhanced-coding-efficiency/"
+    },
+    {
+      "title": "Data Structures & Algorithms Essentials using C++",
+      "url": "https://www.udemy.com/course/cpp-data-structures-algorithms-prateek-narang/"
+    },
+    {
+      "title": "Data Structures and Algorithms C++ : Zero to Mastery in 2025",
+      "url": "https://www.udemy.com/course/data-structures-algorithms-using-c-zero-to-mastery/"
+    },
+    {
+      "title": "Flume and Sqoop for Ingesting Big Data",
+      "url": "https://www.udemy.com/course/flume-and-sqoop/"
+    },
+    {
+      "title": "User Story Bootcamp: Be an Expert In Managing User Stories",
+      "url": "https://www.udemy.com/course/user-story/"
+    },
+    {
+      "title": "Kubernetes for developers",
+      "url": "https://www.udemy.com/course/kubernetes-for-developers/"
+    },
+    {
+      "title": "Design Patterns & Antipatterns & Solid in JavaScript 2024",
+      "url": "https://www.udemy.com/course/mastering-design-patterns-with-javascript/"
+    },
+    {
+      "title": "Spring Boot Microservices with Spring Cloud Beginner to Guru",
+      "url": "https://www.udemy.com/course/spring-boot-microservices-with-spring-cloud-beginner-to-guru/"
+    },
+    {
+      "title": "Prep for Scrum with Kanban Exams",
+      "url": "https://www.udemy.com/course/prep-for-scrum-with-kanban-psk-i-certification-prep/"
+    },
+    {
+      "title": "Virtual Assistant with Python and ChatGPT",
+      "url": "https://www.udemy.com/course/virtual-assistant-with-python-and-chatgpt/"
+    },
+    {
+      "title": "x86 Assembly Language Programming Masters Course",
+      "url": "https://www.udemy.com/course/x86-assembly-language-programming-masters-course/"
+    },
+    {
+      "title": "Mastering critical SKILLS in Algorithms using C++: Part 1",
+      "url": "https://www.udemy.com/course/skills-algorithms-cpp/"
+    },
+    {
+      "title": "Spring rSocket Masterclass: High Performance Microservices",
+      "url": "https://www.udemy.com/course/spring-rsocket/"
+    },
+    {
+      "title": "Game Hacking With Artificial Intelligence - FPS Aimbot",
+      "url": "https://www.udemy.com/course/artificial-intelligence-in-game-fps-aimbot/"
+    },
+    {
+      "title": "APIs: Crash Course",
+      "url": "https://www.udemy.com/course/learn-apis/"
+    }
+  ]
+}

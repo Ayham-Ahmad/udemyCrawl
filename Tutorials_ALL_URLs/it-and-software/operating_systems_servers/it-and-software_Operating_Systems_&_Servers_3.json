@@ -1,0 +1,2038 @@
+{
+  "main_category": "it-and-software",
+  "sub_category": "Operating Systems & Servers",
+  "courses": [
+    {
+      "title": "Mantenimiento y Reparación de Equipos de Cómputo desde Cero",
+      "url": "https://www.udemy.com/course/mantenimiento-y-reparacion-de-equipos-de-computo-desde-cero/"
+    },
+    {
+      "title": "Windows Server - MCSA - ادارة الشبكات باستخدام ويندوز سيرفر",
+      "url": "https://www.udemy.com/course/windows-server-mcsa/"
+    },
+    {
+      "title": "Master Basic Computer Skills: A Comprehensive Course Outline",
+      "url": "https://www.udemy.com/course/master-basic-computer-skills-a-comprehensive-course-outline/"
+    },
+    {
+      "title": "Complete System Design Interview Preparation",
+      "url": "https://www.udemy.com/course/system-design-interview-preparation/"
+    },
+    {
+      "title": "GIT y GITHUB desde cero!",
+      "url": "https://www.udemy.com/course/introduccion-git-github/"
+    },
+    {
+      "title": "Docker Crash Course for Beginners",
+      "url": "https://www.udemy.com/course/docker-crash-course-for-beginners/"
+    },
+    {
+      "title": "How to Install Windows 8",
+      "url": "https://www.udemy.com/course/how-to-install-windows-8/"
+    },
+    {
+      "title": "Engineering for ChatGPT & AI Tools",
+      "url": "https://www.udemy.com/course/engineering-for-chatgpt-ai-tools/"
+    },
+    {
+      "title": "Android Completo: Aprende Creando Apps",
+      "url": "https://www.udemy.com/course/curso-completo-de-android-aprende-creando-apps/"
+    },
+    {
+      "title": "Practical AI Automation for IT Teams: Stop Googling Scripts",
+      "url": "https://www.udemy.com/course/practical-ai-automation-for-it-teams-stop-googling-scripts/"
+    },
+    {
+      "title": "Active Directory & Windows Server 2019 - Il Corso Completo",
+      "url": "https://www.udemy.com/course/active-directory-windows-server-2019-il-corso-completo/"
+    },
+    {
+      "title": "Blackpurl: Parts Training",
+      "url": "https://www.udemy.com/course/blackpurl-parts-training/"
+    },
+    {
+      "title": "Devops Environment - Prep for getting started",
+      "url": "https://www.udemy.com/course/devops-virtualization-creating-virtual-machine/"
+    },
+    {
+      "title": "Linux for Network Engineers: Practical Linux with GNS3",
+      "url": "https://www.udemy.com/course/linux-for-network-engineers-practical-linux-with-gns3/"
+    },
+    {
+      "title": "The Free Linux Bootcamp",
+      "url": "https://www.udemy.com/course/linux-bootcamp-2020/"
+    },
+    {
+      "title": "Dockerless: Deep Dive Into What Containers Really are About",
+      "url": "https://www.udemy.com/course/dockerless/"
+    },
+    {
+      "title": "Postgresql PL/PGSQL Functions - part 2",
+      "url": "https://www.udemy.com/course/postgresql-plpgsql-functions-part-2/"
+    },
+    {
+      "title": "Web Server IIS Mastery Course",
+      "url": "https://www.udemy.com/course/introduction-to-iis/"
+    },
+    {
+      "title": "Postgresql PL/PGSQL Triggers",
+      "url": "https://www.udemy.com/course/postgresql-plpgsql-triggers/"
+    },
+    {
+      "title": "Red Hat Enterprise Linux Technical Overview",
+      "url": "https://www.udemy.com/course/red-hat-enterprise-linux-technical-overview/"
+    },
+    {
+      "title": "AWS Curso Básico para desarrolladores web.",
+      "url": "https://www.udemy.com/course/aws-curso-basico-programadores-autodidactas/"
+    },
+    {
+      "title": "How To Start Green Home Computing",
+      "url": "https://www.udemy.com/course/how-to-start-green-home-computing/"
+    },
+    {
+      "title": "How to Install Ubuntu Linux on a Virtual Machine",
+      "url": "https://www.udemy.com/course/quick-guide-on-installing-ubuntu-linux-beginner-to-advanced/"
+    },
+    {
+      "title": "Introduction to Windows 10",
+      "url": "https://www.udemy.com/course/windows-ten/"
+    },
+    {
+      "title": "VMware Vsphere 6.5 - Configurando um Laboratório VMware 6.5",
+      "url": "https://www.udemy.com/course/vmware-vsphere-65-configurando-um-laboratorio-vmware-65/"
+    },
+    {
+      "title": "Computer Vision with MobileNet",
+      "url": "https://www.udemy.com/course/supergradients-mobilenet/"
+    },
+    {
+      "title": "Self Web Hosting at Home in Ubuntu Linux",
+      "url": "https://www.udemy.com/course/self-web-hosting-at-home-in-ubuntu-linux/"
+    },
+    {
+      "title": "Linuxサーバー構築入門（LinuCレベル１, LPI-Japan認定教材）",
+      "url": "https://www.udemy.com/course/linuc_level1/"
+    },
+    {
+      "title": "Active Directory für Einsteiger mit Windows Server 2022",
+      "url": "https://www.udemy.com/course/active-directory-mit-windows-server-2022-fur-einsteiger/"
+    },
+    {
+      "title": "Adım Adım Uygulamalı Microsoft Active Directory Eğitimi",
+      "url": "https://www.udemy.com/course/active-directory-egitimi/"
+    },
+    {
+      "title": "Private Email Server on Linux",
+      "url": "https://www.udemy.com/course/private-email-server-on-linux/"
+    },
+    {
+      "title": "Server Infrastructure Mastery: 5 Practice Exams [NEW]",
+      "url": "https://www.udemy.com/course/server-infrastructure-mastery-5-practice-exams-new/"
+    },
+    {
+      "title": "Apprenez linux par la pratique",
+      "url": "https://www.udemy.com/course/apprenez-linux-par-la-pratique/"
+    },
+    {
+      "title": "Domina profesionalmente Windows 10 + Curso de Mecanografía",
+      "url": "https://www.udemy.com/course/super-usuario-en-windows-10/"
+    },
+    {
+      "title": "Comandos de Linux: desde cero hasta programar Shell Script",
+      "url": "https://www.udemy.com/course/comandos-terminal-bash-linux-y-programar-shell-script/"
+    },
+    {
+      "title": "API Guide For Absolute Beginners (Free Course)",
+      "url": "https://www.udemy.com/course/api-guide-for-absolute-beginners-free-course/"
+    },
+    {
+      "title": "LearnIT - Basic work with Windows 11",
+      "url": "https://www.udemy.com/course/learnit-basic-work-with-windows-11/"
+    },
+    {
+      "title": "Master Linux User Management & Security on WSL",
+      "url": "https://www.udemy.com/course/master-linux-user-management-security-on-wsl/"
+    },
+    {
+      "title": "VMware vSphere 6.X instalação, configuração e gerenciamento",
+      "url": "https://www.udemy.com/course/vmware-vsphere-instalacao-configuracao-e-gerenciamento-67/"
+    },
+    {
+      "title": "Linux Command for Beginner",
+      "url": "https://www.udemy.com/course/linux-command-tutorial/"
+    },
+    {
+      "title": "Windows 11 For Beginners",
+      "url": "https://www.udemy.com/course/windows-11-for-beginners-e/"
+    },
+    {
+      "title": "UNIX for Software Testers / QA Engineers",
+      "url": "https://www.udemy.com/course/unix-for-software-testers/"
+    },
+    {
+      "title": "Banco de Dados SQL do Zero ao Avançado + Projetos Reais",
+      "url": "https://www.udemy.com/course/curso-sql-do-zero-ao-avancado/"
+    },
+    {
+      "title": "Practice Exam | AWS Certified Solutions Architect Associate",
+      "url": "https://www.udemy.com/course/practice-exam-aws-certified-solutions-architect-associate-r/"
+    },
+    {
+      "title": "DevOps - Linux Temelleri",
+      "url": "https://www.udemy.com/course/just-linux/"
+    },
+    {
+      "title": "High Availability Storage Systems",
+      "url": "https://www.udemy.com/course/ha-storage-systems/"
+    },
+    {
+      "title": "Sıfırdan Linux Ağ ve Sistem Yöneticiliği Eğitimi",
+      "url": "https://www.udemy.com/course/linux-egitim-seti-1/"
+    },
+    {
+      "title": "Google Cloud Platform (GCP) Practice Test",
+      "url": "https://www.udemy.com/course/google-cloud-platform-gcp-practice-test/"
+    },
+    {
+      "title": "CompTia Linux+ (XK0-005) - Exam Practice Tests",
+      "url": "https://www.udemy.com/course/comptia-linux-xk0-005-exam-practice-tests/"
+    },
+    {
+      "title": "Apple Mac (macOS) verstehen und produktiv nutzen",
+      "url": "https://www.udemy.com/course/apple-mac-macos-verstehen-und-produktiv-nutzen/"
+    },
+    {
+      "title": "Practical Packer: Learn Hashicorp Packer with a Real Project",
+      "url": "https://www.udemy.com/course/practical-packer-learn-hashicorp-packer-with-a-real-project/"
+    },
+    {
+      "title": "VMware vSphere 7: uma maratona do básico ao avançado",
+      "url": "https://www.udemy.com/course/vmwarevsphere7/"
+    },
+    {
+      "title": "Proxmox VE 8.x - do Básico ao Avançado [v2025]",
+      "url": "https://www.udemy.com/course/proxmox-ve-8x/"
+    },
+    {
+      "title": "Aprende Linux desde lo básico a programar en shell script",
+      "url": "https://www.udemy.com/course/aprende-linux-desde-cero-hasta-programar-en-shell-script/"
+    },
+    {
+      "title": "Linux Tutorials and Projects (Free)",
+      "url": "https://www.udemy.com/course/linux-tutorials/"
+    },
+    {
+      "title": "Curso de Reparación de Discos Duros y Recuperación de Datos",
+      "url": "https://www.udemy.com/course/reparacion-discos-duros-y-recuperacion-datos/"
+    },
+    {
+      "title": "OneDev and Ansible Mastery",
+      "url": "https://www.udemy.com/course/onedev-and-ansible-mastery/"
+    },
+    {
+      "title": "React in one hour: ReactJS 2025",
+      "url": "https://www.udemy.com/course/react-in-one-hour-reactjs-2025/"
+    },
+    {
+      "title": "Windows 10 - Tips, Tricks and Techniques",
+      "url": "https://www.udemy.com/course/windows-10-tips-tricks-and-techniques/"
+    },
+    {
+      "title": "Linux - free operating system for your computer",
+      "url": "https://www.udemy.com/course/linux-free-operating-system-for-your-computer/"
+    },
+    {
+      "title": "Operating Systems Part 1: Concepts, Processes & Scheduling",
+      "url": "https://www.udemy.com/course/operating-systems-1/"
+    },
+    {
+      "title": "Legacy IT - Technical Support & Desktop Troubleshooting Tips",
+      "url": "https://www.udemy.com/course/legacy-operating-systems-hardware-windows-95-windows-xp/"
+    },
+    {
+      "title": "Windows Server 2012 R2",
+      "url": "https://www.udemy.com/course/windows-server-2012-r2/"
+    },
+    {
+      "title": "Installing Windows Server 2019 - for Beginners",
+      "url": "https://www.udemy.com/course/installing-windows-server-2019-for-beginners/"
+    },
+    {
+      "title": "WHM CPanel Tutorial - Learn to host websites with cPanel WHM",
+      "url": "https://www.udemy.com/course/whm-cpanel-tutorial-learn-to-host-websites-with-cpanel-whm/"
+    },
+    {
+      "title": "Uygulamalı Sıfırdan Linux Terminal Eğitimi",
+      "url": "https://www.udemy.com/course/uygulamali-sifirdan-linux-terminal-egitimi/"
+    },
+    {
+      "title": "Active Directory - Windows Server 2019",
+      "url": "https://www.udemy.com/course/active-directory-windows-server-2019/"
+    },
+    {
+      "title": "Learning Linux on AWS",
+      "url": "https://www.udemy.com/course/learning-linux-on-aws/"
+    },
+    {
+      "title": "YAML: A Course For Newcomers",
+      "url": "https://www.udemy.com/course/yaml-a-course-for-newcomers/"
+    },
+    {
+      "title": "Curso SAP ERP para usuários iniciantes",
+      "url": "https://www.udemy.com/course/curso-sap-para-usuarios/"
+    },
+    {
+      "title": "Animation C language",
+      "url": "https://www.udemy.com/course/lets-have-fun-programming-in-c/"
+    },
+    {
+      "title": "Docker Basics For Beginners",
+      "url": "https://www.udemy.com/course/docker-basics-for-beginners/"
+    },
+    {
+      "title": "Cardano Mini Course: Master Cardano (ADA) in 60 Minutes!",
+      "url": "https://www.udemy.com/course/cardano-mini-course-master-cardano-ada-in-60-minutes/"
+    },
+    {
+      "title": "Curso Completo de Linux Ubuntu Server",
+      "url": "https://www.udemy.com/course/linux-ubuntu-server-basico/"
+    },
+    {
+      "title": "Protect Your Kids! Apple iOS Restrictions iPhone & iPad.",
+      "url": "https://www.udemy.com/course/protect-your-kids/"
+    },
+    {
+      "title": "Hands-On Introduction to Orchestration with Kubernetes",
+      "url": "https://www.udemy.com/course/hands-on-introduction-to-orchestration-with-kubernetes/"
+    },
+    {
+      "title": "Windows Server 2019 Administration Fundamentals",
+      "url": "https://www.udemy.com/course/windows-server-2019-administration-fundamentals/"
+    },
+    {
+      "title": "Curso Profesional de GNU/Linux con Debian y CentOS",
+      "url": "https://www.udemy.com/course/curso-profesional-de-gnulinux-con-debian-y-centos/"
+    },
+    {
+      "title": "SAP Extended Warehouse Management - Brief Explanations",
+      "url": "https://www.udemy.com/course/sap_ewm_brief_explantions/"
+    },
+    {
+      "title": "Labenv enterprise Linux",
+      "url": "https://www.udemy.com/course/labenv-enterprise-linux/"
+    },
+    {
+      "title": "Linux Command Line for Beginners",
+      "url": "https://www.udemy.com/course/linux-command-line-basics/"
+    },
+    {
+      "title": "Curso de Administración Avanzada de Windows: Módulo 1",
+      "url": "https://www.udemy.com/course/administracion-avanzada-de-windows/"
+    },
+    {
+      "title": "【基礎Ⅰ】まるっと学べるWindows Server -Windows Serverの設定ができるようになる-",
+      "url": "https://www.udemy.com/course/windowsserver/"
+    },
+    {
+      "title": "Learn Linux on a MAC",
+      "url": "https://www.udemy.com/course/learn-linux-on-a-mac/"
+    },
+    {
+      "title": "Unix, Linux training for beginners",
+      "url": "https://www.udemy.com/course/best-unix-linux-training-for-software-qa-testers/"
+    },
+    {
+      "title": "Introducción a Servidores Linux con Debian",
+      "url": "https://www.udemy.com/course/introduccion-debian/"
+    },
+    {
+      "title": "Fundamentos en DevOps, APIs y Arquitectura de Microservicios",
+      "url": "https://www.udemy.com/course/devops-y-microservicios-fundamentos/"
+    },
+    {
+      "title": "Curso Completo de Windows 10",
+      "url": "https://www.udemy.com/course/curso-completo-de-windows-10/"
+    },
+    {
+      "title": "Learn Linux in 1 Hour Installation and Important Commands",
+      "url": "https://www.udemy.com/course/linux-expert-in-1-hour-installation-and-important-commands/"
+    },
+    {
+      "title": "Semantic search with vector databases",
+      "url": "https://www.udemy.com/course/semantic-search-vector-databases/"
+    },
+    {
+      "title": "Linux Basics - Operating sytem & Basic Terminal commands",
+      "url": "https://www.udemy.com/course/linux-operating-sytem-basic-terminal-commands/"
+    },
+    {
+      "title": "Universidad Visual Basic. net y SQLserver: De 0 a Experto",
+      "url": "https://www.udemy.com/course/migrar-a-c-en-poco-tiempo/"
+    },
+    {
+      "title": "Active Directory Skills for IT Support Professionals",
+      "url": "https://www.udemy.com/course/active-directory-skills-for-it-support-professionals/"
+    },
+    {
+      "title": "Linux Mastery for Modern Developers and Devops",
+      "url": "https://www.udemy.com/course/linux-mastery-for-modern-developers-and-devops/"
+    },
+    {
+      "title": "QEMU Tutorial",
+      "url": "https://www.udemy.com/course/qemu-tutorial/"
+    },
+    {
+      "title": "Vmware vSphere 8: ESXi y vCenter desde cero a avanzado",
+      "url": "https://www.udemy.com/course/vmware-vsphere-8-esxi-y-vcenter-desde-cero-a-avanzado/"
+    },
+    {
+      "title": "Passo a Passo com Elastix PBX: Seu PBX IP na Prática",
+      "url": "https://www.udemy.com/course/passo-a-passo-com-elastix-pbx-seu-pbx-ip-na-pratica/"
+    },
+    {
+      "title": "Implementación de Servidores Linux (Módulo I)",
+      "url": "https://www.udemy.com/course/implementacion-de-servidores-con-centos-linux/"
+    },
+    {
+      "title": "Speeding Up Your PC",
+      "url": "https://www.udemy.com/course/speeding-up-your-pc/"
+    },
+    {
+      "title": "Mac: From Zero to Almost Hero",
+      "url": "https://www.udemy.com/course/mac-from-zero-to-almost-hero/"
+    },
+    {
+      "title": "Hands-On Introduction to Linux with Ubuntu",
+      "url": "https://www.udemy.com/course/hands-on-introduction-to-linux-with-ubuntu/"
+    },
+    {
+      "title": "【3週間で学ぶ】Bash シェルスクリプト実践講座！！初心者でも1からマスターする",
+      "url": "https://www.udemy.com/course/30awslinux/"
+    },
+    {
+      "title": "Linux Administration 1",
+      "url": "https://www.udemy.com/course/linux-administration-1/"
+    },
+    {
+      "title": "Linux Completo para Usuário Comum ou Desenvolvedor",
+      "url": "https://www.udemy.com/course/curso-de-linux-completo-para-usuario-comum-ou-desenvolvedor/"
+    },
+    {
+      "title": "Bash Beginners Course: Become a Bash Scripting Superhero!",
+      "url": "https://www.udemy.com/course/bash-scripting-for-beginners-u/"
+    },
+    {
+      "title": "Implementing Residual Networks from Scratch to training",
+      "url": "https://www.udemy.com/course/implementing-residual-networks-from-scratch-to-training/"
+    },
+    {
+      "title": "Virtualization Expert - Learn How to virtualize 7 OS",
+      "url": "https://www.udemy.com/course/installation-operating-system/"
+    },
+    {
+      "title": "From Novice to Ninja: Linux Basics for Everyone",
+      "url": "https://www.udemy.com/course/linux-basics-all-you-need-to-know-to-start-2022/"
+    },
+    {
+      "title": "Certified Information Privacy Manager - (CIPM)",
+      "url": "https://www.udemy.com/course/certified-information-privacy-manager-cipm-k/"
+    },
+    {
+      "title": "MACHINE LEARNING INTERVIEW QUESTION AND ANSWER 2024",
+      "url": "https://www.udemy.com/course/machine-learning-interview-question-and-answer-2024/"
+    },
+    {
+      "title": "Salesforce Marketing Cloud Practice Test",
+      "url": "https://www.udemy.com/course/salesforce-marketing-cloud-practice-test-j/"
+    },
+    {
+      "title": "Operating System Interview Questions Practice Test Quiz",
+      "url": "https://www.udemy.com/course/operating-system-mcq/"
+    },
+    {
+      "title": "The Ultimate Linux Command Line Walkthrough",
+      "url": "https://www.udemy.com/course/the-ultimate-linux-command-line-walkthrough/"
+    },
+    {
+      "title": "Microsoft Azure: [Aprenda do Zero]",
+      "url": "https://www.udemy.com/course/microsoft-azure-aprenda-do-zero/"
+    },
+    {
+      "title": "Linux for Beginners: Interactive Lessons (Free Tutorial)",
+      "url": "https://www.udemy.com/course/linux-for-beginners-free-tutorial/"
+    },
+    {
+      "title": "From beginner to job-ready Windows Server Administrator",
+      "url": "https://www.udemy.com/course/become-an-expert-in-windows-server-administration/"
+    },
+    {
+      "title": "Windows, word, excel, powerpoint, internet em 162 videoaulas",
+      "url": "https://www.udemy.com/course/windows-word-excel-powerpoint-internet-em-162-videoaulas/"
+    },
+    {
+      "title": "Microsoft Active Directory ve DNS Eğitimi - Bölüm1 Giriş",
+      "url": "https://www.udemy.com/course/microsoft-active-directory-ve-dns-egitimi-bolum1-giris/"
+    },
+    {
+      "title": "Unix / Linux Practice Test | Unix Q&A",
+      "url": "https://www.udemy.com/course/unix-qa-for-data-engineers-advanced-techniques/"
+    },
+    {
+      "title": "Linux Command Line Made Easy",
+      "url": "https://www.udemy.com/course/linux-command/"
+    },
+    {
+      "title": "Active Directory - Do Zero ao Avançado",
+      "url": "https://www.udemy.com/course/active-directory-do-zero-ao-avancado/"
+    },
+    {
+      "title": "Get Your Google Cloud Certificate: Join Top 1% Club",
+      "url": "https://www.udemy.com/course/get-your-google-cloud-certificate-join-top-1-club-r/"
+    },
+    {
+      "title": "Learn The Linux Command Line: Basic Commands",
+      "url": "https://www.udemy.com/course/command-line/"
+    },
+    {
+      "title": "Oracle Cloud Infrastructure 2024 Generative AI practice test",
+      "url": "https://www.udemy.com/course/oracle-cloud-infrastructure-2024-generative-ai-practice-test/"
+    },
+    {
+      "title": "Deadlocks in Operating System",
+      "url": "https://www.udemy.com/course/deadlocks-in-operating-system/"
+    },
+    {
+      "title": "Shell Scripting Mastery: 5 Mock Exams- Clear your Concepts",
+      "url": "https://www.udemy.com/course/shell-scripting-mastery-5-mock-exams-clear-your-concepts/"
+    },
+    {
+      "title": "HTML",
+      "url": "https://www.udemy.com/course/html-web-development-skills/"
+    },
+    {
+      "title": "Impara Linux: dalle basi alla certificazione LPI - Exam 101",
+      "url": "https://www.udemy.com/course/impara-linux-dalle-basi-alla-certificazione/"
+    },
+    {
+      "title": "Windows Infrastructure & Cloud Administration Bootcamp 2025",
+      "url": "https://www.udemy.com/course/windows-infrastructure/"
+    },
+    {
+      "title": "Informática Básica - Windows 10, Email, Internet e Nuvem",
+      "url": "https://www.udemy.com/course/informatica-basica-windows-10-email-internet-e-nuvem/"
+    },
+    {
+      "title": "Linux TOTAL: dos primeiros passos aos comandos avançados",
+      "url": "https://www.udemy.com/course/linux-total-dos-primeiros-passos-aos-comandos-avancados/"
+    },
+    {
+      "title": "BASH & LINUX - wiersz poleceń od podstaw",
+      "url": "https://www.udemy.com/course/bash-od-podstaw/"
+    },
+    {
+      "title": "Bash command fundamentals for beginners",
+      "url": "https://www.udemy.com/course/bash-command-fundamentals-for-beginners/"
+    },
+    {
+      "title": "Windows 10 po polsku - od zera do bohatera",
+      "url": "https://www.udemy.com/course/windows-10-po-polsku-poradnik-administratora/"
+    },
+    {
+      "title": "TCP/IP for z/OS HA. Sysplex Distributor vs External Balancer",
+      "url": "https://www.udemy.com/course/tcpip-for-zos-ha/"
+    },
+    {
+      "title": "Servicios de Dominio de Active Directory de cero a EXPERTO",
+      "url": "https://www.udemy.com/course/servicios-de-dominio-de-active-directory-de-cero-a-experto/"
+    },
+    {
+      "title": "Creating, Deleting, & Restoring Files & Folders - Windows 11",
+      "url": "https://www.udemy.com/course/creating-deleting-restoring-files-folders-windows-11/"
+    },
+    {
+      "title": "Curso de Linux: todo lo necesario para ser administrador",
+      "url": "https://www.udemy.com/course/conviertase-en-administrador-linux/"
+    },
+    {
+      "title": "Microsoft Windows 10 Course: Understanding The Main Features",
+      "url": "https://www.udemy.com/course/microsoft-windows-10-course-part-1/"
+    },
+    {
+      "title": "Introduction to Redundant Switch Systems",
+      "url": "https://www.udemy.com/course/introduction-to-redundant-switch-systems/"
+    },
+    {
+      "title": "Becoming a Linux System Admin",
+      "url": "https://www.udemy.com/course/becoming-a-linux-system-admin/"
+    },
+    {
+      "title": "Red Hat Ansible Automation for SAP (RH045)",
+      "url": "https://www.udemy.com/course/red-hat-ansible-automation-for-sap/"
+    },
+    {
+      "title": "Introduction to Virtualization - 90 Minute Crash Course",
+      "url": "https://www.udemy.com/course/virtualization-one-hour-crash-course/"
+    },
+    {
+      "title": "How To Speed Up Your Computer",
+      "url": "https://www.udemy.com/course/how-to-speed-up-your-computer/"
+    },
+    {
+      "title": "Servidor de Pruebas Linux para ambientes de Desarrollo Web",
+      "url": "https://www.udemy.com/course/servidor-de-pruebas-para-ambientes-de-desarrollo-web/"
+    },
+    {
+      "title": "Windows Security - Secrets Location",
+      "url": "https://www.udemy.com/course/windows-security-secrets-location/"
+    },
+    {
+      "title": "Learn Servers OSs and Types | Server Administration Course",
+      "url": "https://www.udemy.com/course/serveradministrationcourse/"
+    },
+    {
+      "title": "Complete Windows Operating System Installation Process",
+      "url": "https://www.udemy.com/course/complete-windows-operating-system-installation-process/"
+    },
+    {
+      "title": "MCS Practical DevOps",
+      "url": "https://www.udemy.com/course/mcs-practical-devops/"
+    },
+    {
+      "title": "Ultimate Git Crash Course",
+      "url": "https://www.udemy.com/course/git-in-under-60-minutes-everything-you-need-to-know/"
+    },
+    {
+      "title": "Fundamentos de Windows Scripting",
+      "url": "https://www.udemy.com/course/fundamentos-de-windows-scripting/"
+    },
+    {
+      "title": "Certificación LPI Linux Essentials: Temario oficial completo",
+      "url": "https://www.udemy.com/course/certificacion-lpi-linux-essentials-temario-oficial-examen/"
+    },
+    {
+      "title": "100+Saat IT Sistem&Network& Etik Hacker Eğitimi | MCSE - CEH",
+      "url": "https://www.udemy.com/course/it-sistemnetwork-uzmanlg-tam-paket-mcse-ccna/"
+    },
+    {
+      "title": "Windows Server 2019 For Beginners To Become A Junior Admin.",
+      "url": "https://www.udemy.com/course/windows-server-2019-for-a-small-company-50-100-employees/"
+    },
+    {
+      "title": "Serviços do Windows 10 - Windows Service",
+      "url": "https://www.udemy.com/course/servicos-do-windows-10-windows-service/"
+    },
+    {
+      "title": "Curso Completo de Git y Github para principiantes",
+      "url": "https://www.udemy.com/course/curso-completo-de-git-y-github-para-principiantes/"
+    },
+    {
+      "title": "Curso completo de Linux: Manejo de comandos y Shell Script",
+      "url": "https://www.udemy.com/course/curso-completo-de-linux-manejo-de-comandos-y-shell-script/"
+    },
+    {
+      "title": "VMware vSphere, Install, Configure & Learn VMware (Beginner)",
+      "url": "https://www.udemy.com/course/vmware-vsphere-install-configure-learn-vmware-beginner/"
+    },
+    {
+      "title": "Automatisierung mit PowerShell (1/3): Grundlagen",
+      "url": "https://www.udemy.com/course/automatisierung-mit-powershell-1_3-grundlagen/"
+    },
+    {
+      "title": "Learn iCloud for Mac, iPhone, & iPad.",
+      "url": "https://www.udemy.com/course/learn-icloud/"
+    },
+    {
+      "title": "Embedded Linux Architecture & System Concepts",
+      "url": "https://www.udemy.com/course/embedded-linux-architecture-system-concepts/"
+    },
+    {
+      "title": "Ada369 1.0 - Sistema de ventas Profesional en C# y SQLserver",
+      "url": "https://www.udemy.com/course/sistema-de-ventas-profesional-en-c-y-sqlserver/"
+    },
+    {
+      "title": "Deploying Windows 11 in Modern Networks",
+      "url": "https://www.udemy.com/course/deploying-windows-11-in-modern-networks/"
+    },
+    {
+      "title": "Linux & Unix Fundamentals with WSL",
+      "url": "https://www.udemy.com/course/linux-unix-fundamentals-with-wsl/"
+    },
+    {
+      "title": "Aprenda o Windows 11 do Zero",
+      "url": "https://www.udemy.com/course/aprenda-o-windows-11-do-zero/"
+    },
+    {
+      "title": "Outsystems Professional Platform Ops Engineer Exam",
+      "url": "https://www.udemy.com/course/outsystems-professional-platform-ops-engineer-exam/"
+    },
+    {
+      "title": "【Next.js入門】ReactフレームワークのNext.jsでマイクロブログを構築しながら基礎と本質を学ぶ講座",
+      "url": "https://www.udemy.com/course/nextjs-microblog-for-beginner/"
+    },
+    {
+      "title": "Curso de Kali Linux",
+      "url": "https://www.udemy.com/course/curso-kali-linux/"
+    },
+    {
+      "title": "Master Siemens PLC Programming TIA Portal Basics in less 10h",
+      "url": "https://www.udemy.com/course/master-siemens-plc-programming-tia-portal-basics-in-10-hour/"
+    },
+    {
+      "title": "CompTIA Linux+ XKO - 005 Certification | Practice Tests |",
+      "url": "https://www.udemy.com/course/comptia-linux-xko-005-certification-practice-tests/"
+    },
+    {
+      "title": "Curso Restfull Java Spring Boot",
+      "url": "https://www.udemy.com/course/curso-restfull-java-spring-boot/"
+    },
+    {
+      "title": "Virtualization and Infrastructure Migration Overview",
+      "url": "https://www.udemy.com/course/red-hat-virtualization-and-infrastructure-migration-overview/"
+    },
+    {
+      "title": "零基础七天入门Linux",
+      "url": "https://www.udemy.com/course/linux-zh/"
+    },
+    {
+      "title": "Running Rocky Linux on Oracle VirtualBox",
+      "url": "https://www.udemy.com/course/rocky-on-virtualbox/"
+    },
+    {
+      "title": "Intro to Linux",
+      "url": "https://www.udemy.com/course/intro-to-linux/"
+    },
+    {
+      "title": "Automate Outlook Emails with AI & Make – Beginner’s Guid",
+      "url": "https://www.udemy.com/course/automate-outlook-emails-ai/"
+    },
+    {
+      "title": "Proxmox VE 6: de CERO a MASTER",
+      "url": "https://www.udemy.com/course/proxmox-ve-6-de-cero-a-master/"
+    },
+    {
+      "title": "Windows 11 Made Easy: Comprehensive Training for All Users",
+      "url": "https://www.udemy.com/course/windows-11-made-easy/"
+    },
+    {
+      "title": "Vmware VSphere 6.7 - Curso Prático",
+      "url": "https://www.udemy.com/course/vmware-vsphere-67-curso-pratico/"
+    },
+    {
+      "title": "Introduction to the Linux Command Line Interface",
+      "url": "https://www.udemy.com/course/introduction-to-the-linux-command-line-interface/"
+    },
+    {
+      "title": "Technical and Business Analysis of Chrome OS and Chromium OS",
+      "url": "https://www.udemy.com/course/technical-and-business-analysis-of-chrome-os-and-chromium-os/"
+    },
+    {
+      "title": "Azure for Beginners: A Comprehensive Introduction",
+      "url": "https://www.udemy.com/course/azure-fundamentals-for-beginners-and-dummies/"
+    },
+    {
+      "title": "Sistemista Informatico Liv.1 - Windows Server Administration",
+      "url": "https://www.udemy.com/course/sistemista-informatico-liv1-windows-server-administration/"
+    },
+    {
+      "title": "PowerShell 7 : Master-Class für Einsteiger und Profis",
+      "url": "https://www.udemy.com/course/powershell-7-master-class-fur-einsteiger-und-profis/"
+    },
+    {
+      "title": "A'dan Z'ye Sistem Yöneticileri için PowerShell",
+      "url": "https://www.udemy.com/course/trpowershell/"
+    },
+    {
+      "title": "How to Become a Help Desk Technician",
+      "url": "https://www.udemy.com/course/helpdesktechnician/"
+    },
+    {
+      "title": "SQL Server 2014: Tour and Installing",
+      "url": "https://www.udemy.com/course/sql-server-2014-tour-and-installing/"
+    },
+    {
+      "title": "Azure Basics Part 5",
+      "url": "https://www.udemy.com/course/azure-basics-part-5/"
+    },
+    {
+      "title": "Active Directory - Directorio Activo: de cero a arquitecto",
+      "url": "https://www.udemy.com/course/active-directory-directorio-activo-de-cero-a-arquitecto/"
+    },
+    {
+      "title": "vmwave vCente Server Appliance 7 ,ESXi 7 in your home Laptop",
+      "url": "https://www.udemy.com/course/vcenter-server-appliance/"
+    },
+    {
+      "title": "Aprenda tudo sobre o Linux! Completo e atualizado v2025!",
+      "url": "https://www.udemy.com/course/curso-completo-linux/"
+    },
+    {
+      "title": "Quick set up of a Windows LAB in LAPTOP",
+      "url": "https://www.udemy.com/course/quick-set-up-of-a-windows-lab-in-laptop/"
+    },
+    {
+      "title": "100+ Power User Mac Keyboard Shortcuts - macOS 11 Big Sur",
+      "url": "https://www.udemy.com/course/100-power-user-mac-keyboard-shortcuts-macos-11-big-sur/"
+    },
+    {
+      "title": "DBA SQL Server Essencial - Aprenda do Zero!",
+      "url": "https://www.udemy.com/course/dba-sql-server-2016-essencial/"
+    },
+    {
+      "title": "Administração de Sistemas GNU/Linux: Fundamentos e Prática",
+      "url": "https://www.udemy.com/course/adm-so-gnulinux/"
+    },
+    {
+      "title": "Yocto Project: A Guide For Wannabes",
+      "url": "https://www.udemy.com/course/yocto-project-a-guide-for-wannabes/"
+    },
+    {
+      "title": "Prepare your Windows environment to work with AWS Services",
+      "url": "https://www.udemy.com/course/prepare-your-windows-environment-to-work-with-aws-services/"
+    },
+    {
+      "title": "JavaScript do básico ao avançado (c/ Node.js e projetos)",
+      "url": "https://www.udemy.com/course/javascript-do-basico-ao-avancado-com-node-e-projetos/"
+    },
+    {
+      "title": "Windows Server 2019 do Básico ao Avançado",
+      "url": "https://www.udemy.com/course/windows-server-2019-do-basico-ao-avancado-c/"
+    },
+    {
+      "title": "Linux Essential Commands",
+      "url": "https://www.udemy.com/course/linux-essential-commands-i/"
+    },
+    {
+      "title": "Administrador de Sistemas Junior en Windows Server y Linux",
+      "url": "https://www.udemy.com/course/administrador-de-sistemas-junior-en-windows-server-y-linux/"
+    },
+    {
+      "title": "Primeiros Passos no Linux - Conceitos e Principais Comandos",
+      "url": "https://www.udemy.com/course/primeiros-passos-no-linux/"
+    },
+    {
+      "title": "Curso de GNU/Linux con CentOS y Debian (I - Gestión y Admin)",
+      "url": "https://www.udemy.com/course/curso-linux-1/"
+    },
+    {
+      "title": "Hashicorp vagrant with parallels hypervisor (in progress)",
+      "url": "https://www.udemy.com/course/vagrant-with-parallels/"
+    },
+    {
+      "title": "Linux Basics For Beginners.",
+      "url": "https://www.udemy.com/course/linux-basics-for-beginners/"
+    },
+    {
+      "title": "Beginner's Guide to Mailwizz EMA: Install Mailwizz on a VPS",
+      "url": "https://www.udemy.com/course/how-to-install-mailwizz-on-a-vps/"
+    },
+    {
+      "title": "Windows Server 2022 + 2019 + Az-104 + Az-900 + A. Directory",
+      "url": "https://www.udemy.com/course/windows-server-2022-do-zero-a-alta-disponibilidade-de-vms/"
+    },
+    {
+      "title": "Curso práctico de Docker y Microservicios (apto para todos)",
+      "url": "https://www.udemy.com/course/curso-practico-de-docker-y-microservicios-desde-cero/"
+    },
+    {
+      "title": "Complete Linux Training Course to Get Your Ideal IT Job",
+      "url": "https://www.udemy.com/course/linux-full-course-and-some-tips-for-smart-linux-learning/"
+    },
+    {
+      "title": "Apple Support Essentials for the IT Help Desk",
+      "url": "https://www.udemy.com/course/apple-support-essentials-for-the-it-help-desk/"
+    },
+    {
+      "title": "Aprendendo terminal Linux pondo a mão na massa!",
+      "url": "https://www.udemy.com/course/aprendalinux/"
+    },
+    {
+      "title": "Curso de Odoo v.15 y 16 Funcional para implementadores",
+      "url": "https://www.udemy.com/course/odoo-v15-y-16-funcional-para-implementadores/"
+    },
+    {
+      "title": "Linux Basics and Creating a Server",
+      "url": "https://www.udemy.com/course/linux-basics-and-creating-a-server/"
+    },
+    {
+      "title": "Azure Cloud + Ubuntu: AI Automation Specialist Training",
+      "url": "https://www.udemy.com/course/master-generative-ai-for-ubuntu-linux-with-azure-beginner/"
+    },
+    {
+      "title": "Fun with Linux",
+      "url": "https://www.udemy.com/course/fun-with-linux-u/"
+    },
+    {
+      "title": "Ansible desde Cero",
+      "url": "https://www.udemy.com/course/ansible-desde-cero/"
+    },
+    {
+      "title": "Android 14 Internals - customize Cuttlefish in the cloud",
+      "url": "https://www.udemy.com/course/android-internals/"
+    },
+    {
+      "title": "Curso NodeJS 2025 - Crea tus Aplicaciones RESTful",
+      "url": "https://www.udemy.com/course/curso-nodejs-crea-tus-aplicaciones-restful/"
+    },
+    {
+      "title": "VMware Basics - Graphics and GPUs",
+      "url": "https://www.udemy.com/course/vmware-basics-graphics-and-gpus/"
+    },
+    {
+      "title": "PowerPoint for Business - a Beginners Guide to Presentations",
+      "url": "https://www.udemy.com/course/powerpoint-for-business-a-beginners-guide-to-presentations/"
+    },
+    {
+      "title": "Impara Linux da zero: LPI Linux Essentials",
+      "url": "https://www.udemy.com/course/impara-linux-da-zero-lpi-linux-essentials/"
+    },
+    {
+      "title": "PowerShell Training",
+      "url": "https://www.udemy.com/course/powershell-training-g/"
+    },
+    {
+      "title": "Windows Security - System Protection",
+      "url": "https://www.udemy.com/course/windows-security-system-protection/"
+    },
+    {
+      "title": "Introduction to VCS and GIT",
+      "url": "https://www.udemy.com/course/vcsandgit/"
+    },
+    {
+      "title": "Certified Information Privacy Professional Europe - (CIPP/E)",
+      "url": "https://www.udemy.com/course/certified-information-privacy-professional-europe-cippe/"
+    },
+    {
+      "title": "Linux Administration for Beginners – Master the Essentials",
+      "url": "https://www.udemy.com/course/linux-administration-for-beginners-master-the-essentials/"
+    },
+    {
+      "title": "Proxmox VE 8 Praxiskurs für Virtualisierung",
+      "url": "https://www.udemy.com/course/proxmox-praxiskurs/"
+    },
+    {
+      "title": "Windows Server 2016 do absoluto zero ao PROFISSIONAL!",
+      "url": "https://www.udemy.com/course/mcsa-windows-server-2016-azure-storage/"
+    },
+    {
+      "title": "Mastering Virtual Machines & Cloud Computing",
+      "url": "https://www.udemy.com/course/mastering-virtual-machine/"
+    },
+    {
+      "title": "Free HMI Application with Animated Graphics for SCADA, BMS.",
+      "url": "https://www.udemy.com/course/free-hmi-application-with-animated-graphics-for-scada-bms/"
+    },
+    {
+      "title": "Kubernetes: Do Básico ao Avançado",
+      "url": "https://www.udemy.com/course/kubernetes-do-basico-ao-avancado/"
+    },
+    {
+      "title": "Python in 100 days speedy training",
+      "url": "https://www.udemy.com/course/100-days-introduction-to-programming-course-with-python/"
+    },
+    {
+      "title": "SQL Server DBA Toolkit",
+      "url": "https://www.udemy.com/course/sql-server-dba-toolkit/"
+    },
+    {
+      "title": "Veeam Backup&Replication Yedekleme Eğitimi | 2025",
+      "url": "https://www.udemy.com/course/veeam-backup-egitimi-2022/"
+    },
+    {
+      "title": "Unix Preparation Practice Tests",
+      "url": "https://www.udemy.com/course/unix-preparation-practice-tests/"
+    },
+    {
+      "title": "Fundamentals of Operating System | Beginner Friendly",
+      "url": "https://www.udemy.com/course/fundamentals-of-operating-system-beginner-friendly/"
+    },
+    {
+      "title": "Microsoft Windows Server 2019 [COMPLETO]",
+      "url": "https://www.udemy.com/course/windows-server-2019-1/"
+    },
+    {
+      "title": "Curso Preparatório para Certificação RHCSA Red Hat Linux",
+      "url": "https://www.udemy.com/course/preparatorio-para-certificacao-administrador-linux-red-hat/"
+    },
+    {
+      "title": "What is AWS S3 ?",
+      "url": "https://www.udemy.com/course/what-is-aws-s3/"
+    },
+    {
+      "title": "Formação Linux Completa: Do Básico ao Avançado",
+      "url": "https://www.udemy.com/course/formacao-linux-completa-do-basico-ao-avancado/"
+    },
+    {
+      "title": "Linux (Ubuntu) Made Easy",
+      "url": "https://www.udemy.com/course/linux-ubuntu-made-easy/"
+    },
+    {
+      "title": "Aprenda o Windows 10 do Zero",
+      "url": "https://www.udemy.com/course/aprenda-o-windows-10-do-zero/"
+    },
+    {
+      "title": "Shell Script: Do Básico ao Profissional",
+      "url": "https://www.udemy.com/course/shell-script-do-basico-ao-profissional/"
+    },
+    {
+      "title": "Crack System Design Interview",
+      "url": "https://www.udemy.com/course/system-design-high-level-and-low-level-design/"
+    },
+    {
+      "title": "Linux & Unix User Management & Security Using WSL",
+      "url": "https://www.udemy.com/course/linux-unix-user-management-security-using-wsl/"
+    },
+    {
+      "title": "Computer Vision For iOS Developers Course",
+      "url": "https://www.udemy.com/course/computer-vision-for-ios-developers-course/"
+    },
+    {
+      "title": "600+ Multithreading Interview Questions Practice Test",
+      "url": "https://www.udemy.com/course/600-multithreading-interview-questions-practice-test/"
+    },
+    {
+      "title": "Windows CMD for Absolute Beginners 2025",
+      "url": "https://www.udemy.com/course/windows-cmd-for-absolute-beginners-2023/"
+    },
+    {
+      "title": "Der perfekte Linux-Server für Web, Mail, FTP und Domains",
+      "url": "https://www.udemy.com/course/der-perfekte-linux-server/"
+    },
+    {
+      "title": "Microsoft Windows 10 Tips and Tricks Part 2",
+      "url": "https://www.udemy.com/course/microsoft-windows-10-tips-and-tricks-part-2/"
+    },
+    {
+      "title": "VmWare Virtualization Basics Training",
+      "url": "https://www.udemy.com/course/vmware-virtualization-basics-course/"
+    },
+    {
+      "title": "How to Set Up Your Own Mail Server on a VPS",
+      "url": "https://www.udemy.com/course/how-to-set-up-your-own-mail-server-on-a-vps/"
+    },
+    {
+      "title": "Administra Active directory AD desde Powershell como un PRO",
+      "url": "https://www.udemy.com/course/administra-ad-con-powershell-de-cero-a-heroe/"
+    },
+    {
+      "title": "Linux for Cloud Engineers and Devops",
+      "url": "https://www.udemy.com/course/linux-for-cloud-engineers-and-devops/"
+    },
+    {
+      "title": "YAML is Easy: Learn it Fast",
+      "url": "https://www.udemy.com/course/yaml-essential/"
+    },
+    {
+      "title": "ITIL 4 FOUNDATION",
+      "url": "https://www.udemy.com/course/itil-4-foundation-x/"
+    },
+    {
+      "title": "Windows Server 2016 - Completo",
+      "url": "https://www.udemy.com/course/mcsa-windows-server-2016-exame-70-740/"
+    },
+    {
+      "title": "Docker Per Comuni Mortali",
+      "url": "https://www.udemy.com/course/docker-per-comuni-mortali/"
+    },
+    {
+      "title": "TallyERP9 for Dummies: Learn From Scratch",
+      "url": "https://www.udemy.com/course/tallyerp9-for-dummies-learn-from-scratch/"
+    },
+    {
+      "title": "Windows Server 2016",
+      "url": "https://www.udemy.com/course/windows-server-2016-l/"
+    },
+    {
+      "title": "550+ Unix Interview Questions Practice Test",
+      "url": "https://www.udemy.com/course/unix-interview-questions-test/"
+    },
+    {
+      "title": "Building an installation file and installing GeoServer",
+      "url": "https://www.udemy.com/course/building-an-installation-file-and-installing-geoserver/"
+    },
+    {
+      "title": "Curso Completo de Windows Terminal",
+      "url": "https://www.udemy.com/course/windows-terminal/"
+    },
+    {
+      "title": "AWS AI Practitioner Practice Exams 2025 | AIF-C01 Tests",
+      "url": "https://www.udemy.com/course/aws-ai-practitioner-practice-exams-2025-aif-c01-tests/"
+    },
+    {
+      "title": "OPC500: OPC (OLE for Process Control) Communications",
+      "url": "https://www.udemy.com/course/opc500-opc-ole-for-process-control-communications/"
+    },
+    {
+      "title": "Interview Preparation : Become a Full-Stack Web Developer",
+      "url": "https://www.udemy.com/course/interview-preparation-become-a-full-stack-web-developer/"
+    },
+    {
+      "title": "Linux再入門―カーネル、シェル、ファイルといった基本概念を理解してトラブルシューティング力を高めよう",
+      "url": "https://www.udemy.com/course/linux-reintroduction/"
+    },
+    {
+      "title": "iCloud FREE Masterclass For Apple Users: A to Z Guide",
+      "url": "https://www.udemy.com/course/icloud-free-masterclass-for-apple-users-a-to-z-guide/"
+    },
+    {
+      "title": "Linux Command Line for Beginners",
+      "url": "https://www.udemy.com/course/linux-command-line-for-beginners-42/"
+    },
+    {
+      "title": "How to Run WordPress on a VPS with HestiaCP -Hestia Tutorial",
+      "url": "https://www.udemy.com/course/ubuntu-hestiacp-tutorial-run-wordpress-on-a-vps/"
+    },
+    {
+      "title": "Setting up Linux Mint Cinnamon in VirtualBox for Java",
+      "url": "https://www.udemy.com/course/setting-up-linux-mint-cinnamon-in-virtualbox-for-java/"
+    },
+    {
+      "title": "Learn Python From Scratch||Learn Python For Begineers",
+      "url": "https://www.udemy.com/course/learn-python-from-scratchlearn-python-for-begineers/"
+    },
+    {
+      "title": "WSL 2, Docker, Kali Linux and Windows Terminal - get started",
+      "url": "https://www.udemy.com/course/wsl-2-docker-and-windows-terminal/"
+    },
+    {
+      "title": "Blackpurl: Sales Training",
+      "url": "https://www.udemy.com/course/blackpurl-sales-training/"
+    },
+    {
+      "title": "Linux Completo + Servidores",
+      "url": "https://www.udemy.com/course/linux-completo-servidores/"
+    },
+    {
+      "title": "D3.js in a Nutshell: Learn the Basics",
+      "url": "https://www.udemy.com/course/d3js-in-a-nutshell-learn-the-basics/"
+    },
+    {
+      "title": "Desenvolvimento ETL/DataStage na prática",
+      "url": "https://www.udemy.com/course/desenvolvimento-etl-datastage-na-pratica/"
+    },
+    {
+      "title": "How to Install Linux Mint (Cinnamon) on a Virtual Machine",
+      "url": "https://www.udemy.com/course/quick-guide-on-installing-linux-mint-beginner-to-advanced/"
+    },
+    {
+      "title": "Red Hat OpenStack Technical Overview",
+      "url": "https://www.udemy.com/course/red-hat-openstack-technical-overview/"
+    },
+    {
+      "title": "Learn everything about Linux! Updated v2025! 100+hours",
+      "url": "https://www.udemy.com/course/full-linux/"
+    },
+    {
+      "title": "AWS Workshops - Hands-on Learning with Demos",
+      "url": "https://www.udemy.com/course/aws-workshops-hands-on-learning/"
+    },
+    {
+      "title": "Curso de virtualización con Hyper-V en Windows Server",
+      "url": "https://www.udemy.com/course/virtualizacion-con-hyper-v-en-windows-server-2016/"
+    },
+    {
+      "title": "Linux Command Line",
+      "url": "https://www.udemy.com/course/linux-command-line-l/"
+    },
+    {
+      "title": "CSS - Web Development Skills",
+      "url": "https://www.udemy.com/course/css-web-development-skills/"
+    },
+    {
+      "title": "Thành thạo Docker - Kubernetes trong 8 giờ - 2024",
+      "url": "https://www.udemy.com/course/docker-2021-study-docker-in-8-hours-vietnamese/"
+    },
+    {
+      "title": "Linux Basics and Troubleshooting for CompletePBX",
+      "url": "https://www.udemy.com/course/linux-basics-and-troubleshooting-for-completepbx/"
+    },
+    {
+      "title": "MASTERING PLANNING AND SCHEDULING IN DYNAMICS 365 F&O",
+      "url": "https://www.udemy.com/course/mastering-planning-and-scheduling-in-dynamics-365-fo/"
+    },
+    {
+      "title": "LabVIEW for Beginners:Build Real-World Applications",
+      "url": "https://www.udemy.com/course/labview-for-beginnersbuild-real-world-applications/"
+    },
+    {
+      "title": "Basic linux command for begineers",
+      "url": "https://www.udemy.com/course/basic-linux-command-for-begineers/"
+    },
+    {
+      "title": "Develop generative AI apps in Azure AI Foundry portal",
+      "url": "https://www.udemy.com/course/develop-generative-ai-apps-in-azure-ai-foundry-portal/"
+    },
+    {
+      "title": "Complete System Design Course",
+      "url": "https://www.udemy.com/course/complete-system-design-course/"
+    },
+    {
+      "title": "Deploying Containerized Applications Technical Overview",
+      "url": "https://www.udemy.com/course/deploying-containerized-applications-technical-overview/"
+    },
+    {
+      "title": "Aprende JavaScript y Jquery de 0 a 100",
+      "url": "https://www.udemy.com/course/aprende-javascript-y-jquery-de-0-a-100/"
+    },
+    {
+      "title": "Become an expert in Azure Virtual Desktop (AVD) ! AZ-140",
+      "url": "https://www.udemy.com/course/become-an-expert-in-azure-virtual-desktop-avd-az-140/"
+    },
+    {
+      "title": "Windows Server 2022 Real-World-Hands-on for beginners",
+      "url": "https://www.udemy.com/course/windows-server-2022-real-world-hands-on-for-beginners/"
+    },
+    {
+      "title": "IT Architecture Foundations",
+      "url": "https://www.udemy.com/course/it-architecture-foundations/"
+    },
+    {
+      "title": "Complete Linux Training Course to Get Your Dream IT Job 2025",
+      "url": "https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/"
+    },
+    {
+      "title": "Multithreading Interview Preparation Practice Tests",
+      "url": "https://www.udemy.com/course/multithreading-interview-preparation-practice-tests/"
+    },
+    {
+      "title": "VMware vCenter Server and ESXi Host in your home Machine",
+      "url": "https://www.udemy.com/course/vcenter-server-and-esxi/"
+    },
+    {
+      "title": "Google Cloud（GCP）の基礎 - 図解と実践でインフラの基礎を固める 【2025年 最新版】",
+      "url": "https://www.udemy.com/course/google-cloud-i/"
+    },
+    {
+      "title": "Master PATH Variables: Run Scripts from Anywhere",
+      "url": "https://www.udemy.com/course/master-path-variables-run-scripts-from-anywhere/"
+    },
+    {
+      "title": "VPS Web Hosting, Mail Server With CyberPanel. WP, DNS, SSL.",
+      "url": "https://www.udemy.com/course/the-ultimate-guide-to-manage-vps-cloud-server/"
+    },
+    {
+      "title": "もう絶対に忘れない Linux コマンド【Linux 100本ノック+名前の由来+丁寧な解説で、長期記憶に焼き付けろ！】",
+      "url": "https://www.udemy.com/course/linux100test/"
+    },
+    {
+      "title": "Quality Engineer Technical Interview Preparation",
+      "url": "https://www.udemy.com/course/quality-engineer-technical-interview-preparation-q/"
+    },
+    {
+      "title": "Primeiros passos com o FreeRTOS e ESP32",
+      "url": "https://www.udemy.com/course/primeiros-passos-com-o-freertos/"
+    },
+    {
+      "title": "Active Directory Gruppenrichtlinien mit Windows Server 2022",
+      "url": "https://www.udemy.com/course/active-directory-gruppenrichtlinien-mit-windows-server-2022/"
+    },
+    {
+      "title": "Revisão para Certificação Linux Essentials",
+      "url": "https://www.udemy.com/course/revisao-para-certificacao-linux-essentials/"
+    },
+    {
+      "title": "XK0-005 Linux+ Practice Exams | Hands-on Questions & Answers",
+      "url": "https://www.udemy.com/course/xk0-005-linux-practice-exams-hands-on-questions-answers/"
+    },
+    {
+      "title": "Learn Linux in 5 Days and Level Up Your Career",
+      "url": "https://www.udemy.com/course/learn-linux-in-5-days/"
+    },
+    {
+      "title": "Learn GNU Nano in 30 minutes | Linux Terminal Productivity",
+      "url": "https://www.udemy.com/course/learn-gnu-nano/"
+    },
+    {
+      "title": "Introduction To Windows Server 2012R2",
+      "url": "https://www.udemy.com/course/introduction-to-windows-server-2012r2/"
+    },
+    {
+      "title": "Mastering Active Directory in a Home Lab",
+      "url": "https://www.udemy.com/course/mastering-active-directory-in-a-home-lab/"
+    },
+    {
+      "title": "Understanding Docker in about an Hour",
+      "url": "https://www.udemy.com/course/how-to-use-docker/"
+    },
+    {
+      "title": "An Introduction to the Lonero OS",
+      "url": "https://www.udemy.com/course/lonero-os/"
+    },
+    {
+      "title": "Curso de administración de Active Directory con PowerShell",
+      "url": "https://www.udemy.com/course/administracion-de-active-directory-con-powershell/"
+    },
+    {
+      "title": "Active Directory,DNS,DHCP On Windows Server 2025 100% Labs.",
+      "url": "https://www.udemy.com/course/active-directorydnsdhcp-on-windows-server-2025-100-labs/"
+    },
+    {
+      "title": "Linux Debug Training (Part-2)",
+      "url": "https://www.udemy.com/course/linux-debug-training-part-2/"
+    },
+    {
+      "title": "Mastering Linux Shell Scripting: Hands-On Projects",
+      "url": "https://www.udemy.com/course/mastering-linux-shell-scripting-hands-on-projects/"
+    },
+    {
+      "title": "Getting Started with Life QI",
+      "url": "https://www.udemy.com/course/getting-started-with-life-qi/"
+    },
+    {
+      "title": "Curso Básico de Linux",
+      "url": "https://www.udemy.com/course/linux-debian-desde-cero/"
+    },
+    {
+      "title": "Learn Docker Quickly: A Hands-on approach to learning docker",
+      "url": "https://www.udemy.com/course/learn-docker-quickly/"
+    },
+    {
+      "title": "Técnico em informática",
+      "url": "https://www.udemy.com/course/vivendo-de-ti-2021/"
+    },
+    {
+      "title": "Introduction to Windows 11",
+      "url": "https://www.udemy.com/course/introduction-windows-11/"
+    },
+    {
+      "title": "아마존 AWS 입문",
+      "url": "https://www.udemy.com/course/maso-it-aws-onc2004/"
+    },
+    {
+      "title": "Ansible para SysAdmin",
+      "url": "https://www.udemy.com/course/ansible-para-sysadmin/"
+    },
+    {
+      "title": "VMware vSphere, ESXi y vCenter Server Professional (VCP-DCV)",
+      "url": "https://www.udemy.com/course/vmware-vsphere-esxi-y-vcenter-server-professional-vcp-dcv-jairo-pirona/"
+    },
+    {
+      "title": "Administrator Windows Server i Linux",
+      "url": "https://www.udemy.com/course/administrator-windows-server-i-linux/"
+    },
+    {
+      "title": "Manual de sobrevivência do analista de suporte",
+      "url": "https://www.udemy.com/course/manual-de-sobrevivencia-do-analista-de-suporte/"
+    },
+    {
+      "title": "Docker: Do Básico ao Avançado",
+      "url": "https://www.udemy.com/course/docker-basico-ao-avancado/"
+    },
+    {
+      "title": "1Z0-1072-23 Oracle Cloud Infrastructure Architect Associate",
+      "url": "https://www.udemy.com/course/1z0-1072-23-oracle-cloud-infrastructure-architect-associate-z/"
+    },
+    {
+      "title": "Coolify Self Web Hosting Course (Free Course)",
+      "url": "https://www.udemy.com/course/coolify-self-web-hosting-course-free-course/"
+    },
+    {
+      "title": "Linux and Command-Line for Begginers",
+      "url": "https://www.udemy.com/course/linux-and-command-line-for-begginers/"
+    },
+    {
+      "title": "Linux OS Essentials for Beginners",
+      "url": "https://www.udemy.com/course/linux-os-essentials-for-beginners/"
+    },
+    {
+      "title": "Master 120+ Linux Commands Line Certification and Interview",
+      "url": "https://www.udemy.com/course/master-120-linux-commands-line-certification-and-interview/"
+    },
+    {
+      "title": "SAP and Master Data Governance",
+      "url": "https://www.udemy.com/course/sap-and-master-data-governance/"
+    },
+    {
+      "title": "Absolute FastAPI for Beginners: Step by Step Guide",
+      "url": "https://www.udemy.com/course/absolute-fastapi-for-beginners-step-by-step-guide/"
+    },
+    {
+      "title": "Windows 11 für IT-Administratoren",
+      "url": "https://www.udemy.com/course/windows-11-fur-it-administratoren/"
+    },
+    {
+      "title": "A'dan Z'ye Sertifikalı Bilgi İşlem(IT) HelpDesk Eğitimi 2025",
+      "url": "https://www.udemy.com/course/adan-zye-it-helpdesk-egitimi-adm-adm-bilgisayar-kursu/"
+    },
+    {
+      "title": "Master Bash Commands in Linux & Unix Terminals with WSL",
+      "url": "https://www.udemy.com/course/master-bash-commands-in-linux-unix-terminals-with-wsl/"
+    },
+    {
+      "title": "Aprenda ERP TOTVS Protheus na prática - Compras",
+      "url": "https://www.udemy.com/course/aprenda-protheus-na-pratica-modulo-compras/"
+    },
+    {
+      "title": "Azure Basics Part4 (App Service )",
+      "url": "https://www.udemy.com/course/azure-basics-part4-app-service/"
+    },
+    {
+      "title": "ProxMox - do Zero ao Profissional + Hyper-V Server 2019",
+      "url": "https://www.udemy.com/course/proxmox-do-zero-ao-profissional-hyper-v-server-2019/"
+    },
+    {
+      "title": "Introdução à Programação em Python",
+      "url": "https://www.udemy.com/course/introducao-a-programacao-em-python/"
+    },
+    {
+      "title": "Kali Linux Essentials for Ethical Hackers",
+      "url": "https://www.udemy.com/course/kali-linux-essentials-for-ethical-hackers/"
+    },
+    {
+      "title": "Linux Server",
+      "url": "https://www.udemy.com/course/linux-command-line-terminal-basic-for-beginners-in-hindi/"
+    },
+    {
+      "title": "Terminal Linux, Shell Scripting e Gerenciamento de Redes",
+      "url": "https://www.udemy.com/course/terminal-linux-do-zero-ao-gerenciamento-de-redes/"
+    },
+    {
+      "title": "Introdução à Programação em C",
+      "url": "https://www.udemy.com/course/introducao-a-programacao-em-c/"
+    },
+    {
+      "title": "Flume- Ingesting Data into Hadoop through Flume",
+      "url": "https://www.udemy.com/course/hadoop-flume/"
+    },
+    {
+      "title": "java basic -simple and direct explanation",
+      "url": "https://www.udemy.com/course/java-basic-simple-and-direct-explanation/"
+    },
+    {
+      "title": "Six Sigma : Engineering(with basic MiniTab Tool hands on)",
+      "url": "https://www.udemy.com/course/six-sigma-process-engineeringwith-basic-minitab-tool/"
+    },
+    {
+      "title": "Basic Learning about Linux Daily use commands",
+      "url": "https://www.udemy.com/course/basic-learning-about-linux-commands/"
+    },
+    {
+      "title": "Learn AWS with Terraform in a Weekend!",
+      "url": "https://www.udemy.com/course/learn-aws-with-terraform-in-a-weekend/"
+    },
+    {
+      "title": "Aprende Unit Test en Java con Junit 5 y Mockito",
+      "url": "https://www.udemy.com/course/aprende-unit-test-en-java-con-junit-5-y-mockito/"
+    },
+    {
+      "title": "Hands-On Introduction to Web Serving with NGINX",
+      "url": "https://www.udemy.com/course/hands-on-introduction-to-web-serving-with-nginx/"
+    },
+    {
+      "title": "MS-DOS Basics from scratch",
+      "url": "https://www.udemy.com/course/ms-dos-basics/"
+    },
+    {
+      "title": "Powershell dla administratora - kompletny kurs",
+      "url": "https://www.udemy.com/course/powershell-dla-administratora-windows/"
+    },
+    {
+      "title": "SQL for Beginners with Real Projects",
+      "url": "https://www.udemy.com/course/sql-for-beginners-with-real-projects/"
+    },
+    {
+      "title": "Cloud Computing for Complete Beginners [ AWS , Wordpress ]",
+      "url": "https://www.udemy.com/course/cloud-computing-for-complete-beginners/"
+    },
+    {
+      "title": "Curso de introducción a la administración con PowerShell",
+      "url": "https://www.udemy.com/course/introduccion-a-la-administracion-con-windows-powershell/"
+    },
+    {
+      "title": "Microsoft Windows Server 2019/2022 für Einsteiger",
+      "url": "https://www.udemy.com/course/microsoft-windows-server-fur-einsteiger/"
+    },
+    {
+      "title": "AZ-305: Designing Microsoft Azure Infrastructure Solutions",
+      "url": "https://www.udemy.com/course/az-305-designing-microsoft-azure-infrastructure-solutions-u/"
+    },
+    {
+      "title": "Maîtrisez Windows Server [Valable en 2025]",
+      "url": "https://www.udemy.com/course/apprendre-a-installer-et-administrer-un-serveur-windows/"
+    },
+    {
+      "title": "Gerenciando o Windows Server 2012 R2",
+      "url": "https://www.udemy.com/course/gerenciando-o-windows-server-2012-r2/"
+    },
+    {
+      "title": "SysAdmin Linux - 100% Terminal",
+      "url": "https://www.udemy.com/course/sysadminlinux/"
+    },
+    {
+      "title": "Git de principiante a experto, GitHub, GitLab, Azure, Commit",
+      "url": "https://www.udemy.com/course/aprende-git-de-principiante-a-experto-github-y-gitlab/"
+    },
+    {
+      "title": "UNIX Getting Started",
+      "url": "https://www.udemy.com/course/unix-getting-started/"
+    },
+    {
+      "title": "Aprende MacOS a Fondo",
+      "url": "https://www.udemy.com/course/aprende-macos-a-fondo/"
+    },
+    {
+      "title": "Building An IT Technicians Toolbox",
+      "url": "https://www.udemy.com/course/building-an-it-technicians-toolbox/"
+    },
+    {
+      "title": "Active Directory,DNS,DHCP On Windows Server 2022 100% Labs.",
+      "url": "https://www.udemy.com/course/active-directorydnsdhcp-on-windows-server-2022-100-labs/"
+    },
+    {
+      "title": "How to create a Social networking service with phpFox",
+      "url": "https://www.udemy.com/course/how-to-install-phpfox-a-powerful-social-network-platform/"
+    },
+    {
+      "title": "Linux & Networking: Real-World Scenarios - Practice Tests",
+      "url": "https://www.udemy.com/course/linux-networking-real-world-scenarios-practice-tests/"
+    },
+    {
+      "title": "Curso Completo de Linux",
+      "url": "https://www.udemy.com/course/curso-completo-de-linux/"
+    },
+    {
+      "title": "Active Directoryの基礎※ハンズオン形式",
+      "url": "https://www.udemy.com/course/active-directory-p/"
+    },
+    {
+      "title": "Curso Completo de Linux Ubuntu",
+      "url": "https://www.udemy.com/course/linux-ubuntu-desktop-server/"
+    },
+    {
+      "title": "Curso de instalación y configuración de Windows Server",
+      "url": "https://www.udemy.com/course/curso-instalacion-y-configuracion-de-windows-server-2016/"
+    },
+    {
+      "title": "Linux Shell Scripting Practice Tests",
+      "url": "https://www.udemy.com/course/linux-shell-scripting-practice-tests/"
+    },
+    {
+      "title": "Curso de z/OS completo, Mainframe, desde 0",
+      "url": "https://www.udemy.com/course/curso-de-mainframe-completo-zos-desde-0/"
+    },
+    {
+      "title": "Powershell para Administración de Servidores y Seguridad.",
+      "url": "https://www.udemy.com/course/powershell-para-administracion-de-servidores-y-seguridad/"
+    },
+    {
+      "title": "Linux Kernel Debugging And Instrumentation - Part 1",
+      "url": "https://www.udemy.com/course/linux-kernel-debugging-and-instrumentation-part-1/"
+    },
+    {
+      "title": "Docker everything you need to know in under an hour",
+      "url": "https://www.udemy.com/course/docker-everything-you-need-to-know-in-under-an-hour/"
+    },
+    {
+      "title": "Introduction to IP Addressing and Subnetting",
+      "url": "https://www.udemy.com/course/introduction-to-ip-addressing-and-subnetting/"
+    },
+    {
+      "title": "Como Formatar o Computador- Aprenda passo a passo (Completo)",
+      "url": "https://www.udemy.com/course/pc-formatacao-expressa/"
+    },
+    {
+      "title": "Suporte Técnico na Pratica",
+      "url": "https://www.udemy.com/course/suporte-tecnico/"
+    },
+    {
+      "title": "The Basics of Linux Command Line",
+      "url": "https://www.udemy.com/course/the-basics-of-linux-command-line-course/"
+    },
+    {
+      "title": "Write first assembly language program and run it on emulator",
+      "url": "https://www.udemy.com/course/write-the-first-assembly-program-and-run-it-on-emulator/"
+    },
+    {
+      "title": "Active Directory : Active Directory GUI, Active Directory PS",
+      "url": "https://www.udemy.com/course/active-directory/"
+    },
+    {
+      "title": "Curso de Informática do Básico ao Avançado",
+      "url": "https://www.udemy.com/course/aprenda-informatica-do-zero/"
+    },
+    {
+      "title": "Arch Linux Per Comuni Mortali",
+      "url": "https://www.udemy.com/course/arch-linux-per-comuni-mortali/"
+    },
+    {
+      "title": "Windows 11 Shortcut Mastery: Work Smarter, Save Hours",
+      "url": "https://www.udemy.com/course/windows-11-shortcut-mastery-work-smarter-save-hours/"
+    },
+    {
+      "title": "Basic Computer Information Bilingual-English-Spanish Lecture",
+      "url": "https://www.udemy.com/course/fundamental-computer-information-technology-video-lectures/"
+    },
+    {
+      "title": "SRE Basics : A Beginner’s Guide",
+      "url": "https://www.udemy.com/course/sre-basics/"
+    },
+    {
+      "title": "【初級エンジニア必須スキル Linux コマンド】複雑な環境構築を AWS に任せてLinuxの基本操作を手軽にマスター",
+      "url": "https://www.udemy.com/course/linuxawslinux/"
+    },
+    {
+      "title": "Programando en COBOL-CICS",
+      "url": "https://www.udemy.com/course/cobol-cics/"
+    },
+    {
+      "title": "Proxmox deploy a Windows server (with Autounattend.xml file)",
+      "url": "https://www.udemy.com/course/proxmox-windows-unattended-install-using-autounattend-file/"
+    },
+    {
+      "title": "Active Directory e Políticas de Grupo no Windows Server 2019",
+      "url": "https://www.udemy.com/course/active-directory-e-politicas-de-grupo-no-windows-server-2019/"
+    },
+    {
+      "title": "Windows Server 2016 - Praktyczny przewodnik i konfiguracja",
+      "url": "https://www.udemy.com/course/windows-server-2016-praktyczny-przewodnik-i-konfiguracja/"
+    },
+    {
+      "title": "LPIC-1 Linux-Bootcamp - In 30 Tagen zum Linux-Admin",
+      "url": "https://www.udemy.com/course/lpic-1-linux-bootcamp-in-30-tagen-zum-linux-admin/"
+    },
+    {
+      "title": "Server Administrator (IT Boot Camp) 100% Labs Hands On.",
+      "url": "https://www.udemy.com/course/server-administrator-it-boot-camp-100-labs-hands-on/"
+    },
+    {
+      "title": "Implementing Windows Server 2016 Infrastructure Services",
+      "url": "https://www.udemy.com/course/implementing-windows-server-2016-infrastructure-services/"
+    },
+    {
+      "title": "[2025] GNU/Linux de débutant à confirmé en quelques heures",
+      "url": "https://www.udemy.com/course/gnulinux-de-debutant-a-confirme-en-quelques-heures/"
+    },
+    {
+      "title": "Learn Bash Shell Scripting with Practical Approach",
+      "url": "https://www.udemy.com/course/essential-bash-scripting-for-real-world-application/"
+    },
+    {
+      "title": "Postgresql PL/PGSQL Functions -part 1",
+      "url": "https://www.udemy.com/course/postgresql-plpgsql-functions-part-1/"
+    },
+    {
+      "title": "Chromebook Tech Support",
+      "url": "https://www.udemy.com/course/chromebook-tech-support/"
+    },
+    {
+      "title": "Advanced Microsoft Windows 11 File Management for IT Mastery",
+      "url": "https://www.udemy.com/course/advanced-microsoft-windows-11-file-management/"
+    },
+    {
+      "title": "Ansible Introduction: The Path to Linux Automation",
+      "url": "https://www.udemy.com/course/ansible-introduction-the-path-to-linux-automation/"
+    },
+    {
+      "title": "Linux for Beginners: Crash Course",
+      "url": "https://www.udemy.com/course/linux-for-beginners-crash-course/"
+    },
+    {
+      "title": "Linux für Einsteiger – Das ultimative Einsteiger-Training!",
+      "url": "https://www.udemy.com/course/linux-fuer-einsteiger/"
+    },
+    {
+      "title": "Unlock Your Mac's Potential: A Beginner's Guide",
+      "url": "https://www.udemy.com/course/macos-foundations/"
+    },
+    {
+      "title": "Certificación LPIC-1: Administrador de Linux. EXAMEN 102",
+      "url": "https://www.udemy.com/course/certificacion-lpic-1-administrador-de-linux-examen-102/"
+    },
+    {
+      "title": "Linux: Da migração à administração do sistema operacional",
+      "url": "https://www.udemy.com/course/curso-de-migracao-para-linux-toca-do-tux/"
+    },
+    {
+      "title": "Windows 7: New Features",
+      "url": "https://www.udemy.com/course/windows-7-new-features/"
+    },
+    {
+      "title": "Linux - Practice Test 2025",
+      "url": "https://www.udemy.com/course/linux-practice-test-2025/"
+    },
+    {
+      "title": "Learning Linux with Ubuntu and CentOS: The Easy Way",
+      "url": "https://www.udemy.com/course/learning-linux-with-ubuntu-and-centos-the-easy-way/"
+    },
+    {
+      "title": "Process Synchronization in Operating System",
+      "url": "https://www.udemy.com/course/process-synchronization-in-operating-system/"
+    },
+    {
+      "title": "Getting Started with VI Editor",
+      "url": "https://www.udemy.com/course/vi-editor/"
+    },
+    {
+      "title": "Linux Command Line Basics",
+      "url": "https://www.udemy.com/course/linux-command-line-volume1/"
+    },
+    {
+      "title": "Linux System Administration Made Easy",
+      "url": "https://www.udemy.com/course/linux-system-administration-made-easy/"
+    },
+    {
+      "title": "DHCP On Windows Server 2022 And Cisco Router 100% LABS.",
+      "url": "https://www.udemy.com/course/mastering-dhcp-srv-2022-routers-100-labs-hands-on-exp/"
+    },
+    {
+      "title": "Automatisierung mit PowerShell (2/3): Advanced",
+      "url": "https://www.udemy.com/course/automatisierung-mit-powershell-2_2-advanced/"
+    },
+    {
+      "title": "LinQ for Dummies: Learn The Basics",
+      "url": "https://www.udemy.com/course/linq-for-dummies-learn-the-basics/"
+    },
+    {
+      "title": "Curso completo Openstack: De principiante a avanzado",
+      "url": "https://www.udemy.com/course/curso-openstack-y-cloudcomputing/"
+    },
+    {
+      "title": "AD DS, DNS y DHCP Completo de cero a experto!!",
+      "url": "https://www.udemy.com/course/ad-ds-dns-y-dhcp-completo-de-cero-a-experto/"
+    },
+    {
+      "title": "Tally ERP9: An Introductory Videocourse",
+      "url": "https://www.udemy.com/course/tally-erp9-an-introductory-videocourse/"
+    },
+    {
+      "title": "UNIX for Testers-Automate UNIX in Test Automation (Selenium)",
+      "url": "https://www.udemy.com/course/unix-for-testers-automate-unix-in-test-automation-selenium/"
+    },
+    {
+      "title": "Informática Profissionalizante - Windows e Pacote Office",
+      "url": "https://www.udemy.com/course/informatica-profissionalizante-2020/"
+    },
+    {
+      "title": "Mastering Linux Automation with Shell Scripts",
+      "url": "https://www.udemy.com/course/mastering-linux-automation-with-shell-scripts/"
+    },
+    {
+      "title": "Curso completo de Windows 10 (desde cero)",
+      "url": "https://www.udemy.com/course/curso-de-windows-10/"
+    },
+    {
+      "title": "Curso de Windows 10 Essencial",
+      "url": "https://www.udemy.com/course/curso-windows-10-essencial/"
+    },
+    {
+      "title": "Kali Linux ile Sıfırdan Temel Linux Eğitimi",
+      "url": "https://www.udemy.com/course/kali-linux-ile-sifirdan-temel-linux-egitimi/"
+    },
+    {
+      "title": "Linux Process Monitoring & Diagnostics using /proc interface",
+      "url": "https://www.udemy.com/course/linux-process-monitoring-diagnostics-using-procfs-interface/"
+    },
+    {
+      "title": "Superb Linux Bootcamp - Become Certified Linux Professional",
+      "url": "https://www.udemy.com/course/superb-linux-bootcamp-become-certified-linux-professional/"
+    },
+    {
+      "title": "DeepSeek Course with Prompt Engineering (Free Course)",
+      "url": "https://www.udemy.com/course/deepseek-course-with-prompt-engineering-free-course/"
+    },
+    {
+      "title": "Work faster and smarter with Windows 10",
+      "url": "https://www.udemy.com/course/work-faster-and-smarter-with-windows-10/"
+    },
+    {
+      "title": "Get Started as a Salesforce Business Analyst - Service Cloud",
+      "url": "https://www.udemy.com/course/salesforce-business-analysis-service-cloud/"
+    },
+    {
+      "title": "OAuth Is Easy: The Fast Guide",
+      "url": "https://www.udemy.com/course/oauth-is-easy-the-fast-guide/"
+    },
+    {
+      "title": "Learn Ubuntu Desktop from scratch",
+      "url": "https://www.udemy.com/course/learn-ubuntu-desktop-from-scratch/"
+    },
+    {
+      "title": "Aprenda a Criar jogos e a programar em Lua do zero!",
+      "url": "https://www.udemy.com/course/como-criar-jogos-no-roblox/"
+    },
+    {
+      "title": "Microsoft 365 Power BI for Data Analyst",
+      "url": "https://www.udemy.com/course/power-bi-only-lab-pl-300-data-analyst/"
+    },
+    {
+      "title": "Bash Basics for Cloud Computing",
+      "url": "https://www.udemy.com/course/bash-basics-for-cloud-computing/"
+    },
+    {
+      "title": "Geoprocessamento e QGIS aplicados na agricultura de precisão",
+      "url": "https://www.udemy.com/course/geoprocessamento-e-qgis-aplicados-na-agricultura-de-precisao/"
+    },
+    {
+      "title": "Instalando e Configurando o Windows 10",
+      "url": "https://www.udemy.com/course/instalando-e-configurando-o-windows-10/"
+    },
+    {
+      "title": "Especialização em Active Directory - Windows Server 2022",
+      "url": "https://www.udemy.com/course/especializacao-em-active-directory-windows-server-2019/"
+    },
+    {
+      "title": "Rudiments of Android Software Repairs",
+      "url": "https://www.udemy.com/course/rudiments-of-android-software-repairs/"
+    },
+    {
+      "title": "DNS Server: Deploy, Manage, and Secure Your Network",
+      "url": "https://www.udemy.com/course/master-dns/"
+    },
+    {
+      "title": "Mastering SQL: From Zero to Query hero",
+      "url": "https://www.udemy.com/course/mastering-sql-from-zero-to-query-hero/"
+    },
+    {
+      "title": "Linux Command Line Terminal Basic for Beginners (In Hindi)",
+      "url": "https://www.udemy.com/course/linux-command-line-terminal-basic-for-beginner-in-hindi/"
+    },
+    {
+      "title": "Introduction to Linux : crash course - 2025",
+      "url": "https://www.udemy.com/course/introduction-to-linux-crash-course/"
+    },
+    {
+      "title": "Azure App Service",
+      "url": "https://www.udemy.com/course/develop-a-web-site-with-net-c-on-azure-app-service/"
+    },
+    {
+      "title": "Kali Linux for Hackers and Security Professionals",
+      "url": "https://www.udemy.com/course/kali-linux-for-hackers-and-security-professionals/"
+    },
+    {
+      "title": "Command Line Essentials: Git Bash for Windows",
+      "url": "https://www.udemy.com/course/git-bash/"
+    },
+    {
+      "title": "Learn Writing GNU Makefile in 30 minutes",
+      "url": "https://www.udemy.com/course/gnu-makefile/"
+    },
+    {
+      "title": "Informática Básica desde Cero: Todo lo que Necesitas Saber",
+      "url": "https://www.udemy.com/course/computacion-basica-desde-cero/"
+    },
+    {
+      "title": "Troubleshooting Interview Questions Practice Test",
+      "url": "https://www.udemy.com/course/troubleshooting-interview-questions-practice-test/"
+    },
+    {
+      "title": "Red Hat Enterprise Linux 8 Technical Overview",
+      "url": "https://www.udemy.com/course/red-hat-enterprise-linux-8-technical-overview/"
+    },
+    {
+      "title": "Serie Active Directory",
+      "url": "https://www.udemy.com/course/serie-active-directory/"
+    },
+    {
+      "title": "Patrones de Diseño Java",
+      "url": "https://www.udemy.com/course/patrones-de-diseno-java/"
+    },
+    {
+      "title": "Java Programming, Lambda and more (Java 13, 12, 11, 10, 9,8)",
+      "url": "https://www.udemy.com/course/java-latest-programming-from-zero-java13-java12-java11-java10-java9-j8/"
+    },
+    {
+      "title": "Python Developer Interview Readiness: Get Hired",
+      "url": "https://www.udemy.com/course/python-developer-interview-readiness-get-hired/"
+    },
+    {
+      "title": "Email Marketing: Build Own SMTP and Send Unlimited Emails",
+      "url": "https://www.udemy.com/course/email-marketing-build-own-smtp-and-send-unlimited-emails/"
+    },
+    {
+      "title": "Kubernetes: From Basics to Advanced with Real-World Apps",
+      "url": "https://www.udemy.com/course/kubernetes-from-basics-to-advanced-with-real-world-apps/"
+    },
+    {
+      "title": "HiveMQ - The Complete Guide (2024 Edition)",
+      "url": "https://www.udemy.com/course/complete-guide-to-master-hivemq/"
+    },
+    {
+      "title": "Garoto de Informática 3.0 - Formatar em 6 passos simples",
+      "url": "https://www.udemy.com/course/negocio-formatar-aprenda-a-criar-um-negocio-com-formatacao/"
+    },
+    {
+      "title": "Linux - Shell Bash Commands From Scratch",
+      "url": "https://www.udemy.com/course/bash-linux-command-from-scratch/"
+    },
+    {
+      "title": "Ubuntu Server - Administrando Servidores Linux",
+      "url": "https://www.udemy.com/course/ubuntu-server-administrando-servidores-linux/"
+    },
+    {
+      "title": "Microsoft Hyper-V on Windows Server 2025 & Windows 11",
+      "url": "https://www.udemy.com/course/microsoft-hyper-v-on-windows-server-2025-windows-11/"
+    },
+    {
+      "title": "Soporte Técnico para computadores Mac",
+      "url": "https://www.udemy.com/course/soporte-tecnico-para-computadores-mac/"
+    },
+    {
+      "title": "Pre-Vue JS: Everything You Need To Know Before You Start!",
+      "url": "https://www.udemy.com/course/pre-vuejs-everything-you-need-to-know-before-you-start/"
+    },
+    {
+      "title": "Administração de redes - Linux 101 v2 | Essentials",
+      "url": "https://www.udemy.com/course/administracao-de-redes-linux-101/"
+    },
+    {
+      "title": "Kubernetes Quest Next-Level ML Engineering",
+      "url": "https://www.udemy.com/course/kubernetes-quest-next-level-ml-engineering/"
+    },
+    {
+      "title": "Curso Completo de Servicio Técnico y Soporte de Computadoras",
+      "url": "https://www.udemy.com/course/servicio-tecnico-y-soporte-computadoras/"
+    },
+    {
+      "title": "Linux Commands for DevOps & Cloud Engineers - Beginner's",
+      "url": "https://www.udemy.com/course/linux-commands-for-devops-cloud-engineers-beginners/"
+    },
+    {
+      "title": "LINUX Administration Exam Questions Practice Test",
+      "url": "https://www.udemy.com/course/linux-administration-exam-questions-practice-test/"
+    },
+    {
+      "title": "Introduction to Python Programming",
+      "url": "https://www.udemy.com/course/introduction-to-python-programming-xt/"
+    },
+    {
+      "title": "Setup a Windows DNS Server - Install, Configure & Overview",
+      "url": "https://www.udemy.com/course/learndns/"
+    },
+    {
+      "title": "Linux Bootcamp 2025: Learn Linux in under 3 hours",
+      "url": "https://www.udemy.com/course/linux-bootcamp-course-learn-linux-in-under-3-hours/"
+    },
+    {
+      "title": "Creating a Windows Server Active Directory Audit Lab",
+      "url": "https://www.udemy.com/course/windows-server-ad-security-audit-lab/"
+    },
+    {
+      "title": "VMWare Workstation 17 Complete Guide.",
+      "url": "https://www.udemy.com/course/vmware-workstation-17-crash-course-2023/"
+    },
+    {
+      "title": "Developing Smarter with WSL and Linux",
+      "url": "https://www.udemy.com/course/developing-smarter-with-wsl-and-linux/"
+    },
+    {
+      "title": "Instalación y configuración de Exchange Server 2016",
+      "url": "https://www.udemy.com/course/instalacion-y-configuracion-de-exchange-server-2016/"
+    },
+    {
+      "title": "Arm Barriers 101: Part #4: Speculation and break-before-make",
+      "url": "https://www.udemy.com/course/arm-barriers101-part4/"
+    },
+    {
+      "title": "VPS Web Hosting, Email Server, Cloudflare, SSL, WordPress",
+      "url": "https://www.udemy.com/course/manage-vps-domain-cloudflare-dns-ssl-and-wordpress/"
+    },
+    {
+      "title": "Speed Up your Windows PC in Easy Steps",
+      "url": "https://www.udemy.com/course/tuneupyourpc/"
+    },
+    {
+      "title": "Linux Bash Scripting – Für Einsteiger in der Praxis",
+      "url": "https://www.udemy.com/course/linux-bash-scripting-fur-einsteiger-in-der-praxis/"
+    },
+    {
+      "title": "Ansible desde cero a experto en español",
+      "url": "https://www.udemy.com/course/ansible-desde-cero-a-experto-en-espanol/"
+    },
+    {
+      "title": "Introduction to GNU/Linux Systems Administration",
+      "url": "https://www.udemy.com/course/introduction-to-linux-systems-administration/"
+    },
+    {
+      "title": "Free Guide to Install Mautic on Web Hosting Email Server",
+      "url": "https://www.udemy.com/course/free-guide-to-install-mautic-on-web-hosting-email-server/"
+    },
+    {
+      "title": "Developing Cloud-Native Apps w/ Microservices Architectures",
+      "url": "https://www.udemy.com/course/developing-cloud-native-applications-microservices-architectures/"
+    },
+    {
+      "title": "AWS EC2 Fast and Simple",
+      "url": "https://www.udemy.com/course/aws-ec2-fast-and-simple/"
+    },
+    {
+      "title": "Administração de Servidores Linux com Red Hat 8 / CentOS 8",
+      "url": "https://www.udemy.com/course/administracao-servidores-linux-8-com-red-hat/"
+    },
+    {
+      "title": "Sécurité sur Linux - Apprenez à sécuriser votre système",
+      "url": "https://www.udemy.com/course/securite-sur-linux-apprenez-a-securiser-votre-systeme/"
+    },
+    {
+      "title": "JMeter Performance Practice Tests",
+      "url": "https://www.udemy.com/course/jmeter-practice-tests/"
+    },
+    {
+      "title": "VirtualBox 1.9: Advanced Features and Practical Use",
+      "url": "https://www.udemy.com/course/virtualbox-advanced-features-and-practical-use/"
+    },
+    {
+      "title": "Optimiza y soluciona problemas de rendimiento en VMware",
+      "url": "https://www.udemy.com/course/curso-online-avanzado-virtualizacion-vmware-vsphere/"
+    },
+    {
+      "title": "SPL01 System Programming in Linux",
+      "url": "https://www.udemy.com/course/spl01-system-programming-in-linux/"
+    },
+    {
+      "title": "Administração de Servidores Linux com CentOS 7",
+      "url": "https://www.udemy.com/course/administracao-servidores-linux-com-centos/"
+    },
+    {
+      "title": "Application (MSI) Packaging Training",
+      "url": "https://www.udemy.com/course/application-msi-packaging-and-virtualization-training/"
+    },
+    {
+      "title": "Programação Shell Script - Automatizando Rotinas no Linux",
+      "url": "https://www.udemy.com/course/programacao-shell-script/"
+    },
+    {
+      "title": "Windows Server 2019: Active Directory y Directivas de Grupo",
+      "url": "https://www.udemy.com/course/windows-server-2019-active-directory/"
+    },
+    {
+      "title": "Scripting Unix for Cloud EN Anylang Brqx",
+      "url": "https://www.udemy.com/course/scripting-unix-for-cloud-en-anylang-brqx/"
+    },
+    {
+      "title": "Linux Kernel Interview Questions",
+      "url": "https://www.udemy.com/course/linux-kernel-interview-questions-l/"
+    },
+    {
+      "title": "jGRASP Basics for New Java Programmers (PC)",
+      "url": "https://www.udemy.com/course/jgrasp-basics-for-new-java-programmers-pc/"
+    },
+    {
+      "title": "Linux para Desenvolvedores (c/ terminal, Shell, Apache e +)",
+      "url": "https://www.udemy.com/course/linux-para-desenvolvedores-com-terminal-shell-apache/"
+    },
+    {
+      "title": "Mastering Linux Commands",
+      "url": "https://www.udemy.com/course/mastering-linux-commands/"
+    },
+    {
+      "title": "Linux A-Z™ | Uygulamalarla Sıfırdan Linux Eğitimi",
+      "url": "https://www.udemy.com/course/linux-egitimi/"
+    },
+    {
+      "title": "Mainframe IBM en tu PC",
+      "url": "https://www.udemy.com/course/mainframe/"
+    },
+    {
+      "title": "Get Your Microsoft Azure cloud Certificate: Join Top 1% Club",
+      "url": "https://www.udemy.com/course/get-your-microsoft-azure-cloud-certificate-join-top-1-club-d/"
+    },
+    {
+      "title": "Linux - linia komend dla początkujących...",
+      "url": "https://www.udemy.com/course/linux101/"
+    },
+    {
+      "title": "Blackpurl: Service Training",
+      "url": "https://www.udemy.com/course/blackpurl-service-training/"
+    }
+  ]
+}

@@ -1,0 +1,2038 @@
+{
+  "main_category": "development",
+  "sub_category": "Software Engineering",
+  "courses": [
+    {
+      "title": "Gerenciando Relações entre Componentes com DI e IoC",
+      "url": "https://www.udemy.com/course/gerenciando-relacoes-entre-componentes-com-di-e-ioc/"
+    },
+    {
+      "title": "Desenvolvimento Ágil: eXtreme Programming (XP)",
+      "url": "https://www.udemy.com/course/desenvolvimento-agil-extreme-programming-xp/"
+    },
+    {
+      "title": "Zaman Serileri & ARIMA Modelleri (Minitab,R,Power BI) [2020]",
+      "url": "https://www.udemy.com/course/zaman-serileri-ve-arima-modelleri-minitab-r-power-bi/"
+    },
+    {
+      "title": "Análisis y diseño de infraestructura urbana con InfraWorks",
+      "url": "https://www.udemy.com/course/infraworks/"
+    },
+    {
+      "title": "Treinamento em Lógica Ladder para CLP/PLC",
+      "url": "https://www.udemy.com/course/treinamento-em-logica-ladder-para-plc/"
+    },
+    {
+      "title": "Domine Os 23 Padrões de Software com exemplos reais",
+      "url": "https://www.udemy.com/course/domine-os-23-padroes-de-software-com-exemplos-reais/"
+    },
+    {
+      "title": "Алгоритмы и структуры данных от А до Я",
+      "url": "https://www.udemy.com/course/algodata/"
+    },
+    {
+      "title": "图解轻松学：Spring Boot基础实战",
+      "url": "https://www.udemy.com/course/spring-boot-r/"
+    },
+    {
+      "title": "Entwurfsmuster und ihre Integration mit Dependency Injection",
+      "url": "https://www.udemy.com/course/software-entwurfsmuster-integration-dependency-injection/"
+    },
+    {
+      "title": "SAP Leonardo",
+      "url": "https://www.udemy.com/course/sap-leonardo/"
+    },
+    {
+      "title": "【한글자막】 백엔드 엔지니어링 (Backend Engineering) 마스터하기! (중/고급자 과정)",
+      "url": "https://www.udemy.com/course/fundamentals-of-backend-engineering-communications-protocols-korean/"
+    },
+    {
+      "title": "【忙しいビジネスマンのための】短期集中で学ぶPython入門マスターコース",
+      "url": "https://www.udemy.com/course/python-basic-master/"
+    },
+    {
+      "title": "Automação de Processos: RPA com .NET | CHATGPT",
+      "url": "https://www.udemy.com/course/automacao-de-processos-rpa-com-net-chatgpt/"
+    },
+    {
+      "title": "MÜKEMMEL SİEMENS SCADA EĞİTİMİ",
+      "url": "https://www.udemy.com/course/scada-egitimi/"
+    },
+    {
+      "title": "Python ile Görüntü İşleme",
+      "url": "https://www.udemy.com/course/python-ile-goruntu-isleme/"
+    },
+    {
+      "title": "Spring AI или Весна Искусственного Интеллекта",
+      "url": "https://www.udemy.com/course/spring-ai-rag/"
+    },
+    {
+      "title": "C# Grundlagen: Beginner-Projekt",
+      "url": "https://www.udemy.com/course/c-sharp-grundlagen-beginner-projekt/"
+    },
+    {
+      "title": "Veri Yapıları Eğitim/Uygulama (C ile)",
+      "url": "https://www.udemy.com/course/veri-yaplar-dersi-egitim-ve-uygulama-serisi/"
+    },
+    {
+      "title": "Od chaosu do SOLIDa",
+      "url": "https://www.udemy.com/course/od-chaosu-do-solida/"
+    },
+    {
+      "title": "Curso general de variadores de velocidad VFD",
+      "url": "https://www.udemy.com/course/curso-general-de-variadores-de-velocidad-vfd/"
+    },
+    {
+      "title": "API REST con PHP 8 y MySQL - Token Authentication",
+      "url": "https://www.udemy.com/course/apis-restful/"
+    },
+    {
+      "title": "C# .NET Core Clean Architecture & CQRS Proje Altyapı Kursu 4",
+      "url": "https://www.udemy.com/course/c-net-core-clean-architecture-cqrs-proje-altyap-kursu-4/"
+    },
+    {
+      "title": "Praxisorientierter Git Kurs",
+      "url": "https://www.udemy.com/course/praxisorientierter-git-kurs/"
+    },
+    {
+      "title": "RestAssured ve Cucumber ile API/Arayüz Otomasyonu",
+      "url": "https://www.udemy.com/course/restassured-ve-cucumber-ile-api-otomasyonu/"
+    },
+    {
+      "title": "Thực chiến microservice với Spring Webflux & Apache Kafka",
+      "url": "https://www.udemy.com/course/khoa-hoc-microservice-voi-spring-webflux-apache-kafka/"
+    },
+    {
+      "title": "Ernie Bot 百度文心一言 API测试到实战",
+      "url": "https://www.udemy.com/course/ernie-bot-api/"
+    },
+    {
+      "title": "Matlab 2013A : Acquérir les fondamentaux",
+      "url": "https://www.udemy.com/course/matlab-2013a-acquerir-les-fondamentaux/"
+    },
+    {
+      "title": "Desenvolvimento e Engenharia de Software (2025 - com ITIL 4)",
+      "url": "https://www.udemy.com/course/desenvolvimento-de-software/"
+    },
+    {
+      "title": "Curso de Automatización en Python",
+      "url": "https://www.udemy.com/course/curso-de-automatizacion-en-python/"
+    },
+    {
+      "title": "Microsoft Azure Cloud ile Big Data Programlama",
+      "url": "https://www.udemy.com/course/big-data-programlama-temelleri/"
+    },
+    {
+      "title": "ROS Robot Operating System Basics for beginners",
+      "url": "https://www.udemy.com/course/ros-basics-muhammadasem/"
+    },
+    {
+      "title": "Examen Para Técnicos Eléctricos de Distribución.",
+      "url": "https://www.udemy.com/course/examen-para-tecnicos-electricos-de-distribucion/"
+    },
+    {
+      "title": "GitLab и GitLab CI/CD",
+      "url": "https://www.udemy.com/course/russian-gitlab/"
+    },
+    {
+      "title": "PLC Siemens Tia Portal (SCL - FBD)",
+      "url": "https://www.udemy.com/course/plc-siemens-tia-portal-scl-fbd/"
+    },
+    {
+      "title": "Excel超実践コース　ＡＩ（遺伝的アルゴリズム）を使用したシフト最適化アプリの開発",
+      "url": "https://www.udemy.com/course/excel-ai/"
+    },
+    {
+      "title": "Игра Lines на C#",
+      "url": "https://www.udemy.com/course/sharp-lines/"
+    },
+    {
+      "title": "GX Works3: ST ile PLC Programlama ve Factory IO",
+      "url": "https://www.udemy.com/course/gx-works3-st-ile-plc-programlama-ve-factory-io/"
+    },
+    {
+      "title": "Algoritmos e Fundamentos de Lógica de Programação",
+      "url": "https://www.udemy.com/course/algoritmos-e-fundamentos-de-programacao/"
+    },
+    {
+      "title": "Master the Coding Interview: Data Structures + Algorithms",
+      "url": "https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/"
+    },
+    {
+      "title": "Belajar Data Flow Diagram (DFD)",
+      "url": "https://www.udemy.com/course/belajar-dfd/"
+    },
+    {
+      "title": "Serverless核心技术与实战",
+      "url": "https://www.udemy.com/course/serverless-q/"
+    },
+    {
+      "title": "Aprende Git, GitHub y GitHub Actions",
+      "url": "https://www.udemy.com/course/aprende-git-github-y-github-actions/"
+    },
+    {
+      "title": "Desenvolvimento de Software - Engenharia, Dados e Tecnologia",
+      "url": "https://www.udemy.com/course/desenvolvimento-de-software-engenharia-dados-e-tecnologia/"
+    },
+    {
+      "title": "Jenkins: CI/CD com Gitflow no Kubernetes",
+      "url": "https://www.udemy.com/course/jenkins-cicd-com-gitflow-no-kubernetes/"
+    },
+    {
+      "title": "دورة تدريبية في نظم المعلومات الجغرافية للمبتدئين",
+      "url": "https://www.udemy.com/course/gis-course-for-beginners/"
+    },
+    {
+      "title": "Spring Framework: Фундаментальные основы",
+      "url": "https://www.udemy.com/course/spring-framework-core/"
+    },
+    {
+      "title": "OOP 面向对象编程",
+      "url": "https://www.udemy.com/course/oop-java-course/"
+    },
+    {
+      "title": "Java Spring Boot – Kurs Tworzenia Aplikacji Enterprise",
+      "url": "https://www.udemy.com/course/java-spring-boot-kurs-tworzenia-aplikacji-enterprise/"
+    },
+    {
+      "title": "개체지향 프로그래밍 및 설계 (Java)",
+      "url": "https://www.udemy.com/course/object-oriented-programming-and-design-by-pocu/"
+    },
+    {
+      "title": "Архитектура ПО: Meta и SOLID принципы в ООП",
+      "url": "https://www.udemy.com/course/meta-solid/"
+    },
+    {
+      "title": "Etapas do Desenvolvimento de Software e Backlog do Projeto",
+      "url": "https://www.udemy.com/course/ti-para-iniciantes-etapas-do-desenvolvimento-de-software/"
+    },
+    {
+      "title": "Otomasyon Mimarileri Temelleri",
+      "url": "https://www.udemy.com/course/otomasyon-mimarileri-temelleri/"
+    },
+    {
+      "title": "Hacking & Audit de la Blockchain: Cas des smart contracts..",
+      "url": "https://www.udemy.com/course/securite-audit-des-smart-contracts-sur-la-blockchain-2024/"
+    },
+    {
+      "title": "Comienza con Git y Github: Sistema de control de versiones",
+      "url": "https://www.udemy.com/course/git-github-es/"
+    },
+    {
+      "title": "Kendi Lisans Sistemimizi Yazalım (Bölüm 1-Local)",
+      "url": "https://www.udemy.com/course/lisanssistemi1/"
+    },
+    {
+      "title": "디지털 리터러시 - 디지털 전환과 자동화",
+      "url": "https://www.udemy.com/course/maso-ds-excel-onc53-2/"
+    },
+    {
+      "title": "EKTS İLE ELEKTROMEKANİK KUMANDA DEVRELERİ - PLC'YE GİRİŞ",
+      "url": "https://www.udemy.com/course/ekts-ile-elektromekenik-kumanda-sistemleri-plcye-giris/"
+    },
+    {
+      "title": "Formation Technique Odoo Version 11",
+      "url": "https://www.udemy.com/course/formation-technique-odoo-version-11/"
+    },
+    {
+      "title": "Identificação de Imagens com Python: Automatizando Processos",
+      "url": "https://www.udemy.com/course/identificacao-de-imagens-com-python-automatizando-processos/"
+    },
+    {
+      "title": "Docker 容器應用實戰",
+      "url": "https://www.udemy.com/course/docker-practice/"
+    },
+    {
+      "title": "DevOps 첫걸음: Docker에서 Rancher를 이용한 CD까지",
+      "url": "https://www.udemy.com/course/devops-docker-rancher-cd/"
+    },
+    {
+      "title": "Serverlose Anwendungen auf AWS mit Node.js",
+      "url": "https://www.udemy.com/course/serverlose-anwendungen-auf-aws-mit-nodejs/"
+    },
+    {
+      "title": "Git para programadores",
+      "url": "https://www.udemy.com/course/git-developers/"
+    },
+    {
+      "title": "Curso Basico de Programacion Phyton y SQL desde 0",
+      "url": "https://www.udemy.com/course/curso-basico-de-programacion-phyton-y-sql-desde-0/"
+    },
+    {
+      "title": "一天學會 DevOps 自動化測試及部署",
+      "url": "https://www.udemy.com/course/devops-oneday/"
+    },
+    {
+      "title": "Arquitetura Hexagonal com Java - C2",
+      "url": "https://www.udemy.com/course/arquitetura-hexagonal-com-java-c2/"
+    },
+    {
+      "title": "KSQL Arch Domain: Arquitetura com Kafka, Rabbit, Java e Go",
+      "url": "https://www.udemy.com/course/ksql-arch-domain-modulo-1/"
+    },
+    {
+      "title": "SOLID Principles: Software Architecture & Design [Arabic]",
+      "url": "https://www.udemy.com/course/solid-principles-software-architecture-design-arabic/"
+    },
+    {
+      "title": "The Ultimate Guide to Backend Development (بالعربي)",
+      "url": "https://www.udemy.com/course/ultimate-backend/"
+    },
+    {
+      "title": "ODATA Services im SAPUI5 Umfeld",
+      "url": "https://www.udemy.com/course/odata-services-sap-ui5/"
+    },
+    {
+      "title": "Arquitetura Hexagonal na prática",
+      "url": "https://www.udemy.com/course/arquitetura-hexagonal-na-pratica/"
+    },
+    {
+      "title": "Utilizando Scrum no Jira Software",
+      "url": "https://www.udemy.com/course/utilizando-scrum-no-jira-software/"
+    },
+    {
+      "title": "Web 3通识内容剖析",
+      "url": "https://www.udemy.com/course/web-3-yc/"
+    },
+    {
+      "title": "Microservicios con Node.js y GraphQL: La Guía Definitiva",
+      "url": "https://www.udemy.com/course/microservicios-nodejs-graphql/"
+    },
+    {
+      "title": "Curso de Git",
+      "url": "https://www.udemy.com/course/curso-de-git/"
+    },
+    {
+      "title": "Чистая архитектура на практике",
+      "url": "https://www.udemy.com/course/clean-architecture-csharp-ru/"
+    },
+    {
+      "title": "c# קורס מבוא לתכנות בשפת",
+      "url": "https://www.udemy.com/course/c-kbpqrs/"
+    },
+    {
+      "title": "Curso Maestro de Paralelismo y Concurrencia",
+      "url": "https://www.udemy.com/course/curso-maestro-de-paralelismo/"
+    },
+    {
+      "title": "Introducción Automatización de Procesos en ETL",
+      "url": "https://www.udemy.com/course/introduccion-automatizacion-de-procesos-en-etl/"
+    },
+    {
+      "title": "ARDUINO ile Projeler ve Robot Yapma Eğitimi-Eğitici Eğitimi",
+      "url": "https://www.udemy.com/course/ustaatolye/"
+    },
+    {
+      "title": "Go - Полный курс по Go (GoLang)",
+      "url": "https://www.udemy.com/course/go-golang-ru/"
+    },
+    {
+      "title": "Teil 1: Automatisieren mit JS++ und Node.js",
+      "url": "https://www.udemy.com/course/automatisieren-mit-js-und-nodejs-teil-1/"
+    },
+    {
+      "title": "Flutter - Guia Completo para IOS, Android e WEB (2025)",
+      "url": "https://www.udemy.com/course/metodo-metafora-para-desenvolver-com-flutter/"
+    },
+    {
+      "title": "Arquitecturas para Android con Kotlin, curso avanzado",
+      "url": "https://www.udemy.com/course/arquitecturas-para-android-kotlin-avanzado-mvvm-mvp-clean-mvi/"
+    },
+    {
+      "title": "¿Quieres usar UML como un experto? - Parte 1",
+      "url": "https://www.udemy.com/course/quieres-usar-uml-como-un-experto-parte-1/"
+    },
+    {
+      "title": "Ứng dụng Transaction Log tailing trong microservice",
+      "url": "https://www.udemy.com/course/ung-dung-transaction-log-tailing-trong-microservice/"
+    },
+    {
+      "title": "APIs in Hindi - Learn from scratch in 2025!",
+      "url": "https://www.udemy.com/course/api_hindi/"
+    },
+    {
+      "title": "Programação de CLP Schneider linguagem LADDER",
+      "url": "https://www.udemy.com/course/programacao-de-clp-schneider-linguagem-ladder/"
+    },
+    {
+      "title": "Créer une cryptomonnaie sur Binance Smart Chain",
+      "url": "https://www.udemy.com/course/creer-une-cryptomonnaie-sur-binance-smart-chain/"
+    },
+    {
+      "title": "C# Minimal API com .NET 6",
+      "url": "https://www.udemy.com/course/minimal-api-com-net-6/"
+    },
+    {
+      "title": "Web Programming Dasar Sampai Mahir",
+      "url": "https://www.udemy.com/course/membangun-sistem-informasi-inventaris-sekolah-php-dan-mysqli/"
+    },
+    {
+      "title": "NET8 Microservices Basics to Saga Orchestration Resilience",
+      "url": "https://www.udemy.com/course/net-core-microservices-from-basics-to-saga-orchestration/"
+    },
+    {
+      "title": "Creando un sistema de compra y venta + mvc + ajax",
+      "url": "https://www.udemy.com/course/creando-un-sistema-de-compra-y-venta-con-php7-mvc-ajax/"
+    },
+    {
+      "title": "Dominando o Trade Automatizado com Python",
+      "url": "https://www.udemy.com/course/dominando-o-trade-automatizado-com-python/"
+    },
+    {
+      "title": "Aprenda CQRS NA PRÁTICA",
+      "url": "https://www.udemy.com/course/aprenda-cqrs-na-pratica/"
+    },
+    {
+      "title": "DevOps (CI/CD) com Docker, Jenkins, Bitbucket, Linux Ubuntu",
+      "url": "https://www.udemy.com/course/devops-cicd-com-docker-jenkins-bitbucket-linux-ubuntu/"
+    },
+    {
+      "title": "Fundamentos de Estruturas de Dados em Java",
+      "url": "https://www.udemy.com/course/fundamentos-de-estruturas-de-dados-em-java/"
+    },
+    {
+      "title": "Learn binary trees data structures with python",
+      "url": "https://www.udemy.com/course/all-about-binary-trees-without-recursion/"
+    },
+    {
+      "title": "Patrones de diseño y principios solid con Python",
+      "url": "https://www.udemy.com/course/patrones-de-diseno-y-principios-solid-con-python/"
+    },
+    {
+      "title": "Morgan教你学习量化投资与程序化交易 (EP4:写专属自己的第一个交易策略)",
+      "url": "https://www.udemy.com/course/quantitative_investment_ep4/"
+    },
+    {
+      "title": "Crestron SimplWindows Logikbaustein",
+      "url": "https://www.udemy.com/course/crestron-simplwindows-logiksymbole/"
+    },
+    {
+      "title": "Arquitetura Hexagonal com Kotlin NA PRÁTICA",
+      "url": "https://www.udemy.com/course/arquitetura-hexagonal-com-kotlin-na-pratica/"
+    },
+    {
+      "title": "Uçtan Uca AutoGPT Projeleri Gerçekleştirme",
+      "url": "https://www.udemy.com/course/uctan-uca-autogpt-projeleri-gerceklestirme/"
+    },
+    {
+      "title": "Engenharia de Software (2025)",
+      "url": "https://www.udemy.com/course/formacao-engenheiroa-de-software-completo/"
+    },
+    {
+      "title": "Veri Yapıları ve Algoritma Analizi",
+      "url": "https://www.udemy.com/course/veri-yaplar-ve-algoritma-analizi/"
+    },
+    {
+      "title": "OWASP Top 10 2023 de Seguridad en APIs: Guía Completa",
+      "url": "https://www.udemy.com/course/owasp-security-learnit-es/"
+    },
+    {
+      "title": "SAP ABAP Dynamische Programmierung",
+      "url": "https://www.udemy.com/course/sap-abap-dynamische-programmierung/"
+    },
+    {
+      "title": "Pratik Java Eğitimi + 2 MEGA Proje",
+      "url": "https://www.udemy.com/course/pratik-modern-java-egitimi-mega-projeler/"
+    },
+    {
+      "title": "Build an Autonomous Robot Using ROS2 [Arabic-بالعربي]",
+      "url": "https://www.udemy.com/course/build-an-autonomous-robot-using-ros2-arabic/"
+    },
+    {
+      "title": "Thực hành Java Web,Jakarta EE và JPA qua Case Study đơn giản",
+      "url": "https://www.udemy.com/course/thuc-hanh-java-webjakarta-ee-va-jpa-qua-case-study-on-gian/"
+    },
+    {
+      "title": "Curso Prático de CREO Parametric - Pro Engineer",
+      "url": "https://www.udemy.com/course/cursocreo/"
+    },
+    {
+      "title": "Automotive | FOTA(Firmware Over The Air)",
+      "url": "https://www.udemy.com/course/automotive-fotafirmware-over-the-air/"
+    },
+    {
+      "title": "Profesyonel Algoritma ve Veri Yapıları",
+      "url": "https://www.udemy.com/course/profesyonel-algoritma-ve-veri-yaplari/"
+    },
+    {
+      "title": "Crea un sistema transaccional con Java y Postgresql (POO)",
+      "url": "https://www.udemy.com/course/crea-un-sistema-transaccional-con-java-y-postgresql/"
+    },
+    {
+      "title": "Detonando na entrevista de Systems Design",
+      "url": "https://www.udemy.com/course/detonando-na-entrevista-de-systems-design/"
+    },
+    {
+      "title": "Mit Embarcadero Delphi schneller zum Ziel -2-",
+      "url": "https://www.udemy.com/course/mit-delphi-schneller-zum-ziel-2-fur-fortgeschrittene/"
+    },
+    {
+      "title": "SOLID: Flexible und resiliente Software entwickeln",
+      "url": "https://www.udemy.com/course/solid-prinzipien/"
+    },
+    {
+      "title": "Introducción a Test-Driven Development",
+      "url": "https://www.udemy.com/course/intro-tdd-nicopaez/"
+    },
+    {
+      "title": "GUI con emWin en microcontroladores ARM",
+      "url": "https://www.udemy.com/course/gui-con-emwin-en-microcontroladores-arm/"
+    },
+    {
+      "title": "Padrão MVC - explicado e aplicado",
+      "url": "https://www.udemy.com/course/padrao-mvc/"
+    },
+    {
+      "title": "Domina AWS Lake Formation y Glue Databrew con Casos Reales",
+      "url": "https://www.udemy.com/course/aws-lake-formation-aws-glue-databrew/"
+    },
+    {
+      "title": "Maitrisez Le langage Python pour les débutants",
+      "url": "https://www.udemy.com/course/le-langage-python-pour-les-debutants/"
+    },
+    {
+      "title": "Introduccion a la Estructura de Datos y Algoritmos con Java",
+      "url": "https://www.udemy.com/course/estructura-de-datos-y-algoritmos-en-java/"
+    },
+    {
+      "title": "Programación Orientada a Objetos con C#: Un Caso Práctico",
+      "url": "https://www.udemy.com/course/curso-programacion-orientada-a-objetos/"
+    },
+    {
+      "title": "Python TkInter de Iniciante a Vencedor",
+      "url": "https://www.udemy.com/course/python-tkinter-de-iniciante-a-vencedor/"
+    },
+    {
+      "title": "Refactoring - Senyörlüğe İlk Adım",
+      "url": "https://www.udemy.com/course/refactoring-senyorluge-ilk-adim/"
+    },
+    {
+      "title": "【CICDとGitOpsを実践】GitHub Actions＆ArgoCDで学ぶ CI/CD入門（DevOps入門）",
+      "url": "https://www.udemy.com/course/cicd-github-actions-argocd/"
+    },
+    {
+      "title": "Spring AI Pro или про весну искусственного интеллекта глубже",
+      "url": "https://www.udemy.com/course/spring-ai-pro/"
+    },
+    {
+      "title": "Construye Microservicios con Spring Boot 3 y Spring Cloud",
+      "url": "https://www.udemy.com/course/construye-microservicios-con-spring-boot-3-y-spring-cloud/"
+    },
+    {
+      "title": "Curso Maestro de Gráficos: OpenGL Desde Cero",
+      "url": "https://www.udemy.com/course/curso-maestro-de-graficos-opengl-desde-cero/"
+    },
+    {
+      "title": "Попиксельная обработка изображений на C#",
+      "url": "https://www.udemy.com/course/photosharp/"
+    },
+    {
+      "title": "Créer une cryptomonnaie grâce aux tokens ERC-20 sur Polygon",
+      "url": "https://www.udemy.com/course/creer-une-cryptomonnaie-grace-aux-tokens-erc-20-sur-polygon/"
+    },
+    {
+      "title": "Sıfırdan Matlab Öğrenmeye Başla !",
+      "url": "https://www.udemy.com/course/sifirdan-matlab-ogrenmeye-basla/"
+    },
+    {
+      "title": "FastAPI, backend con Python",
+      "url": "https://www.udemy.com/course/fastapi-python/"
+    },
+    {
+      "title": "Descomplicando Clean Architecture NA PRÁTICA",
+      "url": "https://www.udemy.com/course/descomplicando-clean-architecture-na-pratica/"
+    },
+    {
+      "title": "Collection Pipeline in PHP",
+      "url": "https://www.udemy.com/course/collection-pipeline-in-php/"
+    },
+    {
+      "title": "Quarkus Framework - Microserviços com Kafka",
+      "url": "https://www.udemy.com/course/quarkus-com-kafka/"
+    },
+    {
+      "title": ".NET Popüler Kütüphanelerini Sıfırdan Yazalım",
+      "url": "https://www.udemy.com/course/net-populer-kutuphanelerini-sifirdan-yazalim/"
+    },
+    {
+      "title": "Aprender Dapper con NET 8.0 y Minimal APIs.",
+      "url": "https://www.udemy.com/course/dapper-desde-cero-hasta-aplicaciones-empresariales/"
+    },
+    {
+      "title": "Patrones de Diseño de Software en Python - Curso Práctico",
+      "url": "https://www.udemy.com/course/patrones-de-diseno-de-software-en-python/"
+    },
+    {
+      "title": "Curso de programación orientada a objetos",
+      "url": "https://www.udemy.com/course/mas-alla-del-codigo-poo/"
+    },
+    {
+      "title": "Padrão Saga/Saga Pattern NA PRÁTICA",
+      "url": "https://www.udemy.com/course/padrao-saga-ou-saga-pattern-na-pratica/"
+    },
+    {
+      "title": "软件系统架构设计与技术管理",
+      "url": "https://www.udemy.com/course/gkvwbkpb/"
+    },
+    {
+      "title": "Baştan Sona JavaScript",
+      "url": "https://www.udemy.com/course/bastan-sona-javascript/"
+    },
+    {
+      "title": "Desarrollando una API REST con Golang y GORM",
+      "url": "https://www.udemy.com/course/desarrollando-una-api-rest-con-golang-y-gorm/"
+    },
+    {
+      "title": "สร้าง GUI Application ด้วย Python (Real-World Project)",
+      "url": "https://www.udemy.com/course/python-gui-projects/"
+    },
+    {
+      "title": "Electron - разработка настольных приложений на JavaScript",
+      "url": "https://www.udemy.com/course/electron-js/"
+    },
+    {
+      "title": "TIA Portal S7-1500T - MC_CamIn - Elektronik Cam Eğitimi",
+      "url": "https://www.udemy.com/course/tia-portal-s7-1500t-mc_camin-elektronik-cam-egitimi/"
+    },
+    {
+      "title": "Shape Up | Metodología de Producto!",
+      "url": "https://www.udemy.com/course/shape-up-metodologia-de-producto/"
+    },
+    {
+      "title": "Princípios SOLID - Curso Completo com exemplos reais",
+      "url": "https://www.udemy.com/course/principios-solid-curso-completo-com-exemplos-reais/"
+    },
+    {
+      "title": "Complexidade de Software",
+      "url": "https://www.udemy.com/course/complexidade-de-software/"
+    },
+    {
+      "title": "Yolov(5, 8 ve9) ile Nesne Tespiti Eğitimi (KOD YAZMADAN)",
+      "url": "https://www.udemy.com/course/temelden-yolov5-ve-yolov8-ile-object-detection-egitimi/"
+    },
+    {
+      "title": "16+ Saat Python ile Veri Bilimi ve Makine Öğrenmesi",
+      "url": "https://www.udemy.com/course/makineogrenmesi/"
+    },
+    {
+      "title": "Desarrollar API en Python y desplegar en Azure Serverless",
+      "url": "https://www.udemy.com/course/desarrollar-api-en-python-y-desplegar-en-azure-serverless/"
+    },
+    {
+      "title": "Gömülü Yazılım Mühendisliği: V-Model ile Yazılım Geliştirme",
+      "url": "https://www.udemy.com/course/vmodel-embedded/"
+    },
+    {
+      "title": "Objekt-Orientierte Programmierung: Verstehen und Anwenden",
+      "url": "https://www.udemy.com/course/objektorientierte-programmierung-in-java/"
+    },
+    {
+      "title": "처음 배우는 챗봇(ChatBot)",
+      "url": "https://www.udemy.com/course/chatbot_hihrd/"
+    },
+    {
+      "title": "Programación de Tornos CNC",
+      "url": "https://www.udemy.com/course/programacion-de-tornos-cnc/"
+    },
+    {
+      "title": "PHPUnit - das Unit Testing Framework für PHP",
+      "url": "https://www.udemy.com/course/phpunit-das-unit-testing-framework-fur-php/"
+    },
+    {
+      "title": "Dynatrace : de la découverte à l'expertise",
+      "url": "https://www.udemy.com/course/dynatrace-de-la-decouverte-a-lexpertise/"
+    },
+    {
+      "title": "Grafcet++",
+      "url": "https://www.udemy.com/course/grafcet-y/"
+    },
+    {
+      "title": "Programe PLC e comunique com IHM Celular via Modbus TCP",
+      "url": "https://www.udemy.com/course/comunicacao-plc-ihm-remota-e-celular-via-modbus-tcp/"
+    },
+    {
+      "title": "Formação Master CATIA V5R20 & NX 11",
+      "url": "https://www.udemy.com/course/catia-v5r20-x-nx-110-siemens/"
+    },
+    {
+      "title": "Teil 2: Automatisieren mit JS++",
+      "url": "https://www.udemy.com/course/automatisieren-mit-js-und-nodejs_teil-2/"
+    },
+    {
+      "title": "DELTA PLC İLE TEMEL PLC PROGRAMLAMA",
+      "url": "https://www.udemy.com/course/delta-plc-ile-temel-plc-programlama/"
+    },
+    {
+      "title": "Алгоритм X Dancing Links сборки пентамимо на C#",
+      "url": "https://www.udemy.com/course/dancing-links/"
+    },
+    {
+      "title": "Kubernetes Certified Application Developer (CKAD) with Tests",
+      "url": "https://www.udemy.com/course/certified-kubernetes-application-developer/"
+    },
+    {
+      "title": "PyTorch - 6 Neuronale Netze einfach in Python erstellen",
+      "url": "https://www.udemy.com/course/pytorch-neuronale-netze-in-python/"
+    },
+    {
+      "title": "MCP极简入门",
+      "url": "https://www.udemy.com/course/get-started-with-mcp/"
+    },
+    {
+      "title": "Aplicaciones de IA Generativa con ChatGPT sin programar: A-Z",
+      "url": "https://www.udemy.com/course/crear-aplicaciones-de-chatgpt-sin-programar-cero-a-experto/"
+    },
+    {
+      "title": "El Camino a Senior: Claves para el Éxito como Programador",
+      "url": "https://www.udemy.com/course/el-camino-a-senior-claves-para-el-exito-como-programador/"
+    },
+    {
+      "title": "AWS Lambda / CloudFormation con Python / GitHubActions CICD",
+      "url": "https://www.udemy.com/course/aws-lambda-cloudformation-con-python/"
+    },
+    {
+      "title": "Profesyonel C++ ve Nesneye Yönelimli Programlama",
+      "url": "https://www.udemy.com/course/profesyonel-c-ve-nesneye-yonelimli-programlama/"
+    },
+    {
+      "title": "Microservices mit Spring Cloud, Apache Kafka und GraphQL",
+      "url": "https://www.udemy.com/course/microservices-mit-spring-cloud-apache-kafka-und-graphql/"
+    },
+    {
+      "title": "0 to 1 高频算法面试题",
+      "url": "https://www.udemy.com/course/bittiger-suanfa-ti/"
+    },
+    {
+      "title": "PYTHON Temel Seviye Eğitim",
+      "url": "https://www.udemy.com/course/python-temel-seviye-egitim/"
+    },
+    {
+      "title": "【ひぐま流】演習で学ぶ要件定義入門！3つの要件定義を通して「本当に価値あるITシステムを作る技術」を習得しよう！",
+      "url": "https://www.udemy.com/course/higuma-requirements-definition/"
+    },
+    {
+      "title": "現役アジャイルコーチが語る！ 塹壕より、かんばんとリーン",
+      "url": "https://www.udemy.com/course/daipresents-kanban-lean/"
+    },
+    {
+      "title": "Supervisor de Segurança do Trabalho",
+      "url": "https://www.udemy.com/course/supervisor-de-seguranca-do-trabalho/"
+    },
+    {
+      "title": "FLAG专题之OOD与多线程",
+      "url": "https://www.udemy.com/course/flag-ood/"
+    },
+    {
+      "title": "Design Patterns, SOLID, OOP and UML Complete Guide.",
+      "url": "https://www.udemy.com/course/design-patterns-solid-oop-and-uml-complete-guide/"
+    },
+    {
+      "title": "Spring Boot dla początkujących",
+      "url": "https://www.udemy.com/course/spring-boot-dla-poczatkujacych/"
+    },
+    {
+      "title": "Desenvolvendo sistemas baseados em eventos",
+      "url": "https://www.udemy.com/course/desenvolvendo-sistemas-baseados-em-eventos/"
+    },
+    {
+      "title": "軟體工程兩三事",
+      "url": "https://www.udemy.com/course/softengine/"
+    },
+    {
+      "title": "Créer votre cryptomonnaie grâce aux tokens ERC-20 sur ETH!",
+      "url": "https://www.udemy.com/course/creer-votre-propre-cryptomonnaie-grace-aux-tokens-erc-20/"
+    },
+    {
+      "title": "Java Collections Framework + Generics, Lambdas & Stream API",
+      "url": "https://www.udemy.com/course/java-collections-framework-learnit/"
+    },
+    {
+      "title": "تعلم مبادئ الأجايل Agile Fundamentals",
+      "url": "https://www.udemy.com/course/agile-arabic/"
+    },
+    {
+      "title": "Python in Desktop Apps by Arabic",
+      "url": "https://www.udemy.com/course/python-desktop/"
+    },
+    {
+      "title": "JPA Hibernate ORM层开发教程",
+      "url": "https://www.udemy.com/course/jpa-hibernate-orm/"
+    },
+    {
+      "title": "Aplica Principios SOLID y diseña software sólido y escalable",
+      "url": "https://www.udemy.com/course/principios-solid-software-calidad/"
+    },
+    {
+      "title": "ESP32 ile MicroPython Programlama",
+      "url": "https://www.udemy.com/course/esp32-ve-micropython-ile-programlama/"
+    },
+    {
+      "title": "Spring ile Kurumsal Uygulama Geliştirme: AOP",
+      "url": "https://www.udemy.com/course/spring-ile-kurumsal-uygulama-gelistirme-aop/"
+    },
+    {
+      "title": "Data Analytics em Gestão em TI / Engenharia de Software",
+      "url": "https://www.udemy.com/course/analise-de-kpi-e-gestao-em-ti-engenharia-de-software/"
+    },
+    {
+      "title": "Creare Cloud Ready App con Spring Cloud, Docker e Kubernetes",
+      "url": "https://www.udemy.com/course/creare-cloud-ready-app-con-spring-cloud-docker-e-kubernetes/"
+    },
+    {
+      "title": "C/C++ für Ingenieure (Teil 2 - C++)",
+      "url": "https://www.udemy.com/course/cc-fur-ingenieure-teil-2-c/"
+    },
+    {
+      "title": "Desarrollando Mi Sistema Punto de Venta (C# y SQL Server)",
+      "url": "https://www.udemy.com/course/desarrollando-mi-sistema-punto-de-venta-csharp-y-sql-server/"
+    },
+    {
+      "title": "ROS Uygulamaları | WEB GUI",
+      "url": "https://www.udemy.com/course/ros-uygulamalar-web-gui-interface/"
+    },
+    {
+      "title": "Docker em um Guia Essencial e Prático para Desenvolvedores",
+      "url": "https://www.udemy.com/course/construa-ambientes-de-desenvolvimento-com-docker/"
+    },
+    {
+      "title": "CRUD con CakePHP y Subida de Imágenes: Curso Rápido 1 HORA",
+      "url": "https://www.udemy.com/course/aplicacion-web-crud-con-cakephp/"
+    },
+    {
+      "title": "webMethods بالعربي",
+      "url": "https://www.udemy.com/course/webmethods-arabic/"
+    },
+    {
+      "title": "Windev et Database MySQL en accès distant | Guide complet",
+      "url": "https://www.udemy.com/course/windev-et-database-mysql-en-acces-distant-guide-complet/"
+    },
+    {
+      "title": "ADO.NET Eğitim Videosu Serisi",
+      "url": "https://www.udemy.com/course/adonet-egitim-videosu-serisi/"
+    },
+    {
+      "title": "Aprenda a criar RESTful API com Django Rest - SEM ENROLAÇÃO",
+      "url": "https://www.udemy.com/course/construa-poderosas-restful-apis-com-django-rest-framework/"
+    },
+    {
+      "title": "나도코딩의 ChatGPT 풀코스: 생성형 AI, 프롬프트 엔지니어링, OpenAI API 완전 정복",
+      "url": "https://www.udemy.com/course/nadocoding-chatgpt/"
+    },
+    {
+      "title": "UiPath - Die Grundlagen der RPA Entwicklung",
+      "url": "https://www.udemy.com/course/uipath-die-grundlagen-der-rpa-entwicklung/"
+    },
+    {
+      "title": "Kotlin e SOLID: Construindo Aplicações de Qualidade",
+      "url": "https://www.udemy.com/course/kotlin-e-solid-construindo-aplicacoes-de-qualidade/"
+    },
+    {
+      "title": "Solid Prensipleri ve Katmanlı Mimari Temelleri (C#)",
+      "url": "https://www.udemy.com/course/solid-prensipleri-ve-katmanli-mimari-temelleri-c-sharp/"
+    },
+    {
+      "title": "PT-BR - Spigot Plugin para Minecraft Edição Java",
+      "url": "https://www.udemy.com/course/spigotplugin/"
+    },
+    {
+      "title": "C# ile Blockchain Kodlama",
+      "url": "https://www.udemy.com/course/csharp-ile-blockchain-kodlama/"
+    },
+    {
+      "title": "Markdown für Einsteiger",
+      "url": "https://www.udemy.com/course/markdown-kurs/"
+    },
+    {
+      "title": "Desenvolvendo Aplicações com API do GPT: 4 Projetos Práticos",
+      "url": "https://www.udemy.com/course/desenvolvendo-aplicacoes-com-api-do-gpt-4-projetos-praticos/"
+    },
+    {
+      "title": "Cusro Gamer Hacker Programação e Cheats2",
+      "url": "https://www.udemy.com/course/cusro-gamer-hacker-programacao-e-cheats2/"
+    },
+    {
+      "title": "Aprenda Design Patterns com Java",
+      "url": "https://www.udemy.com/course/aprenda-desing-patterns-com-java/"
+    },
+    {
+      "title": "Utilizando Clean Architecture DDD e TDD com Django e Flask",
+      "url": "https://www.udemy.com/course/utilizando-clean-architecture-ddd-e-tdd-com-django-e-flask/"
+    },
+    {
+      "title": "Domine a Mensageria com RabbitMQ e NodeJS",
+      "url": "https://www.udemy.com/course/domine-a-mensageria-com-rabbitmq-para-apps-e-microservices/"
+    },
+    {
+      "title": "Sıfırdan Go (Golang) Programlama Dili ve MySQL Öğrenin",
+      "url": "https://www.udemy.com/course/golang-ile-programlamaya-giris/"
+    },
+    {
+      "title": "Java Spring Framework 6, Spring Boot 3, Spring AI Telusko",
+      "url": "https://www.udemy.com/course/spring-5-with-spring-boot-2/"
+    },
+    {
+      "title": "Microservice Architecture Öğrenelim (Başlangıç seviyesi)",
+      "url": "https://www.udemy.com/course/microservice-architecture-ogrenelim/"
+    },
+    {
+      "title": "Yapay Zeka İle Yazılım Geliştirme - Mobil Uygulama",
+      "url": "https://www.udemy.com/course/yapay-zeka-ile-yazlm-gelistirme-mobil-uygulama/"
+    },
+    {
+      "title": "Как улучшить Enterprise архитектуру при помощи CQRS",
+      "url": "https://www.udemy.com/course/cqrs-architecture-csharp-ru/"
+    },
+    {
+      "title": "Exception Handling, DotNet Logging, Serilog With C#",
+      "url": "https://www.udemy.com/course/exception-handling-dotnet-logging-serilog-with-c/"
+    },
+    {
+      "title": "Projekt Praktyczny - Spring Boot + Angular + Docker",
+      "url": "https://www.udemy.com/course/projekt-praktyczny-spring-boot-angular-docker/"
+    },
+    {
+      "title": "Entwicklung eines KI-gestützten Sprachassistenten mit Python",
+      "url": "https://www.udemy.com/course/ki-sprachassistent/"
+    },
+    {
+      "title": "C# İle Geleceğin Yazılımcıları",
+      "url": "https://www.udemy.com/course/c-ile-gelecegin-yazlmclar/"
+    },
+    {
+      "title": "Assembler - Ein einfacher Crashkurs",
+      "url": "https://www.udemy.com/course/assembler/"
+    },
+    {
+      "title": "Arduino passo dopo passo",
+      "url": "https://www.udemy.com/course/arduino-passo-dopo-passo/"
+    },
+    {
+      "title": "系統分析與設計：化繁為簡的藝術",
+      "url": "https://www.udemy.com/course/cpfxjdae/"
+    },
+    {
+      "title": "Entity Framework Eğitim Videosu Serisi",
+      "url": "https://www.udemy.com/course/entity-framework-egitim-videosu-serisi/"
+    },
+    {
+      "title": "Adaptive Software Development LifeCycle (Arabic)",
+      "url": "https://www.udemy.com/course/agile-tm/"
+    },
+    {
+      "title": "Quarkus Framework - Desenvolva Microserviços Supersônicos",
+      "url": "https://www.udemy.com/course/quarkus-framework-desenvolva-microservicos-supersonicos/"
+    },
+    {
+      "title": "A'dan Z'ye C# ile Tasarım Desenleri (Design Pattern)",
+      "url": "https://www.udemy.com/course/a-z-csharp-ile-tasarm-desenleri-design-pattern/"
+    },
+    {
+      "title": "Procedimientos almacenados en PostgreSQL (PL/PgSQL)",
+      "url": "https://www.udemy.com/course/procedimientos-almacenados-en-postgresql-plpgsql/"
+    },
+    {
+      "title": "Azure Ad : Authentification et Autorisation",
+      "url": "https://www.udemy.com/course/azure-ad-authentification-et-autorisation/"
+    },
+    {
+      "title": "Membangun Microservice dengan Spring Boot dan Spring Cloud",
+      "url": "https://www.udemy.com/course/membangun-microservice-dengan-spring-boot-dan-spring-cloud/"
+    },
+    {
+      "title": "AI Masterclass: C# ile 20 Yapay Zeka Entegrasyonu Part 2",
+      "url": "https://www.udemy.com/course/ai-masterclass-csharp-ile-20-yapay-zeka-entegrasyonu-part-2/"
+    },
+    {
+      "title": "Angular 19: Crea un sistema de recetas medicas - php - mysql",
+      "url": "https://www.udemy.com/course/angular-19-crea-un-sistema-de-recetas-medicas-php-mysql/"
+    },
+    {
+      "title": "Bootcamp Profesional de Python 2025",
+      "url": "https://www.udemy.com/course/bootcamp-profesional-python/"
+    },
+    {
+      "title": "TAEE Chapter 1: Autocad 2025 ile 2D Tasarım",
+      "url": "https://www.udemy.com/course/taee-chapter-1-autocad-2025-ile-2d-tasarm/"
+    },
+    {
+      "title": "Curso de STM32 para Iniciantes",
+      "url": "https://www.udemy.com/course/curso-de-stm32-para-iniciantes/"
+    },
+    {
+      "title": "Programação de CLP- DELTA + IHM",
+      "url": "https://www.udemy.com/course/programacao-de-clp-delta-ihm/"
+    },
+    {
+      "title": "Системы, основанные на знаниях",
+      "url": "https://www.udemy.com/course/drv_knowledge/"
+    },
+    {
+      "title": "Agile Mastery: Овладейте искусством управления проектами",
+      "url": "https://www.udemy.com/course/agile_scrum/"
+    },
+    {
+      "title": "SAP ABAP Programmierung auf einen Blick",
+      "url": "https://www.udemy.com/course/sap-abap-programmierung-auf-einen-blick-abap-report-sap-lernen-kurs/"
+    },
+    {
+      "title": "Erkenne die drei großen Probleme der Softwareentwicklung",
+      "url": "https://www.udemy.com/course/die-drei-grossen-probleme-der-softwareentwickung/"
+    },
+    {
+      "title": "User Stories Ágeis com IA e ChatGPT: Da Teoria à Pratica",
+      "url": "https://www.udemy.com/course/historias-de-usuario-aplicadas-ao-desenvolvimento-agil/"
+    },
+    {
+      "title": "Entwurfsmuster der Softwareentwicklung",
+      "url": "https://www.udemy.com/course/entwurfsmuster-der-softwareentwicklung/"
+    },
+    {
+      "title": "Основы Linux CLI",
+      "url": "https://www.udemy.com/course/igd_games_linux_cli_2025/"
+    },
+    {
+      "title": "Kubernetes +Istio + Knative Serving Eğitimi",
+      "url": "https://www.udemy.com/course/kubernetes-ckad-egitimi-istio-knative-serving/"
+    },
+    {
+      "title": "Python Selenium ile Tarayıcı Otomatize Etme",
+      "url": "https://www.udemy.com/course/selenium-bot/"
+    },
+    {
+      "title": "Arquitetura em Camadas com Java",
+      "url": "https://www.udemy.com/course/introducao-a-arquitetura-de-software-com-java/"
+    },
+    {
+      "title": "PROGRAMACIÓN DE BASE DE DATOS ORACLE CON JAVA JDBC",
+      "url": "https://www.udemy.com/course/java-jdbc-oracle/"
+    },
+    {
+      "title": "Design Patterns em C#",
+      "url": "https://www.udemy.com/course/design-patterns-gof/"
+    },
+    {
+      "title": "Dívida Técnica",
+      "url": "https://www.udemy.com/course/divida-tecnica/"
+    },
+    {
+      "title": "Бинарное дерево поиска. Полная теория с кодом",
+      "url": "https://www.udemy.com/course/cronis_bst/"
+    },
+    {
+      "title": "AI開発のナビゲーター　物体検知AI編",
+      "url": "https://www.udemy.com/course/tetsumag-objectdetection/"
+    },
+    {
+      "title": "16+ Saate Hızlandırılmış Sıfırdan C Kodlama Eğitimi",
+      "url": "https://www.udemy.com/course/16-saate-hzlandrlms-sfrdan-c-kodlama-egitimi/"
+    },
+    {
+      "title": "分布式系统与使用Java进行云计算",
+      "url": "https://www.udemy.com/course/distributed-systems-cloud-computing-with-java-chinese/"
+    },
+    {
+      "title": "Máster en Semantic Kernel creando proyectos",
+      "url": "https://www.udemy.com/course/master-semantic-kernel/"
+    },
+    {
+      "title": "ROS Level 2 : Simulation & Hardware Implementation for SLAM",
+      "url": "https://www.udemy.com/course/ros-level2-muhammadasem/"
+    },
+    {
+      "title": "Ansys & Lsdyna Explicit Dynamics-التحليل الديناميكي المتقدم",
+      "url": "https://www.udemy.com/course/ansys-explicit-dynamics/"
+    },
+    {
+      "title": "PLC Allen Bradley Micro800 con CCW como Experto.",
+      "url": "https://www.udemy.com/course/programacion-plc-micro800-con-ccw/"
+    },
+    {
+      "title": "领域驱动设计精粹",
+      "url": "https://www.udemy.com/course/adzypirc/"
+    },
+    {
+      "title": "Blockchain nedir ? Nasıl yazılır? Sırları ve tüm altyapısı..",
+      "url": "https://www.udemy.com/course/blockchain-nedir-nasl-yazlr-srlar-ve-tum-altyaps/"
+    },
+    {
+      "title": "Domain-Driven Design'ı Uygulamalı Öğrenelim",
+      "url": "https://www.udemy.com/course/domain-driven-design-uygulamali-ogrenelim/"
+    },
+    {
+      "title": "C# .Net6 morderne application de bureau (1ere Partie)",
+      "url": "https://www.udemy.com/course/c-net6-morderne-application-de-bureau-1ere-partie/"
+    },
+    {
+      "title": "Master en Spring WebFlux y Programación Reactiva",
+      "url": "https://www.udemy.com/course/master-en-spring-webflux-y-programacion-reactiva/"
+    },
+    {
+      "title": "Curso de POO Completo com C#",
+      "url": "https://www.udemy.com/course/aprenda-poo-com-c-net-60-visualstudio-code/"
+    },
+    {
+      "title": "Aplicaciones con ASP .NET 5 MVC, D3, SQL Server, .NET 6",
+      "url": "https://www.udemy.com/course/desarrollo-de-aplicaciones-con-asp-net-core-mvc/"
+    },
+    {
+      "title": "Mastering Go: From Basics to Advanced",
+      "url": "https://www.udemy.com/course/mastering-go-from-basics-to-advanced/"
+    },
+    {
+      "title": "Primavera P6 Advanced (Risks,WPs,Constrains & More) Arabic",
+      "url": "https://www.udemy.com/course/p6-advanced-arabic/"
+    },
+    {
+      "title": "微服务从0到1：宏观概览与基础知识入门",
+      "url": "https://www.udemy.com/course/01-uisko/"
+    },
+    {
+      "title": "Claude Codeと音声入力を活用したDiscord Bot開発講座 〜タスクを自動化するバイブコーディング〜",
+      "url": "https://www.udemy.com/course/claude-code-discord-bot/"
+    },
+    {
+      "title": "JUnit avanzado con Mockito y pruebas parametrizadas",
+      "url": "https://www.udemy.com/course/unit-testing-avanzado/"
+    },
+    {
+      "title": "Создание графических интерфейсов (GUI) в Python",
+      "url": "https://www.udemy.com/course/pyqt5-vh/"
+    },
+    {
+      "title": "Erstelle einen Krypto Ticker mit Arduino ESP32/ESP8266",
+      "url": "https://www.udemy.com/course/krypto-ticker-mit-arduino/"
+    },
+    {
+      "title": "Learn Electronic Concepts in Hindi",
+      "url": "https://www.udemy.com/course/learn-electronic-concepts-in-hindi/"
+    },
+    {
+      "title": "Raspberry Pi: 18 Sensör, 9 Proje ile Kodlamaya Başla!",
+      "url": "https://www.udemy.com/course/raspberry-pi-18-sensor-8-proje-ile-kodlamaya-basla/"
+    },
+    {
+      "title": "Crashkurs: ABB RobotStudio verstehen und einsetzen",
+      "url": "https://www.udemy.com/course/abb-robotstudio-beginner/"
+    },
+    {
+      "title": "Шаблоны проектирования. Design patterns tutorial.",
+      "url": "https://www.udemy.com/course/design-patterns-cj/"
+    },
+    {
+      "title": "Maîtrisez le Clean Code : Devenez un Développeur d'Élite",
+      "url": "https://www.udemy.com/course/maitrisez-le-clean-code-devenez-un-developpeur-d-elite/"
+    },
+    {
+      "title": "Arquitectura SOA - Principios Fundamentales.",
+      "url": "https://www.udemy.com/course/arquitectura-soa-principios-fundamentales/"
+    },
+    {
+      "title": "Cursor, WindSurf&GitHub Copilot ile Web dev+ Test Otomasyonu",
+      "url": "https://www.udemy.com/course/cursor-windsurfgithub-copilot-ile-web-dev-test-otomasyonu/"
+    },
+    {
+      "title": "NextJS(React)|.NET 8 ile E-Ticaret | Canlıya Alma Dahil-2025",
+      "url": "https://www.udemy.com/course/nextjs-net8-fullstack-eticaret-kursu-2025/"
+    },
+    {
+      "title": "ServiceNow CSA System Administrator",
+      "url": "https://www.udemy.com/course/systemadministrator/"
+    },
+    {
+      "title": "Electronica automotriz en banco",
+      "url": "https://www.udemy.com/course/aprende-a-conectar-tu-computadora-automotriz/"
+    },
+    {
+      "title": "Programowanie współbieżne. Podstawy",
+      "url": "https://www.udemy.com/course/programowanie-wspobiezne-podstawy/"
+    },
+    {
+      "title": "DevOps Grundlagen kompakt",
+      "url": "https://www.udemy.com/course/devops-grundlagen-kompakt/"
+    },
+    {
+      "title": "Aplikasi CRUD News dengan Flutter dan Database MySQL",
+      "url": "https://www.udemy.com/course/aplikasi-crud-news-dengan-flutter-dan-database-mysql/"
+    },
+    {
+      "title": "Bootcamp z Programowania w Pythonie 3 (2025)",
+      "url": "https://www.udemy.com/course/bootcamp-programowanie-python/"
+    },
+    {
+      "title": "Sysmac Studio ile Omron PLC Programlama (2)",
+      "url": "https://www.udemy.com/course/sysmac-studio-ile-omron-plc-programlama-2/"
+    },
+    {
+      "title": "FreeRTOS com Arduino para iniciantes",
+      "url": "https://www.udemy.com/course/freertos-com-arduino-para-iniciantes/"
+    },
+    {
+      "title": "TAEE Chapter 2: Autocad 2025 ile 3D Çizim",
+      "url": "https://www.udemy.com/course/taee-chapter-2-autocad-2025-ile-3d-cizim/"
+    },
+    {
+      "title": "Instrumentasi Sistem dan Aplikasi Untuk Software Engineer",
+      "url": "https://www.udemy.com/course/instrumentasi-sistem-dan-aplikasi-untuk-software-engineer/"
+    },
+    {
+      "title": "Formação Ágil: Fundamentos de Scrum",
+      "url": "https://www.udemy.com/course/formacao-agile-scrum-foundations/"
+    },
+    {
+      "title": "Argo CD and GitOps on Kubernetes master class (Arabic)",
+      "url": "https://www.udemy.com/course/argo-cd-and-gitops-on-kubernetes-master-class-arabic/"
+    },
+    {
+      "title": "【リーダブルコード】Javaで学ぶクリーンコード！Java特有のルールを豊富なサンプルコードとintellijで学ぶ",
+      "url": "https://www.udemy.com/course/java-readable-code/"
+    },
+    {
+      "title": "Dev De Destaque",
+      "url": "https://www.udemy.com/course/dev-de-destaque/"
+    },
+    {
+      "title": "Excel VBA Programmierung - Einsteigerkurs",
+      "url": "https://www.udemy.com/course/excel-vba-programmierung-grundkurs/"
+    },
+    {
+      "title": "Sistemas de Pagos con PHP, MySql, JavaScript y MVC.",
+      "url": "https://www.udemy.com/course/crea-sistemas-de-pagos-con-php-mysql-javascript-y-mvc/"
+    },
+    {
+      "title": "Computer Vision Course by Arabic",
+      "url": "https://www.udemy.com/course/computer-vision-course-by-arabic/"
+    },
+    {
+      "title": "Архитектура ПО: внедрение зависимостей на C#",
+      "url": "https://www.udemy.com/course/injection/"
+    },
+    {
+      "title": "いまからはじめる DevOps 入門講座 - DevOps の全体像と学びのロードマップを手に入れよう！",
+      "url": "https://www.udemy.com/course/getting-started-devops/"
+    },
+    {
+      "title": "【無料ではじめる】Gemini CLI x Vibe Coding入門 - プログラミング未経験から作れるマインドマップ",
+      "url": "https://www.udemy.com/course/gemini_cli_vibe_coding_mind_map/"
+    },
+    {
+      "title": "PLC Programming Masterclass: From Basics to Advance",
+      "url": "https://www.udemy.com/course/plc-programming-masterclass-from-basics-to-advance/"
+    },
+    {
+      "title": "９８３ｍの はじめてのオブジェクト指向　入門編",
+      "url": "https://www.udemy.com/course/983m-jgi/"
+    },
+    {
+      "title": "Arquitectura de software. Desarrolladores de èlite.",
+      "url": "https://www.udemy.com/course/arquitectura-de-software-solid-y-patrones-de-diseno/"
+    },
+    {
+      "title": ".Net Core Katmanlı Mimari ile Asp.Net Core Proje Geliştirme",
+      "url": "https://www.udemy.com/course/net-core-katmanli-mimari-ile-proje-gelistirme/"
+    },
+    {
+      "title": "Tests unitaires en Java avec JUnit, Mockito et PowerMock",
+      "url": "https://www.udemy.com/course/java_junit/"
+    },
+    {
+      "title": "Kotlin Android MVVM dan Android Jetpack Bahasa Indonesia",
+      "url": "https://www.udemy.com/course/kotlin-android-jetpack-bahasa-indonesia/"
+    },
+    {
+      "title": "【AI 자막】 Apache Kafka 시리즈 - Kafka Connect 실습으로 마스터하기!",
+      "url": "https://www.udemy.com/course/apache-kafka-series-kafka-connect-handson-learning-korean/"
+    },
+    {
+      "title": "C++ Veri Yapıları & Algoritmalar | C++ Data Structures",
+      "url": "https://www.udemy.com/course/veri-yapilari-cplusplus-yazilim-muhendisligi/"
+    },
+    {
+      "title": "Prompt Engineering 2.0 Masterclass: ChatGPT bis Video KI",
+      "url": "https://www.udemy.com/course/prompt-engineering-masterclass/"
+    },
+    {
+      "title": "图解轻松学：Docker与Kubernetes经典教程",
+      "url": "https://www.udemy.com/course/dockerkubernetes/"
+    },
+    {
+      "title": "JavaFx mit IntelliJ und mysql kurs",
+      "url": "https://www.udemy.com/course/autohaus-verwaltungsprojekt-mit-javafx-intellij-und-mysql/"
+    },
+    {
+      "title": "Clean Code: Testgetriebene Softwareentwicklung (TDD)",
+      "url": "https://www.udemy.com/course/clean-code-testgetriebene-softwareentwicklung-test-driven-development/"
+    },
+    {
+      "title": "Asistente Virtual con Python",
+      "url": "https://www.udemy.com/course/asistente-virtual-con-python/"
+    },
+    {
+      "title": "Java Swing İle A'dan Z'ye Gelişmiş Arayüz Tasarımı",
+      "url": "https://www.udemy.com/course/java-swing-ile-adan-zye-gelismis-arayuz-tasarm/"
+    },
+    {
+      "title": "Blockchain para todos: De Básico a Avanzado",
+      "url": "https://www.udemy.com/course/blockchain-para-todos-de-basico-a-avanzado/"
+    },
+    {
+      "title": "Curso De Jasperreports y Jaspersoft Studio Básico/Intermedio",
+      "url": "https://www.udemy.com/course/curso-de-jasperreport-nivel-java-8-jaspersoft-studio/"
+    },
+    {
+      "title": "基于Jenkins的微服务工程CI/CD流水线开发设计",
+      "url": "https://www.udemy.com/course/jenkinscicd-r/"
+    },
+    {
+      "title": "Criptografía en desarrollo de software",
+      "url": "https://www.udemy.com/course/criptografia-en-desarrollo-de-software/"
+    },
+    {
+      "title": "Azure Functions(Serverless) + .Net Core",
+      "url": "https://www.udemy.com/course/azure-functions-serverless/"
+    },
+    {
+      "title": "Desarrollo serverless con AWS - De cero a experimentado",
+      "url": "https://www.udemy.com/course/desarrollo-con-aws-de-cero-a-experimentado/"
+    },
+    {
+      "title": "OWASP Seguridad API Top 10 2021 + 2023 con Ejemplos en Java",
+      "url": "https://www.udemy.com/course/owasp-learnit-es/"
+    },
+    {
+      "title": "Comment Réaliser un module Odoo de A à Z ?",
+      "url": "https://www.udemy.com/course/comment-realiser-un-module-odoo-de-a-a-z/"
+    },
+    {
+      "title": "Creating Models and Generating Code with MATLAB/SIMULINK",
+      "url": "https://www.udemy.com/course/creating-models-and-generating-code-with-matlabsimulink/"
+    },
+    {
+      "title": "Einstieg in das Programmieren mit RISC-V Assembler",
+      "url": "https://www.udemy.com/course/programmieren-mit-risc-v-assembler/"
+    },
+    {
+      "title": "Embedded Linux Device Driver Eğitimi",
+      "url": "https://www.udemy.com/course/embedded-linux-egitimi/"
+    },
+    {
+      "title": "Kurs zur Einführung in die Informatik",
+      "url": "https://www.udemy.com/course/kurs-zur-einfuhrung-in-die-informatik/"
+    },
+    {
+      "title": "Thực chiến microservice với Spring Boot và Event Sourcing",
+      "url": "https://www.udemy.com/course/thuc-chien-microservice-voi-spring-boot-va-event-sourcing/"
+    },
+    {
+      "title": "Docker Master Kurs: In kürzester Zeit zum Docker-Profi",
+      "url": "https://www.udemy.com/course/docker-master-kurs/"
+    },
+    {
+      "title": "Git & GitHub",
+      "url": "https://www.udemy.com/course/git_github/"
+    },
+    {
+      "title": "vb.net初心者のためのファイル操作入門",
+      "url": "https://www.udemy.com/course/vbnet-file-manipulation/"
+    },
+    {
+      "title": "Curso de Patrones de Diseño de Clásicos",
+      "url": "https://www.udemy.com/course/patrones-de-diseno/"
+    },
+    {
+      "title": "เรียน Software Engineering ปูพื้นฐานสำหรับวิศวกรซอฟต์แวร์",
+      "url": "https://www.udemy.com/course/softwareengineer/"
+    },
+    {
+      "title": "caniasIQ ile İş Zekası",
+      "url": "https://www.udemy.com/course/caniasiq-ile-is-zekas/"
+    },
+    {
+      "title": "Profesyonel Git ve Github",
+      "url": "https://www.udemy.com/course/profesyonel-git-ve-github/"
+    },
+    {
+      "title": "Java, Spring Boot ile Microservice Geliştirme, Docker",
+      "url": "https://www.udemy.com/course/java-spring-boot-ile-microservice-gelistirme-docker/"
+    },
+    {
+      "title": "Tarihinden Günümüze Yapay Zekaya Giriş Eğitimi",
+      "url": "https://www.udemy.com/course/temelden-kavrayarak-kapsaml-yapay-zekaya-giris-egitimi/"
+    },
+    {
+      "title": "Software Testing für Beginner",
+      "url": "https://www.udemy.com/course/software-testing-fur-beginner/"
+    },
+    {
+      "title": "สร้างโปรแกรมขายสินค้าด้วย C# กับ Entity Framework Core",
+      "url": "https://www.udemy.com/course/csharp-pos-entity-framework-core/"
+    },
+    {
+      "title": "Python Bootcamp 100 Günde Sıfırdan Kodlama Becerileri Öğren",
+      "url": "https://www.udemy.com/course/python-bootcamp-sfrdan-100-gund-kodlama-oyrn/"
+    },
+    {
+      "title": "Belajar Scrum: Membangun Produk secara Efektif dengan Scrum",
+      "url": "https://www.udemy.com/course/membangun-produk-secara-efektif-dengan-scrum/"
+    },
+    {
+      "title": "【AI 자막】 C 와 C++ 를 사용하여 데이터 구조 및 알고리즘 마스터하기",
+      "url": "https://www.udemy.com/course/data-structures-algorithms-using-c-cpp-korean/"
+    },
+    {
+      "title": "Blockchain, Ethereum ,Stellar ve akıllı sözleşmeler",
+      "url": "https://www.udemy.com/course/blockchain-ethereum-stellar-ve-akll-sozlesmeler/"
+    },
+    {
+      "title": "Python Campus: In 14 Tagen zur eigenen KI mit Python",
+      "url": "https://www.udemy.com/course/python-campus/"
+    },
+    {
+      "title": "Курс по разработке приложений под OpenStack",
+      "url": "https://www.udemy.com/course/openstack-programming/"
+    },
+    {
+      "title": "Software Refactoring en Java",
+      "url": "https://www.udemy.com/course/software-refactoring-en-java/"
+    },
+    {
+      "title": "Veri Yapıları Eğitim Serisi",
+      "url": "https://www.udemy.com/course/veri-yapilari-egitim-serisi/"
+    },
+    {
+      "title": "Linguagem de programação MIPS Assembly",
+      "url": "https://www.udemy.com/course/mips-assembly/"
+    },
+    {
+      "title": "Spring Boot: Microservices, Cloud, Netflix Eureka e mais",
+      "url": "https://www.udemy.com/course/microservices-do-0-com-spring-cloud-netflix-eureka-e-mais/"
+    },
+    {
+      "title": "Efektif Java",
+      "url": "https://www.udemy.com/course/effective-java/"
+    },
+    {
+      "title": "Sıfırdan Algoritma ve Programlama Eğitimi",
+      "url": "https://www.udemy.com/course/sifirdan-algoritma-ve-programlama-egitimi/"
+    },
+    {
+      "title": "Clean Code Fundamentals In Arabic",
+      "url": "https://www.udemy.com/course/clean-code-fundamentals-in-arabic/"
+    },
+    {
+      "title": "Curso Fullstack Java y React - Curso practico",
+      "url": "https://www.udemy.com/course/curso-fullstack-java-y-react-curso-practico/"
+    },
+    {
+      "title": "Python と生成AI（GPT-4o）によるOCR実践~Streamlitによる業務効率化アプリの作成~",
+      "url": "https://www.udemy.com/course/python-gpt-ocr/"
+    },
+    {
+      "title": "Programación cuántica para programadores no cuánticos",
+      "url": "https://www.udemy.com/course/programacion-cuantica-para-programadores-no-cuanticos/"
+    },
+    {
+      "title": "كورس شامل في برمجة C: تعلم من الصفر إلى الإحتراف",
+      "url": "https://www.udemy.com/course/c-3acourses/"
+    },
+    {
+      "title": "C/C++ für Ingenieure (Teil 3 - Modernes C++)",
+      "url": "https://www.udemy.com/course/cc-fur-ingenieure-teil-3-c1114/"
+    },
+    {
+      "title": "Patrones de Diseño de Software en TypeScript Curso Práctico",
+      "url": "https://www.udemy.com/course/patrones-de-diseno-de-software-en-typescript/"
+    },
+    {
+      "title": "Estruturando uma Aplicação Desktop em C#",
+      "url": "https://www.udemy.com/course/estruturando-uma-aplicacao-desktop-em-c/"
+    },
+    {
+      "title": "क्लासिक डिज़ाइन पैटर्न का कोर्स",
+      "url": "https://www.udemy.com/course/design-patterns-hi/"
+    },
+    {
+      "title": "LLM y ChatGPT: Descubre el Poder de la IA Generativa",
+      "url": "https://www.udemy.com/course/llm-y-chatgpt-descubre-el-poder-de-la-ia-generativa/"
+    },
+    {
+      "title": "Algorithmen und Datenstrukturen in C#",
+      "url": "https://www.udemy.com/course/algorithmen-und-datenstrukturen-in-csharp/"
+    },
+    {
+      "title": "O Artesão de Software com C#",
+      "url": "https://www.udemy.com/course/o-artesao-de-software-com-csharp/"
+    },
+    {
+      "title": "Los primeros pasos para aprender SAPUI5",
+      "url": "https://www.udemy.com/course/los-primeros-pasos-para-aprender-sapui5/"
+    },
+    {
+      "title": "Curso Game Hacker Logicas de Cheats",
+      "url": "https://www.udemy.com/course/curso-game-hacker-logicas-de-cheats/"
+    },
+    {
+      "title": "【한글자막】 Java 를 활용한 분산 시스템 및 클라우드 컴퓨팅",
+      "url": "https://www.udemy.com/course/java-distributed-system/"
+    },
+    {
+      "title": "Principios SOLID: Fundamentos e Implementacion",
+      "url": "https://www.udemy.com/course/principios-solid-fundamentos-e-implementacion/"
+    },
+    {
+      "title": "微服務開發基礎：打造容器化 .NET 應用程式",
+      "url": "https://www.udemy.com/course/dotnet-docker/"
+    },
+    {
+      "title": "[日本語字幕] Python を使用した Elasticsearch 8 完全ガイド",
+      "url": "https://www.udemy.com/course/python-elasticsearch-8/"
+    },
+    {
+      "title": "SOLIDWORKS CAM - FRESAMENTO do básico ao profissional",
+      "url": "https://www.udemy.com/course/solidworks-cam-fresamento-do-basico-ao-profissional/"
+    },
+    {
+      "title": "DevOps: 基于Jenkins的CI/CD流水线实战",
+      "url": "https://www.udemy.com/course/devops-jenkinscicd/"
+    },
+    {
+      "title": "Spring Reactive: moderne REST Services mit WebFlux und Java",
+      "url": "https://www.udemy.com/course/reactive-spring/"
+    },
+    {
+      "title": "Teknik Interfacing Raspberry Pi dan Odoo",
+      "url": "https://www.udemy.com/course/teknik-interfacing-raspberry-pi-dan-odoo/"
+    },
+    {
+      "title": "ROS Basics I Course",
+      "url": "https://www.udemy.com/course/ros-diploma-ros-basics-i-course/"
+    },
+    {
+      "title": "Stateflow Design",
+      "url": "https://www.udemy.com/course/stateflow-design/"
+    },
+    {
+      "title": "Python. Estructuras de datos y algoritmos en Python",
+      "url": "https://www.udemy.com/course/estructuras-de-datos-y-algoritmos-en-python/"
+    },
+    {
+      "title": "GIT - Praktyczne wprowadzenie",
+      "url": "https://www.udemy.com/course/git-praktyczne-wprowadzenie/"
+    },
+    {
+      "title": "Patrones de Diseño de Software en C# - Curso Práctico",
+      "url": "https://www.udemy.com/course/patrones-de-diseno-de-software-en-c/"
+    },
+    {
+      "title": "Otomasyon Eğitimi ve Endüstriyel Haberleşme",
+      "url": "https://www.udemy.com/course/siemens-s7-1200-plc-ve-codesy-plc-programlama/"
+    },
+    {
+      "title": "AI时代架构师修炼之道：ChatGPT让架构师插上翅膀",
+      "url": "https://www.udemy.com/course/aichatgpt-a/"
+    },
+    {
+      "title": "Der große Arduino/ESP Bastelkurs",
+      "url": "https://www.udemy.com/course/der-groe-arduino-bastelkurs/"
+    },
+    {
+      "title": "Java avanzado: reactividad, concurrencia y patrones",
+      "url": "https://www.udemy.com/course/java-avanzado/"
+    },
+    {
+      "title": "GitHub Actions: CI/CD Süreçlerini Otomatikleştirin",
+      "url": "https://www.udemy.com/course/github-actions-cicd-sureclerini-otomatiklestirin/"
+    },
+    {
+      "title": "SISTEMA DE VENTAS E INVENTARIOS (C# y Microsoft SQL Server)",
+      "url": "https://www.udemy.com/course/sistema-de-ventas-e-inventarios-c-y-microsoft-sql-server/"
+    },
+    {
+      "title": "DevOps & DevSecOps mit Jenkins, Kubernetes, Terraform & AWS",
+      "url": "https://www.udemy.com/course/devops-devsecops-mit-jenkins-kubernetes-terraform-aws/"
+    },
+    {
+      "title": "Apache Kafka - From Beginner to Mastery",
+      "url": "https://www.udemy.com/course/apache-kafka-from-beginner-to-mastery/"
+    },
+    {
+      "title": "Data Structures + Algorithms in Python: In telugu (తెలుగులో)",
+      "url": "https://www.udemy.com/course/data-structures-algorithms-in-python-in-telugu/"
+    },
+    {
+      "title": "Cursor ile Proje Oluşturup GitLab CI/CD Entegrasyonu",
+      "url": "https://www.udemy.com/course/cursor-ile-proje-olusturup-gitlab-cicd-entegrasyonu/"
+    },
+    {
+      "title": "Governança de TI e Engenharia de Software (2025)",
+      "url": "https://www.udemy.com/course/ti-para-iniciante-governanca-em-ti-e-engenharia-de-software/"
+    },
+    {
+      "title": "Коллекция графов на C#",
+      "url": "https://www.udemy.com/course/collections/"
+    },
+    {
+      "title": "gRPC com Golang: Construa API e microserviços modernos",
+      "url": "https://www.udemy.com/course/grpc-com-golang-construa-api-e-microservicos-modernos/"
+    },
+    {
+      "title": "Corso di Design Patterns Classici",
+      "url": "https://www.udemy.com/course/design-patterns-it/"
+    },
+    {
+      "title": "《Solidity零基础》(2023新)-Web3全栈开发系列",
+      "url": "https://www.udemy.com/course/solidity-no-1/"
+    },
+    {
+      "title": "Rust para Blockchain: Aprenda a Construir do Zero! (2024)",
+      "url": "https://www.udemy.com/course/rust-para-blockchain-aprenda-a-construir-do-zero-2024/"
+    },
+    {
+      "title": "作者教 .NET MiniExcel",
+      "url": "https://www.udemy.com/course/miniexcel-tutorial/"
+    },
+    {
+      "title": "Software Refactoring en C#",
+      "url": "https://www.udemy.com/course/software-refactoring-csharp/"
+    },
+    {
+      "title": "WebRTC音视频技术教程-理论基础",
+      "url": "https://www.udemy.com/course/webrtc-a/"
+    },
+    {
+      "title": "Princípios SOLID em Python: Melhore seu código!",
+      "url": "https://www.udemy.com/course/solid-na-pratica-com-python/"
+    },
+    {
+      "title": "Lebendiges Software Design 2/3: Modulare Architektur",
+      "url": "https://www.udemy.com/course/modularer-entwurf-lebendiges-softwaredesign/"
+    },
+    {
+      "title": "Clean Code Regeln zum Loslegen (in Java)",
+      "url": "https://www.udemy.com/course/clean-code-kickstart/"
+    },
+    {
+      "title": "Kubernetes por un Guru de DevOps",
+      "url": "https://www.udemy.com/course/kubernetes-por-un-guru-de-devops/"
+    },
+    {
+      "title": "Mejores Prácticas de Seguridad en Aplicaciones Web",
+      "url": "https://www.udemy.com/course/mejores-practicas-seguridad-learnit/"
+    },
+    {
+      "title": "Arquitectura de Microservicios basada en Eventos con .NET",
+      "url": "https://www.udemy.com/course/arquitectura-de-microservicios-basada-en-eventos-con-net/"
+    },
+    {
+      "title": "MCP Server na Prática",
+      "url": "https://www.udemy.com/course/mcp-server-na-pratica/"
+    },
+    {
+      "title": "Lebendiges Software Design 1/3: Qualitativ Hochwertiger Code",
+      "url": "https://www.udemy.com/course/software-design-1-qualitativ-hochwertiger-code/"
+    },
+    {
+      "title": "Master SOLID Principles [Arabic]",
+      "url": "https://www.udemy.com/course/master-solid-principles-arabic/"
+    },
+    {
+      "title": "人気アプリのデータ構造を解説。専門用語をなるべく使わないデータベース設計解説でデータベース設計ができるようになる3時間",
+      "url": "https://www.udemy.com/course/think-data-structure/"
+    },
+    {
+      "title": "Curso Básico de Engenharia de Software para quem é Iniciante",
+      "url": "https://www.udemy.com/course/o-que-e-engenharia-de-software-aprenda-a-teoria-aqui/"
+    },
+    {
+      "title": "Autenticação Stateful e Stateless em Microsserviços",
+      "url": "https://www.udemy.com/course/autenticacao-stateful-stateless-microsservicos/"
+    },
+    {
+      "title": "ChatGPT ve GPT-4: OpenAI Python API ile Üretken Yapay Zeka",
+      "url": "https://www.udemy.com/course/openai-python-api/"
+    },
+    {
+      "title": "Simulink Basics Module",
+      "url": "https://www.udemy.com/course/simulink-basics-module/"
+    },
+    {
+      "title": "Sıfırdan, %100 Merkeziyetsiz(Web3) Uygulama Geliştirmek",
+      "url": "https://www.udemy.com/course/sfrdan-merkeziyetsiz-uygulama-gelistirmek/"
+    },
+    {
+      "title": "【한글자막】 Cloud Computing 소프트웨어 아키텍처 패턴 완성하기",
+      "url": "https://www.udemy.com/course/cloud-computing-software-architecture-patterns-korean/"
+    },
+    {
+      "title": "GPT Masterclass - Automatisiere ChatGPT mit eigenen GPTs!",
+      "url": "https://www.udemy.com/course/gpt-step-by-step-kurs-erstelle-dein-gpt-fur-chatgpt/"
+    },
+    {
+      "title": "Maitriser UML et JMERISE",
+      "url": "https://www.udemy.com/course/maitriser-uml-et-jmerise/"
+    },
+    {
+      "title": "Curso Sistema de Pedidos C# y MySQL",
+      "url": "https://www.udemy.com/course/sistema-de-pedidos-csharp-mysql/"
+    },
+    {
+      "title": "Curso Completo de C++: Aprende desde Cero",
+      "url": "https://www.udemy.com/course/curso-maestro-de-c-aprende-desde-cero/"
+    },
+    {
+      "title": "Projeto de Regularização Residencial",
+      "url": "https://www.udemy.com/course/projeto-de-regularizacao-residencial/"
+    },
+    {
+      "title": "Ansible for DevOps automation mastery (Arabic)",
+      "url": "https://www.udemy.com/course/ansible-for-devops-automation-mastery-arabic/"
+    },
+    {
+      "title": "x86/x64软件逆向分析入门",
+      "url": "https://www.udemy.com/course/x86x64rev/"
+    },
+    {
+      "title": "Node.js do Zero ao Profissional: Crie APIs Robustas",
+      "url": "https://www.udemy.com/course/nodejs-do-zero-ao-profissional-crie-apis-robustas/"
+    },
+    {
+      "title": "Docker: Conteinerizando uma Aplicação Web",
+      "url": "https://www.udemy.com/course/docker-conteinerizando-uma-aplicacao-web/"
+    },
+    {
+      "title": "GPU Programlama",
+      "url": "https://www.udemy.com/course/gpu-programlama/"
+    },
+    {
+      "title": "Smart Inception: Defina o software correto para seu cliente",
+      "url": "https://www.udemy.com/course/smart-inception/"
+    },
+    {
+      "title": "Mastering Git and GitHub Bootcamp (Hindi)",
+      "url": "https://www.udemy.com/course/mastering-git-and-github-bootcamp-hindi/"
+    },
+    {
+      "title": "C# Veri Yapıları & Algoritmalar | C# Data Structures",
+      "url": "https://www.udemy.com/course/veri-yapilari-algoritmalar-csharp/"
+    },
+    {
+      "title": "1% KI-Elite: Prompt Engineering 2.0 mit den neusten Methoden",
+      "url": "https://www.udemy.com/course/1-ki-elite-prompt-engineering-20-mit-den-neusten-methoden/"
+    },
+    {
+      "title": "Coder comme un pro grâce aux Design Patterns | Masterclass",
+      "url": "https://www.udemy.com/course/design-patterns-et-architecture-logicielle-pour-un-code-pro/"
+    },
+    {
+      "title": "Curso de Principios SOLID para desarrolladores C#",
+      "url": "https://www.udemy.com/course/principios-solid/"
+    },
+    {
+      "title": "Python で学ぶアルゴリズム とデータ構造（中級編）【丁寧な解説+Python 実装でアルゴリズム の基本を学習】",
+      "url": "https://www.udemy.com/course/python-algorithm-intermediate/"
+    },
+    {
+      "title": "تعلم الخوارزميات بطريقة عملية – شرح، كود، اسئلة مقابلات",
+      "url": "https://www.udemy.com/course/algorithm-py/"
+    },
+    {
+      "title": "Изучаем юнит-тестирование с NUnit на C#",
+      "url": "https://www.udemy.com/course/nunittesting-ru/"
+    },
+    {
+      "title": "Quarkus - Testes Unitários com JUnit 5",
+      "url": "https://www.udemy.com/course/quarkus-testes-unitarios-com-junit/"
+    },
+    {
+      "title": "FOTA Project Implementation Step by Step",
+      "url": "https://www.udemy.com/course/fota-project-implementation-step-by-step/"
+    },
+    {
+      "title": "Reguläre Ausdrücke (Regular Expressions) in Python",
+      "url": "https://www.udemy.com/course/regulaere-ausdruecke/"
+    },
+    {
+      "title": "認定 K8S アプリ開発者 (CKAD) 模擬試験 - 日本語",
+      "url": "https://www.udemy.com/course/kubernetes-app-developer-ckad-practice-tests/"
+    },
+    {
+      "title": "【バイブコーディング】ゲーム~フルスタックWebサービスまで！4つのサービスを作って学ぶ、実践Claude Code入門",
+      "url": "https://www.udemy.com/course/claude-code-vive-coding/"
+    },
+    {
+      "title": "NEXT JS 15+ Framework de Producción para ReactJS [2025]",
+      "url": "https://www.udemy.com/course/next-js-framework-de-produccion-para-reactjs/"
+    },
+    {
+      "title": "A'dan Z'ye Python Dersleri",
+      "url": "https://www.udemy.com/course/adan-zye-python-dersleri/"
+    },
+    {
+      "title": "Проектирование ПО по принципам SOLID и Connascence",
+      "url": "https://www.udemy.com/course/solid-connascence/"
+    },
+    {
+      "title": "现代大型系统的软件架构与设计",
+      "url": "https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems-chinese/"
+    },
+    {
+      "title": "AI와 함께 하는 효과적인 프로그래밍",
+      "url": "https://www.udemy.com/course/effective-ai-pair-programming/"
+    },
+    {
+      "title": "Algorytmy i Struktury Danych",
+      "url": "https://www.udemy.com/course/algorytmy-i-struktury-danych/"
+    },
+    {
+      "title": "Comienza con Airflow: Curso de Airflow desde cero",
+      "url": "https://www.udemy.com/course/comienza-con-airflow/"
+    },
+    {
+      "title": "Python Crashkurs für (Quer) Einsteiger",
+      "url": "https://www.udemy.com/course/python-crashkurs/"
+    },
+    {
+      "title": "สร้างโปรแกรมขายสินค้าด้วย Visual Basic .NET กับ EF 6",
+      "url": "https://www.udemy.com/course/visual-basic-net-pos-ef-6/"
+    },
+    {
+      "title": "CATIA V5 Grundkurs für Einsteiger",
+      "url": "https://www.udemy.com/course/catia-v5-grundkurs-fur-einsteiger/"
+    },
+    {
+      "title": "Estructuras de Datos y Algoritmos - Facil y Rapido - Python",
+      "url": "https://www.udemy.com/course/estructuras-de-datos-y-algoritmos/"
+    },
+    {
+      "title": "De Mortal a Programador - Fundamentos de Programación",
+      "url": "https://www.udemy.com/course/mortal-a-programador/"
+    },
+    {
+      "title": "Azure DevOps - Boards : planifiez votre travail",
+      "url": "https://www.udemy.com/course/azure-devops-boards-planifiez-votre-travail/"
+    },
+    {
+      "title": "Lambda Funktionen & List Comprehensions in Python",
+      "url": "https://www.udemy.com/course/lambda-funktionen-list-comprehensions-in-python/"
+    },
+    {
+      "title": "Clean Code Komplettkurs 2025: Moderne Programmierung",
+      "url": "https://www.udemy.com/course/clean-code-komplettkurs-2024/"
+    },
+    {
+      "title": "Lerne REST mit SpringBoot 2 in der Praxis (RESTful API)",
+      "url": "https://www.udemy.com/course/lerne-rest-mit-springboot-2-in-der-praxis/"
+    },
+    {
+      "title": "Apache Kafka Streams實時計算框架完全教程",
+      "url": "https://www.udemy.com/course/apache-kafka-streams/"
+    },
+    {
+      "title": "Domina ColdFusion con apps y juegos - Pack 1",
+      "url": "https://www.udemy.com/course/domina-coldfusion-con-apps-y-juegos-pack-1/"
+    },
+    {
+      "title": "PLC EĞİTİMİ ( GERÇEK PLC OLMADAN SİMİLASYON İLE) VE UYGULAMA",
+      "url": "https://www.udemy.com/course/sifirdan-plc-programlama-egitimi/"
+    },
+    {
+      "title": "STM32H7 ile Gömülü Yazılım Tasarımı",
+      "url": "https://www.udemy.com/course/stm32h7-ile-gomulu-yazlim-tasarim/"
+    },
+    {
+      "title": "Software Design Patterns 软件设计模式",
+      "url": "https://www.udemy.com/course/software-design-patterns-c/"
+    },
+    {
+      "title": "Entity Framework (EF) core Komplettkurs: Datenzugriff mit C#",
+      "url": "https://www.udemy.com/course/entity-framework-core-datenzugriff-mit-csharp/"
+    },
+    {
+      "title": "Dominando o Scrum: Tudo o que Você Precisa Saber",
+      "url": "https://www.udemy.com/course/dominando-o-scrum-tudo-o-que-voce-precisa-saber/"
+    },
+    {
+      "title": "Introducción a la programación con C# desde 0",
+      "url": "https://www.udemy.com/course/fundamentos-de-programacion-c-sharp/"
+    },
+    {
+      "title": "Estrutura de Dados",
+      "url": "https://www.udemy.com/course/estrutura-de-dados/"
+    },
+    {
+      "title": "JavaScript - Datenstrukturen und Algorithmen",
+      "url": "https://www.udemy.com/course/javascript-datenstrukturen-und-algorithmen/"
+    },
+    {
+      "title": "NESNELERİN İNTERNETİ (IOT) ESP8266 - PIC ve MicroPython",
+      "url": "https://www.udemy.com/course/mikro-c-ile-pic-arduino-ve-raspberry-pi-pico-programlama/"
+    },
+    {
+      "title": "Temel Kubernetes Nokta Atış Eğitimi",
+      "url": "https://www.udemy.com/course/certified-kubernetes-ckad-cka-nokta-ats-egitimi/"
+    },
+    {
+      "title": "Dependency Injection, Middleware, Assembly, Reflection in C#",
+      "url": "https://www.udemy.com/course/dependency-injection-middleware-assembly-reflection-in-csharp/"
+    },
+    {
+      "title": "Sıfırdan Windows Forms Öğrenin",
+      "url": "https://www.udemy.com/course/sfrdan-windows-forms-ogrenin/"
+    },
+    {
+      "title": "Docker für Softwareentwickler - Schnellstart für den Alltag",
+      "url": "https://www.udemy.com/course/docker-komplettkurs-fur-softwareentwickler/"
+    },
+    {
+      "title": "Programación en C# desde cero",
+      "url": "https://www.udemy.com/course/programacion-en-c-desde-cero/"
+    },
+    {
+      "title": "【한글자막】 마이크로서비스 및 이벤트 중심 아키텍처 완전 정복하기! (Microservices & EDA)",
+      "url": "https://www.udemy.com/course/the-complete-microservices-event-driven-architecture-korean/"
+    },
+    {
+      "title": "Torno CNC control GSK",
+      "url": "https://www.udemy.com/course/torno-cnc-control-gsk/"
+    },
+    {
+      "title": "Introdução ao LoRa",
+      "url": "https://www.udemy.com/course/introducao-ao-lora/"
+    },
+    {
+      "title": "OOP in Python - Masterclass",
+      "url": "https://www.udemy.com/course/oop-in-python-masterclass/"
+    },
+    {
+      "title": "智能体进化论：Agent智能体设计与实战|Agent开发 | 机器学习 | 强化学习 | 智能体设计| Python",
+      "url": "https://www.udemy.com/course/llm-agent/"
+    },
+    {
+      "title": "Mastering Data Structures & Algorithms using C and C++",
+      "url": "https://www.udemy.com/course/datastructurescncpp/"
+    },
+    {
+      "title": "2021 C++ | Sıfırdan Profesyonel Düzeyde Programlama Eğitimi",
+      "url": "https://www.udemy.com/course/programlama-dersi/"
+    },
+    {
+      "title": "Boas Práticas de Programação com SOLID e CleanCode",
+      "url": "https://www.udemy.com/course/boas-praticas-de-programacao-com-solid-e-cleancode/"
+    },
+    {
+      "title": "Spring Cloud 微服务项目开发",
+      "url": "https://www.udemy.com/course/spring-cloud/"
+    },
+    {
+      "title": "【AI 자막】 이벤트 기반 마이크로서비스 아키텍쳐: Spring Boot, Kafka, Elastic",
+      "url": "https://www.udemy.com/course/event-driven-microservices-spring-boot-kafka-and-elasticsearch-korean/"
+    },
+    {
+      "title": "Débuter avec Docker et Docker Compose en 2H de Pratique",
+      "url": "https://www.udemy.com/course/containeriser-une-application-springboot-avec-docker-en-1h/"
+    },
+    {
+      "title": "Clean PHP - Código de Calidad y Buenas Prácticas",
+      "url": "https://www.udemy.com/course/clean-php/"
+    },
+    {
+      "title": "NET8 Katmanlı Cache Sistemleri: Temel Prensipler ve Uygulama",
+      "url": "https://www.udemy.com/course/net-8-ile-katmanl-cache-sistemleri-temel-prensipler-ve-uyg/"
+    },
+    {
+      "title": "Criando API OData com C#, PostgreSQL e EntityFramework",
+      "url": "https://www.udemy.com/course/criando-api-odata-com-c-postgresql-e-entityframework/"
+    },
+    {
+      "title": "Knime - Analisis de datos y reportes",
+      "url": "https://www.udemy.com/course/knime-analisis-de-datos-y-reportes/"
+    },
+    {
+      "title": "Шахматы на C# и Unity",
+      "url": "https://www.udemy.com/course/chess-online/"
+    },
+    {
+      "title": "TAEE Chapter 3: EPAN P8 2.7, Elektrik Hesapları Pano",
+      "url": "https://www.udemy.com/course/taee-chapter-3-epan-p8-27-elektrik-hesaplar-pano/"
+    },
+    {
+      "title": "Guia prático do mochileiro freelancer",
+      "url": "https://www.udemy.com/course/guia-pratico-do-mochileiro-freelancer/"
+    },
+    {
+      "title": "WebSocket・STOMPとSpring Bootによるリアルタイムチャットアプリ開発入門講座",
+      "url": "https://www.udemy.com/course/websocketstompspring-boot/"
+    },
+    {
+      "title": "Coding e Pensiero Computazionale: le basi per programmare",
+      "url": "https://www.udemy.com/course/coding-e-pensiero-computazionale/"
+    },
+    {
+      "title": "دورة هندسة البرمجيات",
+      "url": "https://www.udemy.com/course/software_engineering_course/"
+    },
+    {
+      "title": "K8S - Kubernetes Administrator căn bản",
+      "url": "https://www.udemy.com/course/k8s-kubernetes-administrator-can-ban/"
+    },
+    {
+      "title": "Snowflake Data Warehouse: Desde lo Básico a lo Avanzado",
+      "url": "https://www.udemy.com/course/snowflake-data-warehouse-desde-lo-basico-a-lo-avanzado/"
+    },
+    {
+      "title": "WebRTC Dersleri",
+      "url": "https://www.udemy.com/course/webrtc-dersleri/"
+    },
+    {
+      "title": "演習！C言語　チーム開発も可能になる実力へ簡単にステップアップできる",
+      "url": "https://www.udemy.com/course/c-nultei/"
+    },
+    {
+      "title": "DevOps Certification Course",
+      "url": "https://www.udemy.com/course/devops-certification-course/"
+    },
+    {
+      "title": "【한글자막】 머신 러닝 & AI 로 추천 시스템 구축하기",
+      "url": "https://www.udemy.com/course/best-recommender-system/"
+    },
+    {
+      "title": "プログラムロジック設計講座",
+      "url": "https://www.udemy.com/course/problemanalysisdiagram/"
+    },
+    {
+      "title": "NX CAM - Torno CNC 2 1/2 eixos - Versão 2306",
+      "url": "https://www.udemy.com/course/nx-cam-torno-cnc-versao-2306/"
+    },
+    {
+      "title": "Desarrollo dApp para gestionar la trazabilidad con NFTs",
+      "url": "https://www.udemy.com/course/blockchain-supplychain-dapp/"
+    },
+    {
+      "title": "Crack the Coding Interview for Software Engineers [Arabic]",
+      "url": "https://www.udemy.com/course/crack-the-coding-interview-array/"
+    },
+    {
+      "title": "Yazılım Kalite Güvence Uzmanlığı Eğitimi: Temel Düzey",
+      "url": "https://www.udemy.com/course/yazlm-kalite-guvence-uzmanlg-egitimi-temel-duzey/"
+    },
+    {
+      "title": "Implementando um Circuit Breaker NA PRÁTICA",
+      "url": "https://www.udemy.com/course/implementando-um-circuit-breaker-na-pratica/"
+    },
+    {
+      "title": "System Analysis and Design [Arabic ] تحليل وتصميم النظم",
+      "url": "https://www.udemy.com/course/system-analysis-and-design-arabic/"
+    },
+    {
+      "title": "LangChain 技術藍圖 - 初探與核心精神 (上冊)",
+      "url": "https://www.udemy.com/course/langchain-w/"
+    },
+    {
+      "title": "NodeJs Avançado com TDD, Clean Architecture e Typescript",
+      "url": "https://www.udemy.com/course/nodejs-avancado/"
+    },
+    {
+      "title": "Software Testing kursuna ilk adim",
+      "url": "https://www.udemy.com/course/sdet-i-10-derste-ogrenin/"
+    }
+  ]
+}

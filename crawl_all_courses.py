@@ -21,8 +21,8 @@ OUTPUT_DIR = Path("Tutorials_ALL")
 OUTPUT_DIR.mkdir(exist_ok=True)
 DONE_FILE = Path("done_crawling.json")
 
-BATCH_SIZE = 12          # change to 10 (or any number) if you want bigger batches
-CONCURRENCY_LIMIT = 12   # how many browsers/pages open at once
+BATCH_SIZE = 20          # change if you want bigger batches
+CONCURRENCY_LIMIT = 20   # how many browsers/pages open at once
 SAVE_LOCK = asyncio.Lock()
 
 class Page: # ✅
@@ -110,10 +110,14 @@ def save_done_crawling_entry(main_category, sub_category, url): # ✅
     with open(DONE_FILE, "w", encoding="utf-8") as f:
         json.dump(done_list, f, indent=2, ensure_ascii=False)
 
-def is_already_crawled(url, done_list): # ✅
+def is_already_crawled(current_main, current_sub, url, done_list): # ✅
     for entry in done_list:
         if entry["url"] == url:
-            return  entry["main_category"], entry["sub_category"]
+            main =  entry["main_category"]
+            sub = entry["sub_category"]
+            if current_main == main and current_sub == sub: # just a safe check, in case a url in done_list and it is not crawled
+                break
+            else: return  main, sub
     return None, None
 
 def load_all_course_urls(): # ✅
@@ -335,7 +339,7 @@ async def crawl_multiple(targets, out_file, concurrency_limit=CONCURRENCY_LIMIT)
         tasks = [] 
         for m, s, u in targets:
             try:
-                crawled_main, crawled_sub = is_already_crawled(u, done_list) 
+                crawled_main, crawled_sub = is_already_crawled(m, s, u, done_list) 
                 if crawled_main != None:
                     course = {} 
                     print(f"✅ Already crawled in another category ({crawled_main}/{crawled_sub}): {u}") 
@@ -362,7 +366,7 @@ async def crawl_multiple(targets, out_file, concurrency_limit=CONCURRENCY_LIMIT)
 async def main(): # ✅
     all_urls = load_all_course_urls() # ✅
 
-    for (main_cat, subs) in list(all_urls.items())[8:]: # ✅
+    for (main_cat, subs) in list(all_urls.items()): # ✅
         for sub in subs: # ✅
             for sub_cat, urls in sub.items(): # ✅
 
@@ -403,5 +407,8 @@ async def main(): # ✅
                     print("✅ Batch finished")
 
 if __name__ == "__main__": # ✅
-    asyncio.run(main())
-    # remaining() # just uncomment this line if you want to know how many urls are remaining (don't forget to comment the asyncio.run(main()))
+    pass
+    # asyncio.run(main())
+
+    # just uncomment this line if you want to know how many urls are remaining (don't forget to comment the asyncio.run(main()))
+    # remaining()  

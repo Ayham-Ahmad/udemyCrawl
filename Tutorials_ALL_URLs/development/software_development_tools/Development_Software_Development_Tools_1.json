@@ -1,0 +1,2054 @@
+{
+  "main_category": "development",
+  "sub_category": "Software Development Tools",
+  "courses": [
+    {
+      "title": "The Complete Introduction to Azure Sentinel [SIEM]",
+      "url": "https://www.udemy.com/course/the-complete-introduction-to-azure-sentinel-siem/"
+    },
+    {
+      "title": "Edge Computing : Master the Next Frontier of Computing",
+      "url": "https://www.udemy.com/course/edge-computing/"
+    },
+    {
+      "title": "Git Going Fast: One Hour Git Crash Course",
+      "url": "https://www.udemy.com/course/git-going-fast/"
+    },
+    {
+      "title": "VSD - Circuit Design & SPICE Simulations - Part 1",
+      "url": "https://www.udemy.com/course/vlsi-academy-circuit-design/"
+    },
+    {
+      "title": "Introduction to Apache Spark for Developers and Engineers",
+      "url": "https://www.udemy.com/course/introduction-to-apache-spark-for-developers-and-engineers/"
+    },
+    {
+      "title": "Overcoming Fear Of Git",
+      "url": "https://www.udemy.com/course/overcoming-fear-of-git/"
+    },
+    {
+      "title": "Python in Microsoft Power BI to Enhance Reporting Power",
+      "url": "https://www.udemy.com/course/python-for-power-bi-users/"
+    },
+    {
+      "title": "Maven Crash Course: Step-by-Step Introduction for Beginners",
+      "url": "https://www.udemy.com/course/maven-crash-course/"
+    },
+    {
+      "title": "Introduction to Continuous Integration & Continuous Delivery",
+      "url": "https://www.udemy.com/course/introduction-to-continuous-integration-and-continuous-delivery/"
+    },
+    {
+      "title": "DevOps Tools: Optimizing The Software Development Lifecycle",
+      "url": "https://www.udemy.com/course/optimizing-the-software-development-lifecycle/"
+    },
+    {
+      "title": "Alteryx Designer Core Certification Mega Bundle",
+      "url": "https://www.udemy.com/course/alteryx-designer-core-certification-bootcamp/"
+    },
+    {
+      "title": "Git Crash Course for beginners",
+      "url": "https://www.udemy.com/course/git-for-begineers/"
+    },
+    {
+      "title": "Salesforce Lightning Component",
+      "url": "https://www.udemy.com/course/learn-lightning-components-from-scratch/"
+    },
+    {
+      "title": "The Complete Introduction to OpenFOAM",
+      "url": "https://www.udemy.com/course/the-complete-introduction-to-openfoam-with-solid-mechanics/"
+    },
+    {
+      "title": "Learn Open Cascade for Custom 3D App Development",
+      "url": "https://www.udemy.com/course/learn-open-cascade-for-custom-3d-app-development/"
+    },
+    {
+      "title": "How To Use The Revolution Slider Plugin 6.0 - FULL TUTORIAL",
+      "url": "https://www.udemy.com/course/how-to-use-the-revolution-slider-plugin-full-tutorial/"
+    },
+    {
+      "title": "Kubernetes + Docker Complete Course - 2 in 1 Hands On!",
+      "url": "https://www.udemy.com/course/kubernetes-tutorial/"
+    },
+    {
+      "title": "Essential Git - All You Need to Know to Use Git Effectively",
+      "url": "https://www.udemy.com/course/essential-git-course/"
+    },
+    {
+      "title": "Git with Visual Studio Code",
+      "url": "https://www.udemy.com/course/git-with-visual-studio-code/"
+    },
+    {
+      "title": "Composer - The Ultimate Guide for PHP Dependency Management",
+      "url": "https://www.udemy.com/course/composer-php-dependency-manager/"
+    },
+    {
+      "title": "Salesforce Lightning Flow Builder: Automate Business Process",
+      "url": "https://www.udemy.com/course/salesforce-lightning-flow-builder1/"
+    },
+    {
+      "title": "Vim for Ruby Developers",
+      "url": "https://www.udemy.com/course/vim-training-course-ruby-developers/"
+    },
+    {
+      "title": "Master Network Automation with Python for Network Engineers",
+      "url": "https://www.udemy.com/course/master-python-network-automation-for-network-engineers/"
+    },
+    {
+      "title": "Linux - The Complete Linux Guide",
+      "url": "https://www.udemy.com/course/linux-complete/"
+    },
+    {
+      "title": "From DevOps to Platform Engineering: Master Backstage & IDPs",
+      "url": "https://www.udemy.com/course/from-devops-to-platform-engineering-master-backstage-idps/"
+    },
+    {
+      "title": "DevOps Toolkit: Learn Kubernetes with Practical Exercises!",
+      "url": "https://www.udemy.com/course/learn-kubernetes-using-google-cloud-gcp-kubernetes-engine/"
+    },
+    {
+      "title": "Entity Framework : A Comprehensive Course",
+      "url": "https://www.udemy.com/course/entity-framework-a-comprehensive-course/"
+    },
+    {
+      "title": "Vagrant for DevOps",
+      "url": "https://www.udemy.com/course/vagrant-basics-for-absolute-beginners/"
+    },
+    {
+      "title": "Talend Open studio ,database ,warehouse course by mahesh",
+      "url": "https://www.udemy.com/course/open-source-etl-tool/"
+    },
+    {
+      "title": "Learn Jira with real-world examples (+Confluence bonus)",
+      "url": "https://www.udemy.com/course/the-complete-guide-to-jira-with-real-world-examples/"
+    },
+    {
+      "title": "Postman Course - Rest API Testing and Development",
+      "url": "https://www.udemy.com/course/fundamentals-of-postman/"
+    },
+    {
+      "title": "Google Maps JavaScript API - Complete Training",
+      "url": "https://www.udemy.com/course/google-maps-javascript-api-for-beginners/"
+    },
+    {
+      "title": "The Git & Github Bootcamp: Master Git In 2025",
+      "url": "https://www.udemy.com/course/git-and-github-a-practical-course-beginner-to-advanced/"
+    },
+    {
+      "title": "Complete CMake Project Management [2024]",
+      "url": "https://www.udemy.com/course/complete-cmake-project-management/"
+    },
+    {
+      "title": "Crystal Agile Framework : A Complete Guide",
+      "url": "https://www.udemy.com/course/crystal-agile-framework-a-complete-guide/"
+    },
+    {
+      "title": "Leading Agile Teams with Jira Software Cloud",
+      "url": "https://www.udemy.com/course/leading-agile-teams-with-jira-software-cloud/"
+    },
+    {
+      "title": "Learn the Art and Science of PCB Design with Eagle",
+      "url": "https://www.udemy.com/course/pcb-design-with-eagle/"
+    },
+    {
+      "title": ".NET Core Microservices",
+      "url": "https://www.udemy.com/course/net-core-microservices/"
+    },
+    {
+      "title": "Step by Step Alexa Skill Development",
+      "url": "https://www.udemy.com/course/step-by-step-alexa-skill-development/"
+    },
+    {
+      "title": "More than Certified in Terraform 2025",
+      "url": "https://www.udemy.com/course/terraform-certified/"
+    },
+    {
+      "title": "Kubernetes and Docker: The Container Masterclass",
+      "url": "https://www.udemy.com/course/container-masterclass-with-docker-and-kubernetes/"
+    },
+    {
+      "title": "Perforce (Helix Core): A Full Step By Step Guide - Hands On!",
+      "url": "https://www.udemy.com/course/perforce/"
+    },
+    {
+      "title": "Fivetran Bootcamp : Zero to Mastery 2024",
+      "url": "https://www.udemy.com/course/fivetran-bootcamp-zero-to-mastery-2022/"
+    },
+    {
+      "title": "Complete Course on Data Visualization, Matplotlib and Python",
+      "url": "https://www.udemy.com/course/complete-course-on-data-visualization-matplotlib-and-python/"
+    },
+    {
+      "title": "Introduction to using Git",
+      "url": "https://www.udemy.com/course/git-course/"
+    },
+    {
+      "title": "Practice Test Oracle Database SQL 1Z0-071",
+      "url": "https://www.udemy.com/course/practice-test-oracle-certified-associate-1z0-071/"
+    },
+    {
+      "title": "TeamCity: continuous integration & DevOps with Java and .NET",
+      "url": "https://www.udemy.com/course/teamcity-learn-continuous-integration-jetbrains-teamcity-tutorial/"
+    },
+    {
+      "title": "Salesforce CRM Analytics (Tableau CRM/Einstein Analytics)",
+      "url": "https://www.udemy.com/course/salesforce-crm-analytics-tableau-crm-einstein-analytics/"
+    },
+    {
+      "title": "Create Custom Connectors using Mule",
+      "url": "https://www.udemy.com/course/mule-custom-connectors/"
+    },
+    {
+      "title": "Learn CI/CD YAML pipelines with Azure DevOps",
+      "url": "https://www.udemy.com/course/learn-cicd-yaml-pipelines-with-azure-devops/"
+    },
+    {
+      "title": "Docker & Kubernetes: The Complete Practical Guide",
+      "url": "https://www.udemy.com/course/docker-complete/"
+    },
+    {
+      "title": "Git Complete Hands on Training for Web Developers",
+      "url": "https://www.udemy.com/course/git-version-control-training/"
+    },
+    {
+      "title": "Computer Science 101 - Computers & Programming for Beginners",
+      "url": "https://www.udemy.com/course/computer-science-101-computers-programming-for-beginners/"
+    },
+    {
+      "title": "ChatGPT Masterclass for Programmers and Software Engineers",
+      "url": "https://www.udemy.com/course/chatgpt-masterclass-for-programmers-and-software-engineers/"
+    },
+    {
+      "title": "OpenShift, Docker & Kubernetes - Perfect Container Platform",
+      "url": "https://www.udemy.com/course/hands-on-guide-to-openshift-container-application-platform/"
+    },
+    {
+      "title": "Swagger OpenAPI Fundamentals",
+      "url": "https://www.udemy.com/course/swagger-tools-openapi/"
+    },
+    {
+      "title": "Learn DevOps: Scaling apps On-Premises and in the Cloud",
+      "url": "https://www.udemy.com/course/learn-devops-scaling-apps-on-premise-and-in-the-cloud/"
+    },
+    {
+      "title": "Docker for Node.js Projects From a Docker Captain",
+      "url": "https://www.udemy.com/course/docker-mastery-for-nodejs/"
+    },
+    {
+      "title": "Salesforce Lightning: Learn about Salesforce Lightning",
+      "url": "https://www.udemy.com/course/salesforce-lightning-ui/"
+    },
+    {
+      "title": "PowerShell For Beginners",
+      "url": "https://www.udemy.com/course/powershell-for-beginners/"
+    },
+    {
+      "title": "Learn Teradata: A Beginner to Advanced Guide",
+      "url": "https://www.udemy.com/course/learn-teradata-a-beginner-to-advanced-guide/"
+    },
+    {
+      "title": "Chaos Engineering using Azure Chaos Studio",
+      "url": "https://www.udemy.com/course/chaos-engineering-studio/"
+    },
+    {
+      "title": "Software Containerization with Docker and Portainer -2023",
+      "url": "https://www.udemy.com/course/software-containerization-with-docker-virtualization/"
+    },
+    {
+      "title": "Learn Python Debugging With PyCharm IDE",
+      "url": "https://www.udemy.com/course/learn-python-debugging-with-pycharm-ide/"
+    },
+    {
+      "title": "Apache Spark 2.0 with Java -Learn Spark from a Big Data Guru",
+      "url": "https://www.udemy.com/course/apache-spark-course-with-java/"
+    },
+    {
+      "title": "Process Automation: Learn Requirements, Use Cases, Camunda",
+      "url": "https://www.udemy.com/course/camunda-intro/"
+    },
+    {
+      "title": "DevOps: CI/CD with Jenkins pipelines, Maven, Gradle",
+      "url": "https://www.udemy.com/course/devops-and-continuous-integration-with-jenkins-pipelines/"
+    },
+    {
+      "title": "CI/CD with Databricks Asset Bundles (DAB)",
+      "url": "https://www.udemy.com/course/cicd-with-databricks-asset-bundles/"
+    },
+    {
+      "title": "ChatGPT for Programmers: Build Python Apps in Seconds",
+      "url": "https://www.udemy.com/course/chatgpt-for-programmers/"
+    },
+    {
+      "title": "Jira Essentials 2025 | Complete Guide for Beginners",
+      "url": "https://www.udemy.com/course/jira-essentials/"
+    },
+    {
+      "title": "Complete Microsoft PowerApps Bootcamp : Beginner to Pro",
+      "url": "https://www.udemy.com/course/the-complete-microsoft-power-apps-bootcamp-beginner-to-pro/"
+    },
+    {
+      "title": "IntelliJ IDEA Mastery: Essential Skills for Developers",
+      "url": "https://www.udemy.com/course/intellij-idea-mastery-essential-skills-for-developers/"
+    },
+    {
+      "title": "Learn JIRA Quickly - Enhance your resume, Move Ahead!",
+      "url": "https://www.udemy.com/course/learn-jira-quickly/"
+    },
+    {
+      "title": "Learning Git - A Beginners Git Course From Infinite Skills",
+      "url": "https://www.udemy.com/course/learning-git/"
+    },
+    {
+      "title": "Fundamentals of Watson Analytics",
+      "url": "https://www.udemy.com/course/fundamentals-of-watson-analytics/"
+    },
+    {
+      "title": "Understanding Confluence for Users, Managers and Admins",
+      "url": "https://www.udemy.com/course/understanding-confluence-for-users-managers-and-admins/"
+    },
+    {
+      "title": "Learn MongoDB 3 and Rapidly Develop Scalable Applications",
+      "url": "https://www.udemy.com/course/mongodb-tutorial/"
+    },
+    {
+      "title": "AI For Developers With GitHub Copilot, Cursor AI & ChatGPT",
+      "url": "https://www.udemy.com/course/ai-for-developers-with-github-copilot-cursor-ai-chatgpt/"
+    },
+    {
+      "title": "Master Oracle Fusion BI: Build & Analyze OTBI Reports",
+      "url": "https://www.udemy.com/course/oracle-fusion-technical-bi-publisher-reports/"
+    },
+    {
+      "title": "Docker Swarm: BEGINNER + ADVANCED",
+      "url": "https://www.udemy.com/course/docker-swarm-from-beginner-to-advanced-with-docker-cluster-hosting/"
+    },
+    {
+      "title": "VSD - Circuit Design & SPICE Simulations - Part 2",
+      "url": "https://www.udemy.com/course/vlsi-academy-circuit-design-part2/"
+    },
+    {
+      "title": "Git Ultimate Essentials: Everything you NEED to know",
+      "url": "https://www.udemy.com/course/git-essentials/"
+    },
+    {
+      "title": "Devops Fundamentals - CI/CD with AWS +Docker+Ansible+Jenkins",
+      "url": "https://www.udemy.com/course/devops-fundamentals-aws/"
+    },
+    {
+      "title": "Git for Windows: Step-By-Step Mastery using Commands and GUI",
+      "url": "https://www.udemy.com/course/git-for-windows/"
+    },
+    {
+      "title": "Learn Windows Server 2019 for Virtualization on Hyper-V",
+      "url": "https://www.udemy.com/course/learn-windows-server-2019-for-virtualization-on-hyper-v/"
+    },
+    {
+      "title": "OpenAPI: Beginner to Guru",
+      "url": "https://www.udemy.com/course/openapi-beginner-to-guru/"
+    },
+    {
+      "title": "Create eLearning Courses with Articulate Storyline 360",
+      "url": "https://www.udemy.com/course/create-elearning-courses-with-articulate-storyline-360-or-3/"
+    },
+    {
+      "title": "Intro to Ansible",
+      "url": "https://www.udemy.com/course/intro-to-ansible/"
+    },
+    {
+      "title": "PyCharm IDE Mastery: Advanced Debugging & Python Development",
+      "url": "https://www.udemy.com/course/pycharm-ide-mastery-advanced-debugging-python-development/"
+    },
+    {
+      "title": "IoT Development with ThingWorx By Example: 2-in-1",
+      "url": "https://www.udemy.com/course/iot-development-with-thingworx-by-example-2-in-1/"
+    },
+    {
+      "title": "Master Make and Makefile for C/C++ Projects",
+      "url": "https://www.udemy.com/course/make-and-makefile-for-cc-projects-2022-edition/"
+    },
+    {
+      "title": "Ansible: Beginner to Pro",
+      "url": "https://www.udemy.com/course/ansible-masterclass/"
+    },
+    {
+      "title": "The Git & Github Bootcamp",
+      "url": "https://www.udemy.com/course/git-and-github-bootcamp/"
+    },
+    {
+      "title": "Yarn Dependency Management: The Complete Guide",
+      "url": "https://www.udemy.com/course/yarn-dependency-management/"
+    },
+    {
+      "title": "Play Framework Web Development For Beginners",
+      "url": "https://www.udemy.com/course/play-framework2/"
+    },
+    {
+      "title": "Building Internet of Things Projects with Arduino IOT Cloud",
+      "url": "https://www.udemy.com/course/arduino-iot-cloud/"
+    },
+    {
+      "title": "Basic Research: Questionnaire Development",
+      "url": "https://www.udemy.com/course/basic-research-qd/"
+    },
+    {
+      "title": "Master Visual Studio Code 2023: Your Complete VS Code Guide",
+      "url": "https://www.udemy.com/course/master-visual-studio-code-your-complete-vs-code-guide/"
+    },
+    {
+      "title": "GitHub Copilot - The Complete Guide - 2025",
+      "url": "https://www.udemy.com/course/github-copilot-the-complete-guide/"
+    },
+    {
+      "title": "Git Going with Comparing, Branching and Merging",
+      "url": "https://www.udemy.com/course/git-compare-branch-merge-rebase/"
+    },
+    {
+      "title": "Learn Git by Doing: A step-by-step guide to version control",
+      "url": "https://www.udemy.com/course/learn-git-by-doing-a-step-by-step-guide-to-version-control/"
+    },
+    {
+      "title": "Azure MasterClass: Manage Azure Cloud with ARM Templates",
+      "url": "https://www.udemy.com/course/azure-masterclass-manage-azure-cloud-with-arm-templates/"
+    },
+    {
+      "title": "Code Reviews for Secure,Clean,Scalable Code& Effective teams",
+      "url": "https://www.udemy.com/course/code-reviews-for-securecleanscalable-code-effective-teams/"
+    },
+    {
+      "title": "Masterclass- Kubernetes and Openshift with Docker containers",
+      "url": "https://www.udemy.com/course/masterclass-kubernetes-and-redhat-openshift-container-orchestration/"
+    },
+    {
+      "title": "AWS CodeCommit CodeBuild CodeDeploy CodePipeline | Hands On",
+      "url": "https://www.udemy.com/course/aws-codecommit-codebuild-codedeploy-codepipeline-hands-on/"
+    },
+    {
+      "title": "Learn Axure RP for Web and Mobile App Prototyping",
+      "url": "https://www.udemy.com/course/learn-axure-rp-for-web-and-mobile-app-prototyping/"
+    },
+    {
+      "title": "Apache Kafka Series - Confluent Schema Registry & REST Proxy",
+      "url": "https://www.udemy.com/course/confluent-schema-registry/"
+    },
+    {
+      "title": "Mastering Hyperledger Chaincode Development using GoLang",
+      "url": "https://www.udemy.com/course/golang-chaincode-development/"
+    },
+    {
+      "title": "CMake, Tests and Tooling for C/C++ Projects [2024 Edition]",
+      "url": "https://www.udemy.com/course/cmake-tests-and-tooling-for-cc-projects/"
+    },
+    {
+      "title": "Learn Automation in Jira with real-world examples",
+      "url": "https://www.udemy.com/course/learn-automation-in-jira-with-real-world-examples/"
+    },
+    {
+      "title": "The Complete ERPNext API Mastery Series",
+      "url": "https://www.udemy.com/course/the-complete-erpnext-api-mastery-series/"
+    },
+    {
+      "title": "Master Containerization with AWS: Amazon ECS, EKS, Fargate",
+      "url": "https://www.udemy.com/course/aws-ecs-fargate-eks/"
+    },
+    {
+      "title": "Data Integration & ETL with Talend Open Studio: Zero to Hero",
+      "url": "https://www.udemy.com/course/data-integration-etl-talend-open-studio-zero-to-hero/"
+    },
+    {
+      "title": "Practical Image Processing with OpenCV & Python with Project",
+      "url": "https://www.udemy.com/course/image-processing-using-opencv-from-zero-to-hero/"
+    },
+    {
+      "title": "Data Sonification using Two Tone- Convert your Data to Music",
+      "url": "https://www.udemy.com/course/data-sonification-using-two-tone-convert-your-data-to-music/"
+    },
+    {
+      "title": "Docker and Containers Essentials",
+      "url": "https://www.udemy.com/course/docker-and-containers-essentials/"
+    },
+    {
+      "title": "Big Data Internship Program - Data Ingestion-Sqoop and Flume",
+      "url": "https://www.udemy.com/course/big-data-internship-program-part-2-data-ingestion/"
+    },
+    {
+      "title": "Master Git and GitHub in 5 Days: Go from Zero to Hero",
+      "url": "https://www.udemy.com/course/master-git-and-github-in-5-days-go-from-zero-to-hero/"
+    },
+    {
+      "title": "Vibe Coding with ChatGPT, GitHub Copilot, Tabnine & More",
+      "url": "https://www.udemy.com/course/ai-code-assistants-bootcamp/"
+    },
+    {
+      "title": "Olympic Games Analytics Project in Apache Spark for beginner",
+      "url": "https://www.udemy.com/course/olympic-games-analytics-project-in-apache-spark-for-beginner/"
+    },
+    {
+      "title": "Node-Red - Basic Nodes & Uses",
+      "url": "https://www.udemy.com/course/node-red-basic-nodes-uses/"
+    },
+    {
+      "title": "GitLab CI: Pipelines, CI/CD and DevOps for Beginners",
+      "url": "https://www.udemy.com/course/gitlab-ci-pipelines-cicd-and-devops-for-beginners/"
+    },
+    {
+      "title": "Learn Git & GitHub Online - Beginner & Intermediate Concepts",
+      "url": "https://www.udemy.com/course/git-tutorial/"
+    },
+    {
+      "title": "Let's Get Interactive with Storyline 3 / 360",
+      "url": "https://www.udemy.com/course/lets-get-interactive-with-storyline-3-360/"
+    },
+    {
+      "title": "Ubuntu Linux on Windows With VirtualBox For Web Development",
+      "url": "https://www.udemy.com/course/ubuntu-linux-on-windows-with-virtualbox-for-web-development/"
+    },
+    {
+      "title": "Complete SAP PO REST Adapter Configuration with API Basics",
+      "url": "https://www.udemy.com/course/complete-sap-po-rest-adapter-configuration-with-api-basics/"
+    },
+    {
+      "title": "DevOps Beyond Tools: A Practical Guide for Agile Teams",
+      "url": "https://www.udemy.com/course/devops-culture-and-agile-software-development-the-complete-guide/"
+    },
+    {
+      "title": "Generative AI for NodeJs: OpenAI, LangChain - TypeScript",
+      "url": "https://www.udemy.com/course/ai-nodejs-openai-chatgpt-langchain-typescript/"
+    },
+    {
+      "title": "MASTER Kubernetes with AWS Elastic Kubernetes Services (EKS)",
+      "url": "https://www.udemy.com/course/master-kubernetes-with-aws-elastic-kubernetes-services-eks/"
+    },
+    {
+      "title": "Terragrunt Deep Dive",
+      "url": "https://www.udemy.com/course/terragrunt-deep-dive/"
+    },
+    {
+      "title": "Docker for Beginners: Faster, Easier, Smarter Devops",
+      "url": "https://www.udemy.com/course/docker-for-beginners-course/"
+    },
+    {
+      "title": "LangChain: Develop AI web-apps with JavaScript and LangChain",
+      "url": "https://www.udemy.com/course/langchain-develop-ai-web-apps-with-javascript-and-langchain/"
+    },
+    {
+      "title": "ANTLR Programming Masterclass with Python",
+      "url": "https://www.udemy.com/course/antlr-programming-masterclass-with-python/"
+    },
+    {
+      "title": "Nail WPF in less than an hour",
+      "url": "https://www.udemy.com/course/nail-wpf-in-30-minutes/"
+    },
+    {
+      "title": "Docker - Hands On for Java Developers",
+      "url": "https://www.udemy.com/course/docker-hands-on/"
+    },
+    {
+      "title": "AWS devops: ElasticSearch at AWS with terraform and ansible",
+      "url": "https://www.udemy.com/course/aws-devops-elasticsearch-at-aws-with-terraform-and-ansible/"
+    },
+    {
+      "title": "Mastering Salesforce AI: Agentforce and Prompt Templates",
+      "url": "https://www.udemy.com/course/salesforce-einstein-ai-novice-to-expert-in-einstein-copilot/"
+    },
+    {
+      "title": "Raspberry Pi: Make a Workbench Computer",
+      "url": "https://www.udemy.com/course/raspberrypibc/"
+    },
+    {
+      "title": "DevOps: CI/CD with Jenkins Nexus Ansible Docker Terraform",
+      "url": "https://www.udemy.com/course/devops-iac-cicd/"
+    },
+    {
+      "title": "ODOO Technical Training - v7, v8-11",
+      "url": "https://www.udemy.com/course/odoo-technical/"
+    },
+    {
+      "title": "[Retired] Salesforce Functions - From Zero to Hero",
+      "url": "https://www.udemy.com/course/zero-to-hero-in-salesforce-functions/"
+    },
+    {
+      "title": "Git & GitHub Masterclass",
+      "url": "https://www.udemy.com/course/git-and-github-masterclass/"
+    },
+    {
+      "title": "Microsoft Azure DevOps Bootcamp",
+      "url": "https://www.udemy.com/course/microsoft-azure-devops/"
+    },
+    {
+      "title": "WinOps – CI/CD with Microsoft Azure Stack: VSTS and TFS 2018",
+      "url": "https://www.udemy.com/course/winops-cicd-with-microsoft-azure-stack-vsts-and-tfs-2018/"
+    },
+    {
+      "title": "Cursor AI Beginner to Pro: Build Production Web Apps with AI",
+      "url": "https://www.udemy.com/course/learn-cursor-ai/"
+    },
+    {
+      "title": "Mastering Prometheus and Grafana (Including Loki & Alloy)",
+      "url": "https://www.udemy.com/course/mastering-prometheus-and-grafana/"
+    },
+    {
+      "title": "DevOps CI CD with Jenkins Maven Git and Pipeline",
+      "url": "https://www.udemy.com/course/devops-ci-cd-with-jenkins-maven-git-and-pipeline/"
+    },
+    {
+      "title": "Github copilot , Spring boot and Spring AI",
+      "url": "https://www.udemy.com/course/github-copilot-for-spring-boot/"
+    },
+    {
+      "title": "Python Packaging: Create and Publish Your Own Modules",
+      "url": "https://www.udemy.com/course/python-packaging-create-and-publish-your-own-modules/"
+    },
+    {
+      "title": "Node JS: API Development with Swagger",
+      "url": "https://www.udemy.com/course/nodejs-api-development-with-swagger/"
+    },
+    {
+      "title": "How to Simulate Electronic Properties of Nano Structures",
+      "url": "https://www.udemy.com/course/how-to-simulate-electronic-properties-of-nano-structures/"
+    },
+    {
+      "title": "Productive coding with WebStorm",
+      "url": "https://www.udemy.com/course/productive-coding-with-webstorm/"
+    },
+    {
+      "title": "Vim Text Editor - Learn in 10 steps, for beginners.",
+      "url": "https://www.udemy.com/course/learn-vim-for-beginners/"
+    },
+    {
+      "title": "Learn Git, Github and Github Actions for DevOps CI/CD",
+      "url": "https://www.udemy.com/course/git-and-github-for-devops-ci-cd/"
+    },
+    {
+      "title": "Docker Swarm Mastery: DevOps Style Cluster Orchestration",
+      "url": "https://www.udemy.com/course/docker-swarm-mastery/"
+    },
+    {
+      "title": "Learn Openshift The Container Orchestration- Openshift 3",
+      "url": "https://www.udemy.com/course/learn-openshift-quickly/"
+    },
+    {
+      "title": "Master Tkinter By Building 5 Fully Functioning Apps",
+      "url": "https://www.udemy.com/course/master-tkinter-by-building-5-apps/"
+    },
+    {
+      "title": "Project in Docker | Docker Basics - Microservices",
+      "url": "https://www.udemy.com/course/docker-and-docker-compose-project-deployment-from-scratch/"
+    },
+    {
+      "title": "Wi-Fi Hacking and Wireless Penetration Testing Course",
+      "url": "https://www.udemy.com/course/wi-fi-password-penetration-testing-course/"
+    },
+    {
+      "title": "GIT, GitLab, GitHub Fundamentals for Software Developers",
+      "url": "https://www.udemy.com/course/git-gitlab-github-fundamentals-for-software-developers/"
+    },
+    {
+      "title": "GitHub Fundamentals: A Project-Based Learning Approach",
+      "url": "https://www.udemy.com/course/the-complete-github-course-for-developers/"
+    },
+    {
+      "title": "Apache Log4J Logging Framework Tutorial for Beginners",
+      "url": "https://www.udemy.com/course/apache-log4j-tutorial/"
+    },
+    {
+      "title": "Alteryx Designer Core Certification: 2025 Prep+Practice Test",
+      "url": "https://www.udemy.com/course/alteryx-designer-core-certification-prep/"
+    },
+    {
+      "title": "Reflections and Annotation in Java Uncomplicated",
+      "url": "https://www.udemy.com/course/reflections-and-annotation-in-java-uncomplicated/"
+    },
+    {
+      "title": "Salesforce Development With Real Time Project Part 2",
+      "url": "https://www.udemy.com/course/salesforce-developer-training-with-real-time-project/"
+    },
+    {
+      "title": "GIT and Visual Studio with Azure DevOps Repos for Developers",
+      "url": "https://www.udemy.com/course/azure-devops-repos-with-git-and-visual-studio-for-developers/"
+    },
+    {
+      "title": "AI with GitHub Copilot for JavaScript and React Developers",
+      "url": "https://www.udemy.com/course/mastering-github-copilot-for-javascript-and-react-developers/"
+    },
+    {
+      "title": "Azure Data Engineering-Master 8 Real-World Projects",
+      "url": "https://www.udemy.com/course/azure-data-engineering-projects/"
+    },
+    {
+      "title": "Master OpenAPI and the Swagger Framework",
+      "url": "https://www.udemy.com/course/master-openapi-and-the-swagger-framework/"
+    },
+    {
+      "title": "Git Training: Step-by-Step Guide to Git Version Control",
+      "url": "https://www.udemy.com/course/console-git-practical-guide/"
+    },
+    {
+      "title": "Azure Data Factory Training--Continuous Integration/Delivery",
+      "url": "https://www.udemy.com/course/azure-data-factory-bootcamp/"
+    },
+    {
+      "title": "Docker Complete Training",
+      "url": "https://www.udemy.com/course/docker-essential-training/"
+    },
+    {
+      "title": "Docker: A Project-Based Approach to Learning",
+      "url": "https://www.udemy.com/course/docker-tutorial/"
+    },
+    {
+      "title": ".NET Microservices with Azure DevOps & AKS | Basic to Master",
+      "url": "https://www.udemy.com/course/dot-net-microservices-ecommerce-project-azure-devops-kubernetes-aks/"
+    },
+    {
+      "title": "Git & GitHub with Eclipse, Android studio & IntelliJ",
+      "url": "https://www.udemy.com/course/git-bootcamp-with-github-learn-step-by-step/"
+    },
+    {
+      "title": "IPFS and Decentralised Networking",
+      "url": "https://www.udemy.com/course/ipfs-networking/"
+    },
+    {
+      "title": "Git Fundamentals for Everyone with practical examples",
+      "url": "https://www.udemy.com/course/git-basics-for-everyone/"
+    },
+    {
+      "title": "Salesforce Lightning Development",
+      "url": "https://www.udemy.com/course/salesforce-lightning-component/"
+    },
+    {
+      "title": "Mastering GitHub Copilot for DevOps and DevSecOps Engineers",
+      "url": "https://www.udemy.com/course/mastering-github-copilot-for-devops-and-devsecops-engineers/"
+    },
+    {
+      "title": "Rocking AWS CloudFormation with DevOps, Interview Guide",
+      "url": "https://www.udemy.com/course/rocking-aws-cloudformation-cdk-with-devops-interview-guide/"
+    },
+    {
+      "title": "Hands-On Arduino",
+      "url": "https://www.udemy.com/course/hands-on-arduino/"
+    },
+    {
+      "title": "Continuous Deployments using Spinnaker on AWS and Kubernetes",
+      "url": "https://www.udemy.com/course/continuous-deployments-using-spinnaker-on-aws-and-kubernetes/"
+    },
+    {
+      "title": "Learn RPA Automation Anywhere 11 From Scratch",
+      "url": "https://www.udemy.com/course/learn-automation-anywhere/"
+    },
+    {
+      "title": "Git Mindset: Underlying Architecture of Git in Simple Terms",
+      "url": "https://www.udemy.com/course/git-mindset/"
+    },
+    {
+      "title": "Microsoft Excel For Professionals (Zero to Advanced Course)",
+      "url": "https://www.udemy.com/course/msexcel-mss/"
+    },
+    {
+      "title": "Mastering IBM App Connect Enterprise and Integration Bus",
+      "url": "https://www.udemy.com/course/ibm-app-connect-enterprise-v11/"
+    },
+    {
+      "title": "Master CMake for Cross-Platform C++ Project Building",
+      "url": "https://www.udemy.com/course/master_cmake/"
+    },
+    {
+      "title": "The Complete Apache Ant Bootcamp",
+      "url": "https://www.udemy.com/course/apache-ant-tutorial/"
+    },
+    {
+      "title": "Comprehensive Subversion",
+      "url": "https://www.udemy.com/course/comprehensive-subversion/"
+    },
+    {
+      "title": "SAP Smart Forms for beginners",
+      "url": "https://www.udemy.com/course/sap-smart-forms-training-for-all-sap-consultant/"
+    },
+    {
+      "title": "The Ultimate Git Course - with Applications in Unreal Engine",
+      "url": "https://www.udemy.com/course/the-ultimate-git-course-with-applications-in-unreal-engine/"
+    },
+    {
+      "title": "Data integration (ETL) with Talend Open Studio",
+      "url": "https://www.udemy.com/course/data-integration-with-talend-open-studio/"
+    },
+    {
+      "title": "Quantum Computing Fundamentals with Microsoft Azure Quantum",
+      "url": "https://www.udemy.com/course/quantum-computing-fundamentals-with-microsoft-azure-quantum/"
+    },
+    {
+      "title": "Learning GitHub Actions for DevOps CI/CD",
+      "url": "https://www.udemy.com/course/learning-github-actions/"
+    },
+    {
+      "title": "From 0 to 1: The Oozie Orchestration Framework",
+      "url": "https://www.udemy.com/course/from-0-to-1-the-oozie-orchestration-framework/"
+    },
+    {
+      "title": "Python Scripting for Blender Introduction",
+      "url": "https://www.udemy.com/course/blender-python-scripting-fundamentals-u/"
+    },
+    {
+      "title": "The WordPress Bootcamp: Build 11 Websites with WordPress",
+      "url": "https://www.udemy.com/course/the-wordpress-bootcamp/"
+    },
+    {
+      "title": "Xilinx Vivado Essentials for the Logic Designer",
+      "url": "https://www.udemy.com/course/xilinx-vivado-essentials-for-the-logic-designer/"
+    },
+    {
+      "title": "Introduction To Azure Data Factory",
+      "url": "https://www.udemy.com/course/azure-data-factory-use-cases/"
+    },
+    {
+      "title": "Git Essentials — The step-by-step guide to Git mastery",
+      "url": "https://www.udemy.com/course/git-and-github-tutorial/"
+    },
+    {
+      "title": "Learn Jira 7: Step-By-Step Tutorial: 2-in-1",
+      "url": "https://www.udemy.com/course/learn-jira-7-step-by-step-tutorial-2-in-1/"
+    },
+    {
+      "title": "IntelliJ IDEA Tricks to Boost Productivity for Java Devs",
+      "url": "https://www.udemy.com/course/intellij-idea-secrets-double-your-coding-speed-in-2-hours/"
+    },
+    {
+      "title": "Complete Prompt Engineering Practical Course C|PEPC",
+      "url": "https://www.udemy.com/course/complete-prompt-engineering-practical-course-cpepc/"
+    },
+    {
+      "title": "Apache Spark with Databricks",
+      "url": "https://www.udemy.com/course/azure-databricks-apache-spark/"
+    },
+    {
+      "title": "Step by Step Guide to Design Nano Devices and Sensors",
+      "url": "https://www.udemy.com/course/step-by-step-guide-to-build-nano-devices-and-sensors-by-negf/"
+    },
+    {
+      "title": "Learn and Understand UWP Development: The Complete Guide",
+      "url": "https://www.udemy.com/course/learn-and-understand-uwp-the-complete-guide/"
+    },
+    {
+      "title": "Postman API Testing Fundamentals",
+      "url": "https://www.udemy.com/course/postman-tutorial/"
+    },
+    {
+      "title": "ROS2 (Foxy-Humble) For Beginners I: Basics, Motion & Lasers",
+      "url": "https://www.udemy.com/course/ros2-how-to/"
+    },
+    {
+      "title": "Azure Load Balancing Services & Firewall. Step-by-Step guide",
+      "url": "https://www.udemy.com/course/azure-front-door-deep-dive/"
+    },
+    {
+      "title": "Quantum Computing: Theory to Simulation and Programming",
+      "url": "https://www.udemy.com/course/quantum-computing/"
+    },
+    {
+      "title": "Git & GitHub Masterclass: The Practical Bootcamp",
+      "url": "https://www.udemy.com/course/learn-git-and-github/"
+    },
+    {
+      "title": "Master DevOps Jenkins CI/CD Pipelines W/ DSLs For Developers",
+      "url": "https://www.udemy.com/course/devops-masterclass-cicd-with-jenkins-pipelines-groovy-dsl/"
+    },
+    {
+      "title": "GitHub Portfolio for Developers",
+      "url": "https://www.udemy.com/course/github-portfolio-professional-course/"
+    },
+    {
+      "title": "Practical Git: for Absolute Beginners",
+      "url": "https://www.udemy.com/course/practical-git-for-absolute-beginners/"
+    },
+    {
+      "title": "Siemens TIA Portal for S7-1200 PLC Programming(PLC-SCADA-10)",
+      "url": "https://www.udemy.com/course/siemens-tia-portal-for-s7-1200-plc-programming/"
+    },
+    {
+      "title": "Jira Software 101: Advanced User",
+      "url": "https://www.udemy.com/course/jira-101/"
+    },
+    {
+      "title": "Learn App Development with Docker",
+      "url": "https://www.udemy.com/course/learn-app-development-with-docker/"
+    },
+    {
+      "title": "Git and GitHub For Beginners",
+      "url": "https://www.udemy.com/course/gitandgithubforbeginners/"
+    },
+    {
+      "title": "Complete Guide to Creating COCO Datasets",
+      "url": "https://www.udemy.com/course/creating-coco-datasets/"
+    },
+    {
+      "title": "AWS CodePipeline Step by Step",
+      "url": "https://www.udemy.com/course/aws-codepipeline-step-by-step/"
+    },
+    {
+      "title": "Talend Advanced for Big Data, Cloud and Database Integration",
+      "url": "https://www.udemy.com/course/talend-advanced-for-big-data-cloud-and-database-integration/"
+    },
+    {
+      "title": "SAP PI / SAP PO: Interface Development with Standard Adapter",
+      "url": "https://www.udemy.com/course/sap-po-interface-development-training-with-standard-adapter/"
+    },
+    {
+      "title": "Docker and Kubernetes: The Complete Guide",
+      "url": "https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/"
+    },
+    {
+      "title": "IntelliJ IDEA 2021 for Java & Kotlin Developers",
+      "url": "https://www.udemy.com/course/intellij-idea-for-java-devs/"
+    },
+    {
+      "title": "Creating and Running an Agile Project in JIRA",
+      "url": "https://www.udemy.com/course/creating-and-running-an-agile-project-in-jira/"
+    },
+    {
+      "title": "SISENSE Business Intelligence tool for Dashboard Development",
+      "url": "https://www.udemy.com/course/sisense-bi-for-dashboard-development-a-z/"
+    },
+    {
+      "title": "Hands-on Chatbots with Google Dialogflow",
+      "url": "https://www.udemy.com/course/hands-on-chatbots-with-google-dialogflow/"
+    },
+    {
+      "title": "Introduction to Docker",
+      "url": "https://www.udemy.com/course/introduction-to-docker/"
+    },
+    {
+      "title": "Docker Kubernetes MasterClass: DevOps from Scratch",
+      "url": "https://www.udemy.com/course/kubernetes-online-training/"
+    },
+    {
+      "title": "Serverless Computing with Azure Functions",
+      "url": "https://www.udemy.com/course/serverless-computing-with-azure-functions/"
+    },
+    {
+      "title": "DevOps: Hands-On Guide To Automation With Ansible",
+      "url": "https://www.udemy.com/course/devops-hands-on-guide-to-automation-with-ansible/"
+    },
+    {
+      "title": "Write Html & Css 5 Times Faster With Vs Code & Emmet 2024",
+      "url": "https://www.udemy.com/course/learn-visual-studio-code-and-emmet-full-course-vs-code-masterclass-323/"
+    },
+    {
+      "title": "Advanced VDI with VMware Horizon 7",
+      "url": "https://www.udemy.com/course/advanced-vdi-with-vmware-horizon-7/"
+    },
+    {
+      "title": "AWS Infrastructure as Code With Terraform [2024 Updates]",
+      "url": "https://www.udemy.com/course/learn-devops-infrastructure-automation-with-terraform/"
+    },
+    {
+      "title": "JIRA Visual Reference: Issue Administration",
+      "url": "https://www.udemy.com/course/jira-visual-reference-issue-administration/"
+    },
+    {
+      "title": "Docker, Kubernetes & AWS: Real-World Deployment in 25 Days",
+      "url": "https://www.udemy.com/course/docker-deployment/"
+    },
+    {
+      "title": "Learn To Code Like a Pro With VI Editor",
+      "url": "https://www.udemy.com/course/learn-to-code-like-a-pro-with-vi-editor/"
+    },
+    {
+      "title": "Jira Software Essentials: Mastering JQL Filters & Dashboards",
+      "url": "https://www.udemy.com/course/jira-software-essentials-mastering-jql-filters-dashboards/"
+    },
+    {
+      "title": "Accelerate Freight Broker Training By Shayla Moore",
+      "url": "https://www.udemy.com/course/accelerate-freight-broker-training-by-shayla-moore/"
+    },
+    {
+      "title": "Getting Started With Julia",
+      "url": "https://www.udemy.com/course/getting-started-with-julia/"
+    },
+    {
+      "title": "ISPSoft For Delta PLC Programming (PLC-SCADA-9)",
+      "url": "https://www.udemy.com/course/ispsoft-for-delta-plc-programming/"
+    },
+    {
+      "title": "Git & GitHub In-Depth: Integrating Jenkins with Git",
+      "url": "https://www.udemy.com/course/devops-git-github/"
+    },
+    {
+      "title": "Mastering SharePoint 2019",
+      "url": "https://www.udemy.com/course/mastering-sharepoint-2019/"
+    },
+    {
+      "title": "GeoServer: Step-By-Step Tutorial",
+      "url": "https://www.udemy.com/course/geoserver-step-by-step-tutorial/"
+    },
+    {
+      "title": "5 DevOps Project- GitLab, Kubernetes ,Docker, AWS, SonarQube",
+      "url": "https://www.udemy.com/course/5-gitlab-spa-project-java-nodejs-php-python-handson-only/"
+    },
+    {
+      "title": "Android Studio Masterclass: Conquer the Android IDE",
+      "url": "https://www.udemy.com/course/android-studio-masterclass/"
+    },
+    {
+      "title": "Data Science for Business™: Financial Sectors",
+      "url": "https://www.udemy.com/course/business-analytics-course/"
+    },
+    {
+      "title": "Azure Infrastructure As Code using JSON ARM templates",
+      "url": "https://www.udemy.com/course/learn-azure-infrastructure-as-code-using-json-arm-templates/"
+    },
+    {
+      "title": "The Complete Confluence Bootcamp 2025: From Beginner to PRO",
+      "url": "https://www.udemy.com/course/complete-confluence-bootcamp/"
+    },
+    {
+      "title": "GitHub Actions - The Complete Guide",
+      "url": "https://www.udemy.com/course/github-actions-the-complete-guide/"
+    },
+    {
+      "title": "Informatica MDM Provisioning Tool",
+      "url": "https://www.udemy.com/course/informatica-mdm-provisioning-tool/"
+    },
+    {
+      "title": "Docker Mastery: with Kubernetes +Swarm from a Docker Captain",
+      "url": "https://www.udemy.com/course/docker-mastery/"
+    },
+    {
+      "title": "Introduction to CMake",
+      "url": "https://www.udemy.com/course/introduction-to-cmake/"
+    },
+    {
+      "title": "Salesforce Development With AI: Cursor, Copilot & Agentforce",
+      "url": "https://www.udemy.com/course/salesforce-development-with-ai-cursor-copilot-agentforce/"
+    },
+    {
+      "title": "Complete Cursor AI: Vibe Code a Full-Stack Next.js 15 App",
+      "url": "https://www.udemy.com/course/cursorai-nextjs/"
+    },
+    {
+      "title": "Learning Entity Framework Core",
+      "url": "https://www.udemy.com/course/learning-entity-framework-core/"
+    },
+    {
+      "title": "Learn Adobe Brackets Free open source code editor",
+      "url": "https://www.udemy.com/course/learn-brackets-free-open-source-code-editor/"
+    },
+    {
+      "title": "Entity Framework in Depth: The Complete Guide",
+      "url": "https://www.udemy.com/course/entity-framework-tutorial/"
+    },
+    {
+      "title": "API introduction use JavaScript AJAX JSON Social Connections",
+      "url": "https://www.udemy.com/course/api-introduction-use-javascript-ajax-json-social-connections/"
+    },
+    {
+      "title": "Amazon Rekognition Development: A Complete Guide",
+      "url": "https://www.udemy.com/course/amazon-rekognition-development-a-complete-guide/"
+    },
+    {
+      "title": "Programming Internet of Things - Beginning to Advanced Level",
+      "url": "https://www.udemy.com/course/programming-internet-of-things-beginning-to-advance-level/"
+    },
+    {
+      "title": "Learn to use Git and Github with Eclipse: A Complete Guide",
+      "url": "https://www.udemy.com/course/learn-to-use-git-and-github-with-eclipse-a-complete-guide/"
+    },
+    {
+      "title": "Master C# & .NET Debugging with Visual Studio 2019",
+      "url": "https://www.udemy.com/course/c-sharp-dot-net-debugging-with-visual-studio/"
+    },
+    {
+      "title": "Git & GitHub For Beginners - Master Git and GitHub (2025)",
+      "url": "https://www.udemy.com/course/git-and-github-crash-course/"
+    },
+    {
+      "title": "An Introduction to DataDog for Developers",
+      "url": "https://www.udemy.com/course/datadog-for-devops/"
+    },
+    {
+      "title": "Monitoring and Alerting with Prometheus",
+      "url": "https://www.udemy.com/course/monitoring-and-alerting-with-prometheus/"
+    },
+    {
+      "title": "Git & GitHub Ultimate Bootcamp: Beginner to Git Expert",
+      "url": "https://www.udemy.com/course/git-basic-concept-fundamentals-github/"
+    },
+    {
+      "title": "DevOps MasterClass: Terraform Kubernetes Ansible Docker",
+      "url": "https://www.udemy.com/course/devops-training/"
+    },
+    {
+      "title": "Global Citizenship - Your path to the globalized world",
+      "url": "https://www.udemy.com/course/global-citizenship/"
+    },
+    {
+      "title": "GitLab — A Complete Hands-On for CI/CD Pipelines & DevOps",
+      "url": "https://www.udemy.com/course/gitlab-cicd-course/"
+    },
+    {
+      "title": "Kafka for Developers - Data Contracts using Schema Registry",
+      "url": "https://www.udemy.com/course/kafka-for-developers-data-contracts-using-schema-registry/"
+    },
+    {
+      "title": "Container Management With Podman Made Easy and Hands-On",
+      "url": "https://www.udemy.com/course/container-management-with-podman-made-easy-and-hands-on/"
+    },
+    {
+      "title": "GitHub Copilot Exam Prep: Ace Your Certification [2025]",
+      "url": "https://www.udemy.com/course/github-copilot-certification-practice-exams/"
+    },
+    {
+      "title": "DevOps: A Management Perspective",
+      "url": "https://www.udemy.com/course/devops-professional/"
+    },
+    {
+      "title": "Salesforce Change and Release Management - A complete guide",
+      "url": "https://www.udemy.com/course/salesforce-change-and-release-management-a-complete-guide/"
+    },
+    {
+      "title": "Industrial Robotics ABB",
+      "url": "https://www.udemy.com/course/industrial-robotics-abb/"
+    },
+    {
+      "title": "Umbraco Beginner: Learn the Umbraco Basics",
+      "url": "https://www.udemy.com/course/umbraco-beginner/"
+    },
+    {
+      "title": "Learn SAP® BTP",
+      "url": "https://www.udemy.com/course/learn-sap-btp/"
+    },
+    {
+      "title": "Docker for Beginners: a Hands-On Practice Course (+12 hours)",
+      "url": "https://www.udemy.com/course/docker-for-beginners-a-hands-on-practice-course-12-hours/"
+    },
+    {
+      "title": "Complete Git and Github Beginner to Expert",
+      "url": "https://www.udemy.com/course/complete-git-and-github-beginner-to-expert/"
+    },
+    {
+      "title": "50 Informatica Interview Scenarios - Solved",
+      "url": "https://www.udemy.com/course/informatica-interview-scenarios-solved/"
+    },
+    {
+      "title": "Master Odoo Studio",
+      "url": "https://www.udemy.com/course/master-odoo-studio-customize-your-supply-chain/"
+    },
+    {
+      "title": "Learn DevOps with Jenkins All in One Guide",
+      "url": "https://www.udemy.com/course/learn-devops-with-jenkins-all-in-one-guide/"
+    },
+    {
+      "title": "Learning Path: Go: Building Cloud Native Go Applications",
+      "url": "https://www.udemy.com/course/learning-path-go-building-cloud-native-go-applications/"
+    },
+    {
+      "title": "Learn Azure DevOps CI/CD pipelines",
+      "url": "https://www.udemy.com/course/azure-devops-ci-cd-pipelines/"
+    },
+    {
+      "title": "SelectorsHub Tutorial- A Free Next Gen XPath & Locators tool",
+      "url": "https://www.udemy.com/course/selectorshub-tutorial-a-free-next-gen-xpath-locators-tool/"
+    },
+    {
+      "title": "Apache Zeppelin - Big Data Visualization Tool",
+      "url": "https://www.udemy.com/course/apache-zeppelin-big-data-visualization-tool/"
+    },
+    {
+      "title": "ChatGPT for DevOps | Learn with latest ChatGPT",
+      "url": "https://www.udemy.com/course/chatgpt-for-devops/"
+    },
+    {
+      "title": "Apache Kafka for Distributed Systems",
+      "url": "https://www.udemy.com/course/apache-kafka-for-distributed-systems/"
+    },
+    {
+      "title": "Adobe Captivate 2025: The Essentials",
+      "url": "https://www.udemy.com/course/adobe-captivate-training/"
+    },
+    {
+      "title": "MB500: Dynamics 365: Finance and Operations Apps Developer",
+      "url": "https://www.udemy.com/course/mb-500-d365fnodev/"
+    },
+    {
+      "title": "Google Assistant Development from Beginner to Expert",
+      "url": "https://www.udemy.com/course/google-assistant-development-from-beginner-to-expert/"
+    },
+    {
+      "title": "Git Complete: The definitive, step-by-step guide to Git",
+      "url": "https://www.udemy.com/course/git-complete/"
+    },
+    {
+      "title": "Spring Boot Testing with JUnit 5, Mockito & Testcontainers",
+      "url": "https://www.udemy.com/course/testing-spring-boot-application-with-junit-and-mockito/"
+    },
+    {
+      "title": "Gitting Started: Step-by-Step Git and Github Crash Course",
+      "url": "https://www.udemy.com/course/learn-git-and-github-in-2-hours/"
+    },
+    {
+      "title": "Robotic Process Automation: RPA for Managers and Leaders",
+      "url": "https://www.udemy.com/course/robotic-process-automation-for-managers-and-leaders/"
+    },
+    {
+      "title": "CI CD with Azure DevOps - Boards, Pipeline, YAML Deployment",
+      "url": "https://www.udemy.com/course/ci-cd-with-azure-devops/"
+    },
+    {
+      "title": "Docker and Containers: The Essentials",
+      "url": "https://www.udemy.com/course/docker-and-containers-the-essentials/"
+    },
+    {
+      "title": "Ultimate Guide to Spring 6, Spring Boot 3 & Hibernate [NEW]",
+      "url": "https://www.udemy.com/course/learn-spring-framework-the-easy-and-fun-way/"
+    },
+    {
+      "title": "Qt 5: Application Development with Qt 5: 2 in 1",
+      "url": "https://www.udemy.com/course/qt-5-application-development-with-qt-5-2-in-1/"
+    },
+    {
+      "title": "Xilinx Vivado: Beginners Course to FPGA Development in VHDL",
+      "url": "https://www.udemy.com/course/learn-fpga-xilinx-vivado-design-suite-training-in-under-1-hour-vhdl/"
+    },
+    {
+      "title": "Crisper Learning for Robotics Process Automation- Blue Prism",
+      "url": "https://www.udemy.com/course/crisper-learning-blueprism/"
+    },
+    {
+      "title": "Git: The Ultimate Beginner's Guide to Version Control",
+      "url": "https://www.udemy.com/course/introduction-to-git-version-control-for-beginners/"
+    },
+    {
+      "title": "GitHub Copilot Masterclass: The best AI Pair Programmer",
+      "url": "https://www.udemy.com/course/github-copilot-masterclass/"
+    },
+    {
+      "title": "Visual Studio Code for Developers 2025: Beginner to Advanced",
+      "url": "https://www.udemy.com/course/learn-visual-studio-code-vscode-course/"
+    },
+    {
+      "title": "Git from Basics to Advanced: Practical Guide for Developers",
+      "url": "https://www.udemy.com/course/git-learnit/"
+    },
+    {
+      "title": "Apache NiFi - A Beginners Guide | Big DataFlow | HDF & CDF",
+      "url": "https://www.udemy.com/course/apache-nifi-the-beginner-guide/"
+    },
+    {
+      "title": "Face Recognition Attendance System Web App Deploy in AWS",
+      "url": "https://www.udemy.com/course/attendance-software/"
+    },
+    {
+      "title": "Disciplined Agile Scrum Master (DASM) practice questions",
+      "url": "https://www.udemy.com/course/disciplined-agile-cda-exam-practice-questions/"
+    },
+    {
+      "title": "Gerrit Code Review: Project and User how-to guide",
+      "url": "https://www.udemy.com/course/gerrit-code-review-project-and-user-guide/"
+    },
+    {
+      "title": "Salesforce Flows - Learn Salesforce Lightning Flows Fast",
+      "url": "https://www.udemy.com/course/salesforce-flows/"
+    },
+    {
+      "title": "Terraform for the Absolute Beginners with Labs",
+      "url": "https://www.udemy.com/course/terraform-for-the-absolute-beginners/"
+    },
+    {
+      "title": "The Complete VMware Horizon 7: Beginner to Advanced: 3-in-1",
+      "url": "https://www.udemy.com/course/the-complete-vmware-horizon-7-beginner-to-advanced-3-in-1/"
+    },
+    {
+      "title": "How to Use Chrome Developer Tools",
+      "url": "https://www.udemy.com/course/how-to-use-chrome-developer-tools/"
+    },
+    {
+      "title": "ROS 2 Artificial Intelligent Robot using Raspberry PI",
+      "url": "https://www.udemy.com/course/robotics-with-ros-real-robot-using-raspberry-pi-and-opencv/"
+    },
+    {
+      "title": "The Ultimate Chef Training Course: DevOps Automation",
+      "url": "https://www.udemy.com/course/the-ultimate-chef-training-course-devops-automation/"
+    },
+    {
+      "title": "Building Python CLI Apps with Click",
+      "url": "https://www.udemy.com/course/building-python-cli-apps-with-click/"
+    },
+    {
+      "title": "Setting Up a Real-World Project in JIRA",
+      "url": "https://www.udemy.com/course/setting-up-a-real-world-project-in-jira/"
+    },
+    {
+      "title": "SAP CPI for beginners with hands-on",
+      "url": "https://www.udemy.com/course/sap-cpi-for-beginners-with-hands-on/"
+    },
+    {
+      "title": "DevOps with AWS CodePipeline, Jenkins and AWS CodeDeploy",
+      "url": "https://www.udemy.com/course/ci-and-cd-with-aws-codepipeline-jenkins-and-aws-codedeploy/"
+    },
+    {
+      "title": "Hands-On Guide to Argo Workflows on Kubernetes",
+      "url": "https://www.udemy.com/course/hands-on-guide-to-argo-workflows-on-kubernetes/"
+    },
+    {
+      "title": "Complete IntelliJ IDEA 2019 course for beginners",
+      "url": "https://www.udemy.com/course/complete-intellij-idea-2019-course/"
+    },
+    {
+      "title": "SDLC - The System Development Life Cycle for Beginners",
+      "url": "https://www.udemy.com/course/sysdevlc/"
+    },
+    {
+      "title": "Online Electrical Training - Safety",
+      "url": "https://www.udemy.com/course/basic-electricity-safety-course/"
+    },
+    {
+      "title": "FluxCD 101 with Hands-On Labs",
+      "url": "https://www.udemy.com/course/gitops-flux/"
+    },
+    {
+      "title": "Learn Terminal from Beginner to Professional",
+      "url": "https://www.udemy.com/course/learn-bash-terminal/"
+    },
+    {
+      "title": "Salesforce Lightning Flow Builder with real time scenario",
+      "url": "https://www.udemy.com/course/complete-guide-to-salesforce-lightning-flow-builder/"
+    },
+    {
+      "title": "Capture, Edit, Render: Create UHD Screen Videos with NVIDIA",
+      "url": "https://www.udemy.com/course/capture-edit-render-create-uhd-screen-videos-with-nvidia/"
+    },
+    {
+      "title": "Supercharge Scala Future | FP-Tower",
+      "url": "https://www.udemy.com/course/supercharge-scala-future/"
+    },
+    {
+      "title": "Setup XAMPP run a local server web development",
+      "url": "https://www.udemy.com/course/setup-xampp-local-server/"
+    },
+    {
+      "title": "Docker & VS Code MasterClass",
+      "url": "https://www.udemy.com/course/become-a-docker-power-user-with-visual-studio-code/"
+    },
+    {
+      "title": "The Complete JIRA Agile Project Management Course",
+      "url": "https://www.udemy.com/course/the-complete-jira-agile-project-management-course/"
+    },
+    {
+      "title": "Infrastructure as Code, Master AWS Cloud Development Kit CDK",
+      "url": "https://www.udemy.com/course/aws-cdk-course/"
+    },
+    {
+      "title": "Practical DevOps with Microsoft Azure",
+      "url": "https://www.udemy.com/course/practical-devops-with-microsoft-azure/"
+    },
+    {
+      "title": "Easy Local Server Setup for Web development",
+      "url": "https://www.udemy.com/course/local-server/"
+    },
+    {
+      "title": "Crash Course on Git & GitHub for Personal Projects",
+      "url": "https://www.udemy.com/course/crash-course-on-git-github-distributed-version-control/"
+    },
+    {
+      "title": "Advanced Node-RED",
+      "url": "https://www.udemy.com/course/advanced-node-red/"
+    },
+    {
+      "title": "CMake from Zero to Hero",
+      "url": "https://www.udemy.com/course/cmake-on-fire/"
+    },
+    {
+      "title": "Git and GitHub for Developers",
+      "url": "https://www.udemy.com/course/git-for-developers/"
+    },
+    {
+      "title": "80 Xcode Tips To Improve Productivity - Xcode 9 iOS11 Swift4",
+      "url": "https://www.udemy.com/course/xcode-tips-and-tricks/"
+    },
+    {
+      "title": "Introduction to Node-RED",
+      "url": "https://www.udemy.com/course/introduction-to-node-red/"
+    },
+    {
+      "title": "Learn DevOps: Advanced Kubernetes Usage",
+      "url": "https://www.udemy.com/course/learn-devops-advanced-kubernetes-usage/"
+    },
+    {
+      "title": "Advanced R",
+      "url": "https://www.udemy.com/course/advanced-r/"
+    },
+    {
+      "title": "Learn MSP430 Programming while Implementing a Task Scheduler",
+      "url": "https://www.udemy.com/course/learn-msp430-programming/"
+    },
+    {
+      "title": "GitLab CI/CD Bootcamp| Zero to Hero| Certification Prep 2025",
+      "url": "https://www.udemy.com/course/gitlab-devops-cicd-pipelines-zero-to-hero-job-ready-2024/"
+    },
+    {
+      "title": "The Complete Apache Kafka course for beginners",
+      "url": "https://www.udemy.com/course/apache-kafka-tutorial-for-beginners/"
+    },
+    {
+      "title": "Helm - The Kubernetes Package Manager hands-on course",
+      "url": "https://www.udemy.com/course/helm-the-kubernetes-package-manager-hands-on-course/"
+    },
+    {
+      "title": "GIT and GitHub Crash Course | World's 1st Job QnA Prep-2025",
+      "url": "https://www.udemy.com/course/git-github-bootcamp-with-codespace-tothepoint-job-prep-2025/"
+    },
+    {
+      "title": "Python for Maya: Beginner to Advanced Rigging Automation",
+      "url": "https://www.udemy.com/course/python-for-maya-beginner-to-advanced-rigging-automation/"
+    },
+    {
+      "title": "Master VS Code: Learn To Use Visual Studio Code Like A Pro",
+      "url": "https://www.udemy.com/course/master-vs-code/"
+    },
+    {
+      "title": "ROS Ultimate Guide for Beginners with TurtleBot3 and Robot",
+      "url": "https://www.udemy.com/course/the-ultimate-guide-to-ros-simulate-your-robots/"
+    },
+    {
+      "title": "ChatGPT 2023: Code and Debug 10X Better, Faster, Stronger",
+      "url": "https://www.udemy.com/course/chatgpt-2023-code-and-debug-10x-better-faster-stronger/"
+    },
+    {
+      "title": "DevOps: Automate your infrastructure using Ansible and IaC",
+      "url": "https://www.udemy.com/course/automate-your-infrastructure-using-ansible-and-iac/"
+    },
+    {
+      "title": "The Complete Alexa Skill Development Bootcamp",
+      "url": "https://www.udemy.com/course/the-complete-alexa-skill-development-bootcamp/"
+    },
+    {
+      "title": "Jenkins 2 Bootcamp: Fully Automate Builds to Deployment 2020",
+      "url": "https://www.udemy.com/course/jenkins-continuous-integration-bootcamp/"
+    },
+    {
+      "title": "JIRA Administration - Getting Started with JIRA",
+      "url": "https://www.udemy.com/course/jira-administration-getting-started-with-jira/"
+    },
+    {
+      "title": "Complete Guide to Build IOT Things from Scratch to Market",
+      "url": "https://www.udemy.com/course/complete-guide-to-build-iot-things-from-scratch-to-market/"
+    },
+    {
+      "title": "NodeJS & MEAN Stack - for Beginners - In Easy way!",
+      "url": "https://www.udemy.com/course/nodejs-mean-stack-in-easy-way/"
+    },
+    {
+      "title": "Learning Path: Powershell: Getting Started with Powershell 6",
+      "url": "https://www.udemy.com/course/learning-path-powershell-getting-started-with-powershell-6/"
+    },
+    {
+      "title": "GitLab CI/CD: Pipelines, CI/CD and DevOps for Beginners",
+      "url": "https://www.udemy.com/course/gitlab-ci-pipelines-ci-cd-and-devops-for-beginners/"
+    },
+    {
+      "title": "Introduction to LINUX® Commands for DevOps",
+      "url": "https://www.udemy.com/course/linux-commands-for-devops-ci-cd/"
+    },
+    {
+      "title": "Hadoop Administration: Online Hadoop Admin Training",
+      "url": "https://www.udemy.com/course/hadoop-administration-online-hadoop-admin-training/"
+    },
+    {
+      "title": "Green screen video production for beginners",
+      "url": "https://www.udemy.com/course/green-screen-video-production-for-beginners/"
+    },
+    {
+      "title": "Ansible Essentials with Hands-on Labs",
+      "url": "https://www.udemy.com/course/ansible-essentials/"
+    },
+    {
+      "title": "Python Software, Application, Games, Automation Development",
+      "url": "https://www.udemy.com/course/python-software-application-games-automation-development/"
+    },
+    {
+      "title": "The Complete Prompt Engineering for AI Bootcamp (2025)",
+      "url": "https://www.udemy.com/course/prompt-engineering-for-ai/"
+    },
+    {
+      "title": "Troubleshooting Backend Performance",
+      "url": "https://www.udemy.com/course/discovering-backend-bottlenecks-unlocking-peak-performance/"
+    },
+    {
+      "title": "Apache Zookeeper Tutorial from Scratch",
+      "url": "https://www.udemy.com/course/apache-zookeeper-tutorial-from-scratch/"
+    },
+    {
+      "title": "Kubernetes and Docker Fundamentals For Beginners (Hands-on)",
+      "url": "https://www.udemy.com/course/kubernetes-for-beginners-ganesh-velrajan/"
+    },
+    {
+      "title": "Certified Git Software Developer",
+      "url": "https://www.udemy.com/course/questions-job-interview-software-developer-git/"
+    },
+    {
+      "title": "Launch Ethereum tokens & crowdsales without coding",
+      "url": "https://www.udemy.com/course/launch-ethereum-tokens-crowdsales-smart-contracts-without-coding/"
+    },
+    {
+      "title": "QlikView Server and Publisher",
+      "url": "https://www.udemy.com/course/qlikview-server-and-publisher/"
+    },
+    {
+      "title": "Big Data Analytics Using Sqoop and Hive",
+      "url": "https://www.udemy.com/course/big-data-analytics-using-sqoop-and-hive/"
+    },
+    {
+      "title": "Learn Github Actions for CI/CD DevOps Pipelines",
+      "url": "https://www.udemy.com/course/learn-github-actions-ci-cd-devops-pipelines/"
+    },
+    {
+      "title": "Vim Masterclass",
+      "url": "https://www.udemy.com/course/vim-commands-cheat-sheet/"
+    },
+    {
+      "title": "CI CD with GitHub Actions Workflow - Infra & App Deployment",
+      "url": "https://www.udemy.com/course/ci-cd-with-github-actions-workflow-infra-app-deployment/"
+    },
+    {
+      "title": "RF Microwave & Transmission Line Theory - RAHRF200",
+      "url": "https://www.udemy.com/course/rf-microwave-radio-transmission-theory-online-course-rahsoft-rahch200/"
+    },
+    {
+      "title": "Comprehensive Alexa Skill Development course (2018 Updated)",
+      "url": "https://www.udemy.com/course/comprehensive-alexa-skill-development-course/"
+    },
+    {
+      "title": "Field Oriented Control of Induction Motor Drives Simulink",
+      "url": "https://www.udemy.com/course/field-oriented-control-of-an-induction-motor-drive-simulink/"
+    },
+    {
+      "title": "SAP PO: Custom Adapter Module Training with 8 Programs",
+      "url": "https://www.udemy.com/course/sap-po-adapter-module-training-with-8-programs/"
+    },
+    {
+      "title": "Informatica Tutorial: Beginner to Expert Level",
+      "url": "https://www.udemy.com/course/informatica-tutorial-beginner-to-expert-level/"
+    },
+    {
+      "title": "K8s Native Java Microservices on Quarkus - 2022 Edition",
+      "url": "https://www.udemy.com/course/k8s-native-microservices-on-quarkus/"
+    },
+    {
+      "title": "Containers Under the Hood",
+      "url": "https://www.udemy.com/course/containers-under-the-hood/"
+    },
+    {
+      "title": "Master AI Development with Python& ChatGPT Practical Project",
+      "url": "https://www.udemy.com/course/chatgpt-for-programmer/"
+    },
+    {
+      "title": "Ultimate Prometheus",
+      "url": "https://www.udemy.com/course/ultimate-prometheus/"
+    },
+    {
+      "title": "GitHub Copilot Beginner to Pro - AI for Coding & Development",
+      "url": "https://www.udemy.com/course/github-copilot/"
+    },
+    {
+      "title": "Starting with EOS Blockchain for Developers",
+      "url": "https://www.udemy.com/course/starting-with-eos/"
+    },
+    {
+      "title": "Learn Node Red Programming in 48 Hours",
+      "url": "https://www.udemy.com/course/learn-node-red-programming-in-48-hours/"
+    },
+    {
+      "title": "The Complete Emacs Course",
+      "url": "https://www.udemy.com/course/emacs-course/"
+    },
+    {
+      "title": "All You Need to Know About REST Integration In ServiceNow",
+      "url": "https://www.udemy.com/course/servicenow-rest-integration/"
+    },
+    {
+      "title": "Team workflows in JIRA",
+      "url": "https://www.udemy.com/course/team-workflows-in-jira/"
+    },
+    {
+      "title": "2024 Intro to Agent-Based Modeling Simulation AI in NetLogo",
+      "url": "https://www.udemy.com/course/2020-intro-to-agent-based-modeling-simulation-ai-in-netlogo/"
+    },
+    {
+      "title": "Introduction to OpenAI API & ChatGPT API for Developers",
+      "url": "https://www.udemy.com/course/introduction-to-openai-api-chatgpt-api-chatgpt-plugins/"
+    },
+    {
+      "title": "Gitlab / GitLab CI For Beginners: Become a DevOps Expert Now",
+      "url": "https://www.udemy.com/course/gitlab-for-beginners/"
+    },
+    {
+      "title": "The Complete Git Guide: Understand and master Git and GitHub",
+      "url": "https://www.udemy.com/course/git-and-github-complete-guide/"
+    },
+    {
+      "title": "Salesforce Lightning Framework",
+      "url": "https://www.udemy.com/course/salesforce-lightning-framework/"
+    },
+    {
+      "title": "OpenAI API & ChatGPT for Automating & Business Productivity",
+      "url": "https://www.udemy.com/course/openai-api-chatgpt-for-automating-business-productivity/"
+    },
+    {
+      "title": "Learn Git with Bitbucket Cloud, SourceTree and GUI - HandsOn",
+      "url": "https://www.udemy.com/course/bitbucket-complete-learn-git-with-bitbucket-cloud-hands-on/"
+    },
+    {
+      "title": "Power BI for Beginners - Introduction - Zero to Dashboard",
+      "url": "https://www.udemy.com/course/power-bi-for-beginners-zero-to-dashboard/"
+    },
+    {
+      "title": "Basic Research: Google Forms Questionnaire Development",
+      "url": "https://www.udemy.com/course/basic-research-google-forms/"
+    },
+    {
+      "title": "Data Center DevOps: On-Prem Infrastructure Like The Cloud",
+      "url": "https://www.udemy.com/course/data-center-devops-on-prem-infrastructure-like-the-cloud/"
+    },
+    {
+      "title": "Data Analysis Crash Course For Beginners (Pandas + Python)",
+      "url": "https://www.udemy.com/course/pandas-basics/"
+    },
+    {
+      "title": "Git Github Gitkraken: Version Control without Command Line",
+      "url": "https://www.udemy.com/course/git-github-gitkraken-version-control-without-command-line/"
+    },
+    {
+      "title": "AWS Cloud Development Kit (CDK) - V2- Beginner to Advanced",
+      "url": "https://www.udemy.com/course/aws-cloud-development-kit-cdk-v2-beginner-to-advanced/"
+    },
+    {
+      "title": "Learn How to Use Git Extensions",
+      "url": "https://www.udemy.com/course/learn-how-to-use-git-extensions/"
+    },
+    {
+      "title": "Building Background Services in .NET with HangFire",
+      "url": "https://www.udemy.com/course/building-background-services-in-net-with-hangfire/"
+    },
+    {
+      "title": "Azure MasterClass: Analyze Data With Azure Stream Analytics",
+      "url": "https://www.udemy.com/course/azure-masterclass-analyze-data-with-azure-stream-analytics-azure-asa/"
+    },
+    {
+      "title": "Learn DevOps: On-Prem or Cloud Agnostic Kubernetes",
+      "url": "https://www.udemy.com/course/learn-devops-on-prem-or-cloud-agnostic-kubernetes/"
+    },
+    {
+      "title": "Professional Microsoft Azure DevOps Engineering",
+      "url": "https://www.udemy.com/course/professional-microsoft-azure-devops-engineering/"
+    },
+    {
+      "title": "The Complete Spark AR Course: Build 10 Instagram AR Effects",
+      "url": "https://www.udemy.com/course/the-complete-spark-ar-course/"
+    },
+    {
+      "title": "Vagrant Up! Comprehensive development system automation",
+      "url": "https://www.udemy.com/course/vagrant-up/"
+    },
+    {
+      "title": "Jenkins: Beginner To Pro, Learn CI/CD Pipelines & Automation",
+      "url": "https://www.udemy.com/course/jenkins-masterclass/"
+    },
+    {
+      "title": "The Complete Apache Kafka Practical Guide",
+      "url": "https://www.udemy.com/course/apache_kafka/"
+    },
+    {
+      "title": "5 Days of Matlab, Simulink & SimScape + ChatGPT - New!",
+      "url": "https://www.udemy.com/course/5-days-of-matlab-simulink-simscape-new-2022/"
+    },
+    {
+      "title": "Home Automation with Raspberry Pi and AWS - IoT - 2019",
+      "url": "https://www.udemy.com/course/awsraspberrypi/"
+    },
+    {
+      "title": "Google Kubernetes Engine (GKE) - A Beginner's Guide",
+      "url": "https://www.udemy.com/course/google-kubernetes-engine-hands-on-lab-for-absolute-beginners/"
+    },
+    {
+      "title": "Master New Cross-Platform IDE for .NET: Rider by JetBrains",
+      "url": "https://www.udemy.com/course/rider-ide/"
+    },
+    {
+      "title": "Mastering Salesforce Integration: Novice to Professional",
+      "url": "https://www.udemy.com/course/salesforce-integration-a-complete-guide/"
+    },
+    {
+      "title": "Learn Jenkins from a DevOps Guru",
+      "url": "https://www.udemy.com/course/jenkins-devops-pipeline-as-code/"
+    },
+    {
+      "title": "Publish Captain Rocket* iPhone game under 2 hours, Unity 5",
+      "url": "https://www.udemy.com/course/publish-captain-rocket-iphone-game-under-2-hours-unity-5/"
+    },
+    {
+      "title": "Jira Agile Project Management+JIRA+CONFLUENCE+Atlassian",
+      "url": "https://www.udemy.com/course/what-is-jira-agile-project-management/"
+    },
+    {
+      "title": "Google Chrome Developer Tools",
+      "url": "https://www.udemy.com/course/google-chrome-developer-tools/"
+    },
+    {
+      "title": "Essential Docker for Python Flask Development",
+      "url": "https://www.udemy.com/course/docker-flask-course/"
+    },
+    {
+      "title": "AWS Certified Developer Associate Practice Exams",
+      "url": "https://www.udemy.com/course/aws-certified-developer-associate-practice-exams-amazon-dva-c01/"
+    },
+    {
+      "title": "Generative AI : Create an impressive AI Art 2025",
+      "url": "https://www.udemy.com/course/ai-art-generation/"
+    },
+    {
+      "title": "Visual Studio Code Extension Development",
+      "url": "https://www.udemy.com/course/visual-studio-code-extension-development/"
+    },
+    {
+      "title": "Docker Masterclass For Java Spring Boot Developers",
+      "url": "https://www.udemy.com/course/docker-java/"
+    },
+    {
+      "title": "Flux CD Mastery: Automating Kubernetes with GitOps",
+      "url": "https://www.udemy.com/course/flux-cd-mastery-automating-kubernetes-with-gitops/"
+    },
+    {
+      "title": "Jira Complete Tutorial- Agile Management Tool for beginners",
+      "url": "https://www.udemy.com/course/jira-complete-tutorial-agile-management-tool-for-beginners/"
+    },
+    {
+      "title": "The Git and GitHub for Beginners",
+      "url": "https://www.udemy.com/course/git-github-crash-course/"
+    },
+    {
+      "title": "Docker Container Fundamentals (Hands-on) - DevOps",
+      "url": "https://www.udemy.com/course/docker-containers-for-beginners-ganesh-velrajan/"
+    },
+    {
+      "title": "Git, GitHub & Markdown Crash Course: Learn Git, GitHub & MD",
+      "url": "https://www.udemy.com/course/git-github-markdown-crash-course-learn-git-github-md/"
+    },
+    {
+      "title": "Bash Shell Scripting Tutorial for Beginners",
+      "url": "https://www.udemy.com/course/bash-shell-scripting-tutorial-for-beginners/"
+    },
+    {
+      "title": "Mastering GitHub Actions & DevOps: Optimize Your Workflow",
+      "url": "https://www.udemy.com/course/become-the-jedi-of-cicd-github-actions/"
+    },
+    {
+      "title": "Git & GitHub for Beginners: From Start to Star",
+      "url": "https://www.udemy.com/course/git-github-for-beginners-from-start-to-star/"
+    },
+    {
+      "title": "Mastering Intellij IDEA and Android Studio",
+      "url": "https://www.udemy.com/course/mastering-intellij-idea-and-android-studio/"
+    },
+    {
+      "title": "Apache Spark and Scala",
+      "url": "https://www.udemy.com/course/apache-spark-and-scala/"
+    },
+    {
+      "title": "Robotic Process Automation using WinAutomation 8",
+      "url": "https://www.udemy.com/course/robotic-process-automation-using-winautomation-8/"
+    },
+    {
+      "title": "Complete Kubernetes: An Easy and Practical Guide",
+      "url": "https://www.udemy.com/course/rapida-introducao-ao-orquestrador-de-containers-kubernetes/"
+    },
+    {
+      "title": "Effective Modern CMake: Level Beginner",
+      "url": "https://www.udemy.com/course/effective-modern-cmake-level-beginner/"
+    },
+    {
+      "title": "Modern CI/CD with GitLab: Productivity and Workflow Boost",
+      "url": "https://www.udemy.com/course/modern-cicd-pipelines-with-gitlab-productivity-and-workflow-boost/"
+    },
+    {
+      "title": "Build a full-stack application in minutes with Node-RED",
+      "url": "https://www.udemy.com/course/node-red-1/"
+    },
+    {
+      "title": "Salesforce Administrator Fundamentals : A Complete Guide",
+      "url": "https://www.udemy.com/course/salesforce-administrator-fundamentals-a-complete-guide/"
+    },
+    {
+      "title": "Drone Programming",
+      "url": "https://www.udemy.com/course/software-development-for-ardupilot-powered-unmanned-systems/"
+    },
+    {
+      "title": "Fundamentals of Electrical Instrumentation",
+      "url": "https://www.udemy.com/course/fundamentals-of-electrical-instrumentation/"
+    },
+    {
+      "title": "The Ultimate Git & Github Course 2025",
+      "url": "https://www.udemy.com/course/the-ultimate-git-github-course/"
+    },
+    {
+      "title": "Basics in Cloud Computing with SAP Cloud Platform",
+      "url": "https://www.udemy.com/course/sap-cloud-platform-complete-understanding-with-hands-on/"
+    },
+    {
+      "title": "Learn Basic to Advance JIRA for Testers/QA/Test Manager-2024",
+      "url": "https://www.udemy.com/course/jirawithagile/"
+    },
+    {
+      "title": "Apache Maven - The complete course",
+      "url": "https://www.udemy.com/course/apache-maven-the-complete-course/"
+    },
+    {
+      "title": "The Complete Course of Apache Solr 2025",
+      "url": "https://www.udemy.com/course/solr-course/"
+    },
+    {
+      "title": "Zoho Creator: Learn How to Build Applications step-by-step",
+      "url": "https://www.udemy.com/course/zoho-creator-learn-how-to-build-business-web-applications-step-by-step/"
+    },
+    {
+      "title": "Enhancing command line productivity with Bash (& not only)",
+      "url": "https://www.udemy.com/course/enhancing-command-line-productivity-with-bash/"
+    },
+    {
+      "title": "Hands-On Auto DevOps with GitLab CI",
+      "url": "https://www.udemy.com/course/hands-on-auto-devops-with-gitlab-ci/"
+    },
+    {
+      "title": "DevOps Engineering - A Complete Guide",
+      "url": "https://www.udemy.com/course/devops-engineering-git-github-maven-junit-log4j/"
+    },
+    {
+      "title": "Kubernetes On The Cloud & The CNCF CKA Certification",
+      "url": "https://www.udemy.com/course/kubernetes-cka-on-cloud/"
+    },
+    {
+      "title": "Alteryx Bootcamp",
+      "url": "https://www.udemy.com/course/alteryx-bootcamp/"
+    },
+    {
+      "title": "Learn DevOps: CI/CD with Jenkins using Pipelines and Docker",
+      "url": "https://www.udemy.com/course/learn-devops-ci-cd-with-jenkins-using-pipelines-and-docker/"
+    },
+    {
+      "title": "Docker for the Absolute Beginner - Hands On!",
+      "url": "https://www.udemy.com/course/docker-images-containers-devops-cicd/"
+    },
+    {
+      "title": "Module 3: Piping Engineering & Design - ENGLISH",
+      "url": "https://www.udemy.com/course/module-3-piping-engineering-design-english/"
+    },
+    {
+      "title": "Git Masterclass",
+      "url": "https://www.udemy.com/course/git-masterclass/"
+    },
+    {
+      "title": "Understanding Jira for Users, Managers and Admins",
+      "url": "https://www.udemy.com/course/introduction-to-jira/"
+    },
+    {
+      "title": "AWS CDK with Python Step by Step",
+      "url": "https://www.udemy.com/course/aws-cdk-with-python-step-by-step/"
+    },
+    {
+      "title": "DevOps Tutorial: Complete Beginners Training - 5 in 1 Bundle",
+      "url": "https://www.udemy.com/course/devops-docker-complete-guide-hands-on-with-practical/"
+    },
+    {
+      "title": "Complete AWS ECS Bootcamp (Beginner friendly)",
+      "url": "https://www.udemy.com/course/aws-ecs-devops-masterclass/"
+    },
+    {
+      "title": "Deploy a Serverless Django app on Google App Engine",
+      "url": "https://www.udemy.com/course/serverless/"
+    },
+    {
+      "title": "Building reports in Java with JasperReports and JasperStudio",
+      "url": "https://www.udemy.com/course/build-java-reports-with-jasperreports-and-jasperstudio/"
+    },
+    {
+      "title": "Bluebeam in 3 Hours",
+      "url": "https://www.udemy.com/course/bluebeam-in-3-hours/"
+    },
+    {
+      "title": "Jenkins, From Zero To Hero: Become a DevOps Jenkins Master",
+      "url": "https://www.udemy.com/course/jenkins-from-zero-to-hero/"
+    },
+    {
+      "title": "Generative AI for .NET Developers with Azure AI Services",
+      "url": "https://www.udemy.com/course/generative-ai-for-net-developers-with-azure-ai-services/"
+    },
+    {
+      "title": "DevOps Project: CICD with Git GitLab Jenkins and Laravel",
+      "url": "https://www.udemy.com/course/devops-project-cicd-with-git-gitlab-jenkins-and-laravel/"
+    },
+    {
+      "title": "ChatGPT for .NET developers",
+      "url": "https://www.udemy.com/course/chatgpt-for-dotnet-developers/"
+    },
+    {
+      "title": "Kubernetes Hands-On - Deploy Microservices to the AWS Cloud",
+      "url": "https://www.udemy.com/course/kubernetes-microservices/"
+    },
+    {
+      "title": "Double Your Coding Speed with Visual Studio and ReSharper",
+      "url": "https://www.udemy.com/course/vs-resharper/"
+    },
+    {
+      "title": "5 DevOps Project- Jenkins, K8s ,Docker, AWS, SonarQube,Nexus",
+      "url": "https://www.udemy.com/course/5-devops-project-jenkins-k8s-docker-aws-sonarqubenexus/"
+    },
+    {
+      "title": "Prometheus | The Complete Hands-On for Monitoring & Alerting",
+      "url": "https://www.udemy.com/course/prometheus-course/"
+    },
+    {
+      "title": "Git Crash Course: Getting Started with Git and GitHub",
+      "url": "https://www.udemy.com/course/git-crash-course-getting-started-with-git-and-github/"
+    },
+    {
+      "title": "Introduction to Docker and the DCA Certification",
+      "url": "https://www.udemy.com/course/introduction-to-docker-and-the-dca-certification/"
+    },
+    {
+      "title": "Java Certification - I (OCA): Practice for 1Z0-808 Exam",
+      "url": "https://www.udemy.com/course/java-certification-i-oca-practice-for-1z0-808-exam-i/"
+    },
+    {
+      "title": "OpenAPI Specification & Swagger Tools - Zero To Master",
+      "url": "https://www.udemy.com/course/openapi-specification-swagger-tools-zero-to-master/"
+    },
+    {
+      "title": "Alteryx Designer Advanced Certification Mega Bundle",
+      "url": "https://www.udemy.com/course/alteryx-designer-advanced-certification-bootcamp/"
+    },
+    {
+      "title": "TALEND - Data Integration & ETL with Talend",
+      "url": "https://www.udemy.com/course/data-integration-etl-with-talend/"
+    },
+    {
+      "title": "DevOps: CICD with Git GitLab Jenkins, Docker and Django",
+      "url": "https://www.udemy.com/course/devops-project-cicd-with-git-gitlab-jenkins-and-django/"
+    },
+    {
+      "title": "Hands-On Continuous Integration and Delivery with Jenkins X",
+      "url": "https://www.udemy.com/course/hands-on-continuous-integration-and-delivery-with-jenkins-x/"
+    },
+    {
+      "title": "AI with GitHub Copilot for Python & Django REST Developers",
+      "url": "https://www.udemy.com/course/mastering-github-copilot-for-python-django-rest-developers/"
+    },
+    {
+      "title": "Real World BizTalk 2020 For Developers",
+      "url": "https://www.udemy.com/course/real-world-biztalk-2020-for-developers/"
+    },
+    {
+      "title": "Get into DevOps: Best Practices for Docker with Jenkins",
+      "url": "https://www.udemy.com/course/continuous-integration-docker-jenkins/"
+    },
+    {
+      "title": "Learn Java Debugging using VS Code",
+      "url": "https://www.udemy.com/course/java-debugging-with-visual-studio-code-the-ultimate-guide/"
+    },
+    {
+      "title": "REAL-WORLD JENKINS CI/CD PIPELINES & DEVOPS For PYTHON",
+      "url": "https://www.udemy.com/course/cicd-pipelines-devops-jenkins-python-docker/"
+    },
+    {
+      "title": "Git for Beginners",
+      "url": "https://www.udemy.com/course/git-for-beginners-course/"
+    },
+    {
+      "title": "Git & Github Master Course",
+      "url": "https://www.udemy.com/course/git-github-master-course/"
+    },
+    {
+      "title": "DevOps, CI/CD(Continuous Integration/Delivery) for Beginners",
+      "url": "https://www.udemy.com/course/ci-cd-devops/"
+    },
+    {
+      "title": "Become an Azure DevOps Hero",
+      "url": "https://www.udemy.com/course/azure-devops/"
+    },
+    {
+      "title": "Crisper Learning for Robotics Process Automation - UiPath",
+      "url": "https://www.udemy.com/course/crisper-learning-for-uipath/"
+    },
+    {
+      "title": "Git for Beginners: Learn Version Control",
+      "url": "https://www.udemy.com/course/learn-git-from-scratch-for-beginners/"
+    },
+    {
+      "title": "CircleCI: The Complete Introduction",
+      "url": "https://www.udemy.com/course/circleci-the-complete-introduction/"
+    },
+    {
+      "title": "Apache NiFi - A Complete Introduction | Master the Flow",
+      "url": "https://www.udemy.com/course/apache-nifi-course/"
+    },
+    {
+      "title": "Apache Maven: Beginner to Guru",
+      "url": "https://www.udemy.com/course/apache-maven-beginner-to-guru/"
+    },
+    {
+      "title": "SAP PO: Java Mapping Training with 10 Programs",
+      "url": "https://www.udemy.com/course/sap-po-java-mapping-training-with-10-programs/"
+    },
+    {
+      "title": "Create Chatbots using Dialogflow v1& deploy on GCloud",
+      "url": "https://www.udemy.com/course/create-chatbots-using-apiai-and-deploy-on-google-cloud/"
+    },
+    {
+      "title": "Microservices With Kubernetes, Docker & API Gateway Kong",
+      "url": "https://www.udemy.com/course/microservices-with-kubernetes-docker-api-gateway-kong/"
+    },
+    {
+      "title": "Docker from A to Z™: Swarm + Jenkins",
+      "url": "https://www.udemy.com/course/a-practical-guide-to-docker-swarm-and-jenkins/"
+    },
+    {
+      "title": "Entity Framework Core - A Full Tour",
+      "url": "https://www.udemy.com/course/entity-framework-core-a-full-tour/"
+    },
+    {
+      "title": "PCB Design a Tiny Arduino In Altium CircuitMaker",
+      "url": "https://www.udemy.com/course/pcb-design-a-tiny-arduino-in-altium-circuitmaker/"
+    },
+    {
+      "title": "Project Implementation on Salesforce Einstein Analytics",
+      "url": "https://www.udemy.com/course/salesforce-einstein-analytics-project/"
+    },
+    {
+      "title": "The Complete Docker Bootcamp for Web Developers (2022 ready)",
+      "url": "https://www.udemy.com/course/docker-and-docker-compose-hands-on-by-example/"
+    },
+    {
+      "title": "Master vi / vim Linux Command Line Text Editor",
+      "url": "https://www.udemy.com/course/vim-master-course/"
+    },
+    {
+      "title": "Agile Scrum: An Overview",
+      "url": "https://www.udemy.com/course/scrum-overview/"
+    },
+    {
+      "title": "AI with GitHub Copilot for Java & Spring Boot Developers",
+      "url": "https://www.udemy.com/course/mastering-github-copilot-for-java-spring-boot-developers/"
+    },
+    {
+      "title": "Managing Frappe/ERPNext Custom Code via GitHub",
+      "url": "https://www.udemy.com/course/managing-frappe-erpnext-custom-code-via-github/"
+    },
+    {
+      "title": "Learn Git Fast: Git & GitHub Version Control Guide",
+      "url": "https://www.udemy.com/course/master-git-fast-your-practical-guide-to-version-control/"
+    },
+    {
+      "title": "Introduction to Git, GitHub, GitLab",
+      "url": "https://www.udemy.com/course/introduction-to-git-github-with-visual-studio-code/"
+    },
+    {
+      "title": "Microcontrollers & Embedded Systems: Use Real STM32 Online",
+      "url": "https://www.udemy.com/course/microcontrollers-iot-learn-with-real-online-hardware/"
+    }
+  ]
+}

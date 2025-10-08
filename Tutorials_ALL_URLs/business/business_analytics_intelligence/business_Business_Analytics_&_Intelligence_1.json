@@ -1,0 +1,2054 @@
+{
+  "main_category": "business",
+  "sub_category": "Business Analytics & Intelligence",
+  "courses": [
+    {
+      "title": "Microsoft Power BI: The Complete Guide",
+      "url": "https://www.udemy.com/course/microsoft-power-bi-the-complete-guide/"
+    },
+    {
+      "title": "Big Data and Hadoop for Beginners - with Hands-on!",
+      "url": "https://www.udemy.com/course/big-data-and-hadoop-for-beginners/"
+    },
+    {
+      "title": "Google BigQuery & PostgreSQL : Big Query for Data Analysis",
+      "url": "https://www.udemy.com/course/google-bigquery-and-postgresql-sql-for-data-analysis/"
+    },
+    {
+      "title": "Tableau Desktop for Data Analysis & Data Visualization",
+      "url": "https://www.udemy.com/course/up-running-with-tableau-desktop/"
+    },
+    {
+      "title": "Microsoft Power BI - Beginner to Pro",
+      "url": "https://www.udemy.com/course/microsoft-power-bi-beginner-to-pro/"
+    },
+    {
+      "title": "Statistical Data Analysis with SAS",
+      "url": "https://www.udemy.com/course/statistical-data-analysis-with-sas/"
+    },
+    {
+      "title": "10 Days: Prompt Engineering, Generative AI and Data Science",
+      "url": "https://www.udemy.com/course/xgboost-python-r/"
+    },
+    {
+      "title": "Complete Introduction to Business Data Analysis",
+      "url": "https://www.udemy.com/course/the-complete-introduction-to-business-data-analysis/"
+    },
+    {
+      "title": "How to tell a story with data",
+      "url": "https://www.udemy.com/course/tell-a-story-with-data/"
+    },
+    {
+      "title": "Build Insightful Dashboards with Google Data Studio",
+      "url": "https://www.udemy.com/course/build-interactive-dashboards-and-reports-with-google-data-studio/"
+    },
+    {
+      "title": "Microsoft Power BI: A Complete Guide",
+      "url": "https://www.udemy.com/course/microsoft-power-bi-complete-guide-2022-edition/"
+    },
+    {
+      "title": "Master Time Series Analysis and Forecasting with Python 2025",
+      "url": "https://www.udemy.com/course/forecasting-python/"
+    },
+    {
+      "title": "Excel Analytics: Linear Regression Analysis in MS Excel",
+      "url": "https://www.udemy.com/course/predictive-regression-modelling-in-microsoft-excel/"
+    },
+    {
+      "title": "Data Analysis & Business Intelligence: SQL MySQL Power BI",
+      "url": "https://www.udemy.com/course/data-analysis-business-intelligence-sql-mysql-power-bi/"
+    },
+    {
+      "title": "Data Analysis And Business Intelligence With Microsoft Excel",
+      "url": "https://www.udemy.com/course/microsoft-excel-business-intelligence/"
+    },
+    {
+      "title": "Recommender Systems and Deep Learning in Python",
+      "url": "https://www.udemy.com/course/recommender-systems/"
+    },
+    {
+      "title": "Applied Multivariate Analysis with R",
+      "url": "https://www.udemy.com/course/applied-multivariate-analysis-with-r/"
+    },
+    {
+      "title": "Data Science & Deep Learning for Business™ 20 Case Studies",
+      "url": "https://www.udemy.com/course/data-science-deep-learning-for-business-20-case-studies/"
+    },
+    {
+      "title": "RA: Retail Planning,Assortment Analytics with Excel & Python",
+      "url": "https://www.udemy.com/course/ra-retail-management-analytics-with-excel-pythonep23/"
+    },
+    {
+      "title": "Mastering Business Analysis, Scrum and JIRA for Development",
+      "url": "https://www.udemy.com/course/business-analysis-for-everyone/"
+    },
+    {
+      "title": "Intro to Trifacta: Clean Your Data Quickly and Easily",
+      "url": "https://www.udemy.com/course/intro-to-trifacta-and-data-cleaning/"
+    },
+    {
+      "title": "Mastering DAX Calculations in Microsoft Power BI",
+      "url": "https://www.udemy.com/course/mastering-dax-calculations/"
+    },
+    {
+      "title": "Excel Skills for Insurance Professionals",
+      "url": "https://www.udemy.com/course/excel-skills-for-insurance-professionals/"
+    },
+    {
+      "title": "Spotfire Interview Tech Questions Answered with Explanation",
+      "url": "https://www.udemy.com/course/tibco-spotfire-interview-technical-questions-answered-with-explanation/"
+    },
+    {
+      "title": "Complete Excel Data Analysis Bootcamp For Beginners",
+      "url": "https://www.udemy.com/course/complete-excel-data-analysis-bootcamp-for-beginners/"
+    },
+    {
+      "title": "The Data Literacy Course: Learn How to Work With Data",
+      "url": "https://www.udemy.com/course/the-data-literacy-course-learn-how-to-work-with-data/"
+    },
+    {
+      "title": "Alteryx Masterclass - crash course in alteryx for beginners",
+      "url": "https://www.udemy.com/course/alteryx-masterclass-a-crashcourse-for-beginners/"
+    },
+    {
+      "title": "Data Analysis & Statistics: practical course for beginners",
+      "url": "https://www.udemy.com/course/data-analysis-statistics/"
+    },
+    {
+      "title": "SPSS Masterclass: Learn SPSS From Scratch to Advanced",
+      "url": "https://www.udemy.com/course/spss-statistics-foundation-course-from-scratch-to-advanced/"
+    },
+    {
+      "title": "IIBA CBAP CCBA ECBA Business Analysis Certification - Part 2",
+      "url": "https://www.udemy.com/course/iiba-cbap-ccba-ecba-business-analysis-certification-part-2/"
+    },
+    {
+      "title": "Blockchain A-Z: Build a Blockchain, a Crypto + ChatGPT Prize",
+      "url": "https://www.udemy.com/course/build-your-blockchain-az/"
+    },
+    {
+      "title": "Business Analysis Modeling Skills & Techniques",
+      "url": "https://www.udemy.com/course/visual-modeling-master-class/"
+    },
+    {
+      "title": "MongoDB Administration",
+      "url": "https://www.udemy.com/course/mongodb-administration/"
+    },
+    {
+      "title": "Crash Course : SAS Programming from Scratch with workout",
+      "url": "https://www.udemy.com/course/sas-programming-made-easy-with-examples/"
+    },
+    {
+      "title": "Microsoft Power BI desktop for Business Intelligence and DAX",
+      "url": "https://www.udemy.com/course/microsoft-powerbi-for-business-analytics-and-intelligence/"
+    },
+    {
+      "title": "SQL for Healthcare",
+      "url": "https://www.udemy.com/course/sql-for-healthcare/"
+    },
+    {
+      "title": "Data Quality Fundamentals",
+      "url": "https://www.udemy.com/course/data-quality-fundamentals/"
+    },
+    {
+      "title": "Principal Component Analysis (PCA) and Factor Analysis",
+      "url": "https://www.udemy.com/course/principal-component-analysis-pca-and-factor-analysis/"
+    },
+    {
+      "title": "Tableau fundamentals for beginners - A Tableau crash course",
+      "url": "https://www.udemy.com/course/tableau-fundamentals-for-beginners-a-crash-course/"
+    },
+    {
+      "title": "Tableau Advanced: Master Tableau in Data Science",
+      "url": "https://www.udemy.com/course/tableau10-advanced/"
+    },
+    {
+      "title": "Master DAX fundamentals : Power BI, Power Pivot & SSAS",
+      "url": "https://www.udemy.com/course/master-dax-fundamentals-power-bi-power-pivot-ssas/"
+    },
+    {
+      "title": "Customer Behavior Analysis with SQL and Tableau",
+      "url": "https://www.udemy.com/course/customer-behavior-analysis-with-sql-and-tableau/"
+    },
+    {
+      "title": "Customer Acquisition Cost and Customer Lifetime Value",
+      "url": "https://www.udemy.com/course/customer-acquisition-cost-and-customer-lifetime-value/"
+    },
+    {
+      "title": "Plan the Project as a Business Analyst - IIBA Endorsed",
+      "url": "https://www.udemy.com/course/business-analysis-plan-the-project/"
+    },
+    {
+      "title": "Data Manipulation With Dplyr in R",
+      "url": "https://www.udemy.com/course/data-manipulation-with-dplyr-in-r/"
+    },
+    {
+      "title": "Data Analyst's Toolbox: Excel, SQL, Power BI",
+      "url": "https://www.udemy.com/course/data-analysts-toolbox-excel-to-mysql-am/"
+    },
+    {
+      "title": "The Complete QlikView Boot Camp",
+      "url": "https://www.udemy.com/course/the-complete-qlikview-boot-camp/"
+    },
+    {
+      "title": "Microsoft Power BI Portfolio in a Day",
+      "url": "https://www.udemy.com/course/microsoft-power-bi-portfolio-in-a-day/"
+    },
+    {
+      "title": "Complete Introduction to Looker Studio (Google Data Studio)",
+      "url": "https://www.udemy.com/course/data-analysis-and-dashboards-with-google-data-studio/"
+    },
+    {
+      "title": "Jamovi: A Powerful R-based Statistical Analyses Tool",
+      "url": "https://www.udemy.com/course/jamovicourse/"
+    },
+    {
+      "title": "Business Analysis: Function Modelling Using IDEF0",
+      "url": "https://www.udemy.com/course/business-analysis-function-modelling-using-idef0/"
+    },
+    {
+      "title": "TABLEAU 2018: Hands-On Tableau Training For Data Science!",
+      "url": "https://www.udemy.com/course/tableau-2018/"
+    },
+    {
+      "title": "Statistics for Data Analysis Using Python",
+      "url": "https://www.udemy.com/course/statistics-with-python/"
+    },
+    {
+      "title": "Tableau 10 and Tableau 9.3 Desktop, Server & Data Science",
+      "url": "https://www.udemy.com/course/tableau-92-93-new-features/"
+    },
+    {
+      "title": "Tableau for Business Analytics and Marketing",
+      "url": "https://www.udemy.com/course/tableau-for-marketing/"
+    },
+    {
+      "title": "ChatGPT and Your First Online Income: A Practical Course",
+      "url": "https://www.udemy.com/course/chatgpt-and-online-income-a-practical-course/"
+    },
+    {
+      "title": "AI for Business - AI Applications for Business Success",
+      "url": "https://www.udemy.com/course/ai-for-business-ai-applications-for-business-success/"
+    },
+    {
+      "title": "Microsoft Fabric - The Complete Guide",
+      "url": "https://www.udemy.com/course/microsoft-fabric-the-complete-guide/"
+    },
+    {
+      "title": "Land Your First Business Analyst Position",
+      "url": "https://www.udemy.com/course/5-steps-to-becoming-a-business-analyst/"
+    },
+    {
+      "title": "Alteryx 2023: The complete Alteryx course for all levels",
+      "url": "https://www.udemy.com/course/the-alteryx-masterclass/"
+    },
+    {
+      "title": "Essential Process Mapping for Management Consultants",
+      "url": "https://www.udemy.com/course/essential-process-mapping-for-management-consultants/"
+    },
+    {
+      "title": "SQL Data Analytics with Tableau Data Visualisation",
+      "url": "https://www.udemy.com/course/sqlserver-2019-data-analytics-tableau-data-visualisation/"
+    },
+    {
+      "title": "Certified: \"Learning Analytics\" for L&D Professionals",
+      "url": "https://www.udemy.com/course/learning-analytics-for-l-and-d-professionals/"
+    },
+    {
+      "title": "R for Beginners",
+      "url": "https://www.udemy.com/course/r-for-beginners/"
+    },
+    {
+      "title": "Report Writing: Learn To Write An Analytical Business Report",
+      "url": "https://www.udemy.com/course/business-report-writing/"
+    },
+    {
+      "title": "Data Mining for Business Analytics & Data Analysis in Python",
+      "url": "https://www.udemy.com/course/data-mining-python/"
+    },
+    {
+      "title": "Microsoft Excel: Essential Statistics for Data Analysis",
+      "url": "https://www.udemy.com/course/essential-statistics-for-data-analysis/"
+    },
+    {
+      "title": "Business Analysis Certification Program – The Concepts",
+      "url": "https://www.udemy.com/course/business-analysis-certification-program-the-concepts/"
+    },
+    {
+      "title": "Business Analyst: Project Management Techniques and Tools",
+      "url": "https://www.udemy.com/course/project-management-for-business-analyst/"
+    },
+    {
+      "title": "Data Mesh - quick intro for complete beginners",
+      "url": "https://www.udemy.com/course/learn-data-mesh-the-complete-course/"
+    },
+    {
+      "title": "Microsoft Excel Data Analysis: Formulas & Pivot Tables",
+      "url": "https://www.udemy.com/course/microsoft-excel-for-data-analysis/"
+    },
+    {
+      "title": "Pentaho(PDI) Fundamentals and DWH Concepts",
+      "url": "https://www.udemy.com/course/pentaho-data/"
+    },
+    {
+      "title": "Data Analysts Toolbox: Excel, Python, Power BI, PivotTables",
+      "url": "https://www.udemy.com/course/data-analysts-toolbox-excel-python-power-bi/"
+    },
+    {
+      "title": "Preprocessing Data with NumPy",
+      "url": "https://www.udemy.com/course/preprocessing-data-with-numpy/"
+    },
+    {
+      "title": "Essentials of SmartPLS 4: For Research and Data Analysis",
+      "url": "https://www.udemy.com/course/essentials-of-smartpls-4-for-research-and-data-analysis/"
+    },
+    {
+      "title": "Data Science, Analytics & AI for Business & the Real World™",
+      "url": "https://www.udemy.com/course/data-science-analytics-ai-for-business-the-real-world/"
+    },
+    {
+      "title": "Advanced SAS Course by Solving Questions and Use Cases",
+      "url": "https://www.udemy.com/course/advanced-sas-course-by-solving-questions-and-use-cases/"
+    },
+    {
+      "title": "Knowledge Management",
+      "url": "https://www.udemy.com/course/knowledge-management/"
+    },
+    {
+      "title": "Introduction to Business Analytics",
+      "url": "https://www.udemy.com/course/introduction-to-business-analytics/"
+    },
+    {
+      "title": "Microsoft Power BI Desktop Data Analyst Masterclass",
+      "url": "https://www.udemy.com/course/microsoft-power-bi-desktop-masterclass-2023-edition/"
+    },
+    {
+      "title": "15 days of Power BI - Complete Microsoft Power BI Bootcamp",
+      "url": "https://www.udemy.com/course/15-days-of-power-bi/"
+    },
+    {
+      "title": "Introduction to Data Visualization",
+      "url": "https://www.udemy.com/course/introduction-to-data-visualization-c/"
+    },
+    {
+      "title": "Data Analytics Career Path: 72 Days of Data Analyst Bootcamp",
+      "url": "https://www.udemy.com/course/data-analytics-career-track/"
+    },
+    {
+      "title": "Blockchain for Business 2022: 50+ Real World Applications",
+      "url": "https://www.udemy.com/course/blockchain-for-business-50-applications-startup-ideas/"
+    },
+    {
+      "title": "Data Science for Business Leaders: ML Fundamentals",
+      "url": "https://www.udemy.com/course/data-science-for-business-leaders-machine-learning-defined/"
+    },
+    {
+      "title": "The Advanced QlikView Developer Bootcamp",
+      "url": "https://www.udemy.com/course/the-advanced-qlikview-developer-bootcamp/"
+    },
+    {
+      "title": "Power BI For Beginners: Power BI Zero to Hero FAST-TRACK",
+      "url": "https://www.udemy.com/course/power-bi-microsoft-power-bi-certification/"
+    },
+    {
+      "title": "Zero to Hero in SQL: SQL for Data Analytics",
+      "url": "https://www.udemy.com/course/the-complete-sql-masterclass-for-data-analytics/"
+    },
+    {
+      "title": "Advanced SQL: MySQL for Ecommerce Data Analysis",
+      "url": "https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/"
+    },
+    {
+      "title": "Analytics For All",
+      "url": "https://www.udemy.com/course/data-analytics-for-beginners/"
+    },
+    {
+      "title": "Business Process Management Foundation",
+      "url": "https://www.udemy.com/course/business-analysis-102/"
+    },
+    {
+      "title": "Process Flowcharts & Process Mapping - The Advanced Guide",
+      "url": "https://www.udemy.com/course/advanced-process-flowcharts/"
+    },
+    {
+      "title": "The Ultimate Google Analytics Course For Beginners 2025",
+      "url": "https://www.udemy.com/course/ultimate-google-analytics-training-for-beginners/"
+    },
+    {
+      "title": "Amazon (AWS) QuickSight, Glue, Athena and S3 Fundamentals",
+      "url": "https://www.udemy.com/course/aws-quicksight-datalake/"
+    },
+    {
+      "title": "Microsoft Excel Crash Course for Business Analysts",
+      "url": "https://www.udemy.com/course/excel-basics-for-busy-individuals/"
+    },
+    {
+      "title": "Start Doing Data Analytics With PowerBI in Under TWO Hours",
+      "url": "https://www.udemy.com/course/start-doing-data-analytics-with-powerbi-in-under-two-hours/"
+    },
+    {
+      "title": "Tableau Server 2019.1 Administration",
+      "url": "https://www.udemy.com/course/tableauserver2019/"
+    },
+    {
+      "title": "Tableau Desktop: Speed & Performance Optimization",
+      "url": "https://www.udemy.com/course/tableau-desktop-speed-performance/"
+    },
+    {
+      "title": "Alteryx: Data Science for Non-Scientists",
+      "url": "https://www.udemy.com/course/alteryx-mastery/"
+    },
+    {
+      "title": "Master Course : Data Lakehouse Fundamentals in Data Science",
+      "url": "https://www.udemy.com/course/data-lakehouse-fundamentals-in-data-science/"
+    },
+    {
+      "title": "Colors for Data Science A-Z: Data Visualization Color Theory",
+      "url": "https://www.udemy.com/course/colordata/"
+    },
+    {
+      "title": "Business Analysis Essentials",
+      "url": "https://www.udemy.com/course/business-analysis-essentials/"
+    },
+    {
+      "title": "Metadata Management Masterclass - The Ultimate Course",
+      "url": "https://www.udemy.com/course/metadata-management-masterclass-the-ultimate-course/"
+    },
+    {
+      "title": "The Complete SQL Bootcamp: Go from Zero to Hero",
+      "url": "https://www.udemy.com/course/the-complete-sql-bootcamp/"
+    },
+    {
+      "title": "A Deep Dive into Forecasting- Excel & R.",
+      "url": "https://www.udemy.com/course/a-deep-dive-into-statistical-forecasting/"
+    },
+    {
+      "title": "Complete PySpark & Google Colab Primer For Data Science",
+      "url": "https://www.udemy.com/course/complete-pyspark-google-colab-primer-for-data-science/"
+    },
+    {
+      "title": "Cleaning Data In R with Tidyverse and Data.table",
+      "url": "https://www.udemy.com/course/data-cleaning-in-r-tidyverse/"
+    },
+    {
+      "title": "Python + SQL + Tableau: Integrating Python, SQL, and Tableau",
+      "url": "https://www.udemy.com/course/python-sql-tableau-integrating-python-sql-and-tableau/"
+    },
+    {
+      "title": "Sales Forecasting",
+      "url": "https://www.udemy.com/course/sales-forecasting/"
+    },
+    {
+      "title": "Mastering Data Visualization with R",
+      "url": "https://www.udemy.com/course/data-visualization-in-r-base-lattice-ggplot/"
+    },
+    {
+      "title": "Master Course in Tableau for Business Intelligence",
+      "url": "https://www.udemy.com/course/mastertableau/"
+    },
+    {
+      "title": "The Ultimate BPM and BPMN 2.0 Course",
+      "url": "https://www.udemy.com/course/the-ultimate-bpm-and-bpmn-2-0-course/"
+    },
+    {
+      "title": "RA: Data Science and Supply chain analytics.(A-Z with R)",
+      "url": "https://www.udemy.com/course/ra-data-science-and-supply-chain-analytics/"
+    },
+    {
+      "title": "Spatial SQL with Postgres : A language for geographers",
+      "url": "https://www.udemy.com/course/spatialsql/"
+    },
+    {
+      "title": "Introduction to Data Analytics and AI",
+      "url": "https://www.udemy.com/course/applied-business-analytics/"
+    },
+    {
+      "title": "Tableau Prep for Data Analysis & Business Intelligence",
+      "url": "https://www.udemy.com/course/tableau-prep-for-business-intelligence/"
+    },
+    {
+      "title": "Artificial General Intelligence (AGI)",
+      "url": "https://www.udemy.com/course/artificial-general-intelligence/"
+    },
+    {
+      "title": "Logistic Regression using Stata",
+      "url": "https://www.udemy.com/course/logistic-regression-using-stata/"
+    },
+    {
+      "title": "Graphs in R - Data Visualization with R Programming Language",
+      "url": "https://www.udemy.com/course/graphs-in-r/"
+    },
+    {
+      "title": "Master Microsoft Power Bi - 72+ hours of Pro Level Content",
+      "url": "https://www.udemy.com/course/learn-power-bi-analyze-visualize-data-with-power-bi/"
+    },
+    {
+      "title": "SQL Essentials: The Beginner's Guide to SQL Language",
+      "url": "https://www.udemy.com/course/sql-essentials/"
+    },
+    {
+      "title": "Generative AI, ChatGPT 5, Copilot & AI Agents Mastery 2025",
+      "url": "https://www.udemy.com/course/generative-ai-chatgpt-copilot-agents-for-business-2025/"
+    },
+    {
+      "title": "Data Analyst Skillpath: Zero to Hero in Excel, SQL & Python",
+      "url": "https://www.udemy.com/course/data-analyst-skillpath-zero-to-hero-in-excel-sql-python/"
+    },
+    {
+      "title": "Elasticsearch 9 and the Elastic Stack: In Depth and Hands On",
+      "url": "https://www.udemy.com/course/elasticsearch-and-elastic-stack/"
+    },
+    {
+      "title": "Zero to Hero in Tableau: Data Visualization using Tableau",
+      "url": "https://www.udemy.com/course/tableau-data-visualization-starttech/"
+    },
+    {
+      "title": "Statistics/Data Analysis with SPSS: Descriptive Statistics",
+      "url": "https://www.udemy.com/course/descriptive-statistics-spss/"
+    },
+    {
+      "title": "Mastering Intermediate DAX - Power BI, Power Pivot & SSAS",
+      "url": "https://www.udemy.com/course/mastering-intermediate-dax-power-bi-power-pivot-ssas/"
+    },
+    {
+      "title": "Complete SQL Bootcamp for Data Science, Analytics, Marketing",
+      "url": "https://www.udemy.com/course/sql-for-marketers-data-analytics-data-science-big-data/"
+    },
+    {
+      "title": "Business Analyst Bootcamp: Excel, Stats, SQL, Tableau",
+      "url": "https://www.udemy.com/course/technical-business-analytics-for-agile-decision-making/"
+    },
+    {
+      "title": "Dashboard Design Fundamentals [2022] - Dashboards that work",
+      "url": "https://www.udemy.com/course/data-storytelling-visualization-for-dashboards-2021/"
+    },
+    {
+      "title": "Decision Modeling and Risk Analysis with Excel",
+      "url": "https://www.udemy.com/course/decision-modeling-with-excel/"
+    },
+    {
+      "title": "Introduction to Data Visualization",
+      "url": "https://www.udemy.com/course/introduction-to-data-visualization/"
+    },
+    {
+      "title": "15 Days of SQL: The Complete SQL Masterclass 2025",
+      "url": "https://www.udemy.com/course/15-days-of-sql/"
+    },
+    {
+      "title": "Complete Business Intelligence with SSIS, SSAS and SSRS",
+      "url": "https://www.udemy.com/course/microsoftbusinessintelligence/"
+    },
+    {
+      "title": "Complete Excel Course - Beginner to Expert",
+      "url": "https://www.udemy.com/course/excel-beginner-to-expert/"
+    },
+    {
+      "title": "Apache Kafka Series - Kafka Streams for Data Processing",
+      "url": "https://www.udemy.com/course/kafka-streams/"
+    },
+    {
+      "title": "End to End AML KYC (Anti-Money Laundering and KYC)",
+      "url": "https://www.udemy.com/course/end-to-end-aml-kyc-anti-money-laundering-and-kyc/"
+    },
+    {
+      "title": "Machine Learning in Healthcare (no coding required!)",
+      "url": "https://www.udemy.com/course/machine-learning-in-healthcare-no-coding-required/"
+    },
+    {
+      "title": "Mastering Microsoft 365 CoPilot & AI Agents [2025]",
+      "url": "https://www.udemy.com/course/microsoft-copilot-365-ai-agents-for-business-bootcamp-2025/"
+    },
+    {
+      "title": "Google Analytics for Beginners - Master Google Analytics",
+      "url": "https://www.udemy.com/course/google-analytics-insights/"
+    },
+    {
+      "title": "Spotfire - The Complete TIBCO Spotfire Course",
+      "url": "https://www.udemy.com/course/spotfire-the-complete-tibco-spotfire-tutorial/"
+    },
+    {
+      "title": "Business Intelligence With QlikView - 0 To Full Sales App",
+      "url": "https://www.udemy.com/course/qlikview/"
+    },
+    {
+      "title": "AIAG-VDA FMEA Training",
+      "url": "https://www.udemy.com/course/aiag-vda-fmea-training/"
+    },
+    {
+      "title": "Advance Sales Analytics for Decision Making with Power BI",
+      "url": "https://www.udemy.com/course/advance-sales-analytics-for-decision-making-with-power-bi/"
+    },
+    {
+      "title": "Deep Learning Prerequisites: The Numpy Stack in Python (V2+)",
+      "url": "https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/"
+    },
+    {
+      "title": "Microsoft Excel - Excel Data Analysis Expert (Accredited)",
+      "url": "https://www.udemy.com/course/complete-excel-2016-data-analytics-theory-bko-accredited/"
+    },
+    {
+      "title": "Learn Microsoft Fabric Basic to Advance with Practical",
+      "url": "https://www.udemy.com/course/learn-microsoft-fabric-basic-to-advance-with-practical/"
+    },
+    {
+      "title": "R Shiny Interactive Web Apps - Next Level Data Visualization",
+      "url": "https://www.udemy.com/course/r-shiny-web-apps-data-visualization/"
+    },
+    {
+      "title": "Marketing Automation: Automate your Business and Grow Sales",
+      "url": "https://www.udemy.com/course/marketing-automation-masterclass/"
+    },
+    {
+      "title": "Certificate in Qlik Sense Analytics Development",
+      "url": "https://www.udemy.com/course/is-my-startup-doing-ok/"
+    },
+    {
+      "title": "Microsoft Power BI Desktop for Business Intelligence",
+      "url": "https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/"
+    },
+    {
+      "title": "The Complete Splunk Beginner Course",
+      "url": "https://www.udemy.com/course/splunker/"
+    },
+    {
+      "title": "Microsoft Excel: Advanced Dashboard Design (Project-Based!)",
+      "url": "https://www.udemy.com/course/advanced-excel-dashboard-design/"
+    },
+    {
+      "title": "Statistics with R - Beginner Level",
+      "url": "https://www.udemy.com/course/statistics-with-r-beginner-level/"
+    },
+    {
+      "title": "Alteryx Designer Advanced Certification Bootcamp",
+      "url": "https://www.udemy.com/course/alteryx-advanced-certification-bootcamp/"
+    },
+    {
+      "title": "Data Management and Analysis with Stata.",
+      "url": "https://www.udemy.com/course/data-management-and-analysis-with-stata/"
+    },
+    {
+      "title": "Tableau Masterclass - Advanced calculations with Tableau",
+      "url": "https://www.udemy.com/course/tableau-masterclass-advanced-calculations-with-tableau/"
+    },
+    {
+      "title": "Tableau Prep Masterclass: Data Preparation, Analysis & ETL",
+      "url": "https://www.udemy.com/course/tableau-prep-starttech/"
+    },
+    {
+      "title": "SQL Fundamentals for Marketing, Digital and Web Analytics",
+      "url": "https://www.udemy.com/course/sql-for-marketing-analysis/"
+    },
+    {
+      "title": "Data Analysis Essentials Using Excel",
+      "url": "https://www.udemy.com/course/business-data-analysis-excel/"
+    },
+    {
+      "title": "An Introduction to Online Quantitative Market Research",
+      "url": "https://www.udemy.com/course/intro-to-online-market-research/"
+    },
+    {
+      "title": "Data Analytics and Applications in the Fashion Industry",
+      "url": "https://www.udemy.com/course/data-analytics-and-applications-in-the-fashion-industry/"
+    },
+    {
+      "title": "Workforce Analytics for HR",
+      "url": "https://www.udemy.com/course/workforce-analytics-for-hr/"
+    },
+    {
+      "title": "How to become world class Business Analyst - Cases in Excel",
+      "url": "https://www.udemy.com/course/business-analysis-cases-in-excel/"
+    },
+    {
+      "title": "A Complete Guide to Power BI Dashboard for Projects",
+      "url": "https://www.udemy.com/course/complete-practical-guide-to-power-bi-dashboard/"
+    },
+    {
+      "title": "The Complete Introduction to Data Analytics with Tableau",
+      "url": "https://www.udemy.com/course/the-complete-introduction-to-data-analytics-with-tableau/"
+    },
+    {
+      "title": "Python Data Visualization: Dashboards with Plotly & Dash",
+      "url": "https://www.udemy.com/course/python-dashboards-plotly-dash/"
+    },
+    {
+      "title": "Ontologies for Business Analysis",
+      "url": "https://www.udemy.com/course/ontologies-for-business-analysis/"
+    },
+    {
+      "title": "Power BI DAX Masterclass - Measures & Calculated Columns",
+      "url": "https://www.udemy.com/course/power-bi-dax/"
+    },
+    {
+      "title": "Excel 2019: Beginner to Expert - 75 lessons - Easy English",
+      "url": "https://www.udemy.com/course/office_365_excel/"
+    },
+    {
+      "title": "SPSS For Research",
+      "url": "https://www.udemy.com/course/spss-for-research/"
+    },
+    {
+      "title": "Data Analytics & Data Science for Executives",
+      "url": "https://www.udemy.com/course/data-analytics-and-data-science-for-executives/"
+    },
+    {
+      "title": "Learn Microsoft Power BI in Microsoft Fabric - 2 in 1 Course",
+      "url": "https://www.udemy.com/course/learn-microsoft-power-bi-in-microsoft-fabric-2-in-1-course/"
+    },
+    {
+      "title": "Credit Risk Modeling in Python",
+      "url": "https://www.udemy.com/course/credit-risk-modeling-in-python/"
+    },
+    {
+      "title": "Optimization & A/B Testing Statistics",
+      "url": "https://www.udemy.com/course/optimization/"
+    },
+    {
+      "title": "Alteryx: Real-Life Exercises For Data Analytics!",
+      "url": "https://www.udemy.com/course/alteryx-real-life-exercises-for-data-analytics/"
+    },
+    {
+      "title": "Microsoft Certified: Data Analyst Associate with Power BI",
+      "url": "https://www.udemy.com/course/exam-da-100-a-complete-guide-on-acing-the-exam-with-powerbi/"
+    },
+    {
+      "title": "Business Analysis Certification Program - The Tools",
+      "url": "https://www.udemy.com/course/business-analysis-certification-program-the-tools/"
+    },
+    {
+      "title": "Mastering Data Visualization: Theory and Foundations",
+      "url": "https://www.udemy.com/course/mastering-data-visualization/"
+    },
+    {
+      "title": "Practical SQL Bootcamp for Data Analysts and Data Scientists",
+      "url": "https://www.udemy.com/course/practical-sql-bootcamp-for-analysts/"
+    },
+    {
+      "title": "Power BI - Business Intelligence for Beginners to Advance",
+      "url": "https://www.udemy.com/course/business-data-analysis-using-microsoft-power-bi/"
+    },
+    {
+      "title": "SPSS Basics",
+      "url": "https://www.udemy.com/course/spss-basics/"
+    },
+    {
+      "title": "Crash Course : SAS Macro Programming By Example",
+      "url": "https://www.udemy.com/course/sas-macro-programming-by-example/"
+    },
+    {
+      "title": "Power BI - Build this UX/UI Designed Modern Desktop Report",
+      "url": "https://www.udemy.com/course/modern-powerbi-report-build/"
+    },
+    {
+      "title": "Design Principles for Effective Dashboard Design",
+      "url": "https://www.udemy.com/course/design-principles-for-effective-dashboard-design/"
+    },
+    {
+      "title": "The Complete Tableau Bootcamp for Data Visualization",
+      "url": "https://www.udemy.com/course/complete-tableau-bootcamp-dashboards/"
+    },
+    {
+      "title": "Workforce Analytics: Link Workforce to Business Strategies",
+      "url": "https://www.udemy.com/course/workforce-analytic-linking-workforce-to-business-strategies/"
+    },
+    {
+      "title": "Qlik Sense Masterclass for Data Science and BI",
+      "url": "https://www.udemy.com/course/qlik-sense-advanced/"
+    },
+    {
+      "title": "BPMN 2.0 Business Process Modelling for Business Analysts",
+      "url": "https://www.udemy.com/course/bpmn-business-process-modelling-for-business-analysts/"
+    },
+    {
+      "title": "Beginner's Guide to Data & Data Analytics, by SF Data School",
+      "url": "https://www.udemy.com/course/learndata/"
+    },
+    {
+      "title": "Data Warehouse Fundamentals for Beginners",
+      "url": "https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/"
+    },
+    {
+      "title": "People Analytics 101 : HR Analytics Fundamentals",
+      "url": "https://www.udemy.com/course/peopleanalytics101/"
+    },
+    {
+      "title": "Building Financial Dashboard in Google Data Studio",
+      "url": "https://www.udemy.com/course/building-financial-dashboard-in-google-data-studio/"
+    },
+    {
+      "title": "Advanced Tableau - Level of Detail Expressions / LOD",
+      "url": "https://www.udemy.com/course/advanced-tableau-level-of-detail-expressions-tableau-lod/"
+    },
+    {
+      "title": "Complete Data Wrangling & Data Visualisation In R",
+      "url": "https://www.udemy.com/course/complete-data-wrangling-data-visualization-with-r/"
+    },
+    {
+      "title": "Introduction to Data Literacy",
+      "url": "https://www.udemy.com/course/data-literacy-for-non-technical-managers/"
+    },
+    {
+      "title": "MicroStrategy for Business Intelligence- The Complete Course",
+      "url": "https://www.udemy.com/course/microstrategy-for-business-intelligence/"
+    },
+    {
+      "title": "Business Data Analytics (IIBA®-CBDA Exam prep, 14 IIBA PDUs)",
+      "url": "https://www.udemy.com/course/business-data-analytics/"
+    },
+    {
+      "title": "Business Intelligence (BI) and Predictive Analytics 101",
+      "url": "https://www.udemy.com/course/business-intelligence-bi-and-predictive-analytics-101/"
+    },
+    {
+      "title": "Mastering Data Analysis with Power BI",
+      "url": "https://www.udemy.com/course/power-bi-from-zero-to-hero-am/"
+    },
+    {
+      "title": "Data Analysis Bootcamp™ 21 Real World Case Studies",
+      "url": "https://www.udemy.com/course/the-data-analyst-bootcamp/"
+    },
+    {
+      "title": "Tableau Desktop - Advanced Data Visualization & Dashboards",
+      "url": "https://www.udemy.com/course/advanced-tableau-for-bi/"
+    },
+    {
+      "title": "Business Analysis Demonstrated",
+      "url": "https://www.udemy.com/course/business-analysis-demonstrated/"
+    },
+    {
+      "title": "Financial Analytics: Financial Analysis with Excel & Tableau",
+      "url": "https://www.udemy.com/course/financial-analytics-excel-tableau/"
+    },
+    {
+      "title": "2025 Tableau Certified Data Analyst Training",
+      "url": "https://www.udemy.com/course/tableau-for-beginners/"
+    },
+    {
+      "title": "The STATA OMNIBUS: Regression and Modelling with STATA",
+      "url": "https://www.udemy.com/course/the-stata-omnibus-regression-and-modelling-with-stata/"
+    },
+    {
+      "title": "Machine Learning 101 with Scikit-learn and StatsModels",
+      "url": "https://www.udemy.com/course/machine-learning-101-with-scikit-learn-and-stats-models/"
+    },
+    {
+      "title": "Mastering Data Visualization with Python",
+      "url": "https://www.udemy.com/course/mastering-data-visualization-with-python/"
+    },
+    {
+      "title": "Requirements Discovery for Business Analyst - 2025",
+      "url": "https://www.udemy.com/course/requirements-discovery-crash-course/"
+    },
+    {
+      "title": "Excel Statistics / Data Analytics",
+      "url": "https://www.udemy.com/course/statistics-excel/"
+    },
+    {
+      "title": "101 Practice SQL Questions: Basic to Advanced",
+      "url": "https://www.udemy.com/course/101-practice-sql-questions/"
+    },
+    {
+      "title": "Introduction to Power BI Paginated Report Builder",
+      "url": "https://www.udemy.com/course/introduction-to-power-bi-paginated-report-builder/"
+    },
+    {
+      "title": "Microsoft SQL Server Management Studio (SSMS) for beginners",
+      "url": "https://www.udemy.com/course/microsoft-sql-server-management-studio-ssms-for-beginners/"
+    },
+    {
+      "title": "Control Excel with Python & OpenPyXL",
+      "url": "https://www.udemy.com/course/control-excel-with-python-openpyxl/"
+    },
+    {
+      "title": "Statistics / Data Analysis in SPSS: Factorial ANOVA",
+      "url": "https://www.udemy.com/course/anova-spss/"
+    },
+    {
+      "title": "Process Mining & Process Intelligence",
+      "url": "https://www.udemy.com/course/process-mining-with-celonis-snap/"
+    },
+    {
+      "title": "The Advanced SQL Server Masterclass For Data Analysis",
+      "url": "https://www.udemy.com/course/advanced-sql-server-masterclass-for-data-analysis/"
+    },
+    {
+      "title": "Become a Data Analyst: Excel, SQL & Tableau - 3-in-1 Bundle",
+      "url": "https://www.udemy.com/course/become-a-data-analyst/"
+    },
+    {
+      "title": "Introduction to SPSS",
+      "url": "https://www.udemy.com/course/introduction-spss/"
+    },
+    {
+      "title": "Become QlikView Designer from Scratch",
+      "url": "https://www.udemy.com/course/become-qlikview-designer-from-scratch/"
+    },
+    {
+      "title": "Master Course in Data Visualization & Data Warehousing (101)",
+      "url": "https://www.udemy.com/course/data-visualization-data-warehousing-101-course/"
+    },
+    {
+      "title": "Google Sheets & Forms - Beginner to Expert",
+      "url": "https://www.udemy.com/course/google-sheets-forms-beginner-to-expert/"
+    },
+    {
+      "title": "The Complete Market Research Bootcamp",
+      "url": "https://www.udemy.com/course/market-research-bootcamp/"
+    },
+    {
+      "title": "SQL - MySQL for Data Analytics and Business Intelligence",
+      "url": "https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/"
+    },
+    {
+      "title": "Business Analysis: BPMN, Data Analytics For Business Analyst",
+      "url": "https://www.udemy.com/course/business-analysis-bpmn-data-analytics-for-business-analyst/"
+    },
+    {
+      "title": "Power BI - Zero to Dashboard in a day",
+      "url": "https://www.udemy.com/course/microsoft-power-bi-for-beginners/"
+    },
+    {
+      "title": "Master Course in Business Analysis",
+      "url": "https://www.udemy.com/course/business-analysis-business-analyst/"
+    },
+    {
+      "title": "Big Data: Hadoop| MapReduce| Hive| Pig| NoSQL| Mahout| Oozie",
+      "url": "https://www.udemy.com/course/hands-on-hadoop-masterclass-tame-the-big-data/"
+    },
+    {
+      "title": "Apache Superset for Data Engineers (Hands On)",
+      "url": "https://www.udemy.com/course/apache-superset-for-data-engineers-hands-on/"
+    },
+    {
+      "title": "Power Bi - Master Power Bi with 40+ hours of Premium Content",
+      "url": "https://www.udemy.com/course/learn-data-analysis-visualization-with-microsoft-power-bi/"
+    },
+    {
+      "title": "Amazon (AWS) QuickSight - Getting Started",
+      "url": "https://www.udemy.com/course/amazon-aws-quicksight-getting-started/"
+    },
+    {
+      "title": "SPSS Beginners: Master SPSS",
+      "url": "https://www.udemy.com/course/spss-data-analysis-spss-online-video-training-course/"
+    },
+    {
+      "title": "SQL Data Analyst - SQL , Microsoft SQL, PostgreSQL, MySQL",
+      "url": "https://www.udemy.com/course/sql-data-analyst-sql-microsoft-sql-postgresql-mysql/"
+    },
+    {
+      "title": "TABLEAU 2018 ADVANCED: Master Tableau in Data Science",
+      "url": "https://www.udemy.com/course/tableau-2018-advanced/"
+    },
+    {
+      "title": "Microsoft Power BI Masterclass 7 Learn DAX, R, and Gateways",
+      "url": "https://www.udemy.com/course/microsoft-power-bi-masterclass-7-learn-dax-r-and-gateways/"
+    },
+    {
+      "title": "Payment Risk 101",
+      "url": "https://www.udemy.com/course/payment-and-payment-fraud/"
+    },
+    {
+      "title": "SQL Master Class For Data Analysis",
+      "url": "https://www.udemy.com/course/sql-for-punk-analytics/"
+    },
+    {
+      "title": "Introduction to Data Analysis for Beginners",
+      "url": "https://www.udemy.com/course/introduction-to-data-analysis-for-beginners/"
+    },
+    {
+      "title": "Essential Presentations for Business Analysts and Consultant",
+      "url": "https://www.udemy.com/course/essential-presentations-for-business-analysts-and-consultant/"
+    },
+    {
+      "title": "Web Analytics & Digital Marketing Analytics - Zero to Hero",
+      "url": "https://www.udemy.com/course/digital-marketing-analytics-fundamentals-and-process/"
+    },
+    {
+      "title": "Essential Business Analytics: From Data to Insights",
+      "url": "https://www.udemy.com/course/essential-business-analytics-course/"
+    },
+    {
+      "title": "Data Lake Mastery: The Key to Big Data & Data Engineering",
+      "url": "https://www.udemy.com/course/data-lake-mastery-the-key-to-big-data-data-engineering/"
+    },
+    {
+      "title": "Probability and Statistics - Practice Tests and Solutions",
+      "url": "https://www.udemy.com/course/probability-and-statistics-quizzes-mcq/"
+    },
+    {
+      "title": "Building Interactive Apps With Shiny and R",
+      "url": "https://www.udemy.com/course/building-interactive-apps-with-shiny-and-r/"
+    },
+    {
+      "title": "Become QlikView Developer from Scratch",
+      "url": "https://www.udemy.com/course/qlikview-developer-course/"
+    },
+    {
+      "title": "Business Analysis Professional (ECBA/CBAP) (PBA)",
+      "url": "https://www.udemy.com/course/the-business-analysis-certification-program-iiba-ecba/"
+    },
+    {
+      "title": "Data Governance - The Complete Course for Beginners",
+      "url": "https://www.udemy.com/course/data-governance-training-course/"
+    },
+    {
+      "title": "Intro to Data & AI Ethics",
+      "url": "https://www.udemy.com/course/data-ai-ethics/"
+    },
+    {
+      "title": "Data Analyst Bootcamp 2025: Python, SQL, Excel & Power BI",
+      "url": "https://www.udemy.com/course/become-a-data-analyst-python-excel-sql-power-bi/"
+    },
+    {
+      "title": "Complete Introduction to Microsoft Power BI",
+      "url": "https://www.udemy.com/course/powerful-reports-and-dashboards-with-microsoft-powerbi/"
+    },
+    {
+      "title": "Microsoft PowerBI Masterclass Edition(Latest Version Apr'24)",
+      "url": "https://www.udemy.com/course/microsoft-powerbi-masterclass-latest-version/"
+    },
+    {
+      "title": "Getting started with Sap Analytics Cloud",
+      "url": "https://www.udemy.com/course/getting-started-with-sap-analytics-cloud/"
+    },
+    {
+      "title": "Data Visualization in Excel: All Excel Charts and Graphs",
+      "url": "https://www.udemy.com/course/data-visualization-in-excel-for-business-professionals/"
+    },
+    {
+      "title": "Identify & Define the Problem with Business Analysis",
+      "url": "https://www.udemy.com/course/identify-the-problem/"
+    },
+    {
+      "title": "Data Visualization with R and ggplot2",
+      "url": "https://www.udemy.com/course/data-visualization-with-r-and-ggplot2/"
+    },
+    {
+      "title": "SAS SQL for the SAS Programmer/Analyst",
+      "url": "https://www.udemy.com/course/sql-for-the-sas-programmer/"
+    },
+    {
+      "title": "Break out of Excel and into Tableau in 90 Minutes",
+      "url": "https://www.udemy.com/course/break-out-of-excel-and-into-tableau/"
+    },
+    {
+      "title": "Mastering Product Analytics: A Guide for Product Managers",
+      "url": "https://www.udemy.com/course/product-analytics-for-product-managers/"
+    },
+    {
+      "title": "Learn HubSpot CRM From Scratch",
+      "url": "https://www.udemy.com/course/learn-hubspot-crm-from-scratch/"
+    },
+    {
+      "title": "PyTorch Tutorial - Neural Networks & Deep Learning in Python",
+      "url": "https://www.udemy.com/course/pytorch-primer-for-neural-networks-deep-learning-in-python/"
+    },
+    {
+      "title": "SSAS Tabular Model with Power BI - A comprehensive training",
+      "url": "https://www.udemy.com/course/ssas-tabular-model-with-power-bi-a-comprehensive-training/"
+    },
+    {
+      "title": "Data Lake Fundamentals - A Comprehensive Data Lakes Guide",
+      "url": "https://www.udemy.com/course/learn-data-lake-fundamentals/"
+    },
+    {
+      "title": "Beginner Statistics for Data Analytics - Learn the Easy Way!",
+      "url": "https://www.udemy.com/course/beginner-stats/"
+    },
+    {
+      "title": "Alteryx for Beginners: Up & Running with Alteryx Designer",
+      "url": "https://www.udemy.com/course/up-and-running-with-alteryx-designer/"
+    },
+    {
+      "title": "Fundamentals of Data Product Management and Data Strategy",
+      "url": "https://www.udemy.com/course/fundamentals-of-data-product-management-and-data-strategy/"
+    },
+    {
+      "title": "Tableau Ultimate Course (25 Hours): From Zero to Hero (2025)",
+      "url": "https://www.udemy.com/course/the-tableau-ultimate-course-from-zero-to-hero/"
+    },
+    {
+      "title": "Microsoft Power BI - Up & Running With Power BI Service",
+      "url": "https://www.udemy.com/course/power-bi-service/"
+    },
+    {
+      "title": "Intro To PostgreSQL Databases With PgAdmin For Beginners",
+      "url": "https://www.udemy.com/course/intro-to-postgresql-databases-with-pgadmin/"
+    },
+    {
+      "title": "Microsoft Power BI: The Art of Designing Incredible Tools",
+      "url": "https://www.udemy.com/course/microsoft-power-bi-the-art-of-designing-incredible-tools/"
+    },
+    {
+      "title": "Complete Microsoft Excel Master Class.",
+      "url": "https://www.udemy.com/course/microsoft-excel-master-class-2020-beginner-to-expert/"
+    },
+    {
+      "title": "Make Data-Driven Decisions in Customer Success (2nd Ed.)",
+      "url": "https://www.udemy.com/course/csmath-make-data-driven-decisions/"
+    },
+    {
+      "title": "Google Data Studio For Data Analytics, Business Intelligence",
+      "url": "https://www.udemy.com/course/google-data-studio-for-data-analytics-business-intelligence/"
+    },
+    {
+      "title": "Tableau Certification Training",
+      "url": "https://www.udemy.com/course/tableau-certification-training/"
+    },
+    {
+      "title": "Business Intelligence and Automated Reports using Power BI",
+      "url": "https://www.udemy.com/course/power-bi-and-dashboards-for-the-busy-professional/"
+    },
+    {
+      "title": "Text Mining and Sentiment Analysis with Tableau and R",
+      "url": "https://www.udemy.com/course/text-mining-and-sentiment-analysis-with-tableau-and-r/"
+    },
+    {
+      "title": "Master SQL with BigQuery using AI tools - From Zero to Hero",
+      "url": "https://www.udemy.com/course/master-sql-with-bigquery-using-ai-tools-from-zero-to-hero/"
+    },
+    {
+      "title": "Data Analytics: Intro to SQL using Healthcare Data",
+      "url": "https://www.udemy.com/course/data-analytics-intro-to-sql-using-healthcare-data-ssms/"
+    },
+    {
+      "title": "HR Analytics Master Course with Excel, Python and R",
+      "url": "https://www.udemy.com/course/hr-analytics-course/"
+    },
+    {
+      "title": "Google Tag Manager (GTM) Advanced Applications",
+      "url": "https://www.udemy.com/course/google-tag-manager-advanced-training-course/"
+    },
+    {
+      "title": "Power BI and Tableau for Data Visualization [2-in-1 Bundle]",
+      "url": "https://www.udemy.com/course/power-bi-and-tableau-for-data-visualization/"
+    },
+    {
+      "title": "The Data Strategy Course: Building a Data-driven Business",
+      "url": "https://www.udemy.com/course/the-data-strategy-course-building-a-data-driven-business/"
+    },
+    {
+      "title": "The Simplest Guide to SAS Programming- SAS Base-SAS Advanced",
+      "url": "https://www.udemy.com/course/the-simplest-guide-to-sas-programming-for-absolute-beginners/"
+    },
+    {
+      "title": "Expert Certificate: Marketing Data Analysis & Data Analytics",
+      "url": "https://www.udemy.com/course/expert-certificate-marketing-data-analysis-data-analytics/"
+    },
+    {
+      "title": "Qlik Sense for Data Science and BI",
+      "url": "https://www.udemy.com/course/qlik-sense/"
+    },
+    {
+      "title": "SQL for Beginners, Managers, Marketing: Learn SQL in 2025",
+      "url": "https://www.udemy.com/course/practical-sql-for-beginners-product-managers-marketers/"
+    },
+    {
+      "title": "Emotional Intelligence in Teams and Collaboration",
+      "url": "https://www.udemy.com/course/emotional-intelligence-in-teams-and-collaboration/"
+    },
+    {
+      "title": "Fraud Risk Analytics (Excel & AI based tools) and Prevention",
+      "url": "https://www.udemy.com/course/fraud-risk-analytics-and-prevention/"
+    },
+    {
+      "title": "BPMN 2.0 with Brian: From Beginner to Winner",
+      "url": "https://www.udemy.com/course/bpmnwithbrian/"
+    },
+    {
+      "title": "Tableau Certified Data Analyst: Top Exam Prep Course",
+      "url": "https://www.udemy.com/course/tableau-accelerate-your-career-and-get-certified/"
+    },
+    {
+      "title": "SPSS Essentials: Statistics made easy",
+      "url": "https://www.udemy.com/course/spss-essentials/"
+    },
+    {
+      "title": "Statistical Analysis and Research using Excel",
+      "url": "https://www.udemy.com/course/statistical-analysis-and-research-using-excel/"
+    },
+    {
+      "title": "Mastering Data Visualization & Analytics with MS Excel",
+      "url": "https://www.udemy.com/course/data-analysis-and-data-visualization/"
+    },
+    {
+      "title": "The Ultimate Hands-On Hadoop: Tame your Big Data!",
+      "url": "https://www.udemy.com/course/the-ultimate-hands-on-hadoop-tame-your-big-data/"
+    },
+    {
+      "title": "Power BI Administration: Administering the Power BI Service",
+      "url": "https://www.udemy.com/course/power-bi-administration-administering-the-power-bi-service/"
+    },
+    {
+      "title": "Complete Time Series Data Analysis Bootcamp In R",
+      "url": "https://www.udemy.com/course/complete-time-series-data-analysis-bootcamp-in-r/"
+    },
+    {
+      "title": "ESG Performance Measurement",
+      "url": "https://www.udemy.com/course/esg-performance-measurement/"
+    },
+    {
+      "title": "Data Analyst: Professional Certificate in Data Analysis",
+      "url": "https://www.udemy.com/course/data-analyst-professional-certificate-in-data-analysis/"
+    },
+    {
+      "title": "Data Analytics Masters 2025 - From Basics To Advanced",
+      "url": "https://www.udemy.com/course/data-analytics-masters-basics-to-advanced/"
+    },
+    {
+      "title": "Introduction to Business Process Modeling",
+      "url": "https://www.udemy.com/course/intro-to-bpm/"
+    },
+    {
+      "title": "Introduction to Intelligence Analysis",
+      "url": "https://www.udemy.com/course/intro-to-intelligence/"
+    },
+    {
+      "title": "Creating Measures and Metrics in ITSM",
+      "url": "https://www.udemy.com/course/creating-measures-and-metrics-using-the-itil-4-framework/"
+    },
+    {
+      "title": "Learn SQL for Data Analysis with Google Big Query",
+      "url": "https://www.udemy.com/course/learn-sql-for-data-analysis-with-google-bigquery/"
+    },
+    {
+      "title": "MicroStrategy for Business Intelligence",
+      "url": "https://www.udemy.com/course/microstrategy/"
+    },
+    {
+      "title": "Tableau Crash Course 2021: Build & Share COVID19 Dashboards",
+      "url": "https://www.udemy.com/course/tableau-crash-course-build-and-share-a-covid-19-dashboard/"
+    },
+    {
+      "title": "The Data Analyst Course: Complete Data Analyst Bootcamp",
+      "url": "https://www.udemy.com/course/the-data-analyst-course-complete-data-analyst-bootcamp/"
+    },
+    {
+      "title": "Linear Regression using Stata",
+      "url": "https://www.udemy.com/course/linear-regression-using-stata/"
+    },
+    {
+      "title": "Forecasting Models & Time Series Analysis for Business in R",
+      "url": "https://www.udemy.com/course/forecasting-model/"
+    },
+    {
+      "title": "Microsoft Power BI: Data Analysis & AI Dashboards (2025)",
+      "url": "https://www.udemy.com/course/learn-power-bi-fundamentals/"
+    },
+    {
+      "title": "Tableau Data Analytics - Must See Introduction to Analytics",
+      "url": "https://www.udemy.com/course/tableau-data-analytics-must-see-introduction-to-analytics/"
+    },
+    {
+      "title": "Data Analysis with ChatGPT in Excel",
+      "url": "https://www.udemy.com/course/data-analysis-with-chatgpt-in-excel/"
+    },
+    {
+      "title": "Statistics & Data Analytics For Data Science And Business",
+      "url": "https://www.udemy.com/course/statisticsforbusiness/"
+    },
+    {
+      "title": "Practical Financial Data Analysis With Python Data Science",
+      "url": "https://www.udemy.com/course/practical-financial-data-analysis-with-python-data-science/"
+    },
+    {
+      "title": "Alteryx - The Complete Masterclass",
+      "url": "https://www.udemy.com/course/alteryx-the-complete-masterclass/"
+    },
+    {
+      "title": "Interactive Data Visualization with Python and Bokeh",
+      "url": "https://www.udemy.com/course/python-bokeh/"
+    },
+    {
+      "title": "Optimization with Metaheuristics in Python",
+      "url": "https://www.udemy.com/course/optimization-with-metaheuristics/"
+    },
+    {
+      "title": "BI Data Engineer | Analyst: Power BI, SQL, Data Excel ,DAX",
+      "url": "https://www.udemy.com/course/bi-data-engineer-analyst-power-bi-sql-data-excel-dax/"
+    },
+    {
+      "title": "Supply chain Analytics with anyLogistix Software",
+      "url": "https://www.udemy.com/course/supplychainanalyticswithanylogistixsoftware/"
+    },
+    {
+      "title": "Power BI Desktop Masterclass: Beginner to Advanced",
+      "url": "https://www.udemy.com/course/power-bi-masterclass-beginners-to-advanced/"
+    },
+    {
+      "title": "Blockchain applications in Food Safety, Healthcare & Pharma",
+      "url": "https://www.udemy.com/course/industrial-applications-use-cases-of-blockchain-technology/"
+    },
+    {
+      "title": "MS Excel Exam Guide: Analyzing and Visualizing Data",
+      "url": "https://www.udemy.com/course/analyzing-and-visualizing-data-with-excel/"
+    },
+    {
+      "title": "Data Analytics with Excel Pivot Tables",
+      "url": "https://www.udemy.com/course/data-analytics-with-excel-pivottables-2016/"
+    },
+    {
+      "title": "Health Data 101",
+      "url": "https://www.udemy.com/course/healthdata101/"
+    },
+    {
+      "title": "Learn MSBI , SSIS , SSRS and SSAS Step by Step",
+      "url": "https://www.udemy.com/course/msbi-ssis-ssas-ssrs/"
+    },
+    {
+      "title": "Business Intelligence with Power BI Desktop",
+      "url": "https://www.udemy.com/course/business-intelligence-with-power-bi-desktop/"
+    },
+    {
+      "title": "AWS Machine Learning Certification Exam | Complete Guide",
+      "url": "https://www.udemy.com/course/amazon-web-services-machine-learning/"
+    },
+    {
+      "title": "Excel Basics - Data & Text Manipulation",
+      "url": "https://www.udemy.com/course/excel-basics-data-text-manipulation/"
+    },
+    {
+      "title": "Business Analysis: Developing Requirements",
+      "url": "https://www.udemy.com/course/developing-requirements/"
+    },
+    {
+      "title": "Master Scenario Analysis, Excel (Complete What-if Analysis)!",
+      "url": "https://www.udemy.com/course/scenario-analyses-concepts-and-tools-for-business-analytics/"
+    },
+    {
+      "title": "The Business Intelligence Analyst Course 2025",
+      "url": "https://www.udemy.com/course/the-business-intelligence-analyst-course-2018/"
+    },
+    {
+      "title": "SPSS for NonStatisticians- Analysis, Interpretation, Writeup",
+      "url": "https://www.udemy.com/course/spss-for-nonstatisticians/"
+    },
+    {
+      "title": "Tableau Desktop Training",
+      "url": "https://www.udemy.com/course/tableau-10/"
+    },
+    {
+      "title": "Master Data Management (MDM) - The Complete Course",
+      "url": "https://www.udemy.com/course/master-data-management-mdm-the-complete-training-course/"
+    },
+    {
+      "title": "SAS MACRO Programming - Advanced Programming for Beginners",
+      "url": "https://www.udemy.com/course/sas-macro-programming/"
+    },
+    {
+      "title": "Econometrics and Statistics for Business in R & Python",
+      "url": "https://www.udemy.com/course/econometrics-for-business/"
+    },
+    {
+      "title": "An Introduction to Stata",
+      "url": "https://www.udemy.com/course/an-introduction-to-stata/"
+    },
+    {
+      "title": "Certified Data Analytics Expert With Minitab | Accredited",
+      "url": "https://www.udemy.com/course/certified-minitab-expert-bko-accredited/"
+    },
+    {
+      "title": "Business Analysis Planning and Monitoring (IIBA - ECBA)",
+      "url": "https://www.udemy.com/course/business-analysis-planning-and-monitoring-iiba-ecba/"
+    },
+    {
+      "title": "Power BI: Data Analytics with Power BI Bootcamp",
+      "url": "https://www.udemy.com/course/power-bi-data-visualization-essentials-with-power-bi/"
+    },
+    {
+      "title": "Forecasting and Time Series Analysis in Tableau",
+      "url": "https://www.udemy.com/course/forecasting-and-time-series-analysis-in-tableau/"
+    },
+    {
+      "title": "Complete Keras Bootcamp For Deep Learning in Python",
+      "url": "https://www.udemy.com/course/complete-keras-bootcamp-for-deep-learning-in-python/"
+    },
+    {
+      "title": "Mastering QlikView Set Analysis",
+      "url": "https://www.udemy.com/course/mastering-qlikview-set-analysis/"
+    },
+    {
+      "title": "Excel Charts- Data Visualization Secrets - Beginner to Pro",
+      "url": "https://www.udemy.com/course/microsoft-excel-charts-secrets-of-creating-stunning-visualization/"
+    },
+    {
+      "title": "Gen AI To Unlock Full Data Value",
+      "url": "https://www.udemy.com/course/gen-ai-to-unlock-full-data-value/"
+    },
+    {
+      "title": "The Hands-On Masterclass in Data Analytics with Tableau",
+      "url": "https://www.udemy.com/course/the-hands-on-masterclass-in-data-analytics-with-tableau/"
+    },
+    {
+      "title": "Overview of Risk, Marketing, Collections analytics etc.",
+      "url": "https://www.udemy.com/course/analytics-case-studies/"
+    },
+    {
+      "title": "Learn Power BI Basics",
+      "url": "https://www.udemy.com/course/learn_power_bi_for_free/"
+    },
+    {
+      "title": "SQL for NEWBS: Weekender Crash Course",
+      "url": "https://www.udemy.com/course/sql-for-newbs/"
+    },
+    {
+      "title": "Tableau Fundamentals | Crash Course to Start from Scratch",
+      "url": "https://www.udemy.com/course/learn-tableau-beginner-to-advanced/"
+    },
+    {
+      "title": "Microsoft Excel Formulas [ For Office Use ]",
+      "url": "https://www.udemy.com/course/microsoft-excel-formulas-for-office-use/"
+    },
+    {
+      "title": "IBM BAW",
+      "url": "https://www.udemy.com/course/ibm-baw-bpm/"
+    },
+    {
+      "title": "Dynamic Dashboards and Data Analysis with Looker Studio",
+      "url": "https://www.udemy.com/course/dynamic-dashboards-and-data-analysis-with-google-data-studio/"
+    },
+    {
+      "title": "Microsoft Power BI Desktop : The Practical 2025 Bootcamp!",
+      "url": "https://www.udemy.com/course/microsoft-power-bi-desktop/"
+    },
+    {
+      "title": "Business Analysis and Strategy Analysis (IIBA - ECBA)",
+      "url": "https://www.udemy.com/course/business-analysis-and-strategy-analysis-iiba-ecba/"
+    },
+    {
+      "title": "Customer Analytics in Python",
+      "url": "https://www.udemy.com/course/customer-analytics-in-python/"
+    },
+    {
+      "title": "ODI 12C Developer A to Z Training",
+      "url": "https://www.udemy.com/course/oracle-data-integrator-12c/"
+    },
+    {
+      "title": "SAS Training by Reviewing and Solving Certificate Questions",
+      "url": "https://www.udemy.com/course/sas-certificate-course-by-solving-questions/"
+    },
+    {
+      "title": "Introduction to Business Analysis (IIBA - ECBA)",
+      "url": "https://www.udemy.com/course/introduction-to-business-analysis-iiba-ecba/"
+    },
+    {
+      "title": "Decision Trees, Random Forests, AdaBoost & XGBoost in Python",
+      "url": "https://www.udemy.com/course/machine-learning-advanced-decision-trees-in-python/"
+    },
+    {
+      "title": "From 0 To 1:SQL And Databases - Heavy Lifting",
+      "url": "https://www.udemy.com/course/sql-and-databases/"
+    },
+    {
+      "title": "Mastering Data Analysis in Excel",
+      "url": "https://www.udemy.com/course/mastering-data-analysis-in-excel-am/"
+    },
+    {
+      "title": "Business Analysis Certification Program - The Competencies",
+      "url": "https://www.udemy.com/course/business-analysis-certification-program-the-competencies/"
+    },
+    {
+      "title": "POPIA Course: All You Should Know",
+      "url": "https://www.udemy.com/course/popia-course-all-you-should-know/"
+    },
+    {
+      "title": "Tableau Masterclass - solving real world business challenges",
+      "url": "https://www.udemy.com/course/tableau-masterclass-solving-real-world-business-challenges/"
+    },
+    {
+      "title": "Digital Oil and Gas",
+      "url": "https://www.udemy.com/course/digital-oil-and-gas/"
+    },
+    {
+      "title": "Excel Charts - Excel Charts and Graphs Basic Training",
+      "url": "https://www.udemy.com/course/excel-charts/"
+    },
+    {
+      "title": "Scale Your Business With Web Analytics & Conversion",
+      "url": "https://www.udemy.com/course/web-analytics-conversion-strategy/"
+    },
+    {
+      "title": "Complete Python Based Image Processing and Computer Vision",
+      "url": "https://www.udemy.com/course/complete-python-based-image-processing-and-computer-vision/"
+    },
+    {
+      "title": "Business Analysis Foundations: Learn All The Essentials",
+      "url": "https://www.udemy.com/course/business-analysis-foundations/"
+    },
+    {
+      "title": "SQL for Data Analytics",
+      "url": "https://www.udemy.com/course/sql-for-data-analytics/"
+    },
+    {
+      "title": "SQL for Data Science + Data Analytics + Data Visualization",
+      "url": "https://www.udemy.com/course/sql-for-data-science-data-analytics-data-visualization/"
+    },
+    {
+      "title": "QlikSense Visualizations Masterclass",
+      "url": "https://www.udemy.com/course/qliksense-visualizations-masterclass/"
+    },
+    {
+      "title": "Hands-On Tableau Projects - Build 3 Dashboards from Scratch",
+      "url": "https://www.udemy.com/course/practical-tableau-and-data-visualization-with-real-projects/"
+    },
+    {
+      "title": "The Complete Data Analytics Course in Excel",
+      "url": "https://www.udemy.com/course/data-analytics-in-excel/"
+    },
+    {
+      "title": "Power BI A-Z: Hands-On Power BI Training For Data Science!",
+      "url": "https://www.udemy.com/course/mspowerbi/"
+    },
+    {
+      "title": "Master SQL For Data Science",
+      "url": "https://www.udemy.com/course/master-sql-for-data-science/"
+    },
+    {
+      "title": "Qlik Sense Certification - The Complete Practical Course",
+      "url": "https://www.udemy.com/course/qlik-sense-certification-the-complete-practical-course/"
+    },
+    {
+      "title": "12 Easy Steps ✔ to the Python Data Analysis, Beginners Guide",
+      "url": "https://www.udemy.com/course/python-beginners-guide-to-the-data-analysis-galaxy-volume-1/"
+    },
+    {
+      "title": "Comprehensive SQL Course For Data Professionals",
+      "url": "https://www.udemy.com/course/comprehensive-sql-course-hands-on-project-coding-exercises/"
+    },
+    {
+      "title": "The Complete Guide to Corporate Governance",
+      "url": "https://www.udemy.com/course/the-complete-guide-to-corporate-governance/"
+    },
+    {
+      "title": "Conduct a Strategy Analysis using Business Analysis",
+      "url": "https://www.udemy.com/course/business-analysis-conduct-a-strategy-analysis/"
+    },
+    {
+      "title": "Advanced Machine Learning & Data Analysis Projects Bootcamp",
+      "url": "https://www.udemy.com/course/machinelearning-dataanalysis-mammothinteractive/"
+    },
+    {
+      "title": "The Complete MySQL Bootcamp:From SQL Beginner to Expert-2025",
+      "url": "https://www.udemy.com/course/the-complete-mysql-bootcamp-from-sql-beginner-to-expert/"
+    },
+    {
+      "title": "Business Analyst: Software Testing Processes & Techniques",
+      "url": "https://www.udemy.com/course/software-testing-business-analyst/"
+    },
+    {
+      "title": "Fundamentals of Business Analysis",
+      "url": "https://www.udemy.com/course/businessanalysis/"
+    },
+    {
+      "title": "Tableau 2020 Training for Data Science & Business Analytics",
+      "url": "https://www.udemy.com/course/tableau-for-data-science-and-business-analytics/"
+    },
+    {
+      "title": "Business Data Analysis: The Strategic Thinking Masterclass",
+      "url": "https://www.udemy.com/course/introduction-to-business-and-data-analysis/"
+    },
+    {
+      "title": "The Complete Supervised Machine Learning Models in Python",
+      "url": "https://www.udemy.com/course/the-complete-supervised-machine-learning-models-in-python/"
+    },
+    {
+      "title": "Data Mesh - A Modern Decentralized Data Management Concept",
+      "url": "https://www.udemy.com/course/data-mesh-a-modern-decentralized-data-management-concept/"
+    },
+    {
+      "title": "Tableau 2022 -Data Science From Zero to Hero + Certification",
+      "url": "https://www.udemy.com/course/tableau-2022-data-science-zero-to-hero-certification/"
+    },
+    {
+      "title": "The Complete Tableau Analyst Bootcamp 2025",
+      "url": "https://www.udemy.com/course/the-complete-tableau-bootcamp/"
+    },
+    {
+      "title": "The Complete SQL Bootcamp (30 Hours): Go from Zero to Hero",
+      "url": "https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/"
+    },
+    {
+      "title": "Data Warehousing & Visualization in Microsoft BI & Power BI",
+      "url": "https://www.udemy.com/course/learn-data-warehousing-and-analysis-with-microsoft-bi-tools/"
+    },
+    {
+      "title": "Microsoft Power BI Desktop: DAX, AI and Data Modelling",
+      "url": "https://www.udemy.com/course/microsoft-power-bi-masterclass-expand-excellence/"
+    },
+    {
+      "title": "IQBBA Certified Foundation Level Business Analyst (CFLBA)",
+      "url": "https://www.udemy.com/course/iqbba-certified-foundation-level-business-analyst-cflba/"
+    },
+    {
+      "title": "Complete IBM Cognos Analytics 12.0.0 Cloud Training Course",
+      "url": "https://www.udemy.com/course/complete-ibm-cognos-analytics-cloud-training/"
+    },
+    {
+      "title": "Introduction to Generative AI and LLMs",
+      "url": "https://www.udemy.com/course/introduction-to-generative-ai-and-llms/"
+    },
+    {
+      "title": "Data Quality Masterclass - The Complete Course",
+      "url": "https://www.udemy.com/course/data-quality-management-masterclass-the-complete-course/"
+    },
+    {
+      "title": "Crystal Reports for SAP Business One Mastery Training Course",
+      "url": "https://www.udemy.com/course/crystal-reports-for-sap-business-one/"
+    },
+    {
+      "title": "Tableau Desktop - A Complete Introduction",
+      "url": "https://www.udemy.com/course/tableau-desktop-a-complete-introduction/"
+    },
+    {
+      "title": "Data-Driven Growth: How to Grow Your Business with Data",
+      "url": "https://www.udemy.com/course/data-driven-growth-how-to-grow-your-business-with-data/"
+    },
+    {
+      "title": "Tableau for Finance: Visualize Financial Data using Tableau",
+      "url": "https://www.udemy.com/course/tableau-for-finance-starttech/"
+    },
+    {
+      "title": "Process Flowcharts & Process Mapping - The Beginner's Guide",
+      "url": "https://www.udemy.com/course/process-mapping-process-flowcharts/"
+    },
+    {
+      "title": "ChatGPT for Research: Unleashing the Power of ChatGPT",
+      "url": "https://www.udemy.com/course/chatgpt-research/"
+    },
+    {
+      "title": "Mastering IBM Blueworks Live",
+      "url": "https://www.udemy.com/course/mastering-ibm-blueworks-live/"
+    },
+    {
+      "title": "Building a Modern Data Warehouse - Data Engineering Bootcamp",
+      "url": "https://www.udemy.com/course/building-a-modern-data-warehouse-data-engineering-bootcamp/"
+    },
+    {
+      "title": "Ultimate Beginners Excel VBA Finance Course for Banking",
+      "url": "https://www.udemy.com/course/ultimate-beginners-vba-finance-course-for-banking/"
+    },
+    {
+      "title": "Microsoft Power BI - The Practical Guide 2025",
+      "url": "https://www.udemy.com/course/powerbi-complete-introduction/"
+    },
+    {
+      "title": "Complete Data Analyst Bootcamp From Basics To Advanced",
+      "url": "https://www.udemy.com/course/complete-data-analyst-bootcamp-from-basics-to-advanced/"
+    },
+    {
+      "title": "SQL Query Training for SAP Business One",
+      "url": "https://www.udemy.com/course/sql-query-training-for-sap-business-one/"
+    },
+    {
+      "title": "The Ultimate Guide for Land Surveying withDrones- Part 3",
+      "url": "https://www.udemy.com/course/the-ultimate-guide-for-land-surveying-with-drones-part-3/"
+    },
+    {
+      "title": "Statistics for Business Analytics using MS Excel",
+      "url": "https://www.udemy.com/course/statistics-for-business-analytics-using-ms-excel/"
+    },
+    {
+      "title": "Tableau For Healthcare",
+      "url": "https://www.udemy.com/course/tableau-for-healthcare/"
+    },
+    {
+      "title": "TIBCO Spotfire Development : Beginners To Advanced Course",
+      "url": "https://www.udemy.com/course/tibco-spotfire-development-beginners-to-advanced-course/"
+    },
+    {
+      "title": "IBM SPSS AMOS Foundation Course: SEM Scratch to Advanced",
+      "url": "https://www.udemy.com/course/sem-using-amos/"
+    },
+    {
+      "title": "Statistics for Business Analytics: Data Analysis with Excel",
+      "url": "https://www.udemy.com/course/statistics-for-business-analytics-data-analysis-with-excel/"
+    },
+    {
+      "title": "Power BI for Data Analysis",
+      "url": "https://www.udemy.com/course/power-bi-for-data-analysis/"
+    },
+    {
+      "title": "Pentaho for ETL & Data Integration Masterclass 2025 - PDI 9",
+      "url": "https://www.udemy.com/course/pentaho-for-etl-data-integration-masterclass/"
+    },
+    {
+      "title": "Master Course in Tableau Prep - Prepare & Clean Data",
+      "url": "https://www.udemy.com/course/tableau_prep/"
+    },
+    {
+      "title": "Python for Time Series Analysis and Forecasting",
+      "url": "https://www.udemy.com/course/python-for-time-series-analysis-and-forecasting-arima/"
+    },
+    {
+      "title": "Data Science for Healthcare Claims Data",
+      "url": "https://www.udemy.com/course/data-science-for-healthcare-claims-data/"
+    },
+    {
+      "title": "Psychometrics using SPSS and AMOS",
+      "url": "https://www.udemy.com/course/psychometrics/"
+    },
+    {
+      "title": "The Tableau 2018 Comprehensive Guide",
+      "url": "https://www.udemy.com/course/learn-tableau-tutorial-tableau-training/"
+    },
+    {
+      "title": "Microsoft Power BI - Data Modeling & Data Manipulation",
+      "url": "https://www.udemy.com/course/microsoft-power-bi-essentials/"
+    },
+    {
+      "title": "Microsoft Power BI - The Complete Masterclass",
+      "url": "https://www.udemy.com/course/microsoft-power-bi-course/"
+    },
+    {
+      "title": "ETL using Python: from MySQL to BigQuery",
+      "url": "https://www.udemy.com/course/etl-using-python-mysql-to-bigquery/"
+    },
+    {
+      "title": "AI for Business Leaders - AI Innovation in 10 Use Cases",
+      "url": "https://www.udemy.com/course/ai-for-business-leaders-ai-innovation-in-10-use-cases/"
+    },
+    {
+      "title": "Business Intelligence and Data Visualisation in Excel 365",
+      "url": "https://www.udemy.com/course/microsoft-excel-for-business-intelligence/"
+    },
+    {
+      "title": "Certified Process Improvement & Process Mapping Expert",
+      "url": "https://www.udemy.com/course/certified-flow-chartsprocess-mapping-expert-bko-accredited/"
+    },
+    {
+      "title": "Tableau for R Users - Explore Tableau and Embed R Code",
+      "url": "https://www.udemy.com/course/tableau-with-ease-and-r/"
+    },
+    {
+      "title": "Data Warehouse - The Ultimate Guide",
+      "url": "https://www.udemy.com/course/data-warehouse-the-ultimate-guide/"
+    },
+    {
+      "title": "SQL for Data Analysis: Advanced SQL Querying Techniques",
+      "url": "https://www.udemy.com/course/sql-advanced-queries/"
+    },
+    {
+      "title": "Alteryx: Self-Service Analytics In Your Hands",
+      "url": "https://www.udemy.com/course/alteryx-self-service-analytics-in-your-hands/"
+    },
+    {
+      "title": "The Advanced QlikSense Masterclass",
+      "url": "https://www.udemy.com/course/the-advanced-qlik-sense-masterclass/"
+    },
+    {
+      "title": "Mastering Statistical Quality Control with Minitab",
+      "url": "https://www.udemy.com/course/mastering-statistical-quality-control-with-minitab/"
+    },
+    {
+      "title": "Data analysis in Excel",
+      "url": "https://www.udemy.com/course/the-data-analyst-skills-training-course-dast-with-excel/"
+    },
+    {
+      "title": "Tableau Expert: Top Visualization Techniques in Tableau 10",
+      "url": "https://www.udemy.com/course/mastering-top-visualization-techniques-in-tableau/"
+    },
+    {
+      "title": "Understand and Elicit Requirements with Business Analysis",
+      "url": "https://www.udemy.com/course/understand-and-elicit-requirements-business-analysis/"
+    },
+    {
+      "title": "Complete Google NotebookLM Course 2025: Beginner to Pro",
+      "url": "https://www.udemy.com/course/google-notebooklm-for-educators-business-research-podcasts-content/"
+    },
+    {
+      "title": "The Complete Google BiqQuery Masterclass: Beginner to Expert",
+      "url": "https://www.udemy.com/course/google-biqquery/"
+    },
+    {
+      "title": "Microsoft Power BI DAX from Scratch",
+      "url": "https://www.udemy.com/course/microsoft-power-bi-dax-foundation-from-scratch/"
+    },
+    {
+      "title": "Time Series Analysis in Python",
+      "url": "https://www.udemy.com/course/time-series-analysis-in-python/"
+    },
+    {
+      "title": "Microsoft Power BI-A Complete Data Analysis Training Package",
+      "url": "https://www.udemy.com/course/microsoft-power-bi-a-complete-hands-on-training-new-updates/"
+    },
+    {
+      "title": "Business Analytics with Big Data : A Complete Guide",
+      "url": "https://www.udemy.com/course/business-analytics-with-big-data-a-complete-guide/"
+    },
+    {
+      "title": "Presentations using Gen AI",
+      "url": "https://www.udemy.com/course/presentations-using-gen-ai/"
+    },
+    {
+      "title": "Revenue and Pricing Analytics with Excel & Python.",
+      "url": "https://www.udemy.com/course/analytics-of-pricing-and-revenue-with-excel-python/"
+    },
+    {
+      "title": "Tableau Interview Q&A: Tableau For Data Science Careers",
+      "url": "https://www.udemy.com/course/tableau-interview/"
+    },
+    {
+      "title": "Introduction to Large Language Models (LLMs) In Python",
+      "url": "https://www.udemy.com/course/introduction-to-large-language-models-llms-in-python/"
+    },
+    {
+      "title": "Business Analysis \"A to Z\" Masterclass",
+      "url": "https://www.udemy.com/course/business-analysis-masterclass/"
+    },
+    {
+      "title": "Data Analyst: PowerBI,PowerPivot,PowerQuery,PivotChart,DAX",
+      "url": "https://www.udemy.com/course/data-analyst-powerbipowerpivotpowerquerypivotchartdax/"
+    },
+    {
+      "title": "The Complete Google Sheets Course: Beginner to Advanced!",
+      "url": "https://www.udemy.com/course/the-complete-google-sheets-course-beginner-to-advanced/"
+    },
+    {
+      "title": "Agile Metrics: Elevate Team Agility with Scrum Reporting",
+      "url": "https://www.udemy.com/course/agile-metrics/"
+    },
+    {
+      "title": "Essential Excel For Business Statistics and Data Analytics",
+      "url": "https://www.udemy.com/course/essential-excel-for-business-statistics-and-data-analytics/"
+    },
+    {
+      "title": "BPMN for business analysts",
+      "url": "https://www.udemy.com/course/bpmn-for-business-analysts/"
+    },
+    {
+      "title": "Data Literacy for Business Professionals",
+      "url": "https://www.udemy.com/course/data-literacy-for-professionals/"
+    },
+    {
+      "title": "Data cleaning frameworks and techniques - Data Professionals",
+      "url": "https://www.udemy.com/course/data-cleaning-frameworks-and-techniques-data-professionals/"
+    },
+    {
+      "title": "Data Storytelling for Data Professionals",
+      "url": "https://www.udemy.com/course/data-storytelling-for-professionals/"
+    },
+    {
+      "title": "A/B Testing 101",
+      "url": "https://www.udemy.com/course/ab-testing-101/"
+    },
+    {
+      "title": "Python Data Analysis & Visualization Bootcamp",
+      "url": "https://www.udemy.com/course/learn-data-analytics-complete-bootcamp-by-takenmind/"
+    },
+    {
+      "title": "Google BigQuery for Marketers and Agencies",
+      "url": "https://www.udemy.com/course/google-bigquery-for-marketers-and-agencies/"
+    },
+    {
+      "title": "Logistic Regression using SAS - Indepth Predictive Modeling",
+      "url": "https://www.udemy.com/course/logistic-regression-credit-scoring-modelling-using-sas/"
+    },
+    {
+      "title": "TIBCO Spotfire 7.x Fundamentals",
+      "url": "https://www.udemy.com/course/spotfire-7x-fundamentals/"
+    },
+    {
+      "title": "Data Analytics & Story-Telling Techniques in Excel",
+      "url": "https://www.udemy.com/course/data-analysis-data-to-insights-a-step-by-step-framework/"
+    },
+    {
+      "title": "Data Visualization in Tableau & Power BI (2 Courses in 1)",
+      "url": "https://www.udemy.com/course/learn-data-visualization-using-tableau-from-zero-to-hero/"
+    },
+    {
+      "title": "Power BI Desktop Masterclass - Data Analysis for Everyone",
+      "url": "https://www.udemy.com/course/power-bi-desktop-masterclass-data-analysis-for-everyone/"
+    },
+    {
+      "title": "Business Analysis Fundamentals - IIBA endorsed",
+      "url": "https://www.udemy.com/course/business-analysis-ba/"
+    },
+    {
+      "title": "Tableau & Tableau Prep for Data Preparation & Visualization",
+      "url": "https://www.udemy.com/course/tableau-and-tableau-prep/"
+    },
+    {
+      "title": "Splunk - Beginner to Architect",
+      "url": "https://www.udemy.com/course/splunk-beginner-to-architect/"
+    },
+    {
+      "title": "Leading a Data-Driven Culture with Confidence",
+      "url": "https://www.udemy.com/course/data-driven-decisions-for-leaders-data-science-business/"
+    },
+    {
+      "title": "Analytical Techniques for Business Analysis (IIBA - ECBA)",
+      "url": "https://www.udemy.com/course/analytical-techniques-for-business-analysis-iiba-ecba/"
+    },
+    {
+      "title": "Analytics Engineering Bootcamp",
+      "url": "https://www.udemy.com/course/analytics-engineering-bootcamp/"
+    },
+    {
+      "title": "How to conduct market research in startups and small firms?",
+      "url": "https://www.udemy.com/course/how-to-conduct-market-research-in-startups-and-small-firms/"
+    },
+    {
+      "title": "Power BI DAX secrets - (Learn DAX formulas for Power BI)",
+      "url": "https://www.udemy.com/course/learn-all-power-bi-dax-secrets/"
+    },
+    {
+      "title": "Excel Data Analysis: From Zero to Excel Data Hero",
+      "url": "https://www.udemy.com/course/business-data-analytics-from-the-ground-up/"
+    },
+    {
+      "title": "Practical QGIS For Spatial Data Analysis: Beginner to Expert",
+      "url": "https://www.udemy.com/course/practical-qgis-for-spatial-data-analysis-beginner-to-expert/"
+    },
+    {
+      "title": "Data Science for Business | 6 Real-world Case Studies",
+      "url": "https://www.udemy.com/course/data-science-for-business-6-real-world-case-studies/"
+    },
+    {
+      "title": "Introduction to MicroStrategy Report Development I",
+      "url": "https://www.udemy.com/course/introduction-to-microstrategy-report-development/"
+    },
+    {
+      "title": "Data Storytelling and Data Visualization Mastery",
+      "url": "https://www.udemy.com/course/mastering-the-art-of-data-visualization-2020/"
+    },
+    {
+      "title": "Power BI Essentials: Power BI Training and Exam Prep",
+      "url": "https://www.udemy.com/course/microsoft-power-bi-introduction/"
+    },
+    {
+      "title": "Artificial Intelligence and Generative AI: Volume 1",
+      "url": "https://www.udemy.com/course/artificial-intelligence-and-generative-ai-volume-1/"
+    },
+    {
+      "title": "Guide to Green Taxonomies and EU Taxonomy Reporting Tutorial",
+      "url": "https://www.udemy.com/course/guide-to-green-taxonomies-and-eu-taxonomy-reporting-tutorial/"
+    },
+    {
+      "title": "Microsoft Advanced Excel Dashboard : Zero To Hero (Complete)",
+      "url": "https://www.udemy.com/course/advanced-excel-dashboard-with-business-intelligence/"
+    },
+    {
+      "title": "Management Consulting Cases for Job Interview",
+      "url": "https://www.udemy.com/course/management-consulting-cases-for-job-interview/"
+    },
+    {
+      "title": "Advance Analytics with Excel - data analysis toolpak/ Solver",
+      "url": "https://www.udemy.com/course/data-analysis-statistical-optimization-using-ms-excel/"
+    },
+    {
+      "title": "Easy Excel Dashboards, Models, Visualizations & Power Query",
+      "url": "https://www.udemy.com/course/easy-excel-dashboards-models-visualizations-power-query/"
+    },
+    {
+      "title": "SQL Course 2025: SQL for Data Analysis and Data Science.",
+      "url": "https://www.udemy.com/course/sql-course-for-data-science/"
+    },
+    {
+      "title": "QlikSense Data Architect Masterclass",
+      "url": "https://www.udemy.com/course/qliksense-data-architect-masterclass/"
+    },
+    {
+      "title": "Master Tableau 2025: Complete Guide to Data Visualization",
+      "url": "https://www.udemy.com/course/tableau-for-beginners-2023-visualize-and-analyze-your-data/"
+    },
+    {
+      "title": "Business Intelligence: Strategies, Tools & Techniques",
+      "url": "https://www.udemy.com/course/business-intelligence-strategies/"
+    },
+    {
+      "title": "Learn SQL with ease",
+      "url": "https://www.udemy.com/course/learn-sql-with-ease/"
+    },
+    {
+      "title": "Data Analyst Boot camp 2025: Get Ready to Be a Data Analyst.",
+      "url": "https://www.udemy.com/course/data-analyst-bootcamp/"
+    },
+    {
+      "title": "Tableau A-Z: Hands-On Tableau Training for Data Science",
+      "url": "https://www.udemy.com/course/tableau10/"
+    },
+    {
+      "title": "Developing Credit Risk Scorecard using SAS",
+      "url": "https://www.udemy.com/course/developing-credit-risk-scorecard-using-sas/"
+    },
+    {
+      "title": "IBM SPSS Modeler: Getting Started",
+      "url": "https://www.udemy.com/course/ibm-spss-modeler-getting-stated/"
+    },
+    {
+      "title": "Master Python for Data Analysis and Business Analytics 2025",
+      "url": "https://www.udemy.com/course/regression-analysis/"
+    },
+    {
+      "title": "Taming Big Data with MapReduce and Hadoop - Hands On!",
+      "url": "https://www.udemy.com/course/taming-big-data-with-mapreduce-and-hadoop/"
+    },
+    {
+      "title": "Power BI Accelerator: Master Data Analysis and Visualization",
+      "url": "https://www.udemy.com/course/ultimate-beginners-guide-to-power-bi-part-2/"
+    },
+    {
+      "title": "Microsoft Power BI Desktop: Advanced DAX for Data Analysis",
+      "url": "https://www.udemy.com/course/advanced-dax-for-power-bi/"
+    },
+    {
+      "title": "Business Analytics",
+      "url": "https://www.udemy.com/course/business-analytics/"
+    },
+    {
+      "title": "Introduction to Blockchain: Industry Applications + ChatGPT",
+      "url": "https://www.udemy.com/course/blockchain-introduction/"
+    },
+    {
+      "title": "Google Data Studio - Master the Advanced Concepts",
+      "url": "https://www.udemy.com/course/google-data-studio-master-the-advanced-concepts/"
+    },
+    {
+      "title": "Project Management with Data Analytics",
+      "url": "https://www.udemy.com/course/project-management-with-data-analytics/"
+    },
+    {
+      "title": "Business Process Automation: Certification",
+      "url": "https://www.udemy.com/course/business-process-automation/"
+    },
+    {
+      "title": "Power BI in less than 1 hour",
+      "url": "https://www.udemy.com/course/power-bi-in-less-than-1-hour/"
+    },
+    {
+      "title": "Data Standardization Frameworks",
+      "url": "https://www.udemy.com/course/data-standardization-frameworks-for-analysts-data-professionals/"
+    },
+    {
+      "title": "Essential Excel for Business Analysts and Consultants",
+      "url": "https://www.udemy.com/course/essential-excel-for-business-analysts-and-consultants/"
+    },
+    {
+      "title": "CHATGPT For EXCEL | Master The Art Of EXCEL With CHATGPT",
+      "url": "https://www.udemy.com/course/chatgpt-for-excel-master-the-art-of-excel-with-chatgpt/"
+    },
+    {
+      "title": "Fundamentals of Simulation Modelling using Anylogic",
+      "url": "https://www.udemy.com/course/simulation-modelling-using-anylogic/"
+    },
+    {
+      "title": "Data Analysis & Visualization: Python | Excel | BI | Tableau",
+      "url": "https://www.udemy.com/course/data-analysis-visualization-python-excel-bi-tableau/"
+    },
+    {
+      "title": "SQL Data Analysis | Learn SQL by Doing",
+      "url": "https://www.udemy.com/course/sql-data-analysis-learn-by-doing/"
+    },
+    {
+      "title": "SAS Programming Complete: Learn SAS and Become a Data Ninja",
+      "url": "https://www.udemy.com/course/sascompletetutorial/"
+    },
+    {
+      "title": "Statistics / Data Analysis in SPSS: MANOVA",
+      "url": "https://www.udemy.com/course/manova-spss/"
+    },
+    {
+      "title": "Tableau Server & Tableau Online for Business Intelligence",
+      "url": "https://www.udemy.com/course/tableau-server-for-analysts/"
+    }
+  ]
+}

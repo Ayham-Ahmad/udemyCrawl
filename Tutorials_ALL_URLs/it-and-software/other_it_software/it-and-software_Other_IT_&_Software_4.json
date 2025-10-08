@@ -1,0 +1,666 @@
+{
+  "main_category": "it-and-software",
+  "sub_category": "Other IT & Software",
+  "courses": [
+    {
+      "title": "Snagit 2021 Essentials",
+      "url": "https://www.udemy.com/course/snagit-2021-essentials/"
+    },
+    {
+      "title": "Masterclass Shift Left: Accelerated Software Testing",
+      "url": "https://www.udemy.com/course/shift-left-accelerating-quality-and-efficiency/"
+    },
+    {
+      "title": "Learn MQL4 from scratch and build your own Forex Robots!",
+      "url": "https://www.udemy.com/course/learn-mql4-from-scratch-and-build-your-own-forex-robots/"
+    },
+    {
+      "title": "Spring Boot 3 + RabbitMQ Course - The Practical Guide",
+      "url": "https://www.udemy.com/course/spring-boot-rabbitmq-course/"
+    },
+    {
+      "title": "Blockchain Programming Fundamentals: Ethereum and Solidity",
+      "url": "https://www.udemy.com/course/blockchain-programming-fundamentals-ethereum-and-solidity/"
+    },
+    {
+      "title": "How to build your own altcoin cryptocurrency mining pool",
+      "url": "https://www.udemy.com/course/how-to-build-your-own-mining-pool/"
+    },
+    {
+      "title": "Cloud Computing Masterclass - Deployment to Administration",
+      "url": "https://www.udemy.com/course/cloud-computing-full-stack-development-masterclass/"
+    },
+    {
+      "title": "Migration to AWS",
+      "url": "https://www.udemy.com/course/migration-to-aws/"
+    },
+    {
+      "title": "MDX Training Part 2",
+      "url": "https://www.udemy.com/course/mdx-training/"
+    },
+    {
+      "title": "ChatGPT & Generative AI: The ultimate AI course",
+      "url": "https://www.udemy.com/course/chatgpt-generative-ai/"
+    },
+    {
+      "title": "Azure Entra ID: Identity Management and Architecture",
+      "url": "https://www.udemy.com/course/azure-entra-id-identity-management-and-architecture/"
+    },
+    {
+      "title": "A guide to Mobile application testing from scratch",
+      "url": "https://www.udemy.com/course/a-guide-to-mobile-application-testing-from-scratch/"
+    },
+    {
+      "title": "ChatGPT For Technical Writing: Becoming A Better Tech Writer",
+      "url": "https://www.udemy.com/course/chatgpt-for-technical-writing-becoming-a-better-tech-writer/"
+    },
+    {
+      "title": "Moodle developer course for beginners",
+      "url": "https://www.udemy.com/course/moodle-developer-course/"
+    },
+    {
+      "title": "SAP Ariba : Become Certified Consultant Invoicing Management",
+      "url": "https://www.udemy.com/course/sap-ariba-become-certified-consultant-invoicing-management/"
+    },
+    {
+      "title": "Master Ionic 8 + NodeJS: Build Real-World Food Delivery Apps",
+      "url": "https://www.udemy.com/course/ionic-6-with-nodejs-the-complete-beginner-to-pro-course/"
+    },
+    {
+      "title": "Learn IICS: Informatica Intelligent Cloud Services Mastery",
+      "url": "https://www.udemy.com/course/learn-iics-informatica-intelligent-cloud-services-mastery/"
+    },
+    {
+      "title": "SAP S/4HANA TM (Transportation Management) 2020 Functional",
+      "url": "https://www.udemy.com/course/sap-s4hana-tm-transportation-management-2020-functional/"
+    },
+    {
+      "title": "Azure Data Factory +Synapse Analytics End to End ETL project",
+      "url": "https://www.udemy.com/course/azure-data-factory-synapse-analytics-end-to-end-etl-project/"
+    },
+    {
+      "title": "Aspen Plus - Getting Started!",
+      "url": "https://www.udemy.com/course/aspen-plus-getting-started/"
+    },
+    {
+      "title": "XPath, CSS Selector, Web,DOM, SelectorsHub & TestCase Studio",
+      "url": "https://www.udemy.com/course/xpath-css-selector-webdom-selectorshub-testcase-studio/"
+    },
+    {
+      "title": "Insight into IT Support / Helpdesks / NOC / Service Desks",
+      "url": "https://www.udemy.com/course/insight-into-it-support-helpdesks-noc-service-desks/"
+    },
+    {
+      "title": "Telegraf/InfluxDB/Grafana(TICK) for Monitoring SQL Server",
+      "url": "https://www.udemy.com/course/telegraf-influxdb-chronograftick-for-monitoring-sql-server/"
+    },
+    {
+      "title": "Build Full-stack React Native Apps with Node.js Backend",
+      "url": "https://www.udemy.com/course/build-full-stack-react-native-apps-with-expressjs-backend/"
+    },
+    {
+      "title": "Jaeger - Distributed Tracing for Cloud Native Applications",
+      "url": "https://www.udemy.com/course/jaeger-distributed-tracing-for-cloud-native-applications/"
+    },
+    {
+      "title": "Master ASP.NET Core 5: Build Dynamic Web APIs with Database",
+      "url": "https://www.udemy.com/course/aspnet-web-api-22-made-easy-for-beginners/"
+    },
+    {
+      "title": "Learn HTML and CSS from Scratch - Build Responsive Websites",
+      "url": "https://www.udemy.com/course/learn-html-and-css-from-scratch-build-responsive-websites/"
+    },
+    {
+      "title": "Learn geographic information systems (GIS) with QGIS",
+      "url": "https://www.udemy.com/course/learnqgis/"
+    },
+    {
+      "title": "Selenium C# with SpecFlow & Live Projects (Basic + Advance)",
+      "url": "https://www.udemy.com/course/selenium-c-sharp-training/"
+    },
+    {
+      "title": "Python and Gen AI for Career Changers : Start from Scratch",
+      "url": "https://www.udemy.com/course/python-genai-from-scratch/"
+    },
+    {
+      "title": "SAP S/4HANA Fiori Security - 2025",
+      "url": "https://www.udemy.com/course/sap-s4-hana-fiori-security/"
+    },
+    {
+      "title": "Generative AI for Beginners",
+      "url": "https://www.udemy.com/course/generative-ai-for-beginners-b/"
+    },
+    {
+      "title": "Mainframe Modernization - Best Kept Secrets and Approach",
+      "url": "https://www.udemy.com/course/mainframe-modernization-best-kept-secrets-and-approach/"
+    },
+    {
+      "title": "Future Land Use with GIS - TerrSet - CA Markov - ArcGIS",
+      "url": "https://www.udemy.com/course/prediction-of-future-land-use-remote-sensing-and-gis-terrset/"
+    },
+    {
+      "title": "SAP BI, SAP BusinessObjects, SAP Business One (101 Level)",
+      "url": "https://www.udemy.com/course/sap-bi-sap-businessobjects-sap-business-one-sap-bw-erp/"
+    },
+    {
+      "title": "Learn Spring Core Framework the Easy Way!",
+      "url": "https://www.udemy.com/course/spring-online-training/"
+    },
+    {
+      "title": "Public Key Infrastructure (PKI) with OpenSSL (RSA and ECC)",
+      "url": "https://www.udemy.com/course/public-key-infrastructure-pki-with-openssl-rsa-and-ecc/"
+    },
+    {
+      "title": "Master C and Embedded C Programming- Learn as you go",
+      "url": "https://www.udemy.com/course/embedded-c-learn-as-you-go/"
+    },
+    {
+      "title": "Web Scraping for Data Science - Python & Selenium - Basics",
+      "url": "https://www.udemy.com/course/web-scraping-for-data-science-python-selenium-basics/"
+    },
+    {
+      "title": "Pipe Stress Analysis Complete Course from PASS",
+      "url": "https://www.udemy.com/course/pipe-stress-analysis-pass/"
+    },
+    {
+      "title": "Qlik Sense Developer: Empower Your Analysis!",
+      "url": "https://www.udemy.com/course/qlik-sense-developer/"
+    },
+    {
+      "title": "Python And Flask Framework Complete Course",
+      "url": "https://www.udemy.com/course/flask-framework-complete-course-for-beginners/"
+    },
+    {
+      "title": "Intro to Google's A2A Protocol: Interoperable AI Agents",
+      "url": "https://www.udemy.com/course/a2a-agent-to-agent-protocol-google-mcp-model-context-protocol/"
+    },
+    {
+      "title": "Alteryx Designer Beginners Bootcamp",
+      "url": "https://www.udemy.com/course/alteryx-designer-bootcamp/"
+    },
+    {
+      "title": "Learn Three.js using React: Build a 3D Tesla Workshop 2021",
+      "url": "https://www.udemy.com/course/threejs-using-react/"
+    },
+    {
+      "title": "ChatGPT Learning Was Never This Easy",
+      "url": "https://www.udemy.com/course/chatgpt-prompt-masterclass-live-examples/"
+    },
+    {
+      "title": "Python And Flask Framework Complete Course For Beginners",
+      "url": "https://www.udemy.com/course/python-for-beginners-course-/"
+    },
+    {
+      "title": "Desktop Support Computer Basics IT Support Training Course",
+      "url": "https://www.udemy.com/course/desktop-support-it-support-it-fundamentals-training-course/"
+    },
+    {
+      "title": "API Testing Masterclass from scratch (Postman+Rest Assured)",
+      "url": "https://www.udemy.com/course/api-testing-postman-restassured-jenkins-git-ai/"
+    },
+    {
+      "title": "Building GraphQL APIs with Python: Beginner To Pro",
+      "url": "https://www.udemy.com/course/building-graphql-apis-with-python/"
+    },
+    {
+      "title": "The Complete Snowflake & dbt Hands-On Guide",
+      "url": "https://www.udemy.com/course/snowflake-dbt-a-hands-on-guide/"
+    },
+    {
+      "title": "Product Cost Controlling (CO-PC) in SAP - Real-Life Scenario",
+      "url": "https://www.udemy.com/course/product-cost-controlling-in-sap/"
+    },
+    {
+      "title": "How to Build a Basic HMI and Connect it to a Modbus Slave",
+      "url": "https://www.udemy.com/course/how-to-build-a-basic-hmi-and-connect-it-to-a-modbus-slave/"
+    },
+    {
+      "title": "Julia Programming Language - From Zero to Expert",
+      "url": "https://www.udemy.com/course/julia-programming-language-from-zero-to-expert/"
+    },
+    {
+      "title": "A Fullstack Saga: SpringBoot / Angular / Kubernetes",
+      "url": "https://www.udemy.com/course/a-fullstack-saga-springboot-angular-kubernetes/"
+    },
+    {
+      "title": "Primavera P6 Masterclass: Scheduling, Resources & Reporting",
+      "url": "https://www.udemy.com/course/oracle-primavera-p6/"
+    },
+    {
+      "title": "Real-world End to End Machine Learning Ops on Google Cloud",
+      "url": "https://www.udemy.com/course/machine-learning-ops-on-google-cloud-real-world-data-science/"
+    },
+    {
+      "title": "ROS for Beginners III: Web-based Navigation with ROSBridge",
+      "url": "https://www.udemy.com/course/ros-web-nav/"
+    },
+    {
+      "title": "Introduction To Data Science",
+      "url": "https://www.udemy.com/course/introduction-to-data-science-basics/"
+    },
+    {
+      "title": "Complete Ansible Bootcamp: Go from zero to hero in Ansible",
+      "url": "https://www.udemy.com/course/ansible-hero/"
+    },
+    {
+      "title": "Git & GitHub for Beginners & Integration With Popular IDEs",
+      "url": "https://www.udemy.com/course/git-github-for-beginners-integration-with-popular-ides/"
+    },
+    {
+      "title": "Beyond Basic Programming - Intermediate Python",
+      "url": "https://www.udemy.com/course/beyond-basic-programming-intermediate-python/"
+    },
+    {
+      "title": "SQL Server Performance Tuning",
+      "url": "https://www.udemy.com/course/sql-server-performance-tuning/"
+    },
+    {
+      "title": "Snowflake Scripting - Writing Stored Procedures Using SQL",
+      "url": "https://www.udemy.com/course/snowflake-scripting-stored-procedures/"
+    },
+    {
+      "title": "Master AWS Lambda Functions for Data Engineers using Python",
+      "url": "https://www.udemy.com/course/mastering-aws-lambda-functions/"
+    },
+    {
+      "title": "ServiceNow Administration: A Comprehensive Guide",
+      "url": "https://www.udemy.com/course/servicenow-administration-a-comprehensive-guide/"
+    },
+    {
+      "title": "Selenium Webdriver with Java Language",
+      "url": "https://www.udemy.com/course/test-automation-with-selenium-webdriver/"
+    },
+    {
+      "title": "Learn Chat GPT from scratch, for free!",
+      "url": "https://www.udemy.com/course/learn-chat-gpt-from-scratch-all-the-way-up-to-advanced-level/"
+    },
+    {
+      "title": "Mastering the Basics of Git: A Step-by-Step Guide",
+      "url": "https://www.udemy.com/course/devops-tools-for-beginners-git-in-1-hour/"
+    },
+    {
+      "title": "Practical Reinforcement Learning using Python - 8 AI Agents",
+      "url": "https://www.udemy.com/course/practical-reinforcement-learning/"
+    },
+    {
+      "title": "Salesforce Lightning Web Components",
+      "url": "https://www.udemy.com/course/salesforce-lightning-web-components/"
+    },
+    {
+      "title": "New Relic Performance & AI Monitoring – Beginner to Expert",
+      "url": "https://www.udemy.com/course/new-relic-performance-monitoring-tool-from-zero-to-hero/"
+    },
+    {
+      "title": "Mule 4: API Manager(Mule Gateway & Flex gateway)",
+      "url": "https://www.udemy.com/course/mule-4-api-manager/"
+    },
+    {
+      "title": "Snowflake Mastery: Easy steps to gain expertise [2024]",
+      "url": "https://www.udemy.com/course/snowflake-mastery-easy-steps-to-gain-expertise-2023/"
+    },
+    {
+      "title": "AIOps Fundamentals for Beginners",
+      "url": "https://www.udemy.com/course/aiops-fundamentals/"
+    },
+    {
+      "title": "Desktop Application Development Windows Forms C#",
+      "url": "https://www.udemy.com/course/desktop-application-development-windows-forms-c/"
+    },
+    {
+      "title": "Learn Java Fundamentals for Beginners",
+      "url": "https://www.udemy.com/course/learn-java-fundamentals-for-beginners/"
+    },
+    {
+      "title": "ChatGPT Intermediate - Learn ChatGPT Prompts",
+      "url": "https://www.udemy.com/course/chatgpt-smart-tips2/"
+    },
+    {
+      "title": "Introduction to Tableau",
+      "url": "https://www.udemy.com/course/introduction-to-tableau-dutta/"
+    },
+    {
+      "title": "Project Management Expert: Project Management Tools",
+      "url": "https://www.udemy.com/course/project-management-tools/"
+    },
+    {
+      "title": "Chef for Absolute Beginners",
+      "url": "https://www.udemy.com/course/chef-linux/"
+    },
+    {
+      "title": "Deep Learning for Beginners: Core Concepts and PyTorch",
+      "url": "https://www.udemy.com/course/fundamentals-deep-learning-concept-pytorch/"
+    },
+    {
+      "title": "Fundamentals of Software Design and Architecture Course",
+      "url": "https://www.udemy.com/course/fundamentals-of-software-design-and-software-architecture-course/"
+    },
+    {
+      "title": "Learn Web Automation Testing with Playwright and JavaScript",
+      "url": "https://www.udemy.com/course/getting-started-with-playwright/"
+    },
+    {
+      "title": "DevOps Beginners to Advanced with Projects",
+      "url": "https://www.udemy.com/course/decodingdevops/"
+    },
+    {
+      "title": "Programming in Snowflake Masterclass Hands-On",
+      "url": "https://www.udemy.com/course/programming-in-snowflake/"
+    },
+    {
+      "title": "IT Audit: Cybersecurity Audit Project",
+      "url": "https://www.udemy.com/course/cybersecurity-audit-fundamentals/"
+    },
+    {
+      "title": "Performance Testing with Neoload: Design, Execute & Analysis",
+      "url": "https://www.udemy.com/course/performance-testing-with-neoload-design-execute-analysis/"
+    },
+    {
+      "title": "Product-Led Growth",
+      "url": "https://www.udemy.com/course/productledgrowth/"
+    },
+    {
+      "title": "Information Technology Business Analysis - 2025",
+      "url": "https://www.udemy.com/course/it-business-analysis/"
+    },
+    {
+      "title": "MySQL Database Development for Beginners",
+      "url": "https://www.udemy.com/course/mysql-database-development-for-beginners/"
+    },
+    {
+      "title": "Quantum Computing and Quantum Machine Learning - Part 2",
+      "url": "https://www.udemy.com/course/quantum-computing-and-quantum-machine-learning-part-2/"
+    },
+    {
+      "title": "Artificial Intelligence: Optimization Algorithms in Python",
+      "url": "https://www.udemy.com/course/artificial-intelligence-optimization-algorithms-in-python/"
+    },
+    {
+      "title": "jQuery for Absolute Beginners",
+      "url": "https://www.udemy.com/course/jquery-for-absolute-beginners/"
+    },
+    {
+      "title": "Learning to work with Emacs",
+      "url": "https://www.udemy.com/course/learning-to-work-with-emacs/"
+    },
+    {
+      "title": "Master UML - A Complete Unified Modeling Language Guide",
+      "url": "https://www.udemy.com/course/master-uml/"
+    },
+    {
+      "title": "Docker : Docker A-Z+Kubernetes Basics-HandsOn-DevOps(2025)",
+      "url": "https://www.udemy.com/course/docker-devops/"
+    },
+    {
+      "title": "Google Earth Engine for Remote Sensing & GIS: 3 courses in 1",
+      "url": "https://www.udemy.com/course/google-earth-engine-for-big-geodata-analysis-3-courses-in-1/"
+    },
+    {
+      "title": "Learn Wonderware InTouch SCADA from Scratch to PRO",
+      "url": "https://www.udemy.com/course/learn-wonderware-intouch-scada-from-scratch-to-pro/"
+    },
+    {
+      "title": "Learn Software Testing : Beginner to Expert.",
+      "url": "https://www.udemy.com/course/comprehensive-software-testing-bootcamp-beginner-to-expert/"
+    },
+    {
+      "title": "The Ultimate Zoom Course - Beginner to Expert Fast",
+      "url": "https://www.udemy.com/course/zoom-course/"
+    },
+    {
+      "title": "The Complete UiPath Orchestrator RPA Course",
+      "url": "https://www.udemy.com/course/the-complete-uipath-orchestrator-rpa-course/"
+    },
+    {
+      "title": "Get a Job of your Dreams in IT",
+      "url": "https://www.udemy.com/course/find-the-right-it-job/"
+    },
+    {
+      "title": "Terraform Mastery: Automate Your Infrastructure [2025]",
+      "url": "https://www.udemy.com/course/infrastructure-automation-with-terraform-a-devops-tool/"
+    },
+    {
+      "title": "Complete PLC Course w/ Motion Control Kinetix Allen Bradley",
+      "url": "https://www.udemy.com/course/complete-plc-course-w-motion-control-kinetix-allen-bradley/"
+    },
+    {
+      "title": "Mastering SQL using Postgresql",
+      "url": "https://www.udemy.com/course/mastering-sql-using-postgresql/"
+    },
+    {
+      "title": "Intro to Automotive functional safety( ISO26262)",
+      "url": "https://www.udemy.com/course/functional-safety-iso26262/"
+    },
+    {
+      "title": "Server Virtualization with Hyper-V and System Center",
+      "url": "https://www.udemy.com/course/ms-system-center-intro-to-virtual-machine-manager/"
+    },
+    {
+      "title": "Web Accessibility testing",
+      "url": "https://www.udemy.com/course/web-accessibility-testing/"
+    },
+    {
+      "title": "FullStack Application Spring Boot and React",
+      "url": "https://www.udemy.com/course/fullstack-application-spring-boot-and-react/"
+    },
+    {
+      "title": "XAI: Explainable AI",
+      "url": "https://www.udemy.com/course/xai-explain-ml-models/"
+    },
+    {
+      "title": "Performance Testing with AI | Jmeter | Lighthouse | K6",
+      "url": "https://www.udemy.com/course/jmeter-performance-testing-framework-done-with-chat-gpt/"
+    },
+    {
+      "title": "IBM App Connect Enterprise 11 (ACE) Administration",
+      "url": "https://www.udemy.com/course/ibm-app-connect-enterprise-11-ace-administration/"
+    },
+    {
+      "title": "CAN Part 2 - Master CAN Development from Beginner to Expert",
+      "url": "https://www.udemy.com/course/canpart2-master-candevelopment-beginner-expert/"
+    },
+    {
+      "title": "Microsoft Teams - Master Microsoft Teams",
+      "url": "https://www.udemy.com/course/master-microsoft-teams/"
+    },
+    {
+      "title": "SAP - Business Objects Business Intelligence Platform",
+      "url": "https://www.udemy.com/course/sap-business-objects-business-intelligence-platform/"
+    },
+    {
+      "title": "Controller Area Network(CAN)",
+      "url": "https://www.udemy.com/course/controller-area-networkcan/"
+    },
+    {
+      "title": "Revit Architecture 2024 from Zero to Hero",
+      "url": "https://www.udemy.com/course/revit-architecture-2024-from-zero-to-hero/"
+    },
+    {
+      "title": "Airtable - The Ultimate Beginner to Expert Course",
+      "url": "https://www.udemy.com/course/airtable-the-ultimate-beginner-to-expert-course/"
+    },
+    {
+      "title": "Complete Guide to Image Processing with MATLAB",
+      "url": "https://www.udemy.com/course/complete-guide-to-image-processing-with-matlab/"
+    },
+    {
+      "title": "ICO 2018: The Ultimate Guide to Creating your own ICO",
+      "url": "https://www.udemy.com/course/the-ultimate-guide-to-creating-and-running-your-own-ico/"
+    },
+    {
+      "title": "QuickBooks Online Made Easy Training Tutorial 2017",
+      "url": "https://www.udemy.com/course/quickbooks-online-made-easy-training-tutorial-2017/"
+    },
+    {
+      "title": "Level Up in Swift",
+      "url": "https://www.udemy.com/course/level-up-in-swift/"
+    },
+    {
+      "title": "Mastering MQTT Protocol A Beginner's to Advance Level Guide",
+      "url": "https://www.udemy.com/course/mastering-mqtt-protocol/"
+    },
+    {
+      "title": "Be a Zoom Pro the Ultimate Course",
+      "url": "https://www.udemy.com/course/be-a-zoom-pro-the-ultimate-course/"
+    },
+    {
+      "title": "Construction management: Road construction",
+      "url": "https://www.udemy.com/course/construction-management-road-construction/"
+    },
+    {
+      "title": "Introduction to LangChain",
+      "url": "https://www.udemy.com/course/introduction-to-langchain/"
+    },
+    {
+      "title": "Learn How To Become an Azure SQL Database Architect",
+      "url": "https://www.udemy.com/course/learn-how-to-become-an-azure-sql-database-architect/"
+    },
+    {
+      "title": "Oracle SOA Suite 12c - Mastering REST and SOAP APIs",
+      "url": "https://www.udemy.com/course/integration-oracle-soa-suite-12c/"
+    },
+    {
+      "title": "Mathematical Optimization with GAMS and Pyomo (Python)",
+      "url": "https://www.udemy.com/course/mathematical-optimization-with-gams-and-pyomo-python/"
+    },
+    {
+      "title": "Real-Time Data Stream Processing In Azure",
+      "url": "https://www.udemy.com/course/real-time-data-stream-processing-in-azure/"
+    },
+    {
+      "title": "Complete DAX Bootcamp for Power BI from Beginner to Advanced",
+      "url": "https://www.udemy.com/course/the-complete-dax-bootcamp-from-beginner-to-advanced/"
+    },
+    {
+      "title": "Complete Core Java In Simple Way Part - 2",
+      "url": "https://www.udemy.com/course/complete-core-java-in-simple-way-part-2/"
+    },
+    {
+      "title": "Microsoft Azure Functions - Developing Serverless Solutions",
+      "url": "https://www.udemy.com/course/microsoft-azure-functions-developing-serverless-solutions/"
+    },
+    {
+      "title": "Azure AI Agent Service (AI Foundry, Semantic Kernel SDK)",
+      "url": "https://www.udemy.com/course/azure-ai-agent-service-ai-foundry-semantic-kernel-sdk/"
+    },
+    {
+      "title": "The Complete Notion Course: From Beginner To Expert (2025)",
+      "url": "https://www.udemy.com/course/notion-ai-course/"
+    },
+    {
+      "title": "Computer Basics For Seniors: The Easy Way To Learn Computers",
+      "url": "https://www.udemy.com/course/computer-basics-for-seniors-the-easy-way-to-learn-computers/"
+    },
+    {
+      "title": "Build No Code Web and Mobile Apps with SAP Build Apps",
+      "url": "https://www.udemy.com/course/build-no-code-web-and-mobile-apps-with-sap-build-apps/"
+    },
+    {
+      "title": "Microsoft SQL Server 2019: For Beginners",
+      "url": "https://www.udemy.com/course/complete-microsoft-sql-course-for-beginners/"
+    },
+    {
+      "title": "How to Program Microsoft Excel as a Modbus Master HMI",
+      "url": "https://www.udemy.com/course/how-to-program-microsoft-excel-as-a-modbus-master-hmi/"
+    },
+    {
+      "title": "Spring AI for beginners : Build GenAI LLM Apps in Easy Steps",
+      "url": "https://www.udemy.com/course/spring-ai-for-beginners-build-genai-llm-apps-in-easy-steps/"
+    },
+    {
+      "title": "Statistics & Linear Algebra for Machine Learning",
+      "url": "https://www.udemy.com/course/applied-math-for-ml/"
+    },
+    {
+      "title": "Azure DevOps Fundamental for Beginners and Professionals.",
+      "url": "https://www.udemy.com/course/azure-devops-for-beginners-and-advanced/"
+    },
+    {
+      "title": "Integrations for the Servicenow Professionals",
+      "url": "https://www.udemy.com/course/servicenow-integrations-explained-in-detail/"
+    },
+    {
+      "title": "Quantum Computing A-Z",
+      "url": "https://www.udemy.com/course/quantum-computing-az/"
+    },
+    {
+      "title": "Complete EMV Cards and Payments Training Course",
+      "url": "https://www.udemy.com/course/complete-emv-cards-and-payments-training-course/"
+    },
+    {
+      "title": "Python Web Dev Pro: Flask, Django, HTML, CSS & Bootstrap",
+      "url": "https://www.udemy.com/course/python-web-dev-pro-flask-django-html-css-bootstrap/"
+    },
+    {
+      "title": "200 Days of GenAI Mastery: Elevate Your Work & Life with AI",
+      "url": "https://www.udemy.com/course/30-days-of-genai-mastery-elevate-your-work-life-with-ai/"
+    },
+    {
+      "title": "Computer Vision Bootcamp with Python (OpenCV) - YOLO, SSD",
+      "url": "https://www.udemy.com/course/computer-vision-bootcamptm-python-and-opencv/"
+    },
+    {
+      "title": "Azure Data engineering end to end ( Hindi)",
+      "url": "https://www.udemy.com/course/azure-data-engineering-end-to-end-hindi/"
+    },
+    {
+      "title": "Learn Essential Javascript Fundamentals",
+      "url": "https://www.udemy.com/course/learn-javascript-fundamentals-in-an-hour/"
+    },
+    {
+      "title": "Learn Playwright with Javascript",
+      "url": "https://www.udemy.com/course/learn-playwright-with-javascript/"
+    },
+    {
+      "title": "The Complete Guide on Hyperledger Fabric v2.x on Kubernetes",
+      "url": "https://www.udemy.com/course/hyperledger-fabric-on-kubernetes-complete-guide/"
+    },
+    {
+      "title": "Building Microservices with Azure Container Apps",
+      "url": "https://www.udemy.com/course/building-microservices-with-azure-container-apps/"
+    },
+    {
+      "title": "Cloud Design Patterns",
+      "url": "https://www.udemy.com/course/cloud-design-patterns/"
+    },
+    {
+      "title": "Automotive Embedded Interview Q&A [QA - Question and Answer]",
+      "url": "https://www.udemy.com/course/automotive_protocols/"
+    },
+    {
+      "title": "Wind Energy Modeling Bootcamp: Hands-on Python",
+      "url": "https://www.udemy.com/course/wind-energy-modeling-bootcamp-hands-on-python/"
+    },
+    {
+      "title": "Generative AI application design and development",
+      "url": "https://www.udemy.com/course/generative-ai-app-dev/"
+    },
+    {
+      "title": "Microsoft Excel - Beginner to Advance with Example",
+      "url": "https://www.udemy.com/course/learn-excel-from-beginner-to-advance-with-example/"
+    },
+    {
+      "title": "Advanced Animations in PowerPoint",
+      "url": "https://www.udemy.com/course/advanced-animations-in-powerpoint/"
+    },
+    {
+      "title": "Master Prompt Engineering In 2025 With New AI Models",
+      "url": "https://www.udemy.com/course/mastering-ai-powered-prompt-engineering-with-ai-models/"
+    },
+    {
+      "title": "An Introduction to AI Agents",
+      "url": "https://www.udemy.com/course/an-introduction-to-ai-agents/"
+    },
+    {
+      "title": "ChatGPT as career booster: Impress with YOUR productivity",
+      "url": "https://www.udemy.com/course/chatgpt-prompt-engineering/"
+    },
+    {
+      "title": "Embedded Linux",
+      "url": "https://www.udemy.com/course/embedded-linux/"
+    },
+    {
+      "title": "Cypress by Examples",
+      "url": "https://www.udemy.com/course/cypress-by-examples/"
+    }
+  ]
+}

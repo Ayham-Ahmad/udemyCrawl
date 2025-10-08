@@ -1,0 +1,704 @@
+{
+  "courses": [
+    {
+      "title": "Essentials of Non-Disclosure Agreements (NDAs)",
+      "url": "https://www.udemy.com/course/fast-track-nda/",
+      "bio": "U.demy's most in-depth and practical course on NDAs / Confidentiality Agreements (+ NDA Checklist)",
+      "objectives": [
+        "Architecture of an NDA",
+        "Common misconceptions about NDAs",
+        "Understand how NDAs are used in real-world examples",
+        "Learn to ascertain when you really need an NDA",
+        "Learn to contribute effectively to an NDA negotiation",
+        "Basic drafting and review skills"
+      ],
+      "course_content": {},
+      "requirements": [
+        "No prior experience required"
+      ],
+      "description": "Fast Track your learning with us.\nThis is a an introductory course that will take you through the world of NDAs, providing you with a practical understanding of how NDAs are used, and equipping you with an in-depth knowledge of commonly negotiated provisions so that you know what to look out for and how to navigate at least the initial stages of an NDA negotiation. At the end of the course, we will also provide you with an NDA checklist to assist you on your future negotiations.\nWhat is unique about this course:\nThis course is designed with the practical user in mind. Other courses on NDAs will only scratch the surface of the subject matter. We will show you the real-world application of NDAs, dive into actual examples of negotiations and share our experience with you that will take your understanding of NDAs to another level. By the end of this course, you will have learnt how to negotiate basic NDAs.\nTopics we will cover:\nIntroduction to NDAs\nCase Studies\nKey Provisions\nWho this course is for:\nStart-ups\nHedge fund, private equity\nLegal and non-legal executives\nIf you found this course useful, stay tuned for our other related courses.",
+      "target_audience": [
+        "Start-ups",
+        "Paralegals",
+        "C-suite",
+        "Law or pre-law students"
+      ]
+    },
+    {
+      "title": "HIPAA Compliance Complete Course",
+      "url": "https://www.udemy.com/course/hipaa-compliance-fraud-waste-and-abuse-fwa-training/",
+      "bio": "Protect Patient Privacy, Prevent Fraud, and Stay Compliant with Federal Regulations",
+      "objectives": [
+        "Understand the core principles of HIPAA privacy, security, and administrative simplification requirements.",
+        "Identify what constitutes Protected Health Information (PHI) and how to properly handle, disclose, and safeguard patient data.",
+        "Recognize who qualifies as a covered entity or business associate and understand their legal responsibilities.",
+        "Apply the Minimum Necessary Rule and authorization guidelines to prevent unauthorized disclosures and maintain patient confidentiality.",
+        "Detect, prevent, and respond to healthcare fraud, waste, and abuse to ensure full compliance with federal regulations.",
+        "Implement practical security measures to reduce risks of data breaches, unauthorized access, phishing attacks, and cyber threats."
+      ],
+      "course_content": {
+        "HIPPA and Privacy": [
+          "HIPPA and Privacy",
+          "Security, Safeguards, and Controls",
+          "Examples and Cases"
+        ],
+        "Fraud, Waste, and Abuse": [
+          "Fraud, Waste, and Abuse",
+          "Case Examples and Law"
+        ],
+        "Compliance and Prevention": [
+          "Compliance and Prevention",
+          "Final Quiz"
+        ]
+      },
+      "requirements": [
+        "No prior experience required"
+      ],
+      "description": "HIPAA, Fraud, Waste, and Abuse Compliance Training for Healthcare Employees\nEnsure your organization stays fully compliant with HIPAA regulations and federal requirements for fraud, waste, and abuse prevention. This complete training course is designed specifically for healthcare providers, employees, business associates, and organizations that need to meet annual HIPAA and FWA training mandates.\nLed by certified expert Wendy Bell (CPC, AAPC), with over 25 years of hands-on healthcare experience, this course covers both the legal obligations and the real-world application of HIPAA privacy, security, and fraud regulations. Whether you're onboarding new staff or providing annual re-training for your team, this course simplifies complex regulatory requirements into clear, actionable lessons that your employees will actually retain.\nWhat you’ll learn:\nThe core components of the Health Insurance Portability and Accountability Act (HIPAA)\nHIPAA Titles I-V explained: portability, privacy, security, tax provisions, and administrative simplification\nProtected Health Information (PHI): what it is, who can access it, and how it's safeguarded\nUnderstanding covered entities, business associates, and business associate agreements\nMinimum necessary rule, authorization for disclosure, and patient rights\nSpecial situations for minors, spouses, and family members requesting information\nHIPAA security rule: administrative, physical, and technical safeguards\nFacility controls, workstation access, device/media disposal, contingency plans, and risk management\nElectronic claims transmission, clearinghouses, encryption, and secure communications\nFraud, waste, and abuse prevention: identifying and avoiding billing errors, unauthorized access, and data breaches\nPhishing attacks, email threats, and staff awareness training to prevent cyber intrusions\nReal-world case studies and examples to help staff apply compliance principles to daily work\nAnnual HIPAA and fraud training requirement fulfillment for federal program participation (Medicare, Medicaid, VA)\nWho this course is for:\nHealthcare providers and office staff\nBusiness associates, vendors, and contractors\nMedical billing companies and coders\nHospitals, clinics, private practices, and healthcare networks\nHR, compliance officers, and training coordinators responsible for employee compliance programs\nBy the end of this course, your staff will have a full understanding of HIPAA regulations, how to properly handle PHI, how to stay compliant with fraud, waste, and abuse regulations, and how to avoid costly violations that can result in fines or criminal charges.\nThis course fulfills federal training requirements and can be used as part of your organization’s annual HIPAA and FWA compliance program.",
+      "target_audience": [
+        "All covered entites required to have annual training on HIPAA and Fraud, Waste and Abuse Regulations"
+      ]
+    },
+    {
+      "title": "[アニメで学ぶ]情報セキュリティ講座‐IPA「セキュリティアクション編」",
+      "url": "https://www.udemy.com/course/security_action/",
+      "bio": "Yahoo!ニュースCISOアドバイザー大元氏が監修の情報セキュリティ講座",
+      "objectives": [
+        "情報セキュリティを学びたい方",
+        "IPA「SECURITY ACTION」自己宣言をされている団体、企業",
+        "SECURITY ACTION制度の普及促進に賛同している企業で働く従業員様",
+        "中小企業、個人事業者および中小企業と同等規模の団体で働く従業員様"
+      ],
+      "course_content": {
+        "電子メールのルール": [
+          "宛先の送信ミスを防ぐ",
+          "重要情報を送信する時は保護をする",
+          "身に覚えのない電子メールは疑ってみる"
+        ],
+        "スマートフォンの業務利用に関する注意": [
+          "スマートフォンの業務利用に関する注意"
+        ],
+        "無線LAN（Wi-Fi）の安全な利用": [
+          "無線LANの安全な利用"
+        ],
+        "インターネット利用のルール": [
+          "インターネット利用のルール"
+        ],
+        "重要データのバックアップ": [
+          "重要データのバックアップ"
+        ],
+        "事務所の安全管理": [
+          "事務所の安全管理①",
+          "事務所の安全管理②"
+        ],
+        "修了テスト": [
+          "セキュリティアクション確認テスト問題"
+        ]
+      },
+      "requirements": [
+        "パソコンが使えること",
+        "スマートフォンが使えること"
+      ],
+      "description": "情報セキュリティの基本が学べる「情報セキュリティ講座」です。\n\n\n「SECURITY ACTION 自己宣言」は、補助金や助成金申請の要件に採用されています。\nSECURITY ACTION （セキュリティアクション）とは独立行政法人情報処理推進機構（IPA）が提唱している制度です。\n本講座は、セキュリティアクション宣言を目指す会社の従業員教育に対応しています。\n事例を元にセキュリティ上のリスクへの適切なアクション（対応策）をSECURITY ACTION 自己宣言に準拠した学びが行なえます。\n\n\n監修者紹介\nCISOアドバイザー　大元　隆志\n大手SIerにて通信事業者インフラ構築からキャリアを開始し、スパムメール対策、VoIP脆弱性診断、ゼロトラストセキュリティ構築等を約25年経験し米国系セキュリティスタートアップに転職。本質的なセキュリティ対策には「人」の教育が重要と考え、社会貢献としてYahoo!ニュースや大学でセキュリティの知識が無い方にリスクを伝える伝道師を行っている。\n\n\nカリキュラム）\n1) 電子メールのルール①　宛先の送信ミスを防ぐ\n電子メールを送受信する際には気を付けるべきポイントが多くあります。具体的な業務を例に基礎的な用語の解説から重大なセキュリティインシデントを未然に防ぐ心構えまでを解説します。\n2)電子メールのルール②　重要情報を送信する時は保護する\n日々の業務では電子メールで重要情報を送受信する機会が多くあります。セキュリティの仕組みを理解し、見落としがちなポイントに注意して情報詐取の対策を心がけましょう。\n3)電子メールのルール③　身に覚えのない電子メールは疑ってみる\n詐欺メールの手口は日々巧妙になっています。従来の対策では100%被害を防ぐことはできません。何かアクションを求められた際には、まず詐欺メールの可能性を疑う習慣を身につけましょう。\n4)スマートフォンの業務利用に関する注意\nもし業務用スマートフォンを紛失してしまったらあなたならどうしますか？　気をつけていても紛失や盗難に遭うこともあります。万が一に備えた対策で情報漏えいのリスクを減らしましょう。\n5)無線LAN（Wi-Fi）の安全な利用\n誰でも使える公衆無線LANは、利便性を優先して、セキュリティが犠牲になっていることがあります。社外での作業やリモートワークで注意すべき点について理解しておきましょう。\n6)インターネット利用のルール\nSNSやAIチャットなど、インターネットはうまく使えば大変便利なツールですが、多くの危険も潜んでいます。リスクをきちんと理解して利用するようにしましょう。\n7)重要データのバックアップ\n突然のアクシデントやウイルス感染によって重要なファイルにアクセスできなくなってしまうことがあります。もしもの時のためにも、定期的なバックアップを心がけてください。\n8)事務所の安全管理①\n事務所内であっても情報漏えいのリスクは存在します。見知らぬ人は事務所に入れないように心がけて、普段から重要書類やパソコンの表示画面は、しっかりと管理しましょう。\n9)事務所の安全管理②\n業務時間外の事務所から情報が盗まれるリスクもあります。施錠管理を徹底してください。また、ゴミ箱の情報も狙われています。電子媒体や機密文書の廃棄には注意してください。",
+      "target_audience": [
+        "中小企業、個人事業者および中小企業と同等規模の団体で働く従業員様"
+      ]
+    },
+    {
+      "title": "Compliance Made Simple (Part 4/4) Enforce in Arab countries",
+      "url": "https://www.udemy.com/course/compliance-made-simple-part4-enforce-in-arab-countries/",
+      "bio": "فهم التحديات والفرص الخاصة بالامتثال في الدول العربية، بما في ذلك دور الثقافة، الدين، القوانين المحلية، وحماية البيانات",
+      "objectives": [
+        "ستتعلم كيف يتم تطبيق برامج الامتثال في الشركات العربية.",
+        "ستتعرف على العلاقة بين الثقافة والدين والأعراف الاجتماعية والامتثال.",
+        "ستفهم القوانين المحلية المتعلقة بالبيانات والخصوصية في السعودية، الإمارات ومصر.",
+        "ستتعلم كيفية مواجهة تحديات الامتثال في الشركات العائلية.",
+        "ستفهم الفرق بين خصوصية البيانات في أوروبا والمنطقة العربية.",
+        "ستعرف خطوات عملية لبناء برنامج امتثال متكامل في الوسط والثقافة العربية"
+      ],
+      "course_content": {
+        "Introduction": [
+          "Challenges of implementing compliance in Arab countries",
+          "Integrating Culture of Courtesy & Personal Relationships with Compliance",
+          "Compliance in Family Businesses: Governance & Challenges",
+          "The relationship between religion/ethics and compliance",
+          "Compliance versus Custom in Unregulated Environments",
+          "Data protection laws in Saudi Arabia, UAE & Egypt",
+          "Differences between privacy in Europe and the region",
+          "Integrating Data Programs with Compliance Programs: Practical Steps",
+          "Implementing Compliance in Different Sectors: Banking, Healthcare, Oil & Gas",
+          "Practical Roadmap for Compliance Implementation in Arab Companies"
+        ]
+      },
+      "requirements": [
+        "يفضّل أن يكون لدى المتعلم معرفة مسبقة بمجال الامتثال ، يفضل مراجعة الثلاث أجزاء الأولى"
+      ],
+      "description": "في عالم الأعمال اليوم، أصبح الامتثال (Compliance) أحد أهم العناصر التي تحدد نجاح واستمرارية الشركات. لكن في منطقتنا العربية، تطبيق الامتثال له خصوصية مختلفة تمامًا عن أوروبا أو الولايات المتحدة، لأنه بيتأثر بعوامل ثقافية ودينية وقانونية وتنظيمية محلية. ومن هنا جت أهمية هذا الجزء من سلسلة \"الامتثال ببساطة\" – الجزء الرابع: تطبيق الامتثال في السياق العربي والقوانين المحلية.\nفي هذا الكورس، هنركز على كيفية فهم وتطبيق مبادئ الامتثال داخل الدول العربية، مع توضيح التحديات والفرص اللي بتواجه الشركات في المنطقة. هنبدأ بشرح دور الثقافة والدين والأعراف الاجتماعية في تشكيل بيئة الامتثال. بعد كده، هنستعرض أهم القوانين المحلية الخاصة بالبيانات والخصوصية في دول مثل السعودية، الإمارات، ومصر، والعوامل المشتركة والمختلفة بينهم ، ونوضح أوجه الاختلاف بينها وبين التشريعات الأوروبية زي الـ GDPR.\nكمان، هنتكلم عن التحديات الفريدة اللي بتقابل الشركات العائلية والصغيرة والمتوسطة في المنطقة، وإزاي ممكن توازن بين المرونة المطلوبة والالتزام بالمعايير القانونية والأخلاقية. وبعدين، هنقدم خطوات عملية لدمج برامج حماية البيانات مع برامج الامتثال الأكبر داخل الشركة، بحيث تكون السياسات والإجراءات متكاملة ومترابطة.\nالكورس مصمم بأسلوب مبسط وعملي، بحيث يقدر أي شخص – سواء كان متخصص أو لسه مبتدئ – يفهم المواضيع دي ويطبقها في عمله. وبنهاية الكورس، هتكون قادر تفهم السياق العربي للامتثال بعمق، وتعرف إزاي تبني وتطبق برامج امتثال قوية تناسب بيئة عملك.",
+      "target_audience": [
+        "العاملون في الشركات العائلية أو الصغيرة والمتوسطة في المنطقة العربية.",
+        "مدراء الامتثال والمخاطر في الشرق الأوسط وشمال أفريقيا.",
+        "طلاب وخريجو كليات القانون، الإدارة، أو التجارة.",
+        "أي شخص مهتم بفهم خصوصية الامتثال في السياق العربي."
+      ]
+    },
+    {
+      "title": "【知らなかったでは済まされない】コンプライアンスマスターコース～コンプラの違反行動・違反した場合の不利益を知る～",
+      "url": "https://www.udemy.com/course/change_compliance/",
+      "bio": "コンプラを違反すれば、大きな損害を被ります。SNSのコンプラ違反が目立つようになりましたが、SNSの他にもコンプライアンス違反となるシーンは多々あります。「知らなった」では済まされません。コンプラを意識する行動をできるようになりましょう！",
+      "objectives": [
+        "コンプライアンスとは",
+        "コンプラ違反による影響/会社経営への影響",
+        "コンプラ違反の影響/関係者への直接的影響",
+        "コンプラ違反への影響/社内組織への間接的影響",
+        "リスクの種類",
+        "注意すべきコンプラ違反事例"
+      ],
+      "course_content": {
+        "コンプライアンスマスターコース": [
+          "OPENING、守るべきルールと種類",
+          "気を付けるべきリスクの種類",
+          "コンプライアンス違反事例",
+          "まとめ",
+          "求められる受講後のアクション",
+          "ボーナスレクチャー"
+        ]
+      },
+      "requirements": [
+        "特にございません"
+      ],
+      "description": "あなたもビジネスパーソンである以上、コンプライアンスに従うことが求められます。\n\n\nそもそも、コンプライアンスの言葉の意味はご存じでしょうか。\n\n\n「法令順守」ですね。\n\n\n言葉を額面通り受け取ると、法令を守る＝コンプライアンスに従う　ということですが、\nビジネスにおいては、それだけは足りません。\n\n\n社内規定（就業規則など）や社会道徳（企業倫理や社会規範など）を守ることも含めて、\nコンプライアンスに従うということです。\n\n\nコンプライアンスを違反してしまうと、各所に多大な影響を及ぼしてしまいます。\n会社経営、関係者、社内組織、なによりあなた自身、、、\n\n\n信頼の失墜に留まらず、中には訴訟につながってしまうケースも。\n損害賠償を求められたら、どうしようもないですよね。\n\n\nしかし、今やコンプライアンス違反に厳しい時代です。\nSNSの登場やITの浸透により、不正を犯しやすく、見つかりやすい環境にあります。\n少しの油断が大きな損失につながってしまうのです！\n\n\nコンプライアンス遵守はビジネスパーソンに求められる必須のリテラシーです。\nコンプライアンスを学んだことがない方は、必ず学習してください！\n\n\n【コースの流れ】\nレクチャー 1：OPENING、守るべきルールと種類\nレクチャー 2：気を付けるべきリスクの種類\nレクチャー 3：コンプライアンス違反事例\nレクチャー 4：まとめ\nレクチャー 5：求められる受講後のアクション\n\n\n【KaWaL eLearningについて】\nKaWaL eLearningは、リピート率96%、300社を超える研修事業実績より培ったノウハウをふんだんに詰め込んだ、若手社員向けのeLearningです。運営元の株式会社チェンジは2003年にアクセンチュア出身メンバーによって設立。2018年には東証一部上場。2022年にプライム市場に移行。大手企業中心に、15年以上研修を提供しており、100万人を超える育成実績がございます。\nそんなKaWaL eLearningから、課題解決にお困りのあなた向けに、スグに役に立つコースを公開しました。\nぜひご覧いただきお仕事にお役立てください。",
+      "target_audience": [
+        "内定者の方",
+        "新入社員の方",
+        "若手社員の方",
+        "部下を教育したい、上司・先輩にあたる方",
+        "コンプライアンスを学び直したい方"
+      ]
+    },
+    {
+      "title": "How to draft an agreement",
+      "url": "https://www.udemy.com/course/how-to-draft-an-agreement/",
+      "bio": "how to master drafting and reviewing agreement",
+      "objectives": [
+        "How to draft agreements",
+        "How to review agreements",
+        "What red flags to look for when reviewing an agreement",
+        "When it becomes necessary to seek professional help"
+      ],
+      "course_content": {
+        "Introduction": [
+          "Introduction"
+        ],
+        "lessons": [
+          "The key elements that condition the validity of an agreement.",
+          "The preamble",
+          "The body of the agreement",
+          "Standard clauses"
+        ],
+        "Conclusion": [
+          "Closing words",
+          "Reviewing a standard residential lease agreement"
+        ]
+      },
+      "requirements": [
+        "No prerequisites are necessary"
+      ],
+      "description": "Hello and welcome everyone to my new class, where I will teach you how to draft an agreement.\nMy name is Simon and I’m an attorney at law with 16 years’ experience.\nI specialized in Civil and Business law in general and more specifically in corporate law and contracts law.\nI have worked in a lot of fields with many companies both locally and internationally. And on countless projects from the public and private transport sector, to agriculture, to food and beverage, restaurants and hospitality, to the banking and financial sector, electronics and technology, and even in the health and cosmetics field.\nI have come across all kinds of agreements, from the simplest ones, to the longest, most complex and most tedious ones. And I have always thought that everyone needs to learn a bit about agreements from a practical point of view. I am not talking about the theory behind contracts law, but the applied hands-on approach.\nThis class is aimed at anyone who in their everyday work need to draft, review and sign small to medium agreements.\nThis class will benefit also anyone who occasionally needs to enter into agreements. And who among us has not been in such a situation. Whether to rent an apartment, to lease a car or for any kind of services.\nLet me start by saying that this class does not pretend to be capable of replacing the advice or the intervention of a professional such as a lawyer or an attorney. You will always need to seek professional help in certain circumstances, especially in overly complicated agreements.\nThis class rather, will give you some pointers on how to draft an agreement if you cannot or do not want to seek direct professional help. It will also help you to be prepared to review an agreement that was submitted to you, by explaining what are the main issues, the main points to look for in an agreement. What to focus on and what mistakes to avoid.\nThis class is not a theoretical one; this is not a law school contracts law course. Our main focus is to learn how to practically draft an acceptable agreement. However, some theory relating to the key elements that condition the validity of an agreement are to a certain measure necessary in order to understand the constitution of the agreement.\nOur classes will be divided as follows:\nIn our first lesson we will learn briefly about the key elements that condition the validity of an agreement.\nOur second lesson will be about the preamble of the agreement. In other words the introduction of the agreement, covering the parties thereto and the recitals.\nThe third lesson will revolve around the main text of the agreement starting with the way the latter needs to be formulated and getting to the essential points that need to figure in every agreement.\nIn the fourth lesson, I will go through some of the standard clauses that we most frequently come across in contracts and agreements. I will explain each of these standard articles and give an example of each of them.\n\n\nThe assignment for this class is a standard residential lease agreement from which I have deleted some key clauses or points and that you will have to review and point out what key elements are missing and that need to figure in such an agreement.",
+      "target_audience": [
+        "Freelancers",
+        "Small-business owners",
+        "Small companies",
+        "Employees",
+        "Employers",
+        "Law students",
+        "Anyone who cannot afford or does not want to seek a lawyer's advice"
+      ]
+    },
+    {
+      "title": "POSH Act 2013 (Sexual Harassment of Women at Workplace)",
+      "url": "https://www.udemy.com/course/posh-act-2013/",
+      "bio": "This course helps to understand about sexual harassment of women at their workplaces with practical examples",
+      "objectives": [
+        "Sexual harassment",
+        "hostile work environment",
+        "retaliation",
+        "unwelcome behaviour"
+      ],
+      "course_content": {
+        "Introduction": [
+          "Introduction",
+          "Background",
+          "Definitions"
+        ],
+        "Sexual Harassment": [
+          "Sexual Harassment",
+          "Quid Pro Quo"
+        ],
+        "ICC and LCC": [
+          "ICC-Internal complaint committee",
+          "LCC-Local Complaints Commitee"
+        ],
+        "Complainant": [
+          "section 9-Complaint"
+        ],
+        "Conciliation": [
+          "section 10",
+          "Section 11-14",
+          "Section 15-16",
+          "Section 17 & 18"
+        ],
+        "Miscellaneous": [
+          "Section 19",
+          "Section 23-26",
+          "section 27-30"
+        ],
+        "Summary": [
+          "Summary"
+        ],
+        "FAQ": [
+          "FAQ"
+        ],
+        "MCQ": [
+          "MCQ"
+        ],
+        "Practical Questions": [
+          "Practical Questions-1",
+          "Practical Questions-2",
+          "Practical Questions-3",
+          "Practical Questions-4"
+        ]
+      },
+      "requirements": [
+        "Basic interest in learning a new course"
+      ],
+      "description": "The main aim of India's POSH Act 2013 (Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 is to prevent and address sexual harassment of women at their workplaces by providing a robust legal framework for the protection of women's dignity, safety, and equality in the workplace.\nThe Act establishes mechanisms for complaint redressal, holds employers responsible for creating a safe work environment, and prohibits any conduct that constitutes sexual harassment.\nThe Act broadly defines sexual harassment to include physical, verbal, and non-verbal behaviours and covers a woman's right to a workplace free from intimidation and discrimination.\nPOSH ACT mandates every organization to create a safe environment, establish a complaints committee, and implement a clear process for addressing sexual harassment complaints\nThe POSH act 2013 also aims to stop sexual harassment from occurring in the first place by creating awareness and sensitizing employers and employees on what constitutes sexual harassment and how to prevent it.\nContents of the course\n1.Introduction\n2.background\n3.definitions\n4.Sexual Harassment\n5.Quid pro Quo\n6.ICC\n7.LCC\n8.Complaint\n9.Conciliation\n10.Miscellaneous\n11.Summary\n12.FAQ\n13.MCQ\n14.Practical Questions\n15. case studies\n\n\nPlease read the contents of the course before purchasing. Study the complete course for better understanding",
+      "target_audience": [
+        "Students and professionals"
+      ]
+    },
+    {
+      "title": "Diploma in Labour Laws & Statutory Compliances in India",
+      "url": "https://www.udemy.com/course/diploma-in-labour-laws-statutory-compliances-in-india/",
+      "bio": "Labour laws & Statutory Compliances in India",
+      "objectives": [
+        "To recognise the improvement and the judicial setup of Labour laws",
+        "To learn the salient features of welfare and salary legislation",
+        "To study the legal guidelines referring to business members of the family, Social security and running conditions",
+        "To understand the legal guidelines associated with operating conditions in unique settings"
+      ],
+      "course_content": {
+        "Industrial Disputes Act, 1947": [
+          "Diploma In Labour Law Course Preview",
+          "Industrial Disputes Act, 1947"
+        ],
+        "Authorities Under Industrial Dispute Acts": [
+          "Authorities Under Industrial Dispute Acts"
+        ],
+        "Payment of Wages Act, 1936": [
+          "Payment of Wages Act, 1936"
+        ],
+        "Maternity Benefit Act, 1961": [
+          "Maternity Benefit Act, 1961"
+        ],
+        "Evolution and Growth of Trade Unions in India": [
+          "Evolution and Growth of Trade Unions in India"
+        ],
+        "Trade Union – Definition, Registration and Recognition": [
+          "Trade Union – Definition, Registration and Recognition"
+        ],
+        "Constitution and Recognition of Trade Unions": [
+          "Constitution and Recognition of Trade Unions"
+        ],
+        "Strike & Lock out": [
+          "Strike & Lock out"
+        ],
+        "International Labour Organisation – its influence in bringing changes in nationa": [
+          "International Labour Organisation – its influence in bringing changes in nationa"
+        ],
+        "Employees’ State Insurance Act, 1948": [
+          "Employees’ State Insurance Act, 1948"
+        ]
+      },
+      "requirements": [
+        "Access to Smart Phone / Computer",
+        "Good Internet Speed (Wifi/3G/4G)",
+        "Dedication & Confidence to clear any exam",
+        "Basic Understanding of English"
+      ],
+      "description": "Understanding labour laws is essential for building a strong human resource practice. In the Indian context, labour welfare and protection play a vital role in shaping harmonious industrial relations. This course aims to provide students with a foundational and practical understanding of labour legislation, dispute resolution mechanisms, and the judicial framework that governs employment and industrial matters.\nThe course is structured into modules that encompass conceptual, analytical, descriptive, legal, and practical dimensions. Students will gain insights into the development of labour laws, their judicial enforcement, and the key legislative measures that govern employment conditions, wages, welfare, and industrial relations in India. The course also aims to integrate labour law understanding into broader Human Resource Development (HRD) practices.\nBy studying landmark legislations such as the Industrial Disputes Act, the Payment of Wages Act, and the Maternity Benefit Act, students will understand the rights, responsibilities, and protections afforded to workers. Additionally, the course covers the structure and functioning of trade unions, the legal framework surrounding strikes and lockouts, and the role of the International Labour Organisation (ILO) in influencing national labour policy.\nCourse Modules\nModule 1: Industrial Disputes Act, 1947\nIntroduction, Scope, and Objectives\nKey Features\nConcept and Definition of “Workmen”\nModule 2: Authorities under the Industrial Disputes Act\nRole of Work Board Trustees\nConciliation Officers and Boards of Conciliation\nCourts of Enquiry\nFunctions of Labour Courts\nModule 3: Payment of Wages Act, 1936\nObjectives and Features\nEmployer Responsibilities\nSafeguarding Timely and Fair Wage Payments\nModule 4: Maternity Benefit Act, 1961\nOverview and Eligibility\nKey Amendments and Highlights\nMaternity Benefit (Mines and Circus) Amendment Rules, 2019\nModule 5: Evolution and Growth of Trade Unions in India\nHistorical Context\nDevelopment of Trade Unionism\nTrade Unionism in the 21st Century\nModule 6: Trade Unions – Definition, Registration, and Recognition\nLegal Definitions and Historical Background\nRegistration Process\nRecognition Procedures\nModule 7: Constitution and Rights of Trade Unions\nConditions for Recognition\nLegal Rights and Protections of Trade Unions in India\nModule 8: Strikes and Lockouts\nDefinitions and Key Concepts\nLegal Framework and Essentials\nRight to Strike: Legal Position in India\nTypes and Causes of Strikes and Lockouts\nModule 9: International Labour Organisation (ILO)\nRole and Benefits of ILO\nInfluence on National Legislation and Economic Performance\nModule 10: Employees’ State Insurance Act, 1948\nScope and Applicability\nConstitutional Aspects and Coverage\nThis course is essential for students aspiring to work in human resources, law, or industrial relations, equipping them with the legal acumen to handle workplace compliance and dispute resolution effectively.",
+      "target_audience": [
+        "Law Students",
+        "Law Professionals",
+        "Advocate"
+      ]
+    },
+    {
+      "title": "Introduction to the language of tax",
+      "url": "https://www.udemy.com/course/introduction-to-the-language-of-tax/",
+      "bio": "basic terminology and concepts related to the area of tax law",
+      "objectives": [
+        "Learn or review fundamental vocabulary/terminology related to tax",
+        "Learn or review most important collocations related to tax",
+        "Learn or review most important prepositions related to tax",
+        "Practice and perfect listening, reading and comprehension skills based on videos and readings that discuss relevant tax issues"
+      ],
+      "course_content": {
+        "Introduction": [
+          "Introduction: Video lecture",
+          "Reading - VAT issues for year-end reviews based on UK tax code",
+          "Reading comprehension check - key vocabulary with answer key",
+          "Video/listening comprehension exercise on current global tax issues - part I",
+          "Video/listening comprehension exercise on current global tax issues - part II"
+        ]
+      },
+      "requirements": [
+        "at least low-intermediate level in English"
+      ],
+      "description": "Do you find yourself stuck when reading a legal text on tax law due to the language used? Are you confused or feel lost when listening to native English speakers discuss a tax issue due to the complexity of the terminology?\nThis course is intended for anyone either studying or working in some capacity in the field of tax law (and particularly for non-native English speakers). It introduces students (or provides a good review for those already with some knowledge) to key vocabulary, concepts, collocations and prepositions in the area of tax law. It can also be a good introduction to the world of tax law for those with no background  in that field whatsoever.\nThe focus of the course is on key terminology, collocations, prepositions and reading/listening comprehension based on current global tax issues.  By the end of the course, you should have the basics of the language of tax law to be able to understand and communicate with others smoothly and accurately.\nYou will learn key terminology related to both personal taxation; corporate taxation; VAT or GST terminology; audit terminology, etc. You will perfect your reading comprehension skills based on a VAT related reading based on the UK Tax Code. Similarly, you will also perfect your listening / video comprehension skills based on two videos dealing with current global controversial tax issues: the first one relating to Amazon's corporate taxation issues and the second related to Apple's corporate taxation battle with the European Union.\nThis mini course is not intended to go in-depth into any of the above mentioned tax related areas and issues, but rather, provide you with the very basics to be able to speak, read and understand content related to basic tax.\nThe approach is rather practical with an introductory session of approx. 80 minutes accompanied by a pdf script of everything said in the video along with key exercises in order to put the theory into practice. All the materials mentioned in the video are attached as resources in each of the 5 Lectures.\nFeel also free to leave your comments and thoughts related to the tax issues raised in the course, particularly in the two video comprehension excercises on the course forum.",
+      "target_audience": [
+        "The course is intended for both business and legal professionals as well as university or college students seeking to expand or check their knowledge in the area of basic tax"
+      ]
+    },
+    {
+      "title": "Marketing Jurídico: Alcanza el éxito como abogado",
+      "url": "https://www.udemy.com/course/marketing-juridico/",
+      "bio": "Integra el marketing al servicio jurídico para tener más y mejores clientes",
+      "objectives": [],
+      "course_content": {
+        "¿Por qué deberías hacer este curso?": [
+          "Presentación del Curso"
+        ],
+        "Marketing de Servicios": [
+          "Marketing Mix",
+          "Orientación del Marketing Estratégico",
+          "Marketing Jurídico"
+        ],
+        "El Cliente del Abogado": [
+          "Conociendo al Cliente",
+          "Las Expectativas del Cliente"
+        ],
+        "Los Honorarios Profesionales": [
+          "¿Cuánto debo cobrar?",
+          "Formas de Fijar los Honorarios"
+        ],
+        "Ganar Más y Fidelizar Clientes": [
+          "Técnicas de Captación de Nuevos Clientes",
+          "La Caza",
+          "Programas de Fidelización de Clientes"
+        ],
+        "La Marca Personal del Abogado": [
+          "Elementos de la Marca Personal",
+          "¿Quién soy y por qué soy diferente?",
+          "Aspecto Físico y Profesional",
+          "Comunicación No Verbal",
+          "Mensajes a tu Audiencia y Redes Sociales",
+          "Networking",
+          "3 Oportunidades en el Mercado de Servicios Jurídicos",
+          "La Publicidad Permitida para los Abogados",
+          "Examen del Curso de Marketing Jurídico"
+        ]
+      },
+      "requirements": [
+        "Amar la profesión de abogado y poder comprometerse con sus valores",
+        "No sentir miedo de arriesgarse o deternerse por el qué diran mis colegas",
+        "Querer alcanzar el éxito profesional"
+      ],
+      "description": "Este curso está enfocado a aquellos abogados que buscamos un espacio en el mercado de los servicios jurídicos, y queremos llegar a posicionarnos como profesionales del Derecho referentes en nuestra especialidad.\nAl integrar los elementos del marketing a tu servicio jurídico, vas a producir un servicio de mayor calidad, lo cual te va a dar más y mejores clientes; mejor dicho los clientes que tú quieres tener.\nRecuerda que como abogado debes vender bien tus servicios jurídicos; por lo tanto la idea de que el marketing no es para abogados,o es para malos abogados, es cosa del pasado. Todo lo contrario debes ser un buen abogado conocedor de la técnica jurídica para que el marketing jurídico te resulte.\nAnímate a realizar este curso!",
+      "target_audience": [
+        "Este curso está dirigido a abogados y abogadas sean en libre ejercicio profesional o bajo relación de dependencia pública o privada y que sueñen con algún día ser referentes en su área del Derecho y ser éxitosos."
+      ]
+    },
+    {
+      "title": "Curso Gratis de Registro de Marcas e Patentes para Advogados",
+      "url": "https://www.udemy.com/course/curso-gratis-de-registro-de-marcas-e-patentes-para-advogados/",
+      "bio": "Como Registrar marcas e patentes para advogados",
+      "objectives": [],
+      "course_content": {
+        "Introdução": [
+          "Apresentação",
+          "Lei 9279/96",
+          "PePI, portal de consulta e cadastro de Usuários",
+          "Códigos de Serviço",
+          "Links de Trabalho"
+        ]
+      },
+      "requirements": [
+        "Ter interesse pela leitura básica",
+        "compromentimento com prazos diante dos clientes",
+        "ter um computador com acesso a internet"
+      ],
+      "description": "Aprenda de forma prática a registrar, acompanhar, contestar, manifestar e defender marcas no INPI, além de aprender a registrar marcas com empresas reais, você aprende também macetes de comercialização, tendências e estratégias para potencializar seus resultados de vendas e de registro! Empreenda em um mercado pouco conhecido que pode ser exercido sem a necessidade de curso superior, sendo desejável apenas a vontade e o interesse por pesquisas e interpretação textual e figurativa, esse mercado é um jogo de estratégias onde você utiliza a informação como moeda de troca! Entenda porque a Coca Cola, Brahma, Nestle, All Star, Carrefour, Skol entre varias grandes marcas, tem tanto poder sobre o nome e por que esse poder é menor para marcas pouco conhecidas! Entenda por que tem a letra R ou TM ao lado das logomarcas, entenda por que o Iphone teve que comprar os direitos de uso do nome Iphone para a empresa Gradiente, entenda por que a marca é algo que tem representatividade de valor no mercado financeiro! Se você é estudante de Direito, Contador, Advogado, Consultor de Negócios ou até mesmo empreendedor que gosta do tema, aproveite agora mesmo a oportunidade! Instrutor com experiência em Patente de Invenção e registro e defesa de marcas junto ao INPI!",
+      "target_audience": [
+        "Advogados",
+        "Juristas",
+        "Candidatos a Concursos"
+      ]
+    },
+    {
+      "title": "Marcas Empresariais",
+      "url": "https://www.udemy.com/course/aasp-marcas-empresariais/",
+      "bio": "Direito Empresarial - Propriedade Industrial",
+      "objectives": [],
+      "course_content": {
+        "Introdução": [
+          "Introdução",
+          "Lei de Propriedade Industrial e Convenção União de Paris",
+          "Introdução – Lei de Propriedade Industrial e Convenção da União de Paris"
+        ],
+        "Conceito e espécies de marcas": [
+          "Conceito de marca",
+          "Conceito de marca",
+          "Espécies de marcas e Trade Dress (conjunto imagem)",
+          "Espécies de marcas"
+        ],
+        "Registro de marcas": [
+          "Procedimento de Registro de Marcas",
+          "Procedimento de Registro de Marcas",
+          "Proteção conferida às marcas",
+          "Proteção conferida às marcas",
+          "Período de Vigência das Marcas",
+          "Período de Vigência das Marcas"
+        ],
+        "Extinção da Marca e Marcas Degenerativas e Nulidade da Marca": [
+          "Extinção da Marca e Marcas Degenerativas",
+          "Extinção da Marca",
+          "Nulidade da Marca",
+          "Nulidade da Marca"
+        ],
+        "Diferenciações importantes e análise dos conflitos": [
+          "Diferenciações importantes (nome empresarial e nome de domínio) e conflitos",
+          "Algumas diferenciações importantes (nome empresarial e nome de domínio)"
+        ],
+        "Referências externas": [
+          "Links úteis"
+        ]
+      },
+      "requirements": [
+        "Noções básicas de Direito, Marcas, Negócios e Marketing.",
+        "Adquira as noções e premissas básicas sobre as marcas empresariais e seus aspectos jurídicos, sem precisar ser graduado em Direito."
+      ],
+      "description": "Esse curso foi realizado pela Professora Tatiana Aparecida Clementino de Brito Ohta, advogada, pós-graduanda em Direito Digital e Compliance pela Faculdade Damásio, pós-graduada em Direito Civil e Direito Empresarial pela Faculdade de Direito Damásio de Jesus, pós-graduada em Direito Empresarial pelo Centro Universitário Salesiano de São Paulo, Professora Orientadora nos cursos de pós-graduação Latu Senso da Faculdade Damásio e Professora Tutora no curso preparatório para a 2ª fase do Exame de Ordem em Direito Empresarial do Complexo Educacional Damásio de Jesus.\n\nObjetivos:\n\nApresentar as premissas básicas do direito marcário;\nAnalisar as diferentes espécies de marcas;\nAvaliar os requisitos que a marca deve observar;\nDemonstrar a importância do registro da marca e da proteção dele advinda;\nPropiciar conteúdos que permitam a compreensão sobre o procedimento de registro, a vigência e a nulidade das marcas;\nVerificar entendimentos jurisprudenciais sobre o tema.",
+      "target_audience": [
+        "Estudantes de Direito, Advogados, Empresários, Empreendedores e Profissionais interessados no tema."
+      ]
+    },
+    {
+      "title": "Introdução à LGPD - Lei Geral de Proteção de Dados",
+      "url": "https://www.udemy.com/course/treinamento-lgpd/",
+      "bio": "O melhor curso: simples, detalhado e objetivo sobre os principais conceitos relacionados a LGPD!",
+      "objectives": [],
+      "course_content": {
+        "Introdução": [
+          "Introdução ao curso",
+          "Mas afinal, o que é essa lei?",
+          "Áreas impactadas pela LGPD",
+          "Quiz"
+        ],
+        "Conhecendo os Tipos de Dados": [
+          "Introdução",
+          "Dados Pessoais",
+          "Dados Pessoais Sensíveis",
+          "Dados Anonimizados",
+          "Dados Pseudonimizados",
+          "Quiz"
+        ],
+        "Lei Geral de Proteção de Dados": [
+          "Apresentação da LGPD",
+          "Introdução aos 10 Princípios da LGPD",
+          "Princípio da Finalidade",
+          "Princípio da Adequação",
+          "Princípio da Necessidade",
+          "Princípio do Livre Acesso",
+          "Princípio da Qualidade dos Dados",
+          "Princípio da Transparência",
+          "Princípio da Segurança",
+          "Princípio da Prevenção",
+          "Princípio da Não Discriminação",
+          "Princípio da Responsabilização e Prestação de Contas"
+        ],
+        "Bases Legais para o Tratamento de Dados": [
+          "Introdução às 10 Bases Legais de Tratamento de Dados",
+          "Consentimento pelo Titular",
+          "Cumprimento de Obrigação Legal",
+          "Execução de Políticas Públicas",
+          "Estudos por Órgão de Pesquisa",
+          "Execução de Contratos / Diligências Pré-Contratuais",
+          "Exercício Regular de Direito",
+          "Proteção da Vida",
+          "Tutela da Saúde",
+          "Interesses Legítimos do Controlador / Terceiro",
+          "Proteção ao Crédito",
+          "Overview sobre as Bases legais"
+        ],
+        "Agentes de Tratamento de Dados": [
+          "Introdução",
+          "O que são Agentes de Tratamento, DPO e ANPD?",
+          "Quiz"
+        ],
+        "Encarregado ou DPO": [
+          "Introdução",
+          "Atribuições do Encarregado ou DPO (Data Protection Officer)",
+          "Quiz"
+        ],
+        "Direitos do Titular": [
+          "Introdução",
+          "Como titular dos dados, quais são os meus direitos?"
+        ],
+        "Incidentes com Dados Pessoais": [
+          "Introdução",
+          "O que acontece se houver um incidente na minha empresa?"
+        ],
+        "Colaboradores x LGPD": [
+          "Introdução",
+          "Qual o papel dos Colaboradores de uma empresa na LGPD?"
+        ],
+        "Encerramento Treinamento": [
+          "Encerramento e conclusão do Treinamento",
+          "Quiz"
+        ]
+      },
+      "requirements": [
+        "Não há requisitos ou pré-requisitos para fazer este curso."
+      ],
+      "description": "O curso foi idealizado e criado por um time multidisciplinar, composto pelos seguintes profissionais:\nDiego Larrahona: diretor da empresa Sensitera Gestão de Talentos;\nMauricio Zambretti: diretor da empresa Zulti – Hub de TI;\nVanise Costa: diretora do escritório Costa Copoli Advocacia e Assessoria Jurídica.\n\n\nA conexão dos profissionais atuantes nas áreas de Recursos Humanos, Tecnologia da informação e Jurídica, faz com que o conteúdo do treinamento seja completo e ao mesmo tempo descomplicado, facilitando assim o aprendizado do aluno.\nO presente treinamento abordará a Lei Geral de Proteção de Dados, que tem ganhado destaque no cenário atual, e por tal razão, as empresas têm buscado se preparar para as novas regras de proteção de dados, que devem impactar os negócios em todos os setores.\nCada vez mais têm-se buscado conhecimento e mudança de cultura, e os primeiros passos sempre são mais complicados, por isso nosso treinamento tem o objetivo de trazer conhecimento e clareza diante da atual necessidade de se adequar.\nO foco será apresentar, com uma abordagem dinâmica e simples os conceitos que todo profissional, independente da área de atuação, precisa conhecer sobre o tema.\nO aluno conta com informações sólidas sobre o assunto, o que lhe permite ampla visão como operador e controlador de dados e, em sintonia com as demandas atuais, com base nos princípios de ética, segurança, visão sistêmica e pensamento crítico. O aluno passa a estar preparado para entender um pouco mais sobre sua atuação no cenário de segurança de dados.",
+      "target_audience": [
+        "Todas as pessoas que coletam, tratam e armazenam dados pessoais para si mesmo ou em nome de alguma instituição / empresa."
+      ]
+    },
+    {
+      "title": "入管業務実務者のための基礎知識",
+      "url": "https://www.udemy.com/course/nyukanjitumu-refugeesoudan1/",
+      "bio": "難民認定申請中の外国人から在留資格変更の相談への対処法【ステップ行政書士法人実務講座】",
+      "objectives": [],
+      "course_content": {
+        "イントロダクション": [
+          "イントロダクション"
+        ],
+        "難民認定制度の理解と現場の実際": [
+          "難民認定制度の取り扱いの実務",
+          "難民認定制度の知識",
+          "実際の相談の現場から",
+          "新しい難民認定制度の運用の見直し"
+        ]
+      },
+      "requirements": [
+        "外国人の方が日本に在留するには在留資格が必要であるということをご理解ください",
+        "入国管理局が在留資格を取り扱うセクションであるということをが理解ください"
+      ],
+      "description": "私は日本で暮らす外国人の方のために入国管理局への在留資格（ビザ）の申請や相談に多数応じています。\nその中での最近特に多いのが、「いわゆる『難民ビザ（refugee）』といういわれてる」方からの相談が多数寄せられています。また、同じような業務を取り扱っている同業者からも、同様のお話を聞くことも多いのですが、その中で特に感じることは、制度や現行の取り扱いに関して、誤解や誤った情報を信じてしまって結果的に不利益な状態になっていたりトラブルになっているようなケースも多くみられるということです。\nまた、この分野に経験の浅い同業者の方も適切な対応方法が分からずにいる場合もあるようです。\nそこで、この講座では、日本の入管政策の中でも社会的に関心の高くなっている難民認定の取り扱いについて、入管業務の実務者の立場から、実際に多くの相談を受け実務に関与している中で実際に感じたことを踏まえながら、わかりやすく解説をしてゆきます。\nこの講座を受講することで、実際の難民認定の制度について一般に言われていることの誤解と実際の運用との違い、そして新しく見直されてきた今後の運用について知ることができます。\n実務を踏まえた正確な知識を習得することで、今後の正しい対処法を知るきっかけとなります。\n入管業務を取り扱う行政書士の方は、この分野で更に深い知識を得ることができるので今後の業務に役立てることができます。難民認定申請中の方を採用しようとしている事業者の方は正確な知識を得ることでリスクの回避ができます。友人知人に難民認定申請中の方がいる場合は正しい知識が得られることにより、よりプラスな対応が可能になります。",
+      "target_audience": [
+        "難民認定申請で相談を受けているが扱ったことのない行政書士",
+        "友人知人で難民認定申請中の方がいるひと",
+        "採用したいと思った人が難民認定申請中だったという事業者",
+        "その他日本の難民認定制度に興味のある方"
+      ]
+    },
+    {
+      "title": "Introdução a Lei Geral de Proteção de Dados (LGPD)",
+      "url": "https://www.udemy.com/course/introducao-a-lei-geral-de-protecao-de-dados-lgpd/",
+      "bio": "Aprenda tudo que você precisa sobre a Lei Geral de Proteção de Dados (LGPD)",
+      "objectives": [],
+      "course_content": {
+        "Tudo que você precisa saber sobre a LGPD": [
+          "Apresentação do Curso",
+          "Definições, Conceitos e Objetivos",
+          "Bases Legais Para Tratamento de Dados Pessoais",
+          "Direitos dos Titulares dos Dados",
+          "Impacto da LGPD nas Empresas e DPO",
+          "Sanções Administrativas",
+          "Teste seu Conhecimento"
+        ]
+      },
+      "requirements": [
+        "Não é necessário nenhum pré-requisito"
+      ],
+      "description": "A Lei Geral de Proteção de Dados Pessoais (LGPD), também conhecida como Lei N° 13.709/18, é um tema relevante e cada vez mais discutido na atualidade. Ela tem como objetivo garantir a privacidade dos dados pessoais de cidadãos brasileiros, estabelecendo direitos e obrigações para pessoas físicas e jurídicas que realizam o tratamento desses dados.\nCom o intuito de facilitar o entendimento da LGPD, foi desenvolvido um curso especialmente direcionado para todas as pessoas que desejam aprender sobre o tema de forma simples e objetiva, sem a necessidade de conhecimentos jurídicos prévios. O curso é ministrado por profissionais experientes e especializados em proteção de dados, que oferecem aulas específicas sobre os principais tópicos da lei.\nAo se inscrever no curso, os participantes terão a oportunidade de aprender sobre conceitos fundamentais da LGPD, como o que são dados pessoais, o que é o tratamento de dados, quais são as bases legais para o tratamento de dados, entre outros. Além disso, também serão abordados temas como as obrigações e direitos dos titulares dos dados, as responsabilidades dos controladores e operadores de dados, as sanções previstas em caso de descumprimento da lei, entre outros assuntos.\nInvestir no aprendizado sobre a LGPD é uma decisão inteligente e estratégica para profissionais que desejam se destacar em suas áreas de atuação, bem como para qualquer pessoa que queira estar atualizada sobre um tema tão importante na sociedade atual. Por isso, não perca mais tempo e inscreva-se agora mesmo no curso Introdução a Lei Geral de Proteção de Dados Pessoais!",
+      "target_audience": [
+        "Pessoas com interesse em LGPD"
+      ]
+    },
+    {
+      "title": "أساسيات قانون الغذاء الدولي",
+      "url": "https://www.udemy.com/course/fundamentals-of-international-food-law/",
+      "bio": "قانون الغذاء: من منظور عالمي (تجارة الغذاء، التنظيمات الغذائية، السلامة الغذائية) - حالات وأمثلة حقيقية",
+      "objectives": [],
+      "course_content": {
+        "Welcome and Introduction": [
+          "Introduction and Course agenda",
+          "An overview of the history of International Food Law",
+          "Food Law",
+          "Importance of Food Law",
+          "Important considerations"
+        ],
+        "International Agencies and Agreements": [
+          "International Agencies",
+          "Main International Trade Agreements _SPS",
+          "Main International Trade Agreements_TBT",
+          "WTO Notification_ A practical Example",
+          "International Health Regulation & INFOSAN"
+        ],
+        "Food Trade": [
+          "Food Trade",
+          "International trade",
+          "Marrakesh Agreement",
+          "World Trade Organization",
+          "Dispute Settlement",
+          "Three Cases of Dispute Settlement"
+        ],
+        "Trade policy-makers , Food Law and Food Safety": [
+          "Trade policy-makers and Food Safety",
+          "Food Safety Private Standards and Trade",
+          "Implementation of Food Law_ Arab examples",
+          "USA vs EU",
+          "Is it a Challenge for developing countries"
+        ],
+        "Conclusion": [
+          "Conclusion"
+        ]
+      },
+      "requirements": [
+        "لا يوجد"
+      ],
+      "description": "إنطلق فى دورة هتقدملك فكرة عن أساسيات قانون الغذاء الدولي، وده هيكون أساس قوي إنك تفهم حاجات مهمة كتير بتحصل حواليك في سلامة الأغذية والتشريعات الغذائية. الدورة مصممة خصيصًا للناس اللي عايزة تكون عندها قاعدة قوية في مجال الغذاء، والمنهج هيساعدك تتعامل بسهولة مع التحديات اللي ممكن تواجهك في قانون الغذاء عن طريق استخدام أمثلة ودراسات حالات حقيقية.\n\n\nهنبتدي بفهم أساسي للغذاء وتعريفه، وبعدين الدورة هتتقدم وتتناول تفاصيل الهيئات والاتفاقيات الدولية. وبتسليط الضوء على هيئات مهمة زي منظمة التجارة العالمية (WTO) و دستور الغذاء Codex وتبين تعقيد آليات حل النزاعات، علشان تقدم للمشاركين فهم دقيق للأطُر والأنظمة التنظيمية اللي بتحكم تجارة الغذاء عالميا.\nوجزء مهم من الدورة هو التركيز على موضوع سلامة الغذاء، والتعرف إنها حجر الزاوية في ميدان قانون الغذاء الدولي. بفهم للائح وتأثير مبادرة السلامة الغذائية العالمية (GFSI) على التجارة، المشاركين هيحصلوا على رؤى قيمة حول دور معايير السلامة في تشكيل حركة تجارة الغذاء العالمية.\nالرحلة التعليمية دي هتبقى استكشاف شامل للطبقات المختلفة في ميدان قانون الغذاء الدولي، وهتجهز المشاركين بالمعرفة والمهارات التحليلية اللي لازمة علشان يتعاملوا مع المواقف المعقد.\nمهما كانت مجالك، سواء كنت محترف قانوني، أو خبير تشريعات غذائية ، أو مدير سلامة أغذية، أو حتى مهتم بالسياسات، الدورة دي هتديك فرصة رائعة تزيد فهمك لقانون الغذاء الدولي.\nفالدورة دي مفيدة جدًا للمحترفين اللي عايزين يطوروا خبراتهم أو حتى اللي بيحبوا يكتسبوا فهم أعمق للأطُر التنظيمية اللي بتحكم صناعة الغذاء. من خلال نهج سهل وأمثلة عملية، المشاركين هيكونوا عارفين بتعقيدات قانون الغذاء الدولي، ومستعدين يتخذوا قرارات مستنيرة في مجالاتهم...",
+      "target_audience": [
+        "مديرو الامتثال والتنظيم",
+        "صناع السياسات والمسؤولون الحكوميون",
+        "طلاب القانون والمحترفون القانونيون",
+        "طلاب مهتمون بأنظمة الغذاء",
+        "مدرين سلامة الاغذية و الصناعة الغذائية",
+        "Policy Makers and Government Officials"
+      ]
+    },
+    {
+      "title": "Hukum Bisnis bagi Pemula",
+      "url": "https://www.udemy.com/course/hukum-bisnis-bagi-pemula/",
+      "bio": "Penting mengenali hukum dalam berbisnis",
+      "objectives": [],
+      "course_content": {
+        "Kenali Berbagai Perizinan Bisnis sebelum Anda Berbisnis": [
+          "Mengapa Penting Mengenali Hukum dalam Berbisnis?",
+          "Hal Utama yang Harus Diperhatikan Dalam Hubungan Kerjasama Bisnis",
+          "Bentuk Kepemilikan Usaha yang dapat Anda Pilih",
+          "Mengenal Pajak",
+          "Daftarkan Merek Anda",
+          "Kenali Berbagai Perizinan Bisnis sebelum Anda Berbisnis"
+        ],
+        "Aspek Hukum yang Perlu Diperhatikan ketika Bisnis sudah Berjalan": [
+          "Prinsip pada Kontrak Bisnis",
+          "Komponen yang Perlu Diperhatikan ketika Menyusun Kontrak Bisnis",
+          "Perlindungan Konsumen",
+          "Apa yang Dilakukan Apabila terjadi Perselisihan?",
+          "Monopoli",
+          "Aspek Hukum yang Perlu Diperhatikan ketika Bisnis sudah Berjalan"
+        ]
+      },
+      "requirements": [
+        "Tidak dibutuhkan syarat khusus"
+      ],
+      "description": "Course ini menjelaskan tentang mengapa penting mengenali hukum dalam berbisnis, hal utama yang harus diperhatikan dalam hubungan kerjasama bisnis, bentuk kepemilikan usaha yang dapat dipilih, mengenali pajak, mendaftarkan merek, prinsip pada kontrak bisnis, komponen yang perlu diperhatikan ketika menyusun kontrak bisnis, perlindungan konsumen, apa yang harus dilakukan apabila terjadi perselisihan, dan monopoli.\n\n\nEstimasi waktu pelajar dapat menyelesaikan semua course ini yaitu 3 jam. Perinciannya yaitu pelajar dapat memahami semua video selama 1 jam. Masing-masing course memiliki durasi belajar dalam video yaitu: mengapa penting mengenali hukum dalam berbisnis (3 menit 58 detik), hal utama yang harus diperhatikan dalam hubungan kerjasama bisnis (5 menit 48 detik), bentuk kepemilikan usaha yang dapat anda pilih (6 menit 30 detik), mengenal pajak (13 menit 17 detik), daftarkan merek anda (5 menit 50 detik), prinsip pada kontrak bisnis (3 menit 38 detik), komponen yang perlu diperhatikan ketika menyusun kontrak bisnis (8 menit 41 detik), perlindungan konsumen (4 menit 22 detik), apa yang dilakukan apabila terjadi perselisihan (7 menit), monopoli (5 menit 45 detik). Sedangkan untuk pelajar menyelesaikan masing-masing quiz hingga akhir course diestimasikan selama 2 jam.\n\n\nSetelah menyelesaikan course ini, pelajar dapat memahami prinsip-prinsip hukum dalam bisnis ketika bisnisnya belum dijalankan dan setelah bisnisnya berjalan. Melalui lecture note, pelajar mendapatkan pengetahuan tambahan dari materi yang telah disampaikan melalu video.",
+      "target_audience": [
+        "Student yang ingin mepelajari mengenai hukum bisnis bagi pemula"
+      ]
+    }
+  ]
+}

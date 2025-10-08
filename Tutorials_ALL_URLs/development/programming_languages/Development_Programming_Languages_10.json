@@ -1,0 +1,2006 @@
+{
+  "main_category": "development",
+  "sub_category": "Programming Languages",
+  "courses": [
+    {
+      "title": "MicroPython: Python für Mikrocontroller",
+      "url": "https://www.udemy.com/course/micropython-python-fur-mikrocontroller-esp32-und-stm32/"
+    },
+    {
+      "title": "C# DevExpress ve Mvc5 ile Otel Rezervasyon Sistemi",
+      "url": "https://www.udemy.com/course/otelrezervasyon/"
+    },
+    {
+      "title": "gpt-4o-mini　生成AI/エージェント開発入門",
+      "url": "https://www.udemy.com/course/gpt-4o-mini-ai/"
+    },
+    {
+      "title": "Programación PROFESIONAL desde cero con C++",
+      "url": "https://www.udemy.com/course/programacion-profesional-desde-cero-con-cpp/"
+    },
+    {
+      "title": "Curso de C++ Moderno para Iniciantes",
+      "url": "https://www.udemy.com/course/curso-de-cpp-moderno-para-iniciantes/"
+    },
+    {
+      "title": "Api Rest com Laravel na prática.",
+      "url": "https://www.udemy.com/course/api-rest-com-laravel-9-na-pratica/"
+    },
+    {
+      "title": "MicroServices & API Gateway",
+      "url": "https://www.udemy.com/course/microservices-api-gateway/"
+    },
+    {
+      "title": "【한글자막】 Golang : Google’s Go 프로그래밍 언어를 이용한 코딩 학습",
+      "url": "https://www.udemy.com/course/golang-programming/"
+    },
+    {
+      "title": "JavaシリーズVol.1【ゼロからJavaの基礎文法と開発ツールを同時に学ぶ】何から始めるかわからない悩みをぶっとばせ",
+      "url": "https://www.udemy.com/course/javavol1/"
+    },
+    {
+      "title": "JavaScript da Zero: Il Corso Pratico per Principianti",
+      "url": "https://www.udemy.com/course/introduzione-javascript-corso-principianti/"
+    },
+    {
+      "title": "Python pour la POO: Programmation Orientée Objet en Python",
+      "url": "https://www.udemy.com/course/python-pour-la-poo-programmation-orientee-objet-en-python/"
+    },
+    {
+      "title": "Otomasyon Eğitimi",
+      "url": "https://www.udemy.com/course/tia-portal-ile-siemens-s7-1200-plc-panel-ve-wincc-scada/"
+    },
+    {
+      "title": "Django 3 | Profesyonel Web Programlama",
+      "url": "https://www.udemy.com/course/django-3-profesyonel-web-programlama/"
+    },
+    {
+      "title": "Fundamentos y Lógica de Programación (+100 EJERCICIOS)",
+      "url": "https://www.udemy.com/course/fundamentos-y-logica-de-programacion/"
+    },
+    {
+      "title": "Curso Desenvolvedor Java com Jdbc,Jpa,Spring,Swing",
+      "url": "https://www.udemy.com/course/curso-desenvolvedor-java-com-jdbc/"
+    },
+    {
+      "title": "Delta PLC, CODESYS ile ABB PLC ve GMT PLC Programlama",
+      "url": "https://www.udemy.com/course/temel-kumanda-delta-dvp-serisi-plc-ve-gmt-plc-programlama/"
+    },
+    {
+      "title": "Python 3 编程技巧汇总",
+      "url": "https://www.udemy.com/course/python3-tips/"
+    },
+    {
+      "title": "【Go言語】基礎文法からweb開発まで攻略コース",
+      "url": "https://www.udemy.com/course/goweb-s2l2/"
+    },
+    {
+      "title": "Programación básica con Visual Basic .NET desde cero",
+      "url": "https://www.udemy.com/course/programacion-basica-con-visual-basic-net-desde-cero/"
+    },
+    {
+      "title": "Programación en Java",
+      "url": "https://www.udemy.com/course/programacion-en-java/"
+    },
+    {
+      "title": "C++ Para Principiantes",
+      "url": "https://www.udemy.com/course/cpp-paraprincipiantes/"
+    },
+    {
+      "title": "Aprende a programar con Ruby (desde cero y 100% en español)",
+      "url": "https://www.udemy.com/course/aprende-a-programar-con-ruby-desde-cero-y-100-en-espanol/"
+    },
+    {
+      "title": "JavaScript para Iniciantes",
+      "url": "https://www.udemy.com/course/javascript-iniciantes/"
+    },
+    {
+      "title": "Der komplette Python Meisterkurs - Lerne Python von A bis Z",
+      "url": "https://www.udemy.com/course/das-komplette-python-bootcamp/"
+    },
+    {
+      "title": "Pemrograman Rust : Pemula sampai Mahir",
+      "url": "https://www.udemy.com/course/belajar-rust/"
+    },
+    {
+      "title": "Aprenda linguagem SCL (structured text) do CLP da Siemens",
+      "url": "https://www.udemy.com/course/aprenda-linguagem-scl-structured-text-do-clp-da-siemens/"
+    },
+    {
+      "title": "Desenvolver Sistema LAZARUS 2.0 + ACBR (SAT/NFC-e) + MYSQL",
+      "url": "https://www.udemy.com/course/desenvolver-sistema-lazarus-20-acbr-mysql-na-pratica/"
+    },
+    {
+      "title": "Шаблоны проектирования на Python",
+      "url": "https://www.udemy.com/course/python-patterns/"
+    },
+    {
+      "title": "100 Days of Code: The Complete Python Pro Bootcamp",
+      "url": "https://www.udemy.com/course/100-days-of-code/"
+    },
+    {
+      "title": "JDBC : Java Database Connectivity",
+      "url": "https://www.udemy.com/course/jdbc-java-database-connectivity-basics/"
+    },
+    {
+      "title": "HTML dan CSS Dasar",
+      "url": "https://www.udemy.com/course/html-dan-css-dasar/"
+    },
+    {
+      "title": "Aprenda MATLAB do zero. Básico ao avançado + SIMULINK",
+      "url": "https://www.udemy.com/course/aprenda-matlab-do-zero-basico-ao-avancado/"
+    },
+    {
+      "title": "Kelas Python Lengkap 2025: Pemula Sampai Mahir (+Projects)",
+      "url": "https://www.udemy.com/course/kursus-python-lengkap-berbahasa-indonesia-basic-advanced/"
+    },
+    {
+      "title": "[2025] Python bootcamp تعلم بايثون من الصفر حتى الاحتراف",
+      "url": "https://www.udemy.com/course/complete-python-bootcamp-f/"
+    },
+    {
+      "title": "Maîtrisez le JavaScript en 30 exercices pratiques",
+      "url": "https://www.udemy.com/course/le-javascript-en-30-exercices/"
+    },
+    {
+      "title": "Dart Programlama Dili Dersleri",
+      "url": "https://www.udemy.com/course/dart-programlama-dili-dersleri/"
+    },
+    {
+      "title": "Lógica de Programação com Python e CodeSkulptor",
+      "url": "https://www.udemy.com/course/logica-de-programacao-python/"
+    },
+    {
+      "title": "C |Sıfırdan Zirveye Programlama",
+      "url": "https://www.udemy.com/course/26-saat-c-sifirdan-ileri-seviyeye-yazilim-gelistirme/"
+    },
+    {
+      "title": "Programowanie obiektowe w JavaScript - opanuj, tworząc gry!",
+      "url": "https://www.udemy.com/course/programowanie-obiektowe-w-javascript/"
+    },
+    {
+      "title": "Smart Contracts en Ethereum para principiantes",
+      "url": "https://www.udemy.com/course/smart-contracts-en-ethereum-para-principiantes-solidity/"
+    },
+    {
+      "title": "Curso Completo de Lógica e Programação",
+      "url": "https://www.udemy.com/course/curso-completo-de-logica-e-programacao/"
+    },
+    {
+      "title": "Programação CNC com software PowerMill - Básico",
+      "url": "https://www.udemy.com/course/programacao-cnc-com-software-powermill-basico/"
+    },
+    {
+      "title": "Fundamentos de Git en Cloud",
+      "url": "https://www.udemy.com/course/fundamentos-de-git-en-cloud/"
+    },
+    {
+      "title": "Python FastAPI 快速入门",
+      "url": "https://www.udemy.com/course/fastapi-start/"
+    },
+    {
+      "title": "C# en Profundidad",
+      "url": "https://www.udemy.com/course/csharp-en-profundidad/"
+    },
+    {
+      "title": "Curso de C++ Moderno Avançado",
+      "url": "https://www.udemy.com/course/curso-de-cpp-moderno-avancado/"
+    },
+    {
+      "title": "OpenCV + Webapp",
+      "url": "https://www.udemy.com/course/opencv-webapp/"
+    },
+    {
+      "title": "WordPress 4 de A à Z | Guide Complet",
+      "url": "https://www.udemy.com/course/wordpress-41/"
+    },
+    {
+      "title": "Python RPA com BotCity: Crie robôs com alta produtividade",
+      "url": "https://www.udemy.com/course/python-rpa-com-botcity-crie-robos-com-alta-produtividade/"
+    },
+    {
+      "title": "Python en Excel - Análisis de Datos FÁCIL con la Función PY",
+      "url": "https://www.udemy.com/course/python-en-excel/"
+    },
+    {
+      "title": "Aprendendo Programação do Zero ao Código com a Linguagem C",
+      "url": "https://www.udemy.com/course/aprendendo-programacao-do-zero-ao-codigo-com-a-linguagem-c/"
+    },
+    {
+      "title": "『超初心者のためのPythonキホンのキホンのキホン』〜楽しくてわかりやすい！見て学んで体験し褒めてもらうコース〜",
+      "url": "https://www.udemy.com/course/python-basic-x3/"
+    },
+    {
+      "title": "Introdução ao solidity",
+      "url": "https://www.udemy.com/course/introducao-ao-solidity/"
+    },
+    {
+      "title": "STM32 Cube IDE ile Gömülü Sistemlere Giriş",
+      "url": "https://www.udemy.com/course/stm32-cube-ide-ile-gomulu-sistemlere-giris/"
+    },
+    {
+      "title": "Rust: Dein Einstieg in die Rust Programmierung 2024 Edition",
+      "url": "https://www.udemy.com/course/rust-der-einstieg-fur-programmierer/"
+    },
+    {
+      "title": "Excel VBA pour débutants: Formation pas à pas sur Excel VBA",
+      "url": "https://www.udemy.com/course/excel-vba-pour-debutants-formation-pas-a-pas-complete-sur-excel-vba/"
+    },
+    {
+      "title": "Java/Eclipse & Programmation Orienté-Objet",
+      "url": "https://www.udemy.com/course/javaeclipse-programmation-oriente-objet/"
+    },
+    {
+      "title": "Algoritmos e Lógica de Programação em C",
+      "url": "https://www.udemy.com/course/logica-de-programacao-e-algoritmos-em-c/"
+    },
+    {
+      "title": "Mempelajari Machine Learning dengan Python",
+      "url": "https://www.udemy.com/course/mempelajari-machine-learning-dengan-python/"
+    },
+    {
+      "title": "Python: Crea tu primer juego con Pygame",
+      "url": "https://www.udemy.com/course/python-3-crea-tu-primer-juego-con-pygame/"
+    },
+    {
+      "title": "JavaシリーズVol.2【Javaオブジェクト指向の実践】プログラムは少し組める。でもオブジェクト指向って何？",
+      "url": "https://www.udemy.com/course/javavol2/"
+    },
+    {
+      "title": "Sıfırdan PHP MVC EĞİTİMİ-Sıfırdan E-TİCARET PROJESİ-FRAMEWOR",
+      "url": "https://www.udemy.com/course/sifirdan-php-mvc-egitimi-sifirdan-e-ticaret-projesi-yapimi/"
+    },
+    {
+      "title": "[2025] Vanilla JavaScript od podstaw - stwórz 15 projektów!",
+      "url": "https://www.udemy.com/course/vanilla-js-stworz-projekty-w-czystym-javascript-od-podstaw/"
+    },
+    {
+      "title": "İleri Düzey C# ile EF, Linq, OOP, Devexpress Öğrenin (3/6)",
+      "url": "https://www.udemy.com/course/165-saatlik-dev-egitim-projesi-3-6/"
+    },
+    {
+      "title": "Crea y automatiza Reportes con Python en Word y Excel.",
+      "url": "https://www.udemy.com/course/crea-y-automatiza-reportes-con-python-en-word-y-excel/"
+    },
+    {
+      "title": "DIGITALPEDRO: Python kezd nulláról, juss el az AI-ig!",
+      "url": "https://www.udemy.com/course/python-kozlegenybol-kapitany/"
+    },
+    {
+      "title": "Aprende Java de cero a avanzado con ejercicios prácticos",
+      "url": "https://www.udemy.com/course/aprende-java-con-ejercicios-practicos/"
+    },
+    {
+      "title": "Apprendre le C# (C-Sharp) de débutant à Expert.",
+      "url": "https://www.udemy.com/course/apprendre-le-c-c-sharp-de-debutant-a-expert/"
+    },
+    {
+      "title": "C# Eğitimi: Sıfırdan İleri Seviye|Uygulamalı 5 Adet Proje",
+      "url": "https://www.udemy.com/course/csharp-ile-nesne-yonelimli-programlama-baslangic/"
+    },
+    {
+      "title": "Curso completo de QA Engineer desde 0 hasta avanzado",
+      "url": "https://www.udemy.com/course/curso-completo-de-qa-engineer-desde-0-hasta-avanzado/"
+    },
+    {
+      "title": "Descomplicando a Linguagem C",
+      "url": "https://www.udemy.com/course/descomplicando-a-linguagem-c-uma-abordagem-baseada-em-jogos/"
+    },
+    {
+      "title": "Mastering Programming: A Comprehensive Course In [Arabic]",
+      "url": "https://www.udemy.com/course/mastering-programming-a-comprehensive-course-in-arabic/"
+    },
+    {
+      "title": "C# OOP Kamp: Nesne Tabanlı Programlamayı Sıfırdan Öğrenin",
+      "url": "https://www.udemy.com/course/c-oop-kamp-nesne-tabanl-programlamay-sfrdan-ogrenin/"
+    },
+    {
+      "title": "Programação com Scilab",
+      "url": "https://www.udemy.com/course/aprenda-programacao-de-computadores-com-o-scilab/"
+    },
+    {
+      "title": "Java - Полный Курс по Java",
+      "url": "https://www.udemy.com/course/java-full-ru/"
+    },
+    {
+      "title": "Основы программирования на Java с нуля за 2 месяца",
+      "url": "https://www.udemy.com/course/java-intro/"
+    },
+    {
+      "title": "Arquitetura e Programação de GPUs",
+      "url": "https://www.udemy.com/course/arquitetura-e-programacao-de-gpus/"
+    },
+    {
+      "title": "Sistema Asistencia Moderno en C#-Sql con Huella Dactilar",
+      "url": "https://www.udemy.com/course/sistema-de-asistencia-moderno-en-c-con-lector-dactilar/"
+    },
+    {
+      "title": "初心者でも最速でシゴトに使えるC#！",
+      "url": "https://www.udemy.com/course/quick-csharp/"
+    },
+    {
+      "title": "C語言引路人 ： 從零開始，向下紮根",
+      "url": "https://www.udemy.com/course/doctor-c/"
+    },
+    {
+      "title": "Programação em Java: Orientação a Objetos & Projetos Reais",
+      "url": "https://www.udemy.com/course/programacao-java-completo-orientacao-a-objetos-projetos-profissionais/"
+    },
+    {
+      "title": "Testy jednostkowe w języku Python - framework unittest",
+      "url": "https://www.udemy.com/course/kurs-testy-jednostkowe-jezyk-python-framework-unittest/"
+    },
+    {
+      "title": "VBA Macro untuk Pemula: Dari Nol Sampai Bisa! (2025)",
+      "url": "https://www.udemy.com/course/vba-macro-untuk-pemula/"
+    },
+    {
+      "title": "Programowanie w Javie: solidne fundamenty",
+      "url": "https://www.udemy.com/course/programowanie-w-javie-solidne-fundamenty/"
+    },
+    {
+      "title": "はじめてのTypeScriptプログラミング入門",
+      "url": "https://www.udemy.com/course/typescript-programming-for-beginners/"
+    },
+    {
+      "title": "Python'la Hacker Araçları Yazma",
+      "url": "https://www.udemy.com/course/pythonla-hacker-araclar-yazma/"
+    },
+    {
+      "title": "Yeni Başlayanlar için Sıfırdan İleri Seviye Python (2025)",
+      "url": "https://www.udemy.com/course/sifirdan-ileri-seviye-python-programlama/"
+    },
+    {
+      "title": "Manipulação de Dados com Linguagem Python",
+      "url": "https://www.udemy.com/course/etl-basico-com-python/"
+    },
+    {
+      "title": "MQL5 : Créez vos propres robots & indicateurs (Metatrader 5)",
+      "url": "https://www.udemy.com/course/mql5-creez-vos-propres-robots-indicateurs-metatrader-5/"
+    },
+    {
+      "title": "C# ile Temel ve Orta Seviye Programlama",
+      "url": "https://www.udemy.com/course/c-in-temelleri/"
+    },
+    {
+      "title": "Zaawansowane programowanie w języku C",
+      "url": "https://www.udemy.com/course/zaawansowane-programowanie-w-jezyku-c/"
+    },
+    {
+      "title": "Les fondamentaux du JavaScript et de Node.JS sans framework",
+      "url": "https://www.udemy.com/course/10-heures-de-prog-javascript-avec-nodejs-sans-framework/"
+    },
+    {
+      "title": "C# - Vom Beginner zum Progammierer: Learning by coding",
+      "url": "https://www.udemy.com/course/csharp-vom-beginner-zum-progammierer/"
+    },
+    {
+      "title": "Java ile Nesne Yönelimli Programlama",
+      "url": "https://www.udemy.com/course/java-ile-nesne-yonelimli-programlama/"
+    },
+    {
+      "title": "給初學者的Python基礎入門課程",
+      "url": "https://www.udemy.com/course/python-course-beginnners/"
+    },
+    {
+      "title": "Learn Python Programming : Step By Step Guide for Beginners",
+      "url": "https://www.udemy.com/course/python-programming-for-beginners-easily/"
+    },
+    {
+      "title": "Python与量化投资：从基础到实战 (Python for Finance in Chinese)",
+      "url": "https://www.udemy.com/course/python-python-for-finance-in-chinese/"
+    },
+    {
+      "title": "Introdução à Lógica de Programação com Portugol Studio",
+      "url": "https://www.udemy.com/course/introducao-a-logica-de-programacao-com-portugol-studio/"
+    },
+    {
+      "title": "Programação Gráfica com Labview",
+      "url": "https://www.udemy.com/course/programacao-grafica-com-labview/"
+    },
+    {
+      "title": "Sıfırdan Sona Java 2024 (Azərbaycan Dilində) Tövsiyyə olunan",
+      "url": "https://www.udemy.com/course/sifirdan-sona-java-2024/"
+    },
+    {
+      "title": "RTOS | STM32F4 İle FreeRTOS Kursu",
+      "url": "https://www.udemy.com/course/rtos-stm32f4-ile-freertos-kursu/"
+    },
+    {
+      "title": "SAP ABAP Consultor Nivel 1",
+      "url": "https://www.udemy.com/course/sap-abap-consultor-nivel-1/"
+    },
+    {
+      "title": "Aprende PHP MySQL y Servidor Web: Curso Práctico Desde 0",
+      "url": "https://www.udemy.com/course/php-mysql-y-servidor-web-curso-practico-desde-0/"
+    },
+    {
+      "title": "Ciencia de datos y Machine Learning con Python",
+      "url": "https://www.udemy.com/course/ciencia-de-datos-con-python/"
+    },
+    {
+      "title": "Shell Script para Hacker: de usuário à Ninja em Shell Script",
+      "url": "https://www.udemy.com/course/shell-script-para-hacker-de-usuario-a-ninja-em-shell-script/"
+    },
+    {
+      "title": "Macros e Programação VBA no Excel - Curso Básico e Prático",
+      "url": "https://www.udemy.com/course/macros-e-vba-no-excel-curso-basico-e-pratico/"
+    },
+    {
+      "title": "WEB SERVICES em PHP com JSON para aplicativos Android.",
+      "url": "https://www.udemy.com/course/na-pratica-crie-web-services-em-php-para-aplicativos-mobile/"
+    },
+    {
+      "title": "Expressions Régulières : La Formation Ultime",
+      "url": "https://www.udemy.com/course/expressions-regulieres/"
+    },
+    {
+      "title": "JDBC a profundidad + Spring Framework + MySQL + H2",
+      "url": "https://www.udemy.com/course/spring-jdbc/"
+    },
+    {
+      "title": "Python進階課程：觀念、語法、專案、爬蟲",
+      "url": "https://www.udemy.com/course/pythonadvanced/"
+    },
+    {
+      "title": "Kotlin para DEVs Java: Aprenda a Linguagem Padrão do Android",
+      "url": "https://www.udemy.com/course/kotlin-para-devs-java-domine-a-linguagem-padrao-do-android/"
+    },
+    {
+      "title": "Spring Boot 3 - Desarrollo web con Spring Framework y MySQL8",
+      "url": "https://www.udemy.com/course/curso-spring-boot/"
+    },
+    {
+      "title": "Créez des applications de bureau avec Python",
+      "url": "https://www.udemy.com/course/creez-des-applications-de-bureau-avec-python-et-pyside/"
+    },
+    {
+      "title": "أساسيات البرمجة بلغة بايثون - Introduction to Python-Arabic",
+      "url": "https://www.udemy.com/course/introduction-to-python/"
+    },
+    {
+      "title": "Laravel Framework - wielkie kompendium programisty PHP",
+      "url": "https://www.udemy.com/course/kurs-laravel-framework/"
+    },
+    {
+      "title": "Desenvolvimento de Sistemas com Java, Python e MySQL",
+      "url": "https://www.udemy.com/course/desenvolvimento-de-sistemas-java-python-e-mysql/"
+    },
+    {
+      "title": "(50+ Saat ) Gerçek Projeler ile Sıfırdan Python Kursu",
+      "url": "https://www.udemy.com/course/sfrdan-ileri-seviyeye-python-dili/"
+    },
+    {
+      "title": "TypeScript aprenda do zero ao avançado na pratica",
+      "url": "https://www.udemy.com/course/typescript-completo/"
+    },
+    {
+      "title": "Lógica de Programação",
+      "url": "https://www.udemy.com/course/logica-programacao/"
+    },
+    {
+      "title": "Aprende a programar en Java desde cero",
+      "url": "https://www.udemy.com/course/java-nivel-1-primeros-pasos/"
+    },
+    {
+      "title": "개발자영어",
+      "url": "https://www.udemy.com/course/devenglish/"
+    },
+    {
+      "title": "７ステップで作る日本語GPTスクラッチ開発ハンズオン",
+      "url": "https://www.udemy.com/course/7gpt-llm/"
+    },
+    {
+      "title": "Programare Java de la Zero: Teorie + 151 Exerciţii Rezolvate",
+      "url": "https://www.udemy.com/course/invata-java-de-la-zero-prin-exercitiu-masterclass/"
+    },
+    {
+      "title": "Typescript",
+      "url": "https://www.udemy.com/course/typescript-egitimi/"
+    },
+    {
+      "title": "【今日からはじめるプログラミング】コードの基本から必須スキルまで習得できる講座 / Swift6.x~対応",
+      "url": "https://www.udemy.com/course/start-programming-today/"
+    },
+    {
+      "title": "Python: Yeni Başlayanlar İçin Uygulamalı Python Programlama",
+      "url": "https://www.udemy.com/course/python-yeni-baslayanlar-icin-uygulamal-python-programlama/"
+    },
+    {
+      "title": "Fórmate como Developer: Programación y código en Python",
+      "url": "https://www.udemy.com/course/programacion-y-codigo-en-python/"
+    },
+    {
+      "title": "Python na Prática: Programando um Bot do WhatsApp",
+      "url": "https://www.udemy.com/course/aprenda-a-programar-um-bot-do-whatsapp/"
+    },
+    {
+      "title": "C# : Basics to Professional Level C Sharp Coding",
+      "url": "https://www.udemy.com/course/c-sharp-basics-to-professional-level-c-sharp-coding/"
+    },
+    {
+      "title": "【初心者歓迎】C#とWindows FormsでカッコイイWindowsアプリを作ろう！",
+      "url": "https://www.udemy.com/course/cs-windows-forms/"
+    },
+    {
+      "title": "Programación C# con Visual Studio Code de CERO a EXPERTO",
+      "url": "https://www.udemy.com/course/experto-en-programacion-csharp-con-visual-studio-code/"
+    },
+    {
+      "title": "Apprends C# 12 avec Visual Studio Code et .NET 8 (2023-2024)",
+      "url": "https://www.udemy.com/course/developpeur-c-sharp-dotnet-avec-visual-studio-code/"
+    },
+    {
+      "title": "C#でドメイン駆動開発 パート３【C#のWPFでPrismを使ってMVVMで実装する方法】",
+      "url": "https://www.udemy.com/course/ddd-prism/"
+    },
+    {
+      "title": "APP ChatBot WhatsApp | Flutter | NodeJS | MySQL",
+      "url": "https://www.udemy.com/course/whatsapp-flutter-nodejs-mysql/"
+    },
+    {
+      "title": "VBA Expert - O VBA para o Mercado Financeiro",
+      "url": "https://www.udemy.com/course/vba-expert-o-vba-para-o-mercado-financeiro/"
+    },
+    {
+      "title": "Java Web从入门到实战：老程序员手把手带您完成一个【网上商城】Web项目",
+      "url": "https://www.udemy.com/course/java-web/"
+    },
+    {
+      "title": "Alle Sprachen programmieren lernen",
+      "url": "https://www.udemy.com/course/programmieren-lernen/"
+    },
+    {
+      "title": "成為初級資料分析師 | Python 程式設計",
+      "url": "https://www.udemy.com/course/python-essentials/"
+    },
+    {
+      "title": "C Programlama Dersleri | C Dilini Baştan Sona Öğrenin",
+      "url": "https://www.udemy.com/course/c-programlama-dersleri-c-dilini-bastan-sona-ogrenin/"
+    },
+    {
+      "title": "C# 基礎初學者課程",
+      "url": "https://www.udemy.com/course/csharpmandarin/"
+    },
+    {
+      "title": "現役アーキテクトが教える『Java Advanced編』Java SEの高度な機能を習得／専門性を高め差別化を図る方へ",
+      "url": "https://www.udemy.com/course/learn-java-se-advanced/"
+    },
+    {
+      "title": "Sıfırdan İleri Seviye C# Eğitimi",
+      "url": "https://www.udemy.com/course/sfrdan-ileri-seviye-c-egitimi/"
+    },
+    {
+      "title": "Certificación en Python: Certifícate como Programador PCEP",
+      "url": "https://www.udemy.com/course/certificacion-python-pcep/"
+    },
+    {
+      "title": "Sap/Abap - ALV (Abap List View) OO - Descomplicando o uso",
+      "url": "https://www.udemy.com/course/abap-alv-oo-descomplicando-o-uso/"
+    },
+    {
+      "title": "Kotlin с нуля + разработка приложения под Android",
+      "url": "https://www.udemy.com/course/kotlin-android-start/"
+    },
+    {
+      "title": "Linguaggio C, il mega corso PREMIUM con esercizi svolti.",
+      "url": "https://www.udemy.com/course/linguaggio-c-il-corso-premium-con-esercizi-svolti/"
+    },
+    {
+      "title": "Analise e Desenvolvimento de Sistemas com Visual Basic",
+      "url": "https://www.udemy.com/course/analise-e-desenvolvimento-de-sistemas-com-visual-basic/"
+    },
+    {
+      "title": "The Complete Python Bootcamp From Zero to Hero in Python",
+      "url": "https://www.udemy.com/course/complete-python-bootcamp/"
+    },
+    {
+      "title": "Do it! 코틀린 프로그래밍 (Kotlin Programming)",
+      "url": "https://www.udemy.com/course/kotlin-programming-with-android/"
+    },
+    {
+      "title": "5 Formas de conectar C# a una base de datos Sql Server",
+      "url": "https://www.udemy.com/course/conectar-c-sharp-a-sql-server/"
+    },
+    {
+      "title": "Pemrograman TypeScript : Pemula sampai Mahir",
+      "url": "https://www.udemy.com/course/belajar-typescript/"
+    },
+    {
+      "title": "Aprende Lenguaje C, C++ y C# de CERO a EXPERTO",
+      "url": "https://www.udemy.com/course/aprende-lenguaje-c-c-y-c-de-cero-a-experto/"
+    },
+    {
+      "title": "C言語ポインタ",
+      "url": "https://www.udemy.com/course/c-pointers/"
+    },
+    {
+      "title": "ゼロから確実に身につけるプログラミングC言語 基本コース",
+      "url": "https://www.udemy.com/course/clang000001/"
+    },
+    {
+      "title": "Kotlin プログラミング入門講座【Java 知識不要の初心者コースで基礎知識を学ぼう！】",
+      "url": "https://www.udemy.com/course/kotlin-developer/"
+    },
+    {
+      "title": "【Java-メソッド】サクッと学ぶ Java『メソッド』２時間【速習】コース ～効率的に学ぶベストプラクティス～",
+      "url": "https://www.udemy.com/course/java-method-m/"
+    },
+    {
+      "title": "【Java-API・例外処理】知らずに損をしている『JavaAPI』活用法と『例外処理』をマスターする短期集中コース",
+      "url": "https://www.udemy.com/course/java-api-exp/"
+    },
+    {
+      "title": "Curso de Excel VBA com Access: Criando um Sistema do Zero",
+      "url": "https://www.udemy.com/course/sistema-biblioteca-escolar-no-excel-banco-de-dados-em-access/"
+    },
+    {
+      "title": "C# zaawansowany - programuj w C# na zawodowym poziomie",
+      "url": "https://www.udemy.com/course/kurs-zaawansowanego-programowania-w-csharp/"
+    },
+    {
+      "title": "Aprende Lenguaje C y C++ de CERO a EXPERTO",
+      "url": "https://www.udemy.com/course/aprende-lenguaje-c-y-c-de-cero-a-experto/"
+    },
+    {
+      "title": "データサイエンスのためのSQL入門",
+      "url": "https://www.udemy.com/course/sql-for-datascience/"
+    },
+    {
+      "title": "Programador Back End - Visual Studio 2019",
+      "url": "https://www.udemy.com/course/programador-back-end-visual-studio-2019/"
+    },
+    {
+      "title": "Kotlin for Beginners: From Zero to Hero [Arabic]",
+      "url": "https://www.udemy.com/course/kotlin-course-arabic/"
+    },
+    {
+      "title": "Spring Framework: étape par étape pour devenir professionnel",
+      "url": "https://www.udemy.com/course/spring-framework-etape-par-etape-pour-devenir-professionnel/"
+    },
+    {
+      "title": "تعلم البرمجة من الصفر إلى الاحتراف || Python 2025",
+      "url": "https://www.udemy.com/course/new-python/"
+    },
+    {
+      "title": "Algoritmik Trade Eğitimi",
+      "url": "https://www.udemy.com/course/algoritmik-trade-borsa-viop-varant/"
+    },
+    {
+      "title": "Aprendiendo Swift 5.5",
+      "url": "https://www.udemy.com/course/comenzando-con-swift/"
+    },
+    {
+      "title": "Java Completo com Orientação a Objetos e Exercícios",
+      "url": "https://www.udemy.com/course/java-completo-com-orientacao-a-objetos-e-exercicios/"
+    },
+    {
+      "title": "Kodlama Serüveni : 01 - Algoritma Öğrenmeden Önce!",
+      "url": "https://www.udemy.com/course/kodlama-seruveni-01-programlamann-temelleri/"
+    },
+    {
+      "title": "Menguasai Fundamental Python untuk Remote Worker Indonesia",
+      "url": "https://www.udemy.com/course/menguasai-fundamental-python-untuk-remote-worker-indonesia/"
+    },
+    {
+      "title": "Aprende a programar desde cero con Python",
+      "url": "https://www.udemy.com/course/aprende-a-programar-desde-cero-con-python/"
+    },
+    {
+      "title": "Python 3 - Einführung in die Programmierung",
+      "url": "https://www.udemy.com/course/python-3-einfuehrung-in-die-programmierung/"
+    },
+    {
+      "title": "노베이스도 한번에 합격하는 SQLD",
+      "url": "https://www.udemy.com/course/sqld-god/"
+    },
+    {
+      "title": "Programação CNC com Software PowerMill - Avançado",
+      "url": "https://www.udemy.com/course/programacao-cnc-com-software-powermill-avancado/"
+    },
+    {
+      "title": "JAVA: Sıfırdan Örneklerle ve Mantığıyla Öğrenin",
+      "url": "https://www.udemy.com/course/java-sifirdan-orneklerle-mantigiyla-ogrenin/"
+    },
+    {
+      "title": "Generación de Certificados y Diplomas con PHP, MySql y JS",
+      "url": "https://www.udemy.com/course/generacion-de-certificados-y-diplomas-con-php-mysql-y-js/"
+    },
+    {
+      "title": "Python ile Makine Öğrenmesi & Yapay Zeka Projeleri (5.2)",
+      "url": "https://www.udemy.com/course/python-ile-makine-ogrenmesi-yapay-zeka-projeleri-52/"
+    },
+    {
+      "title": "C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ",
+      "url": "https://www.udemy.com/course/simplecode-cshap/"
+    },
+    {
+      "title": "Cursor ile .NET'te Kurumsal Proje Geliştirme Uygulaması",
+      "url": "https://www.udemy.com/course/cursor-ile-nette-kurumsal-proje-gelistirme-uygulamas/"
+    },
+    {
+      "title": "E-Fatura Oluşturma ve Görüntüleme (2 / 2)",
+      "url": "https://www.udemy.com/course/e-fatura-olusturma-ve-goruntuleme-2-2/"
+    },
+    {
+      "title": "Projelerle JAVA Eğitimi",
+      "url": "https://www.udemy.com/course/projelerle-java-egitimi/"
+    },
+    {
+      "title": "Access - Sistema Financeiro",
+      "url": "https://www.udemy.com/course/access-sistema-financeiro/"
+    },
+    {
+      "title": "Python — Le Cours Ultime pour Débuter la Programmation",
+      "url": "https://www.udemy.com/course/python-le-cours-ultime/"
+    },
+    {
+      "title": "Blockchain com Node.js: Construa a sua Blockchain !",
+      "url": "https://www.udemy.com/course/blockchain-com-nodejs-contrua-a-sua-blockchain/"
+    },
+    {
+      "title": "Delphi 10 com Banco de Dados",
+      "url": "https://www.udemy.com/course/delphi-10-com-banco-de-dados/"
+    },
+    {
+      "title": "Python:Corona Virüs Veri Analizi ile Yapay Zeka için Python",
+      "url": "https://www.udemy.com/course/corona-virus-veri-analizi-ile-yapay-zeka-icin-python/"
+    },
+    {
+      "title": "REACT 2021 par la pratique, de A à Z (évolution progressive)",
+      "url": "https://www.udemy.com/course/react-2020-par-la-pratique-de-a-a-z-evolution-progressive/"
+    },
+    {
+      "title": "【한글자막】 시계열 데이터 분석 with 파이썬",
+      "url": "https://www.udemy.com/course/250-timeseries-kor-sub-top-100/"
+    },
+    {
+      "title": "【脱オブジェクト指向初心者！】TypeScriptで学ぶSOLID原則・デザインパターン",
+      "url": "https://www.udemy.com/course/typescript-solid-design-patterns/"
+    },
+    {
+      "title": "ASP NET COM c# em mais de 100 videoaulas",
+      "url": "https://www.udemy.com/course/asp-net-com-c-em-mais-de-100-videoaulas/"
+    },
+    {
+      "title": "Lógica de Programação utilizando VisualG",
+      "url": "https://www.udemy.com/course/logica-de-programacao-visualg/"
+    },
+    {
+      "title": "Algoritmos e Lógica de Programação",
+      "url": "https://www.udemy.com/course/algoritmos-e-logica-de-programacao-do-zero-as-linguagens/"
+    },
+    {
+      "title": "GASでスプレッドシートを自由自在に操るためのスキル習得講座【Google Apps Script入門】",
+      "url": "https://www.udemy.com/course/automate-spreadsheet-by-gas/"
+    },
+    {
+      "title": "Introduction to PHP In Arabic",
+      "url": "https://www.udemy.com/course/arabic-php-intro/"
+    },
+    {
+      "title": "Automate the Boring Stuff with Python Programming",
+      "url": "https://www.udemy.com/course/automate/"
+    },
+    {
+      "title": "Excel VBA para principiantes: Aprenda Excel VBA paso a paso",
+      "url": "https://www.udemy.com/course/excel-vba-para-principiantes-aprenda-excel-vba-paso-a-paso/"
+    },
+    {
+      "title": "Fundamentos de Algoritmos, entrena tu Lógica en programación",
+      "url": "https://www.udemy.com/course/fundamentos-de-algoritmos-entrena-tu-logica-en-programacion/"
+    },
+    {
+      "title": "PLC TIA PORTAL (2) : SIFIRDAN İLERİ SEVİYE OTOMASYON",
+      "url": "https://www.udemy.com/course/tia-portal-sifirdan-ileri-seviye-otomasyon-2/"
+    },
+    {
+      "title": "Programador .NET do Zero ao Profissional com a linguagem C#",
+      "url": "https://www.udemy.com/course/programador-net-do-zero-ao-profissional-com-a-linguagem-c/"
+    },
+    {
+      "title": "C# .Net ile Yapay Zeka Entegrasyonları",
+      "url": "https://www.udemy.com/course/csharp-net-ile-yapay-zeka-entegrasyonlari/"
+    },
+    {
+      "title": "Mastering C++: From Basics to Advanced Programming (Hindi)",
+      "url": "https://www.udemy.com/course/mastering-cplusplus-prateek-narang-hindi/"
+    },
+    {
+      "title": "Blockchain & Smart Contract สำหรับผู้เริ่มต้น",
+      "url": "https://www.udemy.com/course/blockchain-smart-contract/"
+    },
+    {
+      "title": "C#のWindowsフォームでMVVMをする方法：一緒に作るWindowフォームのMVVMフレームワーク",
+      "url": "https://www.udemy.com/course/anderson_mvvm/"
+    },
+    {
+      "title": "C# LinQ de cero hasta crear un Sistema de Reserva para Cine",
+      "url": "https://www.udemy.com/course/c-linq-de-cero-hasta-crear-un-sistema-de-reserva-para-cine/"
+    },
+    {
+      "title": "Programowanie w języku C++ - od A do Z",
+      "url": "https://www.udemy.com/course/programowanie-w-jezyku-cpp-od-a-do-z/"
+    },
+    {
+      "title": "JavaFX 8 - Der Einstieg in die Java-GUI Programmierung",
+      "url": "https://www.udemy.com/course/javafx-gui/"
+    },
+    {
+      "title": "기초 개념부터 배우는 파이썬(Python) 특강",
+      "url": "https://www.udemy.com/course/python-gc/"
+    },
+    {
+      "title": "너무 쉬운 파이썬(Python) 입문",
+      "url": "https://www.udemy.com/course/so_easy_python/"
+    },
+    {
+      "title": "Java Tutorial for Complete Beginners",
+      "url": "https://www.udemy.com/course/java-tutorial/"
+    },
+    {
+      "title": "Python do Zero à Automação com N8N",
+      "url": "https://www.udemy.com/course/python-do-zero-a-automacao-com-n8n/"
+    },
+    {
+      "title": "Go de cero a profesional - Bases, Web, Microservicios & Test",
+      "url": "https://www.udemy.com/course/go-de-cero-a-profesional-bases-rest-microservicios/"
+    },
+    {
+      "title": "Aprende Lenguaje C# de CERO a EXPERTO",
+      "url": "https://www.udemy.com/course/aprende-lenguaje-c-de-cero-a-experto-d/"
+    },
+    {
+      "title": "子供を熱くさせるプログラミング教室「Ritz」の入門７日間講座　親子でスクラッチ(Scratch)で本格ゲームを作ろう！",
+      "url": "https://www.udemy.com/course/ritz_programming/"
+    },
+    {
+      "title": "Comienza con Python: Python desde cero",
+      "url": "https://www.udemy.com/course/comienza-con-python/"
+    },
+    {
+      "title": "Programowanie w języku C# od podstaw 2024",
+      "url": "https://www.udemy.com/course/pikademia-podstawy-programowania-w-jezyku-c-sharp/"
+    },
+    {
+      "title": "Sıfırdan PHP ile RESTAURANT & CAFE Sipariş sistemi",
+      "url": "https://www.udemy.com/course/sifirdan-php-ile-restaurant-cafe-siparis-sistemi-jquery-mysqli/"
+    },
+    {
+      "title": "C#でサービスプログラムを作成して 処理を自動化する方法",
+      "url": "https://www.udemy.com/course/cs_service/"
+    },
+    {
+      "title": "Programación para los que ya lo intentaron",
+      "url": "https://www.udemy.com/course/programacion-para-no-programadores/"
+    },
+    {
+      "title": "Dart Programming Language And OOP For Beginner [In Arabic]",
+      "url": "https://www.udemy.com/course/dart-programming-language-and-oop-for-beginner-in-arabic/"
+    },
+    {
+      "title": "Kapsamlı Java Eğitimi",
+      "url": "https://www.udemy.com/course/kapsamli-java-egitimi/"
+    },
+    {
+      "title": "Microsoft Small Basic ile Programlama",
+      "url": "https://www.udemy.com/course/cocuklar-icin-programlama/"
+    },
+    {
+      "title": "Python数据分析与机器学习实战",
+      "url": "https://www.udemy.com/course/meachinelearningcn/"
+    },
+    {
+      "title": "FastAPI: Construa APIs em Python em 1 Hora - Iniciante",
+      "url": "https://www.udemy.com/course/fastapi-construa-apis-em-python-em-1-hora-iniciante/"
+    },
+    {
+      "title": "C# - Poderosa Linguagem de Programação",
+      "url": "https://www.udemy.com/course/c-poderosa-linguagem-de-programacao/"
+    },
+    {
+      "title": "Introdução e Lógica de Programação com Javascript",
+      "url": "https://www.udemy.com/course/introducao-e-logica-de-programacao-com-javascript/"
+    },
+    {
+      "title": "Java et les bases de données avec JDBC, Hibernate et JPA",
+      "url": "https://www.udemy.com/course/java-et-les-bases-de-donnees-avec-jdbc-hibernate-et-jpa/"
+    },
+    {
+      "title": "Artırılmış Gerçeklik-1",
+      "url": "https://www.udemy.com/course/artirilmis-gerceklik-proje-bazli-egitim/"
+    },
+    {
+      "title": "Curso de Programação C# com Unity",
+      "url": "https://www.udemy.com/course/curso-de-programacao-c-com-unity/"
+    },
+    {
+      "title": "【Java-オブジェクト指向（活用編）】３大要素（カプセル化・継承・ポリモフィズム）完全マスターコース",
+      "url": "https://www.udemy.com/course/java-obj-std/"
+    },
+    {
+      "title": "誰でもわかる Java基礎 ＆ Javaオブジェクト指向",
+      "url": "https://www.udemy.com/course/java-kiso/"
+    },
+    {
+      "title": "独学で身につけるPython〜Windows編〜【業務効率化・自動化で残業を無くそう！】",
+      "url": "https://www.udemy.com/course/python-kaizen-windows/"
+    },
+    {
+      "title": "Javascript | Baştan Sona Uygulamalı Javascript Eğitimi",
+      "url": "https://www.udemy.com/course/javascript-egitimi/"
+    },
+    {
+      "title": "Java Bootcamp - Desde Cero hasta conseguir empleo",
+      "url": "https://www.udemy.com/course/curso-desde-cero-desarrollo-de-aplicaciones-java/"
+    },
+    {
+      "title": "Abap para iniciantes - Curso Completo",
+      "url": "https://www.udemy.com/course/abap-para-iniciantes-curso-completo/"
+    },
+    {
+      "title": "C# API Mastery: C# en el Backend desde la práctica",
+      "url": "https://www.udemy.com/course/c-api-mastery-c-en-el-backend/"
+    },
+    {
+      "title": "Dados do Zero: Excel, SQL, Python e AWS com Projetos Reais",
+      "url": "https://www.udemy.com/course/dados-do-zero-excel-sql-python-e-aws-com-projetos-reais/"
+    },
+    {
+      "title": "Linguagem C para Iniciantes",
+      "url": "https://www.udemy.com/course/linguagem-c-para-iniciantes-no-codeblocks-para-windows/"
+    },
+    {
+      "title": "Programação Orientada a Objetos com Python",
+      "url": "https://www.udemy.com/course/programacao-orientada-a-objetos-com-python-w/"
+    },
+    {
+      "title": "تعلم لغة البرمجة جافا من الصفر إلى مرحلة متقدمة",
+      "url": "https://www.udemy.com/course/otdejbua/"
+    },
+    {
+      "title": "Assembly Dili",
+      "url": "https://www.udemy.com/course/assembly-dili/"
+    },
+    {
+      "title": "Java para principiantes, el mejor curso para iniciarte",
+      "url": "https://www.udemy.com/course/dumisnetwork-java-basico/"
+    },
+    {
+      "title": "Awk Shell Scripting de novato a experto",
+      "url": "https://www.udemy.com/course/awk-shell-scripting-de-novato-a-experto/"
+    },
+    {
+      "title": "Programador Delphi - Sistemas com Delphi e Mysql",
+      "url": "https://www.udemy.com/course/programador-delphi-sistemas-com-delphi-e-mysql/"
+    },
+    {
+      "title": "Der Java Datenstrukturen und Algorithmen Kurs",
+      "url": "https://www.udemy.com/course/der-java-datenstrukturen-und-algorithmen-kurs/"
+    },
+    {
+      "title": "المرجع الشامل لبناء تطبيقات ديسك توب ببايثون (Python + PyQt)",
+      "url": "https://www.udemy.com/course/python-pyqt-arabic/"
+    },
+    {
+      "title": "Curso de Python 3 Completo - Do Zero ao Avançado",
+      "url": "https://www.udemy.com/course/curso-de-python-3-completo-do-zero-ao-avancado/"
+    },
+    {
+      "title": "Python do Zero à Automação",
+      "url": "https://www.udemy.com/course/python-do-zero-a-automacao/"
+    },
+    {
+      "title": "Interaktywne wizualizacje danych w języku Python - Plotly",
+      "url": "https://www.udemy.com/course/wizualizacje-danych-python/"
+    },
+    {
+      "title": "Çocuklar İçin Kodlama - Uygulamalarla Scratch(8-14 Yaş)",
+      "url": "https://www.udemy.com/course/cocuklar-icin-kodlama-scratch8-14-yas/"
+    },
+    {
+      "title": "JavaScript voor beginners en gevorderden",
+      "url": "https://www.udemy.com/course/javascript-voor-beginners-en-gevorderden/"
+    },
+    {
+      "title": "Python Master: De Principiante a Experto +20 Real Projects",
+      "url": "https://www.udemy.com/course/python-universidad/"
+    },
+    {
+      "title": "Java ile Programlamaya Giriş 2",
+      "url": "https://www.udemy.com/course/java-ile-programlamaya-giris-2/"
+    },
+    {
+      "title": "Interfaces Gráficas com JavaFX",
+      "url": "https://www.udemy.com/course/interfaces-graficas-com-javafx/"
+    },
+    {
+      "title": "從零開始學 JAVA 程式設計",
+      "url": "https://www.udemy.com/course/hkt-java/"
+    },
+    {
+      "title": "Arduino Corso Avanzato",
+      "url": "https://www.udemy.com/course/arduino-corso-avanzato/"
+    },
+    {
+      "title": "Aprende C# desde Cero - Curso Completo de C#",
+      "url": "https://www.udemy.com/course/aprende-c-desde-cero-curso-completo/"
+    },
+    {
+      "title": "Débutez en Rust",
+      "url": "https://www.udemy.com/course/debutez-en-rust/"
+    },
+    {
+      "title": "JavaScript Dili Temelleri",
+      "url": "https://www.udemy.com/course/javascript-dili-temelleri/"
+    },
+    {
+      "title": "A-Z™ | Raspberry Pi ile 0'dan ileri seviyeye (Python,Java)",
+      "url": "https://www.udemy.com/course/az-raspberry-pi-ile-0dan-ileri-seviyeye-pythonjava/"
+    },
+    {
+      "title": "Certification EXCEL VBA 2025 | + Exercices avec les MACROS",
+      "url": "https://www.udemy.com/course/certification-excel-vba/"
+    },
+    {
+      "title": "Python Automático- Aprenda a Programar e Automatizar do Zero",
+      "url": "https://www.udemy.com/course/python-automatico-aprenda-a-programar-e-automatizar-do-zero/"
+    },
+    {
+      "title": "デザインパターン４：State，Decorator，Bridge【C#】",
+      "url": "https://www.udemy.com/course/design04/"
+    },
+    {
+      "title": "Java pour les débutants",
+      "url": "https://www.udemy.com/course/java-pour-les-debutants/"
+    },
+    {
+      "title": "C# İle Algoritma Öğrenin ! Sıfırdan İleri Seviyeye Algoritma",
+      "url": "https://www.udemy.com/course/c-ile-sfrdan-zirveye-algoritma-ve-programlama-ogrenin/"
+    },
+    {
+      "title": "Spring Cloud手把手带你进入微服务开发",
+      "url": "https://www.udemy.com/course/spring-cloud-u/"
+    },
+    {
+      "title": "Java 8 : Maîtriser les nouvelles fonctionnalités",
+      "url": "https://www.udemy.com/course/java-8-maitriser-les-nouvelles-fonctionnalites/"
+    },
+    {
+      "title": "C#文法：ジェネリック",
+      "url": "https://www.udemy.com/course/generics/"
+    },
+    {
+      "title": "Temel Elektronik, Arduino,Python ve Raspberry Pi Programlama",
+      "url": "https://www.udemy.com/course/mblock-ile-arduino-programlama/"
+    },
+    {
+      "title": "Criando um Controle de Vendas Desktop com C# e MySQL",
+      "url": "https://www.udemy.com/course/aprenda-csharp/"
+    },
+    {
+      "title": "Programmation Orientée Objet (POO) & Algorithmique, de A à Z",
+      "url": "https://www.udemy.com/course/programmation-orientee-objet-algo-bases-indispensables/"
+    },
+    {
+      "title": "Python Kurs: Data Science, Maschinelles Lernen, AI & WebApps",
+      "url": "https://www.udemy.com/course/python-kurs-deutsch/"
+    },
+    {
+      "title": "Python A'dan Z'ye | Sıfırdan; Yazılım Geliştirmeyi Öğrenin!",
+      "url": "https://www.udemy.com/course/yazilim-programlama-python/"
+    },
+    {
+      "title": "JavaScript 核心篇",
+      "url": "https://www.udemy.com/course/javascript-adv/"
+    },
+    {
+      "title": "Cấu trúc dữ liệu và giải thuật Thực chiến với LeetCode",
+      "url": "https://www.udemy.com/course/cau-truc-du-lieu-va-giai-thuat-thuc-chien-voi-leetcode/"
+    },
+    {
+      "title": "JavaScript Básico",
+      "url": "https://www.udemy.com/course/javascript-basico/"
+    },
+    {
+      "title": "C# .NET: Pytania z rozmów kwalifikacyjnych (junior/regular)",
+      "url": "https://www.udemy.com/course/c-net-rozmowa-kwalifikacyjna-pytania-junior-regular/"
+    },
+    {
+      "title": "Windows Forms - Programas de computador (Desktop)",
+      "url": "https://www.udemy.com/course/windows-forms-programas-de-computador-desktop/"
+    },
+    {
+      "title": "【世界で４万人が受講】 実践！AngularJS講座",
+      "url": "https://www.udemy.com/course/angularjs_ja/"
+    },
+    {
+      "title": "Programação Funcional com Elixir",
+      "url": "https://www.udemy.com/course/programacao-funcional-com-elixir/"
+    },
+    {
+      "title": "Desenvolvedor Front-End - Delphi 10.3",
+      "url": "https://www.udemy.com/course/desenvolvedor-front-end-delphi-103/"
+    },
+    {
+      "title": "PLC TIA PORTAL (1) : SIFIRDAN İLERİ SEVİYE OTOMASYON #2025",
+      "url": "https://www.udemy.com/course/tia-portal-sifirdan-ileri-seviye-otomasyon-1/"
+    },
+    {
+      "title": "Arduino I - Crie Projetos Fantásticos",
+      "url": "https://www.udemy.com/course/arduino-i-crie-projetos-fantasticos/"
+    },
+    {
+      "title": "Kurs JavaScript od podstaw 2025 (ES6)",
+      "url": "https://www.udemy.com/course/javascript-od-podstaw/"
+    },
+    {
+      "title": "PYTHON PRÁCTICO: Aprende Python para el mundo real!",
+      "url": "https://www.udemy.com/course/python-para-el-mundo-real/"
+    },
+    {
+      "title": "Automatiza Tu Vida Con Python + ChatGPT [2024]",
+      "url": "https://www.udemy.com/course/automatiza-tu-vida-con-python/"
+    },
+    {
+      "title": "Python Programming Language | Master Python Course (Arabic)",
+      "url": "https://www.udemy.com/course/python_tutorials/"
+    },
+    {
+      "title": "Impariamo da Zero i linguaggi C#, Java e Python",
+      "url": "https://www.udemy.com/course/impariamo-da-zero-i-linguaggi-c-java-e-python/"
+    },
+    {
+      "title": "Maîtrise jQuery Comme un Pro | Guide Complet",
+      "url": "https://www.udemy.com/course/jquery-alphorm/"
+    },
+    {
+      "title": "Curso de Linguagem C para Iniciantes",
+      "url": "https://www.udemy.com/course/curso-c-para-iniciantes/"
+    },
+    {
+      "title": "Python para Profesionales. Mejora tu Desarrollo.",
+      "url": "https://www.udemy.com/course/python-para-profesionales-mejora-tu-desarrollo/"
+    },
+    {
+      "title": "(50+ Saat) Sıfırdan İleri Seviyeye Python Programlama",
+      "url": "https://www.udemy.com/course/sifirdan-ileri-seviyeye-python-egitimi/"
+    },
+    {
+      "title": "Clojure: Introdução à Programação Funcional",
+      "url": "https://www.udemy.com/course/clojure-introducao-a-programacao-funcional/"
+    },
+    {
+      "title": "Programarea calculatoarelor de la absolut zero",
+      "url": "https://www.udemy.com/course/programarea-calculatoarelor-de-la-absolut-zero/"
+    },
+    {
+      "title": "Microservicios con Spring cloud",
+      "url": "https://www.udemy.com/course/microservicios-con-spring-cloud/"
+    },
+    {
+      "title": "Máster Completo Python de cero a experto 2025",
+      "url": "https://www.udemy.com/course/master-completo-en-python-de-cero-a-experto/"
+    },
+    {
+      "title": "Apprendre à programmer en C#",
+      "url": "https://www.udemy.com/course/apprendre-a-programmer-en-csharp/"
+    },
+    {
+      "title": "İleri Düzey C# ile EF, Linq, OOP, Devexpress Öğrenin (2/6)",
+      "url": "https://www.udemy.com/course/165-saatlik-dev-egitim-projesi-2-6/"
+    },
+    {
+      "title": "C programming language | The Complete C Course (Arabic)",
+      "url": "https://www.udemy.com/course/c-programming-language-from-a-to-z/"
+    },
+    {
+      "title": "今後のフロントエンド開発で必須知識となるReact v18の機能を丁寧に理解する",
+      "url": "https://www.udemy.com/course/react_v18/"
+    },
+    {
+      "title": "Programação Web com Microsoft Asp .NET do básico ao avançado",
+      "url": "https://www.udemy.com/course/programacao-em-microsoft-asp-net-do-basico-ao-avancado/"
+    },
+    {
+      "title": "E-Fatura Oluşturma ve Görüntüleme (1 / 2)",
+      "url": "https://www.udemy.com/course/e-fatura-olusturma-ve-goruntuleme-1-2/"
+    },
+    {
+      "title": "프로그래밍 첫 입문자를 위한 알고리즘 핵심 이론",
+      "url": "https://www.udemy.com/course/bfattewx/"
+    },
+    {
+      "title": "计算机视觉-Opencv项目实战(Python版)",
+      "url": "https://www.udemy.com/course/opencvpython-tangyudi/"
+    },
+    {
+      "title": "Aprenda Cobol praticando em ambiente Mainframe",
+      "url": "https://www.udemy.com/course/cobolmainframe/"
+    },
+    {
+      "title": "Python GUI: Gerçek Dünya Python Projeleri ile Tkinter&PyQt5!",
+      "url": "https://www.udemy.com/course/python-gui-gercek-dunya-python-projeleri-ile-tkinterpyqt5/"
+    },
+    {
+      "title": "Keras 를 활용한 Deep Learning 입문",
+      "url": "https://www.udemy.com/course/keras-deep-learning/"
+    },
+    {
+      "title": "Engenharia de Dados com Google Dataflow e Apache Beam na GCP",
+      "url": "https://www.udemy.com/course/engenharia-de-dados-com-apache-beam-google-dataflow-gcp/"
+    },
+    {
+      "title": "Aprenda a programar em Java do zero",
+      "url": "https://www.udemy.com/course/aprenda-a-programar-em-java-do-zero/"
+    },
+    {
+      "title": "Curso prático de ASP.NET Core MVC - Básico",
+      "url": "https://www.udemy.com/course/curso-pratico-de-aspnet-core-mvc-basico/"
+    },
+    {
+      "title": "PHP 7: desde básico hasta desarrollar un software de venta",
+      "url": "https://www.udemy.com/course/php-7-desde-basico-hasta-desarrollar-un-software-de-venta/"
+    },
+    {
+      "title": "Python com Interface Gráfica Tkinter",
+      "url": "https://www.udemy.com/course/python-com-interface-grafica-tkinter/"
+    },
+    {
+      "title": "Aprende WPF y MAUI desde CERO usando C#",
+      "url": "https://www.udemy.com/course/aprende-wpf-desde-cero-usando-csharp-y-dotnet/"
+    },
+    {
+      "title": "Pythonステップアップ速習講座―仮想環境のしくみ、開発環境を整えるツール、クラスを使ったコーディング、定番パッケージ",
+      "url": "https://www.udemy.com/course/step-up-python/"
+    },
+    {
+      "title": "Programmation en Python 3: Du Débutant à l'Expert",
+      "url": "https://www.udemy.com/course/programmation-en-python-3-du-debutant-a-lexpert/"
+    },
+    {
+      "title": "Python - 50 pytań z rozmów kwalifikacyjnych",
+      "url": "https://www.udemy.com/course/python-50-popularnych-pytan-z-rozmow-kwalifikacyjnych/"
+    },
+    {
+      "title": "Bases indispensables de JavaScript, Node.JS & algorithmique",
+      "url": "https://www.udemy.com/course/bases-indispensables-de-javascript-nodejs-algorithmique/"
+    },
+    {
+      "title": "Aprende Python de cero a avanzado con ejercicios prácticos",
+      "url": "https://www.udemy.com/course/aprende-python-con-ejercicios-practicos/"
+    },
+    {
+      "title": "Apprendre ASP.NET Core et C# pour le développement web",
+      "url": "https://www.udemy.com/course/apprendre-aspnet-core-mvc-et-c-sharp-razor-pour-le-developpement-web/"
+    },
+    {
+      "title": "ООП (OOP) в C# | Продвинутый C# | Шаг 1",
+      "url": "https://www.udemy.com/course/csharp-advanced-step1-oop/"
+    },
+    {
+      "title": "Curso Práctico de Qt/PySide: Interfaces Gráficas con Python",
+      "url": "https://www.udemy.com/course/python-desarrollo-interfaces-graficas-qt-pyside/"
+    },
+    {
+      "title": "Algorithmen und Datenstrukturen mit Python",
+      "url": "https://www.udemy.com/course/algorithmen-und-datenstrukturen-mit-python/"
+    },
+    {
+      "title": "Réaliser un Logiciel réel sous Python, PyQt5 et QT Designer",
+      "url": "https://www.udemy.com/course/logiciel-reel-sous-python-pyqt5-et-qtdesigner/"
+    },
+    {
+      "title": "【한글자막】 Python 완벽 부트캠프 : 파이썬 초보자에서 전문가로!",
+      "url": "https://www.udemy.com/course/best-python-bootcamp-2022/"
+    },
+    {
+      "title": "CRUD com PHP OO + MVC + Bootstrap 4 + JQuery",
+      "url": "https://www.udemy.com/course/crud-com-php-mvc-bootstrap-4-jquery/"
+    },
+    {
+      "title": "Desarrolla sistemas en Java, MySQL, DAO, POO, Swing, 3 Capas",
+      "url": "https://www.udemy.com/course/desarrolla-sistemas-java-mysql-dao-swing-3-capas-poo/"
+    },
+    {
+      "title": "Excel VBA (Makro) Eğitimi | Sıfırdan Makro Öğren",
+      "url": "https://www.udemy.com/course/excel-vba-makro-yeni-baslayanlar-icin/"
+    },
+    {
+      "title": "快速學習 React.js 和 Redux 的基礎到實踐",
+      "url": "https://www.udemy.com/course/reactjs-redux/"
+    },
+    {
+      "title": "【한글자막】 Rust Programming 핵심 강의",
+      "url": "https://www.udemy.com/course/rust-programming-korean/"
+    },
+    {
+      "title": "Der ultimative Regular Expression Komplettkurs",
+      "url": "https://www.udemy.com/course/der-ultimative-regular-expression-komplettkurs/"
+    },
+    {
+      "title": "Desenvolvimento Front-End com CSharp",
+      "url": "https://www.udemy.com/course/desenvolvimento-front-end-com-csharp/"
+    },
+    {
+      "title": "Introdução à Programação: da Teoria à Prática",
+      "url": "https://www.udemy.com/course/introducao-programacao/"
+    },
+    {
+      "title": "Learn React JS for Web Development by Building Projects",
+      "url": "https://www.udemy.com/course/learn-react-js-for-web-development-by-building-projects/"
+    },
+    {
+      "title": "Die komplette Java 11 Masterclass -von 0 auf 100 in 6 Wochen",
+      "url": "https://www.udemy.com/course/java-11-masterclass/"
+    },
+    {
+      "title": "Microsoft SQL Server (70-461) Bölüm 1",
+      "url": "https://www.udemy.com/course/microsoft-sql-server-70-461-1/"
+    },
+    {
+      "title": "Einführung in Go",
+      "url": "https://www.udemy.com/course/einfuhrung-in-go/"
+    },
+    {
+      "title": "Programando plugins para o Minecraft do zero!",
+      "url": "https://www.udemy.com/course/programando-minecraft-java/"
+    },
+    {
+      "title": "Control de Movimiento Kinetix 300 Servos Motion Control PLC",
+      "url": "https://www.udemy.com/course/control-de-movimiento-kinetix-300-servos-motion-control-plc/"
+    },
+    {
+      "title": "Cobol Curso Completo | Do básico a um Sistema com Telas",
+      "url": "https://www.udemy.com/course/cobol-windows-completo/"
+    },
+    {
+      "title": "ADVPL Para Leigos 1.0",
+      "url": "https://www.udemy.com/course/advpl-para-leigos-10/"
+    },
+    {
+      "title": "Python 3 - программирование для начинающих",
+      "url": "https://www.udemy.com/course/python-3-2017/"
+    },
+    {
+      "title": "Aprende Java desde cero, en camino a la certificación",
+      "url": "https://www.udemy.com/course/aprende-java-desde-cero-en-camino-a-la-certificacion/"
+    },
+    {
+      "title": "Programming for beginners||تعليم البرمجة للمبتدئين و الأطفال",
+      "url": "https://www.udemy.com/course/8-15-hlt/"
+    },
+    {
+      "title": "Sıfırdan Visual Basic dili ile kodlama ve temel eğitim",
+      "url": "https://www.udemy.com/course/visualbasic/"
+    },
+    {
+      "title": "Linguaggio python: dalle basi a PRO. Il mega corso MASTER",
+      "url": "https://www.udemy.com/course/linguaggio-python-il-corso-master/"
+    },
+    {
+      "title": "Curso Completo de Shell Script",
+      "url": "https://www.udemy.com/course/shell-script/"
+    },
+    {
+      "title": "Jupyter Notebook, Google Colab y Markdown para profesionales",
+      "url": "https://www.udemy.com/course/jupyter-notebook-y-markdown-para-todos/"
+    },
+    {
+      "title": "누구나 쉽게 배우는 ChatGPT X 파이썬(Python) 업무자동화(RPA) 스킬",
+      "url": "https://www.udemy.com/course/chatgpt_python_rpa/"
+    },
+    {
+      "title": "【初心者歓迎！】ゼロからC言語を覚えてWinAPIで画像ビューワーを作成しよう",
+      "url": "https://www.udemy.com/course/cwinapi-viewer/"
+    },
+    {
+      "title": "Básico ao Avançado Excel VBA e Macros + de 60 Aulas PRÁTICAS",
+      "url": "https://www.udemy.com/course/excel-macros-e-vba-completo-mais-ferramentas-na-pratica/"
+    },
+    {
+      "title": "Kotlin Programming Masterclass 2021",
+      "url": "https://www.udemy.com/course/kotlin-programming-masterclass/"
+    },
+    {
+      "title": "Travaux pratiques Java",
+      "url": "https://www.udemy.com/course/travaux-pratiques-de-programmation-java/"
+    },
+    {
+      "title": "Desenvolvedor Back-End com C#",
+      "url": "https://www.udemy.com/course/desenvolvedor-back-end-com-c/"
+    },
+    {
+      "title": "Curso Completo de RPA: do Zero ao Avançado!",
+      "url": "https://www.udemy.com/course/curso-completo-de-rpa/"
+    },
+    {
+      "title": "Go言語の基礎と並行処理",
+      "url": "https://www.udemy.com/course/golang_concurrency/"
+    },
+    {
+      "title": "Sıfırdan Metastock Eğitimi",
+      "url": "https://www.udemy.com/course/sfrdan-metastock-egitimi/"
+    },
+    {
+      "title": "Python für Computer Vision und Data Science mit OpenCV",
+      "url": "https://www.udemy.com/course/computer-vision-mit-opencv-und-deep-learning/"
+    },
+    {
+      "title": "C# ve SQL| Sıfırdan C# ile Nesneye Yönelik Programlama | C#",
+      "url": "https://www.udemy.com/course/c-sharp-programlama-dili-ile-nesneye-yonelik-programlama/"
+    },
+    {
+      "title": "C++ par la Pratique - Apprenez en Codant",
+      "url": "https://www.udemy.com/course/cpp-par-la-pratique/"
+    },
+    {
+      "title": "【4つの実案件で学ぶ】Python Webスクレイピング完全パック | BeautifulSoup, Selenium",
+      "url": "https://www.udemy.com/course/webscraping-with-python/"
+    },
+    {
+      "title": "Rust - Curso Avançado",
+      "url": "https://www.udemy.com/course/curso-rust/"
+    },
+    {
+      "title": "Laravel 9 e 10 con MySql, PHP OOP e MVC",
+      "url": "https://www.udemy.com/course/php-sql-oop-pdo-mvc/"
+    },
+    {
+      "title": "Mega Curso de Python más de 86 horas y 785 Videos en Español",
+      "url": "https://www.udemy.com/course/mega-curso-de-python-mas-de-63-horas-y-605-videos-en-espanol/"
+    },
+    {
+      "title": "Java en acción: Resolución de un caso complejo en Java",
+      "url": "https://www.udemy.com/course/java-en-accion/"
+    },
+    {
+      "title": "Photoshop pour débutants : le guide complet",
+      "url": "https://www.udemy.com/course/photoshop-cc/"
+    },
+    {
+      "title": ".NET (Visual Basic) programmieren - Einsteigerkurs",
+      "url": "https://www.udemy.com/course/vbnet-programmieren-einsteigerkurs/"
+    },
+    {
+      "title": "Python-Entwicklung für Einsteiger",
+      "url": "https://www.udemy.com/course/python-fur-einsteiger/"
+    },
+    {
+      "title": "Language-Integrated Query 快速上手 ( C# ) (LINQ)",
+      "url": "https://www.udemy.com/course/linq-csharp/"
+    },
+    {
+      "title": "JavaScript - zacznij tworzyć dynamiczne strony i aplikacje",
+      "url": "https://www.udemy.com/course/kurs-javascript-od-podstaw/"
+    },
+    {
+      "title": "Python in Hindi (2024)",
+      "url": "https://www.udemy.com/course/complete-python-in-hindi/"
+    },
+    {
+      "title": "[ChatGPT入門] Googleドキュメント、スプレッドシートでChatGPT APIを使うハンズオンコース",
+      "url": "https://www.udemy.com/course/chatgpt-gas/"
+    },
+    {
+      "title": "Aprenda Linguagem C - direto ao ponto",
+      "url": "https://www.udemy.com/course/linguagem-c-direto-ao-ponto/"
+    },
+    {
+      "title": "Programación orientada a objetos con Java",
+      "url": "https://www.udemy.com/course/devs4j-poo/"
+    },
+    {
+      "title": "Aprende Lenguaje C de CERO a EXPERTO",
+      "url": "https://www.udemy.com/course/aprende-lenguaje-c-de-cero-a-experto/"
+    },
+    {
+      "title": "7 Günde Delphi'ye Hükmet!",
+      "url": "https://www.udemy.com/course/7-gunde-delphiye-hukmet/"
+    },
+    {
+      "title": "Sympyで学ぶ 数学入門：微分・積分・線形代数からコード生成まで",
+      "url": "https://www.udemy.com/course/math-by-sympy/"
+    },
+    {
+      "title": "【もう挫折しない】C言語ポインタ徹底解説・ポインタを自由に使えるようになろう",
+      "url": "https://www.udemy.com/course/c-pointer/"
+    },
+    {
+      "title": "SAP ABAP für Anfänger 5: Datenbanken & Code Inspector",
+      "url": "https://www.udemy.com/course/sap-abap-kompendium-teil-5/"
+    },
+    {
+      "title": "Complete Python Tutorial For Beginners to Expert",
+      "url": "https://www.udemy.com/course/complete-python-tutorial-for-beginners-to-expert-in-hindi/"
+    },
+    {
+      "title": "데이터 분석 고민하지 마세요! 누구나 쉽게 따라하는 파이썬 입문",
+      "url": "https://www.udemy.com/course/cloom-python-basic/"
+    },
+    {
+      "title": "Wprowadzenie do data science w języku Python - Pandas",
+      "url": "https://www.udemy.com/course/wprowadzenie-data-science/"
+    },
+    {
+      "title": "C# POO + Lógica de Programação Aplicada",
+      "url": "https://www.udemy.com/course/csharp-poo-logica-de-programacao-aplicada/"
+    },
+    {
+      "title": "【한글자막】 Rust : 실제 애플리케이션 구축을 통한 Rust 완벽 정복",
+      "url": "https://www.udemy.com/course/rust-building-application/"
+    },
+    {
+      "title": "Datasnap Servidor de Aplicação em mais de 100 videoaulas",
+      "url": "https://www.udemy.com/course/datasnap-servidor-de-aplicacao-em-mais-de-100-videoaulas/"
+    },
+    {
+      "title": "C# Yazılım Eğitimi | Sertifikalı",
+      "url": "https://www.udemy.com/course/c-program-yaz/"
+    },
+    {
+      "title": "Lógica de Programação em Python",
+      "url": "https://www.udemy.com/course/logica-de-programacao-em-python/"
+    },
+    {
+      "title": "Introducción a Python",
+      "url": "https://www.udemy.com/course/introduccion-a-python-d/"
+    },
+    {
+      "title": "Master en Web Scraping con Python + ChatGPT [2024]",
+      "url": "https://www.udemy.com/course/curso-completo-de-web-scraping-en-python-de-cero-a-experto/"
+    },
+    {
+      "title": "Python per Machine Learning e Artificial Intelligence",
+      "url": "https://www.udemy.com/course/python-per-ml-e-ai/"
+    },
+    {
+      "title": "Curso Máster en RStudio de principiante a experto",
+      "url": "https://www.udemy.com/course/curso-master-en-r-de-principiante-a-experto/"
+    },
+    {
+      "title": "Spring Boot Design Patterns",
+      "url": "https://www.udemy.com/course/spring-boot-design-patterns-bahasa-indonesia/"
+    },
+    {
+      "title": "生成AIを活用したプログラミング学習の加速術 -AIサポートで効率的に習得するプログラミング言語-",
+      "url": "https://www.udemy.com/course/ai-programming/"
+    },
+    {
+      "title": "Introduzione a Python per il data mining",
+      "url": "https://www.udemy.com/course/introduzione-a-python-per-il-data-mining/"
+    },
+    {
+      "title": "Python con Google Colab: desde Cero bien explicado 2025",
+      "url": "https://www.udemy.com/course/python-con-google-colab-python-desde-cero-bien-explicado/"
+    },
+    {
+      "title": "Angular, Spring e MongoDB do front ao banco de dados!",
+      "url": "https://www.udemy.com/course/angular-spring-e-mongodb-do-front-ao-banco-de-dados/"
+    },
+    {
+      "title": "A`dan Z`ye C# Programlama",
+      "url": "https://www.udemy.com/course/temel-c-egitimi/"
+    },
+    {
+      "title": "はじめてのC#入門【Visual Studio 2019対応】",
+      "url": "https://www.udemy.com/course/csharp_intro/"
+    },
+    {
+      "title": "デザインパターン３：Composite，Abstract Factory，Factory Method ...【C#】",
+      "url": "https://www.udemy.com/course/design03/"
+    },
+    {
+      "title": "Pythonによる科学技術計算入門",
+      "url": "https://www.udemy.com/course/python-numerical-methods/"
+    },
+    {
+      "title": "Visión artificial y UI con Python - Actualizado 2025",
+      "url": "https://www.udemy.com/course/master-en-vision-artificial-e-interfaces-graficas-python/"
+    },
+    {
+      "title": "Sıfırdan Temel Algoritma ve Programlama",
+      "url": "https://www.udemy.com/course/algoritmaveprogramlamaegitimi/"
+    },
+    {
+      "title": "Happy Flutter- Membuat Aplikasi Android dan iOS jadi Gampang",
+      "url": "https://www.udemy.com/course/happy-flutter-membuat-aplikasi-android-dan-ios-jadi-gampang/"
+    },
+    {
+      "title": "Python的初学者课程--从零开始到专业人才",
+      "url": "https://www.udemy.com/course/python-o/"
+    },
+    {
+      "title": "Türkçe SAP/ABAP 4 Eğitim Seti",
+      "url": "https://www.udemy.com/course/turkce-sapabap-4-egitim-seti/"
+    },
+    {
+      "title": "Java for Beginners [ in Arabic ]",
+      "url": "https://www.udemy.com/course/java-for-beginners-in-arabic/"
+    },
+    {
+      "title": "Aprende Java en 15 días",
+      "url": "https://www.udemy.com/course/aprende-java-en-15-dias/"
+    },
+    {
+      "title": "30 Exercices Orientés Objets avec Python",
+      "url": "https://www.udemy.com/course/30-exercices-orientes-objets-avec-python/"
+    },
+    {
+      "title": "Meistere die asynchrone Programmierung mit .NET und C#",
+      "url": "https://www.udemy.com/course/meistere-die-asynchrone-programmierung-mit-net-und-csharp/"
+    },
+    {
+      "title": "Curso Java Completo e Atualizado do Iniciante ao Avançado",
+      "url": "https://www.udemy.com/course/curso-java-completo-e-atualizado-do-iniciante-ao-avancado/"
+    },
+    {
+      "title": "Sıfırdan Yazılımcı Olma Kursu | 140+ Soru | Bolca Test",
+      "url": "https://www.udemy.com/course/sifirdan-yazilimci-ol/"
+    },
+    {
+      "title": "C# ve DevExpress ile Gelişmiş Ön Muhasebe Yazılımı (Bölüm-2)",
+      "url": "https://www.udemy.com/course/c-ve-devexpress-ile-gelismis-on-muhasebe-bolum-2/"
+    },
+    {
+      "title": "WebServices SOAP com Spring Boot, JPA",
+      "url": "https://www.udemy.com/course/webservices-soap-com-spring-boot-jpa/"
+    },
+    {
+      "title": "Família Logix - Rockwell - (Ladder, Texto, Bloco e SFC)",
+      "url": "https://www.udemy.com/course/familia-logix-rockwell-ladder-texto-broco-e-sfc/"
+    },
+    {
+      "title": "JAVA para Principiantes - Aprende a Programar en JAVA ahora",
+      "url": "https://www.udemy.com/course/java-introduccion-conceptos-y-ejemplos-desde-cero/"
+    },
+    {
+      "title": "Curso de programação com Perl para Bioinformática",
+      "url": "https://www.udemy.com/course/programacao_em_perl/"
+    },
+    {
+      "title": "Aprende Go: La guía completa para dominar Golang desde cero",
+      "url": "https://www.udemy.com/course/cursodego-golang/"
+    },
+    {
+      "title": "【0から始めるPytest超基礎講座】Pythonのプログラムを効率的にテスト",
+      "url": "https://www.udemy.com/course/python_pytest/"
+    },
+    {
+      "title": "SIFIRDAN YAZILIM TEMELLERİNİ ÖĞRENMEK",
+      "url": "https://www.udemy.com/course/sifirdan-yazilim-temellerini-ogrenmek/"
+    },
+    {
+      "title": "Java для начинающих. Level 2",
+      "url": "https://www.udemy.com/course/java2-dmdev/"
+    },
+    {
+      "title": "【한글자막】 Pandas 완전 정복 부트캠프 : Python Data Science",
+      "url": "https://www.udemy.com/course/pandas-2022/"
+    },
+    {
+      "title": "Curso Básico de Linguagem Rust",
+      "url": "https://www.udemy.com/course/curso-basico-de-linguagem-rust/"
+    },
+    {
+      "title": "Como Programar em Lazarus (Criando Sistema Empresarial)",
+      "url": "https://www.udemy.com/course/programaremlazarus/"
+    },
+    {
+      "title": "Dart lang do básico ao avançado + Api Rest!",
+      "url": "https://www.udemy.com/course/dart-lang-basico-avancado-api-rest/"
+    },
+    {
+      "title": "A-Z™|Web Servisleri Eğitim Videosu Serisi|Web Api, Wcf|2019",
+      "url": "https://www.udemy.com/course/web-servisleri-egitim-videosu-serisi/"
+    },
+    {
+      "title": "Oracle Database, SQL, PL/SQL, Forms&Reports Builder 6i",
+      "url": "https://www.udemy.com/course/oracle-urunleriyle-uygulama-gelistirmek-icin-tum-ihtiyaclar/"
+    },
+    {
+      "title": "Siemens S7 1200 PLC Eğitim Haberleşme-Scada-Servo-VFD-PID",
+      "url": "https://www.udemy.com/course/siemens-s7-1200-egitim-haberlesme-scada-servo-vfd-pid/"
+    },
+    {
+      "title": "Programação em Microsoft C# do básico ao avançado",
+      "url": "https://www.udemy.com/course/curso-de-programacao-em-c-do-basico-ao-avancado/"
+    },
+    {
+      "title": "Curso de PHP 8 - A Linguagem",
+      "url": "https://www.udemy.com/course/curso-php-8-online/"
+    },
+    {
+      "title": "Maîtrisez JavaScript de ES6 à ES9 : cours + 28 exercices !",
+      "url": "https://www.udemy.com/course/maitrisez-javascript-de-es6-a-es9-cours-28-exercices/"
+    },
+    {
+      "title": "BlazorでのWebアプリケーション開発手法１【C#】",
+      "url": "https://www.udemy.com/course/blazor01/"
+    },
+    {
+      "title": "現役アーキテクトが教える『Java Basic編』JavaSEを完全網羅／基礎から実務まで／プロのエンジニアを目指す方へ",
+      "url": "https://www.udemy.com/course/learn-java-se-basic/"
+    },
+    {
+      "title": "Основы программирования на Python 3",
+      "url": "https://www.udemy.com/course/python3-ru/"
+    },
+    {
+      "title": "Python Programlama ve A'dan Z'ye Makine Öğrenmesi",
+      "url": "https://www.udemy.com/course/python-ile-programlama-ve-yapay-zekaya-giris/"
+    },
+    {
+      "title": "Impariamo da Zero il linguaggio T-SQL del Sql Server",
+      "url": "https://www.udemy.com/course/impariamo-da-zero-il-linguaggio-t-sql-del-sql-server/"
+    },
+    {
+      "title": "Desenvolvendo uma aplicação GUI com Python e Tkinter",
+      "url": "https://www.udemy.com/course/python-tkinter/"
+    },
+    {
+      "title": "PySparkによる大規模データ処理手法と機械学習",
+      "url": "https://www.udemy.com/course/pyspark-ml/"
+    },
+    {
+      "title": "ฝึก เขียนโปรแกรม ด้วย Python จาก เริ่มต้น ไปเป็น มือโปร",
+      "url": "https://www.udemy.com/course/python-developer-programming-bootcamp/"
+    },
+    {
+      "title": "給 C# 開發人員的第一堂 .NET Core 入門課",
+      "url": "https://www.udemy.com/course/netcore2/"
+    },
+    {
+      "title": "Programming with Scratch | تعلم البرمجة للأطفال و المبتدئين",
+      "url": "https://www.udemy.com/course/start-programing-code-with-scratch/"
+    },
+    {
+      "title": "Kurs programowania - Python od podstaw",
+      "url": "https://www.udemy.com/course/kurs-programowania-python-od-podstaw/"
+    },
+    {
+      "title": "Spring Boot开发一个小而美的个人博客",
+      "url": "https://www.udemy.com/course/spring-boot/"
+    },
+    {
+      "title": "L'Essentiel de Java : Maîtrise et Innovation de Java 8 à 17",
+      "url": "https://www.udemy.com/course/java-8-reussir-votre-prochain-entretien-technique-2020/"
+    },
+    {
+      "title": "Python 3: Programación Orientada a Objetos creando juegos",
+      "url": "https://www.udemy.com/course/programacion-orientada-a-objetos-haciendo-juegos-con-python/"
+    },
+    {
+      "title": "Python 알고리즘 입문: 다양한 알고리즘 이론 및 문제 해결 방법을 학습",
+      "url": "https://www.udemy.com/course/python-ye/"
+    },
+    {
+      "title": "Lógica de programación - Aprende a programar",
+      "url": "https://www.udemy.com/course/logica-de-programacion-aprende-a-programar/"
+    },
+    {
+      "title": "GOLANG NINJA - Разработка Веб-Приложений на Go",
+      "url": "https://www.udemy.com/course/golang-ninja/"
+    },
+    {
+      "title": "Notas Fiscais 4.0 com Delphi - NFE - NFCE e NFSE",
+      "url": "https://www.udemy.com/course/notas-fiscais-40-com-delphi-nfe-nfce-e-nfse/"
+    },
+    {
+      "title": "اساسيات البرمجة لكلية حاسبات ومعلومات C++",
+      "url": "https://www.udemy.com/course/best-course-for-cs-beginners/"
+    },
+    {
+      "title": "LabVIEW & Arduino",
+      "url": "https://www.udemy.com/course/labview-arduino/"
+    },
+    {
+      "title": "Curso de Python: Domínalo de una forma práctica y dinámica",
+      "url": "https://www.udemy.com/course/curso-de-python-de-forma-practica/"
+    },
+    {
+      "title": "Javascript Curso completo aprenda do zero ao avançado",
+      "url": "https://www.udemy.com/course/curso-javascript/"
+    },
+    {
+      "title": "learn c++ language in arabic",
+      "url": "https://www.udemy.com/course/learn-c-language-in-arabic/"
+    },
+    {
+      "title": "Aprende a programar y crea tus programas desde cero",
+      "url": "https://www.udemy.com/course/aprende-a-programar-y-crea-tus-programas-desde-cero/"
+    },
+    {
+      "title": "Curso de C# desde Cero: Aprende Programación con Ejemplos",
+      "url": "https://www.udemy.com/course/aprende-c-desde-0-primeros-pasos-con-este-lenguaje/"
+    },
+    {
+      "title": "Reconhecimento de Gestos e Ações com Python e OpenCV",
+      "url": "https://www.udemy.com/course/reconhecimento-gestos-acoes-python-opencv/"
+    },
+    {
+      "title": "TypeScript dla początkujących",
+      "url": "https://www.udemy.com/course/kurs-typescript-dla-poczatkujacych/"
+    },
+    {
+      "title": "C Programlama : Sıfırdan İleri Seviye Uygulamalı C Dersleri",
+      "url": "https://www.udemy.com/course/c-programlama-egitimi/"
+    },
+    {
+      "title": "ABAP para Funcionais SAP do Zero ao Avançado",
+      "url": "https://www.udemy.com/course/abap-para-consultores-sap/"
+    },
+    {
+      "title": "OpenCV ile Görüntü İşleme C++",
+      "url": "https://www.udemy.com/course/sfrdan-ileri-seviye-opencvc-ile-goruntu-isleme/"
+    },
+    {
+      "title": "Guía rápida de lombok en español",
+      "url": "https://www.udemy.com/course/project-lombok/"
+    },
+    {
+      "title": "Introducción a la programación orientada a objetos con PHP",
+      "url": "https://www.udemy.com/course/programacion-orientada-a-objetos-con-php-sin-dolor/"
+    },
+    {
+      "title": "Scala for Java Developers (in Russian)",
+      "url": "https://www.udemy.com/course/scala-for-java-developers-ru/"
+    },
+    {
+      "title": "Fundamentos del lenguaje RPG Full Free y SDA",
+      "url": "https://www.udemy.com/course/fundamentos-del-lenguaje-rpg-full-free-y-sda/"
+    },
+    {
+      "title": "Visão Computacional com Python - Crie 10 Projetos Incríveis",
+      "url": "https://www.udemy.com/course/visao-computacional-com-python/"
+    },
+    {
+      "title": "Java para Iniciantes ao Intermediário",
+      "url": "https://www.udemy.com/course/curso-de-programacao-java-para-iniciantes-ao-intermediario/"
+    },
+    {
+      "title": "Aprenda a programar em Lua do zero",
+      "url": "https://www.udemy.com/course/programar-lua-do-zero/"
+    },
+    {
+      "title": "REST API's RESTFul do 0 à AWS c. Spring Boot Kotlin e Docker",
+      "url": "https://www.udemy.com/course/restful-apis-do-0-a-aws-com-spring-boot-3-kotlin-e-docker/"
+    },
+    {
+      "title": "Kotlin from Zero to Hero - Bahasa Indonesia",
+      "url": "https://www.udemy.com/course/kotlin-from-zero-to-hero-bahasa-indonesia/"
+    },
+    {
+      "title": "Criando relatórios com ADVPL",
+      "url": "https://www.udemy.com/course/criando-relatorios-com-advpl/"
+    },
+    {
+      "title": "Curso de Linguagem C iniciante",
+      "url": "https://www.udemy.com/course/curso-de-linguagem-c-iniciante/"
+    },
+    {
+      "title": "Linguagem R para Iniciantes",
+      "url": "https://www.udemy.com/course/linguagem-r-para-iniciantes/"
+    },
+    {
+      "title": "Curso de Programação C# Completo",
+      "url": "https://www.udemy.com/course/curso-de-programacao-c-sharp-completo/"
+    },
+    {
+      "title": "Curso Java Spring Boot: Começando a trabalhar em uma empresa",
+      "url": "https://www.udemy.com/course/curso-java-comecando-a-trabalhar-em-uma-empresa/"
+    },
+    {
+      "title": "أساسيات البرمجة بلغة جافا",
+      "url": "https://www.udemy.com/course/java-arabic/"
+    },
+    {
+      "title": "Python 3 : Programación Orientada a Objetos",
+      "url": "https://www.udemy.com/course/python3-programacion-orientada-a-objetos/"
+    },
+    {
+      "title": "Maîtrisez le PHP en 30 exercices pratiques et 3 difficultés",
+      "url": "https://www.udemy.com/course/maitrisez-le-php-en-30-exercices-pratiques-et-3-difficultes/"
+    },
+    {
+      "title": "Odoo ERP para Desenvolvedores",
+      "url": "https://www.udemy.com/course/odoo-erp-para-devs-completo/"
+    },
+    {
+      "title": "Iniciando no desenvolvimento de API Node.js com Typescript",
+      "url": "https://www.udemy.com/course/primeiros-passos-nodejs-typescript/"
+    },
+    {
+      "title": "Bazele Programării în C++",
+      "url": "https://www.udemy.com/course/bazele-programarii/"
+    },
+    {
+      "title": "Robótica : Programación de Robots con ROS",
+      "url": "https://www.udemy.com/course/ros-robot-operating-system-para-el-impaciente/"
+    },
+    {
+      "title": "MÁSTER en Penetration Testing y Ethical Hacking con Python 3",
+      "url": "https://www.udemy.com/course/hacking-python-3/"
+    },
+    {
+      "title": "Impara a sviluppare in C#",
+      "url": "https://www.udemy.com/course/impara-a-sviluppare-in-csharp/"
+    },
+    {
+      "title": "Começando a Programar em C++",
+      "url": "https://www.udemy.com/course/curso-cplusplus/"
+    },
+    {
+      "title": "デザインパターン２：Adapter,Singleton,Observer【C#】",
+      "url": "https://www.udemy.com/course/design02/"
+    },
+    {
+      "title": "Sıfırdan İleri Seviye Ruby Programlama Dili",
+      "url": "https://www.udemy.com/course/sifirdan-ileri-seviye-ruby-programlama-dili/"
+    },
+    {
+      "title": "Robo de marketing do whatsapp com inteligencia do chatgpt.",
+      "url": "https://www.udemy.com/course/robo-marketing-whatsapp-inteligencia-artificial-chatgpt-openai/"
+    },
+    {
+      "title": "Sıfırdan C# Öğrenin",
+      "url": "https://www.udemy.com/course/sifirdan-csharp-ogrenin/"
+    },
+    {
+      "title": "Java: Programação Orientada a Objetos com Java e Eclipse",
+      "url": "https://www.udemy.com/course/programacao-orientada-a-objetos-com-java-e-eclipse/"
+    },
+    {
+      "title": "C 언매니지드 프로그래밍",
+      "url": "https://www.udemy.com/course/c-unmanaged-programming-by-pocu/"
+    },
+    {
+      "title": "Máster en Typescript: Desde Cero a Nivel Profesional",
+      "url": "https://www.udemy.com/course/master-typescript-de-cero/"
+    },
+    {
+      "title": "JavaScript: Algoritmos + Estruturas de Dados",
+      "url": "https://www.udemy.com/course/javascript-algoritmos-e-estruturas-de-dados/"
+    },
+    {
+      "title": "Curso Python 3 Avançado",
+      "url": "https://www.udemy.com/course/python-expert/"
+    },
+    {
+      "title": "Javascript voor beginners - in 2 uur leren programmeren",
+      "url": "https://www.udemy.com/course/javascript-voor-beginners-in-2-uur-leren-programmeren/"
+    },
+    {
+      "title": "Comece a Programar: Aprenda Java do Zero",
+      "url": "https://www.udemy.com/course/comece-a-programar-aprenda-java-do-zero/"
+    },
+    {
+      "title": "【Python・初級者向け】ビジネスの現場で「すぐに使える」データ分析手法をわかりやすく解説",
+      "url": "https://www.udemy.com/course/python-analysis/"
+    },
+    {
+      "title": "Data Analisi con Pandas",
+      "url": "https://www.udemy.com/course/data-analisi-con-pandas-2020/"
+    },
+    {
+      "title": "Geospatial AI: Deep Learning for Satellite Imagery",
+      "url": "https://www.udemy.com/course/geospatial-ai-deep-learning/"
+    },
+    {
+      "title": "Herkes İçin Python Programlama",
+      "url": "https://www.udemy.com/course/herkes-icin-python-programlama/"
+    },
+    {
+      "title": "從零開始學 Kotlin 程式設計 - 零基礎開發 Android APP 應用程式",
+      "url": "https://www.udemy.com/course/hkt-kotlin-basic/"
+    },
+    {
+      "title": "Le C par la pratique : plus de 100 exercices corrigés",
+      "url": "https://www.udemy.com/course/programmation-c-100-exercices-corriges/"
+    },
+    {
+      "title": "Aprende de cero MongoDB - MongoDB Atlas - MongoDB Compass",
+      "url": "https://www.udemy.com/course/aprende-de-cero-mongodb-mongodb-atlas-mongodb-compass/"
+    }
+  ]
+}

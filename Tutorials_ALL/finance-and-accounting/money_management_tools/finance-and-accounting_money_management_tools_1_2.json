@@ -1,0 +1,528 @@
+{
+  "courses": [
+    {
+      "title": "Be 100% GST Compliant With Microsoft Dynamics NAV",
+      "url": "https://www.udemy.com/course/be-fully-gst-compliant-with-microsoft-dynamics-nav-india/",
+      "bio": "Configure Goods & Services Tax (GST) In Microsoft Dynamics NAV And Be 100% Compliant With GST Power Compliance Dashboard",
+      "objectives": [],
+      "course_content": {
+        "Introduction To Indian GST (Goods & Services Tax)": [
+          "Course Overview",
+          "An Introduction To GST (Goods & Services Tax)",
+          "Learn About Different Components Of GST"
+        ],
+        "Case Study For Examples": [
+          "Case Study (Scenario)",
+          "Supported Microsoft Dynamics NAV Versions",
+          "What To Do If GST Is Not Supported In Your NAV Version"
+        ],
+        "Configure & Setup GST In Microsoft Dynamics NAV": [
+          "Scenario For GST Configuration (Attached Excel)",
+          "GST Accounting Period Setup",
+          "GST States Setup",
+          "GST Component Setup",
+          "GST Group Setup",
+          "GST Posting Setup",
+          "GST Configuration Setup",
+          "GST Setup",
+          "GST Registration Nos Setup",
+          "HSN/SAC Codes Setup For GST Groups"
+        ],
+        "Masters Overview & GST Related Setup": [
+          "Module Overview",
+          "Customer Master GST Setup",
+          "Vendor Master GST Setup",
+          "Item Master GST Setup",
+          "Location Master GST Setup",
+          "Company Information Update",
+          "GST Structure Creation",
+          "Module Review"
+        ],
+        "Run Order To Cash (OTC) With GST In Dynamics NAV": [
+          "Sales Transactions Scenario (Attached Excel)",
+          "Sales Order Processing & Invoicing",
+          "Navigate Posted Sales Invoice To See The GST Impact",
+          "Sales Order Processing (Inter-State)",
+          "Collect Payment Against The Posted Sales Invoice",
+          "Create & Post A Sales Credit Memo (Against The Posted Invoice)",
+          "Module Review"
+        ],
+        "Run Procure To Pay (PTP) With GST In Dynamics NAV": [
+          "Purchase Transactions Scenario (Attached Excel)",
+          "Purchase Order Processing & Invoicing",
+          "Navigate Posted Purchase Invoice To See The GST Impact",
+          "Make Payment Against The Posted Purchase Invoice",
+          "Create & Post A Purchase Credit Memo (Against The Posted Invoice)",
+          "Module Review"
+        ],
+        "Inventory Movement (Intrastate & Interstate) With GST In Dynamics NAV": [
+          "Transfer Order GST Scenario (Attached Excel)",
+          "Create Transfer Order & Ship It",
+          "Receive The Shipped Transfer Order",
+          "Navigate The Posted Transfer Order To See The GST Impact",
+          "Transfer Order - Intrastate",
+          "Module Review"
+        ],
+        "Generate GSTR1 & GSTR2 Reports": [
+          "Learn About GSTR1",
+          "Learn About GSTR2"
+        ],
+        "GST Power Dashboard (Extremely Important)": [
+          "Why GST Power Dashboard?",
+          "How To Use GST Power Dashboard",
+          "Get Notified & Be 100% GST Compliant"
+        ],
+        "Return Filing Data & Suvidha Provider": [
+          "Important Data For Return Filing",
+          "You Need A Suvidha Provider"
+        ]
+      },
+      "requirements": [
+        "Businesses Running Microsoft Dynamics NAV ERP Solution",
+        "Businesses Running In India Only",
+        "Microsoft Dynamics NAV Taxation Knowledge (Recommended)"
+      ],
+      "description": "Goods & Services Tax (GST) has changed the way how we Indians pay Taxes and it's a must have knowledge for every business owner to be GST Compliant!\nSo, let me ask you a question.\nAre You a Business Owner running Microsoft Dynamics NAV for managing your Business?\nAnd are you looking the easy way to get 100% Compliance with GST (Goods & Services Tax)?\nIf you have answered YES, then I invite you to attend this course where you will learn basics of GST (enough to talk the GST Language), how to implement GST in Dynamics NAV and finally how to achieve 100% Compliance every month with GST Power Dashboard!\nIn this self-paced course, you will learn:\nThe Basics of GST (Goods & Services Tax)\nLearn about different components of GST\nCase Study / Scenario to help you understand GST better\nConfigure & Setup GST in Microsoft Dynamics NAV (supported versions)\nConfigure NAV Masters with GST Related Setup\nRun Order To Cash (OTC) with GST inside Microsoft Dynamics NAV\nRun Procure To Pay (PTP) with GST inside Microsoft Dynamics NAV\nRun Inventory Transactions with GST inside Microsoft Dynamics NAV\nGenerate The Reports (GSTR1 & GSTR2)\nUse the GST Power Dashboard to be 100% Compliant so you don't miss any Deadline\nInformation required to file your returns (highly recommended Suvidha Provider)\nRequest Your GST Power Dashboard\nIf you are using Dynamics NAV for your business, then it's a MUST HAVE training course where you will learn all the insights about GST and we have also recommended the best solutions for you to be 100% GST compliant every month.\nSo, don't waste any time, and just sign up for the course!\nTo Your Success,\nAbhay Sharma (Co-Founder 3E Consulting Pvt. Ltd.)\n* - this course is not endorsed by and not associated with Govt. of India. Every effort has been made to accurately represent the information in this course. However, we cannot guarantee your results as there are a lot of factors dependent on an individual nor are we responsible for any of your actions.",
+      "target_audience": [
+        "CFO, CEO & Accountants",
+        "Businesses Implemented Microsoft Dynamics NAV",
+        "Microsoft Dynamics NAV Consultants Implementing GST For Businesses"
+      ]
+    },
+    {
+      "title": "QuickBooks Online vs. Excel",
+      "url": "https://www.udemy.com/course/quickbooks-online-vs-excel/",
+      "bio": "Navigate & Compare QuickBooks Online and Excel: Learn the Ins & Outs of Accounting Cycles and Transactions",
+      "objectives": [
+        "Enter normal business transactions in QuickBooks",
+        "Enter normal business transactions in Excel using debits and credits",
+        "Reconcile bank accounts in QuickBooks",
+        "Reconcile bank accounts in Excel",
+        "Generate Reports in QuickBooks",
+        "Make Reports in Excel",
+        "Analyze Reports"
+      ],
+      "course_content": {
+        "2023- Getting Started": [
+          "1005 How to Access the Software",
+          "1011 QuickBooks Online vs QuickBooks Desktop",
+          "1013 Increase Screen Size, Duplicate Tabs, & Open Multiple Browsers",
+          "1015 Navigation Overview",
+          "1017 Bank Feeds & Your Accounting System",
+          "1080 Accounting Process & Forms Overview"
+        ],
+        "Excel - Setup Worksheet": [
+          "1025 Create Accounting Worksheet Part 1",
+          "1028 Create Accounting Worksheet Part 2",
+          "1031 Create Accounting Worksheet Part 3",
+          "1034 Create Accounting Worksheet Part 4",
+          "1037 Create Accounting Worksheet Part 5",
+          "1040 Create Accounting Worksheet Part 6",
+          "1043 Create Accounting Worksheet Part 7",
+          "1046 Create Accounting Worksheet Part 8",
+          "1049 Create Accounting Worksheet Part 9",
+          "1052 Create Accounting Worksheet Part 10",
+          "1055 Create Accounting Worksheet Part 11"
+        ],
+        "Vendor, Accounts Payable, Expenses, or Purchases Cycle 2023": [
+          "1140 Vendor, Expense, Purchases, Pay, or AP Cycle",
+          "1160 Vendor Expense, Purchases, or Pay Center",
+          "1180 Bills Form",
+          "1200 Pay Bills Form",
+          "1220 Purchase Order Form - P.O.",
+          "1240 Manage Sales Tax Form",
+          "1260 Check & Expense Form",
+          "1280 Void Check Prior Period Adjustment"
+        ],
+        "Excel-Vendor Cycle, Purchases Cycle, or Accounts Payable Cycle Transactions": [
+          "1180 Bill Form",
+          "1200 Pay Bills Form Check",
+          "1260 Check Form",
+          "1280 Void Check Prior Period Adjustment"
+        ],
+        "Customer Cycle , Sales Cycle, or Accounts Receivable Cycle 2023": [
+          "1300 Customer, Accounts Receivable, or Revenue Cycle",
+          "1320 Customer, Accounts Receivable, or Sales Center",
+          "1340 Invoice Form",
+          "1360 Receive Payment Form",
+          "1380 Deposit Form",
+          "1400 Sales Receipts Form",
+          "1405 Barter Sale Transaction",
+          "1420 Credit Memo Bad Debt Sales Returns",
+          "1422 Refund Receipt Form",
+          "1425 Delayed Credit",
+          "1427 Estimate"
+        ],
+        "Excel-Customer Cycle, Sales Cycle, or Accounts Receivable Cycle Transactions": [
+          "1340 Invoice Form",
+          "1360 Receive Payment Form",
+          "1380 Deposit Form",
+          "1400 Sales Receipts Form",
+          "1420 Credit Memo Refund Form & Bad Debt Expense Service Item",
+          "1488 Credit Memo with Inventory"
+        ],
+        "Other Important Forms & Functions, Shortcuts, & Employee Cycle 2023": [
+          "1440 Other Forms",
+          "1442 Transfer Form",
+          "1444 Journal Entry",
+          "1446 Statement Form",
+          "1448 Inventory Qty Adjustment",
+          "1450 Pay Down Credit Card Form",
+          "1460 Keyboard Shortcuts",
+          "1480 Employee Section Payroll Process"
+        ],
+        "Excel-Employee Cycle - Payroll Cycle Transactions": [
+          "1520 Pay Employees Form",
+          "1522 Pay Employees Form Part 2"
+        ],
+        "Lists-Chart of Accounts & Products & Services Lists": [
+          "1560 Lists",
+          "1580 Chart of Accounts",
+          "1600 Products & Services List - Item List"
+        ],
+        "Help/Support & Reports Overview": [
+          "1620 Help & Support Options",
+          "1640 Reports Overview"
+        ]
+      },
+      "requirements": [
+        "QuickBooks and Excel software would be best."
+      ],
+      "description": "Welcome to our QuickBooks Online course, a comprehensive and in-depth journey into the mechanics of QuickBooks Online Accounting Software and Excel. This course is designed to grant you a unique 'under-the-hood' perspective of accounting software and processes, utilizing Excel's transparent data input as a comparative tool.\nThe first phase of our course delves deeply into QuickBooks Online, a leading accounting software solution. Here, we will guide you through the intricacies of the software, deciphering its interface and extensive functionality. This involves a thorough analysis of common data input forms within various accounting cycles - the sales cycle, the expense cycle, and the payroll cycle. By drawing comparisons with Excel, our aim is to give you an intuitive understanding of these cycles, their interrelationships within the accounting environment, and how they mirror manual data input in Excel's journal entry format.\nAs we venture into the second half of the course, our emphasis shifts to practical applications. This segment is structured around a comprehensive problem, wherein we simulate two months of data input in QuickBooks Online, mirroring each transaction in an Excel accounting worksheet. This experiential learning method offers a hands-on experience of the nuances of accounting processes. You will delve into transaction entries, adjustments, and closing entries in both QuickBooks Online and Excel, in addition to performing bank reconciliations - a critical task for any accountant.\nBy the end of this course, you'll be well-versed in the operational aspects of QuickBooks Online Accounting Software and understand how it compares against manual data input processes in Excel. More importantly, you will possess the skills to use both platforms effectively for diverse accounting tasks, positioning you strongly for handling real-world accounting scenarios.\nThis course goes beyond imparting knowledge; it is about gaining hands-on experience, understanding the rationale behind the processes, and empowering you to maximize the potential of these powerful accounting tools.\nIf you're ready to delve into the world of accounting software, unravel the complexities of transactions, and explore the intricacies of QuickBooks Online and Excel, this course is just a click away. Embark on your journey towards mastering the contemporary accounting landscape today!",
+      "target_audience": [
+        "Business Owners",
+        "Accounting Professionals",
+        "Accounting Students",
+        "Anybody who wants to learn accounting software",
+        "Anybody who wants to learn accounting theory",
+        "Anybody who wants to learn Excel basics"
+      ]
+    },
+    {
+      "title": "Xero - Mastering Purchases in Xero",
+      "url": "https://www.udemy.com/course/mastering-purchases-in-xero/",
+      "bio": "The COMPLETE GUIDE to entering your PURCHASES in XERO - efficiently and accurately.",
+      "objectives": [
+        "How to enter your Purchase Invoices in Xero",
+        "How to deal with Purchases that are not straight-forward",
+        "Understand the difference between Purchase invoices and Receipts",
+        "Reconciling bank transactions related to your Purchases",
+        "Tips and tricks - how to save time and reduce mistakes",
+        "Reporting in Xero related to your Purchases",
+        "How to create and send Purchase Orders",
+        "Managing your cash flow with Batch Payments to your Suppliers",
+        "How to enter Supplier Opening Balances when switching to Xero"
+      ],
+      "course_content": {
+        "Introduction": [
+          "Introduction"
+        ],
+        "Entering your Purchase Invoices": [
+          "Introduction to Entering your Purchase Invoices",
+          "What is a Purchase Invoice?",
+          "Entering a Purchase Invoice",
+          "Entering a Purchase Invoice - to multiple codes",
+          "Amending a Purchase Invoice",
+          "Amending a Paid Purchase Invoice",
+          "Copying a Purchase Invoice",
+          "Entering a Credit Note",
+          "Deleting a Purchase Invoice",
+          "Purchase Invoices and VAT"
+        ],
+        "Paying your Purchase Invoices": [
+          "Introduction to Paying your Purchase Invoices",
+          "The Bank Reconciliation",
+          "Reconciling payment of a Purchase Invoice",
+          "Reconciling payment of more than one Purchase Invoice",
+          "Reconciling part-payment of a Purchase Invoice",
+          "Reconciling an advance payment to a Supplier",
+          "Reconciling a payment where a Credit Note has been deducted",
+          "Entering a Purchase Invoice payment manually",
+          "Emailing a Remittance Advice to a Supplier",
+          "Reconciling a payment that is not for a Purchase Invoice"
+        ],
+        "Smart Stuff!": [
+          "Introduction to Smart Stuff",
+          "Entering a Due Date",
+          "Supplier Defaults",
+          "Emailing Purchase Invoices to Xero Files",
+          "Entering a Purchase Invoice from Xero Files",
+          "Repeating Purchase Invoices - Part 1",
+          "Repeating Purchase Invoices - Part 2"
+        ],
+        "Reporting": [
+          "Introduction to Reporting",
+          "Aged Payables Report",
+          "Supplier Invoice Details Report",
+          "Payable Invoice Details Report"
+        ],
+        "Purchase Orders": [
+          "Introduction to Purchase Orders",
+          "Creating a Purchase Order",
+          "Amending a Purchase Order",
+          "Emailing a Purchase Order to your Supplier",
+          "Copying a Purchase Order",
+          "Converting a Purchase Order to a Purchase Invoice",
+          "Email Template for Purchase Orders"
+        ],
+        "Batch Payment of Purchase Invoices": [
+          "Introduction to Batch Payments",
+          "Managing your Supplier Payments",
+          "Creating a Supplier Batch Payment",
+          "Emailing Batch Payment Remittance Advices",
+          "Reconciling a Supplier Batch Payment",
+          "Entering Supplier Bank Account Details"
+        ],
+        "Opening Balances": [
+          "Introduction to Opening Balances",
+          "Conversion Balances",
+          "Entering Supplier Opening Balances - individually",
+          "Entering Supplier Opening Balances - in bulk"
+        ],
+        "And Finally ...": [
+          "Congratulations and Thank You",
+          "Course Information",
+          "Bonus Lecture: What Next?"
+        ]
+      },
+      "requirements": [
+        "A basic knowledge of using accounting software to record purchases is expected.",
+        "Your own Xero account ( a free 30-day trial is OK)"
+      ],
+      "description": "*THE COURSE HAS BEEN UPDATED TO REFLECT THE NEW XERO NAVIGATION INTRODUCED AT THE END OF NOVEMBER 2018*\n\n\nAre you an accountant, bookkeeper or aspiring bookkeeper who wants to earn a decent living from Xero?\nAre you a regular Xero user, but feel that you could get much more out of the software?\nDo you want to save time, avoid mistakes and improve your cashflow by really getting to grips with Xero?\nIf you answered \"yes\" to any of the above then this course has been created specifically for you.\nIn this \"Mastering Purchases in Xero' course I will teach you everything you need to know about purchases in Xero.\nI will show you step-by-step how to enter simple transactions, deal with tricky transactions and run reports.  We will then cover in detail Purchase Orders, Batch Payments and finally Opening Balances.\nThe course is geared for beginners, so although basic accounting knowledge would help it's not essential.\nRegardless of your level of expertise in Xero, you will learn new skills that you will be able to use on a daily basis.\nI look forward to sharing my Xero knowledge with you, so let's get started!",
+      "target_audience": [
+        "Bookkeepers, aspiring bookkeepers and Xero users who want to master everything related to Purchases in Xero"
+      ]
+    },
+    {
+      "title": "Beginning Budgeting for Debt Free & Storehouse Ready Living",
+      "url": "https://www.udemy.com/course/beginning-budgeting-for-debt-free-storehouse-ready-living/",
+      "bio": "The First Steps to Personal Finance Management",
+      "objectives": [
+        "How to take control of your household finances, reduce expenses, and return your income back to you through monthly budgeting.",
+        "You will receive the FREE Monthly Budget Tracker Form, a simple one-page form to record your income and expenses and to schedule payment of all your bills.",
+        "You will begin to start your Emergency Fund Savings (Storehouse Ready Living) to prepare for life's events, for example, loss of job",
+        "You will receive FREE Budgeting templates to begin managing your household budget immediately"
+      ],
+      "course_content": {
+        "Introduction to Being Debt Free and Storehouse Ready Living": [
+          "Moving from Living on the Edge to Storehouse Ready Living",
+          "The Cost of Being Unprepared for a Life's Event"
+        ],
+        "Creation of an Effective Household Budget": [
+          "Budgeting Step 1: Show Me My Debt Using A Debt-Listing Tool",
+          "Budgeting Step 2: Identifying Annual Expenses",
+          "Budgeting Step 3: Vacation Planning Without Swiping The Credit Card",
+          "Budgeting Step 4: Preparing Your Monthly Household Budget Without the Heartache",
+          "Budgeting Step 5: Expense Reduction Checklist to Increase Household Income"
+        ],
+        "Building Your Emergency Savings Fund": [
+          "Segment 8: Building Your Emergency Fund on Your Current Income"
+        ],
+        "How to Build Your Credit With No Credit and Protect It": [
+          "Segment 9: Bonus Video: How to Build Your Credit With No Credit and Protect It"
+        ]
+      },
+      "requirements": [
+        "Adobe Reader software to open PDF files."
+      ],
+      "description": "Do you have a tight budget and managing personal finances is overwhelming, confusing, and just too much?\nHi, I’m Elaine Bean, and guess what? In these uncertain times, I must deal with personal finances too!\nTen years ago, I was drowning in debt and no company would lend me money or give me credit and living paycheck to paycheck was my story\nToday, I’m happy to report that household expenses are minimal, and savings is growing!  Such a great feeling\nMy course will empower you to begin your personal finance management journey.   Here are the benefits:\nCreate a simple household budget that will enable you to successfully manage your household income and expenses; typical household expenses categories are already printed on the template\nReceive FREE ready-made budget tools to begin your financial journey immediately or obtain the \"Storehouse Ready Preparing for Life's Events\" Workbook with all the printed budget tools\nLearn strategies to reduce your household expenses to build your rainy day or emergency fund; the course will help you stay on track with your savings plan\nIf a parent, gain financial education knowledge to teach your high school student(s) or young adult(s) in life skills pertaining to money management\nReceive tips to increasing your Credit Score and how to avoid credit pitfalls",
+      "target_audience": [
+        "Any adult responsible for a household budget, including beginner wage earners.",
+        "Any adult who needs help or has not been successful in building their emergency fund.",
+        "Any adult who has extreme debit - credit card(s), car loan(s), student loan(s), personal loans, etc.",
+        "High school students who need life skills education"
+      ]
+    },
+    {
+      "already_crawled_in": "office-productivity/Other Office Productivity",
+      "url": "https://www.udemy.com/course/learn-quickbooks-pro-2014-training/"
+    },
+    {
+      "title": "SAP CO Product Costing-\"By Period Scenario\" in S/4 HANA",
+      "url": "https://www.udemy.com/course/sap-co-product-costing-by-period-scenario-in-s4hana-1909/",
+      "bio": "Product Cost Collector without/with Reporting Points & De-Coupling (Mix of PCC & Order) Scenarios in Repetitive Mfg Proc",
+      "objectives": [
+        "SAP CO Product Costing by Period Scenario-Repetitive Manufacturing in S4HANA 1909",
+        "1).Concept of Product Cost Collector :Repetitive Manufacturing Process.",
+        "2).Identifying the materials of which Repetitive Manufacturing process.",
+        "3).Purpose of Product Cost collector in Repetitive Manufacturing.",
+        "4).How to create Product Cost collector in Repetitive Manufacturing.",
+        "5).How to do/book Cost to Product Cost collector-Through Back Flush-MFBF.",
+        "6).Explanation of  the Reporting Points AND use of them.",
+        "7).\"Work in process\" concept between Desecrate and Repetitive Manufacturing Process.",
+        "8). Decoupling Scenario: Mixed of Product Cost Collector and Production Order",
+        "9).Explanation of linking between Product Cost Collector and Production Order",
+        "10).How to cost capture indirectly Product Cost Collector even book to Production Order.",
+        "11). Design Costing Variant,Costing Sheet, Template Allocation for Product Cost Collector,",
+        "12). Month End Closing of Product Cost Collector:"
+      ],
+      "course_content": {
+        "Introduction of \"Product Cost By Period\" Scenarios": [
+          "Introduction of Product Cost By Period Scenarios"
+        ],
+        "1 st Scenario: Product Cost Collector without reporting Points": [
+          "Configuration-Product Cost Collector without reporting Points Scenario",
+          "1 st Scenario: Testing/Training - Product Cost Collector-Part 1",
+          "1 st Scenario: Testing/Training - Product Cost Collector-Part 2"
+        ],
+        "2 nd Scenario: Product Cost Collector with reporting Points": [
+          "Configuration-Product Cost Collector with reporting Points Scenario",
+          "2 nd Scenario: Testing/Training- Product Cost Collector-Part 1",
+          "2nd Scenario: Testing/Training- Product Cost Collector-Part 2"
+        ],
+        "3 rd Scenario: Product Cost Collector with Production Order-Decoupling Scenario": [
+          "Configuration-\"De-Coupling Scenario\"- PCC with Production order",
+          "3 rd Scenario: Testing/Training- Product Cost Collector-Part 1",
+          "3 rd Scenario: Testing/Training- Product Cost Collector-Part 2"
+        ],
+        "Prerequisites of Basic Product Costing (This is an additional)": [
+          "Prerequisites : Basic Product Costing -PART 1",
+          "Prerequisites: Basic Product Costing -PART 2"
+        ]
+      },
+      "requirements": [
+        "Basic Knowledge of Product Costing Flow in SAP",
+        "For Understanding of Product Costing Flow - Please refer my earlier Course \"SAP CO Product Costing-By Order Scenario in S4 HANA 1909\""
+      ],
+      "description": "The topic of Product Costing, especially in the realm of Repetitive Manufacturing in SAP S/4HANA , is extensive. Let's delve into these points:\nDifference between Discrete and Repetitive Manufacturing Process:\nDiscrete Manufacturing: This process is order-specific and often relates to products that are produced in batches or lots. Each batch could potentially be different from the next. Typically, production orders are used here.\nRepetitive Manufacturing: Here, a product is produced continuously, often over long periods and without interruption. In this process, no individual production orders are created; instead, a product cost collector is used.\nIdentifying Materials for Repetitive Manufacturing: Materials suitable for repetitive manufacturing are those that have a consistent production process and are produced continually. The material master will have an indicator set for repetitive manufacturing.\nPurpose of Product Cost Collector in Repetitive Manufacturing: A product cost collector is used to collect costs for a product over a period. It simplifies the process of cost capture in repetitive manufacturing by acting as a receiver for all costs without needing individual production orders.\nCreating Product Cost Collector in Repetitive Manufacturing: The creation can be done via transaction KKF6N. Before creating a PCC, ensure the material master is set for repetitive manufacturing and a production version exists.\nCost Collection/Capture to Product Cost Collector: Costs can be directly posted to the product cost collector. This includes labor costs, material costs, and overheads. The benefit is that individual production order assignment is avoided, streamlining the process.\nExplanation of Reporting Points: Reporting points in repetitive manufacturing allow the capture of production quantities and values at specific points in the production process. They are defined in the routing and enable tracking of costs and quantities at intervals.\n\"Work in Process\" Concept between Discrete and Repetitive Manufacturing Process:\nIn Discrete Manufacturing, WIP is calculated based on the status of each production order at period-end.\nIn Repetitive Manufacturing, WIP is calculated based on reporting points. Costs and quantities are captured at these points, helping determine WIP more effectively.\nDecoupling Scenario: Mix of Product Cost Collector and Production Order: Sometimes, both methods are used in a hybrid fashion, where primary costs are collected on a PCC and specific orders are used for special processes or components.\nLinking between Product Cost Collector and Production Order: Even though PCC replaces the need for production orders in repetitive manufacturing, there are scenarios where a link might be needed, especially in decoupled scenarios. The link ensures costs are rolled up accurately.\nIndirect Cost Capture to Product Cost Collector: Costs can be posted directly to a PCC or indirectly via activities, processes, or even orders. These indirect costs will then be settled to the PCC.\nDesigning Costing Variant, Costing Sheet, Template Allocation for Product Cost Collector: This defines how costs are calculated and allocated. A costing variant contains parameters for cost estimates. The costing sheet determines overhead application, and template allocation helps distribute costs based on specific logic.\nMonth End Closing of Product Cost Collector: At month-end, all costs on the PCC should be settled to a final cost object, typically a material ledger. The settlement process ensures costs are transferred and the PCC is ready for the next period.",
+      "target_audience": [
+        "CPA , CMA , ACCA , CA , MBA , M Com,B Com students and Professionals, SAP FICO Consultants and End Users."
+      ]
+    },
+    {
+      "title": "Personal Finance for High Earners",
+      "url": "https://www.udemy.com/course/personal-finance-for-high-earners/",
+      "bio": "Learn the frameworks and mental models you need to make personal finance decisions",
+      "objectives": [
+        "The fundamentals of personal finance",
+        "Frameworks and mental models to make financial decisions",
+        "Cognitive biases that cause people to act irrationally",
+        "How to build a personal financial model",
+        "The basics of valuation and investing",
+        "The basics of assets, liabilities, and the balance sheet",
+        "How to plan for financial goals with a model",
+        "What actually makes people happy"
+      ],
+      "course_content": {},
+      "requirements": [
+        "No prior knowledge required",
+        "To get the most out of the course, you should follow along in Excel or Google Sheets"
+      ],
+      "description": "Personal finance shouldn't be complicated. This course will introduce you to the fundamentals of personal finance and help you set up the mental models and Excel models to make good decisions for your own financial situation.\n\n\nThe content in this course is tailored towards high earners interested in topics like financial independence and early retirement, rather than a general audience, so instead of \"steps\" or \"methods\" for paying down debt or starting a side business, the course will cover the key mental models and frameworks you need to understand to reach your own financial goals.\n\n\nEach video in this course will start with explaining the basics of a concept like budgeting or investing, dive in to the key equations and frameworks for understanding the concept, and then walk through real-life examples of building a financial plan, choosing a career, or valuing an asset.\n\n\nBy the end of this course, you should have a strong understanding of topics like behavioral economics, financial planning, finance and investing, and feel confident making deliberate and informed decisions about your finances.\n\n\nWe'll cover the following topics in this course:\nBehavioral Economics - How people make predictably irrational decisions\nThe Basics - The two primary equations in personal finance\nPlanning and Budgeting - How to turn those equations into a useful financial model\nWork and Compensation - How to think about choosing a career\nFinance 101 - Discounted cash flows and the basics of valuation\nInvesting 101 - Where finance meets the real world\nBalance Sheet 101 - Understand assets and liabilities to build a picture of your net worth\nFinancial Goals - How to use your financial model to reach your financial goals\nHappiness - Don't put this off until after you've retired",
+      "target_audience": [
+        "People who want to learn frameworks and principles of personal finance",
+        "People who want to learn about behavioral economics",
+        "People who are high earners",
+        "People interested in retiring early or achieving financial independence"
+      ]
+    },
+    {
+      "title": "新加坡房地产信托基金投资入门 Introduction to Singapore REITs investment",
+      "url": "https://www.udemy.com/course/introduction-to-singapore-reits-investment-p/",
+      "bio": "REIT达人手把手教你玩转全球地产",
+      "objectives": [
+        "新加坡房地产信托基金投资理论与实务"
+      ],
+      "course_content": {
+        "新加坡REITs介绍": [
+          "第1课：为何投资新加坡REITs",
+          "新加坡REITs架构",
+          "新加坡REITs监管要求"
+        ],
+        "各物业板块及特征": [
+          "新加坡REITs术语",
+          "健康医疗",
+          "酒店与公寓",
+          "零售",
+          "办公",
+          "工业与物流",
+          "数据中心"
+        ],
+        "财务报表分析": [
+          "资产负债表",
+          "损益表",
+          "股息分配表",
+          "现金流表"
+        ],
+        "财务指标分析": [
+          "物业净利润率＆每单位分配股息",
+          "股息率＆每单位净资产和市净率"
+        ],
+        "基金估值分析": [
+          "市净率法估值",
+          "股息分配法估值"
+        ],
+        "证劵开户流程": [
+          "银行开户",
+          "新加坡证交所开户＆开设证劵交易帐户"
+        ]
+      },
+      "requirements": [
+        "基础财务报表知识",
+        "基础英文阅读能力"
+      ],
+      "description": "各位好，我是睿见房地产金融学院的创办人陈威宇。我目前现任职于中国知名产业地产开发商，负责战略研究和投资与开发策略的工作。早年因任职于新加坡市区重建局，对于新加坡的国土空间规划与房地产市场比较熟悉，也有超过十年的新加坡REITs投资实战经验。\n近年来，我至力于推广房地产信托投资，分别于国内知名的投资平台雪球和微信设立了”睿见房地产金融学院”与”睿见投研”的公众号，推广房地产信托投资。通过公众号文章与线上课程，让国内更多投资人对房地产股权投资有深入的了解。\n这门课程适合房地产金融从业人员、有新加坡投资移民规划的家庭、已经旅居新加坡的朋友、或是想追求稳定收益的投资人。课程规划有6大模块22节课，共2小时课程。在这22节课程当中，我将完整的分享我个人过去10多年的新加坡REITs投资经验，深入的讲解每种物业类型基金的特征，如何根据每种物业的特征，拟定相应的投资策略，构建防御与成长属性兼具的投资组合。我也将通过对新加坡REITs财务报表、财务指标的分析，教授如何估算REITs的合理价格，找出被低估的个股，精准的发现投资机遇。通过这门课我将提供你一张寻宝图，带领你按图索骥，在全球投资布局的旅程中，跟我一同探索这有趣而未知的领域。\n\n\n课/程/大/纲\n模块一：新加坡REITs介绍\n第1课：为何投资新加坡REITs\n第2课：新加坡REITs架构\n第3课：新加坡REITs监管要求\n模块二：各物业板块及特征\n第4课：REIT术语\n第5课：康养医疗\n第6课：酒店与公寓\n第7课：零售\n第8课：办公\n第9课：工业与物流\n第10课：数据中心\n模块三：财务报表分析\n第11课：资产负债表\n第12课：损益表\n第13课：股息分配表\n第14课：现金流表\n模块四：财务指标分析\n第15课：物业净利润率\n第16课：每单位分配股息和股息率\n第17课：每单位净资产和市净率\n模块五：基金估值分析\n第18课：市净率法\n第19课：股利贴现模型\n模块六：交易开户流程\n第20课：银行开户\n第21课：新加坡证交所开户\n第22课：开设证劵交易账户",
+      "target_audience": [
+        "房地产金融从业人员",
+        "追求稳定收益的投资人",
+        "有新加坡投资移民规划的家庭",
+        "旅居新加坡的投资小白"
+      ]
+    },
+    {
+      "title": "Monzo Masterclass: Become an expert in investments & savings",
+      "url": "https://www.udemy.com/course/monzo-masterclass-become-an-expert-in-investments-savings/",
+      "bio": "Elite Savings and Investment Mastery: Achieve Financial Excellence with an instructor",
+      "objectives": [
+        "Understand Fundamental Investment Concepts",
+        "Master Portfolio Management Techniques",
+        "Distinguish Between Different Investment Options",
+        "Optimize Saving Strategies for Financial Goals",
+        "Navigate Monzo's Investment Platform Effectively"
+      ],
+      "course_content": {
+        "Course outline": [
+          "Outline"
+        ],
+        "Introduction to Monzo": [
+          "What is Monzo?",
+          "How can Monzo benefit you?",
+          "Setting up a Monzo account"
+        ],
+        "Investments & savings": [
+          "What is investing?",
+          "What is saving?",
+          "Savings vs Investment",
+          "What should you choose to limit risk?",
+          "Investment & savings projections"
+        ],
+        "Monzo savings accounts": [
+          "Instant access",
+          "Easy access",
+          "Flexible cash ISA",
+          "Fixed term"
+        ],
+        "Monzo Investment accounts": [
+          "Careful",
+          "Balanced",
+          "Adventurous"
+        ],
+        "Summary": [
+          "Conclusion"
+        ]
+      },
+      "requirements": [
+        "Access to a Monzo Account",
+        "Internet Access and Computer/Smartphone"
+      ],
+      "description": "Welcome to the Monzo Masterclass, where you'll embark on a transformative journey to become a true maestro of investments and savings.\n\n\nThis comprehensive course is designed to empower individuals of all backgrounds and experience levels with the knowledge and skills needed to navigate the financial landscape confidently. Taught by industry experts, this course will demystify the intricacies of investments, providing you with the tools to make informed decisions in the ever-changing market. From understanding the fundamentals of stocks, bonds, and portfolios to harnessing the power of strategic savings techniques, this masterclass covers it all. Learn how to leverage the innovative features of Monzo to optimize your financial growth and achieve your long-term goals. Whether you're a novice investor or looking to refine your existing strategies, this course is your ticket to financial empowerment.\n\n\nJoin us today and take the first step towards securing your financial future with Monzo!\n\n\nIn this course we will explore:\nWhat is Monzo and how you can use it to leverage your portfolio\nInvestments & Savings\nDifferent types of savings & investment accounts\nExplanation & projections of how your savings and/or investments could yield\n\n\nPlease don't hesitate to ask questions, anything you want to clarify on or need more information - I am happy to help you on this amazing journey to financial freedom",
+      "target_audience": [
+        "Aspiring Investors",
+        "Savers with Financial Goals",
+        "Individuals with Varied Risk Appetites",
+        "Anyone Seeking Financial Empowerment"
+      ]
+    }
+  ]
+}

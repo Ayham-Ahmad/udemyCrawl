@@ -1,0 +1,446 @@
+{
+  "courses": [
+    {
+      "title": "Complete course in AutoCAD : 2D and 3D",
+      "url": "https://www.udemy.com/course/autocad-2020-for-designers-a-problem-solving-approach/",
+      "bio": "For Architects, Engineers, and Designers",
+      "objectives": [
+        "The AutoCAD 2020 course in Udemy contains a detailed explanation of AutoCAD commands and their applications to solve drafting and design problems.",
+        "This course explains every AutoCAD command with examples and illustrations, making it easy to understand tool functions and their applications in drawing.",
+        "Upon completing this course, users can utilize AutoCAD commands to create drawings, add dimensions, apply constraints, insert symbols, and create text, blocks,",
+        "The course covers basic drafting and design concepts, including dimensioning principles and assembly drawings, equipping users with essential AutoCAD drafting s",
+        "In this video course, you will also learn about DWG Compare, Save to Web & Mobile, and Shared Views that will enhance the usability of the software."
+      ],
+      "course_content": {
+        "Getting Started": [
+          "Introduction",
+          "Starting a New File and Opening an Existing One",
+          "User Interface In AutoCAD",
+          "Setting Up Drawing Units",
+          "Setting Up Drawing Limits",
+          "Using Various Zoom Options",
+          "Example - Units, Limits, and Zoom tools",
+          "Saving Drawing Files as an AutoCAD Template"
+        ],
+        "Using Drawing Tools": [
+          "Understanding Coordinate Systems and Line tool",
+          "Example - Using Line tool",
+          "Example - Using Absolute Coordinate System",
+          "Example - Using Relative Polar Coordinate System",
+          "Drawing Polylines and Splines",
+          "Example - Using Relative Rectangular Coordinate System",
+          "Drawing Circles",
+          "Example - Using Circle tool",
+          "Drawing Arcs",
+          "Example - Using Arc tool",
+          "Drawing Rectangles",
+          "Example - Using Rectangle tool",
+          "Drawing Polygons",
+          "Example - Using Polygon tool",
+          "Drawing Ellipses",
+          "Example - Using Ellipse tool",
+          "Drawing Construction Lines, Rays, Points, and Multiple Points",
+          "Applying Hatches and Gradient Hatches",
+          "Creating Revision Clouds",
+          "QUIZ - Draw tools"
+        ],
+        "Using Modify Tools": [
+          "Making Selection Sets",
+          "Copying and Moving Objects",
+          "Example - Using Copy tool",
+          "Example - Using Move tool",
+          "Stretching, Scaling, and Offsetting Entities",
+          "Example - Using Stretch tool",
+          "Example - Using Scale tool",
+          "Example - Using Offset tool",
+          "Rotating and Mirroring Entities",
+          "Example- Using Rotate tool",
+          "Example - Using Mirror tool",
+          "Trimming and Extending Entities",
+          "Example - Using Trim tool",
+          "Example - Using Extend tool",
+          "Creating Fillets",
+          "Creating Chamfers",
+          "Creating Blend Curves",
+          "Using Erase tool",
+          "Using Explode tool",
+          "Using Align tool",
+          "Example - Using Align tool",
+          "Using Break and Break at Point tools",
+          "Example - Using Break tool",
+          "Example - Using Break at Point tool",
+          "Using Join tool",
+          "Example - Using Draw and Modify tools",
+          "Using Overkill command",
+          "Using Array tool",
+          "Example - Using Rectangular Array tool",
+          "Example - Using Path Array tool",
+          "Example - Using Polar Array tool",
+          "Using Divide, Measure, and Wipeout tools",
+          "Example - Using Divide tool",
+          "Example - Using Measure tool",
+          "Using Region and Boundary tools",
+          "Example - Using Region tool",
+          "Quiz - Modify tools"
+        ],
+        "Using Status Bar": [
+          "Using Various Status Bar Toggles",
+          "Using Object Snaps and Object Snap Tracking",
+          "Using From Snap and Other Snaps",
+          "Using Selection Cycling option",
+          "Switching Workspaces",
+          "QUIZ - Status Bar Toggles"
+        ],
+        "Working with Layers": [
+          "Working with Layers",
+          "Using Layer States",
+          "Using Layer Filters",
+          "Using Match Layer and Layer Walk tools",
+          "Using Layer Isolate, Unisolate, and Layer Merge tools",
+          "Using Layer Translator",
+          "Quiz - Layers"
+        ],
+        "Writing Standard and Annotative Texts": [
+          "Writing Single Line and Multiline Texts",
+          "Example - Writing Single Line Text",
+          "Example - Writing Multiline Text",
+          "Creating Text Styles",
+          "Quiz -Writing Texts"
+        ],
+        "Adding Standard and Annotative Dimensions": [
+          "Using Dimensioning tools - Dimensions Drop-Down",
+          "Managing Dimension Styles using Dimension Style Manager",
+          "Creating a New Dimension Style",
+          "Importing Dimension Styles from a drawing into the other drawing",
+          "Using Quick tool",
+          "Using Continue and Baseline tools",
+          "Using Adjust Space and Update tools",
+          "Using Break and Inspect tools",
+          "Using Breakline and Dimjogline tools",
+          "Associating and Disassociating Dimensions",
+          "Using Centermark and Centerline tools"
+        ],
+        "Adding Leaders and Tables": [
+          "Using Leader tool",
+          "Using Multileader tool",
+          "Using Multileader Style Manager",
+          "Creating a New Multileader Style",
+          "Using Multileader Align tool",
+          "Using Multileader Collect tool",
+          "Adding and Removing Leaders to an Existing Leader",
+          "Creating and Inserting Tables",
+          "QUIZ- Dimensions"
+        ],
+        "Adding and Managing Constraints": [
+          "Concept of Constraints",
+          "Using Constraint Settings Dialog Box",
+          "Using Autoconstrain tool",
+          "Using Coincident, Parallel, and Tangent constraint tools",
+          "Using Collinear, Perpendicular, and Smooth constraint tools",
+          "Using Concentric, Horizontal, and Symmetric constraint tools",
+          "Using Fix, Vertical , and Equal constraint tools",
+          "Using Show Hide, Show All, and Hide All tools",
+          "Using Linear, Horizontal, and Vertical Dimensional constraint tools",
+          "Using Aligned Dimensional constraint tool",
+          "Using Radius, Angular, Diameter, and Convert Dimensional constraint tools",
+          "Adding Equations to Dimensional constraints",
+          "Deleting constraints",
+          "Using Parameters Manager",
+          "QUIZ - Constraints"
+        ],
+        "Working with Views and Viewports": [
+          "Controlling UCS Icon, Viewcube, and Navigation Bar Display",
+          "Creating Custom Views (New View tool)",
+          "Using View Manager",
+          "Understanding the concept of Model Space and Paper Space",
+          "Creating Model Space Viewports",
+          "Creating Named Viewports (VPORTS command)",
+          "Combining Viewports (Join tool)",
+          "Creating Custom Viewports (MVIEW command)",
+          "QUIZ - Views and Viewports"
+        ]
+      },
+      "requirements": [
+        "Anyone with basic knowledge of Geometry concepts."
+      ],
+      "description": "This course contains a detailed explanation of AutoCAD commands and their applications to solve drafting and design problems. Every command is thoroughly explained with the help of examples and illustrations. This makes it easy for users to understand the functions and applications in the drawing. After going through this course, you will be able to use AutoCAD commands to make a drawing, dimension a drawing, applying constraints, insert texts and blocks, create 3D objects, generate drafting views of the model, 3d print a model, use CAD Standards, and advanced applications in AutoCAD software.\nThis course covers basic drafting and designing concepts such as dimension principles, and assembly drawing that equip the users with the essential drafting skills to solve problems in AutoCAD. While going through this course, the user will learn some advanced tools introduced in the recent versions of AutoCAD such as DWG Compare, Save to Web and Mobile, Shared View, CAD Standards, 3D Print, and more.\n\n\nIn this course, special emphasis has been laid on industrial applications and usage of AutoCAD tools so that it serves beginners as well as professionals to understand the functions of the tools and their applications in the drawing.\nSalient Features of this Course:\nA comprehensive course consisting of 202 video lectures that are organized in a pedagogical sequence.\nDetailed explanation of all AutoCAD commands and tools.\nStep-by-step instructions to guide the users through the learning process.\nTools explained in a manner that you can easily take on the Autodesk Certified Professional exam.\nQuizzes at the end of each section to help the users assess their knowledge.\nPractice Tests",
+      "target_audience": [
+        "Engineers (mechanical,civil, electrical, electronics, and others), draftsman, students, designers, and anyone who desire to learn CAD"
+      ]
+    },
+    {
+      "title": "Adobe Premiere Pro CC Video Editing Course Beginners To Pro",
+      "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-video-editing-course-beginners-to-professional/",
+      "bio": "Learn Video Editing in Adobe Premiere Pro with Color Correction & Color Grading and Professional Video Editing practices",
+      "objectives": [
+        "Master Premiere Pro and be CONFIDENT Editing Your Own Videos",
+        "By the end of the course, you'll have edited your own short documentary using either the supplied footage (video clips, photos)",
+        "Export and save your videos for HD playback.",
+        "Design clean and professional titles for you videos.",
+        "Color correct your video to fix issues with white balance and exposure.",
+        "Edit an entire video from beginning to end, using professional and efficient techniques.",
+        "Edit your videos, and make them more dynamic with cutaway footage and photos.",
+        "Add motion to your titles, photos, and videos... making them more visually interesting.",
+        "Edit green screen footage and, add backgrounds that actually look good.",
+        "Audio Adjustment for making your audio better",
+        "Multiple Video placement projects",
+        "Cinematic effects of video",
+        "Video Inside Texts",
+        "Noise Reductions",
+        "Blur Video"
+      ],
+      "course_content": {
+        "Introduction": [
+          "Introduction",
+          "Exercise File",
+          "Need Help? Have Question During Learning?",
+          "Need Your Feedback"
+        ],
+        "Essential Editing": [
+          "Project Creation and Sequence Setting",
+          "Import Video In Adobe Premiere Pro CC",
+          "Use Of Tools In Adobe Premiere Pro CC",
+          "Use of Pen Tools",
+          "Mark In and Out of Video",
+          "Unlink Video and Audio",
+          "Adjustment Of Video Size and Position",
+          "Transitions and Video Effects",
+          "Essential Graphics",
+          "Essential Graphics Presets",
+          "Color Correction and Adjustment",
+          "Input LUT and Creative Looks Presets",
+          "Green Screen Remove",
+          "Remove Background Noise",
+          "Audio Adjustment",
+          "Add Bass and Treble",
+          "Audio Effect",
+          "Export Video",
+          "Speed Control",
+          "Nest",
+          "Video Blur",
+          "Cinematic Effect",
+          "Video Inside Text",
+          "Keyboard shortcut for windows and mac",
+          "How to become an expert video editor in Adobe Premiere Pro",
+          "How to use Premiere Pro more effectively"
+        ]
+      },
+      "requirements": [
+        "Able to run computer",
+        "Understand Basic English"
+      ],
+      "description": "Hi There,\nMy name is Stephen Koel Soren and I am a graphics and web expert. If you are absolute beginner or if you never open Adobe Premiere pro cc before than this is a perfect class for you. This is a beginner level class so so together me you we will learn Adobe Premiere pro from basic to advance.\nThe Main Topics you will learn:\n· Set your workspace. How to efficiently import and organize your media.\n· How to go about editing a complete video.\n· All the editing Tools and How to use all the Editing Monitors in Premiere Pro CC.\n· The process of Colour Correction from start to finish. You will have a complete understanding of all the Lumetri Scopes and how to use them.\n· A comprehensive approach to Color Grading. Understand the Lumetri Presets for the Various Cameras and the technical aspect of these Presets and How to create your own Grading Presets.\n· Transitions being an essential part of video editing, you will learn how to apply, modify and time the transitions effects using various monitors.\n· Text Animation, Essential Graphics, Input LUT, Creative Look Presets.\n· How to remove green screen and how to reduce noise.\n· Audio Adjustment, Audio Effect, Bass and Treble\n· How to export video after editing\n· Blur Video, Cinematic Effect, Video Inside Text",
+      "target_audience": [
+        "Beginners who want to learn video editing in adobe premiere pro cc"
+      ]
+    },
+    {
+      "title": "After Effects CC Masters: VFX, Motion Graphics, Animation+",
+      "url": "https://www.udemy.com/course/after-effects-cc/",
+      "bio": "Learn Beginner to Advanced Adobe After Effects CC: Motion Graphics, Kinetic Typography, Visual Effects VFX, Animation+",
+      "objectives": [
+        "You will know how to use After Effects to make your videos better than ever",
+        "You will be comfortable using After Effects - even if you're a beginner",
+        "Know how to create a video project from start to finish in After Effects",
+        "Create professional motion graphics that improve your videos",
+        "Add creative visual effects to your video projects",
+        "Export high quality videos from After Effects and know how to use it with Premiere Pro efficiently",
+        "You will have the full support of an instructor who loves teaching"
+      ],
+      "course_content": {
+        "Introduction to the After Effects Course": [
+          "Welcome! | After Effects Course",
+          "Download the Course Project Files | After Effects Course",
+          "Animate Your Name! | After Effects Course",
+          "Tutorial Request Form | After Effects Course",
+          "Tips to Improve Your Course Taking Experience | After Effects Course"
+        ],
+        "After Effects Basics": [
+          "Know Your Way Around After Effects | After Effects Course",
+          "Start a New Composition | After Effects Course",
+          "CC Update: Starting a New Composition from Footage | After Effects Course",
+          "Importing Media and Placing on the Timeline | After Effects Course",
+          "Learn the Important Tools | After Effects Course",
+          "Create a Perfect Square or Circle, Alignment, and Colors | After Effects Course",
+          "The Timeline | After Effects Course",
+          "CC 2023 Update: Properties Panel",
+          "Layer Transformations | After Effects Course",
+          "Instructor Note - Get More Resources and Tips | After Effects Course"
+        ],
+        "Animating with Keyframes": [
+          "Adding and Editing Keyframes + Opacity Animations | After Effects Course",
+          "Position, Size, and Rotation Animations | After Effects Course",
+          "Make Animations Better with Easy Ease and Motion Blur | After Effects Course",
+          "Advanced Animations with the Graph Editor | After Effects Course",
+          "Challenge: Bouncing Ball Animation | After Effects Course",
+          "Solution: Bouncing Ball Animation | After Effects Course",
+          "Get More Video Resources & Tips | After Effects Course"
+        ],
+        "Shapes and Solid Layers": [
+          "Working with Solid Layers | After Effects Course",
+          "Working with Shapes | After Effects Course",
+          "Layer Styles - Drop Shadows, Bevel & Emboss, and Gradients",
+          "Shape Effects | After Effects Course",
+          "CC 2020 Update: Tapered Strokes | After Effects Course",
+          "CC 2020 Update: Concentric Shapes | After Effects Course"
+        ],
+        "Important After Effects Skills": [
+          "Track Mattes: Make Layers Appear and Disappear | After Effects Course",
+          "Pre-Compositions: Grouping Layers Together | After Effects Course",
+          "Quickly Reversing Animations | After Effects Course",
+          "Freeze Frames, Remapping, Reversing Time | After Effects Course",
+          "Blend Modes | After Effects Course",
+          "Stabilizing Footage | After Effects Course",
+          "CC 2018 Update: Previewing and Favoriting Fonts | After Effects Course",
+          "CC 2019 Update: Responsive Design | After Effects Course",
+          "CC 2019 Update: Content Aware Fill | After Effects Course",
+          "CC 2019 Update: Create Motion Graphics Templates to Use in Premiere Pro"
+        ],
+        "Motion Graphics Projects": [
+          "Intro to Real World Projects | After Effects Course",
+          "Project: Clean Lower Third | After Effects Course",
+          "Project: Colorful Transition | After Effects Course",
+          "Project: Text with Mask Transition | After Effects Course",
+          "Project: Text Bubble Pop-Up Animation | After Effects Course",
+          "Project: Weather App User Design Animation - Part 1 | After Effects Course",
+          "Project: Weather App User Design Animation - Part 2 | After Effects Course",
+          "Project: Weather App User Design Animation - Part 3 | After Effects Course",
+          "Project: Simple Logo Reveal | After Effects Course"
+        ],
+        "Flat Animation Challenge": [
+          "Design Your Own Flat Animation Scene | After Effects Course",
+          "Designing My Flat Animation Scene | After Effects Course",
+          "Animating Fireworks with a Repeater Shape | After Effects Course"
+        ],
+        "Green Screen (Chromakeying)": [
+          "Remove Green Screen with Keylight 1.2 | After Effects Course",
+          "Adding a Background that Matches the Foreground + Parenting",
+          "Adding Motion to a Still Image with the Puppet Tool | After Effects Course",
+          "Adding Motion to the Background Photo with Ripple Effect | After Effects Course"
+        ],
+        "3D Animations and the Camera Tool": [
+          "3D in After Effects + The Camera Tool and Views | After Effects Course",
+          "Swinging 3D Rotating Text Animation + Null Objects | After Effects Course",
+          "Building a 3D Composition | After Effects Course",
+          "Animating in 3D Space | After Effects Course",
+          "Creating Stars in After Effects | After Effects Course"
+        ],
+        "Rotoscoping": [
+          "Make a Selection with the Rotoscope Tool | After Effects Course",
+          "Cleaning Up Edges | After Effects Course",
+          "Putting Rotoscoping to Work | After Effects Course"
+        ]
+      },
+      "requirements": [
+        "You should have Adobe After Effects installed so you can follow along with the course lessons. We'll be using the Creative Cloud version of After Effects, but you can do many of the lessons in a previous version if you don't have After Effects CC.",
+        "You DO NOT need any experience with After Effects. This course is for beginners and assumes you don't have any experience with the program."
+      ],
+      "description": "Master After Effects Motion Graphics with the easiest-to-follow course on Udemy!\n\"I went into this not knowing basically anything and came away with tons of knowledge!\"\n- Louis Matarazzo, Phil's After Effects student\n\nJoin this Adobe After Effects CC course to have fun while learning quickly!\nIf you are looking to make your videos better, adding motion graphics and visual effects is the way to do that. After Effects CC is used by professionals across the world for every type of production from business & marketing videos, music videos to documentaries, feature films. This full course is the best way to jump right in and start making your own videos come to life.\nMake videos the way you imagine them!\nPractice while you learn. This course includes practice files so you can follow along and actually learn by doing.\nBy the end of the course, you'll have finished dozens of real world projects to build your confidence.\nI'll be teaching the course using the Creative Cloud version, but if you have a previous version (CS6, CS5, etc - Mac or PC), you can still learn with this course.\nWhat makes me qualified to teach you?\nMy name is Phil and I'm a professional motion graphics artist and video creator.\nPhil Ebiner's \"The Complete Guide to After Effects,\" is a wonderful and comprehensive course to dive into this Program, and get started with creating our own animations.\n- Cavett Robert\nVery comprehensive, easy to follow course.\n- Dragan Vukicevic\nPhil is a g a great instructor who is always willing to help. The way he lays out the course is simple and easy to understand.\n-Patrick Gilmour\nMy Promise to You\nI'll be here for you every step of the way. If you have any questions about the course content or anything related to this topic, you can always post a question in the course or send me a direct message.\nI want to make this the best course on how use Adobe After Effects. So if there is any way I can improve this course, just tell me and I'll make it happen.\nWhat's this course all about?\nGet ready to create motion graphics that will improve your video quality. If you've always wanted to learn how to use video effects and create custom motion graphics, you can learn After Effects CC right now.\nPractice lessons will get you motivated and moving to your goals.\nThe lessons are meant to teach you how to think like a motion graphics/video effects artist. After Effects is a robust tool that is capable of creating almost any video effect out there. You'll learn all of the basics, intermediate, and some advanced techniques, from working with shapes, text, and textures to video effects, transitions, and 3d camera.\nHere is a glimpse of what we'll be covering:\nGetting comfortable with After Effects CC\nStarting a new composition\nUsing the basic tools\nWorking in the After Effects CC timeline\nAdding shape and text layers\nAnimating position, scale, rotation, and opacity\nWorking with shape layers and masks\nReal world projects such as lower thirds and bumpers\nMotion graphics principles and best practices\nUsing video effects and presets to speed up workflow\nGreen screen and chromakey removal\nVisual effects and rotoscoping\nMotion tracking and video stabilization\nCreating unique transitions\nExporting your projects\nand so much more!\nKnowing After Effects CC is a great skill to have that is in demand and highly marketable. I've landed many jobs with the skills that I teach you in this course.\nWith our 30-day 100% money back guarantee, there is nothing holding you back from jumping in right now and trying the course out.\nGo ahead and click the enroll button, and I'll see you in lesson 1!\nCheers,\nPhil",
+      "target_audience": [
+        "Anyone looking to use After Effects to improve their videos",
+        "Videographers, video producers, video editors",
+        "Motion graphics artists and graphic designers",
+        "YouTubers and vloggers",
+        "Businesses that use video as part of their marketing strategy"
+      ]
+    },
+    {
+      "title": "Adobe InDesign CC: Your Complete Guide to InDesign",
+      "url": "https://www.udemy.com/course/adobe-indesign-course/",
+      "bio": "Become an Adobe InDesign CC Master: Learn the complete InDesign workflow to create PDFs, eBooks, pamphlets, and more!",
+      "objectives": [
+        "You will learn how to design professional publications and graphics in InDesign",
+        "Design pamphlets, flyers, eBooks, PDFs, magazines, brochures, and more",
+        "Become comfortable using all of the important InDesign tools and functions",
+        "You will learn the proper workflow from starting a project to exporting it",
+        "You will have fun while learning, with easy-to-follow real world projects"
+      ],
+      "course_content": {
+        "Introduction": [
+          "Welcome to the Course | Adobe InDesign Course",
+          "Download the Project Files and Assets | Adobe InDesign Course",
+          "Tips to Improve Your Course Taking Experience | Adobe InDesign Course",
+          "Let's Start Creating! | Adobe InDesign Course"
+        ],
+        "Getting Started with InDesign": [
+          "Understand the Workspace and Panels | Adobe InDesign Course",
+          "Customize Your Workspace | Adobe InDesign Course",
+          "Designer Tip: Document Sizes | Adobe InDesign Course",
+          "Create a New Document | Adobe InDesign Course",
+          "Navigating and Zooming | Adobe InDesign Course",
+          "Setting up Your Document | Adobe InDesign Course",
+          "Inserting, Deleting, and Rearranging Pages | Adobe InDesign Course",
+          "Working with Multiple Documents | Adobe InDesign Course",
+          "Challenge: Create a Mock Setup Document | Adobe InDesign Course",
+          "Assignment Walkthrough | Adobe InDesign Course"
+        ],
+        "Adding Assets": [
+          "Saving and Exporting Work | Adobe InDesign Course",
+          "Let's Design a Real Estate Listing | Adobe InDesign Course",
+          "Place and Resize Images | Adobe InDesign Course",
+          "Add Text | Adobe InDesign Course",
+          "PreFlighting | Adobe InDesign Course",
+          "Flowing and Formatting Text | Adobe InDesign Course",
+          "Text Wrap | Adobe InDesign Course",
+          "Text on Paths | Adobe InDesign Course",
+          "Submission Guidelines | Adobe InDesign Course",
+          "Design A 'Craigslist' Type Document | Adobe InDesign Course",
+          "My Version: 'Craigslist' Document | Adobe InDesign Course"
+        ],
+        "Multi-Page Documents": [
+          "Let's Design an 4-page Educational PDF | Adobe InDesign Course",
+          "Master Pages | Adobe InDesign Course",
+          "Automatic Page Numbering | Adobe InDesign Course",
+          "Master Text Frames | Adobe InDesign Course",
+          "Threading Text | Adobe InDesign Course",
+          "PlaceHolder Frames | Adobe InDesign Course",
+          "Importance of Styles | Adobe InDesign Course",
+          "Create HyperLinks | Adobe InDesign Course",
+          "Layer Panel / Designing Each Page | Adobe InDesign Course",
+          "Design a 4 Page PDF of Your Favorite Location | Adobe InDesign Course",
+          "My Version - Location PDF | Adobe InDesign Course"
+        ],
+        "Tables": [
+          "Creating/Importing a Table | Adobe InDesign Course",
+          "Formatting Tables | Adobe InDesign Course",
+          "Create an Analytic Report | Adobe InDesign Course",
+          "My Version: Analytic Report | Adobe InDesign Course"
+        ],
+        "Advanced Techniques": [
+          "Color Swatches | Adobe InDesign Course",
+          "Additional Tools | Adobe InDesign Course",
+          "Shapes | Adobe InDesign Course",
+          "Keyboard Shortcuts | Adobe InDesign Course"
+        ],
+        "Saving, Exporting, and Print": [
+          "Introduction to 'Finishing Work' | Adobe InDesign Course",
+          "How to Export and Print Documents | Adobe InDesign Course"
+        ],
+        "The Final Project": [
+          "Chapter from a Book - Final Project | Adobe InDesign Course",
+          "My Version: Final Project | Adobe InDesign Course"
+        ],
+        "CC 2018 Updates": [
+          "CC 2018 Update Introduction | Adobe InDesign Course",
+          "Paragraph Borders | Adobe InDesign Course",
+          "Size and Position Object Styles | Adobe InDesign Course"
+        ],
+        "CC 2019 Updates": [
+          "SVG Support | Adobe InDesign Course",
+          "Find Similar Images | Adobe InDesign Course",
+          "Variable Fonts | Adobe InDesign Course"
+        ]
+      },
+      "requirements": [
+        "Students should have access to Adobe InDesign to follow along with the course. A free trial or any Creative Cloud version will be fine. Previous versions will be fine for most lessons.",
+        "Students DO NOT need a design background or any other skills related to InDesign before taking this course."
+      ],
+      "description": "Design beautiful PDFs, eBooks, pamphlets, magazines, and more with Adobe InDesign CC!\nIf you're looking to learn Adobe InDesign from scratch, you've come to the right place. Perfect for designers, business & entrepreneurs, photographers, authors, and online businesses, this course takes you from beginner to advanced user in just a few hours.\nWhatever you want to design - make it stand out from the crowd!\nDive right into creating your first project, in section 1 of the course.\nDownload project files and photos to easily follow along.\nLearn a professional workflow that makes sense.\nEnroll now, and you'll learn:\nNavigating the workspace and panels\nStarting a new project\nAdding photos, text, and graphics to your designs\nAdjusting assets like a graphic designer would\nCreating multi-page documents\nUsing tables to clearly display complicated data\nSaving and exporting your project for any purpose\nAnd many more advanced techniques!\nWhy enroll in this course - and not another InDesign CC course?\nPhil Ebiner has created a number of best-selling online courses that students love. He's partnered with Kurt Anderson, of AdobeMasters, to help you master InDesign. We truly care about you - yes you, who is reading this right now!\nWe will do whatever we can to make sure you are happy with this course. We always respond to student questions in a timely manner. In our lessons, we get straight to the learning, without a lot of fluff, because we know you're busy. At the same time, we hope you feel as if you're learning from a friend, having fun while learning.\nOur 100% Guarantee\nWe are so confident you'll enjoy this course, that we offer a 100% 30-day money-back guarantee through Udemy. If you're not happy with your purchase, we have no problem giving you your money back.\n\nAre you ready to start learning?\nWe are waiting to help you inside the course!\n\nRemember, this is an online course, so you can take it at your own pace. Are you busy right now? That's okay. Enroll today, and take the course at your own pace.\nThanks so much for your interest in our complete Adobe InDesign course.\nSee you inside!\nPhil & Kurt",
+      "target_audience": [
+        "Anyone who wants to learn Adobe InDesign",
+        "Anyone wanting to design professional flyers, PDFs, eBooks, and other publications",
+        "Entrepreneurs, online businesses, artists, graphic designers - anyone who wants to learn this amazing Adobe application"
+      ]
+    }
+  ]
+}

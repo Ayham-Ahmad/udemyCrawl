@@ -1,0 +1,22 @@
+{
+  "main_category": "personal-development",
+  "sub_category": "Stress Management",
+  "courses": [
+    {
+      "title": "Stress Management - Overcome Obstacles & Building Resilience",
+      "url": "https://www.udemy.com/course/overcoming-obstacles-and-building-resilience-manage-stress/"
+    },
+    {
+      "title": "ADVANCED Time Management Strategies For Top-1% Productivity",
+      "url": "https://www.udemy.com/course/time-management-for-students-professionals-entrepreneurs/"
+    },
+    {
+      "title": "Emotional Intelligence: Master Anxiety, Fear, & Emotions",
+      "url": "https://www.udemy.com/course/master-your-emotions-uncertainty-stress-anxiety-and-fear/"
+    },
+    {
+      "title": "Anxiety, Burnout, And Stress Management With Time Management",
+      "url": "https://www.udemy.com/course/entrepreneur-anxiety-stress-management-with-time-management/"
+    }
+  ]
+}

@@ -1,0 +1,2062 @@
+{
+  "main_category": "development",
+  "sub_category": "Web Development",
+  "courses": [
+    {
+      "title": "Critical Rendering Path (CRP) For Web Development In 2025",
+      "url": "https://www.udemy.com/course/new-web-development-secrets/"
+    },
+    {
+      "title": "React: All You Need to Know with Practical Project",
+      "url": "https://www.udemy.com/course/all-you-need-to-know-react-with-practical-project/"
+    },
+    {
+      "title": "The Complete Full-Stack Web Development Bootcamp",
+      "url": "https://www.udemy.com/course/the-complete-web-development-bootcamp/"
+    },
+    {
+      "title": "Polymer 3 - Code Like A Google Developer",
+      "url": "https://www.udemy.com/course/polymer-3-code-like-a-google-developer/"
+    },
+    {
+      "title": "JavaScript Projects Course Build 20 Projects in 20 Days",
+      "url": "https://www.udemy.com/course/javascript-projects-course-build-20-projects-in-20-days/"
+    },
+    {
+      "title": "Microservices Development Revolution with .Net5 and Dapr",
+      "url": "https://www.udemy.com/course/distributed-microservices-development-revolution-with-net5-and-dapr/"
+    },
+    {
+      "title": "NgRx Signal store 19 for Angular - The missing guide",
+      "url": "https://www.udemy.com/course/ngrx-signal-store-the-missing-guide/"
+    },
+    {
+      "title": "Complete JavaScript, XML, AJAX and React Bootcamp - Hands-On",
+      "url": "https://www.udemy.com/course/complete-javascript-xml-ajax-and-react-bootcamp-hands-on/"
+    },
+    {
+      "title": "Create & Sell WordPress Websites w/ AI [10Web x Elementor]",
+      "url": "https://www.udemy.com/course/build-host-manage-super-fast-wordpress-websites-in-10web/"
+    },
+    {
+      "title": "JavaScript Tutorial For Beginners to Advance",
+      "url": "https://www.udemy.com/course/javascript-tutorial-for-beginners-to-advance/"
+    },
+    {
+      "title": "Mastering Selenium: Web Automation Essentials",
+      "url": "https://www.udemy.com/course/mastering-selenium-web-automation-essentials/"
+    },
+    {
+      "title": "Essential JavaScript, jQuery and AngularJS Training",
+      "url": "https://www.udemy.com/course/essential-javascript-jquery-angularjs-training/"
+    },
+    {
+      "title": "Design a Website Template using HTML5 & CSS3",
+      "url": "https://www.udemy.com/course/design-a-website-template-using-html5-css3/"
+    },
+    {
+      "title": "AstroJS 101: Build Blazing Fast Frontends!",
+      "url": "https://www.udemy.com/course/astrojs-101-build-blazing-fast-frontends/"
+    },
+    {
+      "title": "HTML and CSS Masterclass",
+      "url": "https://www.udemy.com/course/html-and-css-masterclass/"
+    },
+    {
+      "title": "Installing Wordpress - Installation, Registrars & Hosting",
+      "url": "https://www.udemy.com/course/installing-wordpress-domain-registrars-and-web-hosting/"
+    },
+    {
+      "title": "Be a Bootstrap Developer from scratch",
+      "url": "https://www.udemy.com/course/be-a-bootstrap-developer-from-scratch/"
+    },
+    {
+      "title": "Advanced Oracle ADF 12c Course",
+      "url": "https://www.udemy.com/course/advanced-oracle-adf-12c-course/"
+    },
+    {
+      "title": "Learn ASP NET MVC 5 step by step",
+      "url": "https://www.udemy.com/course/maruti-mvc5/"
+    },
+    {
+      "title": "AWS Beginner to Intermediate: EC2, IAM, ELB, ASG, Route 53",
+      "url": "https://www.udemy.com/course/aws-beginner-to-intermediate-ec2-iam-elb-asg-route-53/"
+    },
+    {
+      "title": "NFT Marketplace - React, Next.js & Solidity Guide (2023)",
+      "url": "https://www.udemy.com/course/nft-marketplace-in-react-typescript-solidity-full-guide/"
+    },
+    {
+      "title": "Building Websites JavaScript and the DOM",
+      "url": "https://www.udemy.com/course/building-websites-learn-javascript-and-the-dom/"
+    },
+    {
+      "title": "Learn jQuery by Example Course",
+      "url": "https://www.udemy.com/course/complete-jquery-course/"
+    },
+    {
+      "title": "Web Design Creating websites from scratch",
+      "url": "https://www.udemy.com/course/web-design-creating-websites-from-scratch/"
+    },
+    {
+      "title": "The Ultimate PHP with MySQL Developer Course",
+      "url": "https://www.udemy.com/course/php-with-mysql-developer-course/"
+    },
+    {
+      "title": "Loopback 4: Modern ways to Build APIs in Typescript & NodeJs",
+      "url": "https://www.udemy.com/course/loopback-4-the-complete-developers-guide/"
+    },
+    {
+      "title": "Kafka Streams API For Developers using Java/SpringBoot 3.X",
+      "url": "https://www.udemy.com/course/kafka-streams-api-for-developers-using-java-springboot/"
+    },
+    {
+      "title": "Crash Course - Learn to Create a PHP MVC Framework",
+      "url": "https://www.udemy.com/course/crash-course-learn-to-create-a-php-mvc-framework/"
+    },
+    {
+      "title": "React + Shopify (Headless CMS): Build a Custom Storefront",
+      "url": "https://www.udemy.com/course/build-a-custom-shopify-storefront-using-react-headless-cms/"
+    },
+    {
+      "title": "Bootstrap 3 Beginners: Create a Professional Landing Page",
+      "url": "https://www.udemy.com/course/bootstrap-beginners-landing-page/"
+    },
+    {
+      "title": "Shadcn UI & Next JS - Build beautiful dashboards with shadcn",
+      "url": "https://www.udemy.com/course/shadcn-ui/"
+    },
+    {
+      "title": "Master Bootstrap 4 (4.6.0) and code 7 projects with 25 pages",
+      "url": "https://www.udemy.com/course/bootstrap-4-responsive-web-design-and-development/"
+    },
+    {
+      "title": "Projects in ExpressJS - Learn ExpressJs building 10 projects",
+      "url": "https://www.udemy.com/course/projects-in-expressjs-learn-expressjs-building-10-projects/"
+    },
+    {
+      "title": "Tailwind CSS projects: 2 TailwindCSS projects (Instagram,..)",
+      "url": "https://www.udemy.com/course/tailwind-css-projects/"
+    },
+    {
+      "title": "Spring and Spring Boot - Learn by building projects",
+      "url": "https://www.udemy.com/course/spring-and-spring-boot-learn-by-bulding-projects/"
+    },
+    {
+      "title": "Web5 Fundamentals - A New Evolution of Web & Data Ownership",
+      "url": "https://www.udemy.com/course/web5-fundamentals-a-new-evolution-of-web-and-data-ownership/"
+    },
+    {
+      "title": "Angular from Zero to Hero",
+      "url": "https://www.udemy.com/course/new-angular-from-zero-to-hero/"
+    },
+    {
+      "title": "GraphQL Apollo Server with Node.js, MongoDB - GraphQL API",
+      "url": "https://www.udemy.com/course/graphql-apollo-server-api-nodejs-mongodb/"
+    },
+    {
+      "title": "Build Web Apps Using EmberJS: The Complete Course",
+      "url": "https://www.udemy.com/course/build-web-apps-using-emberjs-the-complete-course/"
+    },
+    {
+      "title": "ElasticSearch as you have never known it before",
+      "url": "https://www.udemy.com/course/elasticsearch-as-you-have-never-known-it-before/"
+    },
+    {
+      "title": "Build Complete 2019 CMS Blog in PHP MySql PDO & Bootstrap 4",
+      "url": "https://www.udemy.com/course/complete-cms-blog-in-html-css-php-mysql-bootstrap/"
+    },
+    {
+      "title": "How To Make A Website With Wordpress - Divi Theme",
+      "url": "https://www.udemy.com/course/how-to-make-a-website-with-wordpress-2019-step-by-step/"
+    },
+    {
+      "title": "Advanced Java ( JDBC,SERVLETS,JSP,JSTL ) For Web Development",
+      "url": "https://www.udemy.com/course/advanced-java-jdbcservletsjspjstl-for-web-development/"
+    },
+    {
+      "title": "Build an E-commerce Store using Django and React",
+      "url": "https://www.udemy.com/course/django-and-react-build-a-multi-vendor-e-commerce-website/"
+    },
+    {
+      "title": "Intro to Django for Web Development - A Crash Course",
+      "url": "https://www.udemy.com/course/django-web-development-crash-course/"
+    },
+    {
+      "title": "MobX In Depth With React(Hooks+TypeScript)",
+      "url": "https://www.udemy.com/course/mobx-in-depth-with-react/"
+    },
+    {
+      "title": "How To Startup Your Own SaaS (Software As a Service) Company",
+      "url": "https://www.udemy.com/course/how-to-startup-your-own-saas-software-as-a-service-company/"
+    },
+    {
+      "title": "Writing Beautiful RESTful APIs",
+      "url": "https://www.udemy.com/course/beautiful-apis/"
+    },
+    {
+      "title": "Knockout JS from scratch",
+      "url": "https://www.udemy.com/course/knockout-js-from-scratch/"
+    },
+    {
+      "title": "Complete ASP.NET MVC Course with Real World Practices",
+      "url": "https://www.udemy.com/course/complete-aspnet-mvc-course-with-real-world-practices/"
+    },
+    {
+      "title": "Laravel Build Advanced Complete Point Of Sale Project A-Z",
+      "url": "https://www.udemy.com/course/laravel-build-complete-point-of-sale/"
+    },
+    {
+      "title": "Master Vuejs from scratch (incl Vuex, Vue Router)",
+      "url": "https://www.udemy.com/course/master-vue-js-2018/"
+    },
+    {
+      "title": "Python Django: Ultimate Beginners Course - 2025",
+      "url": "https://www.udemy.com/course/python-django-ultimate-beginners-course-2022/"
+    },
+    {
+      "title": "Learn PHP & MySQL by Building an Employee Management System",
+      "url": "https://www.udemy.com/course/complete-php-mysql-course-beginner-to-advanced-level/"
+    },
+    {
+      "title": "jQuery Course Beginner to Professional jQuery for beginners",
+      "url": "https://www.udemy.com/course/jquery-course/"
+    },
+    {
+      "title": "Laravel 11 - Build a Complete Learning Management System LMS",
+      "url": "https://www.udemy.com/course/laravel-complete-learning-management-system-lms/"
+    },
+    {
+      "title": "Create a PHP Login and Registration System From Scratch 2020",
+      "url": "https://www.udemy.com/course/create-php-ajax-js-jquery-mysql-login-system-today/"
+    },
+    {
+      "title": "Learn Object Oriented Programming PHP fundamentals bootcamp",
+      "url": "https://www.udemy.com/course/learn-object-oriented-programming-php-fundamentals-bootcamp/"
+    },
+    {
+      "title": "Django Celery Mastery: Python Asynchronous Task Processing",
+      "url": "https://www.udemy.com/course/django-celery-mastery/"
+    },
+    {
+      "title": "Computer Vision Fundamentals",
+      "url": "https://www.udemy.com/course/computer-vision-fundamentals/"
+    },
+    {
+      "title": "AI-Powered Graphic Design: Mastering Figma & Emerging Tech",
+      "url": "https://www.udemy.com/course/ai-powered-graphic-design-mastering-figma-emerging-tech/"
+    },
+    {
+      "title": "Laravel - Restaurant and Food Ordering Ecommerce",
+      "url": "https://www.udemy.com/course/build-complete-laravel-restaurant-and-food-ordering-ecommerce-system/"
+    },
+    {
+      "title": "Basic HTML & CSS for beginners (Build One Project)",
+      "url": "https://www.udemy.com/course/basic-html-and-css-for-beginners/"
+    },
+    {
+      "title": "Django DRF Project: eCommerce RESTful API",
+      "url": "https://www.udemy.com/course/django-drf-project-ecommerce/"
+    },
+    {
+      "title": "Absolute Beginners Introduction to Amazon Web Services (AWS)",
+      "url": "https://www.udemy.com/course/absolute-aws-beginners/"
+    },
+    {
+      "title": "Python Programming: Create an Digital Marketplace in Django",
+      "url": "https://www.udemy.com/course/coding-for-entrepreneurs-marketplace-daily-deals/"
+    },
+    {
+      "title": "How Websites Work",
+      "url": "https://www.udemy.com/course/how-websites-work/"
+    },
+    {
+      "title": "Alpine JS Vs. 3 For Beginners. Learn the new alpine.js v3!",
+      "url": "https://www.udemy.com/course/alpinejs/"
+    },
+    {
+      "title": "Learn HTML 5: The Complete HTML 5 And CSS3 Tutorials Course",
+      "url": "https://www.udemy.com/course/learn-html-5-complete-course/"
+    },
+    {
+      "title": "HTML and CSS for beginners",
+      "url": "https://www.udemy.com/course/html-tutorial-for-beginners/"
+    },
+    {
+      "title": "Nodejs: All You Need to Know with Practical Project",
+      "url": "https://www.udemy.com/course/all-you-need-to-know-nodejs-with-practical-project/"
+    },
+    {
+      "title": "Build Real Website from Scratch using HTML5 and CSS3",
+      "url": "https://www.udemy.com/course/learn-html5-css3-make-responsive-websites-web-developers-web-designers/"
+    },
+    {
+      "title": "Create a Twitter Social Network Clone From Scratch PHP,MySQL",
+      "url": "https://www.udemy.com/course/create-a-high-end-social-network-like-twitter-in-php-mysql/"
+    },
+    {
+      "title": "Manage a hosted website (Quick Guide)",
+      "url": "https://www.udemy.com/course/manage-a-hosted-website-quick-guide-k/"
+    },
+    {
+      "title": "d3.js - Complete Developer Data Visualization Guide",
+      "url": "https://www.udemy.com/course/the-complete-d3js-data-visualization-guide/"
+    },
+    {
+      "title": "Laravel - For Beginner to Advanced",
+      "url": "https://www.udemy.com/course/laravel-9-for-beginner-to-advanced-2023/"
+    },
+    {
+      "title": "100 Algorithms Challenge",
+      "url": "https://www.udemy.com/course/100-algorithms-challenge/"
+    },
+    {
+      "title": "Front End Web Development Niche Website Complete Project",
+      "url": "https://www.udemy.com/course/front-end-web-development-niche-website-complete-project/"
+    },
+    {
+      "title": "Introduction to voice interface design",
+      "url": "https://www.udemy.com/course/voice-interface-design/"
+    },
+    {
+      "title": "WP Plugin Development - Build your own plugin!",
+      "url": "https://www.udemy.com/course/wp-plugin-development-build-your-own-plugin/"
+    },
+    {
+      "title": "Laravel Multi User Blogging Platform with SEO (2 projects)",
+      "url": "https://www.udemy.com/course/learn-laravel-php-framework-building-multi-user-seo-blog-app/"
+    },
+    {
+      "title": "Kids Coding - Beginner HTML",
+      "url": "https://www.udemy.com/course/kids-coding-beginner-html/"
+    },
+    {
+      "title": "JavaScript and React for Beginners: Create 12 projects",
+      "url": "https://www.udemy.com/course/javascript-and-react-for-beginners-create-12-projects/"
+    },
+    {
+      "title": "ASP NET CORE - ANGULAR 2 - Web API E-Commerce App",
+      "url": "https://www.udemy.com/course/build-a-full-e-commerce-app-in-aspnet-core-mvc-6/"
+    },
+    {
+      "title": "PHP Crash Course — Learn PHP in 90 minutes.",
+      "url": "https://www.udemy.com/course/php-crash-course/"
+    },
+    {
+      "title": "PHP with MySQL - Procedural Part",
+      "url": "https://www.udemy.com/course/php-with-mysql-procedrual-part/"
+    },
+    {
+      "title": "Learn XML-AJAX - For Beginners",
+      "url": "https://www.udemy.com/course/learn-xml-ajax-for-beginners/"
+    },
+    {
+      "title": "ASP.NET Core Minimal API Development Full Build",
+      "url": "https://www.udemy.com/course/aspnet-core-minimal-api-development-full-build/"
+    },
+    {
+      "title": "Become a MEAN Stack Developer: MongoDB; Express;Angular;Node",
+      "url": "https://www.udemy.com/course/become-a-mean-stack-developer-mongodb-expressangularnode/"
+    },
+    {
+      "title": "Step By Step HTML and CSS course for beginners",
+      "url": "https://www.udemy.com/course/step-by-step-html-and-css-course-for-beginners/"
+    },
+    {
+      "title": "React, Angular, Node In-Depth Guide: Beginner to Pro (2020)",
+      "url": "https://www.udemy.com/course/react-angular-node-in-depth-guide-beginner-to-pro-2020/"
+    },
+    {
+      "title": "MERN Stack Project Course - Build Fullstack React App",
+      "url": "https://www.udemy.com/course/mern-stack-project-course-build-fullstack-react-app/"
+    },
+    {
+      "title": "Amazon Web Services (AWS) with Python & Boto3",
+      "url": "https://www.udemy.com/course/amazon-web-services-aws-with-python-boto3/"
+    },
+    {
+      "title": "JavaScript Animations with GreenSock (GSAP)",
+      "url": "https://www.udemy.com/course/javascript-animations-using-greensock/"
+    },
+    {
+      "title": "Front End Web Development with Javascript HTML CSS Bootstrap",
+      "url": "https://www.udemy.com/course/full-front-end-web-development-course/"
+    },
+    {
+      "title": "Laravel - Build News Portal and Magazine Website (2024)",
+      "url": "https://www.udemy.com/course/complete-laravel-news-portal-project/"
+    },
+    {
+      "title": "Learn to Setup Websites from Scratch",
+      "url": "https://www.udemy.com/course/learn-to-setup-websites-from-scratch/"
+    },
+    {
+      "title": "Python: Python Programming Language | Tutorial | Beginner",
+      "url": "https://www.udemy.com/course/python-course/"
+    },
+    {
+      "title": "Master Laravel PHP with basic to advanced project:Job portal",
+      "url": "https://www.udemy.com/course/make-a-job-portal-with-laravel-58-and-vue-js/"
+    },
+    {
+      "title": "Webflow for Beginners: Create Your First Website",
+      "url": "https://www.udemy.com/course/webflow-for-beginners-create-your-first-website/"
+    },
+    {
+      "title": "Web Mapping and Web-GIS from Dev to Deployment: GeoDjango",
+      "url": "https://www.udemy.com/course/web-mapping-and-web-gis-from-dev-to-deploy-2021-geodjango/"
+    },
+    {
+      "title": "Complete AJAX Course: Learn AJAX Techniques Using Bootstrap",
+      "url": "https://www.udemy.com/course/ajaxcourse/"
+    },
+    {
+      "title": "Administering Microsoft SQL Server 2012 Databases - 70-462",
+      "url": "https://www.udemy.com/course/administering-microsoft-sql-server-2012-databases-70-462/"
+    },
+    {
+      "title": "Laravel 8 Beginner to Advance with Complete News Portal",
+      "url": "https://www.udemy.com/course/laravel-beginner-to-advance-with-complete-news-portal/"
+    },
+    {
+      "title": "One-stop Ruby on Rails: Build Web Applications from Scratch",
+      "url": "https://www.udemy.com/course/build-etsy-yelp-craigslist-and-a-web-scraper-from-scratch/"
+    },
+    {
+      "title": "Oracle Apex - Web App Development",
+      "url": "https://www.udemy.com/course/oracle-apex-web-app-development/"
+    },
+    {
+      "title": "The Complete DevOps Engineer Course 2.0 - Java & Kubernetes",
+      "url": "https://www.udemy.com/course/the-complete-devops-engineer-course-20-java-kubernetes/"
+    },
+    {
+      "title": "Angular 20 Full Course - Complete Zero to Hero Angular 20",
+      "url": "https://www.udemy.com/course/angular-18-full-course-complete-zero-to-hero-angular-18/"
+    },
+    {
+      "title": "Power BI Masterclass 8 - Python, Finance, and advanced DAX",
+      "url": "https://www.udemy.com/course/power-bi-masterclass-8-python-finance-and-advanced-dax/"
+    },
+    {
+      "title": "Ultimate Front-End Web Development Course",
+      "url": "https://www.udemy.com/course/ultimate-front-end-web-development-course/"
+    },
+    {
+      "title": "Laravel Database Queries - From Beginner to Highly Advanced",
+      "url": "https://www.udemy.com/course/laravel-database-queries-from-beginner-to-super-advanced/"
+    },
+    {
+      "title": "Adobe RoboHelp HTML Fundamentals",
+      "url": "https://www.udemy.com/course/adobe-robohelp-html-fundamentals/"
+    },
+    {
+      "title": "Build a Custom E-Commerce Site in React + JavaScript Basics",
+      "url": "https://www.udemy.com/course/build-a-custom-e-commerce-site-in-react-javascript-basics/"
+    },
+    {
+      "title": "JavaScript for beginners - Quick JavaScript Fundamentals",
+      "url": "https://www.udemy.com/course/learn-javascript-fundamentals/"
+    },
+    {
+      "title": "How To Make A Modern Wordpress BLOG 2017! Create Your Blog!",
+      "url": "https://www.udemy.com/course/how-to-make-a-modern-wordpress-blog-2017-create-your-blog/"
+    },
+    {
+      "title": "Microservices with NodeJS, React, Typescript and Kubernetes",
+      "url": "https://www.udemy.com/course/microservices-with-nodejs-react-typescript-and-kubernetes/"
+    },
+    {
+      "title": "Laravel - Build Real Estate Property Listing Project A-Z",
+      "url": "https://www.udemy.com/course/laravel-build-real-estate-property-listing-project/"
+    },
+    {
+      "title": "Salesforce Apex Coding & VisualForce Designing for beginners",
+      "url": "https://www.udemy.com/course/salesforce-apex-coding-visualforce-designing-for-beginners/"
+    },
+    {
+      "title": "Learning Pivotal Cloud Foundry for Web Developers",
+      "url": "https://www.udemy.com/course/learning-pivotal-cloud-foundry-for-web-developers/"
+    },
+    {
+      "title": "The Modern JavaScript for Beginners",
+      "url": "https://www.udemy.com/course/the-modern-javascript-for-beginners/"
+    },
+    {
+      "title": "WordPress REST API Complete Beginners Guide",
+      "url": "https://www.udemy.com/course/wordpress-rest-api-course/"
+    },
+    {
+      "title": "Learn Just Enough Laravel to Get Started as a Web Developer",
+      "url": "https://www.udemy.com/course/just-enough-laravel/"
+    },
+    {
+      "title": "Learn Microservices with Spring Boot and Spring Cloud",
+      "url": "https://www.udemy.com/course/learn-microservices-with-spring-boot-and-spring-cloud/"
+    },
+    {
+      "title": "HTML5, CSS3 & JavaScript Workshop: Build 7 Creative Projects",
+      "url": "https://www.udemy.com/course/html5-css3-javascript-workshop-build-7-creative-projects/"
+    },
+    {
+      "title": "JavaScript Fundamentals ES6 for beginners",
+      "url": "https://www.udemy.com/course/javascript-tutorial-beginners/"
+    },
+    {
+      "title": "Pro Javascript backend developer",
+      "url": "https://www.udemy.com/course/pro-javascript-backend-developer/"
+    },
+    {
+      "title": "Become a Front End Web Developer - JavaScript for Beginners",
+      "url": "https://www.udemy.com/course/start-js/"
+    },
+    {
+      "title": "Learning MEAN Stack by Building Real world Application",
+      "url": "https://www.udemy.com/course/learning-mean-stack-by-building-real-world-application/"
+    },
+    {
+      "title": "Upgrade from JSP to Thymeleaf with SpringMVC and Spring Boot",
+      "url": "https://www.udemy.com/course/become-a-thymeleaf-master-with-spring-mvc-and-spring-boot/"
+    },
+    {
+      "title": "LEARNING PATH: Laravel: Complete Guide to Laravel",
+      "url": "https://www.udemy.com/course/learning-path-laravel-complete-guide-to-laravel/"
+    },
+    {
+      "title": "CSS Layouts Masterclass: Build Responsive-Adaptive Websites",
+      "url": "https://www.udemy.com/course/css-layouts-masterclass/"
+    },
+    {
+      "title": "Fullstack Asp.Net Core MVC & C# Bootcamp With Real Projects",
+      "url": "https://www.udemy.com/course/fullstack-aspnet-core-mvc-and-c-bootcamp-with-real-project/"
+    },
+    {
+      "title": "Zero to Hero hands-on mastery on HTML5 & CSS3",
+      "url": "https://www.udemy.com/course/zero-to-hero-hands-on-mastery-on-html5-css3/"
+    },
+    {
+      "title": "Complete Bootstrap & React Bootcamp with Hands-On Projects",
+      "url": "https://www.udemy.com/course/complete-bootstrap-react-bootcamp-with-hands-on-projects/"
+    },
+    {
+      "title": "Learn Angular 8 & Web API by creating a Full Stack Web App",
+      "url": "https://www.udemy.com/course/angular-8/"
+    },
+    {
+      "title": "Distributed Tasks Demystified with Celery, SQS & Python",
+      "url": "https://www.udemy.com/course/distributed-tasks-demystified-with-celery-python/"
+    },
+    {
+      "title": "MERN Stack Real Time Chat App With Express, React, MongoDB",
+      "url": "https://www.udemy.com/course/mern-stack-real-time-chat-app-with-express-react-mongodb/"
+    },
+    {
+      "title": "Mastering ASP.NET Core MVC From Scratch Using C#",
+      "url": "https://www.udemy.com/course/mastering-aspnetcoremvc/"
+    },
+    {
+      "title": "Next.js & Supabase Mastery: Build 2 Full-Stack Apps",
+      "url": "https://www.udemy.com/course/master-nextjs-full-stack/"
+    },
+    {
+      "title": "React with Test Driven Development",
+      "url": "https://www.udemy.com/course/react-with-test-driven-development/"
+    },
+    {
+      "title": "Mastering webRTC - make a video chat app!",
+      "url": "https://www.udemy.com/course/mastering-webrtc-part-2-real-time-video-and-screen-share/"
+    },
+    {
+      "title": "Full React Js Course: React JS, Redux, Hooks and Context",
+      "url": "https://www.udemy.com/course/full-react-js-course-react-js-redux-hooks-and-context/"
+    },
+    {
+      "title": "Intro to Flask",
+      "url": "https://www.udemy.com/course/intro-to-flask/"
+    },
+    {
+      "title": "Vue with Test Driven Development",
+      "url": "https://www.udemy.com/course/vue-with-test-driven-development/"
+    },
+    {
+      "title": "Object Orientation in PHP",
+      "url": "https://www.udemy.com/course/object-orientation/"
+    },
+    {
+      "title": "Blazor Crash Course for Absolute Beginners",
+      "url": "https://www.udemy.com/course/blazor-crash-course-for-absolute-beginners-net-5/"
+    },
+    {
+      "title": "PHP with MySQL: Build a Complete Job Portal",
+      "url": "https://www.udemy.com/course/php-with-mysql-2022-build-a-complete-job-portal/"
+    },
+    {
+      "title": "Building Database Web App PHP | OOP | PDO | AJAX | MySQL",
+      "url": "https://www.udemy.com/course/building-database-web-app-php-oop-pdo-ajax/"
+    },
+    {
+      "title": "Learn Three.Js and Shaders from scratch",
+      "url": "https://www.udemy.com/course/learn-threejs-and-shaders-from-scratch/"
+    },
+    {
+      "title": "Build A ChatGPT AI in JavaScript - OpenAI - Code Along",
+      "url": "https://www.udemy.com/course/build-a-chatgpt-ai-in-javascript-openai-machine-learning/"
+    },
+    {
+      "title": "HTML5 and CSS3 Certification Training (beginner to expert)",
+      "url": "https://www.udemy.com/course/html5-and-css3-training/"
+    },
+    {
+      "title": "Build your own Load Balancer on AWS",
+      "url": "https://www.udemy.com/course/build-your-load-balancer-aws/"
+    },
+    {
+      "title": "Ultimate Css & JQuery Form Designing From Beginner to Expert",
+      "url": "https://www.udemy.com/course/ultimate-css-web-form-designing-from-beginner-to-expert/"
+    },
+    {
+      "title": "Front End Web Development with open source Dojo Toolkit.",
+      "url": "https://www.udemy.com/course/dojo-toolkit-javascript-library/"
+    },
+    {
+      "title": "NestJS - Building Real Project API From Scratch",
+      "url": "https://www.udemy.com/course/nestjs-building-real-project-api-from-scratch/"
+    },
+    {
+      "title": "Customizing AppGini web applications",
+      "url": "https://www.udemy.com/course/customizing-appgini-web-applications/"
+    },
+    {
+      "title": "Optimizing web performance and critical rendering path",
+      "url": "https://www.udemy.com/course/optimizing-web-performance-and-critical-rendering-path/"
+    },
+    {
+      "title": "React.JS for Ecommerce: Building a Store with React.JS",
+      "url": "https://www.udemy.com/course/reactjs-for-ecommerce-building-a-store-with-reactjs/"
+    },
+    {
+      "title": "PHP Master Class - The Complete PHP Developer Course",
+      "url": "https://www.udemy.com/course/php-master-class-the-complete-php-developer-course/"
+    },
+    {
+      "title": "Build an API from scratch with Python, Django, SQLite3",
+      "url": "https://www.udemy.com/course/build-an-api-from-scratch-with-python-django-sqlite3/"
+    },
+    {
+      "title": "Build a Robust RESTful API with PHP 8, from Scratch!",
+      "url": "https://www.udemy.com/course/build-modern-php-api/"
+    },
+    {
+      "title": "Next.JS with Sanity CMS - Serverless Blog App (w/ Vercel)",
+      "url": "https://www.udemy.com/course/nextjs-with-sanity-cms-serverless-blog-app-w-vercel/"
+    },
+    {
+      "title": "Start with TALL: Use Tailwind, Alpine, Laravel & Livewire",
+      "url": "https://www.udemy.com/course/tall-stack-integrate-tailwind-alpine-laravel-and-livewire/"
+    },
+    {
+      "title": "HTML 5,Python,Django And Flask Framework Full-Stack Course",
+      "url": "https://www.udemy.com/course/html-5pythondjango-and-flask-framework-full-stack-course/"
+    },
+    {
+      "title": "VanillaCartJS - ES6 JavaScript Shopping Cart",
+      "url": "https://www.udemy.com/course/es6-javascript-shopping-cart/"
+    },
+    {
+      "title": "React.js: Building Production Ready Apps, Start to Finish",
+      "url": "https://www.udemy.com/course/reactjs-building-production-ready-apps-start-to-finish/"
+    },
+    {
+      "title": "Advanced Material-UI Component Styling: The Complete Course",
+      "url": "https://www.udemy.com/course/advanced-material-ui-component-styling-the-complete-course/"
+    },
+    {
+      "title": "Master Web Scraping with Python Do 16 Projects",
+      "url": "https://www.udemy.com/course/python-master-web-scraping-course-doing-20-real-projects/"
+    },
+    {
+      "title": "Interactive maps with Mapbox!",
+      "url": "https://www.udemy.com/course/interactive-maps-with-mapbox/"
+    },
+    {
+      "title": "Real Time Single Page Forum App with Pusher Laravel & vuejs",
+      "url": "https://www.udemy.com/course/real-time-single-page-forum-app-with-pusher-laravel-vuejs/"
+    },
+    {
+      "title": "Laravel & Realtime: Build Several Realtime Apps with Laravel",
+      "url": "https://www.udemy.com/course/laravel-realtime-create-multiple-realtime-applications-with-laravel/"
+    },
+    {
+      "title": "WebRTC Practical Course. Create Video Chat Application",
+      "url": "https://www.udemy.com/course/webrtc-2021-practical-course-create-meet-the-strangers-app/"
+    },
+    {
+      "title": "Deploying web apps for new developers on AWS ec2",
+      "url": "https://www.udemy.com/course/deploying-web-apps-simplified-quick-or-in-depth-on-aws/"
+    },
+    {
+      "title": "Learn JavaScript by Creating 10 Practical Projects",
+      "url": "https://www.udemy.com/course/learn-javascript-by-creating-10-practical-projects/"
+    },
+    {
+      "title": "Node.js Tutorial For Absolute Beginners",
+      "url": "https://www.udemy.com/course/learn-node-js-complete-from-very-basics-to-advance/"
+    },
+    {
+      "title": "ASP.NET Core Web API - Zero to Hero [ASP.Net Core 5.0]",
+      "url": "https://www.udemy.com/course/restful-web-api-with-aspnet-core-5-zero-to-hero/"
+    },
+    {
+      "title": "Mastering Prompt Engineering: Generate Text & Images with AI",
+      "url": "https://www.udemy.com/course/mastering-prompt-engineering-text-image-ai-innovations/"
+    },
+    {
+      "title": "WPBakery Page Builder / Visual Composer Master Course",
+      "url": "https://www.udemy.com/course/wpbakery-page-builder-visual-composer-master-course/"
+    },
+    {
+      "title": "Oracle BPM 12c for Beginners (step-by-step)",
+      "url": "https://www.udemy.com/course/oracle-bpm-12c-for-beginners-step-by-step/"
+    },
+    {
+      "title": "Cursor Course: MCP | Full Stack | Free SaaS Boilerplate",
+      "url": "https://www.udemy.com/course/ai-coding-with-cursor/"
+    },
+    {
+      "title": "Advanced React & Storybook: From Components Library to CI/CD",
+      "url": "https://www.udemy.com/course/build-react-v17-components-with-storybook/"
+    },
+    {
+      "title": "CSS - MASTERING ANIMATIONS",
+      "url": "https://www.udemy.com/course/css-mastering-animations/"
+    },
+    {
+      "title": "Interactive Web Animation [ JavaScript SVG CSS & Canvas ]",
+      "url": "https://www.udemy.com/course/interactive-web-animations-javascript-svg-css-html/"
+    },
+    {
+      "title": "Learn Complete Web Development From Scratch",
+      "url": "https://www.udemy.com/course/learn-complete-web-development-from-scratch/"
+    },
+    {
+      "title": "Coding For Beginners 2 - Get Started With Web Development!",
+      "url": "https://www.udemy.com/course/coding-for-beginners-2-get-started-with-web-development/"
+    },
+    {
+      "title": "Modern JavaScript: Building Real-World, Real-Time Apps",
+      "url": "https://www.udemy.com/course/real-world-real-time-modern-javascript/"
+    },
+    {
+      "title": "Web Performance In Practice: Master Core Web Vitals & More",
+      "url": "https://www.udemy.com/course/website-performance-optimization-optimize-core-web-vitals-and-more/"
+    },
+    {
+      "title": "Next.js - Build Full Stack Apps with Next.js & TypeScript",
+      "url": "https://www.udemy.com/course/nextjs-build-full-stack-apps-with-nextjs-using-redux/"
+    },
+    {
+      "title": "JQuery Master, build awesome websites, 5 Projects included!",
+      "url": "https://www.udemy.com/course/jquery-master-beginner-to-advanced-projects-included/"
+    },
+    {
+      "title": "Drupal 7 for Beginners",
+      "url": "https://www.udemy.com/course/drupal-for-beginners/"
+    },
+    {
+      "title": "The Fullstack Nft Minting Website Course",
+      "url": "https://www.udemy.com/course/the-fullstack-nft-minting-website-course/"
+    },
+    {
+      "title": "ChatGPT AI Voice Chatbot Build with React and FAST API Combo",
+      "url": "https://www.udemy.com/course/chatgpt-ai-voice-chatbot-build-with-react-and-fast-api-combo/"
+    },
+    {
+      "title": "Free Automated A+ Graded SSL Certificates with Let's Encrypt",
+      "url": "https://www.udemy.com/course/free-automated-a-graded-ssl-certificates-with-lets-encrypt/"
+    },
+    {
+      "title": "Intro To HTML & CSS: Web Development For Beginners",
+      "url": "https://www.udemy.com/course/intro-to-html-and-css-basics/"
+    },
+    {
+      "title": "React for Absolute Beginners",
+      "url": "https://www.udemy.com/course/react-guide-for-beginners/"
+    },
+    {
+      "title": "Learn Responsive Web Design with 4 Live Projects",
+      "url": "https://www.udemy.com/course/responsive-web-design-2-0-complete-guide/"
+    },
+    {
+      "title": "Laravel Build Complete Hotel Booking Reservation System",
+      "url": "https://www.udemy.com/course/laravel-build-complete-hotel-booking-reservation-system/"
+    },
+    {
+      "title": "Learn JSON with JavaScript Objects and APIs in 1 hour",
+      "url": "https://www.udemy.com/course/json-course/"
+    },
+    {
+      "title": "Create a web application with python + Flask + PostgreSQL",
+      "url": "https://www.udemy.com/course/create-a-web-application-with-python-flask-postgresql/"
+    },
+    {
+      "title": "Magento Course - Complete Magento certified developer exam",
+      "url": "https://www.udemy.com/course/magento-magento-2-certified-developer-exam-learn-full-course/"
+    },
+    {
+      "title": "Learn Web Scraping with Node.js",
+      "url": "https://www.udemy.com/course/web-scraping-nodejs/"
+    },
+    {
+      "title": "Become a Web Developer: 2024 Bootcamp",
+      "url": "https://www.udemy.com/course/become-a-web-developer-bootcamp/"
+    },
+    {
+      "title": "Learn Python and Django: Payment Processing",
+      "url": "https://www.udemy.com/course/learn-django-code-accept-payments-with-stripe/"
+    },
+    {
+      "title": "Full-Stack Web Development with React and MongoDB",
+      "url": "https://www.udemy.com/course/full-stack-web-development-with-react-and-mongodb/"
+    },
+    {
+      "title": "Java Programming For Complete Beginners Using Eclipse IDE",
+      "url": "https://www.udemy.com/course/java-programming-for-complete-beginners-using-eclipse/"
+    },
+    {
+      "title": "Learn React & Angular Step by Step: Building Projects",
+      "url": "https://www.udemy.com/course/react-angular-complete-guide-for-beginners-step-by-step/"
+    },
+    {
+      "title": "Crash Course: Fundamentals Of HTML & CSS From Scratch.",
+      "url": "https://www.udemy.com/course/beginner-crash-course-fundamentals-of-html-css-in-60-mins/"
+    },
+    {
+      "title": "Build ASP.NET Blazor apps with a clean structure",
+      "url": "https://www.udemy.com/course/aspnet-core-blazor/"
+    },
+    {
+      "title": "Working with Vue 3 and Go (Golang)",
+      "url": "https://www.udemy.com/course/working-with-vue-3-and-go/"
+    },
+    {
+      "title": "Django 5 - Build a Complete Website from Scratch to Deploy",
+      "url": "https://www.udemy.com/course/django-5-build-a-complete-website-from-scratch-to-deploy/"
+    },
+    {
+      "title": "Learn Oracle Visual Builder by examples",
+      "url": "https://www.udemy.com/course/learn-oracle-visual-builder-by-examples/"
+    },
+    {
+      "title": "JavaScript Fundamentals Course for Beginners",
+      "url": "https://www.udemy.com/course/javascript-fundamentals-course-for-beginners/"
+    },
+    {
+      "title": "Learn how to build Amazon website using Vue.js and Node.js",
+      "url": "https://www.udemy.com/course/learn-how-to-build-amazon-website-using-vuejs-and-nodejs/"
+    },
+    {
+      "title": "Learn by Doing: Vue JS 2.0 the Right Way",
+      "url": "https://www.udemy.com/course/learn-by-doing-vue-js-2-the-right-way/"
+    },
+    {
+      "title": "Master Azure OpenAI Service with Azure AI Foundry",
+      "url": "https://www.udemy.com/course/master-azure-openai-service-with-azure-ai-foundry/"
+    },
+    {
+      "title": "WordPress for Beginners: The Complete 2024 Master Class",
+      "url": "https://www.udemy.com/course/wordpress-for-beginners-the-complete-2019-wordpress-guide/"
+    },
+    {
+      "title": "Python and Flask Full-Stack Web Development for beginners",
+      "url": "https://www.udemy.com/course/python-and-flask-full-stack-web-development-for-beginners/"
+    },
+    {
+      "title": "Vue JS - The Complete Guide [2025]",
+      "url": "https://www.udemy.com/course/vue-js-the-complete-guide-2025/"
+    },
+    {
+      "title": "Scrape Websites using PhantomJS and CasperJS",
+      "url": "https://www.udemy.com/course/scrape-websites-phantomjs-casperjs/"
+    },
+    {
+      "title": "Bootstrap: Build a modern Responsive website with bootstrap",
+      "url": "https://www.udemy.com/course/build-a-professional-website-using-html-css-bootstrap/"
+    },
+    {
+      "title": "Learn Firebase Core with React",
+      "url": "https://www.udemy.com/course/learn-firebase/"
+    },
+    {
+      "title": "Node.js and React: Build a complete web chat application",
+      "url": "https://www.udemy.com/course/build-a-complete-web-chat-application-with-nodejs-and-react/"
+    },
+    {
+      "title": "Mastering HTML5: Beginner to Expert [2022]",
+      "url": "https://www.udemy.com/course/mastering-html5-beginner-to-expert/"
+    },
+    {
+      "title": "Build a User Web App from Scratch with Vanilla PHP 8+",
+      "url": "https://www.udemy.com/course/create-real-world-php-webapp-from-scratch/"
+    },
+    {
+      "title": "Stripe In Practice",
+      "url": "https://www.udemy.com/course/stripe-course/"
+    },
+    {
+      "title": "Building web APIs with Rust (beginners)",
+      "url": "https://www.udemy.com/course/web-dev-with-rust-rocket-diesel/"
+    },
+    {
+      "title": "Django Tutorial: Build Your First App Fast & Free!",
+      "url": "https://www.udemy.com/course/create-your-first-django-website-fast-free/"
+    },
+    {
+      "title": "Personal Book Author Website with E-Commerce (PHP & MySQL)",
+      "url": "https://www.udemy.com/course/personal-book-author-website-with-ecommerce-php-mysql/"
+    },
+    {
+      "title": "Django in AWS (EC2): Fundamentals Course",
+      "url": "https://www.udemy.com/course/django-tutorial-amazon-web-services/"
+    },
+    {
+      "title": "Create a Website from Scratch using HTML CSS step by step",
+      "url": "https://www.udemy.com/course/create-a-website-from-scratch-using-html-css-in-1-hour/"
+    },
+    {
+      "title": "HTML5 Coding from Scratch - Build Your Own Website",
+      "url": "https://www.udemy.com/course/learn-html5-coding-from-scratch-build-your-own-website/"
+    },
+    {
+      "title": "Angular - Concepts, Code and Collective Wisdom",
+      "url": "https://www.udemy.com/course/angular-2-concepts-code-and-collective-wisdom/"
+    },
+    {
+      "title": "PHP with MySQL: Build Complete Coffee Shop System",
+      "url": "https://www.udemy.com/course/php-with-mysql-2023-build-complete-coffee-shop-system/"
+    },
+    {
+      "title": "Ultimate Front-End Bootcamp: CSS, Bootstrap, JQ, JS, React",
+      "url": "https://www.udemy.com/course/ultimate-front-end-bootcamp-css-bootstrap-jq-js-react/"
+    },
+    {
+      "title": "Learn HTML,CSS,JAVASCRIPT",
+      "url": "https://www.udemy.com/course/learn-htmlcssjavascript/"
+    },
+    {
+      "title": "Build a Simple Calculator in React + JavaScript Foundations",
+      "url": "https://www.udemy.com/course/build-a-calculator-in-react-javascript-foundations/"
+    },
+    {
+      "title": "Email Marketing: Send Unlimited Emails via Own Mail Server",
+      "url": "https://www.udemy.com/course/email-marketing-send-unlimited-emails-via-own-mail-server/"
+    },
+    {
+      "title": "Django - The Complete Course 2025 (Beginner + Advance + AI)",
+      "url": "https://www.udemy.com/course/django-complete-course/"
+    },
+    {
+      "title": "Master Laravel & Create High-Level Applications with Laravel",
+      "url": "https://www.udemy.com/course/php-with-laravel-create-advanced-applications-while-learning-laravel/"
+    },
+    {
+      "title": "The Complete Wordpress Course - Build Your Own Website Today",
+      "url": "https://www.udemy.com/course/wordpresscourse/"
+    },
+    {
+      "title": "React Next.js Node API AWS - Build Scaling MERN Stack App",
+      "url": "https://www.udemy.com/course/mern-react-node-aws/"
+    },
+    {
+      "title": "The Nest JS Bootcamp - Complete Developer Guide",
+      "url": "https://www.udemy.com/course/the-nest-js-bootcamp-complete-developer-guide/"
+    },
+    {
+      "title": "Wordpress Backup & Restore",
+      "url": "https://www.udemy.com/course/wordpress-backup-restore/"
+    },
+    {
+      "title": "Start Coding Browser Extensions Using JavaScript!",
+      "url": "https://www.udemy.com/course/google-chrome-extension/"
+    },
+    {
+      "title": "CSS and CSS3 For Absolute Beginners",
+      "url": "https://www.udemy.com/course/css-and-css3-for-absolute-beginners/"
+    },
+    {
+      "title": "AEM Interview Q&A And Developer Certification Tests",
+      "url": "https://www.udemy.com/course/aem-interview-questions-and-answers/"
+    },
+    {
+      "title": "Full-Stack Firebase",
+      "url": "https://www.udemy.com/course/full-stack-firebase/"
+    },
+    {
+      "title": "The JavaScript Complete Guide Course Web Programming",
+      "url": "https://www.udemy.com/course/javascript-complete-guide-course/"
+    },
+    {
+      "title": "Build a Google Meet Clone from Scratch: WebRTC & Socket io",
+      "url": "https://www.udemy.com/course/build-a-google-meet-clone-from-scratch/"
+    },
+    {
+      "title": "Build 20 JavaScript Projects in 20 Day with HTML, CSS & JS",
+      "url": "https://www.udemy.com/course/20-web-projects-with-html-css-and-javascript-master-js/"
+    },
+    {
+      "title": "WordPress Security Masterclass - Defeat Hackers & Malware",
+      "url": "https://www.udemy.com/course/wordpress-security-2018-destroy-malware-defeat-hackers/"
+    },
+    {
+      "title": "Adobe Experience Manager | AEM Advanced Concepts",
+      "url": "https://www.udemy.com/course/adobe-experience-manager-advanced-concepts/"
+    },
+    {
+      "title": "Advanced Laravel and Vuejs - Build a Youtube clone",
+      "url": "https://www.udemy.com/course/build-a-youtube-clone/"
+    },
+    {
+      "title": "jQuery in Action: Build 20 jQuery Projects",
+      "url": "https://www.udemy.com/course/jquery-web-development-made-easy/"
+    },
+    {
+      "title": "Using gRPC in Microservices Communication with .Net 5",
+      "url": "https://www.udemy.com/course/using-grpc-in-microservices-communication-with-net-5/"
+    },
+    {
+      "title": "SASS from Beginner to Expert",
+      "url": "https://www.udemy.com/course/write-clean-css-using-sass/"
+    },
+    {
+      "title": "Become a Highly Paid JavaScript Developer in 2 Weeks",
+      "url": "https://www.udemy.com/course/javascript-step-by-step-guide-for-beginners/"
+    },
+    {
+      "title": "Oracle APEX Developer Professional (2025)",
+      "url": "https://www.udemy.com/course/oracle-apex-beginners-to-professional/"
+    },
+    {
+      "title": "Laravel 11 - From Basics to Advance (2024)",
+      "url": "https://www.udemy.com/course/laravel-basics-to-advance/"
+    },
+    {
+      "title": "Rest Api's in Asp.Net and C#",
+      "url": "https://www.udemy.com/course/rest-apis-in-asp/"
+    },
+    {
+      "title": "RxJS Operators",
+      "url": "https://www.udemy.com/course/rxjs-operators/"
+    },
+    {
+      "title": "Let's Build a Go version of Laravel",
+      "url": "https://www.udemy.com/course/lets-build-a-go-version-of-laravel/"
+    },
+    {
+      "title": "Complete JavaScript Programming: From Novice to Expert",
+      "url": "https://www.udemy.com/course/complete-javascript-programming-from-novice-to-expert/"
+    },
+    {
+      "title": "JavaScript Infrastructure: CLI, NPM, Babel and Webpack",
+      "url": "https://www.udemy.com/course/2019-js-infrastructure-course-npm-babel-7-webpack-4/"
+    },
+    {
+      "title": "Create Your First Website with HTML, CSS & JavaScript",
+      "url": "https://www.udemy.com/course/html-css-javascript-basics/"
+    },
+    {
+      "title": "React JS Notes App & Crash Course",
+      "url": "https://www.udemy.com/course/react-crash-course/"
+    },
+    {
+      "title": "Modern Three.js for Real Websites",
+      "url": "https://www.udemy.com/course/modern-threejs-for-real-websites/"
+    },
+    {
+      "title": "Build a Crypto Currency News Site With Python and Django",
+      "url": "https://www.udemy.com/course/build-a-crypto-currency-news-site-with-python-and-django/"
+    },
+    {
+      "title": "Full stack MERN Real Estate App: A Modern MERN Marketplace",
+      "url": "https://www.udemy.com/course/full-stack-mern-real-estate-app/"
+    },
+    {
+      "title": "Three.js, React Three Fiber, Drei, React Spring & More",
+      "url": "https://www.udemy.com/course/learn-react-react-three-fiber-drei-react-spring-more/"
+    },
+    {
+      "title": "Complete Full Stack Web Development Bootcamp - AI Integrated",
+      "url": "https://www.udemy.com/course/complete-full-stack-web-development-bootcamp/"
+    },
+    {
+      "title": "Electron & React JS - A Practical Guide for Chat App",
+      "url": "https://www.udemy.com/course/electron-react-js-build-a-native-chat-app-with-javascript/"
+    },
+    {
+      "title": "AEM Sites: Create & Manage Webpages using AEM (All versions)",
+      "url": "https://www.udemy.com/course/aem-authoring-essentials/"
+    },
+    {
+      "title": "Intro To Django with Python For Web Development",
+      "url": "https://www.udemy.com/course/intro-to-django-with-python-for-web-development/"
+    },
+    {
+      "title": "100 Days of JavaScript",
+      "url": "https://www.udemy.com/course/100-days-of-javascript/"
+    },
+    {
+      "title": "Next JS & Typescript with Shopify Integration - Full Guide",
+      "url": "https://www.udemy.com/course/next-js-typescript-with-shopify-integration-full-guide/"
+    },
+    {
+      "title": "Complete Beginners Java Tutorial -Java, JavaFx,Maven,Jenkins",
+      "url": "https://www.udemy.com/course/complete-beginners-java-tutorial-java-javafx-maven/"
+    },
+    {
+      "title": "Practical Typescript",
+      "url": "https://www.udemy.com/course/practical-typescript/"
+    },
+    {
+      "title": "Laravel - Build Complete Portfolio Website (2024)",
+      "url": "https://www.udemy.com/course/laravel-portfolio-building-course/"
+    },
+    {
+      "title": "The Web Developer Bootcamp 2025",
+      "url": "https://www.udemy.com/course/the-web-developer-bootcamp/"
+    },
+    {
+      "title": "SAS programing on Reports and Tables generating",
+      "url": "https://www.udemy.com/course/sas-programming-on-report-generating-part-1/"
+    },
+    {
+      "title": "JavaScript 20 Projects In 20 Days HTML, CSS & JavaScript",
+      "url": "https://www.udemy.com/course/javascript-20-projects-in-20-days-html-css-javascript/"
+    },
+    {
+      "title": "Modern Angular 20 with Signals - The missing guide",
+      "url": "https://www.udemy.com/course/modern-angular-with-signals-the-missing-guide/"
+    },
+    {
+      "title": "Become a Java Full Stack Developer with React & Spring Boot",
+      "url": "https://www.udemy.com/course/become-a-java-full-stack-developer-with-react-spring-boot/"
+    },
+    {
+      "title": "The Extensive WebGL Series ! - Part1 : Low Level Graphics",
+      "url": "https://www.udemy.com/course/the-extensive-webgl-series-part1-low-level-basics/"
+    },
+    {
+      "title": "The Complete Course: 2020 JavaScript Essentials From Scratch",
+      "url": "https://www.udemy.com/course/javascript-essentials-course/"
+    },
+    {
+      "title": "Advanced WordPress Gutenberg Blocks, Post Types & Taxonomies",
+      "url": "https://www.udemy.com/course/advanced-wordpress-topics-post-types-taxonomies-metaboxes/"
+    },
+    {
+      "title": "PHP for Beginners: PDO, MySQL, phpMyAdmin",
+      "url": "https://www.udemy.com/course/php-and-mysql-for-beginners/"
+    },
+    {
+      "title": "Mastery in Java Web Services and RESTful API with SpringBoot",
+      "url": "https://www.udemy.com/course/mastery-in-java-web-services-and-restful-api/"
+    },
+    {
+      "title": "Create POS System - Inventory & sales with PHP 7 & adminLTE",
+      "url": "https://www.udemy.com/course/create-pos-system-inventory-sales-with-php7-adminlte/"
+    },
+    {
+      "title": "The Complete Vue.JS Course for Beginners: Zero to Mastery",
+      "url": "https://www.udemy.com/course/the-complete-vuejs-course-for-beginners-zero-to-mastery/"
+    },
+    {
+      "title": "CSS Grid & Flexbox - The Ultimate Course Build +10 Projects",
+      "url": "https://www.udemy.com/course/css-grid-flexbox-the-ultimate-course-build-10-projects/"
+    },
+    {
+      "title": "Building Faster Websites: Get Started with Web Performance",
+      "url": "https://www.udemy.com/course/building-faster-websites-getting-started-with-web-performance/"
+    },
+    {
+      "title": "Node.js REST API with Express & MongoDB - Solid Architecture",
+      "url": "https://www.udemy.com/course/nodejs-rest-api-jwt-security-mongodb-complete-guide/"
+    },
+    {
+      "title": "BUILD THE BEST ECOMMERCE WEBSITE EVER with REACT JS NEXT JS",
+      "url": "https://www.udemy.com/course/build-the-best-ecommerce-website-ever-with-react-js-next-js/"
+    },
+    {
+      "title": "Chatbot Development Full-Cycle: From Concept to Growth",
+      "url": "https://www.udemy.com/course/landbot-designing-conversation-building-chatbot/"
+    },
+    {
+      "title": "Introduction to WAI-ARIA for Beginners",
+      "url": "https://www.udemy.com/course/introduction-to-wai-aria-for-beginners/"
+    },
+    {
+      "title": "Mastering REST APIs with FastAPI",
+      "url": "https://www.udemy.com/course/rest-api-fastapi-python/"
+    },
+    {
+      "title": "Laravel Build Complete Learning Management System LMS A-Z",
+      "url": "https://www.udemy.com/course/laravel-learning-management-system/"
+    },
+    {
+      "title": "Advanced React TypeScript Redux StyledComponents: Sudoku App",
+      "url": "https://www.udemy.com/course/react2020/"
+    },
+    {
+      "title": "The Complete PHP Bootcamp Course With Video Sharing Project",
+      "url": "https://www.udemy.com/course/php-bootcamp/"
+    },
+    {
+      "title": "Power up HTML5 with JavaScript",
+      "url": "https://www.udemy.com/course/power-up-html5-with-javascript/"
+    },
+    {
+      "title": "Mern Full Stack Web Application with React & Web Development",
+      "url": "https://www.udemy.com/course/mern-full-stack-web-application-with-react-web-development/"
+    },
+    {
+      "title": "Learn Microservices with .Net Core",
+      "url": "https://www.udemy.com/course/learn-microservices-with-net-core/"
+    },
+    {
+      "title": "Gatsby JS | Build a personal blog using gatsbyJS",
+      "url": "https://www.udemy.com/course/gatsbyjs-graphql-build-a-personal-blog-using-gatsbyjs-graphql/"
+    },
+    {
+      "title": "PHP with MySQL: Build 5 PHP and MySQL Projects",
+      "url": "https://www.udemy.com/course/php-with-mysql-2022-build-5-php-and-mysql-projects/"
+    },
+    {
+      "title": "Seven to Heaven - HTML5, CSS3 and jQuery Course",
+      "url": "https://www.udemy.com/course/seven-to-heaven-html5-css3-and-jquery-course/"
+    },
+    {
+      "title": "50 HTML CSS JavaScript projects - HTML5, CSS3, vanilla JS",
+      "url": "https://www.udemy.com/course/html-css-javascript-projects-for-beginners/"
+    },
+    {
+      "title": "Building Chatbots with Amazon Lex and IBM Watson",
+      "url": "https://www.udemy.com/course/building-chatbots-with-amazon-lex-and-ibm-watson/"
+    },
+    {
+      "title": "Adobe Experience Manager CMS Basics",
+      "url": "https://www.udemy.com/course/adobe-experience-manager-basics/"
+    },
+    {
+      "title": "Google Cloud Functions (FaaS) with Python from zero to hero!",
+      "url": "https://www.udemy.com/course/cloud-functions-faas-with-python-from-zero-to-hero/"
+    },
+    {
+      "title": "The Pro Salesforce Development Course : Beginner to Advanced",
+      "url": "https://www.udemy.com/course/pro-salesforce-development-course-beginner-to-advanced/"
+    },
+    {
+      "title": "The Complete Modern Javascript Course with ES6",
+      "url": "https://www.udemy.com/course/the-complete-javascript-development-course-/"
+    },
+    {
+      "title": "PHP Mastery Object-Oriented Design & Test-Driven Development",
+      "url": "https://www.udemy.com/course/object-oriented-php-tdd-with-phpunit-from-scratch/"
+    },
+    {
+      "title": "Complete Vue.js 3 Course: Vuejs 3, Vite, TailwindCSS, Pinia",
+      "url": "https://www.udemy.com/course/complete-vuejs-3-course/"
+    },
+    {
+      "title": "Django with GraphQL",
+      "url": "https://www.udemy.com/course/django-with-graphql/"
+    },
+    {
+      "title": "Creating WordPress Plugins The Right Way",
+      "url": "https://www.udemy.com/course/wordpress-plugin-development/"
+    },
+    {
+      "title": "Creating powerful API's with Django Rest Framework on Heroku",
+      "url": "https://www.udemy.com/course/powerful-apis-django-rest-framework/"
+    },
+    {
+      "title": "Gatsby JS: Build PWA Blog With GraphQL And React + WordPress",
+      "url": "https://www.udemy.com/course/gatsby-js-build-pwa-blog-with-graphql-and-react-wordpress/"
+    },
+    {
+      "title": "JavaScript Master Class for 2025 with HTML and CSS",
+      "url": "https://www.udemy.com/course/javascript-master-class-with-html-and-css/"
+    },
+    {
+      "title": "React Pizza Shop - Ordering Food with Hooks and Firebase",
+      "url": "https://www.udemy.com/course/react-pizza/"
+    },
+    {
+      "title": "Build a Learning Management System with Django and React",
+      "url": "https://www.udemy.com/course/learning-management-system-with-django-and-react/"
+    },
+    {
+      "title": "Python GUI Programming",
+      "url": "https://www.udemy.com/course/python-gui-programming-using-tkinter-module-for-beginners/"
+    },
+    {
+      "title": "Gutenberg Block Development for WordPress",
+      "url": "https://www.udemy.com/course/gutenberg-block-development-wordpress-javascript-course/"
+    },
+    {
+      "title": "D3.js in Action: Build 17 D3.js Data Visualization Projects",
+      "url": "https://www.udemy.com/course/d3js-data-visualization-projects/"
+    },
+    {
+      "title": "Create a MEAN App by Example - Full Stack Course",
+      "url": "https://www.udemy.com/course/full-stack-course-mean-app/"
+    },
+    {
+      "title": "Build Production Ready REST API in Spring Boot - Expense App",
+      "url": "https://www.udemy.com/course/build-production-ready-rest-api-with-spring-boot-expense-manager-api/"
+    },
+    {
+      "title": "Yii2 beginner to professional",
+      "url": "https://www.udemy.com/course/yii2-beginner-to-professional/"
+    },
+    {
+      "title": "The Comple JavaScript From Beginner To Advanced",
+      "url": "https://www.udemy.com/course/the-comple-javascript-from-beginner-to-advanced/"
+    },
+    {
+      "title": "Spring Boot Microservices with JPA",
+      "url": "https://www.udemy.com/course/spring-boot-microservices-with-jpa/"
+    },
+    {
+      "title": "The complete guide to testing javascript & node applications",
+      "url": "https://www.udemy.com/course/the-complete-guide-to-testing-javascript-node-applications/"
+    },
+    {
+      "title": "Full Stack Web Application Development with Django Framework",
+      "url": "https://www.udemy.com/course/django-python-web-framework/"
+    },
+    {
+      "title": "Mapping in Leaflet JS",
+      "url": "https://www.udemy.com/course/mapping-in-leafletjs/"
+    },
+    {
+      "title": "50 Days React Bootcamp: Build 50 Real World React Projects",
+      "url": "https://www.udemy.com/course/build-real-world-application-projects-using-react/"
+    },
+    {
+      "title": "React Redux NodeJs MERN Stack - Hotel Booking Marketplace",
+      "url": "https://www.udemy.com/course/react-node-mern-marketplace/"
+    },
+    {
+      "title": "Become a JavaScript developer - Learn (React, Node,Angular)",
+      "url": "https://www.udemy.com/course/become-a-javascript-developer-learn-react-nodeangular/"
+    },
+    {
+      "title": "HTML5 Geolocation in Action: Build 7 HTML5 Geolocation Apps",
+      "url": "https://www.udemy.com/course/html5-geolocation-in-depth-build-location-aware-applications/"
+    },
+    {
+      "title": "Angular, Ionic & Node: Build A Real Web & Mobile Chat App",
+      "url": "https://www.udemy.com/course/angular-ionic-node-build-a-real-web-mobile-chat-app/"
+    },
+    {
+      "title": "Backend web development with Django 2 - Build 8 projects",
+      "url": "https://www.udemy.com/course/django-2/"
+    },
+    {
+      "title": "Get a Job As a Web Developer: A Step-by-Step Guide",
+      "url": "https://www.udemy.com/course/get-a-job-career-as-a-frontend-web-developer-step-by-step-guide/"
+    },
+    {
+      "title": "Create An Animated Landing Page by HTML, CSS and JavaScript",
+      "url": "https://www.udemy.com/course/create-an-animated-landing-page-by-html-css-and-javascript/"
+    },
+    {
+      "title": "JavaScript DOM Create Interactive Dynamic Web Pages",
+      "url": "https://www.udemy.com/course/javascript-dom-course/"
+    },
+    {
+      "title": "Build Ecommerce Website to Master Django and Python",
+      "url": "https://www.udemy.com/course/build-ecommerce-website-to-master-django-and-python/"
+    },
+    {
+      "title": "Getting started with HTTP",
+      "url": "https://www.udemy.com/course/getting-started-with-http/"
+    },
+    {
+      "title": "Convert HTML5 One Page Templates Into WordPress Themes",
+      "url": "https://www.udemy.com/course/convert-html5-template-to-wordpress-theme/"
+    },
+    {
+      "title": "MongoDB - The Ultimate Administration and Developer's Guide",
+      "url": "https://www.udemy.com/course/the-ultimate-guide-for-mongodb/"
+    },
+    {
+      "title": "Secure Your Wordpress Website For Beginners",
+      "url": "https://www.udemy.com/course/secure-your-wordpress-website-for-beginners/"
+    },
+    {
+      "title": "Facebook Clone with Laravel, TDD, Vue & Tailwind CSS",
+      "url": "https://www.udemy.com/course/facebook-clone-with-laravel-tdd-vue-tailwind-css/"
+    },
+    {
+      "title": "The Definitive Node.Js Developer Course",
+      "url": "https://www.udemy.com/course/the-definitive-nodejs-developer-course/"
+    },
+    {
+      "title": "Complete php mysql course - Learn php mysql and php oop",
+      "url": "https://www.udemy.com/course/php-mysqli-tutorials/"
+    },
+    {
+      "title": "Master .NET 8 MVC: Build Market Management System",
+      "url": "https://www.udemy.com/course/master-net-core-mvc/"
+    },
+    {
+      "title": "React: Comprehensive Guide to Modern Web Development",
+      "url": "https://www.udemy.com/course/reactjs-training/"
+    },
+    {
+      "title": "Visual Basic .NET Tutorial for Beginners Make App That Sells",
+      "url": "https://www.udemy.com/course/visual-basic-net-tutorial-for-beginners/"
+    },
+    {
+      "title": "Ruby On Rails For Web Development",
+      "url": "https://www.udemy.com/course/ruby-on-rails-for-web-development/"
+    },
+    {
+      "title": "Flutter Web Development Course Build Complete FlutterWeb App",
+      "url": "https://www.udemy.com/course/flutter-web-development-course-build-complete-flutterweb-app/"
+    },
+    {
+      "title": "Node.js Express Project - CMS and Shopping Cart with Paypal",
+      "url": "https://www.udemy.com/course/nodejs-express-project-cms-and-shopping-cart/"
+    },
+    {
+      "title": "PHP for Beginners: Build Complete Ecommerce Store",
+      "url": "https://www.udemy.com/course/php-for-beginners-2023-build-complete-ecommerce-store/"
+    },
+    {
+      "title": "NodeJS - The Complete Web Developer Bootcamp 2024",
+      "url": "https://www.udemy.com/course/nodejs-complete-guide-to-building-data-driven-applications/"
+    },
+    {
+      "title": "Hands-On JavaScript, Crafting 10 Projects from Scratch",
+      "url": "https://www.udemy.com/course/mastering-javascript-by-building-10-projects-from-scratch/"
+    },
+    {
+      "title": "Learn Plugin Development in WordPress By Building Projects",
+      "url": "https://www.udemy.com/course/learn-plugin-development-in-wordpress-by-building-projects/"
+    },
+    {
+      "title": "AI for Business: Transforming Strategy & Operations",
+      "url": "https://www.udemy.com/course/ai-for-business-transforming-strategy-operations/"
+    },
+    {
+      "title": "Advanced OpenID Connect with Keycloak and Spring Security",
+      "url": "https://www.udemy.com/course/advanced-openid-connect/"
+    },
+    {
+      "title": "Salesforce Heroku Masterclass",
+      "url": "https://www.udemy.com/course/heroku-masterclass/"
+    },
+    {
+      "title": "jQuery For Beginners : A Basic Introduction",
+      "url": "https://www.udemy.com/course/jquery-for-beginners-a-basic-introduction/"
+    },
+    {
+      "title": "Internet & Cloud Computing Foundations",
+      "url": "https://www.udemy.com/course/internet-cloud-computing-foundations/"
+    },
+    {
+      "title": "Pass The Certified Blockchain Developer Exam - Ethereum CBDE",
+      "url": "https://www.udemy.com/course/ethereum-blockchain-certification/"
+    },
+    {
+      "title": "Adobe Muse CC Course - Design and Launch Websites",
+      "url": "https://www.udemy.com/course/website-design-adobe-muse-course/"
+    },
+    {
+      "title": "A Complete Guide to the JAMstack and React E-Commerce",
+      "url": "https://www.udemy.com/course/a-complete-guide-to-the-jamstack-and-react-e-commerce/"
+    },
+    {
+      "title": "JavaScript Mastery From Basics to Advanced 2025",
+      "url": "https://www.udemy.com/course/javascript-mastery-from-basics-to-advanced/"
+    },
+    {
+      "title": "The Perfect NGINX Server - CentOS Edition",
+      "url": "https://www.udemy.com/course/the-perfect-nginx-server-centos-edition/"
+    },
+    {
+      "title": "Create a Metaverse using Three.js, Solidity and NFT Tokens",
+      "url": "https://www.udemy.com/course/create-a-metaverse/"
+    },
+    {
+      "title": "PyScript Fundamentals 101- Run Python in your Browser's HTML",
+      "url": "https://www.udemy.com/course/pyscript-fundamentals-101-run-python-in-your-browsers-html/"
+    },
+    {
+      "title": "The Complete PHP CodeIgniter Course: Beginner To Advanced",
+      "url": "https://www.udemy.com/course/codeignitercourse/"
+    },
+    {
+      "title": "HTML For Beginners",
+      "url": "https://www.udemy.com/course/html-for-beginners-introduction/"
+    },
+    {
+      "title": "Projects in CSS",
+      "url": "https://www.udemy.com/course/projects-in-css/"
+    },
+    {
+      "title": "Angular - The Complete Guide (2025 Edition)",
+      "url": "https://www.udemy.com/course/the-complete-guide-to-angular-2/"
+    },
+    {
+      "title": "Lodash - The Complete Guide",
+      "url": "https://www.udemy.com/course/lodash-the-complete-guide/"
+    },
+    {
+      "title": "JQuery Bootcamp 2021",
+      "url": "https://www.udemy.com/course/complete-jquery-developer-course-beginner-to-pro/"
+    },
+    {
+      "title": "XML and XSD: a complete W3C-content based course (+10 hours)",
+      "url": "https://www.udemy.com/course/xml-and-xsd-a-complete-w3c-content-based-course/"
+    },
+    {
+      "title": "Mastering Google Chrome DevTools Course",
+      "url": "https://www.udemy.com/course/devtools/"
+    },
+    {
+      "title": "Mastering Wordpress: Wordpress Development and Monetization",
+      "url": "https://www.udemy.com/course/master-wordpress-website-development-and-monetization/"
+    },
+    {
+      "title": "Projects in HTML5",
+      "url": "https://www.udemy.com/course/projects-in-html5/"
+    },
+    {
+      "title": "Build an app in less than 1 hour using React Native",
+      "url": "https://www.udemy.com/course/build-an-app-in-less-than-60-minutes-using-react-native/"
+    },
+    {
+      "title": "Modern JavaScript The Complete Course - Build +15 Projects",
+      "url": "https://www.udemy.com/course/modern-javascript-the-complete-course-build-10-projects/"
+    },
+    {
+      "title": "Amazon Alexa Development: From Beginner to Intermediate",
+      "url": "https://www.udemy.com/course/amazon-alexa-development-from-beginner-to-intermediate/"
+    },
+    {
+      "title": "Web Development Fundamentals: HTML5 and CSS3 for Beginners",
+      "url": "https://www.udemy.com/course/html5-and-css3-for-absolute-beginners/"
+    },
+    {
+      "title": "Learn Flask, A web Development Framework of Python",
+      "url": "https://www.udemy.com/course/learn-flask-a-web-development-framework-of-python/"
+    },
+    {
+      "title": "Full Stack Web Development: Web From Zero with PHP 2022",
+      "url": "https://www.udemy.com/course/full-stack-web-development-web-from-zero-with-php-2020/"
+    },
+    {
+      "title": "Angular Front End Development Beginner to Master 2025",
+      "url": "https://www.udemy.com/course/angular-front-end-beginner-to-master/"
+    },
+    {
+      "title": "TypeScript for Beginners: Mastering TypeScript Fundamentals",
+      "url": "https://www.udemy.com/course/typescript-for-beginners-mastering-typescript-fundamentals/"
+    },
+    {
+      "title": "Beginners Introduction to Web Development",
+      "url": "https://www.udemy.com/course/explore-web-development/"
+    },
+    {
+      "title": "Complete Oracle JET Course for Beginners (Step-by-Step)",
+      "url": "https://www.udemy.com/course/complete-oracle-jet-course-for-beginners-step-by-step/"
+    },
+    {
+      "title": "Learn Full-Stack Vue, .NET Core, PostgreSQL Web Development",
+      "url": "https://www.udemy.com/course/learn-full-stack-vue-net-core-postgres/"
+    },
+    {
+      "title": "Angular Interview Masterclass: Top 100 Questions (PDF)(2025)",
+      "url": "https://www.udemy.com/course/angular-interview-masterclass-top-100-questions-with-pdf/"
+    },
+    {
+      "title": "Web Forms - Build & Master HTML Web forms In 2025",
+      "url": "https://www.udemy.com/course/master-web-forms/"
+    },
+    {
+      "title": "AWS, JavaScript, React | Deploy Web Apps on the Cloud",
+      "url": "https://www.udemy.com/course/aws-javascript-react-deploy-web-apps-on-the-cloud/"
+    },
+    {
+      "title": "Beginner's Guide to Elm Programming. Build Web Apps!",
+      "url": "https://www.udemy.com/course/beginners-guide-to-elm-programming-build-web-apps/"
+    },
+    {
+      "title": "Learn React JS and Web API by creating a Full Stack Web App",
+      "url": "https://www.udemy.com/course/react-js-and-web-api/"
+    },
+    {
+      "title": "Full Stack Web Development with Mern Full Stack Project",
+      "url": "https://www.udemy.com/course/full-stack-web-development-with-mern-full-stack-project/"
+    },
+    {
+      "title": "MS SQL with C#",
+      "url": "https://www.udemy.com/course/ms-sql-with-c/"
+    },
+    {
+      "title": "Introduction to Domain Names & Web Hosting(Free Domain Name)",
+      "url": "https://www.udemy.com/course/free-3-domain-names/"
+    },
+    {
+      "title": "11 JavaScript Features Critical to Understand",
+      "url": "https://www.udemy.com/course/11-javascript-features-critical-to-understand/"
+    },
+    {
+      "title": "Create web app with Angular 12, .NET Core Web API & Mongo DB",
+      "url": "https://www.udemy.com/course/create-web-app-with-angular-12-net-core-web-api-mongo-db/"
+    },
+    {
+      "title": "Learn to use JSON",
+      "url": "https://www.udemy.com/course/learn-to-use-json/"
+    },
+    {
+      "title": "Learn MeteorJS By Building 10 Real World Projects",
+      "url": "https://www.udemy.com/course/learn-meteorjs-by-building-10-real-world-projects/"
+    },
+    {
+      "title": "Spring Boot 3 Thymeleaf REAL-TIME Web Application - Blog App",
+      "url": "https://www.udemy.com/course/spring-boot-thymeleaf-course/"
+    },
+    {
+      "title": "JavaScript 2017: Become Top Rated Web Developer",
+      "url": "https://www.udemy.com/course/become-professional-javascript-developer/"
+    },
+    {
+      "title": "The Complete SQL For Absolute Beginners Course",
+      "url": "https://www.udemy.com/course/sql-for-absolute-beginners/"
+    },
+    {
+      "title": "Professional CSS Flexbox",
+      "url": "https://www.udemy.com/course/css-flexbox/"
+    },
+    {
+      "title": "Express.js Node.js & MongoDB",
+      "url": "https://www.udemy.com/course/expressjs-node-mongodb/"
+    },
+    {
+      "title": "Learning ASP.NET Core 2.0 MVC - Beginner to Developer",
+      "url": "https://www.udemy.com/course/learning-aspnet-core-mvc-beginner-to-developer/"
+    },
+    {
+      "title": "So you think you know JavaScript?",
+      "url": "https://www.udemy.com/course/so-you-think-you-know-javascript-1/"
+    },
+    {
+      "title": "RxJS 101",
+      "url": "https://www.udemy.com/course/rxjs-101-course/"
+    },
+    {
+      "title": "The Complete Salesforce Administrator with Real time Project",
+      "url": "https://www.udemy.com/course/the-complete-salesforce-administrator-with-project/"
+    },
+    {
+      "title": "HTML, CSS, JavaScript, ReactJS, NodeJS from Zero to Expert",
+      "url": "https://www.udemy.com/course/html-css-javascript-reactjs-nodejs-from-zero-to-expert/"
+    },
+    {
+      "title": "Hands-on Three.js 3D Web Visualisations",
+      "url": "https://www.udemy.com/course/hands-on-threejs-3d-web-visualisations/"
+    },
+    {
+      "title": "The complete guide to building a full-stack app with Next.js",
+      "url": "https://www.udemy.com/course/the-complete-guide-to-building-a-full-stack-app-with-nextjs/"
+    },
+    {
+      "title": "Build modern responsive websites with HTML5 and CSS3",
+      "url": "https://www.udemy.com/course/create-modern-websites/"
+    },
+    {
+      "title": "Node.js Certification Training",
+      "url": "https://www.udemy.com/course/nodejs-certification-training/"
+    },
+    {
+      "title": "How To Create A Wikipedia Page For Your Business or Client",
+      "url": "https://www.udemy.com/course/how-to-create-a-wikipedia-page-for-your-business-or-client/"
+    },
+    {
+      "title": "How to Build Chatbots: From Beginner to Intermediate",
+      "url": "https://www.udemy.com/course/how-to-build-chats-bots-from-beginner-to-expert/"
+    },
+    {
+      "title": "Leaflet for Beginners",
+      "url": "https://www.udemy.com/course/leaflet-for-beginners/"
+    },
+    {
+      "title": "Full Stack Web Development Bootcamp with MERN Stack Projects",
+      "url": "https://www.udemy.com/course/full-stack-web-development-bootcamp-with-mern-stack-projects/"
+    },
+    {
+      "title": "Learn jQuery AJAX in 1 hour",
+      "url": "https://www.udemy.com/course/jquery-ajax-course/"
+    },
+    {
+      "title": "Drupal 8 & 9 module development: start with custom entities",
+      "url": "https://www.udemy.com/course/drupal-9-module-development-introduction-to-custom-entities/"
+    },
+    {
+      "title": "RESTful Web API - The Complete Guide (.NET7 API) Part 2",
+      "url": "https://www.udemy.com/course/restful-web-api-the-complete-guide-net7-api-part-2/"
+    },
+    {
+      "title": "HTML and CSS: Introduction to Frontend Web Development",
+      "url": "https://www.udemy.com/course/html-and-css-introduction-to-web-development/"
+    },
+    {
+      "title": "Shopify App Development - Vanilla PHP, GraphQL, & REST API",
+      "url": "https://www.udemy.com/course/shopify-app-development-in-php/"
+    },
+    {
+      "title": "JavaScript for Beginners Welcome to learning JavaScript",
+      "url": "https://www.udemy.com/course/javascript-for-beginners-course/"
+    },
+    {
+      "title": "Beautiful React Three.js Fiber Configurator - Design & Code",
+      "url": "https://www.udemy.com/course/react-three-fiber-configurator/"
+    },
+    {
+      "title": "Angular 2 Master Class with Alejandro Rangel",
+      "url": "https://www.udemy.com/course/angular-2-master-class-with-alejandro-rangel/"
+    },
+    {
+      "title": "Sending email with PHP: from Basic to Advanced",
+      "url": "https://www.udemy.com/course/php-email/"
+    },
+    {
+      "title": "Make an Amazon Affiliate Marketing Website - Step by Step",
+      "url": "https://www.udemy.com/course/amazon-affiliate-website/"
+    },
+    {
+      "title": "Learn HTML 5 in 1 hour",
+      "url": "https://www.udemy.com/course/learn-html-5-in-1-hour/"
+    },
+    {
+      "title": "Python Django 4 Masterclass | Build a Real World Project",
+      "url": "https://www.udemy.com/course/python-django-masterclass/"
+    },
+    {
+      "title": "The Complete HTML5 & CSS3 Course Build Professional Websites",
+      "url": "https://www.udemy.com/course/html5css3/"
+    },
+    {
+      "title": "MERN Stack Web Development with Ultimate Authentication",
+      "url": "https://www.udemy.com/course/mern-stack/"
+    },
+    {
+      "title": "Odoo 13 Technical Training",
+      "url": "https://www.udemy.com/course/odoo-13-technical-training/"
+    },
+    {
+      "title": "JavaScript Step by Step how to apply it to your web pages",
+      "url": "https://www.udemy.com/course/javascript-fundamentals-bootcamp-learn-how-to-use-javascript/"
+    },
+    {
+      "title": "Angular for Modern Web Development: A Complete Guide",
+      "url": "https://www.udemy.com/course/angular-8-certification-training/"
+    },
+    {
+      "title": "Blazor WebAssembly - Full Stack Web Development",
+      "url": "https://www.udemy.com/course/modern-web-development-with-blazor-and-net-core-5/"
+    },
+    {
+      "title": "WordPress Gutenberg Block Development with React JS and PHP",
+      "url": "https://www.udemy.com/course/wordpress-gutenberg-block-development/"
+    },
+    {
+      "title": "ASP.NET Core Web Application Using Razor Pages",
+      "url": "https://www.udemy.com/course/aspnet-core-web-application-using-razor-pages/"
+    },
+    {
+      "title": "Learn Angular From Scratch - Complete Guide Design to Deploy",
+      "url": "https://www.udemy.com/course/angular-app-from-scratch-complete-guide-design-to-deploy/"
+    },
+    {
+      "title": "Java Tutorial for Complete Beginners.",
+      "url": "https://www.udemy.com/course/java-masterclass-zero-to-hero/"
+    },
+    {
+      "title": "JavaServer Faces (JSF) Practical Guide",
+      "url": "https://www.udemy.com/course/jsf-guide/"
+    },
+    {
+      "title": "ReactJS and Flux: Learn By Building 10 Projects",
+      "url": "https://www.udemy.com/course/reactjs-and-flux-learn-by-building-10-projects/"
+    },
+    {
+      "title": "Gulp 4: Automate your development workflow",
+      "url": "https://www.udemy.com/course/gulp-4-automate-your-development-workflow/"
+    },
+    {
+      "title": "Introduction to Java Programming for Online Learners",
+      "url": "https://www.udemy.com/course/learning-to-program-in-java-a-supplement-for-online-academic-learners/"
+    },
+    {
+      "title": "Create E-shop with .Net Core MVC (step by step project)",
+      "url": "https://www.udemy.com/course/asp-net-core-3/"
+    },
+    {
+      "title": ".NET 8 Backend Bootcamp: Modulith, VSA, DDD, CQRS and Outbox",
+      "url": "https://www.udemy.com/course/net-backend-bootcamp-modulith-vsa-ddd-cqrs-and-outbox/"
+    },
+    {
+      "title": "HTML and CSS for Web Designers: From Basics to Beautiful",
+      "url": "https://www.udemy.com/course/html-and-css-for-web-designers-from-basics-to-beautiful/"
+    },
+    {
+      "title": "Fundamental Course in Web Frameworks",
+      "url": "https://www.udemy.com/course/web-frameworks/"
+    },
+    {
+      "title": "ASP.NET Core MVC - Up and Running Part 2 (.NET 5)",
+      "url": "https://www.udemy.com/course/aspnet-core-mvc-up-and-running-part-2-net-5/"
+    },
+    {
+      "title": "Complete MERN Stack Bootcamp - MongoDB Express React & Node",
+      "url": "https://www.udemy.com/course/mern-stack-course-mongodb-express-react-nodejs/"
+    },
+    {
+      "title": "Learn Professional Web Development Skills From Scratch",
+      "url": "https://www.udemy.com/course/learn-professional-web-development-skills-from-scratch/"
+    },
+    {
+      "title": "Professional Web Scraping with Java",
+      "url": "https://www.udemy.com/course/learn-web-scraping-with-java-in-just-1-hour/"
+    },
+    {
+      "title": "JavaScript 2018: Modern Approach",
+      "url": "https://www.udemy.com/course/modern-javascript-from-beginner-to-professional/"
+    },
+    {
+      "title": "Node with React: Build & Deploy a Fullstack Web Application",
+      "url": "https://www.udemy.com/course/node-with-react-build-deploy-a-fullstack-web-application/"
+    },
+    {
+      "title": "Learn Knockout JS Framework from GroundUp",
+      "url": "https://www.udemy.com/course/learn-knockout-js-framework-from-groundup/"
+    },
+    {
+      "title": "The Complete CSS Flexbox Guide With a Complete Project 2025",
+      "url": "https://www.udemy.com/course/the-complete-css-flexbox-guide-with-a-complete-project/"
+    },
+    {
+      "title": "Full Stack Development with Java, MS SQL, Spring, Hibernate",
+      "url": "https://www.udemy.com/course/full-stack-development-with-java-ms-sql-spring-hibernate/"
+    },
+    {
+      "title": "Build a Movie Review App Node & React - MERN Stack 2023",
+      "url": "https://www.udemy.com/course/mern-stack-bootcamp-build-a-complete-movie-review-app/"
+    },
+    {
+      "title": "Using Modern JavaScript Today",
+      "url": "https://www.udemy.com/course/using-modern-javascript/"
+    },
+    {
+      "title": "Build Complete CMS Blog in PHP MySQL Bootstrap & PDO",
+      "url": "https://www.udemy.com/course/build-complete-2022-cms-blog-in-php-mysql-bootstrap-pdo/"
+    },
+    {
+      "title": "SharePoint 2019 Administration Training From Zero to Hero",
+      "url": "https://www.udemy.com/course/sharepoint-2019-administration/"
+    },
+    {
+      "title": "JavaScript 10 Projects in 10 Days Course for Beginners",
+      "url": "https://www.udemy.com/course/javascript-10-projects-in-10-days-course-for-beginners/"
+    },
+    {
+      "title": "JavaFX tutorial: Learn JavaFX with Examples",
+      "url": "https://www.udemy.com/course/javafx-tutorial-beginners/"
+    },
+    {
+      "title": "Ruby on Rails: Training and Skills to Build Web Applications",
+      "url": "https://www.udemy.com/course/the-startups-guide-to-web-development-with-ruby-on-rails/"
+    },
+    {
+      "title": "JavaScript Master Course From Beginner to Expert Developer",
+      "url": "https://www.udemy.com/course/javascript-master-course-from-beginner-to-expert-developer/"
+    },
+    {
+      "title": "Node.Js: Building REST APIs with Sails.js(v1.0)",
+      "url": "https://www.udemy.com/course/building-rest-apis-with-sailsjs/"
+    },
+    {
+      "title": "javascript Complete Real time - Essential Course 2022",
+      "url": "https://www.udemy.com/course/javascript-complete-real-time-production-usage-2019/"
+    },
+    {
+      "title": "Learn Game Development with JavaScript",
+      "url": "https://www.udemy.com/course/learn-game-development-with-javascript/"
+    },
+    {
+      "title": "Build 3 Location Based Vue JS Web Apps Using Google Maps API",
+      "url": "https://www.udemy.com/course/vuejs-google-maps-api-for-beginners/"
+    },
+    {
+      "title": "Microsoft Azure AZ-900 Certification",
+      "url": "https://www.udemy.com/course/microsoft-azure-az-900-certification/"
+    },
+    {
+      "title": "Fullstack Project With Spring Boot Java And React Hooks- TDD",
+      "url": "https://www.udemy.com/course/full-stack-project-using-spring-boot-and-react-with-tdd/"
+    },
+    {
+      "title": "MERN stack projects Based Course Completely Redone",
+      "url": "https://www.udemy.com/course/mern-stack-complete-blog-application-from-scratch-2021/"
+    },
+    {
+      "title": "Build Apps with ReactJS: The Complete Course",
+      "url": "https://www.udemy.com/course/build-apps-with-reactjs-the-complete-course/"
+    },
+    {
+      "title": "Track Any HTML5 Content with Custom SCORM",
+      "url": "https://www.udemy.com/course/track-any-html5-content-with-custom-scorm/"
+    },
+    {
+      "title": "Build A Dental Website With Python and Django",
+      "url": "https://www.udemy.com/course/build-a-dental-website-with-python-and-django/"
+    },
+    {
+      "title": "Advanced NodeJS: Level up your NodeJS skill In 2025",
+      "url": "https://www.udemy.com/course/leveling-up-your-skill-as-a-nodejs-developer/"
+    },
+    {
+      "title": "Projects in MongoDB - Learn MongoDB Building Projects",
+      "url": "https://www.udemy.com/course/projects-in-mongodb/"
+    },
+    {
+      "title": "PHP with MySQL: Build 8 PHP and MySQL Projects",
+      "url": "https://www.udemy.com/course/php-with-mysql-2022-build-php-and-mysql-projects/"
+    },
+    {
+      "title": "Mastering HTML5 Programming - The Easier Way",
+      "url": "https://www.udemy.com/course/html5-programming-tutorials/"
+    },
+    {
+      "title": "Professional Blog+CMS Development With Laravel 5",
+      "url": "https://www.udemy.com/course/build-blog-cms-with-laravel-5/"
+    },
+    {
+      "title": "Complete guide to building a GraphQL API",
+      "url": "https://www.udemy.com/course/complete-guide-to-building-a-graphql-api/"
+    },
+    {
+      "title": "HTML5 and CSS3 - Essential Training",
+      "url": "https://www.udemy.com/course/html5-and-css3-essential-training/"
+    },
+    {
+      "title": "Fundamentals of Web Components",
+      "url": "https://www.udemy.com/course/fundamentals-of-web-components/"
+    },
+    {
+      "title": "Next.js Web Dev: Master this Powerful React Framework",
+      "url": "https://www.udemy.com/course/nextjs-web-dev-master-this-powerful-react-framework/"
+    },
+    {
+      "title": "Full introduction to Views in Drupal 8",
+      "url": "https://www.udemy.com/course/full-introduction-to-views-in-drupal-8/"
+    },
+    {
+      "title": "The complete Angular Course , Typescript included.",
+      "url": "https://www.udemy.com/course/the-complete-angular-course-typescript-included/"
+    },
+    {
+      "title": "Practical Transformation Using XSLT and XPath (5-hour free preview; 24 hours total)",
+      "url": "https://www.udemy.com/course/practical-transformation-using-xslt-and-xpath/"
+    },
+    {
+      "title": ".NET Aspire and GenAI Develop Distributed Architectures 2025",
+      "url": "https://www.udemy.com/course/net-aspire-and-genai-develop-distributed-architectures/"
+    },
+    {
+      "title": "PHP with MySQL: Build Hotel Booking Management System",
+      "url": "https://www.udemy.com/course/php-with-mysql-2023-build-hotel-booking-management-system/"
+    },
+    {
+      "title": "Filament Admin Panel Course for Laravel (Updated for V3)",
+      "url": "https://www.udemy.com/course/laravel-filament-admin-panel-course/"
+    },
+    {
+      "title": "Docker for absolute beginners: Learn Docker from scratch",
+      "url": "https://www.udemy.com/course/docker-for-absolute-beginners-learn-docker-from-scratch/"
+    },
+    {
+      "title": "Laravel 9 - News Portal Website for Beginner to Advanced",
+      "url": "https://www.udemy.com/course/laravel-news-portal-website-for-beginner-to-advanced/"
+    },
+    {
+      "title": "Django 3 - Python Backend Web Development For Beginner",
+      "url": "https://www.udemy.com/course/django-python-web-development-for-beginner/"
+    },
+    {
+      "title": "Laravel Payment and Subscription Processing: PayPal & Stripe",
+      "url": "https://www.udemy.com/course/laravel-payment-processing-integrating-the-best-gateways-paypal-stripe/"
+    },
+    {
+      "title": "Building Web APIs with gRPC - The Complete Guide",
+      "url": "https://www.udemy.com/course/building-web-apis-with-grpc-the-complete-guide/"
+    },
+    {
+      "title": "jQuery UI in Action: Build 13 jQuery UI Projects",
+      "url": "https://www.udemy.com/course/jquery-ui-practical-build-jquery-ui-projects/"
+    },
+    {
+      "title": "AWS and Linode: The Ultimate Guide to Cloud Computing [IaaS]",
+      "url": "https://www.udemy.com/course/aws-and-linode-the-ultimate-guide-to-cloud-computing-iaas/"
+    },
+    {
+      "title": "MERN Stack: All You Need to Know with Practical Project",
+      "url": "https://www.udemy.com/course/all-you-need-to-know-mern-stack-with-practical-project/"
+    },
+    {
+      "title": "HTML Web Development Crash Course",
+      "url": "https://www.udemy.com/course/html-tutorials/"
+    },
+    {
+      "title": "Build a Social Network in 20 Days from Scratch:PHP+MYSQL, Js",
+      "url": "https://www.udemy.com/course/build-social-network-in-20-days/"
+    },
+    {
+      "title": "Build a Real Time web app in node.js , Angular.js, mongoDB",
+      "url": "https://www.udemy.com/course/realtime-meanstack/"
+    },
+    {
+      "title": "SharePoint 2013 Administration",
+      "url": "https://www.udemy.com/course/sharepoint-2013-administration/"
+    },
+    {
+      "title": "Build a React & Redux App w/ CircleCI CI/CD, AWS & Terraform",
+      "url": "https://www.udemy.com/course/build-a-modern-react-and-redux-app-with-circleci-cicd-aws/"
+    },
+    {
+      "title": "The Complete JavaScript Course 2025: From Zero to Expert!",
+      "url": "https://www.udemy.com/course/the-complete-javascript-course/"
+    },
+    {
+      "title": "React Firebase & TanStack: Build Dynamic Web Apps 2025",
+      "url": "https://www.udemy.com/course/react-firebase-tanstack-build-dynamic-web-apps-2025/"
+    },
+    {
+      "title": "Full WordPress Website For Beginners: Learn WordPress A-Z",
+      "url": "https://www.udemy.com/course/wordpress-website-beginners-tutorial-course-best-elementor-learn/"
+    },
+    {
+      "title": "The FastAPI SuperGuide: Create 3 Real-World FastAPI Apps",
+      "url": "https://www.udemy.com/course/create-apps-with-fastapi/"
+    },
+    {
+      "title": "Tailwind CSS (+ React) - The beginner guide",
+      "url": "https://www.udemy.com/course/tailwind-css-the-beginner-guide/"
+    },
+    {
+      "title": "PHP with MySQL: Build Real Estate Management System",
+      "url": "https://www.udemy.com/course/php-with-mysql-2023-build-real-estate-management-system/"
+    }
+  ]
+}

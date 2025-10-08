@@ -1,0 +1,406 @@
+{
+  "main_category": "business",
+  "sub_category": "Management",
+  "courses": [
+    {
+      "title": "GDPR – in a Nutshell – 2nd Edition",
+      "url": "https://www.udemy.com/course/gdpr-in-a-nutshell/"
+    },
+    {
+      "title": "Fundamentals of Change Management",
+      "url": "https://www.udemy.com/course/fundamentals-of-change-management/"
+    },
+    {
+      "title": "Advanced Product Management: Vision, Strategy & Metrics",
+      "url": "https://www.udemy.com/course/advanced-product-management-vision-strategy-metrics/"
+    },
+    {
+      "title": "How to Have Difficult Conversations: Beginner's Guide",
+      "url": "https://www.udemy.com/course/talks-about-challenging-topics/"
+    },
+    {
+      "title": "Time and Task Management: Time Management Techniques",
+      "url": "https://www.udemy.com/course/time_task_management/"
+    },
+    {
+      "title": "How to Run truly Productive Meetings – and add value",
+      "url": "https://www.udemy.com/course/high-payback-meetings-for-startups-managers-team-leaders/"
+    },
+    {
+      "title": "Risk Management for Cybersecurity and IT Managers",
+      "url": "https://www.udemy.com/course/risk-management-for-cybersecurity/"
+    },
+    {
+      "title": "Engineering Management and Leadership in the Age of AI",
+      "url": "https://www.udemy.com/course/engineering-management-and-leadership-in-the-age-of-ai/"
+    },
+    {
+      "title": "Lean Leadership Skills, Lean Culture & Lean Management",
+      "url": "https://www.udemy.com/course/lean-leadership-lean-culture-change-management/"
+    },
+    {
+      "title": "The Concise Product Management Course",
+      "url": "https://www.udemy.com/course/the-complete-product-management-course/"
+    },
+    {
+      "title": "Managerial (Cost) Accounting For Beginners",
+      "url": "https://www.udemy.com/course/managementaccounting/"
+    },
+    {
+      "title": "Change Management: Real World Strategies & Tools",
+      "url": "https://www.udemy.com/course/managing-and-leading-change/"
+    },
+    {
+      "title": "Excel Pivot Tables for Management Consultants & Analysts",
+      "url": "https://www.udemy.com/course/excel-pivot-tables-for-management-consultants-analysts/"
+    },
+    {
+      "title": "Leadership: Growth Mindset for Leadership and Organizations",
+      "url": "https://www.udemy.com/course/growth-mindset-for-leadership-and-organizations/"
+    },
+    {
+      "title": "AI for Business Leaders",
+      "url": "https://www.udemy.com/course/ai-for-business-leaders/"
+    },
+    {
+      "title": "Mastering Conflict Management and Resolution at Work",
+      "url": "https://www.udemy.com/course/mastering-conflict-management-and-resolution-at-work/"
+    },
+    {
+      "title": "ISO 31000 - Enterprise Risk Management for the Professional",
+      "url": "https://www.udemy.com/course/iso-31000_2018-risk-management/"
+    },
+    {
+      "title": "A Brief Guide to Business Continuity and Disaster Recovery",
+      "url": "https://www.udemy.com/course/bcp-and-drp/"
+    },
+    {
+      "title": "Quality Management for Business Excellence (Accredited)",
+      "url": "https://www.udemy.com/course/quality-management/"
+    },
+    {
+      "title": "Leadership: Practical Leadership Skills",
+      "url": "https://www.udemy.com/course/practical-leadership/"
+    },
+    {
+      "title": "Essentials of Software-as-a-Service (SaaS) Business",
+      "url": "https://www.udemy.com/course/essentials-of-software-as-a-seervice-saas/"
+    },
+    {
+      "title": "Talent Development for Leaders: Develop Your High-Potentials",
+      "url": "https://www.udemy.com/course/talent-development-for-leaders-develop-your-high-potentials/"
+    },
+    {
+      "title": "The Superboss Playbook for Managers",
+      "url": "https://www.udemy.com/course/the-superboss-playbook-for-managers/"
+    },
+    {
+      "title": "ISO/IEC 27001:2022. Information Security Management System",
+      "url": "https://www.udemy.com/course/isoiec-27001-information-security-management-system/"
+    },
+    {
+      "title": "Smart Tips: Soft Skills for Technical Professionals",
+      "url": "https://www.udemy.com/course/soft-skills-for-tech-pros/"
+    },
+    {
+      "title": "AI for business - AI 101 fundamentals for managers & leaders",
+      "url": "https://www.udemy.com/course/ai-for-managers/"
+    },
+    {
+      "title": "Problem-Solving for Team Members and Leaders",
+      "url": "https://www.udemy.com/course/problem-solving-made-easy/"
+    },
+    {
+      "title": "The Customer: Build a Customer Service Strategy (BITE SIZE)",
+      "url": "https://www.udemy.com/course/customer-how-to-build-a-customer-service-strategy/"
+    },
+    {
+      "title": "OKR Goal Setting 101 - Achieve more goals than ever! Faster!",
+      "url": "https://www.udemy.com/course/okr-101-set-and-achieve-your-goal/"
+    },
+    {
+      "title": "Develop your Self Awareness with Emotional Intelligence",
+      "url": "https://www.udemy.com/course/making-sense-of-who-you-are-in-the-world/"
+    },
+    {
+      "title": "Team Management: Building Teamwork and High Performing Teams",
+      "url": "https://www.udemy.com/course/team-kata/"
+    },
+    {
+      "title": "The Essential Guide for Effective Managers",
+      "url": "https://www.udemy.com/course/the-essential-guide-for-effective-managers/"
+    },
+    {
+      "title": "The Product Management for AI & Data Science Course",
+      "url": "https://www.udemy.com/course/the-product-management-for-data-science-ai-course/"
+    },
+    {
+      "title": "Taking the Pain Out of Collaboration: Tips & Best Practices",
+      "url": "https://www.udemy.com/course/collaboration/"
+    },
+    {
+      "title": "Professional Resilience",
+      "url": "https://www.udemy.com/course/professional-resilience/"
+    },
+    {
+      "title": "Agile Leadership and Resilient Teams",
+      "url": "https://www.udemy.com/course/agile-leadership-and-resilient-teams/"
+    },
+    {
+      "title": "Value Stream Mapping Masterclass: Become a VSM Specialist",
+      "url": "https://www.udemy.com/course/value-stream-map/"
+    },
+    {
+      "title": "Product Management 101",
+      "url": "https://www.udemy.com/course/productmanagement101/"
+    },
+    {
+      "title": "Helping Employees Embrace Change",
+      "url": "https://www.udemy.com/course/helping-employees-embrace-change/"
+    },
+    {
+      "title": "How To Make Better, Faster Decisions At Work",
+      "url": "https://www.udemy.com/course/how-to-make-better-faster-decisions-at-work/"
+    },
+    {
+      "title": "How to Become a Workplace Coach: The Fundamentals",
+      "url": "https://www.udemy.com/course/coaching-skills-for-managers-fundamentals-of-coaching/"
+    },
+    {
+      "title": "Emotional Intelligence Training: EI in the Workplace",
+      "url": "https://www.udemy.com/course/emotionalintelligenceworkplace/"
+    },
+    {
+      "title": "Become a Product Manager | Learn the Skills & Get the Job",
+      "url": "https://www.udemy.com/course/become-a-product-manager-learn-the-skills-get-a-job/"
+    },
+    {
+      "title": "Management Skills - Team Leadership Skills Masterclass",
+      "url": "https://www.udemy.com/course/leadership-and-lean-management-masterclass/"
+    },
+    {
+      "title": "Better Virtual Meetings: How to Lead Effective Meetings",
+      "url": "https://www.udemy.com/course/better-virtual-meetings-how-to-lead-effective-meetings/"
+    },
+    {
+      "title": "Leadership: The Emotionally Intelligent Leader",
+      "url": "https://www.udemy.com/course/the-emotionally-intelligent-leader/"
+    },
+    {
+      "title": "Practical Pharmaceutical Supply Management: LMIC Focus",
+      "url": "https://www.udemy.com/course/phasuma1/"
+    },
+    {
+      "title": "Digital Transformation - Masterclass",
+      "url": "https://www.udemy.com/course/digital-transformation-masterclass/"
+    },
+    {
+      "title": "Leadership: How to Influence, Inspire and Impact as a Leader",
+      "url": "https://www.udemy.com/course/leadership-influence-everyone/"
+    },
+    {
+      "title": "Be a Great Mentor: A Practical Guide to Mentorship",
+      "url": "https://www.udemy.com/course/be-a-great-mentor-a-practical-guide-to-mentoring/"
+    },
+    {
+      "title": "Managing Change: Learn to thrive through change.",
+      "url": "https://www.udemy.com/course/how-to-manage-through-change/"
+    },
+    {
+      "title": "ISO 45001. Occupational health & safety management system",
+      "url": "https://www.udemy.com/course/iso-45001-occupational-health-safety-management-system/"
+    },
+    {
+      "title": "Team Building - From Forming to High Performing Teams",
+      "url": "https://www.udemy.com/course/building-your-team/"
+    },
+    {
+      "title": "Performance Management For Managers",
+      "url": "https://www.udemy.com/course/performance-management-business/"
+    },
+    {
+      "title": "ISO 14001:2015. Environmental management system",
+      "url": "https://www.udemy.com/course/iso-140012015-environmental-management-system/"
+    },
+    {
+      "title": "Creativity, Design Thinking, and Innovation for Business",
+      "url": "https://www.udemy.com/course/creativity-and-innovation-for-business/"
+    },
+    {
+      "title": "Enterprise Risk Management (Accredited)",
+      "url": "https://www.udemy.com/course/the-risk-management/"
+    },
+    {
+      "title": "Consulting Approach to Problem Solving",
+      "url": "https://www.udemy.com/course/consulting-approach-to-problem-solving/"
+    },
+    {
+      "title": "Resilience Leadership",
+      "url": "https://www.udemy.com/course/resilience-leadership/"
+    },
+    {
+      "title": "Management Skills Certification Course (Now with AI!)",
+      "url": "https://www.udemy.com/course/new-manager-training/"
+    },
+    {
+      "title": "New Manager: The Basics and More of Being a Great Leader",
+      "url": "https://www.udemy.com/course/new-manager/"
+    },
+    {
+      "title": "Flexible Budgets, Standard Costs, & Variance Analysis",
+      "url": "https://www.udemy.com/course/flexible-budgets-standard-costs-variance-analysis/"
+    },
+    {
+      "title": "Effective Delegation for New Managers",
+      "url": "https://www.udemy.com/course/delegation/"
+    },
+    {
+      "title": "Manage Change Through Collaboration and Team Work",
+      "url": "https://www.udemy.com/course/implement-change-more-effectively-by-embracing-collaboration/"
+    },
+    {
+      "title": "Cybersecurity Habits Masterclass",
+      "url": "https://www.udemy.com/course/cybersecurity-habits-masterclass/"
+    },
+    {
+      "title": "ChatGPT / AI Ethics: Ethical Intelligence for 2025",
+      "url": "https://www.udemy.com/course/chatgpt-ai-ethics-ethical-intelligence/"
+    },
+    {
+      "title": "Hybrid Leadership: Essential skills to lead from anywhere",
+      "url": "https://www.udemy.com/course/hybrid-leadership/"
+    },
+    {
+      "title": "INTERVIEW TRAINING: Ask Better Questions, Hire Better People",
+      "url": "https://www.udemy.com/course/advanced-interviewer-training/"
+    },
+    {
+      "title": "ISO 9001:2015 Quality Management System Auditor",
+      "url": "https://www.udemy.com/course/iso-90012015-quality-management-system-auditor-course/"
+    },
+    {
+      "title": "Product Management Fundamentals",
+      "url": "https://www.udemy.com/course/product-management-fundamental/"
+    },
+    {
+      "title": "Creative Problem Solving Tools",
+      "url": "https://www.udemy.com/course/creative-problem-solving-tools/"
+    },
+    {
+      "title": "How to Hire & Manage Virtual Teams",
+      "url": "https://www.udemy.com/course/how-to-hire-manage-virtual-teams/"
+    },
+    {
+      "title": "The Customer: How to Understand Their Needs (BITE SIZE)",
+      "url": "https://www.udemy.com/course/customer-how-to-understand-customer-needs/"
+    },
+    {
+      "title": "Performance Management: Build a High Performing Team",
+      "url": "https://www.udemy.com/course/performance-management-u/"
+    },
+    {
+      "title": "The Customer: How to Manage Customer Feedback (BITE SIZE)",
+      "url": "https://www.udemy.com/course/customer-how-to-manage-customer-feedback/"
+    },
+    {
+      "title": "Ally Up (50% off to celebrate launch of new allyship book!)",
+      "url": "https://www.udemy.com/course/allyship/"
+    },
+    {
+      "title": "Business Etiquette and Professionalism",
+      "url": "https://www.udemy.com/course/business-etiquette-and-professionalism/"
+    },
+    {
+      "title": "Coaching Managers & Leaders for Continuous Improvement",
+      "url": "https://www.udemy.com/course/coaching-leaders-for-success/"
+    },
+    {
+      "title": "Strategic Innovation for Team Leaders",
+      "url": "https://www.udemy.com/course/applied-innovation/"
+    },
+    {
+      "title": "Authentic Leadership: Bring Your Whole Self to Work",
+      "url": "https://www.udemy.com/course/authentic-leadership-skills/"
+    },
+    {
+      "title": "QMS Auditor / Lead Auditor Course (Accredited)",
+      "url": "https://www.udemy.com/course/iso-9001-qms-auditor-lead-auditor-course/"
+    },
+    {
+      "title": "Leadership, Business Process Improvement, & Process Mapping!",
+      "url": "https://www.udemy.com/course/business-process-improvement-and-process-mapping/"
+    },
+    {
+      "title": "Generative AI for Business Leaders: A Quick Overview",
+      "url": "https://www.udemy.com/course/generative-ai-for-business-leaders/"
+    },
+    {
+      "title": "Culture | How to be a Great Coach",
+      "url": "https://www.udemy.com/course/culture-how-to-be-a-great-coach/"
+    },
+    {
+      "title": "Understanding and Developing Emotional Intelligence",
+      "url": "https://www.udemy.com/course/developing-emotional-intelligence/"
+    },
+    {
+      "title": "The Customer: How to Build Customer Loyalty (BITE SIZE)",
+      "url": "https://www.udemy.com/course/customer-how-to-build-customer-loyalty/"
+    },
+    {
+      "title": "How to Manage by Delegating (So You Can Achieve Your Goals)!",
+      "url": "https://www.udemy.com/course/how-to-manage-by-delegating-so-you-can-achieve-your-goals/"
+    },
+    {
+      "title": "Giving and Receiving Feedback for Management and Leadership",
+      "url": "https://www.udemy.com/course/giving-and-receiving-feedback-a-quick-course/"
+    },
+    {
+      "title": "Women's Leadership",
+      "url": "https://www.udemy.com/course/womensleadership/"
+    },
+    {
+      "title": "Decision Making: Solve Problems with Emotional Intelligence",
+      "url": "https://www.udemy.com/course/effective-problem-solving-and-decision-making/"
+    },
+    {
+      "title": "How to Manage & Influence Your Virtual Team",
+      "url": "https://www.udemy.com/course/virtual-teams/"
+    },
+    {
+      "title": "Culture | How to Manage Team Conflict",
+      "url": "https://www.udemy.com/course/culture-how-to-manage-team-conflict/"
+    },
+    {
+      "title": "Leading Remote or Virtual Teams - A Quick Course",
+      "url": "https://www.udemy.com/course/leading-virtual-teams-a-quick-course/"
+    },
+    {
+      "title": "Professional Diploma in Project Management",
+      "url": "https://www.udemy.com/course/project-managers/"
+    },
+    {
+      "title": "Culture | How to Make Team Decisions",
+      "url": "https://www.udemy.com/course/culture-how-to-make-team-decisions/"
+    },
+    {
+      "title": "Make Meetings Work & Tackle Time Management Troubles",
+      "url": "https://www.udemy.com/course/make-meetings-work-tackle-time-management-troubles/"
+    },
+    {
+      "title": "ISO 22301:2019. Business continuity management system",
+      "url": "https://www.udemy.com/course/business-continuity-management-system-iso-22301/"
+    },
+    {
+      "title": "Learn Risk Analysis, Evaluation & Assessment - from A to Z",
+      "url": "https://www.udemy.com/course/learn-risk-analysis-evaluation-assessment-from-a-to-z/"
+    },
+    {
+      "title": "Management - Leadership, Negotiating, Assertiveness, Sales",
+      "url": "https://www.udemy.com/course/management-101/"
+    },
+    {
+      "title": "An Introduction to Emotional Intelligence",
+      "url": "https://www.udemy.com/course/introduction-to-emotional-intelligence/"
+    }
+  ]
+}

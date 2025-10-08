@@ -1,0 +1,2006 @@
+{
+  "main_category": "business",
+  "sub_category": "Business Analytics & Intelligence",
+  "courses": [
+    {
+      "title": "Curso de Excel - Tablas dinámicas y gráficos interactivos",
+      "url": "https://www.udemy.com/course/microsoft-excel-de-basico-a-intermedio/"
+    },
+    {
+      "title": "【 はじめてのデータ分析 】データの読み解き方の基本マスターコース",
+      "url": "https://www.udemy.com/course/number-sense-and-analytics-basic/"
+    },
+    {
+      "title": "Power BI 数据转换",
+      "url": "https://www.udemy.com/course/power-bi-o/"
+    },
+    {
+      "title": "Curso Completo de Planilhas Google: Do Zero ao Profissional!",
+      "url": "https://www.udemy.com/course/curso-completo-de-planilhas-google-do-zero-ao-profissional/"
+    },
+    {
+      "title": "【한글자막】 Elasticsearch 8과 Elastic Stack : 이론과 실습",
+      "url": "https://www.udemy.com/course/best-elasticsearch-7-elastic-stack/"
+    },
+    {
+      "title": "Tableau Avanzado: Domina Tableau para Ciencia de Datos",
+      "url": "https://www.udemy.com/course/tableau-avanzado/"
+    },
+    {
+      "title": "Prozessmodellierung mit BPMN 2.0 Vom Einsteiger zum Experten",
+      "url": "https://www.udemy.com/course/prozessmodellierung-mit-bpmn-20-vom-einsteiger-zum-experten/"
+    },
+    {
+      "title": "SQL lernen, schnell und einfach",
+      "url": "https://www.udemy.com/course/sql-lernen-schnell-und-einfach/"
+    },
+    {
+      "title": "Google Analytics 4 Completo (GA4) - Aprenda a Nova Versão!",
+      "url": "https://www.udemy.com/course/google-analytics-4-completo/"
+    },
+    {
+      "title": "ChatGPTを活用した魅力的なプレゼンスライド作成講座【AI×自動化でタスク効率化】",
+      "url": "https://www.udemy.com/course/chatgpt-o/"
+    },
+    {
+      "title": "Qlik Nprinting para Qlik Sense",
+      "url": "https://www.udemy.com/course/qlik-nprinting-para-qlik-sense/"
+    },
+    {
+      "title": "30分でGoogle最強生成AIをマスター！NotebookLM徹底活用ハンズオン",
+      "url": "https://www.udemy.com/course/google_notebooklm/"
+    },
+    {
+      "title": "【한글자막】 Hadoop : 여러 실습으로 빅 데이터 길들이기!",
+      "url": "https://www.udemy.com/course/best-hadoop/"
+    },
+    {
+      "title": "NotebookLM入門：情報整理とアイデア発想をAIで加速する",
+      "url": "https://www.udemy.com/course/notebooklmai/"
+    },
+    {
+      "title": "【実戦で学ぶデータサイエンス講座】リレーショナルデータベースで始めるデータ活用とデータ分析のためのSQLを学ぼう",
+      "url": "https://www.udemy.com/course/business_sql/"
+    },
+    {
+      "title": "SQL - Bootcamp: Lerne MySQL in 2 Wochen",
+      "url": "https://www.udemy.com/course/sql-bootcamp/"
+    },
+    {
+      "title": "Power BIの基本 -初学者～中級者に「準備・視覚化・共有」の3ステップで、データの見える化と分析の基本が身につく",
+      "url": "https://www.udemy.com/course/ishiayaya/"
+    },
+    {
+      "title": "Supply Chain Analytics: Demanda, Precios, Stock con Power BI",
+      "url": "https://www.udemy.com/course/analitica-de-demanda-precios-y-stock-de-skus-con-power-bi/"
+    },
+    {
+      "title": "Visualização de dados com Metabase",
+      "url": "https://www.udemy.com/course/visualizacao-de-dados-com-metabase/"
+    },
+    {
+      "title": "Modelos de Riesgo Crédito con Python",
+      "url": "https://www.udemy.com/course/modelos-de-riesgo-credito-con-python/"
+    },
+    {
+      "title": "¡Contar historias con datos!",
+      "url": "https://www.udemy.com/course/data-storytelling-now/"
+    },
+    {
+      "title": "【実践テクニックを演習形式で学ぶ】データ分析実務スキル検定 Citizen級 合格への道",
+      "url": "https://www.udemy.com/course/cbas-citizen/"
+    },
+    {
+      "title": "超入門の次はコレ!文系ビジネスパーソンのための手を動かして学ぶSQL(Google Big Query使用/初級レベル)",
+      "url": "https://www.udemy.com/course/2nd_step_sql/"
+    },
+    {
+      "title": "2時間でわかる（範囲の）エッセンシャルTableau Desktop",
+      "url": "https://www.udemy.com/course/2hour-tableau-desktop/"
+    },
+    {
+      "title": "TABLEAU 2018: Treinamento de Tableau para Data Scientists",
+      "url": "https://www.udemy.com/course/tableau-2018-portuguese/"
+    },
+    {
+      "title": "BPMN 2.0 - Dein Weg zum professionellen Prozess-Designer",
+      "url": "https://www.udemy.com/course/bpmn-20-dein-weg-zum-professionellen-prozess-designer/"
+    },
+    {
+      "title": "Tableau 2020+: Visualisierungen und Analysen mit Tableau",
+      "url": "https://www.udemy.com/course/tableau-kurs/"
+    },
+    {
+      "title": "Python für Finanzanalysen und algorithmisches Trading",
+      "url": "https://www.udemy.com/course/python-fur-finanzanalysen-und-algorithmisches-trading/"
+    },
+    {
+      "title": "Tableau Практикум: Обучение визуальной аналитике",
+      "url": "https://www.udemy.com/course/tableau-practice/"
+    },
+    {
+      "title": "Microsoft Power BI in Hindi : The Complete Introduction",
+      "url": "https://www.udemy.com/course/powerbi_hindi/"
+    },
+    {
+      "title": "Tips para Optimizar Power BI con DAX Studio! INTENSIVO!",
+      "url": "https://www.udemy.com/course/optimiza-power-bi-dax-intensivo/"
+    },
+    {
+      "title": "【BIツール】データポータル入門！無料でデータ分析・レポート作成を自動化（旧：Google Data Studio）",
+      "url": "https://www.udemy.com/course/new-google-data/"
+    },
+    {
+      "title": "Informe de Business Intelligence área Comercial con Power BI",
+      "url": "https://www.udemy.com/course/kpi-informacion-y-analisis-comercial-con-power-bi/"
+    },
+    {
+      "title": "Narzędzia Power BI w MS Excel (Power Query, Power Pivot)",
+      "url": "https://www.udemy.com/course/narzedzia-power-bi-w-ms-excel-power-query-power-pivot/"
+    },
+    {
+      "title": "Data Governance: Domina Metadatos, Catálogo y Diccionario",
+      "url": "https://www.udemy.com/course/data-governance-los-metadatos-en-el-gobierno-del-dato/"
+    },
+    {
+      "title": "Microsoft Power BI Desktop بالعربي",
+      "url": "https://www.udemy.com/course/microsoft-power-bi-desktop-t/"
+    },
+    {
+      "title": "Present Your Data (Arabic)",
+      "url": "https://www.udemy.com/course/present-your-data/"
+    },
+    {
+      "title": "Google Analytics 4 (GA4):Ferramenta de BI e Análise de Dados",
+      "url": "https://www.udemy.com/course/googleanalytics4-ga4/"
+    },
+    {
+      "title": "Excel数据分析：零基础入门数据图表，制作数据看板",
+      "url": "https://www.udemy.com/course/excel-kv/"
+    },
+    {
+      "title": "Árboles, Random Forests y XGBoost con R, Python y ChatGPT",
+      "url": "https://www.udemy.com/course/arboles-random-forests-y-xgboost-en-r-con-casos-reales/"
+    },
+    {
+      "title": "【約40社12万人に教えた】生成AIをビジネスでフル活用するための技とフレームワーク",
+      "url": "https://www.udemy.com/course/chatgpt_course/"
+    },
+    {
+      "title": "大數據分析－Power BI圖表視覺化",
+      "url": "https://www.udemy.com/course/power-bi-l/"
+    },
+    {
+      "title": "【ビジネス統計】データ分析入門大全 ～ビジネスパーソンのための「これだけ知っておけば十分」～",
+      "url": "https://www.udemy.com/course/biz-data-analytics/"
+    },
+    {
+      "title": "Vertriebscontrolling mit Excel",
+      "url": "https://www.udemy.com/course/vertriebscontrolling-mit-excel/"
+    },
+    {
+      "title": "Python für Data Science, Machine Learning & Visualization",
+      "url": "https://www.udemy.com/course/python-data-science-machine-learning/"
+    },
+    {
+      "title": "1/4|Power BI Eğitim Videosu Serisi : BAŞLANGIÇ",
+      "url": "https://www.udemy.com/course/power-bi-egitim-videosu-serisi/"
+    },
+    {
+      "title": "Power BI Revolution",
+      "url": "https://www.udemy.com/course/power-bi-revolution/"
+    },
+    {
+      "title": "De principiante a profesional con AWS QuickSight [2024]",
+      "url": "https://www.udemy.com/course/de-principiante-a-profesional-con-aws-quicksight/"
+    },
+    {
+      "title": "やさしい実用統計 Pythonによるデータ分析入門",
+      "url": "https://www.udemy.com/course/python-vq/"
+    },
+    {
+      "title": "Dashboards Profesionales con Microsoft Excel y Power BI",
+      "url": "https://www.udemy.com/course/dashboards-profesionales-con-microsoft-excel-y-power-bi/"
+    },
+    {
+      "title": "SQL+データベース（DB）をちゃんと学ぶ講座",
+      "url": "https://www.udemy.com/course/sql-basic/"
+    },
+    {
+      "title": "【完全攻略】データポータルで素敵なダッシュボードを作成しよう（旧：データスタジオ）【無料BIツール】",
+      "url": "https://www.udemy.com/course/300bi-ju/"
+    },
+    {
+      "title": "世界40万人が学んだ講師が教えるQlik Senseを使ったデータサイエンス応用編(日本語吹替)",
+      "url": "https://www.udemy.com/course/qlik-sense-advanced-jp/"
+    },
+    {
+      "title": "Power BI Desktop超入門講座～データベースなどの知識０からでも、業務で使えるようになる！～",
+      "url": "https://www.udemy.com/course/power-bi-desktop0/"
+    },
+    {
+      "title": "Blockchain de la A a la Z: Crea tu criptomoneda en Python",
+      "url": "https://www.udemy.com/course/blockchain-de-la-a-a-la-z-crea-tu-criptomoneda-en-python/"
+    },
+    {
+      "title": "Curso Completo de Power BI",
+      "url": "https://www.udemy.com/course/curso-power-bi/"
+    },
+    {
+      "title": "Power BIで学ぶ、データサイエンティストの分析プロセス入門",
+      "url": "https://www.udemy.com/course/power-bi/"
+    },
+    {
+      "title": "Zoho Analytics: Potencia tus decisiones empresariales",
+      "url": "https://www.udemy.com/course/aprende-a-usar-zoho-analytics-basico/"
+    },
+    {
+      "title": "EXCEL: от новичка до уверенного бизнес-пользователя",
+      "url": "https://www.udemy.com/course/excel-ts/"
+    },
+    {
+      "title": "Analisi Commerciale e Reporting Excel",
+      "url": "https://www.udemy.com/course/analisi-commerciale-e-reporting-excel/"
+    },
+    {
+      "title": "Microsoft Power BI خطوات سريعة لتعلم برنامج",
+      "url": "https://www.udemy.com/course/microsoft-power-bi-arabic/"
+    },
+    {
+      "title": "Fundamentos Matemáticas para Machine Learning",
+      "url": "https://www.udemy.com/course/fundamentos-matematicas-para-machine-learning-juan-gabriel-gomila/"
+    },
+    {
+      "title": "DX時代の自治体データ活用基礎 ～EBPMで仕事を進めるために",
+      "url": "https://www.udemy.com/course/jichitai/"
+    },
+    {
+      "title": "すぐに実務で役立つ! 文系ビジネスパーソンのためのはじめて学ぶSQL(超入門レベル)",
+      "url": "https://www.udemy.com/course/1st_step_sql/"
+    },
+    {
+      "title": "BigQueryで学ぶ！SQLの基本：初学者からすらすらデータ抽出できるまで",
+      "url": "https://www.udemy.com/course/sql-introduction/"
+    },
+    {
+      "title": "Entrenamiento completo en Data Science con Python",
+      "url": "https://www.udemy.com/course/programa-completo-de-data-science-todo-para-los-datos/"
+    },
+    {
+      "title": "【한글자막】 Blockchain A-Z™: 블록체인 만들기 완벽 강의",
+      "url": "https://www.udemy.com/course/best-blockchain-az/"
+    },
+    {
+      "title": "Educação Financeira na Prática",
+      "url": "https://www.udemy.com/course/como-calcular-o-custo-de-produtos/"
+    },
+    {
+      "title": "AI Readiness: Implementación, adaptación y escalado de la IA",
+      "url": "https://www.udemy.com/course/ai-readiness-implementacion-adaptacion-y-escalado-de-la-ia/"
+    },
+    {
+      "title": "Microsoft Power BI – Die vollständige Einführung von A-Z",
+      "url": "https://www.udemy.com/course/microsoft-power-bi-kurs/"
+    },
+    {
+      "title": "数据指标体系全攻略：从概念方法、战术执行到战略决策的全应用",
+      "url": "https://www.udemy.com/course/ciufkezl/"
+    },
+    {
+      "title": "【外資系コンサル流】データ分析の思考法",
+      "url": "https://www.udemy.com/course/hhlsmjpx/"
+    },
+    {
+      "title": "Sistema de Recomendación en Power BI con Python y SQL Server",
+      "url": "https://www.udemy.com/course/sistema-de-recomendacion-en-power-bi-con-python-y-sql-server/"
+    },
+    {
+      "title": "Aprende a usar la parte gráfica de TradingView",
+      "url": "https://www.udemy.com/course/aprende-a-usar-la-parte-grafica-de-tradingview/"
+    },
+    {
+      "title": "Python - Power BI - SQL Server: Machine Learning integrado",
+      "url": "https://www.udemy.com/course/python-power-bi-sql-server-machine-learning-integrado/"
+    },
+    {
+      "title": "SQL desde cero: Curso práctico",
+      "url": "https://www.udemy.com/course/sql-desde-cero/"
+    },
+    {
+      "title": "Hadoop Big Data desde cero",
+      "url": "https://www.udemy.com/course/monta-un-cluster-hadoop-big-data-desde-cero/"
+    },
+    {
+      "title": "Tableau: Analisi Dati e Dashboard per Principianti",
+      "url": "https://www.udemy.com/course/corso-base-tableau/"
+    },
+    {
+      "title": "Microsoft Fabric - Arquitetura e Engenharia de Dados",
+      "url": "https://www.udemy.com/course/curso-microsoft-fabric/"
+    },
+    {
+      "title": "Green Belt em Lean Seis Sigma",
+      "url": "https://www.udemy.com/course/green-belt-em-lean-seis-sigma-grow/"
+    },
+    {
+      "title": "Tutto sulle pivot Excel: calcoli, analisi, PowerPivot",
+      "url": "https://www.udemy.com/course/tutto-sulle-pivot-semplicisu-tabellerelazioni-e-mappe-3d/"
+    },
+    {
+      "title": "Fundamentos de Criminología Corporativa",
+      "url": "https://www.udemy.com/course/crimi-corporativa/"
+    },
+    {
+      "title": "Tăng tốc hiệu suất công việc trong Ngân hàng với ChatGPT",
+      "url": "https://www.udemy.com/course/tang-toc-hieu-suat-cong-viec-trong-ngan-hang-voi-chatgpt/"
+    },
+    {
+      "title": "Power BI Desktop Guia Prático do Zero ao Avançado",
+      "url": "https://www.udemy.com/course/power-bi-desktop-do-basico-ao-avancao-dax-power-query/"
+    },
+    {
+      "title": "Análise de Informações para o TCU",
+      "url": "https://www.udemy.com/course/analise-de-informacoes-para-o-tcu/"
+    },
+    {
+      "title": "Power BI + Dashboard DRE + Dados do Protheus TOTVS",
+      "url": "https://www.udemy.com/course/dashboard-dre-com-dados-dos-protheus-totvs/"
+    },
+    {
+      "title": "AI初心者でも簡単に使いこなせる【副業・キャリアアップ】 Gamma完全ガイド",
+      "url": "https://www.udemy.com/course/gamma-guide/"
+    },
+    {
+      "title": "Ciencia de Datos y Analítica de Negocio con Python y ChatGPT",
+      "url": "https://www.udemy.com/course/business-analytics-con-python-y-chatgpt-de-cero-a-experto/"
+    },
+    {
+      "title": "Data Governance: Master Data Management MDM basado en DAMA",
+      "url": "https://www.udemy.com/course/data-governance-master-data-management-mdm-dama/"
+    },
+    {
+      "title": "Domina Supply Chain Analytics y Power BI: Datos a Decisiones",
+      "url": "https://www.udemy.com/course/power-bi-gestion-de-supply-chain-con-business-intelligence/"
+    },
+    {
+      "title": "Fórmulas y Funciones en Excel: Guía completa y actualizada",
+      "url": "https://www.udemy.com/course/formulas-y-funciones-en-excel-guia-completa-y-actualizada/"
+    },
+    {
+      "title": "Dataflows de Power BI: Conecta y analiza tus datos (2021).",
+      "url": "https://www.udemy.com/course/dataflows-microsoft-power-bi-analisis-flujos-de-datos-power-query-etl/"
+    },
+    {
+      "title": "小白必备的数据思维课",
+      "url": "https://www.udemy.com/course/vaafosse/"
+    },
+    {
+      "title": "Data Analyst Skillpath: Excel, SQL & ML with Python in हिंदी",
+      "url": "https://www.udemy.com/course/data-analyst-skill-path-in-hindi/"
+    },
+    {
+      "title": "Planificación y Organización",
+      "url": "https://www.udemy.com/course/planificacion-y-organizacion/"
+    },
+    {
+      "title": "Power Platform: Grandes Soluciones Empresariales de low-code",
+      "url": "https://www.udemy.com/course/power-platform-grandes-soluciones-empresariales-de-low-code/"
+    },
+    {
+      "title": "Data Analysis using Databases SQL تحليل البيانات باستخدام",
+      "url": "https://www.udemy.com/course/data-analysis-sql/"
+    },
+    {
+      "title": "Machine Learning para Competições Kaggle - Curso 1",
+      "url": "https://www.udemy.com/course/machine-learning-competicoes-kaggle/"
+    },
+    {
+      "title": "Zero to Hero in SQL: SQL for Data Analytics",
+      "url": "https://www.udemy.com/course/the-complete-sql-masterclass-for-data-analytics/"
+    },
+    {
+      "title": "Analítica de Datos e Inteligencia Artificial para Managers",
+      "url": "https://www.udemy.com/course/analitica-de-datos-e-inteligencia-artificial-para-managers/"
+    },
+    {
+      "title": "Data Governance: Data Quality en Gobierno del Dato",
+      "url": "https://www.udemy.com/course/data-governance-data-quality-en-gobierno-del-dato/"
+    },
+    {
+      "title": "Statistica Semplice 2.0 con tutorial in excel",
+      "url": "https://www.udemy.com/course/statistica-semplice-20/"
+    },
+    {
+      "title": "Introducción al Blockchain con aplicaciones en la industria",
+      "url": "https://www.udemy.com/course/introduccion-al-blockchain-con-aplicaciones-en-la-industria/"
+    },
+    {
+      "title": "Power BI 可视化驾驶舱",
+      "url": "https://www.udemy.com/course/power-bi-lz/"
+    },
+    {
+      "title": "Power BI を使用したデータ分析入門講座",
+      "url": "https://www.udemy.com/course/power-bi-edifist/"
+    },
+    {
+      "title": "Vollständige SQL Masterclass – Schnell & Einfach zum Profi",
+      "url": "https://www.udemy.com/course/sql-masterclass/"
+    },
+    {
+      "title": "高效数据分析方法，从小白到高手全掌握",
+      "url": "https://www.udemy.com/course/ajfsalcd/"
+    },
+    {
+      "title": "Academia BI - START com POWER BI",
+      "url": "https://www.udemy.com/course/academia-bi-start/"
+    },
+    {
+      "title": "Microsoft Excel Hindi - Beginner to Advanced - हिंदी",
+      "url": "https://www.udemy.com/course/microsoft-excel-course-in-hindi-most-updated-for-beginners-to-advanced/"
+    },
+    {
+      "title": "ذكاء الأعمال المتقدم || Business Intelligence BI",
+      "url": "https://www.udemy.com/course/data-analysis-using-alteryx/"
+    },
+    {
+      "title": "Power BI para Engenharia Civil",
+      "url": "https://www.udemy.com/course/power-bi-para-engenharia-civil/"
+    },
+    {
+      "title": "Domina Pentaho Report Designer Desde Cero [2025]",
+      "url": "https://www.udemy.com/course/domina-pentaho-report-designer-desde-cero/"
+    },
+    {
+      "title": "Master en Gestión por Procesos BPM y su Optimización con IA",
+      "url": "https://www.udemy.com/course/master-en-gestion-por-procesos-bpm-y-su-optimizacion-con-ia/"
+    },
+    {
+      "title": "Искусственный интеллект (AI) - инструмент будущего. ОБНОВЛЕН",
+      "url": "https://www.udemy.com/course/ai-neuro-bussines/"
+    },
+    {
+      "title": "Especialización en lenguaje DAX para análisis de negocios.",
+      "url": "https://www.udemy.com/course/especializacion-en-dax-para-analisis-de-negocios/"
+    },
+    {
+      "title": "用户洞察体系",
+      "url": "https://www.udemy.com/course/umucheis/"
+    },
+    {
+      "title": "Kennzahlen in der Logistik",
+      "url": "https://www.udemy.com/course/kennzahlen-in-der-logistik/"
+    },
+    {
+      "title": "Microsoft Excel Análisis de Datos Power Query y Power Pivot",
+      "url": "https://www.udemy.com/course/ms-excel-guia-examen-analisis-y-visualizacion-de-datos/"
+    },
+    {
+      "title": "Lei Geral de Proteção de Dados - LGPD: Curso Rápido Basilar",
+      "url": "https://www.udemy.com/course/lei-geral-de-protecao-de-dados-lgpd-resumo-implementacao/"
+    },
+    {
+      "title": "Big Step 2 Big Data خطوتك الأولى الضخمة للبيانات الضخمة",
+      "url": "https://www.udemy.com/course/big-step-2-big-data-l1/"
+    },
+    {
+      "title": "Jedox: der Praxiskurs",
+      "url": "https://www.udemy.com/course/jedox-der-praxiskurs/"
+    },
+    {
+      "title": "6种常用数据源分析与实战",
+      "url": "https://www.udemy.com/course/6-cewfff/"
+    },
+    {
+      "title": "The Complete SQL Bootcamp: Go from Zero to Hero",
+      "url": "https://www.udemy.com/course/the-complete-sql-bootcamp/"
+    },
+    {
+      "title": "Análisis de Call Center con Business Intelligence y Power BI",
+      "url": "https://www.udemy.com/course/power-bi-desarrollo-de-business-intelligence-en-call-center/"
+    },
+    {
+      "title": "Looker Studioクイックマスター講座｜Googleの無料BIツールで作る簡単・シンプルなGA4レポート",
+      "url": "https://www.udemy.com/course/lookerstudio-ga4/"
+    },
+    {
+      "title": "Curso de SPSS aplicado a Tesis",
+      "url": "https://www.udemy.com/course/curso-de-spss-aplicado-a-tesis/"
+    },
+    {
+      "title": "SQL/MySQL Database Developer: Zero to Expert||Hindi|Urdu||",
+      "url": "https://www.udemy.com/course/mysqlsql-database-developer-bootcamp-hindi-urdu/"
+    },
+    {
+      "title": "Curso de Power BI - Básico e Intermediário",
+      "url": "https://www.udemy.com/course/powerbi_jhm/"
+    },
+    {
+      "title": "Data Governance Bootcamp - Für Einsteiger und Experten",
+      "url": "https://www.udemy.com/course/data-governance-bootcamp-fur-einsteiger-und-experten/"
+    },
+    {
+      "title": "Dash - Interaktive Python Visualisierungen für Data Science",
+      "url": "https://www.udemy.com/course/interaktive-python-visualisierungen-mit-plotly-und-dash/"
+    },
+    {
+      "title": "Web Scraping: Extracción de datos y automatización en la web",
+      "url": "https://www.udemy.com/course/big-data-data-science-python-web-scraping-2019-achirou-alvaro-chirou/"
+    },
+    {
+      "title": "เรียน Tableau Data Visualization & Analytics ใช้ง่ายเป็นเร็ว",
+      "url": "https://www.udemy.com/course/ajnesttableau/"
+    },
+    {
+      "title": "NLP. Procesamiento del lenguaje natural con NLP y Python",
+      "url": "https://www.udemy.com/course/nlp-procesamiento-del-lenguaje-natural-con-nlp-y-python/"
+    },
+    {
+      "title": "Business Intelligence con Excel",
+      "url": "https://www.udemy.com/course/business-intelligence-con-excel/"
+    },
+    {
+      "title": "Análisis de datos con R Programming y Python",
+      "url": "https://www.udemy.com/course/analisis-de-datos-con-r-programming-y-python/"
+    },
+    {
+      "title": "Excel 数据分析一小时实战课 - Vlookup & Pivot Table",
+      "url": "https://www.udemy.com/course/excel-vlookup-pivot-table/"
+    },
+    {
+      "title": "Kennzahlen im Einkauf",
+      "url": "https://www.udemy.com/course/kennzahlen-im-einkauf/"
+    },
+    {
+      "title": "Power BI : Foundations to Advanced Analytics - Hindi",
+      "url": "https://www.udemy.com/course/mastering-power-bi-from-foundations-to-advanced-analytics/"
+    },
+    {
+      "title": "【はじめての Power BI 】データ分析プロジェクトの基本マスターコース",
+      "url": "https://www.udemy.com/course/powerbi_basic/"
+    },
+    {
+      "title": "Entorno Blockchain: Solidity, DApps, Binance y Tokens NFT",
+      "url": "https://www.udemy.com/course/smart-contracts/"
+    },
+    {
+      "title": "Power BI Máster en poco tiempo - Desktop, Móvil y en la Nube",
+      "url": "https://www.udemy.com/course/powerbi-master-en-poco-tiempo/"
+    },
+    {
+      "title": "【한글자막】 비즈니스 를 위한 Data Science : 6개의 실제 사례로 실습하기",
+      "url": "https://www.udemy.com/course/best-6-real-apps/"
+    },
+    {
+      "title": "Analyse de données statistiques avec SPSS",
+      "url": "https://www.udemy.com/course/analyse-de-donnees-statistiques-avec-spss/"
+    },
+    {
+      "title": "Data Storytelling – Contando uma História com Dados Editar",
+      "url": "https://www.udemy.com/course/data-storytelling-contando-uma-historia-com-dados-editar/"
+    },
+    {
+      "title": "قياس وإدارة المخاطر بالتحليل الكمي - نموذج مونت كارلو",
+      "url": "https://www.udemy.com/course/jahlvpwn/"
+    },
+    {
+      "title": "【続】Microsoft Power BI Desktop - 入門講座 ～DAX-TABLE FUNCTION特訓編～",
+      "url": "https://www.udemy.com/course/masukawa_030/"
+    },
+    {
+      "title": "تحليل البيانات ب استخدام اكسل || Data Analysis using Excel",
+      "url": "https://www.udemy.com/course/data-analysis-using-excel/"
+    },
+    {
+      "title": "Microsoft SQL Server: Análisis de datos con Tableau",
+      "url": "https://www.udemy.com/course/data-analysis-con-sql-y-tableau/"
+    },
+    {
+      "title": "Elastic Stack 7. Beats, Logstash, Elasticsearch, Kibana. ELK",
+      "url": "https://www.udemy.com/course/elastic-stack-beats-logstash-elasticsearch-y-kibana/"
+    },
+    {
+      "title": "Estadística descriptiva en SPSS",
+      "url": "https://www.udemy.com/course/bases-para-el-analisis-de-datos-en-spss/"
+    },
+    {
+      "title": "Pronósticos de Series de Tiempo con Python",
+      "url": "https://www.udemy.com/course/pronosticos-de-series-de-tiempo-con-python/"
+    },
+    {
+      "title": "Business Analysis Essentials - Excel, Power BI & Statistics",
+      "url": "https://www.udemy.com/course/business-analysis-hindi/"
+    },
+    {
+      "title": "Maîtrisez les fondamentaux d'Excel",
+      "url": "https://www.udemy.com/course/excel-fondamentaux/"
+    },
+    {
+      "title": "Fundamentos de Análisis de Datos para Empresas",
+      "url": "https://www.udemy.com/course/fundamentos-de-analisis-de-datos-para-empresas/"
+    },
+    {
+      "title": "Data Science no Microsoft Excel",
+      "url": "https://www.udemy.com/course/data-science-no-microsoft-excel/"
+    },
+    {
+      "title": "【ビジネス統計】文系のためのデータサイエンス基礎講座（生成AIグラフ作成用プロンプト付き）",
+      "url": "https://www.udemy.com/course/datascience-basic/"
+    },
+    {
+      "title": "行业研究14个基本模块",
+      "url": "https://www.udemy.com/course/14-emfyy/"
+    },
+    {
+      "title": "오렌지3 데이터 분석 with 파이썬",
+      "url": "https://www.udemy.com/course/orange3-python-syim/"
+    },
+    {
+      "title": "Controlling für Nicht-Controller",
+      "url": "https://www.udemy.com/course/controlling-fur-nicht-controller/"
+    },
+    {
+      "title": "【はじめてのデータサイエンス実践】統計分析・機械学習のビジネス活用マスターコース【クイック学習コース】",
+      "url": "https://www.udemy.com/course/data-science-basic/"
+    },
+    {
+      "title": "데이터 분석과 비즈니스를 위한 기초 통계학",
+      "url": "https://www.udemy.com/course/cloom-data-analysis/"
+    },
+    {
+      "title": "はじめての統計（推定・検定編） ～記述統計から推測統計へ！しっかり9時間、97レクチャーでデータ時代の入場券を手に入れる",
+      "url": "https://www.udemy.com/course/statistics1/"
+    },
+    {
+      "title": "Bedarfsprognose verbessern - Forecasting mit Microsoft Excel",
+      "url": "https://www.udemy.com/course/bedarfsprognose-verbessern-forecasting-mit-microsoft-excel/"
+    },
+    {
+      "title": "Microsoft SQL Server & Azure SQL 真实案例数据分析",
+      "url": "https://www.udemy.com/course/microsoft-sql-data-analytics/"
+    },
+    {
+      "title": "Maestría Análisis Datos: Python, SQL, ML y Power BI",
+      "url": "https://www.udemy.com/course/maestria-en-analisis-inteligente-del-caos-al-control/"
+    },
+    {
+      "title": "Masterclass en Inteligencia Artificial",
+      "url": "https://www.udemy.com/course/masterclass-en-inteligencia-artificial/"
+    },
+    {
+      "title": "Microsoft Power BI для бизнес аналитики",
+      "url": "https://www.udemy.com/course/power-bi-pro/"
+    },
+    {
+      "title": "【2時間で解説】Power BIデータモデリングを最大限に使いこなす完全ガイド",
+      "url": "https://www.udemy.com/course/pbidatamodeling/"
+    },
+    {
+      "title": "Business Analysis -BA thực chiến cho người mới - Tiếng Việt",
+      "url": "https://www.udemy.com/course/business-analyst-ba-for-practitioners-ba-thuc-chien/"
+    },
+    {
+      "title": "SQL - Aprende desde cero | Aplicado a Negocios & Analytics",
+      "url": "https://www.udemy.com/course/sql-aprende-desde-cero-aplicado-a-negocios-analytics/"
+    },
+    {
+      "title": "Power BI DAX Bootcamp – Measures & Berechnete Spalten",
+      "url": "https://www.udemy.com/course/power-bi-dax-bootcamp/"
+    },
+    {
+      "title": "Master DAX - Power BI orientado a projeto.",
+      "url": "https://www.udemy.com/course/powerbi-dax/"
+    },
+    {
+      "title": "Aprende a realizar proyecciones y pronósticos en Excel",
+      "url": "https://www.udemy.com/course/aprende-a-realizar-proyecciones-y-pronosticos-en-excel/"
+    },
+    {
+      "title": "Power BI - Implantação e Administração",
+      "url": "https://www.udemy.com/course/powerbi-implantacao/"
+    },
+    {
+      "title": "SPSS應用統計分析",
+      "url": "https://www.udemy.com/course/spss-kychen/"
+    },
+    {
+      "title": "【한글자막】 ITSM 측정 및 지표 설계 : 성공적인 조직 및 기업 관리",
+      "url": "https://www.udemy.com/course/best-itsm/"
+    },
+    {
+      "title": "Qlik GeoAnalytics para Qlik Sense",
+      "url": "https://www.udemy.com/course/qlik-geoanalytics-para-qlik-sense/"
+    },
+    {
+      "title": "Reporting mit Excel",
+      "url": "https://www.udemy.com/course/reporting-mit-excel/"
+    },
+    {
+      "title": "Aplicaciones de Machine Learning en Power BI Desktop con R",
+      "url": "https://www.udemy.com/course/machine-learning-aplicado-con-power-bi-desktop-usando-r/"
+    },
+    {
+      "title": "Microsoft Power BI Desktop for Business Intelligence",
+      "url": "https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/"
+    },
+    {
+      "title": "如何用Tableau做数据可视化",
+      "url": "https://www.udemy.com/course/tableau-i/"
+    },
+    {
+      "title": "DX実現のための数学入門",
+      "url": "https://www.udemy.com/course/dx-math-introduction/"
+    },
+    {
+      "title": "Power BI: Dashboards Financieros y Análisis Exploratorio",
+      "url": "https://www.udemy.com/course/microsoft-power-bi-visualizacion-y-analisis-exploratorio/"
+    },
+    {
+      "title": "Tableau de la A-Z: Formación en Análisis de Datos",
+      "url": "https://www.udemy.com/course/tableau-2020/"
+    },
+    {
+      "title": "Nhập môn SQL với MySQL",
+      "url": "https://www.udemy.com/course/nhap-mon-sql-voi-mysql/"
+    },
+    {
+      "title": "浅谈阿里巴巴如何玩转智能商业",
+      "url": "https://www.udemy.com/course/yfzffsxx/"
+    },
+    {
+      "title": "GA4のログデータをBigQueryで集計してPythonで分析＆LookerStudioで可視化してみよう！",
+      "url": "https://www.udemy.com/course/ga4-bigquery/"
+    },
+    {
+      "title": "Business Analyse für Techies",
+      "url": "https://www.udemy.com/course/business-analyse-fur-techies/"
+    },
+    {
+      "title": "Deep Learning de A a Z:redes neuronales en Python desde cero",
+      "url": "https://www.udemy.com/course/deep-learning-a-z/"
+    },
+    {
+      "title": "AI Governance: Estrategia, Ética y Gobierno de IA End-to-End",
+      "url": "https://www.udemy.com/course/ai-governance-los-fundamentos-para-el-gobierno-de-la-ia/"
+    },
+    {
+      "title": "Tableau Desktop: De cero a desarrollador Tableau",
+      "url": "https://www.udemy.com/course/tableau-desktop/"
+    },
+    {
+      "title": "【続】Microsoft Power BI Desktop- 入門講座 DAX-TABLE FUNC.特訓編 Part2",
+      "url": "https://www.udemy.com/course/masukawa_038/"
+    },
+    {
+      "title": "Tableau - Dashboards com design profissional na prática",
+      "url": "https://www.udemy.com/course/tableau-construindo-dashboards-com-design-profissional/"
+    },
+    {
+      "title": "Data Science para Gestores em Saúde",
+      "url": "https://www.udemy.com/course/data-science-para-gestores-em-saude/"
+    },
+    {
+      "title": "【続】Microsoft Power BI Desktop - 入門講座 ～予算実績比較編～",
+      "url": "https://www.udemy.com/course/masukawa_025/"
+    },
+    {
+      "title": "SQL - Data Analysis mit MySQL - Wochenendseminar",
+      "url": "https://www.udemy.com/course/sql-data-analysis-mit-mysql-wochenendseminar/"
+    },
+    {
+      "title": "Аналитика в SPSS: от новичка до уверенного пользователя",
+      "url": "https://www.udemy.com/course/spss-ywa/"
+    },
+    {
+      "title": "Qlikview Set Analysis do Zero",
+      "url": "https://www.udemy.com/course/qlikview-set-analysis-do-zero/"
+    },
+    {
+      "title": "ChatGPTビジネス活用講座【初心者・入門編】※対象モデル：GPT-3.5(無料版)",
+      "url": "https://www.udemy.com/course/chatgpt-3_5/"
+    },
+    {
+      "title": "Personalcontrolling mit Excel",
+      "url": "https://www.udemy.com/course/personalcontrolling-mit-excel/"
+    },
+    {
+      "title": "[A-Z] Visualización y Analítica de datos con Power BI",
+      "url": "https://www.udemy.com/course/avanza-con-power-bi-analitica-de-datos-visualizacion/"
+    },
+    {
+      "title": "Introdução à Análise Bayesiana com R",
+      "url": "https://www.udemy.com/course/analise-bayesiana-com-r/"
+    },
+    {
+      "title": "【SQLiteで学ぶ】ゼロから始めるデータベースとSQL超入門",
+      "url": "https://www.udemy.com/course/basic_database_sqlite/"
+    },
+    {
+      "title": "新人研修に最適！ 体系だって学んだことがない社員のためのデータ分析基礎",
+      "url": "https://www.udemy.com/course/data_analysis_basic/"
+    },
+    {
+      "title": "最新のBIツールを使って、バラバラなデータを１つにまとめ、ビジュアル化するまでを体験するコース",
+      "url": "https://www.udemy.com/course/masukawa_026/"
+    },
+    {
+      "title": "Domine o Pentaho Data Integration: Do Básico ao Avançado",
+      "url": "https://www.udemy.com/course/pentaho-data-integration-v93-do-zero-passo-a-passo/"
+    },
+    {
+      "title": "Data Science & KI kompakt",
+      "url": "https://www.udemy.com/course/data-science-kompakt/"
+    },
+    {
+      "title": "数据决策思维：建立分层、归纳和测试思维，用数据提升决策效率",
+      "url": "https://www.udemy.com/course/yrjtjkjf/"
+    },
+    {
+      "title": "【ひぐま流】SQL(SELECT文)超入門！講義・実践を通じて、SELECT文の基礎を短時間で習得しよう！",
+      "url": "https://www.udemy.com/course/higuma-sql-entry/"
+    },
+    {
+      "title": "Power BI: Transformación Digital con Inteligencia Artificial",
+      "url": "https://www.udemy.com/course/power-bi-transformacion-digital-con-inteligencia-artificial/"
+    },
+    {
+      "title": "Risikoanalyse - Werde ein FMEA Experte",
+      "url": "https://www.udemy.com/course/fmea-experte/"
+    },
+    {
+      "title": "Mastering Data Analysis & Visualization with Python",
+      "url": "https://www.udemy.com/course/mastering-data-analysis-visualization-with-python/"
+    },
+    {
+      "title": "Tablas dinamicas - Analisis de datos en Excel 100% práctico",
+      "url": "https://www.udemy.com/course/tablas-dinamicas-analisis-de-datos-en-excel-100-practico/"
+    },
+    {
+      "title": "Fundamentos Básicos de Business Intelligence con TABLEAU",
+      "url": "https://www.udemy.com/course/business-intelligence-con-tableau/"
+    },
+    {
+      "title": "R para Analítica de Negocios: Curso Completo desde Cero",
+      "url": "https://www.udemy.com/course/introduccion-a-r-para-inteligencia-y-analitica-de-negocios/"
+    },
+    {
+      "title": "Métricas para Produtos Digitais",
+      "url": "https://www.udemy.com/course/metricas-para-produtos-digitais/"
+    },
+    {
+      "title": "【ビジネス統計】Excel(エクセル)による確率分布基礎講座【確率思考を身につけよう】",
+      "url": "https://www.udemy.com/course/excel_probability/"
+    },
+    {
+      "title": "Gewinn und Verlustrechnung in Microsoft Power BI Desktop",
+      "url": "https://www.udemy.com/course/gewinn-und-verlustrechnung-in-microsoft-power-bi-desktop/"
+    },
+    {
+      "title": "Otimizando Processos Organizacionais",
+      "url": "https://www.udemy.com/course/otimizando-processos-organizacionais/"
+    },
+    {
+      "title": "Dominando o Microsoft SQL Server Integration Services - SSIS",
+      "url": "https://www.udemy.com/course/aprendendo-sql-server-integration-services-ssis/"
+    },
+    {
+      "title": "Power BI desktop and DAX complete training in Hindi",
+      "url": "https://www.udemy.com/course/microsoft-power-bi-complete-training-in-urdu-hindi/"
+    },
+    {
+      "title": "社会人基礎力のポイント速習！ 情報活用・メディアリテラシー編　~思考・意思決定・行動の質を高めるビジネススキル",
+      "url": "https://www.udemy.com/course/infomation-media-data-chatgpt/"
+    },
+    {
+      "title": "Forecasting y gestión de demanda usando Excel y R",
+      "url": "https://www.udemy.com/course/forecasting-excel-r/"
+    },
+    {
+      "title": "Microsoft Power BI Desktop - Tips & Tricks",
+      "url": "https://www.udemy.com/course/masukawa_039/"
+    },
+    {
+      "title": "BigQueryで学ぶ！実践SQLデータ分析：ITサービス改善につなげよう",
+      "url": "https://www.udemy.com/course/bq-sql-analysis/"
+    },
+    {
+      "title": "تحليل البيانات باستخدام الاكسيل",
+      "url": "https://www.udemy.com/course/data-analysis-with-excel-v/"
+    },
+    {
+      "title": "Guia Completo do Microsoft Power BI: Projetos Profissionais",
+      "url": "https://www.udemy.com/course/microsoft-power-bi-completo-dax/"
+    },
+    {
+      "title": "Automação de Processos no Bizagi",
+      "url": "https://www.udemy.com/course/automacao-de-processos-no-bizagi/"
+    },
+    {
+      "title": "Gestão com Power BI: da Teoria à Prática",
+      "url": "https://www.udemy.com/course/gestaocompowerbidateoriaapratica/"
+    },
+    {
+      "title": "Análisis de datos con Microsoft Excel y Power BI",
+      "url": "https://www.udemy.com/course/analisis-de-datos-con-microsoft-excel-y-power-bi/"
+    },
+    {
+      "title": "Belajar SPSS Level Dasar untuk Mahasiswa, Dosen, Peneliti",
+      "url": "https://www.udemy.com/course/belajar-spss-level-dasar/"
+    },
+    {
+      "title": "Построить модель бизнес-процесса с \"0\"",
+      "url": "https://www.udemy.com/course/gutsa-business-process-from-0/"
+    },
+    {
+      "title": "Business Intelligence Na Prática: Do SQL ao Dashboard",
+      "url": "https://www.udemy.com/course/business-intelligence-na-pratica-do-sql-ao-dashboard/"
+    },
+    {
+      "title": "Inteligencia de Negocios con POWER BI",
+      "url": "https://www.udemy.com/course/inteligencia-de-negocios-con-power-bi/"
+    },
+    {
+      "title": "Внедрение системы менеджмента информационной безопасности",
+      "url": "https://www.udemy.com/course/es-iso27000/"
+    },
+    {
+      "title": "Excel para el mundo real: Guía desde cero para el trabajo",
+      "url": "https://www.udemy.com/course/excel-para-el-mundo-real-guia-desde-cero-para-el-trabajo/"
+    },
+    {
+      "title": "文系出身・数学がニガテ・知識ゼロの方大歓迎！社会人のための統計活用力養成講座　～　データサイエンスの基礎を攻略！",
+      "url": "https://www.udemy.com/course/statisticsbasic/"
+    },
+    {
+      "title": "Las Siete Herramientas Básicas de la Calidad",
+      "url": "https://www.udemy.com/course/las-siete-herramientas-basicas-de-la-calidad/"
+    },
+    {
+      "title": "【한글자막】 Google Analytics 완벽 마스터 2025 : 초보자에서 전문가 되기",
+      "url": "https://www.udemy.com/course/best-google-analytics/"
+    },
+    {
+      "title": "Thiết kế dữ liệu và Lập báo cáo Power BI",
+      "url": "https://www.udemy.com/course/data-design-and-report-powerbi/"
+    },
+    {
+      "title": "Aplica SQL al mundo del Data Science desde cero",
+      "url": "https://www.udemy.com/course/sql-para-data-science/"
+    },
+    {
+      "title": "活用企画と仮説が肝！データを問題解決につなげるビジネス基礎スキル　~文系がデータ活用人材になる為に必ず知ってほしいこと",
+      "url": "https://www.udemy.com/course/businessskillfordatadriven/"
+    },
+    {
+      "title": "【한글자막】 비즈니스 분석: 기초부터 핵심 개념까지 완벽 마스터",
+      "url": "https://www.udemy.com/course/business-fundamentals-master/"
+    },
+    {
+      "title": "【続】Microsoft Power BI Desktop - 入門講座 ～Data Model編～",
+      "url": "https://www.udemy.com/course/masukawa_020/"
+    },
+    {
+      "title": "Power BI & Business Intelligence 2025",
+      "url": "https://www.udemy.com/course/power-bi-para-business-inteligence-de-0-a-100/"
+    },
+    {
+      "title": "Power BI - Análisis de Datos e Inteligencia de Negocios",
+      "url": "https://www.udemy.com/course/power-bi-analisis-de-datos-e-inteligencia-de-negocios/"
+    },
+    {
+      "title": "SQL pour débutants (l'essentiel par la pratique)",
+      "url": "https://www.udemy.com/course/sql-marketing/"
+    },
+    {
+      "title": "Prompt Engineering con ChatGPT en Negocios y Finanzas",
+      "url": "https://www.udemy.com/course/prompt-engineering-con-chatgpt-en-negocios-y-finanzas/"
+    },
+    {
+      "title": "【한글자막】 15일 완성 코스 - Power BI 완벽 부트캠프",
+      "url": "https://www.udemy.com/course/best-15-power-bi/"
+    },
+    {
+      "title": "SQL: от новичка до уверенного бизнес-пользователя",
+      "url": "https://www.udemy.com/course/sql-zsel/"
+    },
+    {
+      "title": "Business Intelligence Completo do ETL ao Power BI na Prática",
+      "url": "https://www.udemy.com/course/business-intelligence-completo-power-bi-na-pratica/"
+    },
+    {
+      "title": "LGPD - Lei Comentada com Diagramas Mapa Mental",
+      "url": "https://www.udemy.com/course/privacidade-e-lei-de-protecao-de-dados-pessoais-lgpd/"
+    },
+    {
+      "title": "Statistische Grundlagen in der Qualitätssicherung Teil 1",
+      "url": "https://www.udemy.com/course/statistische-grundlagen-in-der-qualitaetssicherung-teil-1/"
+    },
+    {
+      "title": "DX(デジタルトランスフォーメーション)のためのビッグデータ活用とデータ活用企画のつくりかたまで",
+      "url": "https://www.udemy.com/course/dx-bigdata/"
+    },
+    {
+      "title": "Business Intelligence using Microsoft Power BI",
+      "url": "https://www.udemy.com/course/business-intelligence-using-microsoft-power-bi/"
+    },
+    {
+      "title": "Power BI: Transformación y limpieza de datos con Power Query",
+      "url": "https://www.udemy.com/course/power-bi-transformacion-y-limpieza-de-datos-con-power-query/"
+    },
+    {
+      "title": "Der große Deep Learning Kurs mit Keras und TensorFlow 2",
+      "url": "https://www.udemy.com/course/deep-learning-tensorflow/"
+    },
+    {
+      "title": "【売上分析で売上を最大化】ゼロから始めるGoogleスプレッドシートマスターコース｜最先端技術で売上最大化＆無駄の最小化",
+      "url": "https://www.udemy.com/course/spradsheet_master/"
+    },
+    {
+      "title": "Tableau 10: Visuelle Datenanalyse für die Data Science",
+      "url": "https://www.udemy.com/course/tableau-10-visuelle-und-intuitive-datenanalyse/"
+    },
+    {
+      "title": "Controlling Kompakt-Kurs",
+      "url": "https://www.udemy.com/course/controlling-kompakt-kurs/"
+    },
+    {
+      "title": "Aprende Matlab Completo: De Básico a Avanzado",
+      "url": "https://www.udemy.com/course/matlab-desde-cero/"
+    },
+    {
+      "title": "ビジネス推進のためのデータモデリング入門",
+      "url": "https://www.udemy.com/course/datamodeling-for-business/"
+    },
+    {
+      "title": "تحليل البيانات باستخدام باور بي اي -- Data Analysis Power BI",
+      "url": "https://www.udemy.com/course/data-analysis-using-knime/"
+    },
+    {
+      "title": "Machine Learning con Knime para no programadores y Gerentes",
+      "url": "https://www.udemy.com/course/machine-learning-con-knime/"
+    },
+    {
+      "title": "Introducción a Blockchain, Criptomonedas y Smart Contracts",
+      "url": "https://www.udemy.com/course/curso-completo-de-blockchain-de-la-a-a-la-z/"
+    },
+    {
+      "title": "파워BI를 활용한 데이터 시각화 기초",
+      "url": "https://www.udemy.com/course/power-bi-basic/"
+    },
+    {
+      "title": "小白必须掌握的数据分析方法",
+      "url": "https://www.udemy.com/course/lyqsmuow/"
+    },
+    {
+      "title": "METABASE: Vá do ZERO ao Avançado! Completo 2025",
+      "url": "https://www.udemy.com/course/metabase/"
+    },
+    {
+      "title": "Agile Scrum Product Owner -Kỹ thuật trong Backlog Refinement",
+      "url": "https://www.udemy.com/course/product-owner-ky-thuat-backlog-refinement/"
+    },
+    {
+      "title": "Insights del Negocio: SAP Business One, SQL Server, Power BI",
+      "url": "https://www.udemy.com/course/insights-del-negocio-sap-business-one-sql-server-power-bi/"
+    },
+    {
+      "title": "Curso Básico sobre o Regulamento Geral de Proteção de Dados",
+      "url": "https://www.udemy.com/course/curso-basico-gdpr-lgpd/"
+    },
+    {
+      "title": "Moderne Künstliche Intelligenz entmystifiziert",
+      "url": "https://www.udemy.com/course/moderne-kuenstliche-intelligenz-entmystifiziert/"
+    },
+    {
+      "title": "SQL para Gestores e Analistas - Analytics e B.I",
+      "url": "https://www.udemy.com/course/sql-para-gestores-e-analistas/"
+    },
+    {
+      "title": "Power BI ile Etkin İş Analitiği",
+      "url": "https://www.udemy.com/course/microsoft-power-bi-ile-etkin-is-analitigi/"
+    },
+    {
+      "title": "เรียน Power BI รวมคอร์สเต็ม Data Viz Cleaning Joining DAX",
+      "url": "https://www.udemy.com/course/powerbicourse/"
+    },
+    {
+      "title": "Procesamiento del Lenguaje Natural Moderno en Python",
+      "url": "https://www.udemy.com/course/procesamiento-del-lenguaje-natural/"
+    },
+    {
+      "title": "Análise de Dados Descomplicada: Seu Guia com R Studio",
+      "url": "https://www.udemy.com/course/analise-de-dados-com-r-studio-modulo-1/"
+    },
+    {
+      "title": "Risikomanagement mit Excel",
+      "url": "https://www.udemy.com/course/risikomanagement-mit-excel/"
+    },
+    {
+      "title": "【まだ間に合う！】AI開発・機械学習を理解するための数学講座",
+      "url": "https://www.udemy.com/course/math_for_ai/"
+    },
+    {
+      "title": "Menjadi Ahli Data Analitycs Dengan Power BI",
+      "url": "https://www.udemy.com/course/menjadi-ahli-data-analitycs-dengan-power-bi/"
+    },
+    {
+      "title": "تحليل البيانات وإدارتها: Data Analysis & Management",
+      "url": "https://www.udemy.com/course/data-analysis-management/"
+    },
+    {
+      "title": "Análisis de datos con Google Sheets y Looker Studio",
+      "url": "https://www.udemy.com/course/google-data-studio-desde-cero-para-principiantes/"
+    },
+    {
+      "title": "Microsoft 365 Copilot (Excel) を活用したデータ分析の基本マスターコース",
+      "url": "https://www.udemy.com/course/microsoft-365-copilot-in-excel-data-analysis/"
+    },
+    {
+      "title": "Análise de Dados na Prática: Formação Analista de Dados I",
+      "url": "https://www.udemy.com/course/formacao-analista-de-dados-extraindo-insights-dos-dados/"
+    },
+    {
+      "title": "Power BI Desktop: DAX-Grundlagen & Berechnungen",
+      "url": "https://www.udemy.com/course/einfuhrung-in-berechnungen-mit-ms-power-bi-desktop/"
+    },
+    {
+      "title": "組織を変革に導く！　マニュアル作成力養成講座　～業務・ビジネスプロセスフローを中心として",
+      "url": "https://www.udemy.com/course/manual-bpf/"
+    },
+    {
+      "title": "Google BigQueryとGoogle Data Portal【旧Data Studio】から始めるデータ活用入門",
+      "url": "https://www.udemy.com/course/bigquery_dataportal_basic/"
+    },
+    {
+      "title": "PowerApps in Arabic - PowerApps بالعربي",
+      "url": "https://www.udemy.com/course/powerapps-in-arabic/"
+    },
+    {
+      "title": "互联网商业分析",
+      "url": "https://www.udemy.com/course/onzxpers/"
+    },
+    {
+      "title": "5步教你打造优秀的业务报告",
+      "url": "https://www.udemy.com/course/5-ydddkc/"
+    },
+    {
+      "title": "THÀNH THẠO POWER BI TỪ SỐ 0 ĐẾN CHART NÂNG CAO!",
+      "url": "https://www.udemy.com/course/thanh-thao-power-bi-tu-so-0-level-1/"
+    },
+    {
+      "title": "Aprendizaje por Refuerzo Profundo 2.0 en Python",
+      "url": "https://www.udemy.com/course/aprendizaje-por-refuerzo-profundo/"
+    },
+    {
+      "title": "Google Gemini A-Z: Đột phá Năng suất với Google Workspace",
+      "url": "https://www.udemy.com/course/google-workspace-gemini-ai/"
+    },
+    {
+      "title": "Mastering Microsoft Azure||From storage to advanced analysis",
+      "url": "https://www.udemy.com/course/mastering-microsoft-azurefrom-storage-to-advanced-analysis/"
+    },
+    {
+      "title": "Machine Learning Aplicada a Marketing Analytics con Python",
+      "url": "https://www.udemy.com/course/analitica-de-mercadeo-con-python/"
+    },
+    {
+      "title": "Tableau de la A a la Z: Domina Tableau en Data Science",
+      "url": "https://www.udemy.com/course/tableau-a-z/"
+    },
+    {
+      "title": "Funciones DAX avanzadas, Objetos IA y dashboards en Power BI",
+      "url": "https://www.udemy.com/course/power-bi-analisis-avanzado-con-sql-y-programacion-en-r/"
+    },
+    {
+      "title": "Data Mining - Mineração de Dados para o Mercado Financeiro",
+      "url": "https://www.udemy.com/course/data-mining-mineracao-de-dados-para-o-mercado-financeiro/"
+    },
+    {
+      "title": "비즈니스 애널리틱스 - 데이터 기반 비즈니스 현황 분석",
+      "url": "https://www.udemy.com/course/maso-ba-excel-onc55-1/"
+    },
+    {
+      "title": "Controlling mit KI ChatGPT",
+      "url": "https://www.udemy.com/course/controlling-mit-ki-chatgpt/"
+    },
+    {
+      "title": "Curso Avanzado de Tableau: domina Tableau en Data Science",
+      "url": "https://www.udemy.com/course/tableau-a-z-avanzado/"
+    },
+    {
+      "title": "Начальный курс SQL: от Новичка до Специалиста (+Практика)",
+      "url": "https://www.udemy.com/course/sql-essentials-ru/"
+    },
+    {
+      "title": "Business Intelligence دبلومة ذكاء الأعمال وتحليل البيانات",
+      "url": "https://www.udemy.com/course/businessintelligencearabic/"
+    },
+    {
+      "title": "Curso MASTER: Business Intelligence completo con POWER BI",
+      "url": "https://www.udemy.com/course/curso-master-business-intelligence-completo-con-power-bi/"
+    },
+    {
+      "title": "Amos結構方程模型分析",
+      "url": "https://www.udemy.com/course/amos-akwan/"
+    },
+    {
+      "title": "Curso de Tableau: Análisis y Visualización de Datos",
+      "url": "https://www.udemy.com/course/curso-de-tableau-analisis-y-visualizacion-de-datos/"
+    },
+    {
+      "title": "Dashboards en Minutos con la IA de Claude: Impactantes y YA!",
+      "url": "https://www.udemy.com/course/dashboards-con-claude/"
+    },
+    {
+      "title": "Curso de SQL Completo - Aplicado ao Mercado de Trabalho",
+      "url": "https://www.udemy.com/course/curso-sql/"
+    },
+    {
+      "title": "4/4|Power BI Eğitim Videosu Serisi 4: HARİCİ GÖRSELLER",
+      "url": "https://www.udemy.com/course/power-bi-egitim-videosu-serisi-4/"
+    },
+    {
+      "title": "Analítica de Datos para la Toma de Decisiones, usando Excel",
+      "url": "https://www.udemy.com/course/analitica-de-datos-para-la-toma-de-decisiones/"
+    },
+    {
+      "title": "비전공자를 위한 실전통계분석 강의 with R",
+      "url": "https://www.udemy.com/course/with-r-v/"
+    },
+    {
+      "title": "Power Pivot 超级透视表入门",
+      "url": "https://www.udemy.com/course/power-pivot-i/"
+    },
+    {
+      "title": "Power BI for Data Visualization",
+      "url": "https://www.udemy.com/course/power-bi-in-hindi/"
+    },
+    {
+      "title": "Experto en Análisis y Visualización de Datos",
+      "url": "https://www.udemy.com/course/experto-en-analisis-y-visualizacion-de-datos/"
+    },
+    {
+      "title": "Domina DAX | Conviértete en Maestro de Power BI [2025]",
+      "url": "https://www.udemy.com/course/domina-dax-de-cero-a-maestro/"
+    },
+    {
+      "title": "Tableau 快速入门实战教程",
+      "url": "https://www.udemy.com/course/tableau-n/"
+    },
+    {
+      "title": "Análisis de Datos Deportivos de Fútbol con Power BI",
+      "url": "https://www.udemy.com/course/experto-en-analisis-de-datos-del-futbol-soccer-con-power-bi/"
+    },
+    {
+      "title": "【医療統計を無料統計ソフトでゼロから学ぶ】シロート統計学講座",
+      "url": "https://www.udemy.com/course/shiroto-statistics/"
+    },
+    {
+      "title": "Máster Power BI: Aprovecha tus Datos con PowerBI + IA [2025]",
+      "url": "https://www.udemy.com/course/business-intelligence-power-bi-toma-decisiones-inteligente/"
+    },
+    {
+      "title": "【ひぐま流】データから根拠を見つけ、次のアクションに繋げる！Excelで学ぶビジネスデータ分析入門！",
+      "url": "https://www.udemy.com/course/excel-analysis-entry/"
+    },
+    {
+      "title": "【한글자막】 산업 적용 사례와 함께 하는 Blockchain 입문",
+      "url": "https://www.udemy.com/course/best-blockchain/"
+    },
+    {
+      "title": "Planung und Controlling",
+      "url": "https://www.udemy.com/course/planung-und-controlling/"
+    },
+    {
+      "title": "【한글자막】 데이터 역량 강화를 위한 SQL 부트캠프",
+      "url": "https://www.udemy.com/course/best-sql-2022/"
+    },
+    {
+      "title": "Microsoft Power BI - Complete Course",
+      "url": "https://www.udemy.com/course/microsoft-power-bi-complete-course-r/"
+    },
+    {
+      "title": "Kurs Access Video",
+      "url": "https://www.udemy.com/course/kurs-access-video/"
+    },
+    {
+      "title": "Нейросети от Новичка до Эксперта",
+      "url": "https://www.udemy.com/course/finkacademy/"
+    },
+    {
+      "title": "Gobierno de Datos Fundamentos para Gestión de Datos exitosa",
+      "url": "https://www.udemy.com/course/gobierno-de-datos-fundamentos-para-gestion-de-datos-exitosa/"
+    },
+    {
+      "title": "Corso sui KPI in Analisi Commerciale",
+      "url": "https://www.udemy.com/course/kpi-in-analisi-commerciale/"
+    },
+    {
+      "title": "Microsoft Power BI en español para principiantes 2025",
+      "url": "https://www.udemy.com/course/microsoft-power-bi-en-espanol-para-principiantes-2024/"
+    },
+    {
+      "title": "ChatGPT para Negócios: Curso Definitivo para Dominar I.A.",
+      "url": "https://www.udemy.com/course/chatgpt-para-negocios-curso-definitivo-para-dominar-ia/"
+    },
+    {
+      "title": "Estadística para todos. Análisis de datos y Toma de decisión",
+      "url": "https://www.udemy.com/course/estadistica-para-todos-analisis-de-datos-y-toma-de-decision/"
+    },
+    {
+      "title": "【続】Microsoft Power BI Desktop - 入門講座 ～DAX-\"X\" FUNCTION 特訓編～",
+      "url": "https://www.udemy.com/course/masukawa_036/"
+    },
+    {
+      "title": "DXで成果を挙げる！データ活用プロジェクトの設計入門講座",
+      "url": "https://www.udemy.com/course/dtvcl_01/"
+    },
+    {
+      "title": "Curso de SAS: Aprenda SAS e Torne-se um Ninja dos Dados",
+      "url": "https://www.udemy.com/course/aprenda-sas-e-torne-se-um-ninja-dos-dados/"
+    },
+    {
+      "title": "Data Management & Strategy basado en DAMA",
+      "url": "https://www.udemy.com/course/data-management-strategy-basado-en-dama/"
+    },
+    {
+      "title": "Curso completo de Machine Learning: Data Science en Python",
+      "url": "https://www.udemy.com/course/curso-completo-de-machine-learning-data-science-en-python/"
+    },
+    {
+      "title": "世界40万人が学んだ講師が教えるQlik Senseを使ったデータサイエンス入門編(日本語吹替)",
+      "url": "https://www.udemy.com/course/biqlik-sense-japanese/"
+    },
+    {
+      "title": "Google Data Studio-Visualización de Datos y Cuadros de Mando",
+      "url": "https://www.udemy.com/course/google-data-studio-visualizacion-de-datos-y-cuadros-de-mando/"
+    },
+    {
+      "title": "GOOGLE ANALYTICS: Optimiza tu Web para lograr + INGRESOS",
+      "url": "https://www.udemy.com/course/google-analytics-curso-academy-tutorial-certificacion/"
+    },
+    {
+      "title": "Airtable für Einsteiger - Verwalte Aufgaben und Projekte",
+      "url": "https://www.udemy.com/course/airtable-datenbank-kurs/"
+    },
+    {
+      "title": "SPSS 26 for Beginners (Arabic)",
+      "url": "https://www.udemy.com/course/spss-26-for-beginners-arabic/"
+    },
+    {
+      "title": "【ビジネス統計】統計学ベーシック講座その２「相関分析・回帰分析」【分析力向上を目指すアドバンス講座】",
+      "url": "https://www.udemy.com/course/statistics_basic_vol2/"
+    },
+    {
+      "title": "Excel Dashboard",
+      "url": "https://www.udemy.com/course/excel-dashboard-excelente/"
+    },
+    {
+      "title": "Power BI: Başlangıçtan Profesyonel Seviyeye (R, Big Data)",
+      "url": "https://www.udemy.com/course/power-bi-baslangctan-profesyonel-seviyeye-r-big-data/"
+    },
+    {
+      "title": "부딪히며 배우는! 데이터 리터러시 입문",
+      "url": "https://www.udemy.com/course/introofdataliteracy/"
+    },
+    {
+      "title": "Desenvolvedor Qlikview do Zero",
+      "url": "https://www.udemy.com/course/qlikview-do-zero/"
+    },
+    {
+      "title": "Curso Power BI: Dashboards Profesionales + ChatGPT",
+      "url": "https://www.udemy.com/course/power-bi-2021-proyectos-reales-para-volverte-un-master/"
+    },
+    {
+      "title": "Google Data Portal (Google Data Studio) - 入門講座",
+      "url": "https://www.udemy.com/course/masukawa_041/"
+    },
+    {
+      "title": "Geomarketing com Software ARCGIS",
+      "url": "https://www.udemy.com/course/geomarketing/"
+    },
+    {
+      "title": "Power BI - Mi primer proyecto - Fitness Life",
+      "url": "https://www.udemy.com/course/power-bi-mi-primer-proyecto-fitness-life/"
+    },
+    {
+      "title": "Power BI, SQL y Desarrollo Web para Seguimiento de Tareas",
+      "url": "https://www.udemy.com/course/power-bi-sql-y-desarrollo-web-para-seguimiento-de-tareas/"
+    },
+    {
+      "title": "搭建智能销售报表，灵活使用PowerBI，精准发现业务问题",
+      "url": "https://www.udemy.com/course/powerbi-i/"
+    },
+    {
+      "title": "１０倍速！　問題解決思考法　～一生使える思考術～",
+      "url": "https://www.udemy.com/course/10-ojmym/"
+    },
+    {
+      "title": "Controlling mit Excel",
+      "url": "https://www.udemy.com/course/controlling-mit-excel/"
+    },
+    {
+      "title": "Curso Completo: Cómo Proyectar Demanda y Ventas en Excel",
+      "url": "https://www.udemy.com/course/pronosticos-de-ventas-en-excel/"
+    },
+    {
+      "title": "Microsoft Power BI - zostań Mistrzem Power BI Desktop",
+      "url": "https://www.udemy.com/course/power-bi-microsoft/"
+    },
+    {
+      "title": "Inteligência de Mercado e KPIs na Tomada de Decisão",
+      "url": "https://www.udemy.com/course/inteligencia-kpis/"
+    },
+    {
+      "title": "Aprende BERT, el algoritmo de NLP más avanzado de Google",
+      "url": "https://www.udemy.com/course/bert-nlp/"
+    },
+    {
+      "title": "Controller Masterclass",
+      "url": "https://www.udemy.com/course/controller-masterclass/"
+    },
+    {
+      "title": "Programmer avec SAS en 4h en partant de zéro + Projet (2025)",
+      "url": "https://www.udemy.com/course/formation-sas/"
+    },
+    {
+      "title": "Her Seviyeye Uygun Uçtan Uca Veri Bilimi, Knime ile",
+      "url": "https://www.udemy.com/course/veribilimi/"
+    },
+    {
+      "title": "はじめてのTableauデータ分析(入門・初級)～2時間でTableau Desktop Specialist資格対策～",
+      "url": "https://www.udemy.com/course/tableautableau-desktop-specialist/"
+    },
+    {
+      "title": "Microsoft Excel: De cero a analista de datos en Power BI",
+      "url": "https://www.udemy.com/course/microsoft-excel-de-cero-a-analista-de-datos-en-power-bi/"
+    },
+    {
+      "title": "Power BI: от новичка до уверенного бизнес-пользователя",
+      "url": "https://www.udemy.com/course/power-bi-v/"
+    },
+    {
+      "title": "Power BI Básico Avançado - Formação Especialista + Dashboard",
+      "url": "https://www.udemy.com/course/power-bi-basico-avancado-formacao-especialista-dashboard/"
+    },
+    {
+      "title": "Google Data Studio: il Corso Definitivo, dalla A alla Z.",
+      "url": "https://www.udemy.com/course/google-data-studio-il-corso-definitivo-dalla-a-alla-z/"
+    },
+    {
+      "title": "Microsoft Excel Pivot-Tabellen: Vom Anfänger zum Profi",
+      "url": "https://www.udemy.com/course/excel-pivot-profi-werden-und-daten-schnell-einfach-auswerten/"
+    },
+    {
+      "title": "Crea DApps con Tokens NFT en Ethereum usando Truffle y React",
+      "url": "https://www.udemy.com/course/tokens-nft-en-ethereum-con-truffle-y-react/"
+    },
+    {
+      "title": "Excel per lavorare subito in azienda",
+      "url": "https://www.udemy.com/course/excel-per-lavorare-subito-in-azienda/"
+    },
+    {
+      "title": "¡Business Intelligence para todos!",
+      "url": "https://www.udemy.com/course/business-intelligence-para-todos-o/"
+    },
+    {
+      "title": "Planung und Forecast mit Excel",
+      "url": "https://www.udemy.com/course/planung-und-forecast-mit-excel/"
+    },
+    {
+      "title": "Talend [ETL-BI] [Français] : Du Débutant à la Maîtrise [A-Z]",
+      "url": "https://www.udemy.com/course/talend-etl-bi-francais-debutant-a-la-maitrise/"
+    },
+    {
+      "title": "【戦略コンサルが教える】ビジネス分析入門講座【ビジネスリーダーのための思考メソッド】",
+      "url": "https://www.udemy.com/course/bizanalysis/"
+    },
+    {
+      "title": "【数字を分かりやすく伝える】エクセルで学ぶグラフ作成マスターコース",
+      "url": "https://www.udemy.com/course/excel_graph/"
+    },
+    {
+      "title": "설치부터 시각화까지! 초보자를 위한 R 입문",
+      "url": "https://www.udemy.com/course/the_complete_r_101_for_beginners/"
+    },
+    {
+      "title": "Desenvolvedor Qlik Sense 2.0",
+      "url": "https://www.udemy.com/course/desenvolvedor-qlik-sense/"
+    },
+    {
+      "title": "Finanzcontrolling mit Excel",
+      "url": "https://www.udemy.com/course/finanzcontrolling-mit-excel/"
+    },
+    {
+      "title": "People Analytics: Analítica de Recursos Humanos con Power BI",
+      "url": "https://www.udemy.com/course/analitica-de-recursos-humanos-con-microsoft-power-bi/"
+    },
+    {
+      "title": "Tableau 10 A-Z (Wersja Polska)",
+      "url": "https://www.udemy.com/course/tableau-10-pl/"
+    },
+    {
+      "title": "Business Analysis 101 - en Español",
+      "url": "https://www.udemy.com/course/business-analysis-101-en-espanol/"
+    },
+    {
+      "title": "ANALYSE MODERNE DES DONNEES AVEC EXCEL ET POWER BI",
+      "url": "https://www.udemy.com/course/analyse-moderne-des-donnees-avec-excel-et-power-bi/"
+    },
+    {
+      "title": "如何综合运用三种数据分析框架解难题",
+      "url": "https://www.udemy.com/course/dkmcwjer/"
+    },
+    {
+      "title": "从零开始了解什么是数据分析",
+      "url": "https://www.udemy.com/course/shujufenxi/"
+    },
+    {
+      "title": "Curso Power BI: Funciones DAX + ChatGPT, mapas y gráficos",
+      "url": "https://www.udemy.com/course/power-bi-analisis-de-casos-reales-y-funciones-dax/"
+    },
+    {
+      "title": "Power Query com Power BI",
+      "url": "https://www.udemy.com/course/power-query-nb/"
+    },
+    {
+      "title": "Power BI: Tu primer paso al análisis de datos",
+      "url": "https://www.udemy.com/course/power-bi-desde-cero/"
+    },
+    {
+      "title": "Sukses Bisnis dengan Kecerdasan Buatan (AI) dan ChatGPT",
+      "url": "https://www.udemy.com/course/sukses-bisnis-dengan-kecerdasan-buatan-ai-dan-chatgpt/"
+    },
+    {
+      "title": "Tus datos en la nube: ETLs con Python en el cloud",
+      "url": "https://www.udemy.com/course/tus-datos-en-la-nube-etls-con-python-en-el-cloud/"
+    },
+    {
+      "title": "Học Power Query từ Cơ bản đến Nâng cao",
+      "url": "https://www.udemy.com/course/power-query-tu-co-ban-en-nang-cao/"
+    },
+    {
+      "title": "【流れを体験！】データ分析超入門~身近な題材のワークやデモ画面を使った丁寧な解説で、データ分析の流れを体験できる講座です",
+      "url": "https://www.udemy.com/course/the-first-dataanalysis/"
+    },
+    {
+      "title": "QlikSense Completo: De cero a desarrollador Qlik Sense",
+      "url": "https://www.udemy.com/course/qliksense/"
+    },
+    {
+      "title": "Alteryx Designer | Curso Prático Essencial",
+      "url": "https://www.udemy.com/course/alteryx-designer-curso-pratico-essencial/"
+    },
+    {
+      "title": "Das SQL Grundlagen Bootcamp (auch für Data Science)",
+      "url": "https://www.udemy.com/course/das-komplette-sql-bootcamp/"
+    },
+    {
+      "title": "Построение системы KPI бизнес-процесса",
+      "url": "https://www.udemy.com/course/system-kpi/"
+    },
+    {
+      "title": "【한글자막】 태블로 고수되기: Tableau 고급 트레이닝",
+      "url": "https://www.udemy.com/course/best-tableau-advanced/"
+    },
+    {
+      "title": "Data Storytelling e Visualização para Dashboards",
+      "url": "https://www.udemy.com/course/data-storytelling-e-visualizacao-para-dashboards/"
+    },
+    {
+      "title": "Fundamentos de Analítica de Datos para Profesionales",
+      "url": "https://www.udemy.com/course/fundamentos-analitica/"
+    },
+    {
+      "title": "Deep Learning de A a Z com PyTorch e Python",
+      "url": "https://www.udemy.com/course/formacao-deep-learning-pytorch-python/"
+    },
+    {
+      "title": "Praxisprojekt: A/B-Test mit PHP",
+      "url": "https://www.udemy.com/course/ab-tests-mit-php/"
+    },
+    {
+      "title": "Microsoft PowerBi A-Z™ : Maîtriser les bases (en 90min !)",
+      "url": "https://www.udemy.com/course/microsoft-powerbi-a-ztm-maitriser-power-bi-en-90-minutes/"
+    },
+    {
+      "title": "Business Intelligence y Análisis de Datos con QLIK SENSE",
+      "url": "https://www.udemy.com/course/business-intelligence-para-area-comercial-con-qlik-sense/"
+    },
+    {
+      "title": "Bootcamp Completo de MySQL: De Principiante a Experto en SQL",
+      "url": "https://www.udemy.com/course/introduccion-a-sql-para-inteligencia-y-analitica-de-negocios/"
+    },
+    {
+      "title": "Data Science aplicado a Negocios - 6 Casos Prácticos Reales",
+      "url": "https://www.udemy.com/course/data-science-para-negocios/"
+    },
+    {
+      "title": "İş Hayatı İçin EXCEL | Başlangıç - Orta Seviye | Sertifikalı",
+      "url": "https://www.udemy.com/course/is-hayat-icin-excel-baslangc-orta-seviye-sertifikal/"
+    },
+    {
+      "title": "Power BI: Gráficos y visualización de datos",
+      "url": "https://www.udemy.com/course/power-bi-graficos-y-visualizacion-de-datos/"
+    },
+    {
+      "title": "【R言語】Robyn マーケティング・ミックス・モデルで広告効果のシミュレーション",
+      "url": "https://www.udemy.com/course/r-marketing-mix-modeling/"
+    },
+    {
+      "title": "【演習形式で学ぶ】「データ分析実務スキル検定 PM級」合格への道（データ分析実務スキル証明資格で高得点を目指す講座）",
+      "url": "https://www.udemy.com/course/cbas-prep/"
+    },
+    {
+      "title": "Microsoft 365 Copilot (Excel) を活用したエクセル関数＆データ集計の「超」効率化",
+      "url": "https://www.udemy.com/course/microsoft-365-copilot-in-excel-functions-and-formulas/"
+    },
+    {
+      "title": "現役データアナリストがハンズオンで徹底解説「データ活用初学者のための Tableau講座〜入門編〜」",
+      "url": "https://www.udemy.com/course/tableau-r/"
+    },
+    {
+      "title": "(CDAP) أخصائي تحليل البيانات المعتمد",
+      "url": "https://www.udemy.com/course/cdap-kml-ar/"
+    },
+    {
+      "title": "【生成AIデータ分析講座】ビジネス活用できる分析手法と使うコツ・実践テクニックを網羅【初心者向け】【ChatGPT】",
+      "url": "https://www.udemy.com/course/chatgpt-code-interpreter/"
+    },
+    {
+      "title": "映画1本分の学習時間で分かる！書ける！ 分析担当者のための正規表現入門",
+      "url": "https://www.udemy.com/course/regexp_with_drill/"
+    },
+    {
+      "title": "Аналитика и Data Science для менеджеров и гуманитариев",
+      "url": "https://www.udemy.com/course/analytics-and-data-science/"
+    },
+    {
+      "title": "【続】Microsoft Power BI Desktop - 入門講座 ～DAX-CALCULATE特訓編～",
+      "url": "https://www.udemy.com/course/masukawa_019/"
+    },
+    {
+      "title": "【ビジネス統計】統計リテラシー超入門講座【数字で損しないために】",
+      "url": "https://www.udemy.com/course/business-statistical-literacy/"
+    },
+    {
+      "title": "Google NotebookLM AI: Yapay Zekâ ile Verilerinizi Özetleyin",
+      "url": "https://www.udemy.com/course/google-notebooklm-yapay-zeka-ile-ozetleme-rehberi/"
+    },
+    {
+      "title": "Curso Zoho CRM - Extraia o máximo de seu CRM",
+      "url": "https://www.udemy.com/course/curso-zoho-crm-extraia-o-maximo-de-seu-crm/"
+    },
+    {
+      "title": "Formación Avanzada en ChatGPT & LLM: Aplicandolos en empresa",
+      "url": "https://www.udemy.com/course/impulsa-tu-negocio-con-chatgpt-llevalo-al-siguiente-nivel/"
+    },
+    {
+      "title": "Power BI de cero a experto bien explicado y usando DAX 2025",
+      "url": "https://www.udemy.com/course/powerbi-de-cero-a-experto/"
+    },
+    {
+      "title": "Complete Microsoft Power BI course in Hindi",
+      "url": "https://www.udemy.com/course/complete-microsoft-power-bi-course-in-hindi/"
+    },
+    {
+      "title": "Curso Power BI: De Principiante a Avanzado",
+      "url": "https://www.udemy.com/course/power-bi-bootcamp-de-cero-a-avanzado-3-cursos-en-1/"
+    },
+    {
+      "title": "Domina los Procesos ETL con Pentaho en 3 Pasos [2025]",
+      "url": "https://www.udemy.com/course/domina-los-procesos-etl-con-pentaho-en-3-pasos/"
+    },
+    {
+      "title": "Curso Tableau - Desde cero para principiantes",
+      "url": "https://www.udemy.com/course/tableau-10-desde-cero/"
+    },
+    {
+      "title": "Power BI: Dashboards y análisis de proyectos reales",
+      "url": "https://www.udemy.com/course/power-bi-analisis-de-proyectos-reales/"
+    },
+    {
+      "title": "Power BI Grundlagen",
+      "url": "https://www.udemy.com/course/power-bi-grundlagen/"
+    },
+    {
+      "title": "Redes Neuronales Aplicadas a la Inteligencia de Negocios",
+      "url": "https://www.udemy.com/course/redes-neuronales-aplicadas-a-la-inteligencia-de-negocios/"
+    },
+    {
+      "title": "Das komplette Data Science Bootcamp in Python",
+      "url": "https://www.udemy.com/course/data-science-bootcamp-von-0-auf-100-zum-data-scientist/"
+    },
+    {
+      "title": "Pesquisa Operacional em Python",
+      "url": "https://www.udemy.com/course/pesquisa-operacional-em-python/"
+    },
+    {
+      "title": "Einstieg in Excel-Dashboards",
+      "url": "https://www.udemy.com/course/einstieg-in-excel-dashboards/"
+    },
+    {
+      "title": "Tableau: análisis de datos y visualizaciones",
+      "url": "https://www.udemy.com/course/curso-de-tableau-analisis-de-datos-y-visualizaciones/"
+    },
+    {
+      "title": "数据思维必备入门课：建立三种经典思维，善用数据写出高质量报告",
+      "url": "https://www.udemy.com/course/mgzmjeep/"
+    },
+    {
+      "title": "SQL e MySQL per Principianti",
+      "url": "https://www.udemy.com/course/sql-corso-online/"
+    },
+    {
+      "title": "Visualisiere Daten mit Python - auch für Anfänger!",
+      "url": "https://www.udemy.com/course/daten-visualisieren-mit-python/"
+    },
+    {
+      "title": "DASHBOARDS no METABASE: Do Zero Ao Avançado!",
+      "url": "https://www.udemy.com/course/dashboards-metabase/"
+    },
+    {
+      "title": "Ciencia de datos con MySQL, RStudio y Power BI: Casos Reales",
+      "url": "https://www.udemy.com/course/ciencia-de-datos-con-mysql-rstudio-y-power-bi-casos-reales/"
+    },
+    {
+      "title": "Excel : Utilisez le Business Intelligence comme un pro",
+      "url": "https://www.udemy.com/course/excel-utilisez-le-business-intelligence-comme-un-pro/"
+    },
+    {
+      "title": "PostgreSQL. Curso completo de PostgreSQL. Aprende desde cero",
+      "url": "https://www.udemy.com/course/curso-sql-postgresql/"
+    },
+    {
+      "title": "SQL para Profissionais Analíticos",
+      "url": "https://www.udemy.com/course/sql-para-profissionais-analiticos/"
+    },
+    {
+      "title": "مدخل إلى تحليل الأعمال الاحترافية",
+      "url": "https://www.udemy.com/course/business-analysis-overview/"
+    },
+    {
+      "title": "Deep Learning Prático com TensorFlow e Python",
+      "url": "https://www.udemy.com/course/formacao-deep-learning-tensorflow-python/"
+    },
+    {
+      "title": "人工智能（AI）前沿技术及行业创新应用",
+      "url": "https://www.udemy.com/course/ai-htand/"
+    },
+    {
+      "title": "Data Storage & Integration basado en DAMA",
+      "url": "https://www.udemy.com/course/data-storage-integration-basado-en-dama/"
+    },
+    {
+      "title": "Power BI 概览",
+      "url": "https://www.udemy.com/course/power-bi-n/"
+    },
+    {
+      "title": "Tableau for Data Visualization",
+      "url": "https://www.udemy.com/course/tableau-in-hindi/"
+    },
+    {
+      "title": "Data Analysis using Microsoft Excel",
+      "url": "https://www.udemy.com/course/excel-course-analysis-fundamentals/"
+    },
+    {
+      "title": "【数字を味方につける：中級編】ビジネスの現場で使えるデータ分析",
+      "url": "https://www.udemy.com/course/data_chukyu/"
+    },
+    {
+      "title": "Análisis y Visualización de Datos con Tableau",
+      "url": "https://www.udemy.com/course/visualizacion-de-datos-con-tableau/"
+    },
+    {
+      "title": "15 días de Power BI - El bootcamp completo de Power BI",
+      "url": "https://www.udemy.com/course/15-dias-de-power-bi/"
+    },
+    {
+      "title": "ABC-XYZ-Analyse - Artikelklassifizierung mit Microsoft Excel",
+      "url": "https://www.udemy.com/course/abc-xyz-analyse-artikelklassifizierung-mit-excel/"
+    },
+    {
+      "title": "Microsoft Power BI Desktop - Guida per Principianti",
+      "url": "https://www.udemy.com/course/microsoft-power-bi-guida-per-principianti/"
+    },
+    {
+      "title": "Digitaliza tu Negocio - Transformación Digital",
+      "url": "https://www.udemy.com/course/digitaliza-tu-negocio-transformacion-digital/"
+    },
+    {
+      "title": "Power BI: Dando Vida a tus Datos con Informes Empresariales",
+      "url": "https://www.udemy.com/course/ms-power-bi/"
+    },
+    {
+      "title": "Power BI Desktop für Einsteiger: Daten, DAX & Dashboards",
+      "url": "https://www.udemy.com/course/einfuhrung-in-microsoft-power-bi-desktop/"
+    },
+    {
+      "title": "Análisis de Datos para los Negocios usando Power BI (PL300A)",
+      "url": "https://www.udemy.com/course/analisis-de-datos-para-los-negocios-usando-power-bi-pl300a/"
+    },
+    {
+      "title": "Privacy e GDPR",
+      "url": "https://www.udemy.com/course/aksilia-privacy-e-gdpr/"
+    },
+    {
+      "title": "Tableau Desktop y Tableau Prep desde cero",
+      "url": "https://www.udemy.com/course/tableau-desktop-y-tableau-prep-desde-cero/"
+    },
+    {
+      "title": "Power BI Aplicado",
+      "url": "https://www.udemy.com/course/power-bi-aplicado-prof-arthur-feital/"
+    },
+    {
+      "title": "POWER BI NANO",
+      "url": "https://www.udemy.com/course/masukawa_052/"
+    },
+    {
+      "title": "Power BI & DAX Avançado - Guia Completo para Análises Reais",
+      "url": "https://www.udemy.com/course/dax-e-pbi/"
+    },
+    {
+      "title": "Optimiza con DAX Studio a Nivel Avanzado - Power BI",
+      "url": "https://www.udemy.com/course/dax-studio-profesional-power-bi/"
+    },
+    {
+      "title": "Microsoft Copilot を活用したエクセルの「超」効率化マスターコース",
+      "url": "https://www.udemy.com/course/microsoft-copilot-excel/"
+    },
+    {
+      "title": "Power BI in Arabic - Visualization & Data Transformation",
+      "url": "https://www.udemy.com/course/power-bi-in-arabic-level-1-visuals-data-transformation/"
+    },
+    {
+      "title": "Data analysis with pivot table & pivot charts [ Arabic]",
+      "url": "https://www.udemy.com/course/data-analysis-with-pivot-table-pivot-charts-arabic/"
+    },
+    {
+      "title": "Ferramentas da Qualidade 2.0 com Minitab e Excel",
+      "url": "https://www.udemy.com/course/ferramentas-da-qualidade-20-com-minitab-e-excel/"
+    },
+    {
+      "title": "Excel & PowerPoint for Business",
+      "url": "https://www.udemy.com/course/excel-powerpoint-for-business-for-medical-reps/"
+    },
+    {
+      "title": "【抜粋版】短時間でポイントを押さえる！データを問題解決につなげるビジネス基礎スキル速習講座",
+      "url": "https://www.udemy.com/course/databusiness-short/"
+    },
+    {
+      "title": "تعلم تطبيقات ذكاء الاعمال مع برنامج مايكروسوفت Power Bi",
+      "url": "https://www.udemy.com/course/learn-microsoft-power-bi-desktop-in-arabic-language/"
+    },
+    {
+      "title": "【流れを体験！】相関分析・回帰分析の超基本　～データ分析力のステップアップに、教養としてのデータリテラシー向上に",
+      "url": "https://www.udemy.com/course/basic-regressionanalysis/"
+    },
+    {
+      "title": "POWER BI E EXCEL - Saiba construir dashboards incríveis",
+      "url": "https://www.udemy.com/course/power-bi-e-excel-saiba-construir-dashboards-incriveis/"
+    },
+    {
+      "title": "Le Scritture di Assestamento. Un Approccio Semplice.",
+      "url": "https://www.udemy.com/course/scritture-di-assestamento-un-approccio-semplice/"
+    },
+    {
+      "title": "用图表直观呈现数据，提升数据可视化的专业能力",
+      "url": "https://www.udemy.com/course/kloajwdp/"
+    },
+    {
+      "title": "Tableau A-Z: Hands-On Tableau Training for Data Science",
+      "url": "https://www.udemy.com/course/tableau10/"
+    },
+    {
+      "title": "Analista de datos con Power BI Certificado por Microsoft",
+      "url": "https://www.udemy.com/course/analista-de-datos-con-power-bi-certificado-por-microsoft/"
+    },
+    {
+      "title": "Power BI Essencial: Construção de Dashboards e DAX",
+      "url": "https://www.udemy.com/course/minicurso-de-power-bi-construa-seu-dashboard/"
+    },
+    {
+      "title": "Data Analytics con SQL Server y Power BI: Proceso Completo",
+      "url": "https://www.udemy.com/course/data-analytics-con-sql-server-y-power-bi-proceso-completo/"
+    },
+    {
+      "title": "Data Analysis Nanodegree",
+      "url": "https://www.udemy.com/course/data-analysis-nanodegree/"
+    },
+    {
+      "title": "Análise de Dados e Negócios com Microsoft Excel",
+      "url": "https://www.udemy.com/course/analise-de-dados-microsoft-excel/"
+    },
+    {
+      "title": "Power BI Custo Logístico Analise Completa de Transporte",
+      "url": "https://www.udemy.com/course/painel-de-custo-logistico-com-power-bi/"
+    },
+    {
+      "title": "SQL：ゼロからはじめるデータ分析のための実践的SQL入門〜現場で使えるSQLを最短経路で習得〜",
+      "url": "https://www.udemy.com/course/sql_for_data_analytics/"
+    },
+    {
+      "title": "Data Governance: Los Fundamentos para el Gobierno del Dato",
+      "url": "https://www.udemy.com/course/data-governance-en-pildoras/"
+    },
+    {
+      "title": "Analiza Danych - Podstawy, Teoria i Praktyka",
+      "url": "https://www.udemy.com/course/analiza-danych/"
+    },
+    {
+      "title": "GERENCIAMENTO POR PROCESSOS DE NEGÓCIO (BPM) CONFORME O CBOK",
+      "url": "https://www.udemy.com/course/gerenciamento-de-processos-de-negocio-bpm-conforme-cbok/"
+    },
+    {
+      "title": "はじめてのAIエージェント「Devin」の教科書 ～面倒な作業はAIで自動化！5時間で学ぶ業務効率化DX推進の決定版",
+      "url": "https://www.udemy.com/course/devinaiagent/"
+    },
+    {
+      "title": "Microsoft Excel - Análisis de Datos con Tablas Dinámicas",
+      "url": "https://www.udemy.com/course/excel-tablas-dinamicas/"
+    },
+    {
+      "title": "Power BI サービスの全体像-主要な機能や管理の仕組みから最新の機能まで、利活用するためのポイントがわかる",
+      "url": "https://www.udemy.com/course/power-bi-ishi2/"
+    },
+    {
+      "title": "【한글자막】 태블로 Tableau 완벽 실전 교육! 커리어 업그레이드 하기",
+      "url": "https://www.udemy.com/course/best-tableau-2020/"
+    },
+    {
+      "title": "WhatsApp Analytica & Minería de Texto con R & Power BI",
+      "url": "https://www.udemy.com/course/whatsapp-analytica-mineria-de-texto-con-r-power-bi/"
+    },
+    {
+      "title": "メーカーの現役技術者による研究開発のための統計学",
+      "url": "https://www.udemy.com/course/lcqlkbch/"
+    },
+    {
+      "title": "【ビジネス統計】R/RStudioベーシック講座【データ処理・グラフ作成】",
+      "url": "https://www.udemy.com/course/r_rstudio_basic/"
+    },
+    {
+      "title": "Curso de Big Data con Hadoop y Spark desde cero",
+      "url": "https://www.udemy.com/course/curso-practico-de-big-data-con-hadoop-y-spark-desde-cero/"
+    },
+    {
+      "title": "全てのビジネスパーソンのためのデータ活用　ビジネスアナリティクス人材育成基礎",
+      "url": "https://www.udemy.com/course/dotdata-businessanalytics-basic/"
+    },
+    {
+      "title": "INDICADORES de Gestión - Diseño y Control",
+      "url": "https://www.udemy.com/course/indicadores-de-gestion-y-su-construccion/"
+    },
+    {
+      "title": "Análisis de Estados Financieros: Crucial Business Analytics",
+      "url": "https://www.udemy.com/course/analisis-de-estados-financieros-crucial-business-analytics/"
+    },
+    {
+      "title": "हिंदी में Become a Data Analyst: Excel, SQL & Tableau",
+      "url": "https://www.udemy.com/course/become-a-data-analyst-in-hindi/"
+    },
+    {
+      "title": "Power BI 综合案例：制作销售分析仪表板",
+      "url": "https://www.udemy.com/course/power-bi-x/"
+    },
+    {
+      "title": "Google Analytics para principiantes en español",
+      "url": "https://www.udemy.com/course/google-analytics-espanol/"
+    },
+    {
+      "title": "Power BI - Guía definitiva de DAX para análisis de datos",
+      "url": "https://www.udemy.com/course/guia-definitiva-de-dax/"
+    },
+    {
+      "title": "Einführung in Power Pivot",
+      "url": "https://www.udemy.com/course/einfuehrung-in-power-pivot/"
+    },
+    {
+      "title": "Big data для руководителей",
+      "url": "https://www.udemy.com/course/bigdata4managers/"
+    },
+    {
+      "title": "دليلك الكامل لتعلم تابلو باللغة العربية - Tableau",
+      "url": "https://www.udemy.com/course/tableau-desktop-full-track-arabic/"
+    }
+  ]
+}

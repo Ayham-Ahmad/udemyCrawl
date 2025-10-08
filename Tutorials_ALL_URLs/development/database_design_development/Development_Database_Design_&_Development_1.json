@@ -1,0 +1,582 @@
+{
+  "main_category": "development",
+  "sub_category": "Database Design & Development",
+  "courses": [
+    {
+      "title": "SQL Database Administration: Advanced MySQL Workbench",
+      "url": "https://www.udemy.com/course/advanced-mysql-database-administration-dba/"
+    },
+    {
+      "title": "Vector Databases Fundamentals [NEW]",
+      "url": "https://www.udemy.com/course/vector-databases-ai/"
+    },
+    {
+      "title": "Apache Kafka for Developers using Spring Boot[LatestEdition]",
+      "url": "https://www.udemy.com/course/apache-kafka-for-developers-using-springboot/"
+    },
+    {
+      "title": "Complete Microsoft SQL Server Database Design Masterclass",
+      "url": "https://www.udemy.com/course/microsoft-sql-server-2017-for-everyone/"
+    },
+    {
+      "title": "Microsoft SQL Server 2012 Certification Training Exam 70-461",
+      "url": "https://www.udemy.com/course/microsoft-sql-server-2012-certification-70-461/"
+    },
+    {
+      "title": "AWS Data Architect Bootcamp - 43 Services 500 FAQs 20+ Tools",
+      "url": "https://www.udemy.com/course/aws-data-architect-bootcamp-training/"
+    },
+    {
+      "title": "The Complete MySQL Bootcamp: Go from Beginner to Expert",
+      "url": "https://www.udemy.com/course/the-complete-mysql-bootcamp-go-from-beginner-to-expert/"
+    },
+    {
+      "title": "LEARNING PATH: Complete Roadway to Informatica Powercenter 9",
+      "url": "https://www.udemy.com/course/learning-path-complete-roadway-to-informatica-powercenter-9/"
+    },
+    {
+      "title": "Learn Advanced T-SQL For SQL Server Administrator",
+      "url": "https://www.udemy.com/course/learn-advanced-t-sql-for-sql-server-administrator/"
+    },
+    {
+      "title": "PostgreSQL Database Administration on Windows/Linux- Part 1",
+      "url": "https://www.udemy.com/course/postgresql-v12-database-administration-on-windows-and-linux/"
+    },
+    {
+      "title": "Database Design",
+      "url": "https://www.udemy.com/course/database-design/"
+    },
+    {
+      "title": "SQL Server Performance Tuning Part 2",
+      "url": "https://www.udemy.com/course/sql-server-performance-tuning-part-2/"
+    },
+    {
+      "title": "The SQL Programming Essentials Immersive Training",
+      "url": "https://www.udemy.com/course/the-sql-programming-essentials-immersive-training/"
+    },
+    {
+      "title": "Intro To SQLite Databases for Python Programming",
+      "url": "https://www.udemy.com/course/using-sqlite3-databases-with-python/"
+    },
+    {
+      "title": "ETL Testing: From Beginner to Expert",
+      "url": "https://www.udemy.com/course/the-complete-etl-testing-course/"
+    },
+    {
+      "title": "Complete Database Bootcamp for Beginners: 6 Courses in 1",
+      "url": "https://www.udemy.com/course/database-course/"
+    },
+    {
+      "title": "Redis: The Complete Developer's Guide",
+      "url": "https://www.udemy.com/course/redis-the-complete-developers-guide-p/"
+    },
+    {
+      "title": "Complete MySQL Database Administration Course",
+      "url": "https://www.udemy.com/course/complete-mysql-training-for-data-analysis-on-linux/"
+    },
+    {
+      "title": "AWS DynamoDB - The Complete Guide (Build 18+ Hands On Demos)",
+      "url": "https://www.udemy.com/course/dynamodb/"
+    },
+    {
+      "title": "PostgreSQL Bootcamp : Go From Beginner to Advanced, 60+hours",
+      "url": "https://www.udemy.com/course/postgresqlmasterclass/"
+    },
+    {
+      "title": "The Complete MySQL Developer Course",
+      "url": "https://www.udemy.com/course/the-complete-mysql-developer-course/"
+    },
+    {
+      "title": "Learning Apache Hadoop EcoSystem- Hive",
+      "url": "https://www.udemy.com/course/learning-apache-hive/"
+    },
+    {
+      "title": "Introduction to Azure SQL Database for Beginners",
+      "url": "https://www.udemy.com/course/introduction-to-azure-sql-database/"
+    },
+    {
+      "title": "Complete Microsoft SQL Server Masterclass:Beginner to Expert",
+      "url": "https://www.udemy.com/course/complete-microsoft-sql-masterclass-beginner-advanced/"
+    },
+    {
+      "title": "SQL Server Migration and Upgrade Process",
+      "url": "https://www.udemy.com/course/sql-server-migration-and-upgrade-process/"
+    },
+    {
+      "title": "Introduction to Apache NiFi | Cloudera DataFlow - HDF 2.0",
+      "url": "https://www.udemy.com/course/apache-nifi/"
+    },
+    {
+      "title": "SQL for Data Analysis: Beginner MySQL Business Intelligence",
+      "url": "https://www.udemy.com/course/mysql-for-data-analysis/"
+    },
+    {
+      "title": "SQL: From Zero to Hero - Unleash the Data Superpowers Within",
+      "url": "https://www.udemy.com/course/sql-mastery-learn-enough-sql-to-be-a-professional/"
+    },
+    {
+      "title": "SQL for Beginners: Learn SQL using MySQL and Database Design",
+      "url": "https://www.udemy.com/course/sql-for-beginners-course/"
+    },
+    {
+      "title": "SQL Server SSAS (Multidimensional MDX) - an Introduction",
+      "url": "https://www.udemy.com/course/sql-server-ssas-multidimensional-mdx-an-introduction/"
+    },
+    {
+      "title": "SQL Server High Availability and Disaster Recovery (HA/DR)",
+      "url": "https://www.udemy.com/course/sqlserverhadrdeepdive/"
+    },
+    {
+      "title": "Microsoft SQL Server Integration Services (SSIS) Training",
+      "url": "https://www.udemy.com/course/microsoft-ssis/"
+    },
+    {
+      "title": "SQL Server Reporting Services Part 2 (SSRS)",
+      "url": "https://www.udemy.com/course/sql-server-reporting-services-part-2-ssrs/"
+    },
+    {
+      "title": "Introduction to Database Management Systems",
+      "url": "https://www.udemy.com/course/data-base-management-system-class-10-it/"
+    },
+    {
+      "title": "SQL Server Administration Part 3",
+      "url": "https://www.udemy.com/course/sql-server-administration-part-3/"
+    },
+    {
+      "title": "DB2 For Beginners",
+      "url": "https://www.udemy.com/course/db2-for-beginners/"
+    },
+    {
+      "title": "SQL For Beginners 2025: Learn SQL Using MySQL Database",
+      "url": "https://www.udemy.com/course/sqlcourse/"
+    },
+    {
+      "title": "Fundamentals of Database Engineering",
+      "url": "https://www.udemy.com/course/database-engines-crash-course/"
+    },
+    {
+      "title": "Mainframe: Code DB2 on COBOL Programs for Absolute Beginners",
+      "url": "https://www.udemy.com/course/complete-db2-on-cobol-mainframe/"
+    },
+    {
+      "title": "Mastering AWS Glue, QuickSight, Athena & Redshift Spectrum",
+      "url": "https://www.udemy.com/course/aws-serverless-glue-redshift-spectrum-athena-quicksight-training/"
+    },
+    {
+      "title": "Complete SQL and Databases Bootcamp",
+      "url": "https://www.udemy.com/course/complete-sql-databases-bootcamp-zero-to-mastery/"
+    },
+    {
+      "title": "Learn SQL Using PostgreSQL: From Zero to Hero",
+      "url": "https://www.udemy.com/course/postgresql-from-zero-to-hero/"
+    },
+    {
+      "title": "Oracle SQL - The Ultimate Course: SQL Made Practical",
+      "url": "https://www.udemy.com/course/oracle-sql-from-scratch/"
+    },
+    {
+      "title": "Oracle Analytic Functions In-Depth & Advanced Oracle SQL",
+      "url": "https://www.udemy.com/course/oracle-analytic-functions-in-depth/"
+    },
+    {
+      "title": "SQL Server 2016 Administration",
+      "url": "https://www.udemy.com/course/sql-server-2016-administration-x/"
+    },
+    {
+      "title": "The Comprehensive MySQL Course",
+      "url": "https://www.udemy.com/course/the-comprehensive-sql-course/"
+    },
+    {
+      "title": "SQL Bootcamp with MySQL, PHP & Python : 5 Courses in 1",
+      "url": "https://www.udemy.com/course/complete-sql-bootcamp-with-mysql-php-python/"
+    },
+    {
+      "title": "Modern Redis Unleashed",
+      "url": "https://www.udemy.com/course/redis-cloud/"
+    },
+    {
+      "title": "Introduction to Apache Solr",
+      "url": "https://www.udemy.com/course/learn-apache-solr-8/"
+    },
+    {
+      "title": "Snowflake[A-Z] Zero to Hero Masterclass(Core+SQL+API+Visual)",
+      "url": "https://www.udemy.com/course/snowflake-zero-to-hero-masterclass/"
+    },
+    {
+      "title": "MySQL For Beginners: Real Database Experience Real Fast",
+      "url": "https://www.udemy.com/course/mysql-for-beginners-real-database-experience-real-fast/"
+    },
+    {
+      "title": "Learn SQL in 3 Hours : A tutorial for fast learners",
+      "url": "https://www.udemy.com/course/learn_sql/"
+    },
+    {
+      "title": "Learn Data Warehousing From Scratch- From Solution Architect",
+      "url": "https://www.udemy.com/course/learn-data-warehousing-from-solution-architect/"
+    },
+    {
+      "title": "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)",
+      "url": "https://www.udemy.com/course/sql-the-complete-developers-guide-mysql-postgresql/"
+    },
+    {
+      "title": "SQL Tutorial For Tester",
+      "url": "https://www.udemy.com/course/sql-tutorial-for-beginners/"
+    },
+    {
+      "title": "SQL Tutorial for Beginners - Learn SQL using 30 scenarios",
+      "url": "https://www.udemy.com/course/sql-tutorial-for-beginners-learn-sql-using-30-scenarios/"
+    },
+    {
+      "title": "Complete Filemaker Invoice database",
+      "url": "https://www.udemy.com/course/complete-filemaker-invoice-database/"
+    },
+    {
+      "title": "Oracle Database SQL Certified Associate 1Z0-071",
+      "url": "https://www.udemy.com/course/oracle-database-12c-sql-certified-associate-1z0-071/"
+    },
+    {
+      "title": "Mastering SQL Server 2016 Integration Services (SSIS)-Part 2",
+      "url": "https://www.udemy.com/course/masteringssis2016part2/"
+    },
+    {
+      "title": "Advanced SQL : The Ultimate Guide (2025)",
+      "url": "https://www.udemy.com/course/sql-advanced/"
+    },
+    {
+      "title": "SQL Server Administration Part 2",
+      "url": "https://www.udemy.com/course/sql-server-administration-part-2/"
+    },
+    {
+      "title": "Learn SSRS SQL Reporting & Business Intelligence Essentials",
+      "url": "https://www.udemy.com/course/exploring-ssrs-creating-great-reports/"
+    },
+    {
+      "title": "SQL Server Essentials in an hour: The SELECT statement",
+      "url": "https://www.udemy.com/course/sql-server-essentials-in-an-hour-the-select-statement/"
+    },
+    {
+      "title": "Data Warehouse Developer-SQL Server/ETL/SSIS/SSAS/SSRS/T-SQL",
+      "url": "https://www.udemy.com/course/data-warehouse-developer-sql-serveretlssisssasssrst-sql/"
+    },
+    {
+      "title": "Teradata Fundamentals - Comprehensive SQL course on Teradata",
+      "url": "https://www.udemy.com/course/teradata-sql-beginners-guide/"
+    },
+    {
+      "title": "Database Management System",
+      "url": "https://www.udemy.com/course/database-management-system/"
+    },
+    {
+      "title": "Oracle Database Administration Workshop ( 12c and Higher)",
+      "url": "https://www.udemy.com/course/oracle-database-administration-certified-associate-1z0-072/"
+    },
+    {
+      "title": "SQL Server Analysis Services - SSAS, Data Mining & Analytics",
+      "url": "https://www.udemy.com/course/ssas-sql-server-analysis-services-2016-mdx-training/"
+    },
+    {
+      "title": "Hibernate and Spring Data JPA: Beginner to Guru",
+      "url": "https://www.udemy.com/course/hibernate-and-spring-data-jpa-beginner-to-guru/"
+    },
+    {
+      "title": "Microsoft SQL Server for Beginners | Crash Course",
+      "url": "https://www.udemy.com/course/basic-concepts-of-databases-and-writing-query-in-sql-server/"
+    },
+    {
+      "title": "Learn Oracle 12c SQL : Kickstart kit for beginners",
+      "url": "https://www.udemy.com/course/learn-sql-from-scratch-x/"
+    },
+    {
+      "title": "Learn by Example : HBase - The Hadoop Database",
+      "url": "https://www.udemy.com/course/learn-by-example-hbase/"
+    },
+    {
+      "title": "Microsoft Fabric Overview: Understanding the potential",
+      "url": "https://www.udemy.com/course/understanding-the-potential-of-microsoft-fabric/"
+    },
+    {
+      "title": "From 0 to 1: The Cassandra Distributed Database",
+      "url": "https://www.udemy.com/course/from-0-to-1-the-cassandra-distributed-database/"
+    },
+    {
+      "title": "Database Design and MySQL",
+      "url": "https://www.udemy.com/course/calebthevideomaker2-database-and-mysql-classes/"
+    },
+    {
+      "title": "SQL and PostgreSQL: The Complete Developer's Guide",
+      "url": "https://www.udemy.com/course/sql-and-postgresql/"
+    },
+    {
+      "title": "Database Management Systems Part 3 : SQL Interview Course",
+      "url": "https://www.udemy.com/course/sql-interview-preparation-course/"
+    },
+    {
+      "title": "Oracle Database Administrator DBA",
+      "url": "https://www.udemy.com/course/become-oracle-dbalearn-database-administration-from-scratch/"
+    },
+    {
+      "title": "DP-900 Azure Data Fundamentals 100% Original Practice Exam",
+      "url": "https://www.udemy.com/course/dp900-azure-practice/"
+    },
+    {
+      "title": "The Agile Samurai Bootcamp",
+      "url": "https://www.udemy.com/course/the-agile-samurai-bootcamp/"
+    },
+    {
+      "title": "The SQL MicroDegree 2022: From SQL Basics To MySQL Mastery",
+      "url": "https://www.udemy.com/course/sqlmicrodegree/"
+    },
+    {
+      "title": "2025 Complete SQL Bootcamp from Zero to Hero in SQL",
+      "url": "https://www.udemy.com/course/2022-complete-sql-bootcamp-from-zero-to-hero-in-sql/"
+    },
+    {
+      "title": "AWS Lambda - A Practical Guide - Learn from an Expert",
+      "url": "https://www.udemy.com/course/aws-lambda-a-practical-guide/"
+    },
+    {
+      "title": "The Complete MongoDB Course",
+      "url": "https://www.udemy.com/course/the-complete-mongodb-course/"
+    },
+    {
+      "title": "The Complete Python/PostgreSQL Course 2.0",
+      "url": "https://www.udemy.com/course/complete-python-postgresql-database-course/"
+    },
+    {
+      "title": "Intro to Data Engineering",
+      "url": "https://www.udemy.com/course/intro-to-data-engineering/"
+    },
+    {
+      "title": "MySQL Database Administration: Beginner SQL Database Design",
+      "url": "https://www.udemy.com/course/mysql-dba-for-beginners/"
+    },
+    {
+      "title": "SQL Server Administration Part1",
+      "url": "https://www.udemy.com/course/sql-server-administration-part1/"
+    },
+    {
+      "title": "Learn MongoDB & Neo4j - Leading NoSQL Databases from scratch",
+      "url": "https://www.udemy.com/course/learn-mongodb-leading-nosql-database-from-scratch/"
+    },
+    {
+      "title": "MySQL for Beginners",
+      "url": "https://www.udemy.com/course/mysql-db-for-beginners/"
+    },
+    {
+      "title": "Learn Database Design with MySQL",
+      "url": "https://www.udemy.com/course/learn-database-design-with-mysql/"
+    },
+    {
+      "title": "Learn SQL with Microsoft SQL Server",
+      "url": "https://www.udemy.com/course/learn-sql-with-microsoft-sql-server/"
+    },
+    {
+      "title": "MySQL for Beginners: A Complete Training for beginnners",
+      "url": "https://www.udemy.com/course/mysql-for-beginners-a-complete-mysql-training-for-beginnners/"
+    },
+    {
+      "title": "SQL Server Performance Tuning Part 1",
+      "url": "https://www.udemy.com/course/sql-server-performance-tuning-part-1/"
+    },
+    {
+      "title": "The Complete Oracle SQL Bootcamp (2025)",
+      "url": "https://www.udemy.com/course/oracle-sql-12c-become-an-sql-developer-with-subtitle/"
+    },
+    {
+      "title": "PostgreSQL High Performance Tuning Guide",
+      "url": "https://www.udemy.com/course/postgresql-high-performance-tuning-guide/"
+    },
+    {
+      "title": "MySQL Database Development Mastery",
+      "url": "https://www.udemy.com/course/mysql-database-development-mastery/"
+    },
+    {
+      "title": "Learning Oracle Application Express ( Oracle Apex ) Training",
+      "url": "https://www.udemy.com/course/oracle-application-express-oracle-apex-training/"
+    },
+    {
+      "title": "Data Engineering for Beginners with Python and SQL",
+      "url": "https://www.udemy.com/course/data-engineering-for-beginners-with-python-and-sql/"
+    },
+    {
+      "title": "AWS Glue - The Complete Masterclass",
+      "url": "https://www.udemy.com/course/aws-glue-the-complete-masterclass/"
+    },
+    {
+      "title": "Apache Kafka Series - Learn Apache Kafka for Beginners v3",
+      "url": "https://www.udemy.com/course/apache-kafka/"
+    },
+    {
+      "title": "Complete Cognos Training Course for a Dream IT Job",
+      "url": "https://www.udemy.com/course/complete-cognos-training-course-for-a-dream-it-job/"
+    },
+    {
+      "title": "SQL Server Reporting Services Part 1 (SSRS)",
+      "url": "https://www.udemy.com/course/sql-server-reporting-services-part-1-ssrs/"
+    },
+    {
+      "title": "The Complete SQL Course 2025 - Learn by Doing - SQL Server",
+      "url": "https://www.udemy.com/course/the-complete-sql-course-2021-learn-by-doing/"
+    },
+    {
+      "title": "IBM Datastage For Administrators and Developers",
+      "url": "https://www.udemy.com/course/ibm-datastage-for-administrators-and-developers/"
+    },
+    {
+      "title": "Neo4j: GraphDB Foundations with Cypher",
+      "url": "https://www.udemy.com/course/neo4j-foundations/"
+    },
+    {
+      "title": "Introduction to Milvus (Vector Database) Using Python",
+      "url": "https://www.udemy.com/course/getting-started-with-milvus-vector-database/"
+    },
+    {
+      "title": "SQL Tutorial: Learn SQL with MySQL Database",
+      "url": "https://www.udemy.com/course/sql-tutorial-learn-sql-with-mysql-database-beginner2expert/"
+    },
+    {
+      "title": "SQL Beginner to Guru: MySQL Edition - Master SQL with MySQL",
+      "url": "https://www.udemy.com/course/sql-beginner-to-guru-mysql-edition/"
+    },
+    {
+      "title": "Learn T-SQL From Scratch For SQL Server Administrator",
+      "url": "https://www.udemy.com/course/become-a-production-sql-server-administrator/"
+    },
+    {
+      "title": "Become a Hadoop Developer |Training|Tutorial",
+      "url": "https://www.udemy.com/course/hadoop-tutorial/"
+    },
+    {
+      "title": "SQL Server Administration: (SQL Server Integration Services)",
+      "url": "https://www.udemy.com/course/sql-server-administration-sql-server-integration-services/"
+    },
+    {
+      "title": "Relational Database Design",
+      "url": "https://www.udemy.com/course/relational-database-design/"
+    },
+    {
+      "title": "Understanding CouchDB 3: Learn Basic & Advanced NoSQL Skills",
+      "url": "https://www.udemy.com/course/understanding-couchdb/"
+    },
+    {
+      "title": "SQL - The Query Writing Bootcamp [2019]",
+      "url": "https://www.udemy.com/course/sql-the-query-writing-bootcamp/"
+    },
+    {
+      "title": "SQL Server Essentials, from Scratch",
+      "url": "https://www.udemy.com/course/sql-server-essentials/"
+    },
+    {
+      "title": "SQL for Beginners: The Easiest Way to Learn SQL Step by Step",
+      "url": "https://www.udemy.com/course/learn-sql-from-scratch/"
+    },
+    {
+      "title": "Mastering Amazon Redshift Development & Administration",
+      "url": "https://www.udemy.com/course/redshift-aws-amazon-development-administration-analytics-datawarehouse/"
+    },
+    {
+      "title": "Complete MongoDB Administration Guide",
+      "url": "https://www.udemy.com/course/mongodb-essentials-m/"
+    },
+    {
+      "title": "Complete Elasticsearch Masterclass with Logstash and Kibana",
+      "url": "https://www.udemy.com/course/complete-elasticsearch-masterclass-with-kibana-and-logstash/"
+    },
+    {
+      "title": "Apache Cassandra : Everything You Need To Know",
+      "url": "https://www.udemy.com/course/everything-cassandra/"
+    },
+    {
+      "title": "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert",
+      "url": "https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/"
+    },
+    {
+      "title": "Microsoft Access SQL: SQL for Non-Programmers",
+      "url": "https://www.udemy.com/course/learn-access-sql-from-scratch/"
+    },
+    {
+      "title": "SQL - Introduction to SQL with MySQL",
+      "url": "https://www.udemy.com/course/sql-introduction-to-mysql/"
+    },
+    {
+      "title": "Mastering SQL Server Reporting Services (SSRS) From Scratch",
+      "url": "https://www.udemy.com/course/ssrs2017/"
+    },
+    {
+      "title": "Introduction to the MongoDB",
+      "url": "https://www.udemy.com/course/introduction-to-the-mongodb/"
+    },
+    {
+      "title": "Connecting and working with Oracle Cloud DBaaS",
+      "url": "https://www.udemy.com/course/connecting-and-working-with-oracle-cloud-dbaas-using-toad-sqldeveloper/"
+    },
+    {
+      "title": "Data Integration Fundamentals",
+      "url": "https://www.udemy.com/course/data-integration-fundamentals/"
+    },
+    {
+      "title": "NoSQL: Neo4j and Cypher (Part: 2-Intermediate)",
+      "url": "https://www.udemy.com/course/neo4j_intermediate/"
+    },
+    {
+      "title": "Mastering SQL Server 2016 Integration Services (SSIS)-Part 1",
+      "url": "https://www.udemy.com/course/masteringssis2016/"
+    },
+    {
+      "title": "Data Management Masterclass - The Complete Course",
+      "url": "https://www.udemy.com/course/data-management-masterclass-the-complete-course/"
+    },
+    {
+      "title": "The Advanced SQL Course",
+      "url": "https://www.udemy.com/course/the-advanced-sql-course-2021/"
+    },
+    {
+      "title": "EssentialSQL: Stored Procedures Unpacked - Code in TSQL",
+      "url": "https://www.udemy.com/course/stored-procedures-unpacked-learn-to-code-t-sql-stored-procs/"
+    },
+    {
+      "title": "Database Design Introduction",
+      "url": "https://www.udemy.com/course/cwdatabase-design-introduction/"
+    },
+    {
+      "title": "NoSQL: Neo4j and Cypher (Part: 1-Beginners)",
+      "url": "https://www.udemy.com/course/neo4j_beginners1/"
+    },
+    {
+      "title": "Talend Data Integration Course : Beginner to Expert",
+      "url": "https://www.udemy.com/course/talend-data-integration-course-beginner-to-expert/"
+    },
+    {
+      "title": "The Complete PL/SQL Bootcamp : \"Beginner to Advanced PL/SQL\"",
+      "url": "https://www.udemy.com/course/plsql-beginner-to-advanced-become-a-perfect-plsql-developer/"
+    },
+    {
+      "title": "MongoDB - The Complete Developer's Guide 2025",
+      "url": "https://www.udemy.com/course/mongodb-the-complete-developers-guide/"
+    },
+    {
+      "title": "Become an SQL Developer: Learn (SSRS, SSIS, SSAS,T-SQL,DW)",
+      "url": "https://www.udemy.com/course/become-an-sql-developer-learn-ssrs-ssis-ssast-sqldw/"
+    },
+    {
+      "title": "Using MySQL Databases With Python",
+      "url": "https://www.udemy.com/course/using-mysql-databases-with-python/"
+    },
+    {
+      "title": "PostgreSQL Database Administration on Windows/Linux- Part 2",
+      "url": "https://www.udemy.com/course/postgresql-v12-database-administration-on-winlinux-part-2/"
+    },
+    {
+      "title": "Basics of Database Design & Development",
+      "url": "https://www.udemy.com/course/database-design-development/"
+    },
+    {
+      "title": "Getting Started With Apache Cassandra",
+      "url": "https://www.udemy.com/course/apache-cassandra/"
+    },
+    {
+      "title": "Azure LOG ANALYTICS Inside-Out",
+      "url": "https://www.udemy.com/course/azure-log-analytics/"
+    }
+  ]
+}

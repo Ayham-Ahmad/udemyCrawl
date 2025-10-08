@@ -1,0 +1,2054 @@
+{
+  "main_category": "it-and-software",
+  "sub_category": "Network & Security",
+  "courses": [
+    {
+      "title": "Web and servers penetration testing",
+      "url": "https://www.udemy.com/course/web-and-servers-penetration-testing-arabic/"
+    },
+    {
+      "title": "初心者からの通信ネットワーク/ITパスポート/情報技術者試験まで",
+      "url": "https://www.udemy.com/course/it-network/"
+    },
+    {
+      "title": "Guia do Firewall OPNSense [v2025]",
+      "url": "https://www.udemy.com/course/guia-opnsense/"
+    },
+    {
+      "title": "Ciberseguridad - Seguridad informática para redes, iníciate",
+      "url": "https://www.udemy.com/course/soluciones-de-seguridad-para-redes/"
+    },
+    {
+      "title": "Wireshark ve Network Forensic",
+      "url": "https://www.udemy.com/course/network-forensic/"
+    },
+    {
+      "title": "pfsense - Évitez les Failles de Sécurité",
+      "url": "https://www.udemy.com/course/pfsense-evitez-les-failles-de-securite-2023/"
+    },
+    {
+      "title": "Cyberbezpieczeństwo: Podstawy Firewall UFW w pigułce HACKING",
+      "url": "https://www.udemy.com/course/cyberbezpieczenstwo-podstawy-firewall-ufw-w-piguce-hacking/"
+    },
+    {
+      "title": "Hacking Ético: Como Hackean Tu WhatsApp, Prevención",
+      "url": "https://www.udemy.com/course/hacking-etico-como-hackean-tu-whatsapp-prevencion/"
+    },
+    {
+      "title": "Firewall Senza Segreti! 100% Pratico!",
+      "url": "https://www.udemy.com/course/firewall-senza-segreti/"
+    },
+    {
+      "title": "Curso de Fortinet FortiGate Firewall (Português)",
+      "url": "https://www.udemy.com/course/curso-fortigate-firewall-portuguese/"
+    },
+    {
+      "title": "Dasar Jaringan Komputer untuk Pemula (from Zero to Hero)",
+      "url": "https://www.udemy.com/course/dasar-jaringan-komputer-from-zero-to-hero/"
+    },
+    {
+      "title": "Curso de ciberseguridad personal y corporativo",
+      "url": "https://www.udemy.com/course/curso-de-ciberseguridad-personal-y-corporativa-profesional/"
+    },
+    {
+      "title": "Mikrotik: Do básico ao funcional!",
+      "url": "https://www.udemy.com/course/mikrotik-do-basico-ao-funcional/"
+    },
+    {
+      "title": "Informática forense básica",
+      "url": "https://www.udemy.com/course/informatica-forense-basica-e/"
+    },
+    {
+      "title": "Ethical Hacking / Web Application Security in HINDI",
+      "url": "https://www.udemy.com/course/ethical-hacking-web-application-security-in-hindi/"
+    },
+    {
+      "title": "Huawei - HCIA-HNTD (HCNA-HNTD) Entry - Lab Çalışmaları",
+      "url": "https://www.udemy.com/course/huawei-hcia-hcna-hntd-entry-lab/"
+    },
+    {
+      "title": "Microsoft Intune (MDM/MAM) : De Débutant à Expert",
+      "url": "https://www.udemy.com/course/microsoft-intune-mdmmam-de-debutant-a-expert/"
+    },
+    {
+      "title": "4º Zabbix 5.0 Construindo templates personalizados com WMI.",
+      "url": "https://www.udemy.com/course/4o-zabbix-construindo-templates-personalizados-wmi/"
+    },
+    {
+      "title": "Ciberseguridad: Respuesta a Incidentes",
+      "url": "https://www.udemy.com/course/ciberseguridad-respuesta-a-incidentes/"
+    },
+    {
+      "title": "IPv6 in 2 Stunden: Einsteigerworkshop",
+      "url": "https://www.udemy.com/course/ipv6-in-2-stunden-einsteigerworkshop/"
+    },
+    {
+      "title": "OPNsense 19.1: Firewall, Proxy e VPN Integrados",
+      "url": "https://www.udemy.com/course/cursoopnsense/"
+    },
+    {
+      "title": "【AI 자막】 비기술자를 위한 정보 보안 관리 기초",
+      "url": "https://www.udemy.com/course/information-security-fundamentals-nontechies-korean/"
+    },
+    {
+      "title": "Oracle Communications Session Border Controller (SBC)",
+      "url": "https://www.udemy.com/course/oracle-communications-session-border-controller-sbc/"
+    },
+    {
+      "title": "An toàn bảo mật thông tin cho nhân viên văn phòng",
+      "url": "https://www.udemy.com/course/an-toan-bao-mat-thong-tin-cho-nhan-vien-van-phong/"
+    },
+    {
+      "title": "Cisco Switch Security- 2.Katman Ağ Güvenliği",
+      "url": "https://www.udemy.com/course/cisco-switch-security-2katman-ag-guvenligi/"
+    },
+    {
+      "title": "Cisco Identity Services Engine",
+      "url": "https://www.udemy.com/course/cisco-identity-services-engine-ise-seclabs/"
+    },
+    {
+      "title": "Cisco Packet Tracer 8.X 網路實作（CCNA先備技能）",
+      "url": "https://www.udemy.com/course/packet-tracer/"
+    },
+    {
+      "title": "Анализ вирусных файлов - Malware analysis",
+      "url": "https://www.udemy.com/course/malware-analysis-d/"
+    },
+    {
+      "title": "MikroTik od podstaw dla każdego",
+      "url": "https://www.udemy.com/course/mikrotik-od-podstaw-dla-kazdego/"
+    },
+    {
+      "title": "Sonicwall Firewall Eğitimi",
+      "url": "https://www.udemy.com/course/sonicwall-firewall-egitimi/"
+    },
+    {
+      "title": "Eine Einführung in MongoDB mit Robo 3T | 2020",
+      "url": "https://www.udemy.com/course/eine-einfuhrung-in-mongodb-mit-robo-3t/"
+    },
+    {
+      "title": "Rede Industrial DeviceNet",
+      "url": "https://www.udemy.com/course/rede-industrial-devicenet/"
+    },
+    {
+      "title": "2G Radio Optimization",
+      "url": "https://www.udemy.com/course/2g-rf-optimization/"
+    },
+    {
+      "title": "MikroTik Routing OSPF",
+      "url": "https://www.udemy.com/course/mikrotik-mtcre-routing-engineer-ospf/"
+    },
+    {
+      "title": "Pentesting con SQLMAP - Master en SQL Injection",
+      "url": "https://www.udemy.com/course/pentesting-con-sqlmap/"
+    },
+    {
+      "title": "Criptografía con Python",
+      "url": "https://www.udemy.com/course/criptografia-con-python/"
+    },
+    {
+      "title": "Mikrotik IPv6 - Guia prático de implantação para ISP",
+      "url": "https://www.udemy.com/course/mikrotik-ipv6-guia-pratico-isp/"
+    },
+    {
+      "title": "Application Security Fundamentals",
+      "url": "https://www.udemy.com/course/application-security-fundamentals/"
+    },
+    {
+      "title": "Hacking ético: Digitalização de rede por Nmap and Nessus",
+      "url": "https://www.udemy.com/course/hacking-etico-digitalizacao-de-rede-por-nmap-nessus/"
+    },
+    {
+      "title": "Kali Linux: Pon a prueba tus técnicas de hackeo en retos CTF",
+      "url": "https://www.udemy.com/course/kali-linux-pon-a-prueba-tus-tecnicas-de-hackeo-en-retos-ctf/"
+    },
+    {
+      "title": "Da 0 a Sistemista! 100% Pratico!",
+      "url": "https://www.udemy.com/course/da-0-a-sistemista/"
+    },
+    {
+      "title": "零基础学习网络黑客(WiFi & 有线)",
+      "url": "https://www.udemy.com/course/network-hacking-from-scratch/"
+    },
+    {
+      "title": "PROFIdrive Tecnologia e Aplicações",
+      "url": "https://www.udemy.com/course/profidrive-tecnologia-e-aplicacoes/"
+    },
+    {
+      "title": "Penetration Testing Basics for Beginners (PTBB) [Arabic]",
+      "url": "https://www.udemy.com/course/full-offensive-penetration-testing-course-in-arabic/"
+    },
+    {
+      "title": "Programabilidad de Redes con SecureCRT + Python (Español)",
+      "url": "https://www.udemy.com/course/programabilidad-de-redes-con-securecrt-python-espanol/"
+    },
+    {
+      "title": "FortiGate Crash Course: From Zero to Hero - شرح بالعربي",
+      "url": "https://www.udemy.com/course/fortigate-crash-course-from-zero-to-hero-in-arabic/"
+    },
+    {
+      "title": "Embarcadero Delphi für Anfänger und Fortgeschrittene",
+      "url": "https://www.udemy.com/course/embarcadero-delphi-fuer-anfaenger/"
+    },
+    {
+      "title": "Aruba Central - Post venta",
+      "url": "https://www.udemy.com/course/aruba-central-post/"
+    },
+    {
+      "title": "Cisco CCNA : Certification Complète et Pratique",
+      "url": "https://www.udemy.com/course/maitrisez-cisco-ccna-certification-complete-et-pratique/"
+    },
+    {
+      "title": "Abaqus دورة برنامج الابكوس (Part-1)",
+      "url": "https://www.udemy.com/course/abaqus-basics_to_advanced/"
+    },
+    {
+      "title": "THM:Bug Bounty(Arabic)",
+      "url": "https://www.udemy.com/course/tryhackmeweb-fundamentalshacking-web-applicationsarabic/"
+    },
+    {
+      "title": "Curso de Firewall Cisco FirePower | Parte-1 FDM (Português)",
+      "url": "https://www.udemy.com/course/curso-firewall-cisco-firepower-part-1-fdm/"
+    },
+    {
+      "title": "أقوي وأسرع مرجع لتحسين الكالي لينكس (Kali Linux) 2020.4",
+      "url": "https://www.udemy.com/course/optimizing-kali-linux-in-arabic/"
+    },
+    {
+      "title": "Microsoft Teams Direct Routing",
+      "url": "https://www.udemy.com/course/microsoft-teams-and-freeswitch-direct-routing/"
+    },
+    {
+      "title": "Le cours complet sur le dark web",
+      "url": "https://www.udemy.com/course/le-cours-complet-sur-le-dark-web/"
+    },
+    {
+      "title": "L'essentiel du hacking éthique par la Pentest School",
+      "url": "https://www.udemy.com/course/essentiel-du-hacking-ethique-pentest-school/"
+    },
+    {
+      "title": "Fundamenos de SDWAN Viptela (Español)",
+      "url": "https://www.udemy.com/course/fundamenos-de-sdwan-viptela-espanol/"
+    },
+    {
+      "title": "MikroTik Para SysAdmins",
+      "url": "https://www.udemy.com/course/mikrotik-para-sysadmins/"
+    },
+    {
+      "title": "Netzwerktechnik Grundlagen - Netzwerk Design",
+      "url": "https://www.udemy.com/course/netzwerktechnik-grundlagen_netzwerk-design/"
+    },
+    {
+      "title": "Curso de iniciación a la ciberseguridad industrial",
+      "url": "https://www.udemy.com/course/aprende-ciberseguridad-industrial-desde-cero/"
+    },
+    {
+      "title": "اختبار اختراق واكتشاف ثغرات الويب والحصول على مكافآت مالية",
+      "url": "https://www.udemy.com/course/bug-bounty-hunting-arabic/"
+    },
+    {
+      "title": "Cisco CCNA 200-301 video kursu (1ci hissə)",
+      "url": "https://www.udemy.com/course/cisco-ccent-icnd-1-100-105-video-kursu/"
+    },
+    {
+      "title": "Administração avançada do Microsoft Azure (AZ-104)",
+      "url": "https://www.udemy.com/course/adminazure/"
+    },
+    {
+      "title": "PEH (Practical Ethical Hacking )",
+      "url": "https://www.udemy.com/course/ethical-hacking-in-cyber-security/"
+    },
+    {
+      "title": "Google Hacking: Dorks, OSINT y Scripts para Hacking Real.",
+      "url": "https://www.udemy.com/course/domina-google-hacking-dorks-osint-y-python/"
+    },
+    {
+      "title": "Domina la Seguridad Firewall Desbloquea el Poder de IPTABLES",
+      "url": "https://www.udemy.com/course/domina-la-seguridad-firewall-desbloquea-el-poder-de-iptables/"
+    },
+    {
+      "title": "Surveiller votre réseau efficacement avec CACTI [2025]",
+      "url": "https://www.udemy.com/course/supervision-dun-systeme-dinformation-avec-cacti/"
+    },
+    {
+      "title": "Seguridad informática: Uso de email cifrado y seguro",
+      "url": "https://www.udemy.com/course/seguridad-informatica-email-cifrado-seguro/"
+    },
+    {
+      "title": "Ethical Hacking: Metasploit, NMAP, Kali, Python 3 y más",
+      "url": "https://www.udemy.com/course/ethical-hacking-full-red-team-el-lado-oscuro-de-la-fuerza/"
+    },
+    {
+      "title": "创建自己的VPN",
+      "url": "https://www.udemy.com/course/vpn-security-connection/"
+    },
+    {
+      "title": "LES BASES D'UN PARE-FEU FORTIGATE",
+      "url": "https://www.udemy.com/course/configuration-de-base-dun-fortigate/"
+    },
+    {
+      "title": "Python ile Şeytan Örnekler",
+      "url": "https://www.udemy.com/course/python-ile-seytan-ornekler/"
+    },
+    {
+      "title": "Campanha de phishing com Gophish (AWS + Email + Gophish)",
+      "url": "https://www.udemy.com/course/campanha-de-phishing-com-gophish-aws-email-gophish/"
+    },
+    {
+      "title": "Rede AS-interface",
+      "url": "https://www.udemy.com/course/rede-as-interface/"
+    },
+    {
+      "title": "Redes de Computadores - Protocolo TCP/IP +2 CURSOS extras",
+      "url": "https://www.udemy.com/course/protocolos-de-redes/"
+    },
+    {
+      "title": "كورس الهكر الاخلاقي",
+      "url": "https://www.udemy.com/course/ehacker1/"
+    },
+    {
+      "title": "Buman 2.0 - Implementación de Facturación electrónica en C#",
+      "url": "https://www.udemy.com/course/implementacion-de-facturacion-electronica-a-bumam-20/"
+    },
+    {
+      "title": "Maîtrisez le Cracking de Mots de Passe avec Hashcat",
+      "url": "https://www.udemy.com/course/hashcat-course/"
+    },
+    {
+      "title": "Learn IP CCTV and analog CCTV System - Basic to advance",
+      "url": "https://www.udemy.com/course/learn-ip-cctv-and-analog-cctv-system-basic-to-advance/"
+    },
+    {
+      "title": "Domina Asterisk Básico desde Cero",
+      "url": "https://www.udemy.com/course/domina-asterisk-desde-cero/"
+    },
+    {
+      "title": "Huawei HCIA R&S Labs ENTRY ---ESPAÑOL---",
+      "url": "https://www.udemy.com/course/huawei-hcia-labs-entry-espanol/"
+    },
+    {
+      "title": "Curso de Introducción al Hacking con Hack the Box",
+      "url": "https://www.udemy.com/course/curso-de-introduccion-al-hacking-con-hack-the-box/"
+    },
+    {
+      "title": "Curso de FortiGate Firewall (Español)",
+      "url": "https://www.udemy.com/course/curso-fortigate-firewall/"
+    },
+    {
+      "title": "Computação Forense em Mídias (não voláteis)",
+      "url": "https://www.udemy.com/course/computacao-forense-em-midias/"
+    },
+    {
+      "title": "Cyber Security & IT Forensik: Vom Anfänger zum Profi",
+      "url": "https://www.udemy.com/course/cybersecurityunditforensik/"
+    },
+    {
+      "title": "【AI 자막】 네트워크 엔지니어링 (Network Engineering) 마스터하기!",
+      "url": "https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design-korean/"
+    },
+    {
+      "title": "Metasploit Framework - Ethical Hacking dla każdego",
+      "url": "https://www.udemy.com/course/metasploit-framework-ethical-hacking-dla-kazdego/"
+    },
+    {
+      "title": "Treinamento de redes MikroTik do básico ao avançado",
+      "url": "https://www.udemy.com/course/mikrotik-do-basico-ao-avancado/"
+    },
+    {
+      "title": "Administrador Hosting en Debian GNU/Linux",
+      "url": "https://www.udemy.com/course/administrador-hosting-debian-gnu-linux/"
+    },
+    {
+      "title": "Metasploit Framework Basics (Ethical Hacking)",
+      "url": "https://www.udemy.com/course/metasploit-framework-basics-ethical-hacking/"
+    },
+    {
+      "title": "الدورة الشاملة لتعلم القرصنة الأخلاقية من الصفر حتي الاحتراف",
+      "url": "https://www.udemy.com/course/hacking-how-to/"
+    },
+    {
+      "title": "GOOGLE HACKING modulo 1",
+      "url": "https://www.udemy.com/course/googlemod1/"
+    },
+    {
+      "title": "Ethical Hacking & Cyber security – Learn in Arabic| بالعربي",
+      "url": "https://www.udemy.com/course/ethical-hacking-g/"
+    },
+    {
+      "title": "Segurança Digital para Redes Sociais ( 2025 )",
+      "url": "https://www.udemy.com/course/curso-de-protecao-digital-para-redes-sociais/"
+    },
+    {
+      "title": "Fortinet FortiGate - Firewall Meisterkurs 2025",
+      "url": "https://www.udemy.com/course/fortinet-fortigate-firewall-praxiskurs/"
+    },
+    {
+      "title": "Etik Hacker Olma: Web Uygulamaları ve Uygulamalı Sızma Testi",
+      "url": "https://www.udemy.com/course/etik-hacker-web-uygulamalar-ve-uygulamal-szma-testi/"
+    },
+    {
+      "title": "Dominando MPLS em Huawei Basico ao Avançado",
+      "url": "https://www.udemy.com/course/dominando-mpls-em-huawei-basico-ao-avancado/"
+    },
+    {
+      "title": "Zero-Day - Wireless Pentesting (Wi-Fi)",
+      "url": "https://www.udemy.com/course/zdwp-wifi/"
+    },
+    {
+      "title": "Cisco Wireless Network Eğitimi",
+      "url": "https://www.udemy.com/course/cisco-wireless-lan-egitimi/"
+    },
+    {
+      "title": "Sécuriser une application web | Guide pratique",
+      "url": "https://www.udemy.com/course/securiser-une-application-web-guide-pratique/"
+    },
+    {
+      "title": "Hacking Ético y Pentesting Avanzado",
+      "url": "https://www.udemy.com/course/tecnicas-avanzadas-de-pruebas-de-penetracion-by-ergohackers/"
+    },
+    {
+      "title": "Huawei - HCIA-HNTD (HCNA-HNTD)Intermediate - Lab Çalışmaları",
+      "url": "https://www.udemy.com/course/huawei-hcia-intermediate-lab-calismalar/"
+    },
+    {
+      "title": "Rede Cisco em 9 passos - O básico do CCNA",
+      "url": "https://www.udemy.com/course/rede-cisco-em-9-passos-o-basico-do-ccna/"
+    },
+    {
+      "title": "Nmap Pour Les Hackers",
+      "url": "https://www.udemy.com/course/nmap-enum/"
+    },
+    {
+      "title": "Integração OCS Inventory com GLPI",
+      "url": "https://www.udemy.com/course/integracao-ocs-inventory-com-glpi/"
+    },
+    {
+      "title": "Curso CCTV video vigilancia",
+      "url": "https://www.udemy.com/course/curso-cctv-video-vigilancia/"
+    },
+    {
+      "title": "25 Ferramentas para PenTest",
+      "url": "https://www.udemy.com/course/25-ferramentas-para-pentest/"
+    },
+    {
+      "title": "اختراق أجهزة الأندرويد- وتعلم الهكر الاخلاقي للمبتدئين (RAT)",
+      "url": "https://www.udemy.com/course/hacking-android-devices-and-learning-ethical-hacking-rat/"
+    },
+    {
+      "title": "برمجة فيروس الفدية بأستخدام لغة البرمجة بايثون",
+      "url": "https://www.udemy.com/course/write-ransomware-with-python-arabic/"
+    },
+    {
+      "title": "Docker para programadores",
+      "url": "https://www.udemy.com/course/docker-para-programadores/"
+    },
+    {
+      "title": "Microsoft Windows Defender Firewall einrichten und betreiben",
+      "url": "https://www.udemy.com/course/microsoft-windows-defender-firewall-einrichten-und-betrieben/"
+    },
+    {
+      "title": "MikroTik RouterOS - Routing",
+      "url": "https://www.udemy.com/course/mikrotik-mtcna-oficial-modulo-4-routing/"
+    },
+    {
+      "title": "Consumindo a API do Zabbix [NÃO OFICIAL]",
+      "url": "https://www.udemy.com/course/zabbix-api/"
+    },
+    {
+      "title": "社会工程理论与实战",
+      "url": "https://www.udemy.com/course/study-social-engineering-from-scratch/"
+    },
+    {
+      "title": "Protege y acelera tu web de forma gratuita con Cloudflare",
+      "url": "https://www.udemy.com/course/protege-y-acelera-tu-web-de-forma-gratuita-con-cloudflare/"
+    },
+    {
+      "title": "Analyse Et Détection d'Attaques pour Les Analysts SOC",
+      "url": "https://www.udemy.com/course/traffic-analysis-2/"
+    },
+    {
+      "title": "Ethical Hacking e Pentest Profissional - Curso Prático v2020",
+      "url": "https://www.udemy.com/course/ethical-hacking-pentest-profissional-curso-pratico-v2020/"
+    },
+    {
+      "title": "Etik Hacker Eğitimi (Beyaz Şapkalı Hacker)",
+      "url": "https://www.udemy.com/course/etik-hacker-egitimi-beyaz-sapkal-hacker/"
+    },
+    {
+      "title": "Siber Güvenlik Eğitimi 101 | AV, EDR, NDR, XDR, SANDBOX",
+      "url": "https://www.udemy.com/course/siber-guvenlik-egitimi-101-av-edr-ndr-xdr-sandbox/"
+    },
+    {
+      "title": "Temel Network Eğitimi - Ağ Temelleri",
+      "url": "https://www.udemy.com/course/network-temelleri/"
+    },
+    {
+      "title": "Les Proxies Web Pour Les Hackers",
+      "url": "https://www.udemy.com/course/web-proxies/"
+    },
+    {
+      "title": "Cisco ASA Firewall Basico",
+      "url": "https://www.udemy.com/course/cisco-asa-firewall-basico/"
+    },
+    {
+      "title": "Analisis de malware",
+      "url": "https://www.udemy.com/course/analisis-de-malware/"
+    },
+    {
+      "title": "Solidworks Simulation Linear & Non-linear (Part-1)",
+      "url": "https://www.udemy.com/course/solidworks-simulation-linear-non-linear-part-1/"
+    },
+    {
+      "title": "Mikrotik",
+      "url": "https://www.udemy.com/course/mikrotik/"
+    },
+    {
+      "title": "Hacking y Exploiting Buffer Overflow en Windows y Linux",
+      "url": "https://www.udemy.com/course/tecnicas-de-buffer-overflow-en-windows-y-linux/"
+    },
+    {
+      "title": "دورة عملية في الشبكات ونظم وامن تقنية المعلومات",
+      "url": "https://www.udemy.com/course/cotslqhq/"
+    },
+    {
+      "title": "Start In Software Defined Networking and Open Flow بالعربي",
+      "url": "https://www.udemy.com/course/start-in-software-defined-networking-and-open-flow/"
+    },
+    {
+      "title": "IT-Security Basics - ABC",
+      "url": "https://www.udemy.com/course/it-security-basics-abc/"
+    },
+    {
+      "title": "مقدمة الي الCloud Computing و Amazon Web Services",
+      "url": "https://www.udemy.com/course/cloud-computing-amazon-web-services/"
+    },
+    {
+      "title": "IT / BT Risk Yönetimi, Tehdit Modelleme ve Shadow IT",
+      "url": "https://www.udemy.com/course/it-bt-risk-yonetimi-tehdit-modelleme-ve-shadow-it/"
+    },
+    {
+      "title": "TryHackMe:Introduction To Cyber Security (Arabic)",
+      "url": "https://www.udemy.com/course/introduction-to-cyber-security-in-arabic/"
+    },
+    {
+      "title": "Meshcentral: Una Alternativa de Gestion Remota",
+      "url": "https://www.udemy.com/course/meshcentral-una-alternativa-de-gestion-remota/"
+    },
+    {
+      "title": "Redes de Computadores Descomplicada - Iniciante/Avançado",
+      "url": "https://www.udemy.com/course/redes-de-computadores/"
+    },
+    {
+      "title": "Curso Análisis de Desarrollo de Virus Informático",
+      "url": "https://www.udemy.com/course/curso-de-desarrollo-de-virus-en-diferentes-lenguajes-de-prog/"
+    },
+    {
+      "title": "Bulut Bilişim Güvenliği ve Kriptografik Uygulamalar Eğitimi",
+      "url": "https://www.udemy.com/course/bulut-bilisim-guvenligi-ve-kriptografik-uygulamalar/"
+    },
+    {
+      "title": "Dominando o Linux do Zero NA PRÁTICA para Iniciantes",
+      "url": "https://www.udemy.com/course/bootcamp-linux-do-zero-iniciantes/"
+    },
+    {
+      "title": "Red Team per Principianti Assoluti! 100% Pratico!",
+      "url": "https://www.udemy.com/course/red-team-per-principianti-assoluti/"
+    },
+    {
+      "title": "RESTful API (JAX-RS) Web Servisleri",
+      "url": "https://www.udemy.com/course/restful-web-servisleri/"
+    },
+    {
+      "title": "情報処理安全確保支援士試験 独学短期合格メソッド",
+      "url": "https://www.udemy.com/course/information_security_specialist_training/"
+    },
+    {
+      "title": "Análisis de Malware Práctico (Compatible: win 10/11)",
+      "url": "https://www.udemy.com/course/analisis-de-malware-curso-practico-premium/"
+    },
+    {
+      "title": "HACKING ÉTHIQUE | Piratage des réseaux sans fil (WIFI)",
+      "url": "https://www.udemy.com/course/pirater-cracker-un-mot-de-passe-wifi/"
+    },
+    {
+      "title": "Этичный Веб хакинг (web hacking) для начинающих",
+      "url": "https://www.udemy.com/course/web-pentest/"
+    },
+    {
+      "title": "Cisco ISE v2.4 - Real Life Integration",
+      "url": "https://www.udemy.com/course/cisco-ise-na-vida-real-hands-on-lab/"
+    },
+    {
+      "title": "Internet Information Services für Webentwickler",
+      "url": "https://www.udemy.com/course/iis-dev-de/"
+    },
+    {
+      "title": "WiFi Hacking Unlock Wireless Network Secret and Take Control",
+      "url": "https://www.udemy.com/course/wireless-networks-penetration-testing-techniques-security/"
+    },
+    {
+      "title": "Sıfırdan Huawei Routing&Switching Eğitimi (HCNA)",
+      "url": "https://www.udemy.com/course/huawei-network-egitimi/"
+    },
+    {
+      "title": "Cisco CCNP ENTREPRISE ENARSI Part-1/2",
+      "url": "https://www.udemy.com/course/ccnp-enarsi-i/"
+    },
+    {
+      "title": "Maîtriser la virtualisation: la formation virtualbox ULTIME",
+      "url": "https://www.udemy.com/course/virtualisation-maitriser-votre-premiere-machine-virtuelle/"
+    },
+    {
+      "title": "Khóa Học: Nhận Biết An Toàn An Ninh Mạng",
+      "url": "https://www.udemy.com/course/khoa-hoc-nhan-biet-an-toan-an-ninh-mang/"
+    },
+    {
+      "title": "За тобой не прийдут с болгаркой V2. Volume 2",
+      "url": "https://www.udemy.com/course/bolgarka2-2/"
+    },
+    {
+      "title": "Microwave Transmission",
+      "url": "https://www.udemy.com/course/microwave-transmission/"
+    },
+    {
+      "title": "ヤマハルーター フィルタ機能マスター講座",
+      "url": "https://www.udemy.com/course/yamarofi/"
+    },
+    {
+      "title": "SD-WAN NSE7: Guia Completo para Implementação e Certificação",
+      "url": "https://www.udemy.com/course/sd-wan-nse7-guia-completo-para-implementacao-e-certificacao/"
+    },
+    {
+      "title": "Netzwerktechnik: Das OSI-Modell simple und einfach erklärt",
+      "url": "https://www.udemy.com/course/netzwerktechnik-das-osi-modell-simple-und-einfach-erklart/"
+    },
+    {
+      "title": "Sızma Testine Giriş Eğitimi",
+      "url": "https://www.udemy.com/course/szma-testine-giris-egitimi/"
+    },
+    {
+      "title": "Seguridad de Aplicaciones desde gobierno hasta la operación",
+      "url": "https://www.udemy.com/course/seguridad-de-aplicaciones-desde-gobierno-hasta-la-operacion/"
+    },
+    {
+      "title": "CISSP: Detailed Overview | Pass CISSP | in Urdu/Hindi",
+      "url": "https://www.udemy.com/course/cissp-2021-exam-bootcamp-overview-in-urdu-hindi/"
+    },
+    {
+      "title": "Networking: Nozioni teoriche e pratiche reti di calcolatori",
+      "url": "https://www.udemy.com/course/networking-nozioni-teoriche-e-pratiche-reti-di-calcolatori/"
+    },
+    {
+      "title": "Loadbalancing et haute disponibilité avec Haproxy et Squid",
+      "url": "https://www.udemy.com/course/loadbalancing-et-haute-disponibilite-avec-haproxy-et-squid/"
+    },
+    {
+      "title": "2G 3G 4G Post Processing Using TEMS Investigation& Discovery",
+      "url": "https://www.udemy.com/course/2g-3g-4g-post-processing-using-tems-investigation-discovery/"
+    },
+    {
+      "title": "Keamanan Informasi",
+      "url": "https://www.udemy.com/course/its-keamanan-informasi/"
+    },
+    {
+      "title": "Crie seu servidor de arquivos LINUX com um MiniPC - UBUNTU",
+      "url": "https://www.udemy.com/course/crie-seu-servidor-de-arquivos-linux-com-um-minipc-ubuntu/"
+    },
+    {
+      "title": "Etik Hacker Eğitimi - Android Telefon & Oyun Hackleme - 2025",
+      "url": "https://www.udemy.com/course/android-telefon-oyun-hackleme-etik-hacker-egitimi/"
+    },
+    {
+      "title": "Cálculo de Sub-Redes e Endereçamento IPv4 - Teoria e Prática",
+      "url": "https://www.udemy.com/course/calculo-de-sub-redes-ipv4/"
+    },
+    {
+      "title": "Curso Rápido de Configuração da OLT ZTE C620, C650 E C600",
+      "url": "https://www.udemy.com/course/curso-rapido-de-configuracao-da-olt-zte-c620-c650-e-c600/"
+    },
+    {
+      "title": "LINUX SUNUCU SIKILAŞTIRMASI (LINUX HARDENING)",
+      "url": "https://www.udemy.com/course/linux-sunucu-sikilastirmasi/"
+    },
+    {
+      "title": "CCNA - Les Fondamentaux de Réseaux Informatiques",
+      "url": "https://www.udemy.com/course/les-fondamentaux-de-reseaux-informatiques/"
+    },
+    {
+      "title": "Zabbix 7.0 Expert: Application and Network Monitoring.",
+      "url": "https://www.udemy.com/course/zabbix-7-0-expert-application-and-network-monitoring/"
+    },
+    {
+      "title": "Temel Network ve Soket Programlama",
+      "url": "https://www.udemy.com/course/temel-network/"
+    },
+    {
+      "title": "CCNA R&S 200-125 (Network Fundamental Only) Arabic",
+      "url": "https://www.udemy.com/course/ccna-rs-200-125-arabic/"
+    },
+    {
+      "title": "Curso de Certificación de Ethical Hacker Practical",
+      "url": "https://www.udemy.com/course/ethical-hacker-practical-preparacion/"
+    },
+    {
+      "title": "CISCO MPLS VPN CAMADA 3",
+      "url": "https://www.udemy.com/course/mpls-vpn-camada-3/"
+    },
+    {
+      "title": "Podstawy Cyberbezpieczeństwa - Ethical Hacking dla każdego",
+      "url": "https://www.udemy.com/course/podstawy-cyberbezpieczenstwa-ethical-hacking-dla-kazdego/"
+    },
+    {
+      "title": "DevSecOps com GitHub Actions",
+      "url": "https://www.udemy.com/course/devsecops-com-github-actions/"
+    },
+    {
+      "title": "Vírus de Computador",
+      "url": "https://www.udemy.com/course/virus-de-computador/"
+    },
+    {
+      "title": "Sıfırdan Profesyonel Etik Hacker Olma Kursu",
+      "url": "https://www.udemy.com/course/etikhacker/"
+    },
+    {
+      "title": "Başlangıç-Orta Seviye Malware Analizi",
+      "url": "https://www.udemy.com/course/baslangic-orta-seviye-malware-analizi/"
+    },
+    {
+      "title": "Amazon Web Services (AWS) haladó tanfolyam magyarul",
+      "url": "https://www.udemy.com/course/aws-tanfolyam-magyarul-shiwaforce-amazon-web-services/"
+    },
+    {
+      "title": "التحقيقات الجنائية على الشبكات",
+      "url": "https://www.udemy.com/course/network-hacking-forensics/"
+    },
+    {
+      "title": "Cisco Identity Services Engine (ISE) 2.7 Training Urdu/Hindi",
+      "url": "https://www.udemy.com/course/cisco-identity-services-engine-ise-27-training-urduhindi/"
+    },
+    {
+      "title": "【한글자막】 ISACA 정보 시스템 감사(CISA) 인증 : 합격을 위한 모든 것",
+      "url": "https://www.udemy.com/course/isaca-cisa/"
+    },
+    {
+      "title": "Curso BGP Huawei Para ISP",
+      "url": "https://www.udemy.com/course/curso-bgp-huawei-para-isp/"
+    },
+    {
+      "title": "Comunicação aberta TCP/IP via Ethernet industrial para CLPs",
+      "url": "https://www.udemy.com/course/comunicacao-aberta-tcpip-via-ethernet-industrial-para-clps/"
+    },
+    {
+      "title": "Ethical Hacking in Tamil",
+      "url": "https://www.udemy.com/course/ethical-hacking-in-tamil/"
+    },
+    {
+      "title": "OSCP 2025 (Part 1)",
+      "url": "https://www.udemy.com/course/oscp-2025-part-1/"
+    },
+    {
+      "title": "Binäres Hacken und Secure Coding in C",
+      "url": "https://www.udemy.com/course/binary-hacking-und-secure-coding-in-c/"
+    },
+    {
+      "title": "Burp Suite: Hands-On Testing on Real Sites with bug bounty",
+      "url": "https://www.udemy.com/course/burp-suite-hands-on-testing-on-real-sites-with-bug-bounty/"
+    },
+    {
+      "title": "Learn Ethical Hacking From Scratch",
+      "url": "https://www.udemy.com/course/learn-ethical-hacking-from-scratch/"
+    },
+    {
+      "title": "CCNA 200-301 : Les Fondamentaux des réseaux",
+      "url": "https://www.udemy.com/course/ccna-200-301-les-fondamentaux-des-reseaux/"
+    },
+    {
+      "title": "Deep web: navegando com segurança e conhecimento",
+      "url": "https://www.udemy.com/course/deep-web-navegando-com-seguranca-e-conhecimento/"
+    },
+    {
+      "title": "Zararlı Yazılım Analizi Versiyon (Malware Analysis) 1",
+      "url": "https://www.udemy.com/course/zararl-yazlm-analizi-versiyon-1/"
+    },
+    {
+      "title": "Ethical Hacking mit Kali Linux",
+      "url": "https://www.udemy.com/course/ethical-hacking-mit-kali-linux/"
+    },
+    {
+      "title": "Cybersecurity Fundamentals",
+      "url": "https://www.udemy.com/course/cybersecurity-fundamentals-f/"
+    },
+    {
+      "title": "Phishing and How to Avoid it",
+      "url": "https://www.udemy.com/course/phishing-and-how-to-avoid-it/"
+    },
+    {
+      "title": "Kali Linux per Aspiranti Hacker! 100% Pratico!",
+      "url": "https://www.udemy.com/course/kali-linux-per-aspiranti-hacker/"
+    },
+    {
+      "title": "CCNA 200-301 : Cours complet (1/2)",
+      "url": "https://www.udemy.com/course/ccna-200-301/"
+    },
+    {
+      "title": "Palo Alto Firewall Training in Urdu/Hindi",
+      "url": "https://www.udemy.com/course/palo-alto-firewall-training-in-hindi/"
+    },
+    {
+      "title": "Hacking Ético: Ingreso al Mundo del Hacking",
+      "url": "https://www.udemy.com/course/hacking-herramientas-de-espionaje-digital/"
+    },
+    {
+      "title": "Servidor VPN com OpenVPN",
+      "url": "https://www.udemy.com/course/servidor-openvpn/"
+    },
+    {
+      "title": "بايثون في التعامل مع الواي فاي و اخفاء الرسائل في الصور",
+      "url": "https://www.udemy.com/course/python-in-wifi/"
+    },
+    {
+      "title": "The Complete Cyber Security Course : Hackers Exposed!",
+      "url": "https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1/"
+    },
+    {
+      "title": "WatchGuard Fireware Essentials Exam Test Certification",
+      "url": "https://www.udemy.com/course/watchguard-fireware-network-security-essentials-certification/"
+    },
+    {
+      "title": "MikroTik RouterOS - Bridge & DHCP",
+      "url": "https://www.udemy.com/course/mikrotik-mtcna-oficial-modulo-2-3-dhcp-bridging/"
+    },
+    {
+      "title": "Beyaz Şapkalı Hacker Eğitimi (Penetrasyon Testleri)",
+      "url": "https://www.udemy.com/course/beyaz-sapkali-hacker-egitimi/"
+    },
+    {
+      "title": "Netzwerktechnik: VLANs simple und einfach erklärt",
+      "url": "https://www.udemy.com/course/netzwerktechnik-vlans-simple-und-einfach-erklart/"
+    },
+    {
+      "title": "ISO/IEC 27005 Information Security Risk Management",
+      "url": "https://www.udemy.com/course/iso-27005-information-security-risk-management/"
+    },
+    {
+      "title": "実践 Internet of Things",
+      "url": "https://www.udemy.com/course/internet-of-things-d/"
+    },
+    {
+      "title": "Curso Rockwell Redes Industriais CLP Allen Bradley, CCNA PLC",
+      "url": "https://www.udemy.com/course/curso-rockwell-redes-industriais-clp-allen-bradley-ccna-plc/"
+    },
+    {
+      "title": "Segurança Cibernética",
+      "url": "https://www.udemy.com/course/seguranca-cibernetica/"
+    },
+    {
+      "title": "Citrix XenAPP et XenDesktop 7.15 LTSR CU3 install et admin",
+      "url": "https://www.udemy.com/course/citrix-virtual-apps-et-virtual-desktop-715-ltsr-cu3/"
+    },
+    {
+      "title": "Câmera de segurança, CFTV - Instalação do ZERO",
+      "url": "https://www.udemy.com/course/instalando-camera-de-seguranca-do-zero/"
+    },
+    {
+      "title": "DVR. Una aventura al detalle del núcleo del CCTV.",
+      "url": "https://www.udemy.com/course/dvr-una-aventura-al-detalle-del-nucleo-del-cctv/"
+    },
+    {
+      "title": "Tecnologia IO-Link",
+      "url": "https://www.udemy.com/course/tecnologia-io-link/"
+    },
+    {
+      "title": "Bug Bounty. De novato a Experto en 4 horas.",
+      "url": "https://www.udemy.com/course/bug-bounty-de-novato-a-experto-en-4-horas/"
+    },
+    {
+      "title": "Podstawy etycznego hackingu i bezpieczeństwa - Część 4",
+      "url": "https://www.udemy.com/course/podstawy-etycznego-hackingu-i-bezpieczenstwa-czesc-4/"
+    },
+    {
+      "title": "INDIAN WHITE HAT - ETHICAL HACKING COURSE IN HINDI",
+      "url": "https://www.udemy.com/course/indian-white-hat-ethical-hacking-course-in-hindi/"
+    },
+    {
+      "title": "クラウドコンピューティング概論",
+      "url": "https://www.udemy.com/course/winschoolcloud/"
+    },
+    {
+      "title": "浅谈QoS",
+      "url": "https://www.udemy.com/course/sean-qos/"
+    },
+    {
+      "title": "Introduzione alla malware analysis: Un approccio pratico",
+      "url": "https://www.udemy.com/course/intro_malware_analisi/"
+    },
+    {
+      "title": "【AI 자막】 완전 초보자를 위한 사이버 보안 : 필수 개념 마스터하기!",
+      "url": "https://www.udemy.com/course/cyber-security-for-absolute-beginners-essential-concepts-korean/"
+    },
+    {
+      "title": "Fundamentos de certificados digitales",
+      "url": "https://www.udemy.com/course/fundamentos-de-certificados-digitales/"
+    },
+    {
+      "title": "Curso Emulador Unetlab",
+      "url": "https://www.udemy.com/course/curso-de-unetlab/"
+    },
+    {
+      "title": "Mikrotik do zero ao avançado mais módulos adicionais. |2025|",
+      "url": "https://www.udemy.com/course/mikrotikdozero/"
+    },
+    {
+      "title": "Kursus Dasar Ethical Hacking",
+      "url": "https://www.udemy.com/course/kursus-dasar-ethical-hacking/"
+    },
+    {
+      "title": "Gestão de segurança da informação para iniciantes",
+      "url": "https://www.udemy.com/course/gestao-de-seguranca-da-informacao-para-leigos/"
+    },
+    {
+      "title": "Configuración y administración de switch Extreme Networks",
+      "url": "https://www.udemy.com/course/configuracion-y-administracion-de-switch-extreme-networks/"
+    },
+    {
+      "title": "Fortigate Firewall Eğitimi Advanced",
+      "url": "https://www.udemy.com/course/fortigate-firewall-egitimi-2/"
+    },
+    {
+      "title": "Wireshark Basics: Crashkurs für Einsteiger in 2 Stunden",
+      "url": "https://www.udemy.com/course/wireshark-basics-crashkurs-fur-einsteiger-in-2-stunden/"
+    },
+    {
+      "title": "Yeni Başlayanlar İçin Sızma Testine (Etik Hackleme) Giriş",
+      "url": "https://www.udemy.com/course/yeni-baslayanlar-icin-sizma-testine-giris/"
+    },
+    {
+      "title": "Rootkity - Niewidzialny Sabotaż Elektroniczny [HACKING]",
+      "url": "https://www.udemy.com/course/rootkity-niewidzialny-sabotaz-elektroniczny/"
+    },
+    {
+      "title": "Sicurezza Informatica: la Masterclass! 43 Ore - [NEW 2025]",
+      "url": "https://www.udemy.com/course/sicurezza-informatica-la-masterclass/"
+    },
+    {
+      "title": "Мир Компьютерных Сетей",
+      "url": "https://www.udemy.com/course/world-of-computer-networking-ru/"
+    },
+    {
+      "title": "Curso Redes de Computadores - Fundamentos e Prática",
+      "url": "https://www.udemy.com/course/redes-de-computadores-fundamentos-e-pratica/"
+    },
+    {
+      "title": "التشفير-صنع وبرمجة الفايروس- اختراق اجهزه (محترف) 03",
+      "url": "https://www.udemy.com/course/2021-fgg/"
+    },
+    {
+      "title": "Implantação da Segurança da Informação com à Norma ISO 27001",
+      "url": "https://www.udemy.com/course/guia-implantacao-iso27001-seguranca-informacao/"
+    },
+    {
+      "title": "Cisco Firepower",
+      "url": "https://www.udemy.com/course/cisco-firepower/"
+    },
+    {
+      "title": "Preparação Para Exame Fundamentos Segurança Microsoft SC-900",
+      "url": "https://www.udemy.com/course/azure-sc900pt/"
+    },
+    {
+      "title": "MikroTik RouterOS - QoS",
+      "url": "https://www.udemy.com/course/mikrotik-mtcna-oficial-modulo-7-qos/"
+    },
+    {
+      "title": "Etik Hacker 2 ( CTF Çözümleri )",
+      "url": "https://www.udemy.com/course/etik-hacker-2/"
+    },
+    {
+      "title": "دورة كالي لينكس على الراسبيري باي",
+      "url": "https://www.udemy.com/course/raspberrypikali/"
+    },
+    {
+      "title": "13º Zabbix Construindo templates personalizados (FreePBX)",
+      "url": "https://www.udemy.com/course/13o-zabbix-construindo-templates-personalizados-freepbx/"
+    },
+    {
+      "title": "F5 BIG-IP LTM ile Load Balancer Kursu",
+      "url": "https://www.udemy.com/course/load-balancer-ltm-egitimi/"
+    },
+    {
+      "title": "Ubuntu Server - Servidores Linux com samba 4",
+      "url": "https://www.udemy.com/course/ubuntu-server-servidores-linux-com-samba-4/"
+    },
+    {
+      "title": "Gerenciamento de Logs com vRealize Log Insight - Básico",
+      "url": "https://www.udemy.com/course/loginsight/"
+    },
+    {
+      "title": "Kỹ thuật quản trị an ninh mạng Cisco Network Security",
+      "url": "https://www.udemy.com/course/ky-thuat-quan-tri-an-ninh-mang-cisco-network-security/"
+    },
+    {
+      "title": "Pentest Ethical Hacking Prático 2024: Kali Linux do Zero",
+      "url": "https://www.udemy.com/course/pentest-pratico-2024-domine-kali-linux-do-zero/"
+    },
+    {
+      "title": "PFSense Firewall Eğitimi | 2025",
+      "url": "https://www.udemy.com/course/pfsense-firewall-egitimi/"
+    },
+    {
+      "title": "The Complete Ethical Hacking Course: Beginner to Advanced!",
+      "url": "https://www.udemy.com/course/penetration-testing/"
+    },
+    {
+      "title": "Crea IVR Avanzados - Consultas Telefonicas en Asterisk",
+      "url": "https://www.udemy.com/course/ivr-avanzado-con-phpagi-para-asterisk/"
+    },
+    {
+      "title": "Protocolo Spanning Tree - Curso Completo",
+      "url": "https://www.udemy.com/course/protocolo-spanning-tree-curso-completo/"
+    },
+    {
+      "title": "Pentesting Industrial Control Systems Workshop",
+      "url": "https://www.udemy.com/course/pentestics/"
+    },
+    {
+      "title": "كورس اساسيات شبكات الحاسوب والتحضير لأمتحان CCNA بأخر اصدار",
+      "url": "https://www.udemy.com/course/computer-networking-essentials-and-ccna-exam-preparation/"
+    },
+    {
+      "title": "Pentest com IA: Inteligência Artificial em Ethical Hacking",
+      "url": "https://www.udemy.com/course/pentest-ia/"
+    },
+    {
+      "title": "Learn Android Hacking For Beginners (Arabic)",
+      "url": "https://www.udemy.com/course/learn-android-hacking-for-beginners-in-arabic/"
+    },
+    {
+      "title": "IT-Sicherheitstests - Grundausbildung!",
+      "url": "https://www.udemy.com/course/it-sicherheitstests-grundausbildung/"
+    },
+    {
+      "title": "FortiGate Firewall NSE4 V-7 Training in Urdu/Hindi",
+      "url": "https://www.udemy.com/course/fortigate-firewall-nse4-v-7-training-in-urduhindi/"
+    },
+    {
+      "title": "Virtualização com Oracle VirtualBox - Básico ao Avançado",
+      "url": "https://www.udemy.com/course/virtualizacao-com-oracle-virtualbox-basico-ao-avancado/"
+    },
+    {
+      "title": "Introdução ao Mininet: um emulador SDN",
+      "url": "https://www.udemy.com/course/introducao-ao-mininet-um-emulador-sdn/"
+    },
+    {
+      "title": "Threat hunting avec Elasticsearch kibana",
+      "url": "https://www.udemy.com/course/cyber-threat-intelligence-based-on-elk/"
+    },
+    {
+      "title": "Noções para se tornar um Analista de Segurança da Informação",
+      "url": "https://www.udemy.com/course/nocoes-analista-de-seguranca-da-informacao/"
+    },
+    {
+      "title": "Mikrotik From Zero To Hero (شرح مايكروتك من الصفر للاحتراف)",
+      "url": "https://www.udemy.com/course/mikrotik-from-zero-to-hero/"
+    },
+    {
+      "title": "Cyber Segurança na internet - Proteção contra hackers",
+      "url": "https://www.udemy.com/course/cyber-seguranca-na-internet-protecao-contra-hackes/"
+    },
+    {
+      "title": "IA Generativa & LLM Hacking. Ciberseguridad con Claude.",
+      "url": "https://www.udemy.com/course/ia-generativa-llm-hacking-ciberseguridad-con-claude/"
+    },
+    {
+      "title": "Letsencrypt de 0 a 100. Apache, Nginx, Tomcat e IIS, HTTP/2",
+      "url": "https://www.udemy.com/course/letsencrypt-certbot-avanzado-ssl-gratis-de-por-vida/"
+    },
+    {
+      "title": "7º Zabbix 5 Construindo templates personalizados Agent2",
+      "url": "https://www.udemy.com/course/7o-zabbix-50-construindo-templates-personalizados-agent2/"
+    },
+    {
+      "title": "Fundamentos CCNA: Curso Básico de Redes",
+      "url": "https://www.udemy.com/course/fundamentos-ccna-curso-basico-de-redes/"
+    },
+    {
+      "title": "Sieci komputerowe",
+      "url": "https://www.udemy.com/course/sieci-komputerowe/"
+    },
+    {
+      "title": "Penetration Testing Mega Course بالعربي الجزء الاول",
+      "url": "https://www.udemy.com/course/penetration-testing-mega-course-arabic/"
+    },
+    {
+      "title": "python networking | البايثون والتجسس على الشبكات",
+      "url": "https://www.udemy.com/course/python-network-rakwan/"
+    },
+    {
+      "title": "pfSense Descomplicado: Do Zero ao Expert em Firewall",
+      "url": "https://www.udemy.com/course/pfsense-descomplicado-expert-em-firewall/"
+    },
+    {
+      "title": "OSINT - Ethical Hacking dla każdego",
+      "url": "https://www.udemy.com/course/osint-ethical-hacking-dla-kazdego/"
+    },
+    {
+      "title": "Opnsense Firewall Fundamentals - en Español",
+      "url": "https://www.udemy.com/course/opnsense-firewall-fundamentals/"
+    },
+    {
+      "title": "Switch , Routing y Seguridad",
+      "url": "https://www.udemy.com/course/sisa-institute-switch-y-routing/"
+    },
+    {
+      "title": "Tutorial Kali Linux & Penetration Test",
+      "url": "https://www.udemy.com/course/tutorial-kali-linux-penetration-test/"
+    },
+    {
+      "title": "EU KI-Verordnung leicht gemacht: KI-Kompetenzen nach Art. 4",
+      "url": "https://www.udemy.com/course/eu-ki-verordnung-leicht-gemacht-ki-kompetenzen-nach-art-4/"
+    },
+    {
+      "title": "Shell Script: Automação de Tarefas e Pentest",
+      "url": "https://www.udemy.com/course/shell-script-automacao-de-tarefas-e-pentest/"
+    },
+    {
+      "title": "Seguridad WordPress: Elimina Inyecciones y Malware en WP",
+      "url": "https://www.udemy.com/course/seguridad-informatica-elimina-inyecciones-y-malware-en-wp/"
+    },
+    {
+      "title": "Netzwerktechnik: Router und Routing für Einsteiger",
+      "url": "https://www.udemy.com/course/netzwerktechnik-router-und-routing-fur-einsteiger/"
+    },
+    {
+      "title": "SDN: Tecnologia, 5G & Transformação Digital",
+      "url": "https://www.udemy.com/course/sdn-tecnologia-5g-transformacao-digital/"
+    },
+    {
+      "title": "تأمين الحسابات الرقمية بشكل احترافي للأفراد والشركات",
+      "url": "https://www.udemy.com/course/socialmediasecurity-yasserghallab/"
+    },
+    {
+      "title": "تعلم اختبار الاختراق الاخلاقي (كورس كامل)",
+      "url": "https://www.udemy.com/course/cjxcrtgt/"
+    },
+    {
+      "title": "Curso Cisco QoS nivel CCNP Encor by SeaCCNA",
+      "url": "https://www.udemy.com/course/qos-calidad-de-servicio/"
+    },
+    {
+      "title": "はじめての Microsoft Azure",
+      "url": "https://www.udemy.com/course/microsoft-azure-introduction/"
+    },
+    {
+      "title": "كورس تأمين واسترجاع حسابات التواصل الاجتماعي",
+      "url": "https://www.udemy.com/course/lxiqwcev/"
+    },
+    {
+      "title": "Cisco OSPF para CCNP",
+      "url": "https://www.udemy.com/course/cisco-ospf-para-ccnp/"
+    },
+    {
+      "title": "CCNP,CCIE Security 350-701 Training in Urdu/Hindi Part-1",
+      "url": "https://www.udemy.com/course/ccnpccie-security-350-701-training-in-urduhindi-part-1/"
+    },
+    {
+      "title": "IP Features on Cisco Routers ***English Subtitles***",
+      "url": "https://www.udemy.com/course/ip-features/"
+    },
+    {
+      "title": "pfSense + Windows Server Active Directory Integration",
+      "url": "https://www.udemy.com/course/pfsense-active-directory-authentication/"
+    },
+    {
+      "title": "Pfsense de Principiante a Experto 2025",
+      "url": "https://www.udemy.com/course/pmoreno-pfsense-curso1/"
+    },
+    {
+      "title": "Pentester Junior: Más cerca de PRO que de Junior",
+      "url": "https://www.udemy.com/course/pentester-jr/"
+    },
+    {
+      "title": "DNS: Das Domain Name System simpel und einfach erklärt",
+      "url": "https://www.udemy.com/course/dns-das-domain-name-system-simpel-und-einfach-erklart/"
+    },
+    {
+      "title": "Autos Inteligentes Bajo Amenaza: Lo Que Debes Saber Ya",
+      "url": "https://www.udemy.com/course/introduccion-a-la-ciberseguridad-automotriz/"
+    },
+    {
+      "title": "Engenharia Social e Segurança da Informação",
+      "url": "https://www.udemy.com/course/fundamentos-engenharia-social/"
+    },
+    {
+      "title": "Protege tu sitio web con SSL: Guía de Instalación Gratuita",
+      "url": "https://www.udemy.com/course/tu-sitio-web-seguro-instalacion-ssl-free/"
+    },
+    {
+      "title": "Netzwerktechnik Grundlagen - Network Access und Ethernet",
+      "url": "https://www.udemy.com/course/netzwerktechnik-grundlagen_network-access-ethernet/"
+    },
+    {
+      "title": "Hacking Etico: Técnicas de Bypass y Evasión de Antivirus",
+      "url": "https://www.udemy.com/course/hacking-etico-tecnicas-de-bypass-y-evasion-de-antivirus/"
+    },
+    {
+      "title": "CCNA (200-301) | Cisco تؤهلك للحصول على شهادة من",
+      "url": "https://www.udemy.com/course/ccna-200-301-cisco/"
+    },
+    {
+      "title": "CCNA 200 - 301 v1.1 Cisco بالعربي",
+      "url": "https://www.udemy.com/course/cisco-ccna-200-301-v11/"
+    },
+    {
+      "title": "Aprende a crear un servidor SFTP",
+      "url": "https://www.udemy.com/course/aprende-a-crear-un-servidor-sftp/"
+    },
+    {
+      "title": "Hacking ético com Metasploit: Exploit e Pós-Exploit",
+      "url": "https://www.udemy.com/course/hacking-etico-com-metasploit-exploit-e-pos-exploit/"
+    },
+    {
+      "title": "SCADA full course : Basic to Advance",
+      "url": "https://www.udemy.com/course/scada-full-course-in-hindi-basic-to-advance/"
+    },
+    {
+      "title": "Introduction to Web Hacking (Arabic)",
+      "url": "https://www.udemy.com/course/introduction-to-web-hacking-in-arabic/"
+    },
+    {
+      "title": "CCTV e Câmeras de Segurança - Como tornar seu imóvel seguro",
+      "url": "https://www.udemy.com/course/cctv-e-cameras-de-seguranca-como-tornar-seu-imovel-seguro/"
+    },
+    {
+      "title": "Firewall com Mikrotik - Configuração na Prática",
+      "url": "https://www.udemy.com/course/firewall-com-mikrotik-configuracao-na-pratica/"
+    },
+    {
+      "title": "Microsoft 365 : Master-Class für Einsteiger und Profis",
+      "url": "https://www.udemy.com/course/microsoft-365-master-class-fur-einsteiger-und-profis/"
+    },
+    {
+      "title": "Lerne Ethical Hacking auf Deutsch und werde Profi | Part 1/3",
+      "url": "https://www.udemy.com/course/ethical-hacking-pentesting-kurs-deutsch/"
+    },
+    {
+      "title": "3º Zabbix 4.0 Construindo templates personalizados SMBShare",
+      "url": "https://www.udemy.com/course/3o-zabbix-construindo-templates-personalizados-smbshare/"
+    },
+    {
+      "title": "A Practical Guide to Ethical Hacking from Scratch in Bangla",
+      "url": "https://www.udemy.com/course/a-practical-guide-to-ethical-hacking-from-scratch-in-bangla/"
+    },
+    {
+      "title": "Linux e Reti di Computer",
+      "url": "https://www.udemy.com/course/linux-e-reti-di-computer/"
+    },
+    {
+      "title": "Primeiros Passos com o roteador Juniper MX204",
+      "url": "https://www.udemy.com/course/primeiros-passos-com-o-roteador-juniper-mx204/"
+    },
+    {
+      "title": "NetDevOps : Automatisez votre parc réseau avec le DevOps",
+      "url": "https://www.udemy.com/course/netdevops-automatisez-votre-parc-reseau-avec-le-devops/"
+    },
+    {
+      "title": "Nmap: Network Mapper - Ethical Hacking dla każdego",
+      "url": "https://www.udemy.com/course/nmap-network-mapper-ethical-hacking-dla-kazdego/"
+    },
+    {
+      "title": "[FULL] Routing e Switching com Cisco: Do Básico ao Avançado",
+      "url": "https://www.udemy.com/course/routing-e-switching-com-cisco-do-basico-ao-avancado/"
+    },
+    {
+      "title": "CompTIA Security+ ( Arabic ) كورس حماية الشبكات بالعربي",
+      "url": "https://www.udemy.com/course/comptia-security-arabic/"
+    },
+    {
+      "title": "Netzwerktechnik Grundlagen - WAN Techniken (MPLS,IPSec, NAT)",
+      "url": "https://www.udemy.com/course/netzwerktechnik-grundlagen-wan-techniken_mpls-ipsec-nat/"
+    },
+    {
+      "title": "Complete Ethical Hacking In Tamil",
+      "url": "https://www.udemy.com/course/complete-ethical-hacking-in-tamil/"
+    },
+    {
+      "title": "Redes, TCP/IP e Wireshark!",
+      "url": "https://www.udemy.com/course/conceitos-basicos-de-rede-com-wireshark/"
+    },
+    {
+      "title": "Sichere Passwörter - Schütze dich gegen Hacker",
+      "url": "https://www.udemy.com/course/passwort-cracking/"
+    },
+    {
+      "title": "VoLTE | Voice over LTE & IMS, SIP & WireShark",
+      "url": "https://www.udemy.com/course/volte-voice-over-lte-ims-sip-wireshark/"
+    },
+    {
+      "title": "LTE Protocol Testing : Basic to Advanced [PART 1]",
+      "url": "https://www.udemy.com/course/lte-protocol-testing-basic-to-advanced-l/"
+    },
+    {
+      "title": "La Cybersécurité de A à Z",
+      "url": "https://www.udemy.com/course/la-cybersecurite-de-az/"
+    },
+    {
+      "title": "Formação em Redes de Computadores - Módulo 5",
+      "url": "https://www.udemy.com/course/redes-de-computadores-modulo-5/"
+    },
+    {
+      "title": "Proxmox VE 6: Gestión del Almacenamiento (Compatible v7)",
+      "url": "https://www.udemy.com/course/proxmox-ve-6-gestion-del-almacenamiento/"
+    },
+    {
+      "title": "Curso Apache Guacamole Server",
+      "url": "https://www.udemy.com/course/curso-apache-guacamole-server/"
+    },
+    {
+      "title": "Armadura Digital",
+      "url": "https://www.udemy.com/course/armadura-digital/"
+    },
+    {
+      "title": "Maîtriser l'adressage et le découpages IPv4 et IPv6",
+      "url": "https://www.udemy.com/course/maitriser-ladressage-et-le-decoupages-ipv4-et-ipv6/"
+    },
+    {
+      "title": "Windows Server 2022 - Parte básica e totalmente prática!",
+      "url": "https://www.udemy.com/course/windows-server-2022-crie-seu-servidor-em-menos-de-3-horas/"
+    },
+    {
+      "title": "Curso de Hacking de Wi-Fi e Teste de vulnerabilidade Wireles",
+      "url": "https://www.udemy.com/course/curso-de-hacking-de-wi-fi-e-teste-de-vulnerabilidade-wireles/"
+    },
+    {
+      "title": "Curso de Microsoft Defender for Endpoint",
+      "url": "https://www.udemy.com/course/curso-de-microsoft-defender-for-endpoint/"
+    },
+    {
+      "title": "CompTIA PenTest+ بالعربي",
+      "url": "https://www.udemy.com/course/comptia-pentest-plus/"
+    },
+    {
+      "title": "Ethical Hacking | Kompletter Kurs auf deutsch, 6h hacking",
+      "url": "https://www.udemy.com/course/ethical-hacking-kompletter-kurs-auf-deutsch-4h-hacking/"
+    },
+    {
+      "title": "تعلم شبكات الكمبيوتر للمبتدئين | كورس شبكات الحاسب",
+      "url": "https://www.udemy.com/course/networks-ar/"
+    },
+    {
+      "title": "ETHICAL HACKING - Web Penetration Testing MODULO 1",
+      "url": "https://www.udemy.com/course/webpentest/"
+    },
+    {
+      "title": "Defender XDR/365: Do Fundamento à Prática Ninja - Iniciante",
+      "url": "https://www.udemy.com/course/defender-xdr365-do-fundamento-a-pratica-ninja-iniciante/"
+    },
+    {
+      "title": "أساسيات شبكات الكمبيوتر",
+      "url": "https://www.udemy.com/course/intro-to-networks/"
+    },
+    {
+      "title": "Sıfırdan Uygulamalı Siber güvenlik, Hacking ve Linux eğitimi",
+      "url": "https://www.udemy.com/course/sfrdan-siber-guvenlik-ve-linux-egitimi/"
+    },
+    {
+      "title": "Fortigate Infrastructure 6.4/7.0 - NSE4",
+      "url": "https://www.udemy.com/course/fortigate-infraestructure-6470-nse4/"
+    },
+    {
+      "title": "Laboratori Cisco CCNA Packet Tracer 200-301 ITALIANO",
+      "url": "https://www.udemy.com/course/cisco-ccna-200-301-lab/"
+    },
+    {
+      "title": "Ethical Hacking & Penetration Testing en Sitios Web CMS",
+      "url": "https://www.udemy.com/course/hacking-cms/"
+    },
+    {
+      "title": "كورس الشبكات-computer network security",
+      "url": "https://www.udemy.com/course/computer-network-security/"
+    },
+    {
+      "title": "Monitoreo de Software y Hardware con Software Libre",
+      "url": "https://www.udemy.com/course/monitoreo-de-software-y-hardware-con-software-libre/"
+    },
+    {
+      "title": "Cisco Virtual Private Network (VPN) Training in Urdu/Hindi",
+      "url": "https://www.udemy.com/course/cisco-virtual-private-network-vpn-training-in-hindiurdu/"
+    },
+    {
+      "title": "Fundamentos de Informática Forense en Redes y Comunicaciones",
+      "url": "https://www.udemy.com/course/fundamentos-de-informatica-forense-en-redes-y-comunicaciones/"
+    },
+    {
+      "title": "Fortigate Firewall Eğitimi | 2025",
+      "url": "https://www.udemy.com/course/fortigate-firewall-egitimi-2025/"
+    },
+    {
+      "title": "Hacking Network: la Masterclass! 40 Ore - 7in1 - Volume 1",
+      "url": "https://www.udemy.com/course/hacking-network-masterclass/"
+    },
+    {
+      "title": "Penetration Testing for beginners (Hands-on)",
+      "url": "https://www.udemy.com/course/penetration-testing-for-beginners-hands-on/"
+    },
+    {
+      "title": "2º Administrando e configurando Veritas Backup Exec 21.1!",
+      "url": "https://www.udemy.com/course/administrando-e-configurando-veritas-backup-exec-211/"
+    },
+    {
+      "title": "7 Aylıq Kiber Təhlükəsizlik Təlimi (eJPT, eWPT və CRTO)",
+      "url": "https://www.udemy.com/course/5-aylq-kiber-thluksizlik-tlimi-ejpt-v-ewpt-hazrlq/"
+    },
+    {
+      "title": "Cybersicherheit: Der 360° Überblick - Entlarve die Hacker!",
+      "url": "https://www.udemy.com/course/it-sicherheit-und-it-audits-der-360-uberblick/"
+    },
+    {
+      "title": "Cisco Packet Tracer Grundlagen",
+      "url": "https://www.udemy.com/course/cisco-packet-tracer-grundlagen/"
+    },
+    {
+      "title": "Tout savoir sur la norme ISO IEC 27001 et son Annexe A",
+      "url": "https://www.udemy.com/course/cybersecurite-iso-iec-27001-version-2013-2015-et-2022/"
+    },
+    {
+      "title": "Hacking y Pentesting: Pivoting, Tunneling y Port Fordwarding",
+      "url": "https://www.udemy.com/course/hacking-y-pentesting-pivoting-tunneling-y-port-fordwarding/"
+    },
+    {
+      "title": "Hacking ético para aplicativos e dispositivos Android",
+      "url": "https://www.udemy.com/course/hacking-etico-para-aplicativos-e-dispositivos-android/"
+    },
+    {
+      "title": "Hacking & Penetration Testing: White Box & Black Box Pentest",
+      "url": "https://www.udemy.com/course/hacking-penetration-testing-white-box-pt-vs-black-box-pt/"
+    },
+    {
+      "title": "Monitoramento de Rede - MBA PRTG Network Monitor - Mod. II",
+      "url": "https://www.udemy.com/course/mba-prtg-network-monitor-mod-ii/"
+    },
+    {
+      "title": "Monitoramento de Rede - MBA PRTG Network Monitor - Mod. III",
+      "url": "https://www.udemy.com/course/mba-prtg-network-monitor-mod-iii/"
+    },
+    {
+      "title": "தமிழ் மொழியில் - Penetration testing from Scratch",
+      "url": "https://www.udemy.com/course/penetration-testing-from-scratch/"
+    },
+    {
+      "title": "(WLANs) الدورة العملية لاختبار اختراق الشبكات اللاسلكية",
+      "url": "https://www.udemy.com/course/practical-testing-course-for-hacking-wlans/"
+    },
+    {
+      "title": "Gerenciando Arquivos no Windows Server 2016 (FSRM)",
+      "url": "https://www.udemy.com/course/gerenciando-arquivos-no-windows-server-2016-fsrm/"
+    },
+    {
+      "title": "Ciberseguridad para usuarios no técnicos",
+      "url": "https://www.udemy.com/course/aprende-a-protegerte-en-redes-sociales-e-internet/"
+    },
+    {
+      "title": "Networking e Reti: la Masterclass! 39 Ore - [NEW 2025]",
+      "url": "https://www.udemy.com/course/networking-e-reti-la-masterclass/"
+    },
+    {
+      "title": "Bilişim Sistemleri Mühendisliği / Sertifikalı Eğitim",
+      "url": "https://www.udemy.com/course/bilisim-sistemleri-muhendisligi/"
+    },
+    {
+      "title": "Seguridad Informática Para Todos",
+      "url": "https://www.udemy.com/course/curso-seguridad-informatica/"
+    },
+    {
+      "title": "IP Addressing and Subnetting - Zero to Hero",
+      "url": "https://www.udemy.com/course/ip-addressing-zero-to-hero/"
+    },
+    {
+      "title": "Pengenalan Komputasi (Python)",
+      "url": "https://www.udemy.com/course/pengenalan-komputasi-python/"
+    },
+    {
+      "title": "Una guida per principianti alla navigazione sicura in rete",
+      "url": "https://www.udemy.com/course/sicurezzainformatica/"
+    },
+    {
+      "title": "WIRESHARK-GNS3 NETWORK TRAFİK ANALİZİ [BAŞLANGIÇ SEVİYESİ]",
+      "url": "https://www.udemy.com/course/wireshark-gns3-ile-network-trafik-analiz-egitimi/"
+    },
+    {
+      "title": "Huawei HCIA Datacom V1.0 en Español",
+      "url": "https://www.udemy.com/course/huawei-hcia-datacom-v10-en-espanol/"
+    },
+    {
+      "title": "Mikrotik - Programación de Tareas y Scripts Avanzados",
+      "url": "https://www.udemy.com/course/mikrotik-programacion-de-tareas-y-scripts-avanzados/"
+    },
+    {
+      "title": "Ransomware | Prevención y respuesta a incidentes.",
+      "url": "https://www.udemy.com/course/ransomware-prevencion-y-respuesta-a-incidentes/"
+    },
+    {
+      "title": "Ethical Hacking dla zupelnie poczatkujacych",
+      "url": "https://www.udemy.com/course/ethical-hacking-dla-zupelnie-poczatkujacych/"
+    },
+    {
+      "title": "Configuração de Roteadores para Iniciantes",
+      "url": "https://www.udemy.com/course/roteador/"
+    },
+    {
+      "title": "Especialista em T.I e Telecomunicações",
+      "url": "https://www.udemy.com/course/especialista-em-ti-e-telecomunicacoes/"
+    },
+    {
+      "title": "Implementando NIST Cybersecurity Framework 2.0 (CSF)",
+      "url": "https://www.udemy.com/course/implementando-nist-cybersecurity-framework-v2/"
+    },
+    {
+      "title": "Ataki na Strony Internetowe: Praktyczny Pentesting [HACKING]",
+      "url": "https://www.udemy.com/course/ataki-na-strony-internetowe/"
+    },
+    {
+      "title": "Azure Virtual Network (VNET) - Gerenciando Redes Virtuais",
+      "url": "https://www.udemy.com/course/azure-virtual-network/"
+    },
+    {
+      "title": "【サイバーセキュリティ 実践】ハンズオンで学ぶWeb3におけるブロックチェーンとスマートコントラクトのセキュリティ",
+      "url": "https://www.udemy.com/course/bugbounty-web3-smartcontracts/"
+    },
+    {
+      "title": "Beginners Ethical Hacking Course",
+      "url": "https://www.udemy.com/course/beginners-ethical-hacking-course/"
+    },
+    {
+      "title": "Kendi Güvenli Ağınızı Oluşturun ve Para Kazanın VPN Oluştur!",
+      "url": "https://www.udemy.com/course/vpn-olustur-sat-para-kazan/"
+    },
+    {
+      "title": "Nmap: Uso Profesional & Avanzado - ExorciseThat",
+      "url": "https://www.udemy.com/course/nmap-uso-profesional-avanzado-exorcisethat/"
+    },
+    {
+      "title": "พื้นฐานและการใช้งาน IPv6 [2022]",
+      "url": "https://www.udemy.com/course/basic-ipv6-2022/"
+    },
+    {
+      "title": "Aprenda Firewall pfsense v2024 - Direto ao assunto",
+      "url": "https://www.udemy.com/course/aprenda-firewall-pfsense-v2023/"
+    },
+    {
+      "title": "Techniques avancées de reconnaissance passive avec Shodan",
+      "url": "https://www.udemy.com/course/recon-shodan/"
+    },
+    {
+      "title": "Curso prático de VPN com WireGuard + 3 topologias",
+      "url": "https://www.udemy.com/course/wireguard/"
+    },
+    {
+      "title": "Cloud-Grundlagen für Techniker: Microsoft 365",
+      "url": "https://www.udemy.com/course/cloud-grundlagen-fur-techniker-microsoft-365/"
+    },
+    {
+      "title": "【IoT体験ガイド】JavaScriptとArduinoを使ってIoTハンズオンに挑戦しよう！",
+      "url": "https://www.udemy.com/course/try-iot-javascript-with-arduino-grove/"
+    },
+    {
+      "title": "Troubleshooting de Redes Industriais com Wireshark!",
+      "url": "https://www.udemy.com/course/troubleshooting-de-redes-industriais-com-wireshark/"
+    },
+    {
+      "title": "Curso Redes FTTH GPON",
+      "url": "https://www.udemy.com/course/curso-redes-ftth-gpon/"
+    },
+    {
+      "title": "Curso de Rede de computadores do básico ao avançado",
+      "url": "https://www.udemy.com/course/rede-de-computadores-do-basico-ao-avancado/"
+    },
+    {
+      "title": "Sécurité internet, mots de passe - les conseils pratiques",
+      "url": "https://www.udemy.com/course/securite-internet-mots-de-passe/"
+    },
+    {
+      "title": "Informática Forense",
+      "url": "https://www.udemy.com/course/introduccion-a-la-informatica-forense/"
+    },
+    {
+      "title": "Cisco CCNA Routing & Switching - Examen (200-125)",
+      "url": "https://www.udemy.com/course/cisco-ccna-routing-switching-examen-200-125/"
+    },
+    {
+      "title": "PRTG: Trabalhando com APIs",
+      "url": "https://www.udemy.com/course/prtg-apis/"
+    },
+    {
+      "title": "Cisco CCNA 200-301 + Firewall Cisco ASA - 2024",
+      "url": "https://www.udemy.com/course/cisco-ccna-200-301-firewall-cisco-asa-2024/"
+    },
+    {
+      "title": "WAZUH - Le Guide Complet",
+      "url": "https://www.udemy.com/course/wazuh-le-guide-complet/"
+    },
+    {
+      "title": "Curso Cisco CCNP y CCIE Enterprise ENCOR 350-401 (Español)",
+      "url": "https://www.udemy.com/course/curso-cisco-ccnp-enterprise-encor/"
+    },
+    {
+      "title": "Torne-se um Hacker Ético. Aprenda do Básico ao Avançado!",
+      "url": "https://www.udemy.com/course/torne-se-um-hacker-etico-aprenda-do-basico-ao-avancado/"
+    },
+    {
+      "title": "[Hindi]-CCNA Routing and Switching Full Course in Hindi",
+      "url": "https://www.udemy.com/course/hindi-ccna-routing-and-switching-full-course-in-hindi/"
+    },
+    {
+      "title": "Cyber Security & Network Protection",
+      "url": "https://www.udemy.com/course/cyber-security-network-protection/"
+    },
+    {
+      "title": "Hacking Ético Web From Zero to Root",
+      "url": "https://www.udemy.com/course/hacking-etico-web-from-zero-to-root/"
+    },
+    {
+      "title": "디지털 리터러시 - 인터넷과 네트워크 실무 기술",
+      "url": "https://www.udemy.com/course/maso-ds-excel-onc53-1/"
+    },
+    {
+      "title": "Das Dark Web für Anfänger:innen",
+      "url": "https://www.udemy.com/course/das-dark-web-fur-anfangerinnen/"
+    },
+    {
+      "title": "OSINT: analisi e investigazioni con OpenSource Intelligence",
+      "url": "https://www.udemy.com/course/osint-analisi-e-investigazioni-con-opensource-intelligence/"
+    },
+    {
+      "title": "Curso de CCNA 200-301",
+      "url": "https://www.udemy.com/course/curso-ccna-cisco/"
+    },
+    {
+      "title": "Web開発ソフトウェアテスト徹底攻略 (React Hooks/Redux + Django REST API)",
+      "url": "https://www.udemy.com/course/web-react-hooksredux-django-rest-api/"
+    },
+    {
+      "title": "SD-WAN: Implementação e Gestão Eficaz - [2025]",
+      "url": "https://www.udemy.com/course/sd-wan-no-fortigate-implementacao-e-gestao-eficaz-2024/"
+    },
+    {
+      "title": "E-mail com Postfix 2.0",
+      "url": "https://www.udemy.com/course/email-com-postfix/"
+    },
+    {
+      "title": "Network Keşif, Bilgi Toplama ve Saldırı Eğitimi",
+      "url": "https://www.udemy.com/course/network-kesif-bilgi-toplama-saldiri-egitimi/"
+    },
+    {
+      "title": "Komple Uygulamalı Network Hacking",
+      "url": "https://www.udemy.com/course/uygulamali-network-hacking/"
+    },
+    {
+      "title": "Ruijie Switching Eğitimi",
+      "url": "https://www.udemy.com/course/ruijie-switching-egitimi/"
+    },
+    {
+      "title": "Curso Completo de Segurança e Auditoria de Sistemas",
+      "url": "https://www.udemy.com/course/curso-completo-de-seguranca-e-auditoria-de-sistemas/"
+    },
+    {
+      "title": "Monitoramento de Rede - MBA PRTG Network Monitor - Mod. IV",
+      "url": "https://www.udemy.com/course/mba-prtg-network-monitor-mod-iv/"
+    },
+    {
+      "title": "Initiation à la Cryptologie : L'art de décryptage",
+      "url": "https://www.udemy.com/course/la-cryptologie/"
+    },
+    {
+      "title": "An toàn thông tin - Security for BA và Tester",
+      "url": "https://www.udemy.com/course/an-toan-thong-tin-security-for-ba-va-tester/"
+    },
+    {
+      "title": "Apprenez à Hacker Des Sites Web Wordpress et à les Sécuriser",
+      "url": "https://www.udemy.com/course/wordpress-pentest/"
+    },
+    {
+      "title": "Ciberseguridad: Análisis y detección de phishing con OSINT",
+      "url": "https://www.udemy.com/course/ciberseguridad-analisis-y-deteccion-de-phishing-con-osint/"
+    },
+    {
+      "title": "HTML para Hackers do Bem: Encontre Vulnerabilidades em Sites",
+      "url": "https://www.udemy.com/course/html-para-hackers-do-bem-encontre-vulnerabilidades-em-sites/"
+    },
+    {
+      "title": "Maitrisez ChatGPT pour la Cybersécurité : Approches Avancées",
+      "url": "https://www.udemy.com/course/cybersecurite-basee-sur-lintelligence-artificielle/"
+    },
+    {
+      "title": "Da 0 ad Ethical Hacker - Advanced",
+      "url": "https://www.udemy.com/course/da-0-ad-ethical-hacker-parte-2/"
+    },
+    {
+      "title": "Masters In Ethical Hacking Course In Hindi",
+      "url": "https://www.udemy.com/course/ethical-hacking-course-in-hindi-2021/"
+    },
+    {
+      "title": "Kubernetes for the Absolute Beginners - Hands-on",
+      "url": "https://www.udemy.com/course/learn-kubernetes/"
+    },
+    {
+      "title": "Hacking Ético: Técnicas de Ataque Con Phishing En Pentesting",
+      "url": "https://www.udemy.com/course/hacking-etico-tecnicas-de-ataque-con-phishing-en-pentesting/"
+    },
+    {
+      "title": "Sicurezza Informatica & Cybersecurity 101 | Inizia la Sfida!",
+      "url": "https://www.udemy.com/course/sicurezza-informatica-cybersecurity-101-inizia-la-sfida/"
+    },
+    {
+      "title": "Instalação e Configuração de VPS Cloud com painel grátis",
+      "url": "https://www.udemy.com/course/instalacao-e-configuracao-de-vps-cloud-com-painel-gratis/"
+    },
+    {
+      "title": "Craxs RAT V8 Download FREE – Ethical Hacking Android BRASIL",
+      "url": "https://www.udemy.com/course/craxs-rat-v80-controle-total-e-remoto-iphone-android/"
+    },
+    {
+      "title": "ChatGPT como Herramienta y consultoría de Hacking ético",
+      "url": "https://www.udemy.com/course/chatgpt-como-herramienta-hacking/"
+    },
+    {
+      "title": "Uygulamalı Etik Sızma Testi Eğitimi",
+      "url": "https://www.udemy.com/course/metasploit-ile-uygulamali-etik-sizma-testi-egitimi/"
+    },
+    {
+      "title": "Windows Server 2019",
+      "url": "https://www.udemy.com/course/windowsserver-2019/"
+    },
+    {
+      "title": "Técnicas de Hacking",
+      "url": "https://www.udemy.com/course/tecnicas-de-hacking/"
+    },
+    {
+      "title": "Un paso a la Certificación Oficial Palo Alto Networks PCNSA",
+      "url": "https://www.udemy.com/course/un-paso-a-la-certificacion-oficial-palo-alto-networks-pcnsa/"
+    },
+    {
+      "title": "HACKING ÉTHIQUE | Le Hacker de Facebook",
+      "url": "https://www.udemy.com/course/hacking-ethique-pirater-compte-facebook/"
+    },
+    {
+      "title": "Corso pratico MikroTik: Sblocca il Potenziale del tuo Router",
+      "url": "https://www.udemy.com/course/corso-pratico-mikrotik-sblocca-il-potenziale-del-tuo-router/"
+    },
+    {
+      "title": "Theoretische Kryptographie",
+      "url": "https://www.udemy.com/course/theoretische-kryptographie/"
+    },
+    {
+      "title": "5º Zabbix 5.0 Construindo templates personalizados (TS)",
+      "url": "https://www.udemy.com/course/5o-zabbix-construindo-templates-personalizados-ts/"
+    },
+    {
+      "title": "O básico e profissional do monitoramento com ZABBIX 5.2",
+      "url": "https://www.udemy.com/course/zabbix-52-essencial/"
+    },
+    {
+      "title": "Sécuriser votre réseau avec le parefeu Opnsense [2024]",
+      "url": "https://www.udemy.com/course/securiser-un-reseau-avec-opnsense-2023/"
+    },
+    {
+      "title": "Penetration Testing Student | eJPTv2",
+      "url": "https://www.udemy.com/course/penetration-testing-student-ejptv2-r/"
+    },
+    {
+      "title": "Normas de Segurança da Informação",
+      "url": "https://www.udemy.com/course/normas-de-seguranca-da-informacao/"
+    },
+    {
+      "title": "الهكر الأخلاقي الامن السيبراني ( متوسط ) 02",
+      "url": "https://www.udemy.com/course/02-chnwg/"
+    },
+    {
+      "title": "Realizando análises de vulnerabilidades de TI com o OpenVAS",
+      "url": "https://www.udemy.com/course/realizando-analises-de-vulnerabilidades-de-ti-com-o-openvas/"
+    },
+    {
+      "title": "Uso avanzado de nmap",
+      "url": "https://www.udemy.com/course/uso-avanzado-de-nmap/"
+    },
+    {
+      "title": "Mastering Mobile Core Networks | CS/PS/EPC",
+      "url": "https://www.udemy.com/course/mastering-mobile-core-networks-cspsepc/"
+    },
+    {
+      "title": "Bacula 3: bpipe para stream de dumps e clones no seu backup",
+      "url": "https://www.udemy.com/course/bacula-3-bpipe-plugin-hot-backup-pt/"
+    },
+    {
+      "title": "LGPD na Prática para Pequenas Empresas e Startups",
+      "url": "https://www.udemy.com/course/lgpd-na-pratica-para-pequenas-e-medias-empresas/"
+    },
+    {
+      "title": "Cisco StealthWatch Fundamentals - Introdução ao StealthWatch",
+      "url": "https://www.udemy.com/course/cisco-stealthwatch-fundamentals/"
+    },
+    {
+      "title": "MikroTik RouterOS - Wireless",
+      "url": "https://www.udemy.com/course/mikrotik-mtcna-oficial-modulo-5-wireless/"
+    },
+    {
+      "title": "Fundamentos de Perícia Digital e Investigação Online",
+      "url": "https://www.udemy.com/course/fundamentos-de-pericia-digital-e-investigacao-online/"
+    },
+    {
+      "title": "駭客技術入門基礎（The introduction of computer hacker）",
+      "url": "https://www.udemy.com/course/qtxzezqg/"
+    },
+    {
+      "title": "Aprende a HACKEAR Cualquier PC y Celular, Hacking Etico!!",
+      "url": "https://www.udemy.com/course/aprende-a-hackear-cualquier-pc-y-celular/"
+    },
+    {
+      "title": "SAP BI Berechtigungen sind einfach",
+      "url": "https://www.udemy.com/course/sap-bi-berechtigungen-sind-einfach/"
+    },
+    {
+      "title": "Burp Suite ile Web Hacking",
+      "url": "https://www.udemy.com/course/burp-suite-ile-web-hacking/"
+    },
+    {
+      "title": "2G/3G RF Drive Test",
+      "url": "https://www.udemy.com/course/2g-3g-rf-drive-test/"
+    },
+    {
+      "title": "LPI Security Essentials. Certificación Completa. Exámenes",
+      "url": "https://www.udemy.com/course/lpi-security-essentials-certificacion-completa-examenes/"
+    },
+    {
+      "title": "Conceitos de Rede e TCPIP",
+      "url": "https://www.udemy.com/course/conceitos-de-rede-e-tcpip/"
+    },
+    {
+      "title": "Desarrollo Seguro de Aplicaciones con Java+OWASP+DevSecOps",
+      "url": "https://www.udemy.com/course/desarrollo-seguro-de-aplicaciones-con-javaowaspdevsecops/"
+    },
+    {
+      "title": "Cloud Security per Ethical Hacker! 100% Pratico!",
+      "url": "https://www.udemy.com/course/cloud-security-per-ethical-hacker-esperti-in-sicurezza/"
+    },
+    {
+      "title": "Grundlagen der Netzwerktechnik: Dein Einstieg in die IT-Welt",
+      "url": "https://www.udemy.com/course/grundlagen-der-netzwerktechnik-dein-einstieg-in-die-it-welt/"
+    },
+    {
+      "title": "Seguridad de la información",
+      "url": "https://www.udemy.com/course/seguridad-de-la-informacion-t/"
+    },
+    {
+      "title": "Privilege Escalation - 2 (GNU Linux)",
+      "url": "https://www.udemy.com/course/privilege-escalation-2-gnu-linux/"
+    },
+    {
+      "title": "Инфраструктура Открытых Ключей (PKI). Часть № 1.",
+      "url": "https://www.udemy.com/course/pki-no-1/"
+    },
+    {
+      "title": "RANSOMWARE: Um dos ataques mais ocorrido nos últimos 5 anos",
+      "url": "https://www.udemy.com/course/ransomware-um-dos-ataques-mais-ocorrido-nos-ultimos-5-anos/"
+    },
+    {
+      "title": "MPLS VPN: Cours complet + Exercices corrigés",
+      "url": "https://www.udemy.com/course/reseaux-informatiques-mpls-demystifie-freestyle/"
+    },
+    {
+      "title": "CCNA: El Camino a la Maestría en Redes Cisco | 100% Práctico",
+      "url": "https://www.udemy.com/course/cisco-ccna-100-practico-switch-y-router-nivel-basico/"
+    },
+    {
+      "title": "Arquitetura de Redes - Diagramas de Redes Físicos e Lógicos",
+      "url": "https://www.udemy.com/course/arquitetura-de-redes/"
+    },
+    {
+      "title": "Curso de Cisco FirePower FTD | Parte-1 FDM (Español)",
+      "url": "https://www.udemy.com/course/curso-cisco-firepower-part-1/"
+    },
+    {
+      "title": "Kurumsal Sistemlerde Zirveye | Tam Paket | 120 + Saat",
+      "url": "https://www.udemy.com/course/kurumsal-sistemlerde-zirveye-tam-paket/"
+    },
+    {
+      "title": "Preparación y Evaluación de Proyectos en Telecomunicaciones",
+      "url": "https://www.udemy.com/course/preparacion-y-evaluacion-de-proyectos-en-telecomunicaciones/"
+    },
+    {
+      "title": "Metasploit Framework - Ethical Hacking für jedermann",
+      "url": "https://www.udemy.com/course/metasploit-framework/"
+    },
+    {
+      "title": "Proxmox Expert - ATUALIZADO 8.4.1",
+      "url": "https://www.udemy.com/course/proxmox-expert/"
+    },
+    {
+      "title": "Cisco ASA Firewall 9.X Training in Urdu/Hindi",
+      "url": "https://www.udemy.com/course/cisco-asa-firewall-9x-training-in-urduhindi/"
+    },
+    {
+      "title": "Sıfırdan Uzmanlığa : Uygulamalı Splunk Eğitimi",
+      "url": "https://www.udemy.com/course/splunk-kursu/"
+    },
+    {
+      "title": "[Hindi] CCNP ENCOR In Hindi",
+      "url": "https://www.udemy.com/course/hindi-ccnp-encor-in-hindi/"
+    },
+    {
+      "title": "Kiến thức và thực hành cơ bản về an ninh mạng",
+      "url": "https://www.udemy.com/course/kien-thuc-co-ban-ve-an-ninh-mang/"
+    },
+    {
+      "title": "Hacking ético Curso Completo - Practico [Entorno Reales]",
+      "url": "https://www.udemy.com/course/hacking-etico-curso-completo-basico-hasta-avanzado/"
+    },
+    {
+      "title": "Curso de Instalação de Alarmes - Básico",
+      "url": "https://www.udemy.com/course/curso-de-instalacao-de-alarmes/"
+    },
+    {
+      "title": "Cisco Identity Services Engine (ISE) Training in Urdu/Hindi",
+      "url": "https://www.udemy.com/course/cisco-identity-services-engine-ise-training-in-hindiurdu/"
+    },
+    {
+      "title": "Cisco Routing&Switching Ağ Topolojileri | Lab. Uygulamaları",
+      "url": "https://www.udemy.com/course/cisco-routingswitching-ag-topolojileri-lab-uygulamalar/"
+    },
+    {
+      "title": "Intensywny Hacking w Praktyce: Poziom Zaawansowany",
+      "url": "https://www.udemy.com/course/szkola-hakerow-intensywny-hacking-w-praktyce-poziom-zaawansowany/"
+    },
+    {
+      "title": "Apprendre à programmer des virus par la pratique",
+      "url": "https://www.udemy.com/course/apprendre-a-programmer-des-virus-par-la-pratique/"
+    },
+    {
+      "title": "Phishing. Jak hakerzy atakują mailami, jak się chronić?",
+      "url": "https://www.udemy.com/course/phishing-czyli-wykrywanie-oszustwa-w-mailu/"
+    },
+    {
+      "title": "web application penetration testing Arabic",
+      "url": "https://www.udemy.com/course/web-application-penetration-testing-arabic/"
+    },
+    {
+      "title": "Kali Linux Purple - Edizione 2024",
+      "url": "https://www.udemy.com/course/kali-linux-purple/"
+    },
+    {
+      "title": "5G NR in ARABIC BULLETs",
+      "url": "https://www.udemy.com/course/5g-nr-in-arabic-bullets/"
+    },
+    {
+      "title": "Detecção de Intrusos com AIDE",
+      "url": "https://www.udemy.com/course/deteccao-de-intrusos-com-aide/"
+    },
+    {
+      "title": "CISCO CCNA Lab Routing",
+      "url": "https://www.udemy.com/course/cisco-ccna-lab-routing/"
+    },
+    {
+      "title": "Curso de F5 BIG-IP LTM Local Traffic Manager (Português)",
+      "url": "https://www.udemy.com/course/curso-f5-big-ip-ltm/"
+    },
+    {
+      "title": "Treinamento GLPI: Domine a Gestão de TI",
+      "url": "https://www.udemy.com/course/treinamento-glpi-10/"
+    },
+    {
+      "title": "Fundamentos de Segurança de Aplicações - AppSec",
+      "url": "https://www.udemy.com/course/appsec-fundamentos/"
+    },
+    {
+      "title": "Ethical Hacking & Pentesting in Active Directory! Pratico!",
+      "url": "https://www.udemy.com/course/ethical-hacking-pentesting-in-microsoft-active-directory/"
+    },
+    {
+      "title": "Introducción a la Ciberseguridad",
+      "url": "https://www.udemy.com/course/introduccion-a-la-ciberseguridad/"
+    },
+    {
+      "title": "Computer Science: Cloud Computing Prerequisites",
+      "url": "https://www.udemy.com/course/cloud-prerequisite/"
+    },
+    {
+      "title": "Administrador Debian GNU/Linux",
+      "url": "https://www.udemy.com/course/administrador-debian-gnu-linux/"
+    },
+    {
+      "title": "Gestión de Ciberseguridad con NIST CSF v1.1",
+      "url": "https://www.udemy.com/course/gestion-de-la-ciberseguridad-con-el-nuevo-nist-csf-v11-2018/"
+    },
+    {
+      "title": "Home Automation - O passo a passo para uma casa inteligente.",
+      "url": "https://www.udemy.com/course/home-automation-o-passo-a-passo-para-uma-casa-inteligente/"
+    },
+    {
+      "title": "Cyber Security Fundamental by RWID",
+      "url": "https://www.udemy.com/course/cyber-security-fundamental-for-beginner/"
+    },
+    {
+      "title": "Mikrotik Temel Eğitimi",
+      "url": "https://www.udemy.com/course/mikrotik-temel-egitimi/"
+    },
+    {
+      "title": "Privilege Escalation (Windows)",
+      "url": "https://www.udemy.com/course/privilege-escalation-windows/"
+    },
+    {
+      "title": "CCNA Security en Español para principiantes",
+      "url": "https://www.udemy.com/course/ccna-security-en-espanol/"
+    },
+    {
+      "title": "IT-Forensik, Überwachungsmethoden und Datenspionage",
+      "url": "https://www.udemy.com/course/it-forensik-kurs/"
+    },
+    {
+      "title": "Cisco NGFW Firepower Threat Defense Training in Urdu/Hindi",
+      "url": "https://www.udemy.com/course/cisco-ngfw-firepower-threat-defense-training-in-urduhindi/"
+    },
+    {
+      "title": "Curso de VPN SITE-TO-SITE + IPSEC",
+      "url": "https://www.udemy.com/course/curso-de-vpn-site-to-site-ipsec/"
+    },
+    {
+      "title": "Configurer et Administrer un SWITCH (commutateur) CISCO",
+      "url": "https://www.udemy.com/course/configurer-et-administrer-un-commutateur-cisco/"
+    },
+    {
+      "title": "Bezpieczeństwo sieci Cisco",
+      "url": "https://www.udemy.com/course/bezpieczenstwo-sieci-cisco/"
+    },
+    {
+      "title": "VPN L2TP - Mikrotilk Detalhado",
+      "url": "https://www.udemy.com/course/vpn-l2tp-mikrotilk-detalhado-free-gratuito/"
+    },
+    {
+      "title": "Bezpieczeństwo aplikacji webowych - zabezpiecz dane i strony",
+      "url": "https://www.udemy.com/course/kurs-bezpieczenstwo-aplikacji-webowych/"
+    },
+    {
+      "title": "Mikrotik Autenticação por Vlans",
+      "url": "https://www.udemy.com/course/mikrotik-autenticacao-por-vlans/"
+    },
+    {
+      "title": "Hacking Éthique avec Metasploit",
+      "url": "https://www.udemy.com/course/metaspoit-debutant/"
+    },
+    {
+      "title": "Crie um Serviço de Backup em Nuvem com Bacula Community",
+      "url": "https://www.udemy.com/course/bacula-cloud/"
+    },
+    {
+      "title": "실습 위주의 안드로이드 어플리케이션 해킹 기초 강의 (Android Application Hacking)",
+      "url": "https://www.udemy.com/course/android-application-hacking/"
+    },
+    {
+      "title": "Introduzione all'Ethical Hacking di App Android",
+      "url": "https://www.udemy.com/course/introduzione-ethical-hacking-di-app-android/"
+    },
+    {
+      "title": "Learn Complete Ethical Hacking by Black Hat Pakistan",
+      "url": "https://www.udemy.com/course/ethical-hacking-course-from-beginner-to-advance-level-2021/"
+    }
+  ]
+}

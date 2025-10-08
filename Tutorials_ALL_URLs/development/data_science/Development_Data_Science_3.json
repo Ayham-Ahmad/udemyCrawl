@@ -1,0 +1,2062 @@
+{
+  "main_category": "development",
+  "sub_category": "Data Science",
+  "courses": [
+    {
+      "title": "Machine Learning in 30 mins: fast practice",
+      "url": "https://www.udemy.com/course/machine-learning-for-absolute-beginners-build-3-models/"
+    },
+    {
+      "title": "Becoming a Data Wizard From Basics to Brilliance",
+      "url": "https://www.udemy.com/course/the-data-analyst-course-complete-data-analyst-bootcamp-2023/"
+    },
+    {
+      "title": "Machine Learning and Data Science in STATA",
+      "url": "https://www.udemy.com/course/machine-learning-and-data-science-in-stata/"
+    },
+    {
+      "title": "Applied ML: Build NLP text embeddings using python",
+      "url": "https://www.udemy.com/course/applied-ml-build-nlp-text-embeddings-using-python/"
+    },
+    {
+      "title": "Real data science problems with Python",
+      "url": "https://www.udemy.com/course/real-data-science-problems-with-python/"
+    },
+    {
+      "title": "Python & ChatGPT for A-Z Data Science and Machine Learning",
+      "url": "https://www.udemy.com/course/data-science-full-course-all-in-one/"
+    },
+    {
+      "title": "Learn Data Science and Machine Learning on Microsoft Azure",
+      "url": "https://www.udemy.com/course/learn-data-science-and-machine-learning-on-microsoft-azure/"
+    },
+    {
+      "title": "Data Science with Machine Learning Algorithm using Python",
+      "url": "https://www.udemy.com/course/data-science-with-machine-learning-algorithm-using-python/"
+    },
+    {
+      "title": "Natural Language Preprocessing Using spaCy",
+      "url": "https://www.udemy.com/course/spacy-with-nlp/"
+    },
+    {
+      "title": "Machine Learning With Python: Predicting Customer Churn",
+      "url": "https://www.udemy.com/course/machine-learning-with-python-predicting-customer-churn/"
+    },
+    {
+      "title": "Machine Learning Algorithms, Tutorial",
+      "url": "https://www.udemy.com/course/smtbm-ml-py/"
+    },
+    {
+      "title": "AI Infrastructure and Operations (NCA-AIIO) - Mock Exams",
+      "url": "https://www.udemy.com/course/certified-associate-ai-infrastructure-and-operations/"
+    },
+    {
+      "title": "Data Science: Bayesian Linear Regression in Python",
+      "url": "https://www.udemy.com/course/data-science-bayesian-linear-regression-in-python/"
+    },
+    {
+      "title": "MLOps: Real-World Machine Learning Projects for Professional",
+      "url": "https://www.udemy.com/course/mlops-real-world-machine-learning-projects-for-professional/"
+    },
+    {
+      "title": "AI Essentials: A Beginner's Guide to Artificial Intelligence",
+      "url": "https://www.udemy.com/course/ai-essentials-beginners-guide-artificial-intelligence/"
+    },
+    {
+      "title": "Machine Learning & Deep Learning in Python & R",
+      "url": "https://www.udemy.com/course/data_science_a_to_z/"
+    },
+    {
+      "title": "Deep Learning Fundamentals",
+      "url": "https://www.udemy.com/course/deep-learning-artificial-neural-network/"
+    },
+    {
+      "title": "Deep Learning for Image Classification in Python with CNN",
+      "url": "https://www.udemy.com/course/deep-learning-cnn/"
+    },
+    {
+      "title": "Real World Auto Machine Learning Bootcamp: Build 14 Projects",
+      "url": "https://www.udemy.com/course/real-world-automated-machine-learning-projects/"
+    },
+    {
+      "title": "Lazy Trading Part 6: Detect Market status with AI",
+      "url": "https://www.udemy.com/course/detect-market-status-with-ai/"
+    },
+    {
+      "title": "Mobile VR Virtual Reality & Artificial Intelligence in Unity",
+      "url": "https://www.udemy.com/course/complete-virtual-reality-artificial-intelligence-in-unity/"
+    },
+    {
+      "title": "Learning Path: Java: Natural Language Processing with Java",
+      "url": "https://www.udemy.com/course/learning-path-java-natural-language-processing-with-java/"
+    },
+    {
+      "title": "YOLO-NAS The Ultimate Course for Object Detection & Tracking",
+      "url": "https://www.udemy.com/course/yolo-nas-the-ultimate-course-for-object-detection-tracking/"
+    },
+    {
+      "title": "12 Myths About Data Science and AI",
+      "url": "https://www.udemy.com/course/12-myths-about-data-science-and-ai/"
+    },
+    {
+      "title": "SciKit-Learn in Python for Machine Learning Engineers",
+      "url": "https://www.udemy.com/course/scikit-learn-in-python-for-machine-learning-engineers/"
+    },
+    {
+      "title": "Supervised Machine Learning for beginners",
+      "url": "https://www.udemy.com/course/supervised-machine-learning-for-beginners/"
+    },
+    {
+      "title": "Complete Infrastructure As Code For Beginners to Advanced",
+      "url": "https://www.udemy.com/course/infrastructure-as-code-beginners/"
+    },
+    {
+      "title": "Data Analysis Fundamentals | Python | ChatGPT 3.5",
+      "url": "https://www.udemy.com/course/easy-python-hacks-for-mastering-data-manipulation-techniques/"
+    },
+    {
+      "title": "Certified Generative AI Architect with Knowledge Graphs",
+      "url": "https://www.udemy.com/course/certified_generative_ai_architect_with_knowledge_graphs/"
+    },
+    {
+      "title": "Data Science Interview Questions & Answers",
+      "url": "https://www.udemy.com/course/data-science-interview-questions-and-answers/"
+    },
+    {
+      "title": "Make predictions with Python machine learning for apps",
+      "url": "https://www.udemy.com/course/pythonmachinelearning/"
+    },
+    {
+      "title": "Deep Learning: Convolutional Neural Networks for developers",
+      "url": "https://www.udemy.com/course/convolutional-neural-net-cnn-for-developers/"
+    },
+    {
+      "title": "55 Days of Tableau Complete Masterclass",
+      "url": "https://www.udemy.com/course/tableau-complete-masterclass/"
+    },
+    {
+      "title": "Advanced Data Analysis using Wavelets and Machine Learning",
+      "url": "https://www.udemy.com/course/advanced-data-analysis-using-wavelets-and-machine-learning/"
+    },
+    {
+      "title": "Master Deep Learning using Case Studies : Beginner-Advance",
+      "url": "https://www.udemy.com/course/master-deep-learning-using-case-studies-beginner-advance/"
+    },
+    {
+      "title": "Data Science | The Power of ChatGPT in Python & Data Science",
+      "url": "https://www.udemy.com/course/data-science-the-power-of-chatgpt-in-python-data-science/"
+    },
+    {
+      "title": "NeuroEvolution of Augmenting Topologies NEAT Neural Networks",
+      "url": "https://www.udemy.com/course/neuroevolution-of-augmenting-topologies-neat/"
+    },
+    {
+      "title": "The Complete Deep Learning Course 2024 With 7+ Real Projects",
+      "url": "https://www.udemy.com/course/the-complete-deep-learning-course-2021-with-7-real-projects/"
+    },
+    {
+      "title": "The Data Science Course: Complete Data Science Bootcamp 2025",
+      "url": "https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/"
+    },
+    {
+      "title": "Power BI and Tableau Projects [7 Assignments, Real Exposure]",
+      "url": "https://www.udemy.com/course/power-bi-projects-your-guide-to-mastering-data-analysis/"
+    },
+    {
+      "title": "Generative AI Masterclass: Python, HuggingFace & 7 Projects",
+      "url": "https://www.udemy.com/course/generative-ai-complete-guide-with-python-hugging-face-2025/"
+    },
+    {
+      "title": "Deep Learning in Practice III: Face Recognition",
+      "url": "https://www.udemy.com/course/deep-learning-in-practice-iii/"
+    },
+    {
+      "title": "AI Engineer Associate Certificate Course",
+      "url": "https://www.udemy.com/course/ai-engineer-associate-certificate-course/"
+    },
+    {
+      "title": "Mining and Analyzing LinkedIn Data",
+      "url": "https://www.udemy.com/course/mining-and-analyzing-linkedin-data/"
+    },
+    {
+      "title": "AI in Coding & Data Science: Master ChatGPT, GitHub Copilot",
+      "url": "https://www.udemy.com/course/master-ai-assisted-coding-with-chatgpt/"
+    },
+    {
+      "title": "Supervised Machine Learning Principles and Practices-Python",
+      "url": "https://www.udemy.com/course/supervised-machine-learning-principles-and-practices-python/"
+    },
+    {
+      "title": "Pro data science in Python",
+      "url": "https://www.udemy.com/course/pro-data-science-in-python/"
+    },
+    {
+      "title": "R for Data Analysis: The Ultimate Beginner's Guide",
+      "url": "https://www.udemy.com/course/nonprofit-data-analysis-using-r/"
+    },
+    {
+      "title": "Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2025]",
+      "url": "https://www.udemy.com/course/machinelearning/"
+    },
+    {
+      "title": "Advanced Apache Spark for Data Scientists and Developers",
+      "url": "https://www.udemy.com/course/advanced-apache-spark-for-data-scientists-and-developers/"
+    },
+    {
+      "title": "Machine Learning for Finance",
+      "url": "https://www.udemy.com/course/machine-learning-for-finance/"
+    },
+    {
+      "title": "Building Credit Card Fraud Detection with Machine Learning",
+      "url": "https://www.udemy.com/course/building-credit-card-fraud-detection-with-machine-learning/"
+    },
+    {
+      "title": "Machine Learning Practical Course: Build 30 Projects",
+      "url": "https://www.udemy.com/course/machine-learning-practical-course-build-real-world-projects/"
+    },
+    {
+      "title": "The definitive intro to big data science",
+      "url": "https://www.udemy.com/course/the-definitive-intro-to-big-data-science/"
+    },
+    {
+      "title": "Master Numpy Foundation and Practice Challenging Exercises",
+      "url": "https://www.udemy.com/course/master-numpy-foundation-and-practice-challenging-exercises/"
+    },
+    {
+      "title": "Credit Risk Prediction Project From Scratch in Python",
+      "url": "https://www.udemy.com/course/credit-risk-prediction-project-from-scratch-in-python/"
+    },
+    {
+      "title": "AWS Sagemaker 2018- Fully Managed Machine Learning Service",
+      "url": "https://www.udemy.com/course/sagemaker/"
+    },
+    {
+      "title": "Emotion Detection Machine Learning Project with YOLOv7 Model",
+      "url": "https://www.udemy.com/course/emotion-detection-using-yolov7-complete-project-course/"
+    },
+    {
+      "title": "Unlocking the Power of ArcPy: GIS Automation in ArcGIS Pro",
+      "url": "https://www.udemy.com/course/unlocking-the-power-of-arcpy-gis-automation-in-arcgis-pro/"
+    },
+    {
+      "title": "Natural Language Processing (NLP) with NLTK and Scikit-learn",
+      "url": "https://www.udemy.com/course/natural-language-processing-nlp-with-nltk-and-scikit-learn/"
+    },
+    {
+      "title": "Data Science for AI and Machine Learning Using Python",
+      "url": "https://www.udemy.com/course/data-scientist-for-ai-and-machine-learning-using-python/"
+    },
+    {
+      "title": "Batch Processing with Apache Beam in Python",
+      "url": "https://www.udemy.com/course/apache-beam-python/"
+    },
+    {
+      "title": "R: Complete Machine Learning Solutions",
+      "url": "https://www.udemy.com/course/r-complete-machine-learning-solutions/"
+    },
+    {
+      "title": "Deep Learning : Plunge into Deep Learning",
+      "url": "https://www.udemy.com/course/plunge-into-deep-learning/"
+    },
+    {
+      "title": "Machine Learning for Algorithmic Trading Bots with Python",
+      "url": "https://www.udemy.com/course/machine-learning-for-algorithmic-trading-bots-with-python/"
+    },
+    {
+      "title": "Master Automated Machine Learning :Build Real World Projects",
+      "url": "https://www.udemy.com/course/build-multiple-machine-learning-projects/"
+    },
+    {
+      "title": "Seaborn Mastery: Comprehensive Data Visualization in Python",
+      "url": "https://www.udemy.com/course/mastering-python-data-visualization-with-seaborn/"
+    },
+    {
+      "title": "SQL Mastery with Generative AI: From Beginner to Expert",
+      "url": "https://www.udemy.com/course/sql-mastery-with-generative-ai-from-beginner-to-expert/"
+    },
+    {
+      "title": "Introduction to Artificial Intelligence (AI)",
+      "url": "https://www.udemy.com/course/introduction-to-artificial-intelligence-ai-o/"
+    },
+    {
+      "title": "Mathematics for AI & ML Developers : The Complete Course",
+      "url": "https://www.udemy.com/course/mathematics-for-ai-ml-developers-the-complete-course/"
+    },
+    {
+      "title": "Introduction to ML Classification Models using scikit-learn",
+      "url": "https://www.udemy.com/course/introduction-to-ml-classification-models-using-scikit-learn/"
+    },
+    {
+      "title": "Mastering AI Tools",
+      "url": "https://www.udemy.com/course/mastering-ai-tools/"
+    },
+    {
+      "title": "Automated Machine Learning Hands on AutoML for beginners",
+      "url": "https://www.udemy.com/course/automated-machine-learning-hands-on-automl-for-beginners/"
+    },
+    {
+      "title": "dbt (Data Build Tool): The Analytics Engineering Guide",
+      "url": "https://www.udemy.com/course/dbt-data-build-tool-the-analytics-engineering-guide/"
+    },
+    {
+      "title": "Master Data Science: 5-in-1 Projects Data Interview ShowOff.",
+      "url": "https://www.udemy.com/course/data-science-projects-machine-learning-business-analysis-interview/"
+    },
+    {
+      "title": "Complete OpenAI API Masterclass for Beginners using Python",
+      "url": "https://www.udemy.com/course/ai-application-development-with-openai-chatgpt-and-python/"
+    },
+    {
+      "title": "Build On-Device AI",
+      "url": "https://www.udemy.com/course/build-on-device-ai/"
+    },
+    {
+      "title": "GPT‑4 NLP Projects: Build 9 Python Apps + Earn Badges",
+      "url": "https://www.udemy.com/course/gpt4-nlp-projects-beginners/"
+    },
+    {
+      "title": "Deep learning and Machine Learning with Python",
+      "url": "https://www.udemy.com/course/deep-learning-with-python-essential-deep-learning-concepts/"
+    },
+    {
+      "title": "Data science, machine learning, and analytics without coding",
+      "url": "https://www.udemy.com/course/data-science-machine-learning-and-analytics-without-coding/"
+    },
+    {
+      "title": "EDA / Descriptive Statistics using Python (Part - 1)",
+      "url": "https://www.udemy.com/course/eda-descriptive-statistics-using-python-part-1/"
+    },
+    {
+      "title": "Machine Learning, Business analytics with R Programming & Py",
+      "url": "https://www.udemy.com/course/complete-machine-learning-data-science-with-r-programming/"
+    },
+    {
+      "title": "Understanding AI for Beginners: The Essential Guide to AI",
+      "url": "https://www.udemy.com/course/understanding-ai-for-beginners-the-essential-guide-to-ai/"
+    },
+    {
+      "title": "Certified NVIDIA AI Expert: End-to-End GPU-Accelerated AI",
+      "url": "https://www.udemy.com/course/certified-nvidia-ai-expert/"
+    },
+    {
+      "title": "College Level Neural Nets [I] - Basic Nets: Math & Practice!",
+      "url": "https://www.udemy.com/course/deep-learning-neural-nets-with-math-derivations-part-1/"
+    },
+    {
+      "title": "AWS QuickSight - Full Course 2023 !",
+      "url": "https://www.udemy.com/course/amazon-aws-quicksight-full-course/"
+    },
+    {
+      "title": "Learn Data Wrangling with Python",
+      "url": "https://www.udemy.com/course/data-wrangling-with-python-in-1-hour/"
+    },
+    {
+      "title": "Simplified: All About Neural Networks",
+      "url": "https://www.udemy.com/course/simplified-all-about-neural-networks/"
+    },
+    {
+      "title": "Machine Learning with Java and Weka",
+      "url": "https://www.udemy.com/course/machine-learning-with-java-and-weka/"
+    },
+    {
+      "title": "Python Bootcamp for Data Analysis #4: NumPy",
+      "url": "https://www.udemy.com/course/python-bootcamp-for-data-analysis-4-numpy/"
+    },
+    {
+      "title": "Introduction To Machine Learning with Python for beginners",
+      "url": "https://www.udemy.com/course/python-machine-learning-sc/"
+    },
+    {
+      "title": "Data Science: Sparklyr Basics for Beginners",
+      "url": "https://www.udemy.com/course/learning-sparklyr-basics/"
+    },
+    {
+      "title": "Deep Learning Foundation",
+      "url": "https://www.udemy.com/course/deep-learning-foundation-training/"
+    },
+    {
+      "title": "Become a Data Analyst - Tableau | Python | Power BI | SQL",
+      "url": "https://www.udemy.com/course/become-a-data-analyst-tableau-python-power-bi-sql/"
+    },
+    {
+      "title": "YOLOv12: Custom Object Detection, Tracking & WebApps",
+      "url": "https://www.udemy.com/course/yolov12-custom-object-detection-tracking-webapps/"
+    },
+    {
+      "title": "Image Super-Resolution GANs",
+      "url": "https://www.udemy.com/course/image-super-resolution-gans/"
+    },
+    {
+      "title": "Certification in Computer Vision",
+      "url": "https://www.udemy.com/course/certification-in-computer-vision/"
+    },
+    {
+      "title": "Employee Attrition Prediction in Apache Spark (ML) Project",
+      "url": "https://www.udemy.com/course/employee-attrition-prediction-in-apache-spark-ml/"
+    },
+    {
+      "title": "Mastering ChatGPT and AI for eLearning Course Development",
+      "url": "https://www.udemy.com/course/mastering-chatgpt-and-ai-for-elearning-course-development/"
+    },
+    {
+      "title": "Modern Computer Vision with OpenCV 2025",
+      "url": "https://www.udemy.com/course/modern-computer-vision-with-opencv/"
+    },
+    {
+      "title": "Learn Data Visualization with Python, Plotly and Power BI",
+      "url": "https://www.udemy.com/course/learn-data-visualization-with-python-plotly-and-power-bi/"
+    },
+    {
+      "title": "Mastering Generative AI and LLM Deployment.",
+      "url": "https://www.udemy.com/course/web-applications-with-large-language-model-fast-inference/"
+    },
+    {
+      "title": "Practical Computer Vision Mastery: 20+ Python & AI Projects",
+      "url": "https://www.udemy.com/course/computer-vision-mastery-real-time-projects-opencv-python-ai-yolo/"
+    },
+    {
+      "title": "Machine Learning & AI Foundations Course",
+      "url": "https://www.udemy.com/course/machine-learning-ai-foundations-course/"
+    },
+    {
+      "title": "Basics of Computer Science and Information Systems (BCSIS)",
+      "url": "https://www.udemy.com/course/basics-of-computer-science-and-information-systems-bcsis/"
+    },
+    {
+      "title": "K-Means for Cluster Analysis and Unsupervised Learning in R",
+      "url": "https://www.udemy.com/course/k-means-for-cluster-analysis-and-unsupervised-learning-in-r/"
+    },
+    {
+      "title": "Docker Containers for Data Science and Reproducible Research",
+      "url": "https://www.udemy.com/course/docker-containers-data-science-reproducible-research/"
+    },
+    {
+      "title": "Machine Supervised Learning: Regression in Python 3 and Math",
+      "url": "https://www.udemy.com/course/machine-supervised-learning-regression/"
+    },
+    {
+      "title": "Supervised Machine Learning in Python",
+      "url": "https://www.udemy.com/course/supervised-machine-learning-in-python/"
+    },
+    {
+      "title": "24h Pro data science in R",
+      "url": "https://www.udemy.com/course/24h-pro-data-science-in-r/"
+    },
+    {
+      "title": "Graph Generation for Drug Discovery using Python and Keras",
+      "url": "https://www.udemy.com/course/graphgeneration/"
+    },
+    {
+      "title": "Azure Databricks - Build data engineering and AI/ML pipeline",
+      "url": "https://www.udemy.com/course/azure-databricks-build-data-engineering-and-aiml-pipeline/"
+    },
+    {
+      "title": "Machine Learning & Data Science in Python For Beginners",
+      "url": "https://www.udemy.com/course/machine-learning-data-science-in-python/"
+    },
+    {
+      "title": "Advanced Machine Learning Methods and Techniques",
+      "url": "https://www.udemy.com/course/advanced-machine-learning-methods-and-techniques/"
+    },
+    {
+      "title": "SPSS Powerclass: Learn SPSS from Advanced to Ultimate",
+      "url": "https://www.udemy.com/course/spss-powerclass/"
+    },
+    {
+      "title": "LLM Engineering in Practice with Streamlit and OpenAI",
+      "url": "https://www.udemy.com/course/llm-engineering-in-practice-with-streamlit-and-openai/"
+    },
+    {
+      "title": "OpenCV Practical with Python - 3 Complete Projects + CODE",
+      "url": "https://www.udemy.com/course/opencv-project/"
+    },
+    {
+      "title": "Learn How To Extract Web Data with Python and Beautiful Soup",
+      "url": "https://www.udemy.com/course/learn-how-to-extract-web-data-with-python-and-beautiful-soup/"
+    },
+    {
+      "title": "Machine Learning, AI and Data Science without programming",
+      "url": "https://www.udemy.com/course/machine-learning-ai-and-data-science-without-programming/"
+    },
+    {
+      "title": "Master Classification and Feedforward Networks [2025]",
+      "url": "https://www.udemy.com/course/master-classification-and-feedforward-networks-2024/"
+    },
+    {
+      "title": "Python For Data Science And Machine Learning Masterclass",
+      "url": "https://www.udemy.com/course/python-data-science-and-machine-learning/"
+    },
+    {
+      "title": "[NEW] 2025: Deep Learning Mastery With Tensorflow2.x & Keras",
+      "url": "https://www.udemy.com/course/deep-learning-mastery-with-tensorflow-keras/"
+    },
+    {
+      "title": "Breaking into Data Science & Machine Learning with Python",
+      "url": "https://www.udemy.com/course/breaking-in-to-data-science-with-python/"
+    },
+    {
+      "title": "Dummy Variable Regression & Conjoint (Survey) Analysis in R",
+      "url": "https://www.udemy.com/course/dummy-variable-regression-and-conjoint-analysis-using-r/"
+    },
+    {
+      "title": "Data Visualization with Python - Plotly & Dash",
+      "url": "https://www.udemy.com/course/data-visualization-python-plotly-dash/"
+    },
+    {
+      "title": "Machine Learning & Data Science with Python, Kaggle & Pandas",
+      "url": "https://www.udemy.com/course/machine-learning-data-science-with-kaggle-pandas-numpy/"
+    },
+    {
+      "title": "R Programming – Hacks and Automation",
+      "url": "https://www.udemy.com/course/r-programming-hacks-and-automation/"
+    },
+    {
+      "title": "Google BigQuery guide for beginners 2021",
+      "url": "https://www.udemy.com/course/google-bigquery-class/"
+    },
+    {
+      "title": "Python Bootcamp for Data Analysis #5: Pandas",
+      "url": "https://www.udemy.com/course/python-bootcamp-for-data-analysis-5-pandas/"
+    },
+    {
+      "title": "Kaggle - Get The Best Data Science, Machine Learning Profile",
+      "url": "https://www.udemy.com/course/kaggle-get-the-best-data-science-machine-learning-profile/"
+    },
+    {
+      "title": "Generative AI with Python: Core Concepts and Coding Examples",
+      "url": "https://www.udemy.com/course/mygenerativeai/"
+    },
+    {
+      "title": "Migrating Oracle Databases to SQL Server (OracleToSQL)",
+      "url": "https://www.udemy.com/course/migrating-oracle-databases-to-sql-server-oracletosql/"
+    },
+    {
+      "title": "Beyond Coding-Tools & Practices for Coders and Data Analysts",
+      "url": "https://www.udemy.com/course/beyond-coding-tools-practices-for-coders-and-data-analysts/"
+    },
+    {
+      "title": "Master fundamentals of substances in Chemistry",
+      "url": "https://www.udemy.com/course/master-fundamentals/"
+    },
+    {
+      "title": "Real-World Data Engineering: Streaming & Cloud Projects",
+      "url": "https://www.udemy.com/course/data-engineering-projects/"
+    },
+    {
+      "title": "Data Science 2023: Data Preprocessing & Feature Engineering",
+      "url": "https://www.udemy.com/course/data-science-course-data-cleaning-feature-engineering/"
+    },
+    {
+      "title": "Machine Learning Deployment For Professionals",
+      "url": "https://www.udemy.com/course/machine-learning-deployment-for-professionals/"
+    },
+    {
+      "title": "Become a Citizen Data Scientist : Marketing perspective",
+      "url": "https://www.udemy.com/course/become-a-citizen-data-scientist-marketing-perspective/"
+    },
+    {
+      "title": "Deep Learning: CNNs for Visual Recognition",
+      "url": "https://www.udemy.com/course/deep-learning-learn-cnns/"
+    },
+    {
+      "title": "Brain Computer Interfaces, Neural Engineering, NeuroRobotics",
+      "url": "https://www.udemy.com/course/neurorobotics/"
+    },
+    {
+      "title": "Machine Learning with AWS",
+      "url": "https://www.udemy.com/course/machine-leaning-with-aws/"
+    },
+    {
+      "title": "Certification in Data Visualization and Storytelling",
+      "url": "https://www.udemy.com/course/certification-in-data-visualization-and-storytelling/"
+    },
+    {
+      "title": "Learn Python By Doing: 25 Real World Projects Masterclass",
+      "url": "https://www.udemy.com/course/artificial-intelligence-case-study/"
+    },
+    {
+      "title": "OpenCV: Master OpenCV 3 Application Development Using Python",
+      "url": "https://www.udemy.com/course/opencv-master-opencv-3-application-development-using-python/"
+    },
+    {
+      "title": "Regression Analysis in R for Data Science: from Zero to Hero",
+      "url": "https://www.udemy.com/course/regression-analysis-in-machine-learning-statistics-in-r/"
+    },
+    {
+      "title": "Hands-On Transfer Learning with TensorFlow 2.0",
+      "url": "https://www.udemy.com/course/hands-on-transfer-learning-with-tensorflow-20/"
+    },
+    {
+      "title": "Beginner to Advanced Guide on Machine Learning with R Tool",
+      "url": "https://www.udemy.com/course/beginner-to-advanced-guide-on-machine-learning-with-r-tool/"
+    },
+    {
+      "title": "Machine Learning with Python - Complete Course & Projects",
+      "url": "https://www.udemy.com/course/python-machine-learning-course/"
+    },
+    {
+      "title": "SQL JOINS Masterclass: Learn to join 2 to 15 Tables",
+      "url": "https://www.udemy.com/course/sql-for-data-analytics-and-data-science/"
+    },
+    {
+      "title": "Pandas & NumPy Python Programming Language Libraries A-Z™",
+      "url": "https://www.udemy.com/course/pandas-numpy-python-programming-language-libraries-a-ztm/"
+    },
+    {
+      "title": "Machine Learning and Deep Learning Using TensorFlow",
+      "url": "https://www.udemy.com/course/machine-learning-and-deep-learning-using-tensorflow/"
+    },
+    {
+      "title": "Scrapy Unleashed: Master Python Web Scraping & Data Pipeline",
+      "url": "https://www.udemy.com/course/scrapy-masterclass-python-web-scraping-and-data-pipelines/"
+    },
+    {
+      "title": "Mastering Agentic AI : Theory and Implementation Masterclass",
+      "url": "https://www.udemy.com/course/mastering-agentic-ai-theory-and-implementation-masterclass/"
+    },
+    {
+      "title": "Deep Learning with Keras",
+      "url": "https://www.udemy.com/course/building-a-deep-learning-model-and-neural-network-with-keras/"
+    },
+    {
+      "title": "Complete DataScience with Python and Tensorflow",
+      "url": "https://www.udemy.com/course/complete-datascience-with-python-and-tensorflow/"
+    },
+    {
+      "title": "Deep Learning for Anomaly Detection with Python",
+      "url": "https://www.udemy.com/course/anomalydetection/"
+    },
+    {
+      "title": "Build Human Detection AI using TensorFlow,Keras &OpenCV 2025",
+      "url": "https://www.udemy.com/course/live-human-detection-and-counting-using-tensorflow/"
+    },
+    {
+      "title": "dbt-Beginner to Pro",
+      "url": "https://www.udemy.com/course/dbt-beginner-to-pro/"
+    },
+    {
+      "title": "Convolutional Neural Networks: Deep Learning",
+      "url": "https://www.udemy.com/course/convolutional-neural-networks-deep-learning/"
+    },
+    {
+      "title": "Digital Twin: Philosophy for the digital revolution -AulaGEO",
+      "url": "https://www.udemy.com/course/digital-twins-philosophy-for-the-new-digital-revolution/"
+    },
+    {
+      "title": "Introduction to Machine Learning in PHP",
+      "url": "https://www.udemy.com/course/machine-learning-in-php/"
+    },
+    {
+      "title": "Natural Language Processing NLP Practice Tests - Basic/Adv",
+      "url": "https://www.udemy.com/course/natural-language-processing-nlp-practice-tests-basic-advanced/"
+    },
+    {
+      "title": "Data and Statistics (For Business and Economics)",
+      "url": "https://www.udemy.com/course/data-and-statistics-for-business-and-economics/"
+    },
+    {
+      "title": "Hands-on Exploratory Data Analysis in Python + ChatGPT 3.5",
+      "url": "https://www.udemy.com/course/python-for-exploratory-data-analysis-zero-to-hero/"
+    },
+    {
+      "title": "Practical Data Science using Python",
+      "url": "https://www.udemy.com/course/practical-data-science-using-python-md/"
+    },
+    {
+      "title": "Generative AI LLMs Certified Associate (NCA-GENL) Mock Exams",
+      "url": "https://www.udemy.com/course/certified-associate-generative-ai-llms-exams/"
+    },
+    {
+      "title": "Build Multi-Agent LLM Applications with AutoGen",
+      "url": "https://www.udemy.com/course/multi-agent-llm-applications/"
+    },
+    {
+      "title": "Complete Guide to Data Science Applications with Streamlit",
+      "url": "https://www.udemy.com/course/streamlit/"
+    },
+    {
+      "title": "Databricks Certified Generative AI Engineer Associate Exams",
+      "url": "https://www.udemy.com/course/databricks-certified-generative-ai-engineer-associate-exams/"
+    },
+    {
+      "title": "NumPy, Pandas, Matplotlib in Python using Amazon SageMaker",
+      "url": "https://www.udemy.com/course/learn-python-using-amazon-sagemaker/"
+    },
+    {
+      "title": "The Complete SQL Bootcamp for Data Analysis – Level 1",
+      "url": "https://www.udemy.com/course/the-complete-sql-bootcamp-for-data-analysis-level-1/"
+    },
+    {
+      "title": "Object Tracking, Detection, Car Speed, Pose Estim in Python",
+      "url": "https://www.udemy.com/course/object-tracking-car-speed-pose-estimation/"
+    },
+    {
+      "title": "Computer Vision Bootcamp with Python: YOLO, SAM & RF-DETR",
+      "url": "https://www.udemy.com/course/yolo-nas-object-detection-tracking-web-app-in-python-2023/"
+    },
+    {
+      "title": "Deep Learning : Image Classification with Tensorflow in 2025",
+      "url": "https://www.udemy.com/course/deep-learning-image-classification-with-tensorflow-in-2023/"
+    },
+    {
+      "title": "Programming Statistical Applications in R",
+      "url": "https://www.udemy.com/course/programming-statistical-applications-in-r/"
+    },
+    {
+      "title": "Social Network Analysis(SNA) and Graph Analysis using Python",
+      "url": "https://www.udemy.com/course/social-network-analysissna-and-graph-analysis-using-python/"
+    },
+    {
+      "title": "NextLevel Images with Generative AI and Stable Diffusion GUI",
+      "url": "https://www.udemy.com/course/next-level-images-with-generative-ai-and-stable-diffusion/"
+    },
+    {
+      "title": "NumPy Python Programming Language Library from Scratch A-Z",
+      "url": "https://www.udemy.com/course/numpy-python-programming-language-library-from-scratch-a-ztm/"
+    },
+    {
+      "title": "Data Science: Create a DeepFake Video using DeepFaceLab",
+      "url": "https://www.udemy.com/course/data-science-create-a-deepfake-video-using-deepfacelab/"
+    },
+    {
+      "title": "PySpark Mastery: From Beginner to Advanced Data Processing",
+      "url": "https://www.udemy.com/course/pyspark-developer/"
+    },
+    {
+      "title": "Machine Learning Real World Case Studies | Hands-on Python",
+      "url": "https://www.udemy.com/course/applied-machine-learning-real-world-projects-using-python/"
+    },
+    {
+      "title": "The Complete Agentic AI Engineering Course (2025)",
+      "url": "https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/"
+    },
+    {
+      "title": "Ai/Data Scientist - Python/R/Big Data Master Class",
+      "url": "https://www.udemy.com/course/ai-master-class/"
+    },
+    {
+      "title": "Artificial Intelligence-Computational Intelligence in Python",
+      "url": "https://www.udemy.com/course/cipython/"
+    },
+    {
+      "title": "Detecting Heart Disease & Diabetes with Machine Learning",
+      "url": "https://www.udemy.com/course/detecting-heart-disease-diabetes-with-machine-learning/"
+    },
+    {
+      "title": "DeepFake & Voice Cloning Mastery: Machine Learning Made EASY",
+      "url": "https://www.udemy.com/course/deepfake-voice-cloning-mastery-machine-learning-made-easy-course/"
+    },
+    {
+      "title": "Midjourney in 2 hours: Practical Guide for Beginners",
+      "url": "https://www.udemy.com/course/midjourney-in-2-hours-practical-guide-for-beginners/"
+    },
+    {
+      "title": "Complete Generative AI Course: RAG, AI Agents & Deployment",
+      "url": "https://www.udemy.com/course/generative-ai-for-beginners-chatbots-rag-mcp-ai-agents/"
+    },
+    {
+      "title": "Document classification using Machine Learning",
+      "url": "https://www.udemy.com/course/document-classification-using-machine-learning/"
+    },
+    {
+      "title": "Complete Machine Learning With Real-World Deployment",
+      "url": "https://www.udemy.com/course/complete-road-map-for-ml-with-practical-real-world-projects/"
+    },
+    {
+      "title": "Learn Python - Data Analysis From Beginner To Advanced",
+      "url": "https://www.udemy.com/course/python-for-data-analysis-beginner-to-advanced/"
+    },
+    {
+      "title": "NLP Techniques for creating AI Chatbots",
+      "url": "https://www.udemy.com/course/nlp-chatbots/"
+    },
+    {
+      "title": "Practical Linear Regression in R for Data Science in R",
+      "url": "https://www.udemy.com/course/machine-learning-basics-practical-linear-regression-in-r/"
+    },
+    {
+      "title": "TensorFlow Developer Certificate Exam Practice Tests 2024",
+      "url": "https://www.udemy.com/course/tensorflow-developer-certificate-exam-practice-tests/"
+    },
+    {
+      "title": "Data Science and Machine Learning in Python",
+      "url": "https://www.udemy.com/course/data-science-and-machine-learning-in-python/"
+    },
+    {
+      "title": "Python + Data Science : Practical Guide [13 Hours]",
+      "url": "https://www.udemy.com/course/practical-data-science-using-python/"
+    },
+    {
+      "title": "Python: Solved Interview Ques on Algorithms, Data Structures",
+      "url": "https://www.udemy.com/course/python-solved-interview-ques-on-algorithms-data-structures/"
+    },
+    {
+      "title": "Data Science with Julia (Part I)",
+      "url": "https://www.udemy.com/course/data-science-with-julia/"
+    },
+    {
+      "title": "Reinforcement Learning with R: Algorithms-Agents-Environment",
+      "url": "https://www.udemy.com/course/reinforcement-learning-with-r-algorithms-agents-environment/"
+    },
+    {
+      "title": "Developing and Deploying Applications with Streamlit",
+      "url": "https://www.udemy.com/course/develop_streamlit_applications/"
+    },
+    {
+      "title": "Supervised Machine Learning From First Principles",
+      "url": "https://www.udemy.com/course/machine-learning-from-first-principles/"
+    },
+    {
+      "title": "Data Science Bootcamp: Your First Step as a Data Scientist",
+      "url": "https://www.udemy.com/course/r-for-data-science-first-step-data-scientist/"
+    },
+    {
+      "title": "Learn Natural Language Processing with Python",
+      "url": "https://www.udemy.com/course/learn-natural-language-processing-with-python/"
+    },
+    {
+      "title": "The Power of Vector Databases for Absolute Beginners",
+      "url": "https://www.udemy.com/course/the-power-of-vector-databases-for-absolute-beginners/"
+    },
+    {
+      "title": "Complete Machine Learning Bootcamp [Updated]",
+      "url": "https://www.udemy.com/course/complete-machine-learning-bootcamp/"
+    },
+    {
+      "title": "AI Hero: A 12-Month Journey Taking You from Zero to Expert",
+      "url": "https://www.udemy.com/course/ai-hero-a-12-month-journey-taking-you-from-zero-to-expert/"
+    },
+    {
+      "title": "Data Science Meets Power BI: Transforming Data into Insights",
+      "url": "https://www.udemy.com/course/data-science-meets-power-bi-transforming-data-into-insights/"
+    },
+    {
+      "title": "GIS for Drone Pilots using QGIS (w/ Airspace Data Template)",
+      "url": "https://www.udemy.com/course/gis-for-drone-pilots-using-qgis-w-airspace-data-template/"
+    },
+    {
+      "title": "Deep Learning Project Building with Python and Keras",
+      "url": "https://www.udemy.com/course/deep-learning-python-keras/"
+    },
+    {
+      "title": "The Introduction of AI and Machine Learning with Python",
+      "url": "https://www.udemy.com/course/the-introduction-of-ai-and-machine-learning-with-python/"
+    },
+    {
+      "title": "Machine Learning Mastery: From Basics to Advanced Techniques",
+      "url": "https://www.udemy.com/course/machine-learning-ml-mlops-data-science-model-deployment/"
+    },
+    {
+      "title": "Python Projects: Python & Data Science with Python Projects",
+      "url": "https://www.udemy.com/course/python-projects-python-data-science-with-python-projects/"
+    },
+    {
+      "title": "Learning Path: From Python Programming to Data Science",
+      "url": "https://www.udemy.com/course/learning-path-from-python-programming-to-data-science/"
+    },
+    {
+      "title": "Data Science in R: Regression & Classification Analysis",
+      "url": "https://www.udemy.com/course/regression-classification-with-machine-learning-in-r/"
+    },
+    {
+      "title": "Logistic Regression, Decision Tree and Neural Network in R",
+      "url": "https://www.udemy.com/course/logistic-regression-decision-tree-and-neural-network-in-r/"
+    },
+    {
+      "title": "Learn Data Science Machine Learning and Neural Networks",
+      "url": "https://www.udemy.com/course/learn-data-science-machine-learning-and-neural-networks/"
+    },
+    {
+      "title": "Data Science- Hypothesis Testing Using Minitab and R",
+      "url": "https://www.udemy.com/course/hypothesis-testing-using-minitab-and-r/"
+    },
+    {
+      "title": "Machine learning",
+      "url": "https://www.udemy.com/course/azure-machine-learning-for-2023/"
+    },
+    {
+      "title": "R Programming: R for Data Science and Data Analytics A-Z™",
+      "url": "https://www.udemy.com/course/r-programming-beginners/"
+    },
+    {
+      "title": "DAX Decoded: Essential Fundamentals in Power BI",
+      "url": "https://www.udemy.com/course/dax-decoded-essential-fundamentals-in-power-bi/"
+    },
+    {
+      "title": "No More Lucky Models: The Art & Science of Model Validation",
+      "url": "https://www.udemy.com/course/no-more-lucky-models-the-art-science-of-model-validation/"
+    },
+    {
+      "title": "R for Python Data Science: Learn Data Manipulation with R",
+      "url": "https://www.udemy.com/course/data-science-with-r-learn-data-manipulation-with-r/"
+    },
+    {
+      "title": "10 Key Functions to Analyze Data in Python for Beginners",
+      "url": "https://www.udemy.com/course/10-key-functions-to-analyze-data-in-python-for-beginners/"
+    },
+    {
+      "title": "Generative Adversarial Networks (GAN): The Complete Guide",
+      "url": "https://www.udemy.com/course/generative-adversarial-networks-gan-the-complete-guide/"
+    },
+    {
+      "title": "Mastering Linear Regression Analysis with Python",
+      "url": "https://www.udemy.com/course/linear-regression-in-python/"
+    },
+    {
+      "title": "Statistics for Data Analysis Using Excel",
+      "url": "https://www.udemy.com/course/statistics-for-data-analysis-using-excel/"
+    },
+    {
+      "title": "Data Analytics Career Overview - From Skills to Interviews",
+      "url": "https://www.udemy.com/course/data-analytics-career-overview/"
+    },
+    {
+      "title": "Tensorflow on Google's Cloud Platform for Data Engineers",
+      "url": "https://www.udemy.com/course/tensorflow-on-googles-cloud-platform-for-data-engineers/"
+    },
+    {
+      "title": "Advanced Machine Learning & Deep Learning Masterclass 2024",
+      "url": "https://www.udemy.com/course/advanced-machine-learning-deep-learning-masterclass-2024/"
+    },
+    {
+      "title": "Pass Databricks Certified Data Engineer Associate in 3 Days",
+      "url": "https://www.udemy.com/course/pass-databricks-certified-data-engineer-exam-in-3-days-2025/"
+    },
+    {
+      "title": "Advanced Data Science Methods and Algorithms",
+      "url": "https://www.udemy.com/course/advanced-data-science-methods-and-algorithms/"
+    },
+    {
+      "title": "Unlock Your Potential: Exploring the Power of Chat GPT",
+      "url": "https://www.udemy.com/course/unlock-your-potential-exploring-the-power-of-chat-gpt/"
+    },
+    {
+      "title": "Apache Spark with Scala useful for Databricks Certification",
+      "url": "https://www.udemy.com/course/apache-spark-with-scala-useful-for-databricks-certification/"
+    },
+    {
+      "title": "Advanced Statistics and Data Mining for Data Science",
+      "url": "https://www.udemy.com/course/advanced-statistics-and-data-mining-for-data-science/"
+    },
+    {
+      "title": "Data Literacy: Understanding Data in the Digital Age",
+      "url": "https://www.udemy.com/course/data-literacy-understanding-data-in-the-digital-age/"
+    },
+    {
+      "title": "Python for Data Science: From Zero to Data Analysis",
+      "url": "https://www.udemy.com/course/python-foundations-for-data-science-from-zero-to-data-analy/"
+    },
+    {
+      "title": "Big Data Engineering Project: PySpark, Databricks and Azure",
+      "url": "https://www.udemy.com/course/pyspark-databricks-azure-projects/"
+    },
+    {
+      "title": "Python- Numpy & Pandas Python Programming Language Libraries",
+      "url": "https://www.udemy.com/course/python-numpy-pandas-python-programming-language-libraries/"
+    },
+    {
+      "title": "AWS Certified Machine Learning – Specialty",
+      "url": "https://www.udemy.com/course/machine-learning-on-amazon-web-services/"
+    },
+    {
+      "title": "Computer Science: The Foundation You Didn't Know You Needed",
+      "url": "https://www.udemy.com/course/computer-science-the-foundation-you-didnt-know-you-needed/"
+    },
+    {
+      "title": "The Complete NetworkX Course: From Zero to Expert!",
+      "url": "https://www.udemy.com/course/the-complete-networkx-bootcamp/"
+    },
+    {
+      "title": "Complete Data Science & Machine Learning A-Z with Python",
+      "url": "https://www.udemy.com/course/complete-data-science-machine-learning-a-z-with-python/"
+    },
+    {
+      "title": "Artificial Neural Networks tutorial - theory & applications",
+      "url": "https://www.udemy.com/course/artificial-neural-networks-tutorial-theory-applications/"
+    },
+    {
+      "title": "Data Science: Credit Card Fraud Detection - Model Building",
+      "url": "https://www.udemy.com/course/data-science-credit-card-fraud-detection-model-building/"
+    },
+    {
+      "title": "Future Artificial Intelligence Reinforcement Learning (TM)",
+      "url": "https://www.udemy.com/course/artificial-intelligence-reinforcement-learning/"
+    },
+    {
+      "title": "A Tutorial on Speaker Diarization",
+      "url": "https://www.udemy.com/course/diarization/"
+    },
+    {
+      "title": "Python for Absolute Beginners Learn Programming from scratch",
+      "url": "https://www.udemy.com/course/python-for-absolute-beginners-learn-programming-from-scratch/"
+    },
+    {
+      "title": "AI, Deep Learning and Computer Vision with Python BootCamp",
+      "url": "https://www.udemy.com/course/deep-learning-and-neural-networks-with-python/"
+    },
+    {
+      "title": "Tuning Apache Spark: Powerful Big Data Processing Recipes",
+      "url": "https://www.udemy.com/course/tuning-apache-spark-powerful-big-data-processing-recipes/"
+    },
+    {
+      "title": "Python for Natural Language Processing (NLP)",
+      "url": "https://www.udemy.com/course/python-natural-language-processing/"
+    },
+    {
+      "title": "The Next Frontier: Generative AI for Absolute Beginners",
+      "url": "https://www.udemy.com/course/the-next-frontier-generative-ai-for-absolute-beginners/"
+    },
+    {
+      "title": "Master Computer Vision & Deep Learning: OpenCV, YOLO, ResNet",
+      "url": "https://www.udemy.com/course/computer-vision-with-deep-learning/"
+    },
+    {
+      "title": "Developing Data Science Projects With Google Colab",
+      "url": "https://www.udemy.com/course/developing-data-science-projects-with-google-colab/"
+    },
+    {
+      "title": "Natural Language Processing (NLP) with Python and NLTK",
+      "url": "https://www.udemy.com/course/natural-language-processingnlp-with-python-and-nltk/"
+    },
+    {
+      "title": "Python for Data Science and Machine Learning Bootcamp",
+      "url": "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp-d/"
+    },
+    {
+      "title": "Advance Python | Python for Datascience",
+      "url": "https://www.udemy.com/course/advance-python-python-for-datascience/"
+    },
+    {
+      "title": "Introduction to Time Series with Python [2025]",
+      "url": "https://www.udemy.com/course/introduction-to-time-series-with-python-2023/"
+    },
+    {
+      "title": "Simple and Complete ChatGPT, Dall-E and Tailwind Rails App",
+      "url": "https://www.udemy.com/course/simple-and-complete-chatgpt-dall-e-and-tailwind-rails-app/"
+    },
+    {
+      "title": "Prompt Engineering Mastery: Boost ChatGPT & AI Skills",
+      "url": "https://www.udemy.com/course/largelanguagemodels/"
+    },
+    {
+      "title": "Natural Language Processing Real World Use-cases in Python",
+      "url": "https://www.udemy.com/course/natural-language-processing-real-world-use-cases-in-python/"
+    },
+    {
+      "title": "Ollama & LLMs: Building Real World Free AI Apps with Ollama.",
+      "url": "https://www.udemy.com/course/ollama-llms-building-real-world-free-ai-apps-with-ollama-and-python/"
+    },
+    {
+      "title": "Awesome Natural Language Processing Tools In Python",
+      "url": "https://www.udemy.com/course/awesome-natural-language-processing-tools-in-python/"
+    },
+    {
+      "title": "Artificial intelligence in Game development- Tic Tac Toe AI",
+      "url": "https://www.udemy.com/course/artificial-intelligence-javascript-create-tic-tac-toe-ai/"
+    },
+    {
+      "title": "A Beginner introduction to Natural Language Processing",
+      "url": "https://www.udemy.com/course/natural-language-processing-bootcamp/"
+    },
+    {
+      "title": "Data Science and Machine Learning in Python: Linear models",
+      "url": "https://www.udemy.com/course/data-science-ml-python/"
+    },
+    {
+      "title": "Python for Data Mastery: Data Analytics with Top Libraries",
+      "url": "https://www.udemy.com/course/python-for-data-mastery-data-analytics-with-top-libraries/"
+    },
+    {
+      "title": "Deep Dive into Mastering Data Science and Machine Learning",
+      "url": "https://www.udemy.com/course/deep-dive-into-mastering-data-science-and-machine-learning/"
+    },
+    {
+      "title": "Apache Flink Series-The Ultimate Flink DataStream Course",
+      "url": "https://www.udemy.com/course/apache-flink-series-the-ultimate-flink-datastream-course/"
+    },
+    {
+      "title": "Machine Learning Interview Questions & Answers",
+      "url": "https://www.udemy.com/course/machine-learning-interview-questions-and-answers/"
+    },
+    {
+      "title": "Google Trends with Python: Data Science, Marketing, and News",
+      "url": "https://www.udemy.com/course/python-google-trends-best-for-data-science-and-marketing/"
+    },
+    {
+      "title": "Build ML App (Streamlit Python) + Top Data Science projects",
+      "url": "https://www.udemy.com/course/ai-app-streamlit-python/"
+    },
+    {
+      "title": "Practical Data Science",
+      "url": "https://www.udemy.com/course/data-science/"
+    },
+    {
+      "title": "Intro to Data Science Using Python: Your Best Starting Point",
+      "url": "https://www.udemy.com/course/intro-to-data-science-using-python-your-best-starting-point/"
+    },
+    {
+      "title": "MCP Mastery: Build AI Apps with Claude, LangChain and Ollama",
+      "url": "https://www.udemy.com/course/mcp-mastery-build-ai-apps-with-claude-langchain-and-ollama/"
+    },
+    {
+      "title": "Machine Learning with Apache Spark 3.0 using Scala",
+      "url": "https://www.udemy.com/course/machine-learning-with-apache-spark-3-using-scala/"
+    },
+    {
+      "title": "Essential Data Science: Database and ETL With Python",
+      "url": "https://www.udemy.com/course/etlpython/"
+    },
+    {
+      "title": "Hands-on Data Visualization With Python",
+      "url": "https://www.udemy.com/course/hands-on-data-visualization-with-python/"
+    },
+    {
+      "title": "Natural Language Processing Fundamentals",
+      "url": "https://www.udemy.com/course/natural-language-processing-fundamentals/"
+    },
+    {
+      "title": "Deep Learning: masked face detection, recognition",
+      "url": "https://www.udemy.com/course/ai-deep-learning-facial-masked-face-detection-recognition/"
+    },
+    {
+      "title": "Advanced Data Analysis & Wrangling with Python Pandas",
+      "url": "https://www.udemy.com/course/fantastic-python-advanced-data-wrangling-with-pandas/"
+    },
+    {
+      "title": "JARVIS AI 3.0 GPT3 Based AGI Virtual Assistant",
+      "url": "https://www.udemy.com/course/jarvis-ai-30-gpt3-based-agi-virtual-assistant/"
+    },
+    {
+      "title": "System Design for Big Data Pipelines",
+      "url": "https://www.udemy.com/course/system-design-for-big-data-pipelines/"
+    },
+    {
+      "title": "Crash Course - R programming from Scratch & workout",
+      "url": "https://www.udemy.com/course/introduction-to-r-programming-learn-r-syntax-by-example/"
+    },
+    {
+      "title": "Integration and Deployment of GenAI Models",
+      "url": "https://www.udemy.com/course/integration-and-deployment-of-genai-models/"
+    },
+    {
+      "title": "Learn Power Query with Microsoft Power BI",
+      "url": "https://www.udemy.com/course/learn-power-query-with-microsoft-power-bi/"
+    },
+    {
+      "title": "AI in Healthcare",
+      "url": "https://www.udemy.com/course/healthcare-technology-course-for-medical-professionals/"
+    },
+    {
+      "title": "2024 Prompt Engineering: The 100% Power & Mastery [+90READY]",
+      "url": "https://www.udemy.com/course/prompt-engineering-ai/"
+    },
+    {
+      "title": "Customer Choice Modeling with R",
+      "url": "https://www.udemy.com/course/customer-choice-modeling-with-r/"
+    },
+    {
+      "title": "Data Science Bundle: 180 Hands-On Projects - Course 2 of 3",
+      "url": "https://www.udemy.com/course/real-world-machine-learning-and-data-science-projects/"
+    },
+    {
+      "title": "R: Complete Data Visualization Solutions",
+      "url": "https://www.udemy.com/course/r-complete-data-visualization-solutions/"
+    },
+    {
+      "title": "Mastering Azure Synapse Analytics for Success",
+      "url": "https://www.udemy.com/course/mastering-azure-synapse-analytics-for-success/"
+    },
+    {
+      "title": "beginner to advanced - how to become a data scientist",
+      "url": "https://www.udemy.com/course/beginner-to-advanced-how-to-become-a-data-scientist/"
+    },
+    {
+      "title": "R Programming for Complete Beginners (Part 1)",
+      "url": "https://www.udemy.com/course/r-programming-for-complete-beginners/"
+    },
+    {
+      "title": "Deep Learning by TensorFlow 2.0 Basic to Advance with Python",
+      "url": "https://www.udemy.com/course/deep-learning-by-tensorflow-tfkeras-keras-using-python/"
+    },
+    {
+      "title": "Artificial Intelligence & Machine Learning with Python 2025",
+      "url": "https://www.udemy.com/course/ai-machine-learning-for-executives-managers-leaders/"
+    },
+    {
+      "title": "Learn Big Data Hadoop: Hands-On for Beginner",
+      "url": "https://www.udemy.com/course/learn-big-data-hadoop-hands-on-for-beginner/"
+    },
+    {
+      "title": "Deep Learning with PyTorch",
+      "url": "https://www.udemy.com/course/deep-learning-with-pytorch/"
+    },
+    {
+      "title": "Apache Spark 3 Programming | Databricks Certification Python",
+      "url": "https://www.udemy.com/course/apache-pyspark-3-programming-and-databricks-certification/"
+    },
+    {
+      "title": "A Practical Guide to Alteryx for Data Science & Analytics",
+      "url": "https://www.udemy.com/course/practical-guide-to-alteryx-for-data-science/"
+    },
+    {
+      "title": "Artificial Intelligence - TensorFlow Machine Learning",
+      "url": "https://www.udemy.com/course/tensorflow-js/"
+    },
+    {
+      "title": "Python Bootcamp for Data Analysis #2: Functions",
+      "url": "https://www.udemy.com/course/python-bootcamp-for-data-analysis-2-functions/"
+    },
+    {
+      "title": "Predict Football Scores with Python & Machine Learning",
+      "url": "https://www.udemy.com/course/the-complete-ai-football-score-predictor-bootcamp/"
+    },
+    {
+      "title": "The #1 Python Data Scientist: Sentiment Analysis & More",
+      "url": "https://www.udemy.com/course/the-1-python-data-scientist-sentiment-analysis-more/"
+    },
+    {
+      "title": "Python + ChatGPT 3.5 for A-Z Statistical Data Analysis",
+      "url": "https://www.udemy.com/course/applied-statistics-and-analytics-in-python-and-chatgpt/"
+    },
+    {
+      "title": "Mastering Big Data Analytics with PySpark",
+      "url": "https://www.udemy.com/course/mastering-big-data-analytics-with-pyspark/"
+    },
+    {
+      "title": "Autonomous AI Agents MasterClass - AutoGen Generative AI Era",
+      "url": "https://www.udemy.com/course/autonomous-ai-agents-masterclass-explore-generative-ai-era/"
+    },
+    {
+      "title": "Spatial Data Visualization and Machine Learning in Python",
+      "url": "https://www.udemy.com/course/spatial-data-visualization-and-machine-learning-in-python/"
+    },
+    {
+      "title": "Motion Detection using Python and OpenCV",
+      "url": "https://www.udemy.com/course/motion-detection-using-python-and-opencv/"
+    },
+    {
+      "title": "Big Data",
+      "url": "https://www.udemy.com/course/big_data/"
+    },
+    {
+      "title": "Data Science & Python - Maths, models, Stats PLUS Case Study",
+      "url": "https://www.udemy.com/course/data-science-and-python/"
+    },
+    {
+      "title": "Master Classification with Pandas and Python [2025]",
+      "url": "https://www.udemy.com/course/master-classification-with-pandas-and-python-2024/"
+    },
+    {
+      "title": "Data Structures and Algorithms: From Zero to Hero",
+      "url": "https://www.udemy.com/course/data-structures-and-algorithms-from-zero-to-hero/"
+    },
+    {
+      "title": "Data Mining Fundamentals For Beginners",
+      "url": "https://www.udemy.com/course/data-mining-fundamentals-for-beginners/"
+    },
+    {
+      "title": "Power BI Dashboard: Advanced UI/UX Design Techniques",
+      "url": "https://www.udemy.com/course/power-bi-dashboard-advanced-uiux-design-techniques/"
+    },
+    {
+      "title": "Mastering SQL in Google BigQuery: From Zero to Hero",
+      "url": "https://www.udemy.com/course/mastering-sql-in-bigquery-from-zero-to-hero/"
+    },
+    {
+      "title": "ChatGPT for Data Science and Machine Learning",
+      "url": "https://www.udemy.com/course/chatgpt-for-data-science-and-machine-learning-p/"
+    },
+    {
+      "title": "The Ultimate Beginners Guide to Python Virtual Assistants",
+      "url": "https://www.udemy.com/course/the-ultimate-beginners-guide-to-python-virtual-assistants/"
+    },
+    {
+      "title": "Data Science Masterclass Hands-on ML & AI Projects",
+      "url": "https://www.udemy.com/course/hands-on-projects-and-exercises-for-practical-ml-ai-2023/"
+    },
+    {
+      "title": "Professional Certificate in Data Engineering",
+      "url": "https://www.udemy.com/course/professional-certificate-in-data-engineering/"
+    },
+    {
+      "title": "Introduction to Statistics in R - A Practical Approach",
+      "url": "https://www.udemy.com/course/descriptive-statistics-using-r-a-practical-introduction/"
+    },
+    {
+      "title": "Kaggle Masterclass - build a Machine Learning Portfolio",
+      "url": "https://www.udemy.com/course/kaggle-masterclass/"
+    },
+    {
+      "title": "LangGraph: From Basics to Advanced AI Agents with LLMs",
+      "url": "https://www.udemy.com/course/langgraph-from-basics-to-advanced-ai-agents-with-llms/"
+    },
+    {
+      "title": "Recommendation system Real World Projects using Python",
+      "url": "https://www.udemy.com/course/recommendation-system-with-machine-learning-ai-using-python/"
+    },
+    {
+      "title": "Data Wrangling with Python",
+      "url": "https://www.udemy.com/course/data-wrangling-with-python/"
+    },
+    {
+      "title": "Machine Learning using ML.NET",
+      "url": "https://www.udemy.com/course/machine-learning-using-ml-dot-net/"
+    },
+    {
+      "title": "PySpark Crash Course - Learn Analytics with Spark, Quickly!",
+      "url": "https://www.udemy.com/course/2024-pyspark-crash-course-learn-spark-quickly/"
+    },
+    {
+      "title": "Deep Learning : Convolutional Neural Networks with Python",
+      "url": "https://www.udemy.com/course/convolutional-neural-networks-with-python/"
+    },
+    {
+      "title": "Machine Learning for Beginner (AI) - Data Science",
+      "url": "https://www.udemy.com/course/machine-learning-for-beginner-ai-data-science/"
+    },
+    {
+      "title": "Data Visualization & Storytelling",
+      "url": "https://www.udemy.com/course/data-visualization-storytelling/"
+    },
+    {
+      "title": "Master Cluster Analysis and Unsupervised Learning [2025]",
+      "url": "https://www.udemy.com/course/master-cluster-analysis-and-unsupervised-learning/"
+    },
+    {
+      "title": "Data Analytics Real World Projects using Python",
+      "url": "https://www.udemy.com/course/data-analytics-real-world-case-studies-using-python/"
+    },
+    {
+      "title": "Master Image Editing in Gemini 2.5 Flash Model (Nano Banana)",
+      "url": "https://www.udemy.com/course/master-image-editing-in-gemini-25-flash-model-nano-banana/"
+    },
+    {
+      "title": "Basic Statistics and Data Mining for Data Science",
+      "url": "https://www.udemy.com/course/basic-statistics-and-data-mining-for-data-science/"
+    },
+    {
+      "title": "Mastering Data Science & AI with Python & Real-World Project",
+      "url": "https://www.udemy.com/course/data-science-ai-agent-pyth-project-llm-finetuning-ollama-gpt-apps/"
+    },
+    {
+      "title": "Generative AI Bootcamp",
+      "url": "https://www.udemy.com/course/generative-ai-bootcamp/"
+    },
+    {
+      "title": "Artificial Intelligence #1: Linear & MultiLinear Regression",
+      "url": "https://www.udemy.com/course/artificial-intelligence-1-linear-multilinear-regression/"
+    },
+    {
+      "title": "Train OpenSource Large Language Models from Zero to Hero",
+      "url": "https://www.udemy.com/course/train-opensource-large-language-models-from-zero-to-hero/"
+    },
+    {
+      "title": "Complete Machine Learning course",
+      "url": "https://www.udemy.com/course/machine-learning-course-f/"
+    },
+    {
+      "title": "Google BigQuery for Programmers: Analyze & Visualize",
+      "url": "https://www.udemy.com/course/google-cloud-platform-big-query/"
+    },
+    {
+      "title": "Machine Learning and Data Science Using Python - Part 1",
+      "url": "https://www.udemy.com/course/dd-innovations-ml-ds-python-all/"
+    },
+    {
+      "title": "Microsoft Excel for Data Analytics",
+      "url": "https://www.udemy.com/course/microsoft-excel-for-data-analytics/"
+    },
+    {
+      "title": "Learn Object Detection Tracking and Counting with DL, ML",
+      "url": "https://www.udemy.com/course/learn-object-detection-counting-tracking-with-dl-ml/"
+    },
+    {
+      "title": "Learn Python & OpenCV for Computer Vision Deep Learning, OCR",
+      "url": "https://www.udemy.com/course/python-and-opencv-for-computer-vision-quick-starter/"
+    },
+    {
+      "title": "Python for Data Science and Machine Learning Bootcamp",
+      "url": "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/"
+    },
+    {
+      "title": "Natural Language Processing with Python and NLTK",
+      "url": "https://www.udemy.com/course/the-python-natural-language-toolkit-nltk-for-text-mining/"
+    },
+    {
+      "title": "Text Classification with fastText and machine learning",
+      "url": "https://www.udemy.com/course/text-classification-with-fasttext-and-machine-learning/"
+    },
+    {
+      "title": "Data Analysis with Python",
+      "url": "https://www.udemy.com/course/data-analysis-with-python-e/"
+    },
+    {
+      "title": "Machine Learning in the Elastic Search",
+      "url": "https://www.udemy.com/course/machine-learning-in-the-elastic-search/"
+    },
+    {
+      "title": "The Ultimate Kafka Streams (3.x) : Real-time Data Processing",
+      "url": "https://www.udemy.com/course/the-ultimate-kafka-streams-3x-real-time-data-processing/"
+    },
+    {
+      "title": "Apache Spark and Scala for Cassandra Professionals",
+      "url": "https://www.udemy.com/course/spark-scala-cassandra/"
+    },
+    {
+      "title": "Advanced Retrieval Augmented Generation",
+      "url": "https://www.udemy.com/course/advanced-retrieval-augmented-generation/"
+    },
+    {
+      "title": "Data Analyst Masterclass: Learn AI Business Insights",
+      "url": "https://www.udemy.com/course/data-analyst-masterclass-learn-ai-business-insights/"
+    },
+    {
+      "title": "Deep Learning Image Generation with GANs and Diffusion Model",
+      "url": "https://www.udemy.com/course/deep-learning-image-generation-with-gans-and-diffusion-model/"
+    },
+    {
+      "title": "Data Science and Analytics with AWS Quicksight and Power BI",
+      "url": "https://www.udemy.com/course/data-science-and-analytics-with-aws-quicksight-and-power-bi/"
+    },
+    {
+      "title": "Terraform Snowflake from Scratch",
+      "url": "https://www.udemy.com/course/terraform-snowflake-from-scratch/"
+    },
+    {
+      "title": "Deep Learning and Generative Artificial Intelligence",
+      "url": "https://www.udemy.com/course/deep-learning-and-generative-artificial-intelligence/"
+    },
+    {
+      "title": "How To Earn More as a Software Developer",
+      "url": "https://www.udemy.com/course/coder-data-science-more-money-making-income-guide/"
+    },
+    {
+      "title": "Statistics & Mathematics for Data Science in Python",
+      "url": "https://www.udemy.com/course/statistics-mathematics-for-data-science-in-python/"
+    },
+    {
+      "title": "Supply Chain Analysis with Machine Learning & Neural Network",
+      "url": "https://www.udemy.com/course/supply-chain-analysis-with-machine-learning-neural-network/"
+    },
+    {
+      "title": "Building your own Neural Network from Scratch with Python",
+      "url": "https://www.udemy.com/course/building-your-own-neural-network-from-scratch-with-python/"
+    },
+    {
+      "title": "Data Science & ML for Python-Python & Data Science Made Easy",
+      "url": "https://www.udemy.com/course/machine-learning-and-data-science-using-python-r/"
+    },
+    {
+      "title": "SQL for Data Analysis with Google BigQuery",
+      "url": "https://www.udemy.com/course/sql-for-data-analysis-with-google-bigquery/"
+    },
+    {
+      "title": "Python Bootcamp for Data Analysis #3: Conditions",
+      "url": "https://www.udemy.com/course/python-bootcamp-for-data-analysis-3-conditions/"
+    },
+    {
+      "title": "R: Learn to Program in R & Use R for Effective Data Analysis",
+      "url": "https://www.udemy.com/course/redwoodassociatesr/"
+    },
+    {
+      "title": "Autonomous Cars: The Complete Computer Vision Course 2022",
+      "url": "https://www.udemy.com/course/autonomous-cars-the-complete-computer-vision-course-2021/"
+    },
+    {
+      "title": "LEARNING PATH: TensorFlow: Computer Vision with TensorFlow",
+      "url": "https://www.udemy.com/course/learning-path-tensorflow-computer-vision-with-tensorflow/"
+    },
+    {
+      "title": "GPT 3.5 & 4: Data Analysis and Machine Learning in Python",
+      "url": "https://www.udemy.com/course/gpt-35-4-data-analysis-and-machine-learning-in-python/"
+    },
+    {
+      "title": "Machine Learning Made Easy : Beginner to Expert using Python",
+      "url": "https://www.udemy.com/course/machine-learning-made-easy-beginner-to-expert-using-python/"
+    },
+    {
+      "title": "Data Engineering with Python",
+      "url": "https://www.udemy.com/course/data-engineering-with-python/"
+    },
+    {
+      "title": "Data Science and Machine Learning: A Practical Guide",
+      "url": "https://www.udemy.com/course/mastering-data-science-with-python/"
+    },
+    {
+      "title": "Introduction to AI : Learn Basics of Artificial Intelligence",
+      "url": "https://www.udemy.com/course/introduction-to-ai-learn-basics-of-artificial-intelligence/"
+    },
+    {
+      "title": "Beginner-Friendly LangChain Course: Build an AI PDF Document",
+      "url": "https://www.udemy.com/course/llms-with-langchain-beginner-friendly/"
+    },
+    {
+      "title": "Prompt Engineering Frameworks & Methodologies",
+      "url": "https://www.udemy.com/course/prompt-engineering-frameworks/"
+    },
+    {
+      "title": "Full Stack Data Science & Machine Learning BootCamp Course",
+      "url": "https://www.udemy.com/course/full-stack-data-science-machine-learning-bootcamp-course/"
+    },
+    {
+      "title": "Data Science Interview Preparation: Real Examples and Tests",
+      "url": "https://www.udemy.com/course/ace-the-data-science-interview/"
+    },
+    {
+      "title": "Beginner's Guide to Data Science and AI",
+      "url": "https://www.udemy.com/course/beginners-guide-to-data-science-and-ai/"
+    },
+    {
+      "title": "Data science tools: Basic of Statistics",
+      "url": "https://www.udemy.com/course/data-science-tools-basic-of-statistics/"
+    },
+    {
+      "title": "From Recipe to Chef: Become an LLM Engineer 100+ Projects",
+      "url": "https://www.udemy.com/course/llm-engineer/"
+    },
+    {
+      "title": "Hands-On Statistical Predictive Modeling",
+      "url": "https://www.udemy.com/course/hands-on-statistical-predictive-modeling/"
+    },
+    {
+      "title": "Migrate on-premises SQL Server To Cloud Azure SQL Database",
+      "url": "https://www.udemy.com/course/migrate-on-premises-sql-server-to-cloud-azure-sql-database/"
+    },
+    {
+      "title": "Modeling Count Data using Stata",
+      "url": "https://www.udemy.com/course/modeling-count-data-using-stata/"
+    },
+    {
+      "title": "Ultimate Tableau Desktop Course: Beginner to Advanced Bundle",
+      "url": "https://www.udemy.com/course/ultimate-tableau-desktop-course-beginner-to-advanced-bundle/"
+    },
+    {
+      "title": "ChatGPT API Python Masterclass with Google Apps Integration",
+      "url": "https://www.udemy.com/course/chatgpt-api-python-masterclass-with-google-apps-integration/"
+    },
+    {
+      "title": "Data Science: Machine Learning algorithms in Matlab",
+      "url": "https://www.udemy.com/course/machine-learning-step-by-step-guide/"
+    },
+    {
+      "title": "Crypto Data Science and ML with Python",
+      "url": "https://www.udemy.com/course/crypto-data-science-and-ml-with-python/"
+    },
+    {
+      "title": "Data Cleaning & Preprocessing in Python for Machine Learning",
+      "url": "https://www.udemy.com/course/data-cleaning-in-python-for-analytics-machine-learning/"
+    },
+    {
+      "title": "The Complete AI Data Training Course 2025",
+      "url": "https://www.udemy.com/course/the-complete-ai-data-training-course/"
+    },
+    {
+      "title": "Data Analysis with Python for Working Professionals",
+      "url": "https://www.udemy.com/course/dataanalysiswithpython/"
+    },
+    {
+      "title": "ATAD Tableau Desktop Certified Associate Practice Exams",
+      "url": "https://www.udemy.com/course/atad-tableau-desktop-certified-associate-practice-exams/"
+    },
+    {
+      "title": "Statistics For Data Science and Machine Learning with Python",
+      "url": "https://www.udemy.com/course/python-statistical-methods-machine-learning-data-science/"
+    },
+    {
+      "title": "Neural Networks in Python from Scratch: Learning by Doing",
+      "url": "https://www.udemy.com/course/neural-network/"
+    },
+    {
+      "title": "AI, Basic Statistics, Basic Python, Basic R, ML (Overview)",
+      "url": "https://www.udemy.com/course/ai-basic-statistics-basic-python-basic-r-ml-overview/"
+    },
+    {
+      "title": "Genetic Algorithms And Artificial NeuralNets in Vanilla JS",
+      "url": "https://www.udemy.com/course/neuroevolution-genetic-algorithms-and-artificial-neuralnets/"
+    },
+    {
+      "title": "Machine Learning Disease Prediction And Drug Recommendation",
+      "url": "https://www.udemy.com/course/machine-learning-disease-prediction-and-drug-recommendation/"
+    },
+    {
+      "title": "Hands-on Machine Learning with Python & ChatGPT",
+      "url": "https://www.udemy.com/course/fast-track-machine-learning-in-python-chatgpt/"
+    },
+    {
+      "title": "Learn AI - A-Z Guide to Artificial Intelligence With ChatGPT",
+      "url": "https://www.udemy.com/course/ultimate-ai-guide/"
+    },
+    {
+      "title": "Complete Generative AI Course: ChatGPT, Tools & Automation",
+      "url": "https://www.udemy.com/course/complete-generative-ai-course-chatgpt-tools-automation/"
+    },
+    {
+      "title": "Operations Research & Optimization Projects With Python",
+      "url": "https://www.udemy.com/course/operations-research-optimization-projects-with-python/"
+    },
+    {
+      "title": "The Ultimate Guide to Google NotebookLM : AI-Powered Notes",
+      "url": "https://www.udemy.com/course/the-ultimate-guide-to-google-notebooklm-ai-powered-notes/"
+    },
+    {
+      "title": "TensorFlow 2 QuickStart for beginners",
+      "url": "https://www.udemy.com/course/tensorflow-quickstart-for-beginners/"
+    },
+    {
+      "title": "MINITAB - Predictive Modeling and Time Series Analysis",
+      "url": "https://www.udemy.com/course/predictive-modeling-and-time-series-analysis-with-minitab/"
+    },
+    {
+      "title": "Good Manufacturing Practices (GMP) knowledge",
+      "url": "https://www.udemy.com/course/good-manufacturing-practices-gmp-knowledge/"
+    },
+    {
+      "title": "Microsoft Excel: Ultimate Excel from Beginner to Advanced",
+      "url": "https://www.udemy.com/course/microsoft-excel-ultimate-excel-from-beginner-to-advanced/"
+    },
+    {
+      "title": "A Complete Guide to Time Series Analysis & Forecasting in R",
+      "url": "https://www.udemy.com/course/a-complete-guide-to-time-series-analysis-forecasting-in-r/"
+    },
+    {
+      "title": "Lidar Fundamentals and Applications",
+      "url": "https://www.udemy.com/course/lidar-fundamentals/"
+    },
+    {
+      "title": "Be Aware of Data Science",
+      "url": "https://www.udemy.com/course/be-aware-of-data-science/"
+    },
+    {
+      "title": "Build and End to End ML Projects on AWS SageMaker",
+      "url": "https://www.udemy.com/course/mastering-aws-sage-maker-from-fundamentals-to-advance/"
+    },
+    {
+      "title": "NLP in Python: Probability Models, Statistics, Text Analysis",
+      "url": "https://www.udemy.com/course/nlp-in-python-probability-models-statistics-text-analysis/"
+    },
+    {
+      "title": "The Complete Course: Artificial Intelligence From Scratch",
+      "url": "https://www.udemy.com/course/artificial-intelligence-mastercalss/"
+    },
+    {
+      "title": "Deep learning :End to End Object Detection Masters",
+      "url": "https://www.udemy.com/course/end-to-end-object-detection-masters/"
+    },
+    {
+      "title": "The Ultimate Beginners Guide to Python NumPy",
+      "url": "https://www.udemy.com/course/the-ultimate-beginners-guide-to-python-numpy/"
+    },
+    {
+      "title": "Time Series Analysis Real world use-cases in python",
+      "url": "https://www.udemy.com/course/time-series-analysis-real-world-use-cases-in-python/"
+    },
+    {
+      "title": "R Programming: Using R For Agriculture Data Analytics",
+      "url": "https://www.udemy.com/course/r-programming-using-r-for-agriculture-data-analytics/"
+    },
+    {
+      "title": "Build self-driving cars with Genetic Algorithms from scratch",
+      "url": "https://www.udemy.com/course/building-self-driving-cars-in-python-from-scratch/"
+    },
+    {
+      "title": "15 machine learning projects",
+      "url": "https://www.udemy.com/course/industry-level-machine-learning-projects/"
+    },
+    {
+      "title": "ChatGPT Clone with React, SocketIO and OpenAI API",
+      "url": "https://www.udemy.com/course/chatgpt-with-react-and-openai-api-2023-build-your-own-app/"
+    },
+    {
+      "title": "A Comprehensive Guide to PostGIS and Spatial Queries",
+      "url": "https://www.udemy.com/course/a-comprehensive-guide-to-postgis-and-spatial-queries/"
+    },
+    {
+      "title": "Microsoft Azure Machine Learning - DP-100",
+      "url": "https://www.udemy.com/course/azure-machine-learning-bootcamp/"
+    },
+    {
+      "title": "Backcasting from a solar punk future using generative AI",
+      "url": "https://www.udemy.com/course/backcasting-via-regenerative-ai/"
+    },
+    {
+      "title": "230+ Exercises - Python for Data Science - NumPy + Pandas",
+      "url": "https://www.udemy.com/course/python-for-data-science-numpy-pandas-exercises/"
+    },
+    {
+      "title": "Supervised Learning for AI with Python and Tensorflow 2",
+      "url": "https://www.udemy.com/course/supervised-learning-for-ai-with-python-and-tensorflow-2/"
+    },
+    {
+      "title": "ML Ops: Beginner",
+      "url": "https://www.udemy.com/course/ml-ops-beginner/"
+    },
+    {
+      "title": "Nuts and bolts of MLFlow",
+      "url": "https://www.udemy.com/course/nuts-and-bolts-of-mlflow/"
+    },
+    {
+      "title": "2025 Agentic RAG with LangChain and LangGraph - Ollama",
+      "url": "https://www.udemy.com/course/agentic-rag-with-langchain-and-langgraph/"
+    },
+    {
+      "title": "Python for Data Science - NumPy, Pandas & Scikit-Learn",
+      "url": "https://www.udemy.com/course/python-for-data-science-numpy-pandas-scikit-learn/"
+    },
+    {
+      "title": "Data Engineering - SSIS/ETL/Pipelines/Python/Web Scraping",
+      "url": "https://www.udemy.com/course/data-engineering-ssisetlpipelinespythonweb-scraping/"
+    },
+    {
+      "title": "Python for Data Analysis: Logistic Regression Techniques",
+      "url": "https://www.udemy.com/course/logistic-regression-in-python-titanic-survival-prediction/"
+    },
+    {
+      "title": "Machine Learning with Python, scikit-learn and TensorFlow",
+      "url": "https://www.udemy.com/course/machine-learning-with-python-scikit-learn-tensorflow/"
+    },
+    {
+      "title": "Easy Python for A-Z Data Analysis Bootcamp for Beginners",
+      "url": "https://www.udemy.com/course/python-data-analysis-bootcamp-for-beginners-all-in-one/"
+    },
+    {
+      "title": "Heart Attack and Diabetes Prediction Project in Apache Spark",
+      "url": "https://www.udemy.com/course/disease-prediction-2-mini-projects-in-apache-sparkml/"
+    },
+    {
+      "title": "Python Data Visualization Mastery: From Beginner to Expert",
+      "url": "https://www.udemy.com/course/python-data-visualization-mastery-from-beginner-to-expert/"
+    },
+    {
+      "title": "AI & ML w/ Python-2022-Practical Hands On with Minimum Maths",
+      "url": "https://www.udemy.com/course/getting-started-with-ai-and-ml/"
+    },
+    {
+      "title": "Data Analyst Portfolio Creation to Build Practical Skills",
+      "url": "https://www.udemy.com/course/data-analyst-portfolio-creation-to-build-practical-skills/"
+    },
+    {
+      "title": "Certification in Natural Language Processing (NLP)",
+      "url": "https://www.udemy.com/course/certification-in-natural-language-processing-nlp/"
+    },
+    {
+      "title": "Mastering Deep Learning for Generative AI",
+      "url": "https://www.udemy.com/course/mastering-deep-learning-for-generative-ai/"
+    },
+    {
+      "title": "Machine Learning Projects: Recommendation system website",
+      "url": "https://www.udemy.com/course/machine-learning-projects-recommendation-system-website/"
+    },
+    {
+      "title": "Data Science with Python - A Complete Guide!: 3-in-1",
+      "url": "https://www.udemy.com/course/data-science-with-python-a-complete-guide-3-in-1/"
+    },
+    {
+      "title": "MySQL for Geospatial Applications",
+      "url": "https://www.udemy.com/course/mysql-for-geospatial-applications/"
+    },
+    {
+      "title": "Introduction to Deep Belief Network (DBN) with Python 2023",
+      "url": "https://www.udemy.com/course/introduction-to-deep-belief-network-dbn-with-python-2023/"
+    },
+    {
+      "title": "Data Analysis and Visualization with Pandas and Matplotlib",
+      "url": "https://www.udemy.com/course/data-analysis-and-visualization-with-pandas-and-matplotlib/"
+    },
+    {
+      "title": "AIoT Project: Naive Bayes based Smart Lighting",
+      "url": "https://www.udemy.com/course/artificial-intelligence-and-iot-naive-bayes/"
+    },
+    {
+      "title": "Introduction to Transformer for NLP with Python",
+      "url": "https://www.udemy.com/course/la-hoang-quy-introduction-to-transformer-for-nlp-with-python/"
+    },
+    {
+      "title": "DATA SCIENCE with MACHINE LEARNING and DATA ANALYTICS",
+      "url": "https://www.udemy.com/course/data-science-with-machine-learning-and-data-analytics/"
+    },
+    {
+      "title": "YOLO11 & YOLOv12: Object Detection & Web Apps in Python 2025",
+      "url": "https://www.udemy.com/course/yolo11-custom-object-detection-web-apps-in-python-2024/"
+    },
+    {
+      "title": "Tableau A-Z : Master Tableau for Data Science and BI",
+      "url": "https://www.udemy.com/course/tableau-2021-a-z-master-tableau-for-data-science-and-bi/"
+    },
+    {
+      "title": "Practical Python Wavelet Transforms (I): Fundamentals",
+      "url": "https://www.udemy.com/course/practical-python-wavelet-transform-i-fundamentals/"
+    },
+    {
+      "title": "Big Data Analytics with PySpark + Tableau Desktop + MongoDB",
+      "url": "https://www.udemy.com/course/big-data-analytics-with-pyspark-tableau-desktop-mongodb/"
+    },
+    {
+      "title": "Google Bard: 50 Digital Marketing Hacks to Make Money Online",
+      "url": "https://www.udemy.com/course/google-bard-50-digital-marketing-hacks-to-make-money-online-with-ai/"
+    },
+    {
+      "title": "Mastering Data Wrangling with PySpark in Databricks",
+      "url": "https://www.udemy.com/course/master-data-processing-pyspark/"
+    },
+    {
+      "title": "Getting Started with Open Drone Map (ODM)",
+      "url": "https://www.udemy.com/course/getting-started-with-open-drone-map-odm/"
+    },
+    {
+      "title": "Machine Learning with Python|Business Applications|AI Robot",
+      "url": "https://www.udemy.com/course/machine-learning-with-python-intelligent-gaming-robot/"
+    },
+    {
+      "title": "Master R & RStudio: Beginner Essentials Unleashed",
+      "url": "https://www.udemy.com/course/introduction-to-r-programming-rstudio-for-beginners/"
+    },
+    {
+      "title": "Guide to Big Data Analytics: Origination to Opportunities",
+      "url": "https://www.udemy.com/course/big-data-analytics/"
+    },
+    {
+      "title": "[NEW] 2025:Mastering Computer Vision With GenAI :12 Projects",
+      "url": "https://www.udemy.com/course/complete-deep-learning-computer-vision-with-projects/"
+    },
+    {
+      "title": "19 Generative AI Real Time Projects End to End",
+      "url": "https://www.udemy.com/course/19-generative-ai-real-time-projects-end-to-end/"
+    },
+    {
+      "title": "Machine Learning For Beginners: Build and Train an ML Model",
+      "url": "https://www.udemy.com/course/machine-learning-for-beginners-build-and-train-an-ml-model/"
+    },
+    {
+      "title": "Practical AI and Machine Learning with Model Builder AutoML",
+      "url": "https://www.udemy.com/course/practical-ai-and-machine-learning-with-model-builder-automl/"
+    },
+    {
+      "title": "Data Visualization in Python (Mplib, Seaborn, Plotly, Dash)",
+      "url": "https://www.udemy.com/course/data-visualization-in-python/"
+    },
+    {
+      "title": "Master Data Analysis with Pandas",
+      "url": "https://www.udemy.com/course/pandas-tutorial/"
+    },
+    {
+      "title": "2025 The Ultimate Data Prep & EDA Course in Python",
+      "url": "https://www.udemy.com/course/the-a-to-z-of-data-preprocessing-for-data-science-in-python/"
+    },
+    {
+      "title": "Power BI Project Focused Course",
+      "url": "https://www.udemy.com/course/power-bi-project-focused-course/"
+    },
+    {
+      "title": "Getting Started with Decision Trees",
+      "url": "https://www.udemy.com/course/getting-started-with-decision-trees/"
+    },
+    {
+      "title": "Masterclass of Machine Learning with Python",
+      "url": "https://www.udemy.com/course/master-machine-learning-with-scikit-learn-library-python/"
+    },
+    {
+      "title": "Data Science Bundle: 180 Hands-On Projects - Course 3 of 3",
+      "url": "https://www.udemy.com/course/practical-data-science-projects/"
+    },
+    {
+      "title": "Mastering Polars: The Beginner's Guide",
+      "url": "https://www.udemy.com/course/mastering-polars-high-performance-data-analysis-in-python/"
+    },
+    {
+      "title": "Artificial Intelligence: Advanced Machine Learning",
+      "url": "https://www.udemy.com/course/ultimate-machine-learning-techniques-with-python/"
+    },
+    {
+      "title": "Artificial Intelligence: Genetic Machine Learning Algorithms",
+      "url": "https://www.udemy.com/course/genetical-algorithms-vp/"
+    },
+    {
+      "title": "Machine Learning & Data Science Bootcamp with R & Python",
+      "url": "https://www.udemy.com/course/machine-learning-data-science-bootcamp-with-r-python/"
+    },
+    {
+      "title": "ChatGPT Practice Tests and Interview Questions - Basic/Adv",
+      "url": "https://www.udemy.com/course/chatgpt-practice-tests-and-interview-questions-basic-and-advanced/"
+    },
+    {
+      "title": "AI Engineer Professional Certificate Course",
+      "url": "https://www.udemy.com/course/ai-engineer-professional-certificate-course/"
+    },
+    {
+      "title": "Scrape the Planet! Building Web Scrapers with Python",
+      "url": "https://www.udemy.com/course/scrape-the-planet/"
+    },
+    {
+      "title": "Data Visualization in Stata",
+      "url": "https://www.udemy.com/course/data-visualization-in-stata/"
+    },
+    {
+      "title": "AI For Non-Technical People: A Hands-On Beginner's Course",
+      "url": "https://www.udemy.com/course/ai-for-non-technical-people-a-hands-on-beginners-course/"
+    },
+    {
+      "title": "Artificial Intelligence for Business",
+      "url": "https://www.udemy.com/course/artificial-intelligence-for-business-c/"
+    },
+    {
+      "title": "ChatGPT for Data Science and Machine Learning",
+      "url": "https://www.udemy.com/course/chatgpt-for-data-science-and-machine-learning-y/"
+    },
+    {
+      "title": "Machine Learning Practice Tests and Interview Questions",
+      "url": "https://www.udemy.com/course/machine-learning-practice-tests-and-interview-questions/"
+    },
+    {
+      "title": "Practical Foundations of R Programming",
+      "url": "https://www.udemy.com/course/practical-foundations-of-r-programming/"
+    },
+    {
+      "title": "Data Analytics Essentials: Analyze, Visualize, Interpret",
+      "url": "https://www.udemy.com/course/data-analytics-j/"
+    },
+    {
+      "title": "Time Series Analysis and Forecasting using Python",
+      "url": "https://www.udemy.com/course/time-series-analysis-and-forecasting-plus-eda-using-python/"
+    },
+    {
+      "title": "The Complete Recurrent Neural Network with Python Course",
+      "url": "https://www.udemy.com/course/the-complete-recurrent-neural-network-with-python-course/"
+    },
+    {
+      "title": "Artificial intelligence A-Z For Content Creators,Researchers",
+      "url": "https://www.udemy.com/course/artificial-intelligence-a-z-for-content-creatorsresearchers/"
+    },
+    {
+      "title": "Data Visualization in JavaScript with React and D3.js",
+      "url": "https://www.udemy.com/course/data-visualization-react-d3/"
+    },
+    {
+      "title": "Python Programming Mastery : From Basics to Mastery",
+      "url": "https://www.udemy.com/course/python-mastery-from-basics-to-advanced/"
+    },
+    {
+      "title": "OpenAI Python API Startup: ChatGPT, Image Gen, Speech-Text+",
+      "url": "https://www.udemy.com/course/openai-python-api-chatbot-images-speech-text/"
+    },
+    {
+      "title": "Deep Learning Image Classification in PyTorch 2.0",
+      "url": "https://www.udemy.com/course/deep-learning-image-classification-in-pytorch-20/"
+    },
+    {
+      "title": "Python & Data Science with R | Python & R Programming",
+      "url": "https://www.udemy.com/course/python-data-science-with-r-python-r-programming/"
+    },
+    {
+      "title": "Machine Learning & Deep Learning Masterclass in One Semester",
+      "url": "https://www.udemy.com/course/machine-learning-and-deep-learning-in-one-semester/"
+    },
+    {
+      "title": "Data Engineer Foundations: Build Modern Data Systems",
+      "url": "https://www.udemy.com/course/certified-data-engineering-foundation-course/"
+    },
+    {
+      "title": "DVC and Git For Data Science",
+      "url": "https://www.udemy.com/course/dvc-and-git-for-data-science/"
+    },
+    {
+      "title": "AI Made Easy : A Complete DeepSeek Zero to Hero Masterclass",
+      "url": "https://www.udemy.com/course/ai-made-easy-a-complete-deepseek-zero-to-hero-masterclass/"
+    },
+    {
+      "title": "Natural Language Processing with Machine Learning in Python",
+      "url": "https://www.udemy.com/course/natural-language-processing-with-machine-learning-in-python/"
+    },
+    {
+      "title": "Artificial Intelligence - Mastering Python, ML, and NLP",
+      "url": "https://www.udemy.com/course/artificial-intelligence-for-robotics-with-nlp-using-python/"
+    },
+    {
+      "title": "Certified Data Scientist",
+      "url": "https://www.udemy.com/course/questions-job-interview-data-scientist/"
+    },
+    {
+      "title": "Data Science in Marketing: An Introduction Course 2022",
+      "url": "https://www.udemy.com/course/data-science-in-marketing-an-introduction-course-2021/"
+    },
+    {
+      "title": "Trending Stocks with Python, Reddit, Twitter, and ChatGPT",
+      "url": "https://www.udemy.com/course/trending-stocks-with-python-reddit-twitter-and-chatgpt/"
+    },
+    {
+      "title": "Data Quality Testing Unleashed : Theory to Implementation",
+      "url": "https://www.udemy.com/course/data-quality-testing-unleashed-theory-to-implementation/"
+    },
+    {
+      "title": "Data Science Statistics A-Z : Python",
+      "url": "https://www.udemy.com/course/data-science-statistics-python/"
+    },
+    {
+      "title": "Data Science & Machine Learning Study Bootcamp: From A to Z.",
+      "url": "https://www.udemy.com/course/data-science-machine-learning-python-career-bootcamp-course-projects/"
+    },
+    {
+      "title": "Practical AI",
+      "url": "https://www.udemy.com/course/practical-ai/"
+    },
+    {
+      "title": "Deep Learning & Neural Networks Python - Keras : For Dummies",
+      "url": "https://www.udemy.com/course/deep-learning-neural-networks-python-keras-for-dummies/"
+    },
+    {
+      "title": "Deep Learning: NLP for Sentiment analysis & Translation 2025",
+      "url": "https://www.udemy.com/course/deep-learning-nlp-for-sentiment-analysis-translation-2023/"
+    },
+    {
+      "title": "Master AI Art: Automatic 1111, ComfyUI & Stable Diffusion",
+      "url": "https://www.udemy.com/course/master-ai-art-automatic-1111-comfyui-stable-diffusion/"
+    },
+    {
+      "title": "Statistics Masterclass: Stats Using SPSS, Excel, R & Python",
+      "url": "https://www.udemy.com/course/statistics-masterclass/"
+    },
+    {
+      "title": "Complete Python Data Science, Deep Learning, R Programming",
+      "url": "https://www.udemy.com/course/complete-data-science-deep-learning-r-data-science-2021/"
+    },
+    {
+      "title": "Data Analysis and Business Intelligence with Python & SQL",
+      "url": "https://www.udemy.com/course/data-analysis-business-intelligence-python-pandas-sql/"
+    },
+    {
+      "title": "Data Science, AI, and Machine Learning with Python",
+      "url": "https://www.udemy.com/course/data-science-artificial-intelligence-machine-learning-with-python/"
+    },
+    {
+      "title": "Data Analyst Interview Prep. with 800+ Imp. Questions[2025]",
+      "url": "https://www.udemy.com/course/data-analyst-interview-prep-with-900-questions-and-answers/"
+    },
+    {
+      "title": "Data Science Bootcamp in Python: 250+ Exercises to Master",
+      "url": "https://www.udemy.com/course/250-exercises-data-science-bootcamp-in-python/"
+    },
+    {
+      "title": "Testing Statistical Hypotheses in Data science with Python 3",
+      "url": "https://www.udemy.com/course/testing-statistical-hypotheses-in-data-science-with-python-3/"
+    },
+    {
+      "title": "Fundamentals of Data Science and Machine Learning",
+      "url": "https://www.udemy.com/course/fundamentals-of-data-science-and-machine-learning/"
+    },
+    {
+      "title": "Data Modeling: Power BI Data Modeling Essentials",
+      "url": "https://www.udemy.com/course/power-bi-data-modeling/"
+    },
+    {
+      "title": "12 in 1 ChatGPT Fiverr Copywriting Hacks: Make Money Online",
+      "url": "https://www.udemy.com/course/12-in-1-chatgpt-fiverr-copywriting-hacks-make-money-online/"
+    },
+    {
+      "title": "Natural Language Processing From First Principles",
+      "url": "https://www.udemy.com/course/natural-language-processing-from-first-principles/"
+    },
+    {
+      "title": "Practical Artificial Intelligence",
+      "url": "https://www.udemy.com/course/practical-artificial-intelligence/"
+    }
+  ]
+}

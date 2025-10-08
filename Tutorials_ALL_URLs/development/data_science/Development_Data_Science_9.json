@@ -1,0 +1,842 @@
+{
+  "main_category": "development",
+  "sub_category": "Data Science",
+  "courses": [
+    {
+      "title": "从自动化到智能化：技术与理论发展的逻辑",
+      "url": "https://www.udemy.com/course/fltyrklk/"
+    },
+    {
+      "title": "Python数据分析行业案例课程--信用评分方法",
+      "url": "https://www.udemy.com/course/python-lr/"
+    },
+    {
+      "title": "Aprender Python para Brasileiros: Mechanismo de Busca",
+      "url": "https://www.udemy.com/course/aprender-python-para-brasileiros-mechanismo-de-busca/"
+    },
+    {
+      "title": "Ciencia de los Datos - Python, Plotly y Leaflet - AulaGEO",
+      "url": "https://www.udemy.com/course/aprende-ciencia-de-los-datos/"
+    },
+    {
+      "title": "Master the Basics of R Programming from Scratch",
+      "url": "https://www.udemy.com/course/master-the-basics-of-r-programming-from-scratch/"
+    },
+    {
+      "title": "Cara menggunakan subfinder dan Domainscraper buatan saya",
+      "url": "https://www.udemy.com/course/cara-menggunakan-subfinder-dan-domainscraper-buatan-saya/"
+    },
+    {
+      "title": "データサイエンス実戦講座［第７回］機械学習『予測』線形回帰から一般化線形モデルへ　演習：タイタニック号の事故データ分析",
+      "url": "https://www.udemy.com/course/7-sawggf/"
+    },
+    {
+      "title": "ChatGPT自媒体全能写手",
+      "url": "https://www.udemy.com/course/chatgpt-ty/"
+    },
+    {
+      "title": "Fortgeschrittener R-Analyst - next Level R Programmierung",
+      "url": "https://www.udemy.com/course/fortgeschrittener-r-analyst-next-level-r-programmierung/"
+    },
+    {
+      "title": "Python数据分析科学库经典教程",
+      "url": "https://www.udemy.com/course/python-jo/"
+    },
+    {
+      "title": "(Ken Cen出品)Generative AI第11部 企業級的AI解決方案 - Cohere",
+      "url": "https://www.udemy.com/course/generative_ai_11/"
+    },
+    {
+      "title": "AUTOML + ORANGE completo: analisando dados e modelos",
+      "url": "https://www.udemy.com/course/automl-orange-completo-analisando-dados-e-modelos/"
+    },
+    {
+      "title": "APACHE Superset e Alteryx TRIFACTA - Dados e Visualizações",
+      "url": "https://www.udemy.com/course/apache-superset-e-alteryx-trifacta-dados-e-visualizacoes/"
+    },
+    {
+      "title": "Machine Learning Básico Aplicado a Hidrocarburos",
+      "url": "https://www.udemy.com/course/machine-learning-basico-aplicado-a-hidrocarburos/"
+    },
+    {
+      "title": "Bazy danych MongoDB - kurs dla każdego!",
+      "url": "https://www.udemy.com/course/bazy-danych-mongodb-kurs-dla-kazdego/"
+    },
+    {
+      "title": "Curso Completo: LangChain, LangGraph y Agentes IA con Python",
+      "url": "https://www.udemy.com/course/curso-completo-langchain-langgraph-y-agentes-ia-con-python/"
+    },
+    {
+      "title": "大模型的实战应用：有监督学习之机器学习",
+      "url": "https://www.udemy.com/course/yfkvhhhc/"
+    },
+    {
+      "title": "AI绘画大师课：Midjourney入门到精通",
+      "url": "https://www.udemy.com/course/aimidjourney-w/"
+    },
+    {
+      "title": "Python数据可视化：Pyecharts可视化实战",
+      "url": "https://www.udemy.com/course/pythonpyecharts/"
+    },
+    {
+      "title": "Statistics for machine learning in Arabic",
+      "url": "https://www.udemy.com/course/statistics-for-machine-learning-in-arabic/"
+    },
+    {
+      "title": "데이터분석 패키지 : Numpy(넘파이) 제대로 배우기 Part.1",
+      "url": "https://www.udemy.com/course/numpy-part1/"
+    },
+    {
+      "title": "Lógica de Programação para Data Science",
+      "url": "https://www.udemy.com/course/logica-de-programacao-data-science/"
+    },
+    {
+      "title": "AI量化之道：DeepSeek+Python让量化交易插上翅膀",
+      "url": "https://www.udemy.com/course/aideepseekpython/"
+    },
+    {
+      "title": "金融风控实战入门",
+      "url": "https://www.udemy.com/course/fzondrom/"
+    },
+    {
+      "title": "AIGC在游戏⽣态中的应⽤探究：如何提升效率与创意",
+      "url": "https://www.udemy.com/course/aigc-ckc/"
+    },
+    {
+      "title": "Analistler için Veri Görselleştirme - 2025",
+      "url": "https://www.udemy.com/course/analistler-icin-veri-gorsellestirme/"
+    },
+    {
+      "title": "ViT（Vision Transformer）原理与代码精讲",
+      "url": "https://www.udemy.com/course/vit-transformer/"
+    },
+    {
+      "title": "쉽게 배우는 텍스트 마이닝(Text Mining) Part.3 한국어를 위한 KoNLPy",
+      "url": "https://www.udemy.com/course/text-mining-part3-konlpy/"
+    },
+    {
+      "title": "Stable Diffusion 实战课",
+      "url": "https://www.udemy.com/course/stable-diffusion-z/"
+    },
+    {
+      "title": "巧用ChatGPT，Offer拿到手软",
+      "url": "https://www.udemy.com/course/chatgptoffer/"
+    },
+    {
+      "title": "Machine Learning & Deep Learning in Python & R",
+      "url": "https://www.udemy.com/course/data_science_a_to_z/"
+    },
+    {
+      "title": "Ciência de Dados , Machine Learning com Python e Power BI",
+      "url": "https://www.udemy.com/course/ciencia-dados-aplicada-python-powerbi/"
+    },
+    {
+      "title": "Metabase: Análise e visualização de Dados para iniciantes",
+      "url": "https://www.udemy.com/course/metabase-analise-e-visualizacao-de-dados-para-iniciantes/"
+    },
+    {
+      "title": "Inteligencia Artificial Generativa en Snowflake",
+      "url": "https://www.udemy.com/course/inteligencia-artificial-generativa-en-snowflake/"
+    },
+    {
+      "title": "所有人都能玩转的ChatGPT",
+      "url": "https://www.udemy.com/course/chatgpt-m/"
+    },
+    {
+      "title": "Pandas One - Análise de Dados com Pandas",
+      "url": "https://www.udemy.com/course/pandas-one-analise-de-dados-com-pandas/"
+    },
+    {
+      "title": "Python零基础入门全攻略",
+      "url": "https://www.udemy.com/course/python-mm/"
+    },
+    {
+      "title": "초보자도 쉽게! 따라하며 배우는 Python 데이터분석 Part.1 - 주요 문법 및 함수",
+      "url": "https://www.udemy.com/course/python-part1/"
+    },
+    {
+      "title": "copilot과 함께 파이썬 찍어먹기 (크롤링 , 데이터시각화 )",
+      "url": "https://www.udemy.com/course/copilotwithcrol/"
+    },
+    {
+      "title": "Data science & IA : le volet data analyst",
+      "url": "https://www.udemy.com/course/data-science-ia-le-volet-data-analyst/"
+    },
+    {
+      "title": "Excel na wakacjach: Automatyzacja z xlwings i Python",
+      "url": "https://www.udemy.com/course/excel-na-wakacjach-automatyzacja-z-xlwings/"
+    },
+    {
+      "title": "Excel - Fórmulas & Macros & VBA & Power BI",
+      "url": "https://www.udemy.com/course/excel-formulas-o/"
+    },
+    {
+      "title": "深度喚醒：DeepSeek的高效提示詞技巧與實戰應用",
+      "url": "https://www.udemy.com/course/deepseek-r/"
+    },
+    {
+      "title": "AI 第一课：揭秘人工智能背后的工作原理",
+      "url": "https://www.udemy.com/course/ai-wnhvq/"
+    },
+    {
+      "title": "Python数据可视化基础实践课程",
+      "url": "https://www.udemy.com/course/python-da/"
+    },
+    {
+      "title": "科大讯飞-星火内容运营大师实战教程",
+      "url": "https://www.udemy.com/course/qphmrnlq/"
+    },
+    {
+      "title": "邏輯思考應用：3.程式應用與實務",
+      "url": "https://www.udemy.com/course/3-kwuhav/"
+    },
+    {
+      "title": "IA & Machine Learning : Prédire des scores de football",
+      "url": "https://www.udemy.com/course/ia-pour-predire-les-scores-de-football-formation-complete/"
+    },
+    {
+      "title": "ChatGPT高效工作伙伴",
+      "url": "https://www.udemy.com/course/chatgpt-sl/"
+    },
+    {
+      "title": "机器学习：经典算法与模型实例",
+      "url": "https://www.udemy.com/course/utxzopnu/"
+    },
+    {
+      "title": "CopyGPT: Cómo potenciar tu copywriting usando AI",
+      "url": "https://www.udemy.com/course/copygpt-copywriting/"
+    },
+    {
+      "title": "数据之纲：建模与架构探秘",
+      "url": "https://www.udemy.com/course/azpezeln/"
+    },
+    {
+      "title": "NLP算法——贝叶斯算法入门必备宝典",
+      "url": "https://www.udemy.com/course/nlp-wvqi/"
+    },
+    {
+      "title": "Pemanfaatan AI BOT di dunia akademisi (free ai bot password)",
+      "url": "https://www.udemy.com/course/pemanfaatan-ai-bot-di-dunia-akademisi/"
+    },
+    {
+      "title": "Artificial intelligence (AI) الذكاء الاصطناعي بالعربي",
+      "url": "https://www.udemy.com/course/artificial-intelligence-ai-x/"
+    },
+    {
+      "title": "Curso Completo de SQL com MySQL",
+      "url": "https://www.udemy.com/course/curso-completo-de-sql-com-mysql/"
+    },
+    {
+      "title": "(Ken Cen 出品) Generative AI 第 34 部：用英偉達CUDA C 進階打造神經網絡的底層核心",
+      "url": "https://www.udemy.com/course/generative_ai_34/"
+    },
+    {
+      "title": "【AI 자막】 머신러닝 마스터 클래스, AI 인공지능 쉽게 이해하기 (초보에서 숙련된 실무자로!)",
+      "url": "https://www.udemy.com/course/machine-learning-masterclass-ai-made-easy-korean/"
+    },
+    {
+      "title": "Sztuczna Inteligencja w Biznesie - Rozmowa Kwalifikacyjna AI",
+      "url": "https://www.udemy.com/course/sztuczna-inteligencja-w-biznesie-rozmowa-kwalifikacyjna-ai/"
+    },
+    {
+      "title": "Pelatihan Inovasi AI Vision dan OCR Menggunakan Python",
+      "url": "https://www.udemy.com/course/pelatihancvocr/"
+    },
+    {
+      "title": "Oracle SQL 0-dan irəli səviyyəyə | 2025",
+      "url": "https://www.udemy.com/course/elmircoursesql/"
+    },
+    {
+      "title": "R ilə proqramlaşdırma, Data və Statistiksəl analizlər",
+      "url": "https://www.udemy.com/course/r-il-proqramlasdrma-data-v-statistiksl-analizlr/"
+    },
+    {
+      "title": "Les bases de Python",
+      "url": "https://www.udemy.com/course/les-bases-de-python-n/"
+    },
+    {
+      "title": "(Ken Cen出品)Generative AI第27部 強化學習模型RLHF 與 策略梯度優化",
+      "url": "https://www.udemy.com/course/generative_ai_27/"
+    },
+    {
+      "title": "(Ken Cen出品)Generative AI第25部 使用Pytorch編寫 Stable Diffusion 下部",
+      "url": "https://www.udemy.com/course/generative_ai_25/"
+    },
+    {
+      "title": "Google Document AI e OCR: Lendo imagens utilizando IA v2025",
+      "url": "https://www.udemy.com/course/google-document-ai/"
+    },
+    {
+      "title": "Apache Flink 1.17.x DataStream API Streaming即時計算完全教程",
+      "url": "https://www.udemy.com/course/apache-flink-117x-datastream-api-streaming/"
+    },
+    {
+      "title": "Derin Öğrenme ile Arazi Sınıflandırması (Arcgis Pro 3.4)",
+      "url": "https://www.udemy.com/course/derin-ogrenme-ile-arazi-snflandrmas-arcgis-pro-34/"
+    },
+    {
+      "title": "知识图谱快速入门（基于Python）",
+      "url": "https://www.udemy.com/course/python-wq/"
+    },
+    {
+      "title": "تعلم خوارزميات الذكاء الاصطناعى وتنبؤ البيانات بالويكا",
+      "url": "https://www.udemy.com/course/data-mining-and-machine-learning-with-weka-gui-interface/"
+    },
+    {
+      "title": "[DE] KI-Masterclass: Vom Anfänger zum KI-Helden",
+      "url": "https://www.udemy.com/course/ki-ingenieurwesen-masterclass-vom-anfanger-zum-ki-helden/"
+    },
+    {
+      "title": "(Ken Cen 出品) Generative AI 第 33 部：用英偉達CUDA C加速 AI - GPU底層核心",
+      "url": "https://www.udemy.com/course/generative_ai_33/"
+    },
+    {
+      "title": "2021 JSON ve Python ile JSON İşleme + Proje +PDF",
+      "url": "https://www.udemy.com/course/json-python-api-entegrasyon-egitimi/"
+    },
+    {
+      "title": "LangChain开发实战",
+      "url": "https://www.udemy.com/course/langchain-a/"
+    },
+    {
+      "title": "强化Q学习构建Turtle控制的人工智能代理【中字】",
+      "url": "https://www.udemy.com/course/qturtle-k/"
+    },
+    {
+      "title": "The Data Science Course: Complete Data Science Bootcamp 2025",
+      "url": "https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/"
+    },
+    {
+      "title": "ChatGPT应用指南：职场技能通关",
+      "url": "https://www.udemy.com/course/chatgpt-ra/"
+    },
+    {
+      "title": "(Ken Cen出品)Generative AI第26部 Mistral 語言模型的架構秘密",
+      "url": "https://www.udemy.com/course/generative_ai_26/"
+    },
+    {
+      "title": "The Guide to be: a storyteller with data",
+      "url": "https://www.udemy.com/course/be-astoryteller/"
+    },
+    {
+      "title": "AI大模型应用从入门到实战 2025（DeepSeek）",
+      "url": "https://www.udemy.com/course/ai-llm-study/"
+    },
+    {
+      "title": "Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2025]",
+      "url": "https://www.udemy.com/course/machinelearning/"
+    },
+    {
+      "title": "오렌지(Orange)를 활용한 코딩 없는 AI 데이터 분석 - Lv.6 텍스트와 이미지 분석",
+      "url": "https://www.udemy.com/course/maso-ds-orange-onc50/"
+    },
+    {
+      "title": "Python人工智能AI零基础编程开发：从零开始掌握Python编程，探索人工智能和数据爬虫，轻松构建智能应用",
+      "url": "https://www.udemy.com/course/pythonaipython/"
+    },
+    {
+      "title": "L’IA POUR OPTIMISER SON TRAVAIL: outils et logiciels",
+      "url": "https://www.udemy.com/course/ia-optimiser-le-travail-en-entreprise-avec-lia-et-chatgpt/"
+    },
+    {
+      "title": "科大讯飞-星火AI大模型教程",
+      "url": "https://www.udemy.com/course/ai-yhcfz/"
+    },
+    {
+      "title": "เรียน Canva Sheets วิเคราะห์ข้อมูลและสร้างงานดีไซน์อย่างโปร",
+      "url": "https://www.udemy.com/course/canvasheets/"
+    },
+    {
+      "title": "의약학,바이오 분야 논문그래프 시리즈-2 : 시간 경과에 따른 변화의 그래프",
+      "url": "https://www.udemy.com/course/repeated_means/"
+    },
+    {
+      "title": "AI数学①文系・中高年の方でも分かる！AIのための数学入門(線形代数ー行列編)ー国立大学を首席で卒業したプロの講師直伝！",
+      "url": "https://www.udemy.com/course/ai1ai-yq/"
+    },
+    {
+      "title": "生成式AI大模型应用实战",
+      "url": "https://www.udemy.com/course/ai-onpgu/"
+    },
+    {
+      "title": "MySQL数据库进阶实战",
+      "url": "https://www.udemy.com/course/collenzhao-mysql/"
+    },
+    {
+      "title": "达梦（DM）数据库从零开始",
+      "url": "https://www.udemy.com/course/dm-collenzhao/"
+    },
+    {
+      "title": "【AI 자막】 데이터 구조, 알고리즘, 코딩 인터뷰를 위한 파이썬 클래스!",
+      "url": "https://www.udemy.com/course/python-for-data-structures-algorithms-interviews-korean/"
+    },
+    {
+      "title": "AIGC在游戏⽣态中的应⽤探究：如何提升效率与创意",
+      "url": "https://www.udemy.com/course/aigc-qlz/"
+    },
+    {
+      "title": "تعلم الذكاء الاصطناعي بإنجاز 5 مشاريع عملية – بلا حشو ممل",
+      "url": "https://www.udemy.com/course/5-oxvuoz/"
+    },
+    {
+      "title": "AI辅助英文原版书“悦读”",
+      "url": "https://www.udemy.com/course/ai-nlnmn/"
+    },
+    {
+      "title": "Blockchain : Découvrir les fondamentaux",
+      "url": "https://www.udemy.com/course/blockchain-decouvrir-les-fondamentaux/"
+    },
+    {
+      "title": "Python数据分析系列课程：学习文本挖掘",
+      "url": "https://www.udemy.com/course/python-ayy/"
+    },
+    {
+      "title": "AI数学② 文系でもわかる！AIのための数学入門（積分ー不定積分編）― 国立大学首席卒講師が“足し算の本質”をゼロから",
+      "url": "https://www.udemy.com/course/ai2-ai-n/"
+    },
+    {
+      "title": "深度学习——神经网络实战精讲",
+      "url": "https://www.udemy.com/course/vxxlzhfs/"
+    },
+    {
+      "title": "【デジタル社会の「読み・書き・そろばん」】AI・データサイエンストレンド2022",
+      "url": "https://www.udemy.com/course/ai2022-trend/"
+    },
+    {
+      "title": "【2025年版】DVCで実現するMLOps実践ガイド【python, DVC】",
+      "url": "https://www.udemy.com/course/dvc-mlops-reproduce/"
+    },
+    {
+      "title": "【AI 자막】 파이썬 부트캠프 와 함께 하는 랭체인 클래스! (LangChain)",
+      "url": "https://www.udemy.com/course/langchain-with-python-bootcamp-korean/"
+    },
+    {
+      "title": "Introducción a la visualización de datos en R con ggplot2",
+      "url": "https://www.udemy.com/course/introggplot2/"
+    },
+    {
+      "title": "AI In Project Management & Manage AI Projects",
+      "url": "https://www.udemy.com/course/ai-in-project-management/"
+    },
+    {
+      "title": "人工智能技术之旅",
+      "url": "https://www.udemy.com/course/wixoxggr/"
+    },
+    {
+      "title": "Machine Learning e Modelos de IA em Python para dados",
+      "url": "https://www.udemy.com/course/machine-learning-fundamentos-algoritmos-e-aplicacoes/"
+    },
+    {
+      "title": "ECBA 商业/业务分析师 (初级)认证培训课程：单元4发掘与协作、需求分析与设计定义、需求生命周期管理",
+      "url": "https://www.udemy.com/course/ecba-4-l/"
+    },
+    {
+      "title": "De Excel y SQL a Python: Series de Tiempo Financieras",
+      "url": "https://www.udemy.com/course/python_series_tiempo/"
+    },
+    {
+      "title": "使用ChatGPT学习数据静态可视化操作",
+      "url": "https://www.udemy.com/course/chatgpt-uf/"
+    },
+    {
+      "title": "Python数据分析系列课程：学习Pandas",
+      "url": "https://www.udemy.com/course/pythonpandas-q/"
+    },
+    {
+      "title": "The Complete Agentic AI Engineering Course (2025)",
+      "url": "https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/"
+    },
+    {
+      "title": "Pythonで学ぶ実践強化学習：Q学習で迷路AIを作ろう",
+      "url": "https://www.udemy.com/course/learn-rl/"
+    },
+    {
+      "title": "关键点检测实战",
+      "url": "https://www.udemy.com/course/xssjdxva/"
+    },
+    {
+      "title": "Data Science Mudah Menggunakan Phyton",
+      "url": "https://www.udemy.com/course/data-science-mudah-menggunakan-phyton/"
+    },
+    {
+      "title": "Python ile Veri Analisti Olun: Temelden İleri Seviyeye",
+      "url": "https://www.udemy.com/course/python-ile-veri-analisti-olun-temelden-ileri-seviyeye/"
+    },
+    {
+      "title": "Data mining для начинающих",
+      "url": "https://www.udemy.com/course/data-mining-for-beginners/"
+    },
+    {
+      "title": "教你制作数字人分身，高效带货变现",
+      "url": "https://www.udemy.com/course/eaidshni/"
+    },
+    {
+      "title": "Databricks Delta Lake + APACHE HOP: Carga e Dados",
+      "url": "https://www.udemy.com/course/databricks-delta-lake-apache-hop-carga-e-dados/"
+    },
+    {
+      "title": "Power BI-stwórz, opublikuj profesjonalny raport do portfolio",
+      "url": "https://www.udemy.com/course/powerbi-stworz-i-opublikuj-profesjonalny-raport-do-portfolio/"
+    },
+    {
+      "title": "SQL结构化查询语言",
+      "url": "https://www.udemy.com/course/collenzhao-sql/"
+    },
+    {
+      "title": "AIでコンテンツを量産して収益化を加速！初心者でもできるAI×オンラインビジネス活用法",
+      "url": "https://www.udemy.com/course/ai-uzyek/"
+    },
+    {
+      "title": "AI时代下的运营基石课",
+      "url": "https://www.udemy.com/course/ai-hpilx/"
+    },
+    {
+      "title": "Swin Transformer实战目标检测：训练自己的数据集",
+      "url": "https://www.udemy.com/course/swint-objdetect/"
+    },
+    {
+      "title": "Projeto Real do Uber com Python: Análise e Ciência de Dados",
+      "url": "https://www.udemy.com/course/projeto-real-do-uber-com-python-analise-e-ciencia-de-dados/"
+    },
+    {
+      "title": "Python大数据分析与机器学习商业案例实战",
+      "url": "https://www.udemy.com/course/python-gp/"
+    },
+    {
+      "title": "Complete Generative AI Course: RAG, AI Agents & Deployment",
+      "url": "https://www.udemy.com/course/generative-ai-for-beginners-chatbots-rag-mcp-ai-agents/"
+    },
+    {
+      "title": "[NL] Full-Stack AI met Ollama: Llama, Deepseek, Mistral, QwQ",
+      "url": "https://www.udemy.com/course/full-stack-ai-met-ollama-llama-deepseek-mistral-qwq/"
+    },
+    {
+      "title": "ChatGPT引爆职场新视界转型从容不迷茫",
+      "url": "https://www.udemy.com/course/chatgpt-s/"
+    },
+    {
+      "title": "Fundamentos do Data Mesh",
+      "url": "https://www.udemy.com/course/fundamentos-do-data-mesh/"
+    },
+    {
+      "title": "(Ken Cen出品)Generative AI第24部 使用Pytorch編寫 Stable Diffusion 上部",
+      "url": "https://www.udemy.com/course/generative_ai_24/"
+    },
+    {
+      "title": "Data Analysis Professionals Using Python Programming",
+      "url": "https://www.udemy.com/course/data-analysis-professionals-using-python-programming/"
+    },
+    {
+      "title": "从零起步实战SLAM",
+      "url": "https://www.udemy.com/course/slam-wkm/"
+    },
+    {
+      "title": "MATLAB: Mühendisliğe Giriş Eğitim Seti",
+      "url": "https://www.udemy.com/course/matlab-muhendislige-giris-egitim-seti/"
+    },
+    {
+      "title": "基于机器学习的电商网站支付欺诈识别",
+      "url": "https://www.udemy.com/course/clsamdlk/"
+    },
+    {
+      "title": "Advanced Excel for Data Analysis: Techniques and Application",
+      "url": "https://www.udemy.com/course/professional-course-for-data-analysis-using-excel/"
+    },
+    {
+      "title": "AI数学③文系・中高年の方でも分かる！AIのための数学入門 ( 微分編 ) ー国立大学首席で卒業したプロの講師直伝！",
+      "url": "https://www.udemy.com/course/ai3ai-xh/"
+    },
+    {
+      "title": "Mastering PySpark-Big Data Processing for Beginners In Hindi",
+      "url": "https://www.udemy.com/course/pyspark-for-beginners-in-hindi/"
+    },
+    {
+      "title": "ChatGPT应用指南：个人商业变现",
+      "url": "https://www.udemy.com/course/chatgpt-wt/"
+    },
+    {
+      "title": "【R超入門】速習！初めてのデータ分析と基礎操作",
+      "url": "https://www.udemy.com/course/r_quickstart/"
+    },
+    {
+      "title": "오렌지(Orange)를 활용한 코딩 없는 AI 데이터 분석 - Lv.2 데이터 전처리와 시각화",
+      "url": "https://www.udemy.com/course/maso-ds-orange-onc44/"
+    },
+    {
+      "title": "오렌지(Orange)를 활용한 코딩 없는 AI 데이터 분석 - Lv.7 시계열 분석과 연관 규칙",
+      "url": "https://www.udemy.com/course/maso-ds-orange-onc69/"
+    },
+    {
+      "title": "Machine Learning with Python [ Arabic ]",
+      "url": "https://www.udemy.com/course/machine-learning-with-python-arabic/"
+    },
+    {
+      "title": "构建数据信任之桥-数据质量管理方法深度解读",
+      "url": "https://www.udemy.com/course/ctumnxww/"
+    },
+    {
+      "title": "AI时代Python量化交易实战：ChatGPT让量化交易插上翅膀",
+      "url": "https://www.udemy.com/course/aipythonchatgpt/"
+    },
+    {
+      "title": "通过数据分析搭建反作弊SOP",
+      "url": "https://www.udemy.com/course/sop-kpvw/"
+    },
+    {
+      "title": "Pelatihan Data Analyst Sertifikasi BNSP",
+      "url": "https://www.udemy.com/course/pelatihan-data-analyst-sertifikasi-bnsp/"
+    },
+    {
+      "title": "Programmation Réseau : Création et Dissimulation",
+      "url": "https://www.udemy.com/course/programmation-reseau-creation-et-dissimulation/"
+    },
+    {
+      "title": "Menguasai Fundamental Data Science",
+      "url": "https://www.udemy.com/course/belajar-data-science/"
+    },
+    {
+      "title": "ChatGPT Crash Course for Beginners in Hindi",
+      "url": "https://www.udemy.com/course/chatgpt-crash-course-for-beginners-in-hindi/"
+    },
+    {
+      "title": "ClickHouse技术实战教程",
+      "url": "https://www.udemy.com/course/clickhouse/"
+    },
+    {
+      "title": "AI运营实战，10倍速内容生产实现流量翻倍",
+      "url": "https://www.udemy.com/course/ai10-hrh/"
+    },
+    {
+      "title": "Statistical Average",
+      "url": "https://www.udemy.com/course/statistical-average/"
+    },
+    {
+      "title": "强化学习——原理与实例精讲",
+      "url": "https://www.udemy.com/course/urtdwwhx/"
+    },
+    {
+      "title": "Transformer原理与代码精讲（PyTorch）",
+      "url": "https://www.udemy.com/course/transformer-pytorch/"
+    },
+    {
+      "title": "Banco de Dados com MySQL",
+      "url": "https://www.udemy.com/course/mysql_database/"
+    },
+    {
+      "title": "PostgreSQL: Do Zero à Maestria no Backend",
+      "url": "https://www.udemy.com/course/postgresql-do-zero-a-maestria-no-backend/"
+    },
+    {
+      "title": "(PMI-RMP) Simulation Exams",
+      "url": "https://www.udemy.com/course/pmi-rmp-simulation-exams/"
+    },
+    {
+      "title": "AI工程師必學！Vanna AI Text2SQL 實戰訓練營：打造企業數據分析能力 | 自然語言查詢本地資料庫解決方案",
+      "url": "https://www.udemy.com/course/vanna-ai-text2sql/"
+    },
+    {
+      "title": "Data Science & ML avec Python : Le Cours Ultime",
+      "url": "https://www.udemy.com/course/data-science-ml-avec-python-le-cours-ultime/"
+    },
+    {
+      "title": "家用移动机器人标准解读",
+      "url": "https://www.udemy.com/course/tcgivimp/"
+    },
+    {
+      "title": "通义千问AI大模型人工智能实战课程",
+      "url": "https://www.udemy.com/course/ai-wnyeb/"
+    },
+    {
+      "title": "Numpy数据操纵的艺术",
+      "url": "https://www.udemy.com/course/numpy-tomge/"
+    },
+    {
+      "title": "Machine Learning con Python: Guida Completa a Scikit e AI",
+      "url": "https://www.udemy.com/course/mastering-ai-con-python-scikit-learn-decision-trees-2025/"
+    },
+    {
+      "title": "Python数据分析行业案例课程：学习数据可视化",
+      "url": "https://www.udemy.com/course/python-uo/"
+    },
+    {
+      "title": "用DeepSeek搞定编程：开发新手的趣味入门课",
+      "url": "https://www.udemy.com/course/deepseek-k/"
+    },
+    {
+      "title": "Python ile Finansal Veri Analizi: Hisse Senetleri",
+      "url": "https://www.udemy.com/course/python-ile-finansal-veri-analizi-hisse-senetleri/"
+    },
+    {
+      "title": "les bases de la statistique et de l'analyse de données",
+      "url": "https://www.udemy.com/course/les-bases-de-la-statistique-et-de-lanalyse-de-donnees/"
+    },
+    {
+      "title": "ECBA 商业/业务分析师 (初级)认证培训课程：商业分析和商业分析规划与监督",
+      "url": "https://www.udemy.com/course/ecba-wyo/"
+    },
+    {
+      "title": "Domina la Ciencia de Datos con Python: Desde Cero a Experto",
+      "url": "https://www.udemy.com/course/ciencia-de-datos-con-python-desde-cero/"
+    },
+    {
+      "title": "通过Q-Learning掌握强化学习【中字】",
+      "url": "https://www.udemy.com/course/q-learning/"
+    },
+    {
+      "title": "الطريق إلى الحرية المالية عبر التداول",
+      "url": "https://www.udemy.com/course/wdypefto/"
+    },
+    {
+      "title": "Learn Data Management Concepts In Arabic",
+      "url": "https://www.udemy.com/course/learn-data-management-concepts-in-arabic/"
+    },
+    {
+      "title": "Python for Data Science and Machine Learning Bootcamp",
+      "url": "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/"
+    },
+    {
+      "title": "【初心者向け】音声AIでクローンボイスを作りOpenAIのAPIと組み合わせてチャットボットを構築してみよう！",
+      "url": "https://www.udemy.com/course/ai_audio/"
+    },
+    {
+      "title": "UNet（TensorFlow2）图像语义分割实战：训练自己的数据集",
+      "url": "https://www.udemy.com/course/unet-tensorflow2/"
+    },
+    {
+      "title": "Tensorflow für Python Programmierer",
+      "url": "https://www.udemy.com/course/tensorflow-fuer-python-programmierer/"
+    },
+    {
+      "title": "(Ken Cen出品)Generative AI第28部 LLM 對齊革命 - PPO X DPO 策略優化",
+      "url": "https://www.udemy.com/course/generative_ai_28/"
+    },
+    {
+      "title": "Aprendizaje Automático con Python en Google Colab",
+      "url": "https://www.udemy.com/course/aprendizaje-automatico-con-python-en-google-colab/"
+    },
+    {
+      "title": "数据埋点实操课",
+      "url": "https://www.udemy.com/course/fkjppzks/"
+    },
+    {
+      "title": "无人驾驶综合导论",
+      "url": "https://www.udemy.com/course/zlqrjnvo/"
+    },
+    {
+      "title": "Mastering Power BI: From Basics to Advanced Analytics",
+      "url": "https://www.udemy.com/course/professional-course-for-data-analysis-using-power-bi/"
+    },
+    {
+      "title": "Análisis Exploratorio de Datos con Python y R",
+      "url": "https://www.udemy.com/course/analisis-exploratorio-de-datos-con-python-y-r/"
+    },
+    {
+      "title": "Основы работы с данными для бизнес лидеров",
+      "url": "https://www.udemy.com/course/dela_data_management/"
+    },
+    {
+      "title": "TiDB数据库从零开始",
+      "url": "https://www.udemy.com/course/tidb-opz/"
+    },
+    {
+      "title": "(Ken Cen出品)Generative AI第29部 神經網絡2.0 - KAN vs 傳統MLP",
+      "url": "https://www.udemy.com/course/generative_ai_29/"
+    },
+    {
+      "title": "Data science pour le E-Business et le E-Marketing | 2025",
+      "url": "https://www.udemy.com/course/data-science-pour-le-e-business-et-le-e-marketing/"
+    },
+    {
+      "title": "电商商品推荐系统项目实战",
+      "url": "https://www.udemy.com/course/hiuhnefk/"
+    },
+    {
+      "title": "如何通过ChatGPT提高自己的工作效率",
+      "url": "https://www.udemy.com/course/chatgpt-gr/"
+    },
+    {
+      "title": "(Ken Cen出品)Generative AI第22部 如何推理 Llama 大語言模型 下部",
+      "url": "https://www.udemy.com/course/generative_ai_22/"
+    },
+    {
+      "title": "【Pythonで実践】AI・画像認識のためのデータ拡張（Data Augmentation）マスター講座",
+      "url": "https://www.udemy.com/course/pythonaidata-augmentation/"
+    },
+    {
+      "title": "Mastering NumPy: From Basics to Advanced Array Manipulation",
+      "url": "https://www.udemy.com/course/mastering-numpy-from-basics-to-advanced-array-manipulation/"
+    },
+    {
+      "title": "Mastering Blogger: Building Engaging Websites from Scratch",
+      "url": "https://www.udemy.com/course/mastering-blogger-websites-from-scratch/"
+    },
+    {
+      "title": "Looker - Projeto LookML e Camada Semantica",
+      "url": "https://www.udemy.com/course/looker-lookml-do-basico-ao-avancado/"
+    },
+    {
+      "title": "Membuat Transkrip Podcast menggunakan AI",
+      "url": "https://www.udemy.com/course/membuat-transkrip-podcast-menggunakan-ai/"
+    },
+    {
+      "title": "Dominio de Data Science: De Cero a Pro",
+      "url": "https://www.udemy.com/course/dominio-de-data-science-de-cero-a-pro/"
+    },
+    {
+      "title": "PyBI Analytics: Gdzie Python spotyka Power BI",
+      "url": "https://www.udemy.com/course/pybi-analytics-gdzie-python-spotyka-power-bi/"
+    },
+    {
+      "title": "Python para Investidores: Dados Financeiros com Fundamentus",
+      "url": "https://www.udemy.com/course/python-com-fundamentus/"
+    },
+    {
+      "title": "混沌科学系列科普课程",
+      "url": "https://www.udemy.com/course/vvpbuaea/"
+    },
+    {
+      "title": "Fundamentals of Mathematics for Machine Learning | Arabic",
+      "url": "https://www.udemy.com/course/fundamentals-of-mathematics-for-machine-learning-arabic/"
+    },
+    {
+      "title": "JASP統計分析實務(3)",
+      "url": "https://www.udemy.com/course/sem-kychen/"
+    },
+    {
+      "title": "Python数据分析行业案例课程--学习数据挖掘",
+      "url": "https://www.udemy.com/course/python-qg/"
+    },
+    {
+      "title": "【AI研究者が解説】データサイエンス入門 - PythonとAIで学ぶデータ分析の基礎から応用",
+      "url": "https://www.udemy.com/course/ai-pythonai/"
+    },
+    {
+      "title": "通义千问AI大模型私有化部署",
+      "url": "https://www.udemy.com/course/ai-ykwkc/"
+    },
+    {
+      "title": "(Ken Cen 出品) Generative AI 第 32 部：多模態融合：視覺+語言模型高效推論 (下)",
+      "url": "https://www.udemy.com/course/generative_ai_32/"
+    },
+    {
+      "title": "【データ分析】エクセルでできる判別分析！画像検査・工程診断・異常検知などAIを使わず自分で解析と最適化を可能にするコース",
+      "url": "https://www.udemy.com/course/mt_method/"
+    },
+    {
+      "title": "JASP統計分析實務(2)",
+      "url": "https://www.udemy.com/course/jasp2-kychen/"
+    },
+    {
+      "title": "ChatGPT应用指南：日常生活的专业后援团",
+      "url": "https://www.udemy.com/course/chatgpt-kc/"
+    },
+    {
+      "title": "AI通过强化Q-Learning学习《猫抓老鼠》游戏【中字】",
+      "url": "https://www.udemy.com/course/aiq-learning/"
+    },
+    {
+      "title": "AI数学④ 文系・中高年の方でも分かる！AIのための数学入門（確率編） ― 国立大学首席卒の講師がゼロから解説！",
+      "url": "https://www.udemy.com/course/ai4-ai-o/"
+    }
+  ]
+}

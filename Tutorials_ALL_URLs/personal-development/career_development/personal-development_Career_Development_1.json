@@ -1,0 +1,22 @@
+{
+  "main_category": "personal-development",
+  "sub_category": "Career Development",
+  "courses": [
+    {
+      "title": "The Complete Resume, LinkedIn & Get Your Dream Job Course!",
+      "url": "https://www.udemy.com/course/thecompletejobinterviewresumenetworknewcareerguide/"
+    },
+    {
+      "title": "Career Hacking: The Ultimate Job Search Course (Now w/ AI!)",
+      "url": "https://www.udemy.com/course/golden-gate-bridge/"
+    },
+    {
+      "title": "The Complete Job Interviewing Skills Masterclass Course",
+      "url": "https://www.udemy.com/course/the-complete-job-interviewing-skills-masterclass-course/"
+    },
+    {
+      "title": "Presentation Skills - Advanced: Speak Without Reading Notes",
+      "url": "https://www.udemy.com/course/how-to-speak-without-notes/"
+    }
+  ]
+}

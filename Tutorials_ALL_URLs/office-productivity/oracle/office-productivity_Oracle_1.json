@@ -1,0 +1,570 @@
+{
+  "main_category": "office-productivity",
+  "sub_category": "Oracle",
+  "courses": [
+    {
+      "title": "200+ PL/SQL Interview Questions",
+      "url": "https://www.udemy.com/course/plsql-interview-questions/"
+    },
+    {
+      "title": "Oracle Apps Technical R12 Interview Questions FAQ's Realtime",
+      "url": "https://www.udemy.com/course/oracle-apps-technical-r12-interview-questions-answers-real/"
+    },
+    {
+      "title": "Primavera P6 Project Planning and Scheduling Masterclass",
+      "url": "https://www.udemy.com/course/primavera-p6-learning-foundations/"
+    },
+    {
+      "title": "Aprende a utilizar Oracle Primavera P6 ¡de forma ACELERADA!",
+      "url": "https://www.udemy.com/course/curso-primavera-p6/"
+    },
+    {
+      "title": "Learning PL/SQL - Truly Basic to Advanced The Example Way",
+      "url": "https://www.udemy.com/course/learning-plsql-the-example-way/"
+    },
+    {
+      "title": "Primavera P6 Training (Basic to Advanced Level) Urdu-Hindi",
+      "url": "https://www.udemy.com/course/primavera-p6-professional-training-in-urdu-hindi/"
+    },
+    {
+      "title": "Oracle Apps Order Management (R12) Training",
+      "url": "https://www.udemy.com/course/oracle-apps-order-management-r12-training/"
+    },
+    {
+      "title": "Learn Oracle 11g - A Comprehensive Training Course",
+      "url": "https://www.udemy.com/course/oracle-11g-tutorial/"
+    },
+    {
+      "title": "Oracle RMAN - Configure advanced RMAN backups and scripts",
+      "url": "https://www.udemy.com/course/oracle-rman-advanced-backups/"
+    },
+    {
+      "title": "Oracle active dataguard",
+      "url": "https://www.udemy.com/course/oracle-active-dataguard/"
+    },
+    {
+      "title": "Oracle Fusion Cloud HCM Technical(BI Reports Development)",
+      "url": "https://www.udemy.com/course/oracle-fusion-cloud-hcm-technicalbi-reports-dev-customiz/"
+    },
+    {
+      "title": "Oracle Machine Learning with Oracle Cloud : An Introduction",
+      "url": "https://www.udemy.com/course/oracle-machine-learning-with-oracle-cloud-an-introduction/"
+    },
+    {
+      "title": "Oracle Database: Oracle 12C R2 RAC Administration",
+      "url": "https://www.udemy.com/course/oracle-database-oracle-12c-r2-rac-administration/"
+    },
+    {
+      "title": "Master Oracle Basics - Over 250 Million GDP Generated",
+      "url": "https://www.udemy.com/course/master-oracle-basics-over-250-million-gdp-generated/"
+    },
+    {
+      "title": "Oracle 11gR2 RAC - Quick 2-node RAC Deployment Guide",
+      "url": "https://www.udemy.com/course/oracle-11gr2-rac-quick-2-node-rac-deployment-guide/"
+    },
+    {
+      "title": "Learn Oracle Database Administration From Scratch",
+      "url": "https://www.udemy.com/course/learn-oracle-database-administration-from-scratch/"
+    },
+    {
+      "title": "Setup Oracle Enterprise Manager 13c on Oracle Linux",
+      "url": "https://www.udemy.com/course/setup-oracle-enterprise-manager-13c-on-oracle-linux/"
+    },
+    {
+      "title": "Oracle EBS R12 Purchasing Module Functional Training.",
+      "url": "https://www.udemy.com/course/oracle-ebs-r12-purchasing-module-functional-training/"
+    },
+    {
+      "title": "Functional principles of Oracle ERP - EBS and Saas(SCM)",
+      "url": "https://www.udemy.com/course/functional-principles-of-oracle-erp-ebs-and-saasscm/"
+    },
+    {
+      "title": "Functional Principles of Oracle ERP (EBS) - Project Modules",
+      "url": "https://www.udemy.com/course/functional-principles-of-oracle-erp-ebs-project-modules/"
+    },
+    {
+      "title": "200+ SQL Interview Questions",
+      "url": "https://www.udemy.com/course/sql-interview-questions/"
+    },
+    {
+      "title": "How to become a DBA",
+      "url": "https://www.udemy.com/course/how-to-become-a-dba/"
+    },
+    {
+      "title": "Oracle 11g PL/SQL Fundamentals I",
+      "url": "https://www.udemy.com/course/cworacle-11g-plsql-fundamentals-1/"
+    },
+    {
+      "title": "Oracle Human Capital Management (HCM/HRMS)",
+      "url": "https://www.udemy.com/course/oracle-human-capital-management/"
+    },
+    {
+      "title": "Curso Básico de Planificación de Proyectos con Primavera P6",
+      "url": "https://www.udemy.com/course/curso-basico-de-planificacion-de-proyectos-con-primavera-p6/"
+    },
+    {
+      "title": "PL/SQL by Example - Beginner to Advanced PL/SQL",
+      "url": "https://www.udemy.com/course/plsql-by-example/"
+    },
+    {
+      "title": "R12i Oracle E Business Suite Fundamentals",
+      "url": "https://www.udemy.com/course/r12i-oracle-e-business-suite-fundamentals-free/"
+    },
+    {
+      "title": "Primavera P6 For Beginners In Urdu/Hindi",
+      "url": "https://www.udemy.com/course/primavera-p6-for-beginners-in-urduhindi/"
+    },
+    {
+      "title": "Oracle DataBase admin and installiation",
+      "url": "https://www.udemy.com/course/learn-oracle-database/"
+    },
+    {
+      "title": "Oracle WebLogic 12c Administration & Application Deployment",
+      "url": "https://www.udemy.com/course/oracle-weblogic-training/"
+    },
+    {
+      "title": "Oracle eBusiness Suite - An Introduction",
+      "url": "https://www.udemy.com/course/oracle-ebs-tips-and-tricks/"
+    },
+    {
+      "title": "Oracle Fusion HCM Payroll Costing: Oracle Fusion Cloud",
+      "url": "https://www.udemy.com/course/oracle-fusion-hcm-payroll-costing-a-complete-guide/"
+    },
+    {
+      "title": "Primavera P6 Professional Step-by-Step from Novice to Expert",
+      "url": "https://www.udemy.com/course/primavera-p6-professional/"
+    },
+    {
+      "title": "SQL Basics for Beginners",
+      "url": "https://www.udemy.com/course/sql-basics-for-beginners-u/"
+    },
+    {
+      "title": "Primavera P6 for Civil Engineers – Masterclass in Planning",
+      "url": "https://www.udemy.com/course/primavera-p6-planning-for-civil-engineers-and-construction/"
+    },
+    {
+      "title": "Oracle Cloud Infrastructure (OCI) - Essentials",
+      "url": "https://www.udemy.com/course/oracle-cloud-infrastructure-oci-essentials/"
+    },
+    {
+      "title": "Gestión de Riesgos con Primavera Risk Analysis",
+      "url": "https://www.udemy.com/course/gestion-de-riesgos-con-primavera-risk-analysis/"
+    },
+    {
+      "title": "Receivables sur Oracle Ebs R12- part1 (french)",
+      "url": "https://www.udemy.com/course/oracle-e-business-suite-r12-la-facturation-client-sur-ar/"
+    },
+    {
+      "title": "Functional Principles of Oracle ERP - EBS and Saas (Fin)",
+      "url": "https://www.udemy.com/course/functional-principles-of-oracle-erp-ebs-and-saas-finance/"
+    },
+    {
+      "title": "Oracle Fusion Cloud HCM : Core HR [ Arabic ]",
+      "url": "https://www.udemy.com/course/oracle-fusion-cloud-hcm-core-hr-arabic/"
+    },
+    {
+      "title": "Curso Avanzado Planificación de Proyectos con Primavera P6",
+      "url": "https://www.udemy.com/course/curso-avanzado-planificacion-de-proyectos-con-primavera-p6/"
+    },
+    {
+      "title": "Oracle Fast Formula Course",
+      "url": "https://www.udemy.com/course/oracle-fast-formula-course/"
+    },
+    {
+      "title": "Develop SuiteScript Online Forms with AJAX & HTML Templates",
+      "url": "https://www.udemy.com/course/suite-script-with-ajax-online-form-by-using-htmltemplate/"
+    },
+    {
+      "title": "Oracle Multitenant Architecture and Database Administration",
+      "url": "https://www.udemy.com/course/oracle-multitenant-database-administration/"
+    },
+    {
+      "title": "Oracle 11g to 12c database upgrade with Data Guard and ASM",
+      "url": "https://www.udemy.com/course/oracle-11g-to-12c-database-upgrade-with-data-guard-and-asm/"
+    },
+    {
+      "title": "Master Oracle 11g to 12c Database Upgrade",
+      "url": "https://www.udemy.com/course/master-oracle-database-upgrade/"
+    },
+    {
+      "title": "OBIEE 12c Developer Course",
+      "url": "https://www.udemy.com/course/obiee-12c-developer-course/"
+    },
+    {
+      "title": "Oracle DBA Interview Prepare",
+      "url": "https://www.udemy.com/course/cracking-oracle-dba-interview/"
+    },
+    {
+      "title": "Gestión de Proyectos con Oracle Primavera P6 y Ms Project",
+      "url": "https://www.udemy.com/course/gestion-de-proyectos-con-oracle-primavera-p6-y-ms-project/"
+    },
+    {
+      "title": "Oracle Primavera Risk Analysis (en Español)",
+      "url": "https://www.udemy.com/course/oracle-primavera-risk-analysis-en-espanol/"
+    },
+    {
+      "title": "SQL数据库数据分析：全面掌握SQL数据库，从基础数据库操作到高级数据分析，深入学习MySQL和SQL查询技巧。",
+      "url": "https://www.udemy.com/course/sqlsqlmysqlsql/"
+    },
+    {
+      "title": "Oracle Data Integrator Web & Data Analysis-Autonomous DB",
+      "url": "https://www.udemy.com/course/oracle-data-integrator-web-data-analysis-autonomous-db/"
+    },
+    {
+      "title": "Oracle Primavera P6 nivel Avanzado, 100% Práctico en Español",
+      "url": "https://www.udemy.com/course/proyectos-con-oracle-primavera-p6-nivel-avanzado/"
+    },
+    {
+      "title": "Oracle Primavera P6 nivel Avanzado - Experto",
+      "url": "https://www.udemy.com/course/oracle-primavera-p6-nivel-avanzado-experto/"
+    },
+    {
+      "title": "Oracle Primavera P6 nivel Avanzado / Experto",
+      "url": "https://www.udemy.com/course/oracle-primavera-p6-nivel-avanzado-experto-t/"
+    },
+    {
+      "title": "Primavera P6 for Project Management",
+      "url": "https://www.udemy.com/course/primavera-p6-complete-course-of-project-planning-2020/"
+    },
+    {
+      "title": "Oracle Fusion Cloud HCM R13 Global HR Implementation",
+      "url": "https://www.udemy.com/course/oracle-fusion-cloud-hcm-r13-global-hr-implementation/"
+    },
+    {
+      "title": "Oracle Cloud Infrastructure (OCI) Architect Course",
+      "url": "https://www.udemy.com/course/oracle-cloud-infrastructure-oci-architect-course/"
+    },
+    {
+      "title": "Oracle Application Express APEX 20.1 Administration Training",
+      "url": "https://www.udemy.com/course/oracle-application-express-apex-administration-training/"
+    },
+    {
+      "title": "Oracle 12C R2 RAC Administration and Data Guard for 12C R2",
+      "url": "https://www.udemy.com/course/oracle-12c-r2-rac-administration-and-data-guard-for-12c-r2/"
+    },
+    {
+      "title": "ORACLE SUPPORT AND FORMS CONFIGURATION 10G, 11G ,12C LATER",
+      "url": "https://www.udemy.com/course/oracle-forms-and-reports-configuration/"
+    },
+    {
+      "title": "Mastering Primavera P6: A Comprehensive Tutorial",
+      "url": "https://www.udemy.com/course/primavera-p6-full-course/"
+    },
+    {
+      "title": "Primavera p6 Learn to Create Complete Schedule Through B.O.Q",
+      "url": "https://www.udemy.com/course/primavera-p6-pro-planning-engineers-professional-course/"
+    },
+    {
+      "title": "Learn Oracle PL/SQL - A Comprehensive Training Course",
+      "url": "https://www.udemy.com/course/oracle-plsql-tutorial/"
+    },
+    {
+      "title": "SunderS Oracle NetSuite ERP Foundation E Learning - Vol 5",
+      "url": "https://www.udemy.com/course/sunders-oracle-netsuite-erp-foundation-e-learning-vol-5/"
+    },
+    {
+      "title": "SunderS Oracle NetSuite ERP Foundation E-Learning Vol 6.1",
+      "url": "https://www.udemy.com/course/sunders-oracle-netsuite-erp-foundation-e-learning-vol-61/"
+    },
+    {
+      "title": "Primavera P6 Professional: Complete Project Management.",
+      "url": "https://www.udemy.com/course/primavera-p6-professional-beginner-to-expert/"
+    },
+    {
+      "title": "Primavera P6 For Beginners",
+      "url": "https://www.udemy.com/course/primavera-p6-for-beginners-m/"
+    },
+    {
+      "title": "Gestión de Proyectos con Oracle Primavera P6, Básico-Avanzad",
+      "url": "https://www.udemy.com/course/gestion-de-proyectos-con-oracle-primavera-p6-basico-avanzad/"
+    },
+    {
+      "title": "OBIEE 12c Visual Analyzer Developer Course",
+      "url": "https://www.udemy.com/course/obiee-12c-visual-analyzer/"
+    },
+    {
+      "title": "Aprenda para BI: SQL na Prática e Oracle DATA DISCOVERY",
+      "url": "https://www.udemy.com/course/sql-no-oracle-e-oracle-data-visualization-do-zero-iniciantes/"
+    },
+    {
+      "title": "SunderS Oracle NetSuite ERP Foundation E Learning - Vol 4.2",
+      "url": "https://www.udemy.com/course/sunders-oracle-netsuite-erp-foundation-e-learning-vol-42/"
+    },
+    {
+      "title": "OBIEE 12c Essential Course",
+      "url": "https://www.udemy.com/course/obiee-12c-essential-course/"
+    },
+    {
+      "title": "Conhecendo OBIEE - Recursos Adicionais de uma Análise",
+      "url": "https://www.udemy.com/course/conhecendo-obiee-recursos-adicionais-de-uma-analise/"
+    },
+    {
+      "title": "Curso Inicial de Planificación de Proyectos con Primavera P6",
+      "url": "https://www.udemy.com/course/curso-inicial-de-planificacion-de-proyectos-con-primavera-p6/"
+    },
+    {
+      "title": "Oracle Apps Accounts Payable (AP) Training",
+      "url": "https://www.udemy.com/course/oracle-r12-accounts-payable-training/"
+    },
+    {
+      "title": "Learn SQL For Oracle Databases - Using Toad From Scratch",
+      "url": "https://www.udemy.com/course/introduction-to-oracle-sql-with-toad/"
+    },
+    {
+      "title": "Oracle Fusion Financials Cloud GL (Implementation)Latest R13",
+      "url": "https://www.udemy.com/course/oracle-fusion-financials-cloud-gl-implementationlatest-r13/"
+    },
+    {
+      "title": "How to use Oracle E-Business Suite (EBS) R12 : An Overview",
+      "url": "https://www.udemy.com/course/how-to-use-oracle-ebs-r12/"
+    },
+    {
+      "title": "Oracle SQL & PL/SQL Fundamentals with Case Study (OCI)",
+      "url": "https://www.udemy.com/course/oracle-plsql-fundamentals-with-case-study-oci/"
+    },
+    {
+      "title": "Oracle Fusion HCM Cloud Profile Management",
+      "url": "https://www.udemy.com/course/oracle-fusion-hcm-cloud-profile-management/"
+    },
+    {
+      "title": "SunderS Oracle NetSuite ERP Foundation E-Learning - Vol 7",
+      "url": "https://www.udemy.com/course/sunders-oracle-netsuite-erp-foundation-e-learning-vol-7/"
+    },
+    {
+      "title": "Oracle Fusion HCM - Workforce Compensation",
+      "url": "https://www.udemy.com/course/oracle-fusion-hcm-workforce-compensation/"
+    },
+    {
+      "title": "Primavera Master: The Ultimate Guide to Oracle Primavera P6",
+      "url": "https://www.udemy.com/course/primavera-rockstar/"
+    },
+    {
+      "title": "Primavera P6: Planning & Scheduling Construction Case Study",
+      "url": "https://www.udemy.com/course/primavera-p6-planning-scheduling-construction-case-study/"
+    },
+    {
+      "title": "Tips y Trucos de Oracle Primavera P6",
+      "url": "https://www.udemy.com/course/tips-y-trucos-de-oracle-primavera-p6/"
+    },
+    {
+      "title": "Top SQL Interview Q&A Revealed: Land Your SQL Job [2024]",
+      "url": "https://www.udemy.com/course/sql-interview/"
+    },
+    {
+      "title": "Oracle 12c Data Guard Administration",
+      "url": "https://www.udemy.com/course/oracle-12c-data-guard/"
+    },
+    {
+      "title": "Oracle 11g Dataguard Administration",
+      "url": "https://www.udemy.com/course/master-oracle-11g-data-guard/"
+    },
+    {
+      "title": "Oracle Fusion Cloud HCM Absence Management ImplementationR13",
+      "url": "https://www.udemy.com/course/oracle-fusion-cloud-hcm-absence-management-implementationr13/"
+    },
+    {
+      "title": "Oracle Fusion HCM - Talent Management",
+      "url": "https://www.udemy.com/course/oracle-fusion-hcm-talent-management-p/"
+    },
+    {
+      "title": "Oracle DBA (Database Administration) Certification Training",
+      "url": "https://www.udemy.com/course/oracle-dba-training/"
+    },
+    {
+      "title": "Project Management Using Oracle Primavera",
+      "url": "https://www.udemy.com/course/project-management-using-oracle-primavera/"
+    },
+    {
+      "title": "OBIEE 12c Admin Course",
+      "url": "https://www.udemy.com/course/obiee-12c-admin-course/"
+    },
+    {
+      "title": "Oracle Data Guard: Database Administration for Oracle 12C R2",
+      "url": "https://www.udemy.com/course/oracle-database-data-guard-administration-for-oracle-12c-r2/"
+    },
+    {
+      "title": "Oracle Fusion Cloud HCM Technical R13 (HDL Data Migration)",
+      "url": "https://www.udemy.com/course/oracle-fusion-cloud-hcm-technical-r13-hdl-data-migration/"
+    },
+    {
+      "title": "Oracle iSupplier Portal Fundamentals (Oracle EBS 12i)",
+      "url": "https://www.udemy.com/course/oracle-isupplier-portal-fundamentals-oracle-ebs-12i/"
+    },
+    {
+      "title": "Oracle EBS Workflow Complete Tutorial - 23+ hrs",
+      "url": "https://www.udemy.com/course/oracle-workflow-complete-tutorial-23-hrs/"
+    },
+    {
+      "title": "Gestiión de Proyectos con Primavera P6, Power BI y Risk P6",
+      "url": "https://www.udemy.com/course/gestiion-de-proyectos-con-primavera-p6-power-bi-y-risk-p6/"
+    },
+    {
+      "title": "Базовый курс SQL для аналитиков и менеджеров",
+      "url": "https://www.udemy.com/course/sql-for-beginner/"
+    },
+    {
+      "title": "Update Progress Workshop with Primavera P6",
+      "url": "https://www.udemy.com/course/update-progress-workshop/"
+    },
+    {
+      "title": "Oracle SQL Developer: Mastering its Features + Tips & Tricks",
+      "url": "https://www.udemy.com/course/oracle-sql-developer-tips-and-tricks/"
+    },
+    {
+      "title": "Oracle 19c Multi-tenant DBA",
+      "url": "https://www.udemy.com/course/oracle-19c-multi-tenent-dba/"
+    },
+    {
+      "title": "Oracle Fusion HCM Training for Beginners - Oracle HCM Cloud",
+      "url": "https://www.udemy.com/course/introduction-to-oracle-fusion-hcm-for-beginners/"
+    },
+    {
+      "title": "Oracle PL/SQL Fundamentals vol. I & II",
+      "url": "https://www.udemy.com/course/oracle-plsql-fundamentals-vol-i-ii/"
+    },
+    {
+      "title": "Oracle Fusion Technical Cloud (BI/OTBI/ADF/OICS/SmartView)",
+      "url": "https://www.udemy.com/course/oracle-fusion-technical-cloud-r13-beginners-to-expert/"
+    },
+    {
+      "title": "Oracle R12 Order Management Functional Training",
+      "url": "https://www.udemy.com/course/oracle-r12-order-management-functional-training/"
+    },
+    {
+      "title": "OBIEE 12c Data Modeling Course",
+      "url": "https://www.udemy.com/course/obiee-12c-data-modeling-course/"
+    },
+    {
+      "title": "Primavera P6 Course (Scheduling,Budgeting And More) Arabic",
+      "url": "https://www.udemy.com/course/p6-course-arabic/"
+    },
+    {
+      "title": "Oracle RAC beginners guide",
+      "url": "https://www.udemy.com/course/oracle-rac-beginners-guide/"
+    },
+    {
+      "title": "Oracle Database Administration for Absolute Beginners",
+      "url": "https://www.udemy.com/course/oracledba/"
+    },
+    {
+      "title": "Oracle database utilities - Perform data export / Import",
+      "url": "https://www.udemy.com/course/oracle-database-utilities/"
+    },
+    {
+      "title": "1Z0-1051-25 Oracle Learning Cloud Exam | Real Questions",
+      "url": "https://www.udemy.com/course/oracle-learning-cloud-exam-1z0-1051-25-real-questions/"
+    },
+    {
+      "title": "Prise en main Oracle et SQL Developper",
+      "url": "https://www.udemy.com/course/prise-en-main-oracle/"
+    },
+    {
+      "title": "Introduction to Oracle 12c Golden Gate for absolute beginner",
+      "url": "https://www.udemy.com/course/introduction-to-oracle-golden-gate/"
+    },
+    {
+      "title": "Implementing Oracle API Gateway",
+      "url": "https://www.udemy.com/course/implementing-oracle-api-gateway/"
+    },
+    {
+      "title": "SQL Loader - Learn in 22 Examples",
+      "url": "https://www.udemy.com/course/sql-loader/"
+    },
+    {
+      "title": "Proyectos con Oracle Primavera P6 de cero a Experto",
+      "url": "https://www.udemy.com/course/proyectos-con-oracle-primavera-p6-de-cero-a-experto/"
+    },
+    {
+      "title": "OBIEE Passo a Passo Parte 2/2 - Criando Painéis/Dashboards",
+      "url": "https://www.udemy.com/course/curso-obiee-passo-a-passo-parte-22-criando-paineisdashboards/"
+    },
+    {
+      "title": "Complete Oracle 12c SQL Certification Course",
+      "url": "https://www.udemy.com/course/oracle-12c-sql-fundamentals/"
+    },
+    {
+      "title": "Get Oracle Flying in AWS Cloud",
+      "url": "https://www.udemy.com/course/get-oracle-flying-in-aws-cloud/"
+    },
+    {
+      "title": "Oracle DBA 19c",
+      "url": "https://www.udemy.com/course/oracle-dba-19c/"
+    },
+    {
+      "title": "Oracle Cloud Architect Associate exam Basics",
+      "url": "https://www.udemy.com/course/oracle-cloud-infrastructure-architect-associate-exam-k/"
+    },
+    {
+      "title": "Oracle Financials Cloud Rapid Implementation",
+      "url": "https://www.udemy.com/course/oracle-financials-cloud-rapid-implementation/"
+    },
+    {
+      "title": "Security & Operation Management with Oracle Cloud Infra(OCI)",
+      "url": "https://www.udemy.com/course/security-operation-management-with-oracle-cloud-infraoci/"
+    },
+    {
+      "title": "Arabic Oracle Cloud Finance (Functional) Course Level-1",
+      "url": "https://www.udemy.com/course/arabic-oracle-functional-finance-fusionr13-course-level-1/"
+    },
+    {
+      "title": "Oracle Data Integrator (ODI) 12c Developer Course",
+      "url": "https://www.udemy.com/course/oracle-data-integrator-odi-12c-developer-course/"
+    },
+    {
+      "title": "Proyectos con Primavera P6, Power BI y Risk Analysis",
+      "url": "https://www.udemy.com/course/proyectos-con-primavera-p6-power-bi-y-risk-analysis/"
+    },
+    {
+      "title": "Oracle DBA 11g/12c - Database Administration for Junior DBA",
+      "url": "https://www.udemy.com/course/oracledbatraining/"
+    },
+    {
+      "title": "Oracle 11g PL/SQL Fundamentals II",
+      "url": "https://www.udemy.com/course/cworacle-11g-plsql-fundamentals-ii/"
+    },
+    {
+      "title": "Oracle Data Integrator (ODI) 12c Admin Course",
+      "url": "https://www.udemy.com/course/oracle-data-integrator-odi-12c-enterprise-installation/"
+    },
+    {
+      "title": "OBIEE Passo a Passo Parte 1/2 - Do Zero às Análises",
+      "url": "https://www.udemy.com/course/curso-oracle-obiee-passo-a-passo-parte-12-do-zero-as-analises/"
+    },
+    {
+      "title": "Oracle SQL Performance Tuning Masterclass (2025)",
+      "url": "https://www.udemy.com/course/sql-performance-tuning-masterclass/"
+    },
+    {
+      "title": "Primavera P6 Professional Training In Urdu/Hindi",
+      "url": "https://www.udemy.com/course/primavera-p6-professional-beginner-to-expert-urduhindi/"
+    },
+    {
+      "title": "Iniciación Administrador DBA Oracle",
+      "url": "https://www.udemy.com/course/iniciacion-administrador-dba-oracle/"
+    },
+    {
+      "title": "Oracle Apps WMS and MSCA Training",
+      "url": "https://www.udemy.com/course/oracle-apps-wms-and-msca-training/"
+    },
+    {
+      "title": "Oracle SQL Developer for Absolute Beginners",
+      "url": "https://www.udemy.com/course/oracle-sql-developer/"
+    },
+    {
+      "title": "Oracle Financial Concepts",
+      "url": "https://www.udemy.com/course/oracle-financial-concepts/"
+    },
+    {
+      "title": "Learn Oracle 11g - Real Application Clusters",
+      "url": "https://www.udemy.com/course/oracle-11g-real-application-clusters/"
+    },
+    {
+      "title": "Curso Intermedio de Planificación con Primavera P6",
+      "url": "https://www.udemy.com/course/curso-intermedio-de-planificacion-con-primavera-p6/"
+    },
+    {
+      "title": "Curso Avanzado Oracle Netsuite + WMS en Español/ Sub ingles",
+      "url": "https://www.udemy.com/course/curso-oracle-netsuite-funcional-en-espanol/"
+    }
+  ]
+}

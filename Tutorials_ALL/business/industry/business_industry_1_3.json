@@ -1,0 +1,668 @@
+{
+  "courses": [
+    {
+      "title": "【UTAGE（ウタゲ）×AI】24時間”完全自動”で働くマーケティングツールで労働時間1/2のセールスファネル構築コース",
+      "url": "https://www.udemy.com/course/7autagei31b/",
+      "bio": "UTAGE初心者の教科書！「時間がない中、オンライン講座を自動セールスするには？」を解決。基本設定からLP作成、メールLINE配信、会員サイト、AIアシスト、ファネル構築の手順を網羅。マーケティングの仕組みを24時間稼働させる超基礎コース",
+      "objectives": [
+        "UTAGEでマーケティング業務を劇的に効率化し、本当にやりたいことに集中できる時間を生み出す方法",
+        "UTAGEでオンラインビジネスの売上を最大化する実践的な知識",
+        "UTAGEシステムを使いこなせるようになるための最短ロードマップと実践テクニック",
+        "オンライン講座や会員制ビジネスを成功させるためのUTAGE活用術",
+        "あなたが寝ていても商品が売れ続けるUTAGEセールスファネルの構築ステップ",
+        "UTAGE初期設定をスムーズに完了させる方法",
+        "「LP作成」機能の徹底解説と実践ワーク",
+        "専門家が伝えるUTAGEのLPテンプレート活用術",
+        "効果的な申し込みフォームの作り方",
+        "「メール・LINE配信」機能の徹底解説と実践ワーク",
+        "「会員サイト」機能の徹底解説と実践ワーク",
+        "受講生が熱狂する魅力的な会員サイトの作り方",
+        "「AIアシスト」機能の徹底解説と実践ワーク",
+        "「イベント・予約」機能の徹底解説と実践ワーク",
+        "UTAGEの機能を組み合わせた具体的なファネル構築手順"
+      ],
+      "course_content": {
+        "はじめに": [
+          "このコースの全体像と学べること",
+          "このコースで得られる未来",
+          "このコースの特徴",
+          "このコースの特徴2",
+          "お願い",
+          "ワークシートのダウンロード方法解説",
+          "＞ワークシートのダウンロードはこちら"
+        ],
+        "時間と売上を最大化するUTAGEの世界へ": [
+          "このセクションで学べること",
+          "9割の個人起業家が直面する「時間と売上の壁」",
+          "なぜ今、マーケティングに自動の仕組みが必須なのか？",
+          "マーケティング救世主『UTAGE』とは？",
+          "国内LINE配信ツールとの違い（Lステップ/プロラインフリー/エルメ）",
+          "国内マーケツールとの違い（MyASP）",
+          "海外ツールとの違い（ClickFunnels/Teachable/Thinkific/Kajabi）",
+          "サイト/LP作成ツールとの違い（WordPress/Wix/ペライチ）",
+          "なぜ仕組み化は『UTAGE』一択なのか？",
+          "あなたに最適なプランは？UTAGE料金 VS 他ツール”総額”比較",
+          "ワーク：理解度チェッククイズにチャレンジする",
+          "講師紹介"
+        ],
+        "UTAGE基盤設定〜最速でセットアップ〜": [
+          "このセクションで学べること",
+          "UTAGEアカウント作成",
+          "LINE公式アカウントとの連携方法",
+          "UTAGEで独自ドメインは必須か？",
+          "独自ドメイン設定のステップbyステップ解説",
+          "メール配信の利用開始準備（契約からメールアドレス作成まで）",
+          "メールが迷惑フォルダにいくのを防ぐ必須設定（DKIM/DMARC）",
+          "DKIM/DMARC設定が完了しているか？確認方法",
+          "通知受信するDiscordアカウントの開設",
+          "見逃しを防ぐUTAGE”内”の通知設定（LINE/シナリオ/商品管理）",
+          "見逃しを防ぐUTAGE”外”の通知設定（メール返信）",
+          "決済システムとの連携について",
+          "ワーク：UTAGEアカウントを開設する"
+        ],
+        "「基本操作」と「基礎機能」の全体像を理解": [
+          "このセクションで学べること",
+          "UTAGE管理メニュー画面の見方と操作",
+          "ファネル（集客〜販売まで）",
+          "メール・LINE配信（顧客関係構築）",
+          "会員サイト（商品提供）",
+          "イベント・予約（個別対応の仕組み化）",
+          "パートナー（紹介で売上UP）",
+          "AIアシスト（作業効率化）",
+          "その他メニュー",
+          "ワーク：理解度チェッククイズにチャレンジする"
+        ],
+        "UTAGE専用LP（ランディングページ）作成ガイド": [
+          "このセクションで学べること",
+          "UTAGEのLP作成の役割",
+          "ファネル追加からページ追加まで",
+          "ページエディタの構造を理解「セクション・行・要素」",
+          "編集でよく使う機能「お気に入り・複製・削除」",
+          "編集でよく使う機能「要素移動」",
+          "編集でよく使う機能「要素一覧」",
+          "編集でよく使う機能「パソコンとスマホの表示確認」",
+          "編集でよく使う機能「基本情報」",
+          "編集ページで便利な機能「表示期限」",
+          "編集ページで便利な機能「ワンタイムオファー」",
+          "ページ編集後「保存・プレビュー・公開設定・URL共有」",
+          "【実演】UTAGEテンプレを使ったLP作成デモ（メルマガオプトインページ）",
+          "【実演】UTAGEテンプレを使ったLP作成デモ（公式LINEオプトインページ）",
+          "【実演】UTAGEテンプレを使ったLP作成デモ（動画視聴ページ）",
+          "【実演】UTAGEテンプレを使ったLP作成デモ（セミナー申し込みページ）",
+          "【実演】UTAGEテンプレを使ったLP作成デモ（サンクスページ）",
+          "【実演】オリジナルテンプレを使ったLP作成デモ（セールスレター）",
+          "【実演】1からLP作成のデモ",
+          "ワーク：LPを1枚作成する"
+        ],
+        "UTAGEを使ったメール・LINE配信の活用術": [
+          "このセクションで学べること",
+          "なぜメールとLINEがマーケティングの生命線なのか？と配信機能の役割",
+          "【準備・実演】配信アカウント追加からシナリオ追加まで",
+          "メール配信でできること",
+          "【メール編・実演】送信者名とフッターのデフォルト設定（重要：特定電子メール法）",
+          "【メール編・実演】一斉送信の活用",
+          "【メール編・実演】ステップ配信の活用",
+          "【追加補足】メール配信エディタ基本と操作",
+          "【追加補足】メール配信エディタ“専用機能”と操作",
+          "【メール編・実演】メール登録と解除フォームの設定",
+          "LINE配信でできること",
+          "【LINE編・実演】一斉送信の活用",
+          "【LINE編・実演】ステップ配信の活用",
+          "【LINE編・実演】チャットの使い方",
+          "【LINE編・実演】自動応答の設定",
+          "【LINE編・実演】リッチメニューの設置",
+          "【LINE編・実演】LINEテンプレートで効率化",
+          "【LINE編・実演】LINE登録ページの設定",
+          "配信状況の確認方法「予約中・送信済・配信エラー」",
+          "配信で使う「アクション」機能とは？",
+          "【アクション機能】実行できるタイミング：読者詳細",
+          "【アクション機能】実行できるタイミング：配信",
+          "【アクション機能】実行できるタイミング：LINE関連",
+          "「ラベル」機能を使ったリスト管理術",
+          "ワーク：メールかLINEの配信を1つ作る"
+        ],
+        "魅力的な会員サイト構築テクニック": [
+          "このセクションで学べること",
+          "会員サイトの価値とは？",
+          "UTAGEの会員サイトで実現できること",
+          "UTAGE会員サイトの基本構造",
+          "【実演】会員サイトの基本設定",
+          "【実演】コース追加デモ",
+          "【実演】レッスングループ追加デモ",
+          "【実演】レッスン追加デモ",
+          "【実演】デザインカスタマイズ：ログインページ",
+          "【実演】デザインカスタマイズ：コースページ",
+          "超重要！バンドルコース設定",
+          "お知らせ管理活用",
+          "固定ページ活用",
+          "受講生管理の詳細",
+          "会員サイトのコース作成をして1レッスン追加する"
+        ],
+        "イベント・予約機能マスター": [
+          "このセクションで学べること",
+          "手動で日程調整する損失とは？",
+          "UTAGEの「イベント・予約」でできること",
+          "【実演】個別相談イベントの基本設定（Zoomやカレンダー連携、リマインダ配信含む）",
+          "【実演】個別相談イベントのフォーム設定",
+          "【実演】セミナーイベントの基本設定（リマインダ配信含む）",
+          "【実演】セミナーイベントのフォーム設定",
+          "無料イベントと有料イベントの違い",
+          "申込者リストの確認と管理方法",
+          "ワーク：個別相談かセミナーのイベントを1つ作成する"
+        ],
+        "時間短縮できるAIアシスト＋外部AI活用": [
+          "このセクションで学べること",
+          "そもそも、なぜAIと協業すべきなのか？",
+          "UTAGEの「AIアシスト」機能の可能性と限界",
+          "外部ツール：準備しておきたい生成AI（Gemini導入）",
+          "良い回答を引き出すプロンプトの基本構造",
+          "【LP作成・実演】キャッチコピーを作りたい",
+          "【LP作成・実演】見出し・サブヘッドのテキストを作りたい",
+          "【LP作成・実演】ボディコピーを作りたい",
+          "【LP作成・実演】ボレット（特徴・メリット）の文章を作りたい",
+          "【LP作成・実演】選ばれる理由の文章を作りたい",
+          "【LP作成・実演】ランディングページの構成を考えて欲しい",
+          "【LP作成・実演】セールスレター（販売ページ）の構成を考えて欲しい",
+          "【メールLINE配信・実演】メルマガのテーマを考えて欲しい",
+          "【メールLINE配信・実演】メルマガの文章を作成して欲しい",
+          "【メールLINE配信・実演】LINEメッセージの文章を作成して欲しい",
+          "【メールLINE配信・実演】ステップメールの流れを考えて欲しい",
+          "【会員サイト・実演】会員サイトの構成を考えて欲しい",
+          "AIの回答がイマイチな時の「深掘り&追加指示」テクニック3選",
+          "ワーク：AIアシスト機能を使って生成してみる"
+        ],
+        "決済関連「決済連携と商品登録」の方法": [
+          "このセクションで学べること",
+          "なぜ「決済関連」を設定すべきか？",
+          "「決済関連」の設定を完全完了する流れ",
+          "UTAGEで連携可能な決済代行会社と比較",
+          "申し込み時に用意すべきモノ",
+          "【実演】申し込みに必須のWebページ作成：商品サービスページ",
+          "【実演】申し込みに必須のWebページ作成：特定商取引法に基づく表記",
+          "【実演】申し込みに必須のWebページ作成：プライバシーポリシー",
+          "決済審査を通しやすくする方法",
+          "UTAGEからどこで決済代行会社に申し込む？",
+          "決済代行会社とUTAGEシステムを連携するには？",
+          "もう1つの選択肢として銀行振込の設定",
+          "【実演】商品登録する方法：一括払い",
+          "【実演】商品登録する方法：分割払い",
+          "【実演】商品登録する方法：継続課金",
+          "ワーク：商品を1つ登録する"
+        ]
+      },
+      "requirements": [
+        "UTAGEを契約している方",
+        "いまUTAGEを契約していなくても今後、利用検討している方もOK",
+        "独自ドメイン機能を使用する場合、別途ドメイン&サーバー契約必須",
+        "メール配信機能を利用する場合、別途ドメイン&サーバー契約必須"
+      ],
+      "description": "【はじめに】\nこんにちは、講師のしゅうです。\n\n\n薬剤師を辞めてコンテンツビジネスでご飯を食べています。\n\n\n僕はこれまで累計202人以上の相談にのってきました。\n\n\nそんな中、ありがたいことに、相談者の方やコンサル受講生の方は、自身の講座を持ったり、オンライン教材やサービスの販売ができるようになったりなど多数の成果がでています。\n\n\nまた、コンテンツビジネスやWebマーケティングの知見から、商品・マーケ構築を依頼されてコンサル兼代行業を受託しています。\n\n\nこれからも、みなさんにオンラインビジネスのサポートを提供し、共に成長していきたいと考えております。\n\n\nそのため、これまでの知見を活かし、このコースでは「マーケティング自動化ツールであるUTAGEシステム」について解説します。\n\n\n\n\n【このコースの概要説明】\nこのコースを受講いただくと、UTAGEでセールスファネルを構築できるようになります。\n\n\nまた、UTAGEの基本的な設定や、LP作成、メールLINE配信、会員サイト、AIアシスト、ファネル機能の基礎知識や操作などをマスターできます。\n\n\n見渡すと\n「時間がないんです...」\n「リソースが足りません...」\nと疲弊している人が多いんです。\n\n\nそれに、マーケティング自動化の仕組みを作ろうと、海外のツールに手を出してしまったり、コスパの悪い日本国内ツールに複数課金している人が多数います。\n\n\nそのため、気づかないうちにお金を損していたり...\n複数のツールを使うことでの管理コストは計りしれません。\n\n\n目に見えないうちに積み重なっていってしまい、気づかぬうちに僕たちの首を絞めます。\n\n\nそれこそ、以前の僕は全く気づかずにお金や時間を失っていました。\n\n\nだからこそ、次世代オールインワンマーケティングツールの『UTAGE」を活用して、無駄な時間を削除や作業の効率化を目指します。\n\n\n究極は自動の仕組みであるセールスファネル構築をUTAGEのツールを使用して目指していただきます。\n\n\n\n\n【コースを受講することで…】\n◆集客の入り口から商品の販売、納品までを仕組み化できる\n◆ビジネスのスケールアップと時間的自由が手に入る\n◆UTAGEを利用した独自のマーケティング戦略で競合と差別化できる\n◆複数のツールを管理しなくてよくなる\n◆作業する時間ができて新しいコンテンツ作りに集中できる\n◆作業効率化であまった時間をお客さんに使うことができる\n◆UTAGEを開設して運用までできる\n◆面倒な作業をUTAGEに任せることで手作業の繰り返しから解放されて自分にしかできない仕事に没頭できる\n◆UTAGEがマーケティングの重労働を肩代わりして、コンテンツ作成や顧客との交流に集中できる\n\n\n\n\n【こんな方が受講に向いています】\n・UTAGEのことは知っているけど、中身は良く分からない\n・UTAGEの操作が分からない\n・UTAGEのポテンシャルを活用しきれていない\n・集客、セールス、顧客管理、商品提供...「やらなければいけないことが多すぎる」 と感じている\n・コンテンツを自動で届けて収益を生む仕組みを構築することで、自由なライフスタイルを目指したい\n・そもそもLINEやメールを連携できるの？というシステムの悩みを持つ\n・Deadlinefunnel、WordPress、Mailchimp、ClickFunnelsやTeachable、Thinkificなど海外ツールから乗り換えを検討している\n・メルマガスタンドや公式LINEの配信システム、会員サイトツールがバラバラでお金もかかるし操作も管理も大変\n・個別面談の際に、毎回毎回自分の予定をお客様に手動で送って調整しているのが大変\n・メール配信、LINE配信、LP作成、決済、会員サイト...複数のツールをバラバラに使うのに疲れた...\n\n\n\n\n【こんな方は受講に向いていません】\n・UTAGEに興味がない人\n・UTAGEに関連する内容以外を知りたい人\n・UTAGEを使う可能性が0%な人\n・十分にセールスファネルを熟知している人\n・すでにUTAGEのポテンシャルを発揮できている人\n\n\n\n\n【このコースは全部で10セクションです】\n●セクション01：はじめに\n●セクション02：時間と売上を最大化するUTAGEの世界へ\n●セクション03：UTAGE基盤設定〜最速でセットアップ〜\n●セクション04：「基本操作」と「基礎機能」の全体像を理解\n●セクション05：UTAGE専用LP（ランディングページ）作成ガイド\n●セクション06：UTAGEを使ったメール・LINE配信の活用術\n●セクション07：魅力的な会員サイト構築テクニック\n●セクション08：イベント・予約機能マスター\n●セクション09：時間短縮できるAIアシスト＋外部AI活用\n●セクション10：決済関連「決済連携と商品登録」の設定\n●セクション11：点と点が線になるUTAGEセールスファネル構築\n●セクション12：ラストステップ\n●セクション13：ボーナスレクチャー\n\n\n全部で11時間20分のコースです。\n\n\nその他、必要に応じてワークシートが用意されています。\n\n\nワークシートに沿って実践していただくことで、「マーケティング自動化ツールであるUTAGEシステム」の操作をマスターできます。\n\n\n\n\n【さいごに】\n本コースに興味を持っていただいた方は、「コース登録」へお進みください。\n\n\nもう少し検討したい方は、プレビューで講座の一部が見れますので、ぜひ講座を覗いてみてください。\n\n\nそれでは、コースの中でお会いできることを楽しみにしています！",
+      "target_audience": [
+        "オンラインコンテンツを取り扱う個人事業主や経営者",
+        "UTAGEの導入を検討している人",
+        "UTAGEを導入したばかりの人",
+        "UTAGEの基本的な使い方を知りたい人",
+        "UTAGEでどんなことができるのか知りたい人",
+        "UTAGEの操作が分からない人",
+        "UTAGEを導入しているが、まだ使いこなせていない人",
+        "UTAGEでファネル、セールスレター、LP、会員サイトの作り方を知りたい人",
+        "ファネル構築など、具体的な活用方法を知りたい人",
+        "購入者限定のクローズドな環境を提供したい人",
+        "UTAGEの決済連携の情報を求めている人",
+        "オンラインで商品を販売していきたい人",
+        "どうやってマーケティングを仕組み化できるのか、分からない人",
+        "マーケティングファネル作りが大変...と感じている人",
+        "時間や場所に縛られずにオンライン講座を販売したい人",
+        "無駄な業務を減らして他のことに時間を使いたい人",
+        "集客から商品の納品まで仕組み化したい人",
+        "セールスやマーケティングの作業を自動化したい方",
+        "現状の自動化の仕組みに満足していない人",
+        "オールインワンでマーケティングツールを管理したい人",
+        "ClickFunnelsやteachacle、Thinkificなど海外ツールから乗り換えを検討している人",
+        "WixやWordpressで会員サイトページやランディングページを作って管理に苦労している人",
+        "海外のマーケツールをやめてコストを抑えたい人",
+        "複雑なマーケティングの外注費用に悩み、コストダウンの方法を探している方",
+        "従来のLINEやメール、LPツールと比べて劣るところはある？国内ツール比較は？"
+      ]
+    },
+    {
+      "title": "Guia oficial e completo de implantação do 5S nas empresas",
+      "url": "https://www.udemy.com/course/guiaoficial5s/",
+      "bio": "Capacitação intensa e do zero com tutorial passo a passo",
+      "objectives": [
+        "Melhorar o ambiente de trabalho tornando o mais produtivo",
+        "Redução de perdas, prejuízos, quebras e falhas",
+        "Conhecimento na metodologia suficiente para implantar na empresa",
+        "Engajar pessoas tornando o ambiente de trabalho agradável e seguro"
+      ],
+      "course_content": {
+        "MÓDULO 01": [
+          "Sobre o Instrutor"
+        ],
+        "MÓDULO 02": [
+          "Introdução ao 5S",
+          "Primeiro Senso - O que é utilização?",
+          "Segundo Senso - O que é Ordenação?",
+          "Terceiro Senso - O que é Limpeza?",
+          "Quarto Senso - O que é Padronização?",
+          "Quinto Senso - o que é Disciplina?"
+        ],
+        "MÓDULO 03": [
+          "A importância da Liderança e Direção no 5S",
+          "Como apresentar a proposta para a Liderança",
+          "Cronograma de Implantação",
+          "Registro de Fotos e Vídeos - Porque e Como Fazer",
+          "Definindo Áreas e Responsáveis - O Papel de Cada um",
+          "Áreas de Descartes",
+          "Áreas Comunitárias e Coletivas",
+          "Ronda com o Gestor - Mapeando Ações",
+          "Construção de Padrões - Guia Visual",
+          "Método de Avaliação - Check-list 5S",
+          "Dicas de Auditoria em 5S - Como fazer",
+          "FERRAMENTA: CONTROLE DE NOTAS 5S",
+          "Capacitando os Colaboradores",
+          "Formação do Comitê 5S"
+        ],
+        "MÓDULO 04": [
+          "Recursos para Comprar - Investimento no Programa",
+          "Divulgação do Programa 5S",
+          "Abordagem do Lançamento",
+          "Lançamento - O Dia D - Como realizar"
+        ],
+        "MÓDULO 05": [
+          "Sobre a Cultura de 5S a ser implantada",
+          "Abordagem da Cultura 5S no Ambiente Organizacional",
+          "Reconhecimento do Programa 5S"
+        ],
+        "MÓDULO EXTRA": [
+          "Formação em Auditor 5S para Membros do Comitê"
+        ],
+        "AVALIAÇÃO FINAL": [
+          "TESTE DE ASSIMILAÇÃO DE CONTEÚDO"
+        ]
+      },
+      "requirements": [
+        "Capacitar profissionalmente para o mercado de trabalho ou melhorar o trabalho atual e dos colegas, esta é uma metodologia muito conhecida por empresas."
+      ],
+      "description": "O Objetivo deste curso é capacitar profissionais na metodologia 5S fornecendo o conhecimento e ferramentas necessárias para implanta-lo em qualquer tipo de empresa mesmo que seja do zero.\nVocê não só vai aprender o que é o 5S, mas irá aprender como treinar outras pessoas, como conquistar o proprietário, dono, gestor sobre esta ideia, como treinar os colaboradores, quais as fases de implantação, o que você precisa comprar de recurso, o que deve investir financeiramente, como lançar o desafio na empresa e como monitorar e divulgar os resultados no dia a dia,\n\n\nDesta forma proporcionando resultados positivos como: aumento na produtividade, redução de perdas, redução de quebras e falhas, eliminação de prejuízos com compras excessivas e reaproveitamento de recursos.\n\n\nO 5S é uma metodologia amplamente conhecida e atualmente considerada um requisito básico dentro das organizações, sendo um diferencial profissional para quem busca crescimento e destaque dentro do trabalho ou para quem busca recolocação profissional.\n\n\nNeste curso você irá aprender o que são os cinco sensos e como devemos interpretá-los no dia a dia independente do negócio que você atue hoje.\nEste curso é dividido em módulos:\n\n\nNo primeiro módulo, vamos conhecer o instrutor\nNo segundo módulo, vamos aprender sobre o 5S\nNo terceiro módulo, vamos aprender as etapas de implantação\nNo quarto módulo, vamos aprender sobre o lançamento do programa\nNo quinto módulo, vamos aprender sobre a cultura 5S no ambiente organizacional",
+      "target_audience": [
+        "Aplicável a qualquer segmento, tipo de empresa e formação que desejam implantar o 5S"
+      ]
+    },
+    {
+      "title": "Express CONAENGE | Indústria 4.0 (IoT, Cloud, Robótica, etc)",
+      "url": "https://www.udemy.com/course/express-conaenge-industria-40/",
+      "bio": "Tudo o que você sempre quis saber sobre a Indústria 4.0 (Quarta Revolução Industrial)!",
+      "objectives": [
+        "Entender sobre a Indústria 4.0 no contexto atual e estar atualizado com as principais tendências."
+      ],
+      "course_content": {
+        "Indústria 4.0": [
+          "Por que você deve aprender sobre Indústria 4.0 (Importante!)",
+          "Revolução Industrial 4.0 e o Darwinismo Digital",
+          "Indústria 4.0 - Automação e Conexão",
+          "3 Coisas Que Eu Queria Ter Sabido Antes Sobre MANUFATURA ADITIVA",
+          "Conheça os Recursos do CNC SIEMENS",
+          "Aplicação de Ciência de Dados em Engenharia",
+          "Aplicação da Engenharia 4.0 no Desenvolvimento de Produtos",
+          "Impressão 3D: Aumentando a Eficiência do Projeto a Fabricação com a Prototipagem",
+          "Detecção de Falhas em Máquinas Industriais com a IoT e Inteligência Artificial",
+          "O Impacto e Benefícios da Indústria 4.0 para o Cliente",
+          "A Agenda Brasileira para a Indústria 4.0",
+          "Indústria 4.0 (Manufatura Avançada)",
+          "Indústria 4.0 - Passado, Presente e Futuro",
+          "Indústria 4.0: Produtiva, Criativa e Conectada",
+          "A Implementação da Indústria 4.0 e o Lean Manufacturing",
+          "Segurança Cibernética e Indústria 4.0",
+          "Importância da Engenharia para Aumento da Produtividade na Era da Indústria 4.0",
+          "A Servitização como Pilar da Indústria 4.0",
+          "Visão Computacional Aplicada à Indústria 4.0",
+          "ARDUINO Impulsionando a Indústria 4.0!",
+          "Aplicação da TIC para Gestão de Chão de Fábrica",
+          "Transformação Digital",
+          "Ganhos de Produtividade na Engenharia e Chão de Fábrica com a Indústria 4.0",
+          "Mais Palestras Express em Outras Áreas de Conhecimento"
+        ]
+      },
+      "requirements": [
+        "Apenas acesso à internet e conhecimentos básicos de Indústria."
+      ],
+      "description": "Este produto contempla os conteúdos mais atualizados do mercado sobre a Indústria 4.0 (Quarta Revolução Industrial), conhecimento fundamental para qualquer profissional que pretende estar atualizado com as novas tecnologias e demandas do futuro. Palestrantes renomados lhe apresentam conteúdos que farão você ir para outro nível de conhecimento. As 17 palestras deste produto foram transmitidas no CONAENGE, que é o principal e maior Congresso Nacional Online de Engenharia Mecânica e Automação.\nLembrando que a Indústria 4.0 é conhecimento básico para o profissional que quer se destacar no mercado e encontrar as melhores oportunidades.\nA I4.0 permitiu o desenvolvimento de produtos \"Smart\" e - na sequência dos SmartPhones - estão sendo criados SmartCars, SmartTVs, SmartHouses, SmartMachines, enfim, inúmeros SmartProducts que consagram a importância dos softwares neste ecossistema. Ecossistema que permite a comunicação entre as máquinas, além da tomada de decisão pelas mesmas de forma autônoma. Estas decisões serão tomadas em larga escala pelos próprios cibersistemas com taxas de acerto muito superiores ao ser humano.\nVocê sabe que a Indústria 4.0 tem alguns pilares básicos para que possa operar. Estes pilares são resultados recentes da evolução das assim chamadas 4 Revoluções Industriais.\nOs mais conhecidos são: Big Data, Cloud Computing, Manufatura aditiva, Realidade Virtual e Aumentada, Robôs Autônomos, Simulação, Integração de Sistemas, Cybersecurity e IoT (Internet of Things).",
+      "target_audience": [
+        "Estudantes e Profissionais."
+      ]
+    },
+    {
+      "title": "Lean Thinking e VSM",
+      "url": "https://www.udemy.com/course/lean-thinking-e-vsm/",
+      "bio": "Aprenda os conceitos Lean e o Mapeamento de Fluxo de Valor - VSM",
+      "objectives": [
+        "Os conceitos do pensamento Enxuto - Lean",
+        "As principais ferramentas utilizadas no Lean Manufacturing",
+        "Como fazer um VSM - Mapeamento do Fluxo de Valor",
+        "Como fazer Melhoria Contínua utilizando o Lean Thinking e o VSM"
+      ],
+      "course_content": {
+        "Lean Thinking": [
+          "Introdução",
+          "Processo Lean",
+          "A Casa da Toyota",
+          "Elementos da Gestão Lean"
+        ],
+        "VSM - Mapeamento de Fluxo de Valor": [
+          "VSM - Introdução",
+          "VSM - Desenho do Mapa do Estado Atual",
+          "VSM - Mapeamento do Fluxo de Valor do Estado Atual - Exemplo 2",
+          "VSM - Mapeamento do Fluxo de Valor do Estado Futuro e Relatório A3"
+        ]
+      },
+      "requirements": [
+        "Não há pré-requisito"
+      ],
+      "description": "Descrição:\nLean thinking (ou pensamento lean) é uma filosofia de gestão, inspirada nas práticas e resultados do Sistema Toyota de Produção (TPS).\nTem como essência a contínua eliminação de desperdícios e a sistemática resolução de problemas. Princípios e técnicas vêm sendo utilizados por organizações de diversos setores, no mundo todo, tornando-as muito mais produtivas, lucrativas e eficientes.\nConteúdo:\nCONSCIENTIZACÃO\n7 Classes de desperdícios / Gerenciamento visual / 5S / Trabalho em equipe / Kaizen\nJIDOKA\nPoka yoke / Parada de linha / Resolução de problemas / M P T\nJIT (Just In Time)\nFluxo de uma peça / Multi processo/máquina / Setup rápido / Takt time Trabalho padronizado / Kanban / WIP\nNÍVEL DE PRODUÇÃO\nHeijunka / Ergonomia\n\n\nDescrição:\nMapeamento do Fluxo de Valor - VSM\nÉ uma ferramenta estratégica\n– Proporciona a “Visão de Helicóptero” / Mostra as oportunidades de Kaizens  / Permite o emprego das ferramentas Lean\nObjetivos do VSM:\n- Identificar onde ocorrem desperdícios e possíveis oportunidades de melhoria na organização;\n- O VSM nos ajuda a enxergar o mapeamento da Cadeia de Valor , é uma ferramenta que permite a utilização de linguagem padronizada para possibilitar a completa visualização e o entendimento dos fluxos de material e de informação ao longo do fluxo de valor;\n- É uma ferramenta de suporte à priorização do processo a ser definido como prioritário em se tratando de valor agregado e desperdícios;\n- Através desta visão geral da cadeia, e não apenas de tarefas isoladas, é possível identificar fontes de desperdício e estabelecer melhorias que transformem o fluxo atual em um fluxo enxuto;\n- É uma ferramenta do conceito lean muito poderosa para identificar oportunidades de melhoria, trabalhar em um plano de implementação (A3) e projetar o futuro.",
+      "target_audience": [
+        "Profissionais envolvidos com sistemas Lean Manufacturing",
+        "Estudantes e interessados nestes temas"
+      ]
+    },
+    {
+      "title": "Rozwijanie umiejętności w zrównoważonej produkcji skóry",
+      "url": "https://www.udemy.com/course/rozwijanie-umiejetnosci-w-zrownowazonej-produkcji-skory/",
+      "bio": "Projekt SULEAP",
+      "objectives": [],
+      "course_content": {},
+      "requirements": [
+        "Zalecane są podstawowe pojęcia dotyczące przemysłu skórzanego."
+      ],
+      "description": "Głównym celem tego kursu jest wyposażenie uczestników w niezbędne umiejętności i wiedzę niezbędną do skutecznego podejmowania obowiązków specjalisty ds. skóry ekologicznej. Na tym stanowisku poszczególne osoby będą miały za zadanie proaktywną identyfikację i ocenę ryzyka społecznego, środowiskowego i gospodarczego. Następnie będą odpowiedzialni za opracowywanie i wdrażanie planów strategicznych i środków zapewniających zgodność procesów produkcyjnych wyrobów skórzanych i powstałych produktów z ustalonymi standardami i przepisami publicznymi i prywatnymi. Oznacza to wszechstronne zrozumienie przepisów prawa pracy i ochrony środowiska, protokołów BHP oraz zasad odpowiedzialności społecznej.\n\n\nIstotnym aspektem tej roli jest aktywne uczestnictwo w kształtowaniu i wdrażaniu strategii zrównoważonego rozwoju w całej złożonej sieci łańcucha dostaw firmy i procesów produkcyjnych. Nadzór nad operacjami produkcyjnymi i rozsądne zarządzanie wykorzystywanymi materiałami mają ogromne znaczenie dla utrzymania współczynnika zrównoważonego rozwoju w całym cyklu produkcyjnym.\n\n\nCo więcej, specjalista zajmujący się ekologiczną skórą odgrywa kluczową rolę w utrzymaniu skrupulatnej identyfikowalności na wszystkich etapach produkcji. To skrupulatne prowadzenie rejestrów odgrywa kluczową rolę w dostarczaniu klientom dokładnych i istotnych informacji dotyczących aspektów zrównoważonego rozwoju produktu końcowego wprowadzanego na rynek.\n\n\nCo więcej, specjalista ds. skóry ekologicznej stale monitoruje i stara się wzmacniać ślad środowiskowy i społeczny, harmonijnie dostosowując te wysiłki do nadrzędnej strategii biznesowej, jednocześnie uwzględniając różne wymagania klientów. Pomyślne ukończenie tego kursu pozwoli uczestnikom dobrze przygotować się do pełnienia wieloaspektowej roli wspierania zrównoważonych praktyk w dynamicznej dziedzinie przemysłu skórzanego.",
+      "target_audience": [
+        "Specjaliści, pracownicy i menedżerowie małych i średnich przedsiębiorstw zajmujących się produkcją skór oraz decydentów"
+      ]
+    },
+    {
+      "title": "Guide de l'Automatisation de la Construction",
+      "url": "https://www.udemy.com/course/le-guide-de-l-automatisation-de-la-construction/",
+      "bio": "Les nouvelles technologies dans le secteur du BTP: impression 3D, BIM, drones, IA, etc..",
+      "objectives": [],
+      "course_content": {
+        "Automatisation de la construction : les machines existantes": [
+          "Hadrian X",
+          "Constructions-3D (fabrication additive)"
+        ],
+        "Vidéos IA": [
+          "Construction 4.0 : les technologies clés",
+          "La construction d'une usine",
+          "Généralités sur l'impression 3D",
+          "Comment s'enrichir grâce à l'immobilier"
+        ]
+      },
+      "requirements": [
+        "Aucune"
+      ],
+      "description": "L’industrie de la construction est à un tournant technologique majeur.\nAvec l’émergence de systèmes robotisés comme Hadrian X, les imprimantes 3D béton et d’autres solutions d’automatisation avancées, le secteur entre dans une nouvelle ère où la rapidité d’exécution, la précision millimétrique, la réduction des déchets et l'optimisation des ressources deviennent des standards industriels.\nDans ce cours vous découvrirez comment des entreprises disruptives redéfinissent la manière dont sont construits nos futurs logements.\nEt si les bâtiments de demain n’étaient plus construits par des ouvriers, mais par des robots autonomes, ultra-précis et rapides ?\nQuelles sont les opportunités de carrière qui en découlent pour les ingénieurs, techniciens, architectes et passionnés d’innovation ?\nBienvenue dans le monde fascinant de la construction robotisée, où des machines comme Hadrian X et les imprimantes 3D béton redéfinissent les règles du jeu.\n\n\nObjectifs du cours :\nComprendre les principes de fonctionnement des robots de construction murale, notamment Hadrian X (FBR Limited), qui repose sur un système de pose automatisée de blocs par guidage numérique.\nAnalyser les technologies d’impression 3D béton utilisées pour la fabrication additive de structures porteuses, murs, voiles et modules complets.\nCe cours est fait pour vous si vous êtes :\nÉtudiant en architecture, génie civil ou robotique\nProfessionnel du BTP souhaitant anticiper les mutations du secteur\nCurieux de comprendre les technologies qui vont révolutionner la construction de nos logements\nPassionné par l’automatisation, la fabrication additive ou le futur des technologies liées au Bâtiment",
+      "target_audience": [
+        "Employés du BTP, Architectes, Techniciens de maintenance, Conducteurs d'engins, Maitres d'oeuvres, Roboticiens"
+      ]
+    },
+    {
+      "title": "ACV, CCV e aspetos não tecnológicos do couro sustentável",
+      "url": "https://www.udemy.com/course/acv-ccv-e-aspetos-nao-tecnologicos-do-couro-sustentavel/",
+      "bio": "SULEAP Projeto",
+      "objectives": [],
+      "course_content": {
+        "Métodos de Cálculo e Análise do Ciclo de Vida dos Produtos": [
+          "Sistemas de Cálculo da Pegada de Carbono - parte 1",
+          "Sistemas de Cálculo da Pegada de Carbono - parte 2",
+          "Sistemas de Cálculo da Pegada de Carbono",
+          "Sistemas de Cálculo da Pegada Hídrica - Parte 1",
+          "Sistemas de Cálculo da Pegada Hídrica - Parte 2",
+          "Sistemas de Cálculo da Pegada Hídrica",
+          "Avaliação do Ciclo de Vida (ACV)",
+          "Avaliação do Ciclo de Vida (ACV)",
+          "Avaliação do Custo do Ciclo de Vida (ACCV)",
+          "Avaliação do Custo do Ciclo de Vida (ACCV)"
+        ],
+        "Aspetos não tecnológicos de Sustentabilidade na Produção de Couro": [
+          "Economia Circular no Setor do Couro",
+          "Economia Circular no Setor do Couro",
+          "Bem-estar Animal e Rastreabilidade",
+          "Bem-estar Animal e Rastreabilidade",
+          "Desflorestação - parte 1",
+          "Desflorestação - parte 2",
+          "Desflorestação"
+        ]
+      },
+      "requirements": [
+        "São recomendadas noções básicas sobre a indústria do couro."
+      ],
+      "description": "O principal objetivo deste curso é proporcionar aos participantes uma compreensão abrangente de vários conceitos-chave e considerações relacionadas com o fabrico de couro, especificamente no contexto da sustentabilidade, economia e fatores não tecnológicos.\nIsto implica uma compreensão abrangente dos princípios e da metodologia da ACV (Avaliação do Ciclo de Vida) para avaliar os impactos ambientais da produção de couro. Adicionalmente, tem como objetivo introduzir o conceito de CCV (Custo do Ciclo de Vida) e a sua relevância para a produção de couro. O curso enfatizará a importância de considerações éticas, incluindo práticas de trabalho e bem-estar animal, ao longo do processo de produção de couro. Além disso, os participantes aprenderão sobre o cálculo das pegadas de carbono e de água, ajudando-os a compreender a pegada ecológica da produção de couro.\n\n\nDe um modo geral, o objetivo principal do curso é dotar os participantes dos conhecimentos necessários para avaliar, melhorar e tomar decisões informadas sobre os aspectos ambientais, económicos e não tecnológicos da produção de couro de uma forma sustentável e responsável. Estes conhecimentos permitir-lhes-ão contribuir positivamente para a indústria do couro, promovendo práticas sustentáveis e normas éticas, tendo em conta as implicações económicas. Em conclusão, este curso dota os participantes de conhecimentos cruciais para o fabrico sustentável do couro. Desde ACV e CCV até considerações éticas e cálculos de pegada ambiental, os participantes estarão bem preparados para promover práticas responsáveis na indústria.",
+      "target_audience": [
+        "Profissionais, pessoal e gestores de PMEs produtoras de couro e decisores políticos",
+        "Técnicos do ambiente interessados no sector do couro"
+      ]
+    },
+    {
+      "title": "LCA, LCC i aspekty pozatechnologiczne w zrównoważonej skórze",
+      "url": "https://www.udemy.com/course/lca-lcc-i-aspekty-pozatechnologiczne-w-zrownowazonej-skorze/",
+      "bio": "Suleap - Projekt",
+      "objectives": [],
+      "course_content": {
+        "Metody obliczania i analizowania cyklu życia produktów": [
+          "Część 1 - Systemy obliczania śladu węglowego",
+          "Część 2 - Systemy obliczania śladu węglowego",
+          "Systemy obliczania śladu węglowego",
+          "Część 1 - Systemy do obliczania śladu wodnego",
+          "Część 2 - Systemy do obliczania śladu wodnego (ŚW)",
+          "Systemy do obliczania śladu wodnego (ŚW)",
+          "Analiza cyklu życia (LCA)",
+          "Analiza cyklu życia (LCA)",
+          "Ocena kosztów cyklu życia (LCCA)",
+          "Ocena kosztów cyklu życia (LCCA)"
+        ],
+        "Nietechnologiczne aspekty zrównoważonego rozwoju w produkcji skór": [
+          "Gospodarka o obiegu zamkniętym w sektorze skórzanym",
+          "Gospodarka o obiegu zamkniętym w sektorze skórzanym",
+          "Dobrostan zwierząt i identyfikowalność",
+          "Dobrostan zwierząt i identyfikowalność",
+          "Wylesianie - część 1",
+          "Wylesianie - część 2",
+          "Wylesianie"
+        ]
+      },
+      "requirements": [
+        "Zalecane są podstawowe pojęcia dotyczące przemysłu skórzanego."
+      ],
+      "description": "LCA, LCC i aspekty pozatechnologiczne w zrównoważonej skórze\nSuleap - Projekt\n\n\nGłównym celem tego kursu jest zapewnienie uczestnikom wszechstronnego zrozumienia różnych kluczowych koncepcji i rozważań związanych z produkcją skóry, szczególnie w kontekście zrównoważonego rozwoju, ekonomii, czynników pozatechnologicznych, innowacji, etyki, technologii i globalnych trendów.\n\n\nWymaga to wszechstronnego zrozumienia zasad i metodologii LCA (oceny cyklu życia) w celu oceny wpływu produkcji skóry na środowisko. Dodatkowo ma na celu wprowadzenie koncepcji LCC (rachunku kosztów cyklu życia) i jej znaczenia w produkcji skór. Kurs będzie podkreślał znaczenie względów etycznych, w tym praktyk pracy i dobrostanu zwierząt, w całym procesie produkcji skóry. Ponadto uczestnicy dowiedzą się o obliczaniu śladu węglowego i wodnego, co pomoże im zrozumieć ślad ekologiczny produkcji skóry.\n\n\nOgólnie rzecz biorąc, głównym celem kursu jest wyposażenie uczestników w wiedzę potrzebną do skutecznej oceny, poprawy i podejmowania świadomych decyzji dotyczących środowiskowych, ekonomicznych i nietechnologicznych aspektów produkcji skór w zrównoważony i odpowiedzialny sposób. Wiedza ta umożliwi im wniesienie pozytywnego wkładu w przemysł skórzany poprzez promowanie zrównoważonych praktyk i standardów etycznych, przy jednoczesnym uwzględnieniu implikacji ekonomicznych.\n\n\nPodsumowując, kurs ten wyposaża uczestników w wiedzę kluczową dla zrównoważonej produkcji skór. Od LCA i LCC po względy etyczne i obliczenia śladu środowiskowego, uczestnicy będą dobrze przygotowani do promowania odpowiedzialnych praktyk branżowych.",
+      "target_audience": [
+        "Specjaliści, pracownicy i menedżerowie małych i średnich przedsiębiorstw zajmujących się produkcją skór oraz decydentów",
+        "Technicy ochrony środowiska zainteresowani branżą skórzaną."
+      ]
+    },
+    {
+      "title": "Plano mestre de manutenção preventiva",
+      "url": "https://www.udemy.com/course/plano-mestre-de-manutencao-preventiva/",
+      "bio": "Como estruturar e aplicar um plano eficiente de manutenção preventiva de 52 semanas",
+      "objectives": [],
+      "course_content": {
+        "Plano mestre de manutenção preventiva": [
+          "Introdução",
+          "Iniciando a implementação",
+          "Criação da O.S",
+          "Erros comuns",
+          "Plano mestre de manutenção preventiva",
+          "Método OPFC"
+        ]
+      },
+      "requirements": [
+        "Conhecimento básico de PCM",
+        "Vontade de aprender sobre PCM"
+      ],
+      "description": "Descrição do Curso – Plano de Manutenção Preventiva em 52 Semanas\n\n\nVocê já imaginou ter um plano de manutenção estruturado, prático e eficiente, capaz de garantir a confiabilidade dos seus ativos durante todo o ano?\nCom este curso, você vai aprender passo a passo como elaborar um plano de manutenção preventiva de 52 semanas, aplicando as melhores práticas de engenharia e gestão para aumentar a disponibilidade dos equipamentos, reduzir custos com corretivas e evitar paradas inesperadas.\nO que você vai conquistar:\nClareza para estruturar um calendário anual de manutenção sem complicação.\nTécnicas para antecipar falhas e minimizar riscos.\nRedução de gastos desnecessários com manutenções emergenciais.\nOrganização e previsibilidade para a rotina da sua equipe.\nUm método que pode ser aplicado em qualquer segmento industrial.\n\n\nPor que este curso é diferente?\nEle foi pensado para profissionais que não querem apenas teoria, mas sim um método prático e direto, que pode ser colocado em ação imediatamente. Você sairá do curso com um plano pronto para ser implementado, capaz de transformar a gestão da manutenção da sua empresa.\n\n\nImagine o impacto de ter 12 meses de planejamento preventivo definido, alinhado com as metas de produção e com foco em resultados reais.\nAgora pense: quanto custa não ter isso hoje?\n\n\nSe você busca segurança, confiabilidade e excelência em manutenção, este curso é para você.",
+      "target_audience": [
+        "Analista de PCM",
+        "Eletricistas",
+        "Mecânicos",
+        "Engenheiros",
+        "Técnicos",
+        "Técnicos e engenheiros em início de carreira que querem se preparar para atuar em manutenção industrial.",
+        "Profissionais da manutenção (mecânica, elétrica, automação, utilidades etc.) que desejam ampliar sua visão além da execução",
+        "Supervisores, líderes e gestores que buscam desenvolver competências para melhorar processos de manutenção e aumentar a confiabilidade dos ativos.",
+        "Estudantes de cursos técnicos ou superiores relacionados à indústria"
+      ]
+    },
+    {
+      "title": "Estratégias de Manutenção",
+      "url": "https://www.udemy.com/course/estrategias-de-manutencao/",
+      "bio": "Um guia introdutório para dominar as metodologias de manutenção",
+      "objectives": [],
+      "course_content": {
+        "Introdução": [
+          "O que é PCM?",
+          "Alguns conceitos"
+        ],
+        "Estratégias de manutenção": [
+          "Introdução",
+          "Manutenção Corretiva",
+          "Manutenção Preventiva",
+          "Manutenção Preditiva",
+          "Manutenção Proativa",
+          "Qual estratégia utilizar?",
+          "Erros comuns",
+          "E-book para Download"
+        ]
+      },
+      "requirements": [
+        "Nenhum"
+      ],
+      "description": "Você já percebeu que a maioria dos profissionais de manutenção passa anos apenas “apagando incêndios”, sem conhecer as metodologias que realmente trazem resultados para a empresa?\nA verdade é que manutenção não é só consertar quando quebra. Existem práticas e estratégias que podem transformar completamente a confiabilidade dos equipamentos, reduzir custos e aumentar a produtividade.\nNeste treinamento gratuito e introdutório, você vai descobrir os fundamentos das principais estratégias de manutenção: corretiva, preventiva, preditiva e proativa.\n\nDe forma simples, direta e prática, você entenderá:\nO que significa cada uma dessas metodologias;\nOs pontos fortes e fracos de cada estratégia;\nQuando e como aplicar cada tipo de manutenção;\nComo escolher a melhor abordagem de acordo com a realidade da sua empresa.\nEsse curso foi pensado especialmente para técnicos, engenheiros, supervisores e iniciantes que desejam dar os primeiros passos na gestão de manutenção (PCM), sem complicação e sem excesso de teoria.\nAo final, você terá uma visão clara que muitos profissionais ainda não possuem, mesmo com anos de experiência na área. Essa base vai te preparar para crescer na carreira, enxergar a manutenção de forma estratégica e abrir portas para treinamentos mais completos.\nNão perca tempo! Comece agora mesmo e descubra como a manutenção pode ir muito além de simplesmente trocar peças.",
+      "target_audience": [
+        "Estudantes e iniciantes da área de manutenção que querem compreender as principais estratégias de manutenção.",
+        "Técnicos, eletricistas, mecânicos e profissionais da indústria que desejam expandir seus conhecimentos além da prática de “consertar quando quebra”.",
+        "Engenheiros e supervisores que estão começando a se envolver com gestão de manutenção e precisam de uma visão clara das metodologias.",
+        "Qualquer pessoa interessada em entender, de forma simples e prática, como funciona a manutenção corretiva, preventiva, preditiva e proativa."
+      ]
+    },
+    {
+      "title": "Competenze per una produzione sostenibile della pelle",
+      "url": "https://www.udemy.com/course/competenze-per-una-produzione-sostenibile-della-pelle/",
+      "bio": "Progetto SULEAP",
+      "objectives": [],
+      "course_content": {
+        "Aspetti tecnologici per la sostenibilità della produzione di pelle": [
+          "Le migliori tecnologie disponibili (BATs) per le varie fasi di produzione",
+          "Le migliori tecnologie disponibili (BATs) per le varie fasi di produzione",
+          "Sostanze soggette a Restrizioni nel Cuoio",
+          "Sostanze soggette a Restrizioni nel Cuoio",
+          "Bioprodotti, alternative alle sostanze chimiche fossili",
+          "Bioprodotti, alternative alle sostanze chimiche fossili"
+        ],
+        "Aspetti qualitativi per la sostenibilità della produzione di pelle": [
+          "Schema di Certificazione della Sostenibilità Applicabile alla Pelle",
+          "Schema di Certificazione della Sostenibilità Applicabile alla Pelle",
+          "Etichette ecologiche, standard, regolamenti applicabili alla produzione di pelli",
+          "Etichette ecologiche, standard, regolamenti applicabili alla produzione di pelli"
+        ],
+        "Aspetti ambientali e sostenibilità nella produzione di pelli": [
+          "Migliori tecniche disponibili per ridurre il consumo di acqua",
+          "Migliori tecniche disponibili per ridurre il consumo di acqua",
+          "Migliori tecniche disponibili per ottenere l'efficienza energetica",
+          "MTD per il trattamento delle acque reflue nella produzione conciaria",
+          "MTD per il trattamento delle acque reflue nella produzione conciaria",
+          "Migliori tecniche disponibili per i sottoprodotti solidi e i residui solidi",
+          "Migliori tecniche disponibili per i sottoprodotti solidi e i residui solidi",
+          "Migliori tecniche disponibili per la riduzione delle emissioni gassose",
+          "Migliori tecniche disponibili per la riduzione delle emissioni gassose"
+        ]
+      },
+      "requirements": [
+        "Si raccomanda la conoscenza delle nozioni di base dell'idustra della pelle"
+      ],
+      "description": "L'obiettivo principale di questo corso è fornire ai partecipanti le competenze e le conoscenze essenziali necessarie per assumere efficacemente le responsabilità di un professionista della pelle sostenibile. In questa veste, gli addetti avranno il compito di identificare e valutare in modo proattivo i rischi sociali, ambientali ed economici. Conseguentemente, saranno responsabili della' identificazione e dell'attuazione di piani e misure strategiche al fine di garantire l'aderenza dei processi di produzione della pelle e dei prodotti che ne derivano agli standard e alla vigente legislazione pubblica e privata. Ciò comporta una comprensione completa delle normative in materia di lavoro e ambiente, dei protocolli di salute e sicurezza e dei principi di responsabilità sociale.\n\n\nUn aspetto essenziale di questo ruolo include la partecipazione attiva alla definizione e all'implementazione di strategie di sostenibilità nella complessa rete della filiera di approvvigionamento e dei processi produttivi dell'azienda. La supervisione delle operazioni di produzione e la gestione oculata dei materiali utilizzati sono della massima importanza per mantenere il quoziente di sostenibilità dell’intero ciclo produttivo.\n\n\nInoltre, il professionista della pelle sostenibile assume un ruolo fondamentale nel mantenimento di una meticolosa tracciabilità durante tutto il processo produttivo. Questa meticolosa tenuta dei registri è essenziale per fornire ai clienti informazioni accurate e pertinenti sugli aspetti di sostenibilità del prodotto finale commercializzato.\n\n\nInoltre, il professionista della pelle sostenibile monitora continuamente e si impegna a migliorare l’impronta ambientale e sociale, armonizzando questi sforzi con la strategia aziendale complessiva e soddisfacendo al contempo gi specifici requisiti dei clienti. Una volta completato con successo questo corso, i partecipanti avranno gli strumenti per eccellere nel multifunzionale ruolo di promuovere pratiche sostenibili nel dinamico settore dell’industria della pelle.",
+      "target_audience": [
+        "Professionisti, dipendenti e manager delle PMI del settore della pelle, e policy maker."
+      ]
+    },
+    {
+      "title": "Competências para a produção sustentável de couro",
+      "url": "https://www.udemy.com/course/competencias-para-a-producao-sustentavel-de-couro/",
+      "bio": "Projeto SULEAP",
+      "objectives": [],
+      "course_content": {
+        "Aspetos tecnológicos para a sustentabilidade na produção de couro": [
+          "Melhores Técnicas Disponíveis (MTD) para as diferentes fases de produção",
+          "Melhores Técnicas Disponíveis (MTD) para as diferentes fases de produção",
+          "Substâncias Restritas no Couro",
+          "Substâncias Restritas no Couro",
+          "Bioprodutos, alternativas a químicos derivados de produtos fósseis",
+          "Bioprodutos, alternativas a químicos derivados de produtos fósseis"
+        ],
+        "Aspetos de qualidade para a sustentabilidade na produção de couro": [
+          "Sistemas de Certificação de Sustentabilidade aplicáveis ao Couro",
+          "Sistemas de Certificação de Sustentabilidade aplicáveis ao Couro",
+          "Rótulos, normas, regulamentos ecológicos/ambientais aplicáveis ao setor do couro",
+          "Rótulos, normas, regulamentos ecológicos/ambientais aplicáveis ao setor do couro"
+        ],
+        "Aspetos ambientais e Sustentabilidade na produção de couro": [
+          "Melhores Técnicas Disponíveis (MTD) para reduzir o Consumo de Água",
+          "Melhores Técnicas Disponíveis (MTD) para reduzir o Consumo de Água",
+          "Melhores Técnicas Disponíveis para alcançar a eficiência energética",
+          "Melhores Técnicas Disponíveis para alcançar a Eficiência Energética",
+          "MTD para o tratamento de Águas Residuais em todas as Fases de Produção de Couro",
+          "MTD para o tratamento de Águas Residuais em todas as Fases de Produção de Couro",
+          "Melhores técnicas disponíveis para subprodutos e resíduos sólidos",
+          "Melhores técnicas disponíveis para subprodutos e resíduos sólidos",
+          "Melhores Técnicas Disponíveis para reduzir as Emissões Gasosas",
+          "Melhores Técnicas Disponíveis para reduzir as Emissões Gasosas"
+        ]
+      },
+      "requirements": [
+        "São recomendadas noções básicas sobre a indústria do couro."
+      ],
+      "description": "O principal objetivo deste curso é dotar os participantes das competências e conhecimentos essenciais necessários para assumir eficazmente as responsabilidades de um profissional de couro sustentável. Nesta capacidade, os indivíduos serão encarregados de identificar e avaliar proativamente os riscos sociais, ambientais e económicos. Posteriormente, serão responsáveis pela conceção e implementação de planos estratégicos e medidas para garantir a adesão dos processos de fabrico de couro e dos produtos resultantes às normas e legislação públicas e privadas estabelecidas. Isto implica uma compreensão abrangente dos regulamentos laborais e ambientais, dos protocolos de saúde e segurança e dos princípios de responsabilidade social.\n\n\nUm aspeto essencial desta função inclui a participação ativa na definição e implementação de estratégias de sustentabilidade em toda a complexa rede da cadeia de abastecimento e dos processos de produção da empresa. A supervisão das operações de fabrico e a gestão criteriosa dos materiais utilizados são de extrema importância para manter o quociente de sustentabilidade de todo o ciclo de produção.\n\n\nAlém disso, o profissional de couro sustentável assume um papel fundamental na manutenção de uma rastreabilidade meticulosa ao longo do percurso de produção. Esta manutenção de registos meticulosos é fundamental para fornecer aos clientes informações precisas e relevantes relativas aos aspectos de sustentabilidade do produto final comercializado.\n\n\nO profissional de couro sustentável monitoriza continuamente e esforça-se por melhorar a pegada ambiental e social, alinhando estes esforços harmoniosamente com a estratégia de negócio global, ao mesmo tempo que acomoda os requisitos distintos dos clientes. Ao concluir com êxito este curso, os participantes estarão bem equipados para se destacarem no papel multifacetado de conduzir práticas sustentáveis no domínio dinâmico da indústria do couro.",
+      "target_audience": [
+        "Profissionais, pessoal e gestores de PMEs produtoras de couro e decisores políticos"
+      ]
+    },
+    {
+      "title": "Habilidades para una producción de cuero sostenible",
+      "url": "https://www.udemy.com/course/habilidades-para-una-produccion-de-cuero-sostenible/",
+      "bio": "Proyecto SULEAP",
+      "objectives": [],
+      "course_content": {
+        "Aspectos tecnológicos para la sostenibilidad de la producción de cuero": [
+          "Las mejores tecnologías disponibles para las distintas etapas de producción",
+          "Las mejores tecnologías disponibles para las distintas etapas de producción",
+          "Sustancias Restringidas en el Cuero",
+          "Sustancias Restringidas en el Cuero",
+          "Bioproductos, alternativas a los productos químicos de productos fósiles",
+          "Bioproductos, alternativas a los productos químicos de productos fósiles"
+        ],
+        "Aspectos de calidad para la sostenibilidad en la producción de cuero": [
+          "Esquemas de Certificación de Sostenibilidad Aplicables al Cuero",
+          "Esquemas de Certificación de Sostenibilidad Aplicables al Cuero",
+          "Etiquetas, normas y reglamentos ecológicos/ambientales aplicables al cuero",
+          "Etiquetas, normas y reglamentos ecológicos/ambientales aplicables al cuero"
+        ],
+        "Aspectos ambientales para la Sostenibilidad en la producción de cuero": [
+          "Mejores técnicas disponibles (BATs) para reducir el consumo de agua",
+          "Mejores técnicas disponibles (BATs) para reducir el consumo de agua",
+          "Mejores técnicas disponibles para la obtención de la eficiencia energética",
+          "Mejores técnicas disponibles para la obtención de la eficiencia energética",
+          "Las mejores técnicas disponibles para el tratamiento de aguas residuales",
+          "Las mejores técnicas disponibles para el tratamiento de aguas residuales",
+          "Las mejores técnicas disponibles para subproductos sólidos y residuos sólidos",
+          "Las mejores técnicas disponibles para subproductos sólidos y residuos sólidos",
+          "Las mejores técnicas disponibles para reducir las emisiones gaseosas",
+          "Las mejores técnicas disponibles para reducir las emisiones gaseosas"
+        ]
+      },
+      "requirements": [
+        "Se recomiendan nociones básicas sobre la industria del cuero."
+      ],
+      "description": "El objetivo principal de este curso es equipar a los participantes con las habilidades y conocimientos esenciales necesarios para asumir eficazmente las responsabilidades de un profesional del cuero sostenible. En esta capacidad, los individuos tendrán la tarea de identificar y evaluar proactivamente los aspectos sociales, ambientales y económicos. Posteriormente, serán responsables de diseñar e implementar planes y medidas estratégicas para asegurar el cumplimiento de los procesos de fabricación del cuero y los productos resultantes con los estándares y la legislación públicos y privados establecidos, lo que implica un conocimiento integral de las normas laborales, ambientales, de salud y seguridad. protocolos y principios de responsabilidad social.\n\n\nUn aspecto esencial de esta función incluye participar activamente en la configuración e implementación de estrategias de sostenibilidad en toda la compleja red de la cadena de suministro y los procesos de producción de la empresa. La supervisión de las operaciones de fabricación y la gestión juiciosa de los materiales utilizados son de suma importancia para mantener el cociente de sostenibilidad de todo el ciclo de producción.\n\n\nAdemás, el profesional del cuero sostenible asume un papel fundamental en el mantenimiento de una trazabilidad meticulosa durante todo el proceso de producción. Este meticuloso mantenimiento de registros es fundamental para proporcionar a los clientes información precisa y relevante sobre los aspectos de sostenibilidad del producto final comercializado.\n\n\nAdemás, el profesional del cuero sostenible monitorea y se esfuerza continuamente por mejorar las huellas ambientales y sociales, alineando estos esfuerzos armoniosamente con la estrategia comercial general y al mismo tiempo acomodando los distintos requisitos de los clientes. Al completar con éxito este curso, los participantes estarán bien equipados para sobresalir en el papel multifacético de impulsar prácticas sostenibles dentro del dominio dinámico de la industria del cuero.",
+      "target_audience": [
+        "Profesionales, personal y directivos de PYMES y responsables políticos del sector del cuero."
+      ]
+    }
+  ]
+}

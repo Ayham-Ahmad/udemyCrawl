@@ -1,0 +1,22 @@
+{
+  "main_category": "design",
+  "sub_category": "Design Tools",
+  "courses": [
+    {
+      "title": "Adobe Premiere Pro CC Video Editing Course Beginners To Pro",
+      "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-video-editing-course-beginners-to-professional/"
+    },
+    {
+      "title": "Adobe InDesign CC: Your Complete Guide to InDesign",
+      "url": "https://www.udemy.com/course/adobe-indesign-course/"
+    },
+    {
+      "title": "Complete course in AutoCAD : 2D and 3D",
+      "url": "https://www.udemy.com/course/autocad-2020-for-designers-a-problem-solving-approach/"
+    },
+    {
+      "title": "After Effects CC Masters: VFX, Motion Graphics, Animation+",
+      "url": "https://www.udemy.com/course/after-effects-cc/"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "main_category": "business",
+  "sub_category": "Business Analytics & Intelligence",
+  "courses": [
+    {
+      "title": "Business Statistic untuk Pemula",
+      "url": "https://www.udemy.com/course/business-statistic/"
+    },
+    {
+      "title": "People Analytics: Aplicaciones en Recursos Humanos",
+      "url": "https://www.udemy.com/course/people-analytics-recursos-humanos/"
+    },
+    {
+      "title": "Zero to Hero in SQL: SQL for Data Analytics",
+      "url": "https://www.udemy.com/course/the-complete-sql-masterclass-for-data-analytics/"
+    },
+    {
+      "title": "Tableau A-Z: Hands-On Tableau Training for Data Science",
+      "url": "https://www.udemy.com/course/tableau10/"
+    },
+    {
+      "title": "Tableauデータ可視化 Part1",
+      "url": "https://www.udemy.com/course/tableau-part1/"
+    },
+    {
+      "title": "Menganalisis Data dengan Tableau",
+      "url": "https://www.udemy.com/course/analyzing-data-with-tableau/"
+    },
+    {
+      "title": "Analisis Bisnis untuk Pemula : Metode Statistik",
+      "url": "https://www.udemy.com/course/business-statistic-ii/"
+    },
+    {
+      "title": "Kundencontrolling mit Excel für Anfänger",
+      "url": "https://www.udemy.com/course/kundencontrolling-mit-excel-fur-anfanger/"
+    },
+    {
+      "title": "はじめてのデータサイエンス",
+      "url": "https://www.udemy.com/course/pa_datascience_gairon/"
+    },
+    {
+      "title": "Microsoft Power BI Desktop for Business Intelligence",
+      "url": "https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/"
+    },
+    {
+      "title": "İş Zekâsı ve İş Analitiği: Veri Odaklı Karar Almak",
+      "url": "https://www.udemy.com/course/is-zekasi-ve-is-analitigi-veri-odakli-karar-almak/"
+    },
+    {
+      "title": "Business Analytics Crash Course",
+      "url": "https://www.udemy.com/course/business-analytics-crash-course/"
+    },
+    {
+      "title": "الذكاء الاصطناعي للجميع: دليل بسيط وودود للعقول الفضولية",
+      "url": "https://www.udemy.com/course/ai-terms-definitions-ar-free/"
+    },
+    {
+      "title": "# IBM Cognos Analytics Kursübersicht (Inhalte und Versionen)",
+      "url": "https://www.udemy.com/course/ibm-cognos-analytics-kursubersicht-inhalte-und-versionen/"
+    },
+    {
+      "title": "PowerBIでサクッとグラフを作成・データ分析の新しい可能性を開け！Microsotfユーザーが無料で使える分析ソフト",
+      "url": "https://www.udemy.com/course/excel_power-bi/"
+    },
+    {
+      "title": "DAX Best Practices in Power BI –Performance & Clean(தமிழில்)",
+      "url": "https://www.udemy.com/course/powerbi-dax-best-practices-tamil/"
+    },
+    {
+      "title": "Guías de Reportes Exportables de Sellia",
+      "url": "https://www.udemy.com/course/guias-de-reportes-exportables-de-sellia/"
+    },
+    {
+      "title": "The Complete SQL Bootcamp: Go from Zero to Hero",
+      "url": "https://www.udemy.com/course/the-complete-sql-bootcamp/"
+    },
+    {
+      "title": "Metodologi Penelitian untuk Pemula",
+      "url": "https://www.udemy.com/course/research-methodology/"
+    },
+    {
+      "title": "Cognos Analytics 12.0.4 - G7 Cognos Mobile und KI Assistent",
+      "url": "https://www.udemy.com/course/cognos-analytics-1204-g7-cognos-mobile-und-ki-assistent/"
+    },
+    {
+      "title": "Cognos Analytics 11.0.13 - A1 Einführung für Anwender",
+      "url": "https://www.udemy.com/course/einfuhrung-fur-anwender-ibm-cognos-analytics-11013/"
+    }
+  ]
+}

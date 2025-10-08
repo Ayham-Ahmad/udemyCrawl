@@ -1,0 +1,22 @@
+{
+  "main_category": "personal-development",
+  "sub_category": "Leadership",
+  "courses": [
+    {
+      "title": "Management Skills Training for New & Experienced Managers",
+      "url": "https://www.udemy.com/course/the-new-manager-managing-people-teams-processes/"
+    },
+    {
+      "title": "Leadership - Leading a Community",
+      "url": "https://www.udemy.com/course/leadership-leading-a-community/"
+    },
+    {
+      "title": "Leading Effective Meetings - You Can Lead Effective Meetings",
+      "url": "https://www.udemy.com/course/leading-effective-meetings-you-can-lead-effective-meetings/"
+    },
+    {
+      "title": "Fundamentals of Successful Leadership - Leading with Impact",
+      "url": "https://www.udemy.com/course/fundamentals-of-successful-leadership-leading-with-impact/"
+    }
+  ]
+}

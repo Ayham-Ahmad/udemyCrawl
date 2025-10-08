@@ -1,0 +1,2062 @@
+{
+  "main_category": "development",
+  "sub_category": "Programming Languages",
+  "courses": [
+    {
+      "title": "Learn Mathematica Now",
+      "url": "https://www.udemy.com/course/mathematica/"
+    },
+    {
+      "title": "Clojure Fundamentals For Beginners",
+      "url": "https://www.udemy.com/course/clojure-fundamentals-for-beginners/"
+    },
+    {
+      "title": "Complete PHP MVC tutorial. Create your own PHP MVC framework",
+      "url": "https://www.udemy.com/course/complete-php-mvc-tutorial/"
+    },
+    {
+      "title": "Siemens WinCC Professional SCADA (Advance)",
+      "url": "https://www.udemy.com/course/advance-siemens-wincc-professional-scada-course/"
+    },
+    {
+      "title": "Learn PHP and MySQL Development From Scratch",
+      "url": "https://www.udemy.com/course/learn-php-and-mysql-development-from-scratch/"
+    },
+    {
+      "title": "Python for Absolute Beginners® | Zero to Expert 2021",
+      "url": "https://www.udemy.com/course/python-for-absolute-beginners-zero-to-expert-2021/"
+    },
+    {
+      "title": "4 Comprehensive Practice Tests for any Python Certification",
+      "url": "https://www.udemy.com/course/4-comprehensive-practice-tests-for-any-python-certification/"
+    },
+    {
+      "title": "Google Go Programming for Beginners (golang)",
+      "url": "https://www.udemy.com/course/google-go-programming-for-beginners/"
+    },
+    {
+      "title": "Learn C Sharp Programming From Scratch",
+      "url": "https://www.udemy.com/course/learn-c-sharp-programming-from-scratch/"
+    },
+    {
+      "title": "Python OOPS: Object Oriented Programming For Python Beginner",
+      "url": "https://www.udemy.com/course/python-programming-masterclass/"
+    },
+    {
+      "title": "Zero to Hero Java SpringBoot & JPA Mastery with Real Project",
+      "url": "https://www.udemy.com/course/zero-to-hero-java-springboot-jpa-mastery-with-real-project/"
+    },
+    {
+      "title": "C, C++, PHP & Java: Complete Guide to Modern Programming",
+      "url": "https://www.udemy.com/course/c-c-php-java-complete-guide-to-modern-programming/"
+    },
+    {
+      "title": "VB.NET Masterclass: Learn Visual Basic and VBScript",
+      "url": "https://www.udemy.com/course/visual-basic-series/"
+    },
+    {
+      "title": "Build Full Download Manager | Python & PyQt5",
+      "url": "https://www.udemy.com/course/build-full-download-manager-python-pyqt5/"
+    },
+    {
+      "title": "DevOps: CI/CD with Jenkins using Pipelines:Complete Tutorial",
+      "url": "https://www.udemy.com/course/devops-cicd-with-jenkins-using-pipelinescomplete-tutorial/"
+    },
+    {
+      "title": "Python Programming for Non Programmers: Quickly learn python",
+      "url": "https://www.udemy.com/course/python-programming-for-absolute-beginners-using-python-3/"
+    },
+    {
+      "title": "C# Mastering Course For Intermediates",
+      "url": "https://www.udemy.com/course/c-sharp-mastering-course-for-intermediates/"
+    },
+    {
+      "title": "NumPy Programming Mastery: Learn Python for Data Analysis",
+      "url": "https://www.udemy.com/course/numpy-programming-mastery-learn-python-for-data-analysis/"
+    },
+    {
+      "title": "Angular 7 + Spring Boot and Cloud Microservices(Inc. Docker)",
+      "url": "https://www.udemy.com/course/angular-7-microservices-with-spring-boot-and-spring-cloud/"
+    },
+    {
+      "title": "50 Python Source Codes Explained",
+      "url": "https://www.udemy.com/course/50-python-source-codes-explained/"
+    },
+    {
+      "title": "Learning Pydantic: Advanced Data Validation In Python",
+      "url": "https://www.udemy.com/course/pydantic-advanced-data-validation/"
+    },
+    {
+      "title": "Typescript | Type script & Typescript React from Scratch",
+      "url": "https://www.udemy.com/course/typescript-type-script-typescript-react-from-scratch/"
+    },
+    {
+      "title": "Python for Beginners to Advance",
+      "url": "https://www.udemy.com/course/python-for-beginners-to-advance-d/"
+    },
+    {
+      "title": "Assembly Language: Learn Assembly Programming Fast In 2020",
+      "url": "https://www.udemy.com/course/learn-assembly-language-fast/"
+    },
+    {
+      "title": "Top Python and PHP Programming Bundle",
+      "url": "https://www.udemy.com/course/python-and-php-killer-programming-bundle/"
+    },
+    {
+      "title": "Python Crash Course",
+      "url": "https://www.udemy.com/course/python-crash-course/"
+    },
+    {
+      "title": "SikuliX - Automate Anything - Python Based Sikuli Scripting",
+      "url": "https://www.udemy.com/course/sikulix-automate-anything/"
+    },
+    {
+      "title": "Python Programming for Beginners: Learn, Apply, Succeed",
+      "url": "https://www.udemy.com/course/python-basics-i/"
+    },
+    {
+      "title": "Salesforce Lightning : Practical Coding Examples",
+      "url": "https://www.udemy.com/course/lightning-components-learn-by-examples/"
+    },
+    {
+      "title": "Create a Smart Contract on WAX blockchain including NFT RNG",
+      "url": "https://www.udemy.com/course/wax-blockchain/"
+    },
+    {
+      "title": "Clean Code with Java examples",
+      "url": "https://www.udemy.com/course/clean-code-java/"
+    },
+    {
+      "title": "ARM 64-bit Assembly Language with Raspberry Pi",
+      "url": "https://www.udemy.com/course/arm-64-bit-assembly-language-with-raspberry-pi/"
+    },
+    {
+      "title": "PHP Tutorial: PHP/MySQL for Beginners",
+      "url": "https://www.udemy.com/course/phpmysql-for-beginners/"
+    },
+    {
+      "title": "100 Days of Code: The Complete Python Pro Bootcamp",
+      "url": "https://www.udemy.com/course/100-days-of-code/"
+    },
+    {
+      "title": "Learn C#Programming: C Sharp Coding in One Day | Roll Play",
+      "url": "https://www.udemy.com/course/learn-c-sharp-programming-with-examples-in-one-day/"
+    },
+    {
+      "title": "Python Basics Coding for Absolute Beginners : Programming",
+      "url": "https://www.udemy.com/course/python-basics-coding-for-absolute-beginners-programming/"
+    },
+    {
+      "title": "Java Generics Uncomplicated practically",
+      "url": "https://www.udemy.com/course/java-generics-uncomplicated-practically/"
+    },
+    {
+      "title": "Getting Started with Blockchain Solidity and Smart Contracts",
+      "url": "https://www.udemy.com/course/getting-started-with-blockchain-solidity-and-smart-contracts/"
+    },
+    {
+      "title": "Learn Object Oriented Programming OOP in C++",
+      "url": "https://www.udemy.com/course/c-programming-oops-concepts/"
+    },
+    {
+      "title": "Python STEM Essentials",
+      "url": "https://www.udemy.com/course/python-stem-essentials/"
+    },
+    {
+      "title": "C# from the beginning",
+      "url": "https://www.udemy.com/course/c-from-the-beginning/"
+    },
+    {
+      "title": "Interactive GUI with C++ and ImGui: Hands-On Projects",
+      "url": "https://www.udemy.com/course/interactive-gui-with-c-and-imgui-practical-examples/"
+    },
+    {
+      "title": "The Complete Firebase And Amazon S3 With JavaFX Course",
+      "url": "https://www.udemy.com/course/the-complete-firebase-and-amazon-s3-with-javafx-course/"
+    },
+    {
+      "title": "Python for beginners: \"A Great Way to Learn the Basics\"",
+      "url": "https://www.udemy.com/course/learn-python-basics-training/"
+    },
+    {
+      "title": "PHP Punch in the Face",
+      "url": "https://www.udemy.com/course/php-punch-in-the-face/"
+    },
+    {
+      "title": "Scala Advanced, Part 2 - Best Practices, Async, Serializing",
+      "url": "https://www.udemy.com/course/scala-advanced-part-2/"
+    },
+    {
+      "title": "Test and improve your Java skills",
+      "url": "https://www.udemy.com/course/improve-java-skills/"
+    },
+    {
+      "title": "Complete C++ Scientific Programming Bundle - 21 Hours!",
+      "url": "https://www.udemy.com/course/cpp-for-scientific-programming/"
+    },
+    {
+      "title": "Python Programming for Cybersecurity: From Zero to Defender",
+      "url": "https://www.udemy.com/course/python-programming-for-cybersecurity-from-zero-to-defender/"
+    },
+    {
+      "title": "Refactoring into Chain of Responsibility from Legacy Code",
+      "url": "https://www.udemy.com/course/pyramid-of-refactoring-java-chain-of-poker-hands/"
+    },
+    {
+      "title": "Rust for Beginners: Learn Rust in 4 Hours",
+      "url": "https://www.udemy.com/course/rust-for-beginners-learn-rust-in-4-hours/"
+    },
+    {
+      "title": "C# WPF: Learn C# WPF Core with MsSQL & EF Core",
+      "url": "https://www.udemy.com/course/c-wpf-learn-c-wpf-core-with-mssql-ef-core/"
+    },
+    {
+      "title": "Mastering Advanced Java with Object-Oriented Programming",
+      "url": "https://www.udemy.com/course/mastering-advanced-java-with-object-oriented-programming/"
+    },
+    {
+      "title": "Clojure - from beginner to advanced",
+      "url": "https://www.udemy.com/course/advancedclojure/"
+    },
+    {
+      "title": "Complete Python Programming Fundamentals And Sample Projects",
+      "url": "https://www.udemy.com/course/complete-python-programming-fundamentals-and-sample-projects/"
+    },
+    {
+      "title": "Java Programming and Basics of Spring Boot Microservices",
+      "url": "https://www.udemy.com/course/java-programming-and-spring-boot-microservices/"
+    },
+    {
+      "title": "A Sip of Java",
+      "url": "https://www.udemy.com/course/a-sip-of-java/"
+    },
+    {
+      "title": "C Programming Masterclass with MySQL & PostgreSQL Database",
+      "url": "https://www.udemy.com/course/complete-c-programming-fundamentals-with-example-projects/"
+    },
+    {
+      "title": "Python For Beginners: Learn Python With Hands-On Examples",
+      "url": "https://www.udemy.com/course/python-for-beginners-learn-python-with-hands-on-examples/"
+    },
+    {
+      "title": "Multithreading in Modern C++ | C++11 | C++14 | C++17| C++20",
+      "url": "https://www.udemy.com/course/multithreading-in-modern-c-c11-c14-c17/"
+    },
+    {
+      "title": "Hands-On Test Driven Development with Python",
+      "url": "https://www.udemy.com/course/hands-on-test-driven-development-with-python/"
+    },
+    {
+      "title": "Beyond Basic Python: Metaclasses & Dataclasses Mastery",
+      "url": "https://www.udemy.com/course/metaclasses-and-dataclasses-in-software-engineering/"
+    },
+    {
+      "title": "Wagtail CMS Course | A CMS Framework for Django",
+      "url": "https://www.udemy.com/course/wagtail-cms-framework-for-django/"
+    },
+    {
+      "title": "ARM GNU Assembly Programming From Ground Up™",
+      "url": "https://www.udemy.com/course/arm-gnu-assembly-programming-from-ground-uptm/"
+    },
+    {
+      "title": "Comprehensive macOS Development",
+      "url": "https://www.udemy.com/course/comprehensive-macos-development/"
+    },
+    {
+      "title": "Learn Python by Doing with 100 Projects",
+      "url": "https://www.udemy.com/course/learn-python-by-doing-with-100-projects/"
+    },
+    {
+      "title": "Python Programming for Beginners: Learn Python in 7 Days",
+      "url": "https://www.udemy.com/course/python-programming-for-beginners-learn-python-in-7-days/"
+    },
+    {
+      "title": "Extensive Python Fundamentals in 4 Weeks",
+      "url": "https://www.udemy.com/course/extensive-python-fundamentals-in-4-weeks/"
+    },
+    {
+      "title": "Python Certification Exam Preparation: 4 Practice Tests",
+      "url": "https://www.udemy.com/course/python-certification-exam-preparation-4-practice-tests/"
+    },
+    {
+      "title": "Learn C and C++ Bootcamp for Beginners",
+      "url": "https://www.udemy.com/course/c-and-cpp-bootcamp/"
+    },
+    {
+      "title": "[Free Java] Java Programming for Complete Beginners (OOP).",
+      "url": "https://www.udemy.com/course/java-programming-beginner-to-advanced-oop/"
+    },
+    {
+      "title": "Mastering MLOps: Complete course for ML Operations",
+      "url": "https://www.udemy.com/course/mastering-mlops-complete-course-for-ml-operations/"
+    },
+    {
+      "title": "AMAZING JS | JavaScript Programming with Examples in One Day",
+      "url": "https://www.udemy.com/course/amazing-javascript-programming-with-examples-in-one-day/"
+    },
+    {
+      "title": "React + Spring Boot Microservices and Spring Cloud",
+      "url": "https://www.udemy.com/course/react-spring-boot-microservices-and-spring-cloud/"
+    },
+    {
+      "title": "NodeJS Introductory Course For Absolute Beginners",
+      "url": "https://www.udemy.com/course/nodejs-introductory-course-for-absolute-beginners/"
+    },
+    {
+      "title": "Java for Swing (GUI) Development",
+      "url": "https://www.udemy.com/course/learn-java-for-swing-gui-development/"
+    },
+    {
+      "title": "Linux Desktop Automation",
+      "url": "https://www.udemy.com/course/linux-desktop-automation/"
+    },
+    {
+      "title": "The Ultimate Guide to learn SQL from scratch",
+      "url": "https://www.udemy.com/course/the-ultimate-guide-to-learn-sql-from-scratch-2022-edition/"
+    },
+    {
+      "title": "How to Become a Programmer",
+      "url": "https://www.udemy.com/course/how-to-become-a-programmer/"
+    },
+    {
+      "title": "Mastery in Java EJB: Step by Step EJB Application",
+      "url": "https://www.udemy.com/course/mastery-in-java-ejb-step-by-step-ejb-application/"
+    },
+    {
+      "title": "C Programming from Scratch to Master",
+      "url": "https://www.udemy.com/course/six-phrase-myslate-advanced-c-programming/"
+    },
+    {
+      "title": "Java Course for Beginners in 1.5 hours",
+      "url": "https://www.udemy.com/course/java-crash-course-for-beginners-in-1-hour/"
+    },
+    {
+      "title": "Unlock the Power of Salesforce: Master Integration Technique",
+      "url": "https://www.udemy.com/course/unlock-the-power-of-salesforce-master-integration-technique/"
+    },
+    {
+      "title": "Automate Your Life With Python + ChatGPT Prize [2024]",
+      "url": "https://www.udemy.com/course/automate-your-life-with-python/"
+    },
+    {
+      "title": "Learn Advanced Level Programming in Python",
+      "url": "https://www.udemy.com/course/learn-advanced-level-programming-in-python/"
+    },
+    {
+      "title": "Python Pro : The Complete Python Bootcamp for Noobs",
+      "url": "https://www.udemy.com/course/python-pro-the-complete-python-bootcamp-for-noobs/"
+    },
+    {
+      "title": "12 Weekend Coding projects for beginners from scratch",
+      "url": "https://www.udemy.com/course/12-weekend-coding-projects-for-beginners-from-scratch/"
+    },
+    {
+      "title": "Python For Beginners: Learn Python & Practice Your Python",
+      "url": "https://www.udemy.com/course/python-beginners-learn-practice/"
+    },
+    {
+      "title": "Starting with Ember.js 2",
+      "url": "https://www.udemy.com/course/starting-with-ember-2/"
+    },
+    {
+      "title": "Learn beginner Python using football/soccer-only projects",
+      "url": "https://www.udemy.com/course/learn-beginner-python-using-football-projects-examples/"
+    },
+    {
+      "title": "MSSQL with C# WPF Core Project, MVVM by Using EF Core",
+      "url": "https://www.udemy.com/course/mssql-with-c-wpf-core-project-mvvm-by-using-ef-core/"
+    },
+    {
+      "title": "Python Hacking | Real Ethical Hacking with Python | PYCEH+",
+      "url": "https://www.udemy.com/course/python-hacking-pyceh/"
+    },
+    {
+      "title": "Mastering WPF and the MVVM Pattern [New Audio]",
+      "url": "https://www.udemy.com/course/mastering-wpf-and-the-mvvm-pattern/"
+    },
+    {
+      "title": "An Introduction to C# with Visual Studio Community 2019",
+      "url": "https://www.udemy.com/course/an-introduction-to-c-with-visual-studio-community-2019/"
+    },
+    {
+      "title": "Functional effect handling in Scala with Cats Effect",
+      "url": "https://www.udemy.com/course/functional-effect-handling-in-scala-with-cats-effect/"
+    },
+    {
+      "title": "Learn to Program with Java for Complete Beginners - Part 2",
+      "url": "https://www.udemy.com/course/learn-to-program-with-java-2/"
+    },
+    {
+      "title": "C++ in 6 hours : Learn C++ : Tutorial for beginners",
+      "url": "https://www.udemy.com/course/c-in-six-hours-tutorial-for-beginners/"
+    },
+    {
+      "title": "Complete Java Bootcamp For Beginners",
+      "url": "https://www.udemy.com/course/complete-java-bootcamp-for-beginners/"
+    },
+    {
+      "title": "Java Programming for Complete Stranger in Tamil",
+      "url": "https://www.udemy.com/course/java-programming-for-complete-stranger-in-tamil/"
+    },
+    {
+      "title": "Java Basics with Animations: Learn Java in 3 Hours",
+      "url": "https://www.udemy.com/course/javacourse/"
+    },
+    {
+      "title": "Get started with R -Introduction to R-programming #Beginners",
+      "url": "https://www.udemy.com/course/introduction-to-r-programming-r-r-studio-for-beginners/"
+    },
+    {
+      "title": "Mastering JavaScript Essentials 2021 Novice to Professional",
+      "url": "https://www.udemy.com/course/javascriptessentials/"
+    },
+    {
+      "title": "CNC Lathe Programming Using Fanuc G-Coding & M-Coding",
+      "url": "https://www.udemy.com/course/cnc-lathe-programming-using-fanuc-g-coding-m-coding/"
+    },
+    {
+      "title": "Object Oriented Programming",
+      "url": "https://www.udemy.com/course/object-oriented-programming/"
+    },
+    {
+      "title": "Java Programming with ChatGPT: Learn using Generative AI",
+      "url": "https://www.udemy.com/course/java-programming-with-chatgpt-learn-using-generative-ai/"
+    },
+    {
+      "title": "Advanced Algorithms and Programming Techniques",
+      "url": "https://www.udemy.com/course/algorithms-and-programming-techniques/"
+    },
+    {
+      "title": "Mastering C++ Programming - From Zero to Hero",
+      "url": "https://www.udemy.com/course/mastering-c-plus-plus-programming-from-zero-to-hero/"
+    },
+    {
+      "title": "Build 10 Java Beginner Projects from scratch",
+      "url": "https://www.udemy.com/course/build-10-java-beginner-projects-from-scratch/"
+    },
+    {
+      "title": "Erlang Programming for Beginners",
+      "url": "https://www.udemy.com/course/erlang-programming-for-beginners/"
+    },
+    {
+      "title": "From 0 to 1: Learn Java Programming -Live Free,Learn To Code",
+      "url": "https://www.udemy.com/course/from-0-to-1-java/"
+    },
+    {
+      "title": "Asynchronous Javascript from A to Z",
+      "url": "https://www.udemy.com/course/asynchronous-javascript-from-zero-to-hero/"
+    },
+    {
+      "title": "Complete Ruby Programmer - Master Ruby",
+      "url": "https://www.udemy.com/course/complete-ruby-programmer/"
+    },
+    {
+      "title": "Problem Solving with C++ programming language",
+      "url": "https://www.udemy.com/course/c-plus-plus-programming-language/"
+    },
+    {
+      "title": "Learn Python Programming Masterclass: Python 3 in 2025",
+      "url": "https://www.udemy.com/course/learn-python-programming-quick-beginner/"
+    },
+    {
+      "title": "Roll Play | Python Programming with Examples in One Day",
+      "url": "https://www.udemy.com/course/outstanding-python-programming-with-examples-in-one-day/"
+    },
+    {
+      "title": "How to develop a productive HTTP client in Golang (Go)",
+      "url": "https://www.udemy.com/course/how-to-develop-a-productive-http-client-in-golang-go/"
+    },
+    {
+      "title": "Complete And Ultimate C Programming Course",
+      "url": "https://www.udemy.com/course/complete-and-ultimate-c-programming-course/"
+    },
+    {
+      "title": "Advanced C Programming",
+      "url": "https://www.udemy.com/course/advanced-c-programming-z/"
+    },
+    {
+      "title": "Data Structures and Algorithms: In Depth DSA using Java",
+      "url": "https://www.udemy.com/course/data-structures-and-algorithms-in-depth-using-java/"
+    },
+    {
+      "title": "Spring Framework: Spring Boot and Spring Hibernate",
+      "url": "https://www.udemy.com/course/spring-framework-spring-boot-and-spring-hibernate/"
+    },
+    {
+      "title": "150+ Exercises - Object Oriented Programming in Python - OOP",
+      "url": "https://www.udemy.com/course/exercises-object-oriented-programming-in-python-oop-course/"
+    },
+    {
+      "title": "Complete Python Bootcamp 2022: With Practical Projects",
+      "url": "https://www.udemy.com/course/complete-python-bootcamp-2020/"
+    },
+    {
+      "title": "Python Course for App Developers: Build Your First App",
+      "url": "https://www.udemy.com/course/python-course-for-app-developers-build-your-first-app/"
+    },
+    {
+      "title": "Matlab - The Complete Course",
+      "url": "https://www.udemy.com/course/matlab-programming-the-complete-course/"
+    },
+    {
+      "title": "Kubernetes (:2018) -A Comprehensive Course",
+      "url": "https://www.udemy.com/course/kubernetes/"
+    },
+    {
+      "title": "Microsoft SQL Server Bootcamp 2025: Go from Zero to Hero",
+      "url": "https://www.udemy.com/course/microsoft-sql-server-bootcamp-2022-go-from-zero-to-hero/"
+    },
+    {
+      "title": "From 0 to 1: Learn Python Programming - Easy as Pie",
+      "url": "https://www.udemy.com/course/from-0-to-1-python/"
+    },
+    {
+      "title": "Python for Beginners and High school kids : with basic Maths",
+      "url": "https://www.udemy.com/course/python-with-basic-mathematics-for-students-and-beginners/"
+    },
+    {
+      "title": "Complete Python & Data Science Course for Absolute Beginners",
+      "url": "https://www.udemy.com/course/complete-python-data-science-course-for-absolute-beginners/"
+    },
+    {
+      "title": "Salesforce: REST Integration with JSON, HTTP and OAuth 2.0",
+      "url": "https://www.udemy.com/course/integration-salesforce/"
+    },
+    {
+      "title": "Advance C Programming : Pointers (In Depth Hands On)",
+      "url": "https://www.udemy.com/course/c-pointer-advance/"
+    },
+    {
+      "title": "Java Programming for Everyone - Start Your Coding Journey",
+      "url": "https://www.udemy.com/course/beginners-java-programming-programming-for-everybody/"
+    },
+    {
+      "title": "The Ultimate Python Course – Master Coding in Just 30 Days",
+      "url": "https://www.udemy.com/course/the-complete-python-bootcamp-from-zero-to-master-in-2023/"
+    },
+    {
+      "title": "Python for Biologists",
+      "url": "https://www.udemy.com/course/python-for-biologists/"
+    },
+    {
+      "title": "Learn Python from Scratch for Absolute Beginners",
+      "url": "https://www.udemy.com/course/master-python-programming-beginner-to-expert/"
+    },
+    {
+      "title": "Master MySQL for Beginners: Build Your First Database 2024",
+      "url": "https://www.udemy.com/course/learn-mysql-mariadb-from-scratch-and-build-a-database-app/"
+    },
+    {
+      "title": "Python Programming For Everyone",
+      "url": "https://www.udemy.com/course/python-programming-for-everyone/"
+    },
+    {
+      "title": "ROS2 Autonomous Driving and SLAM using NAV2 with TurtleBot3",
+      "url": "https://www.udemy.com/course/robotics-with-ros-autonomous-driving-and-path-planning-slam/"
+    },
+    {
+      "title": "The Complete Python Bootcamp From Zero to Hero in Python",
+      "url": "https://www.udemy.com/course/complete-python-bootcamp/"
+    },
+    {
+      "title": "Java: Enterprise App Development with Java EE 8: 2-in-1",
+      "url": "https://www.udemy.com/course/java-enterprise-application-development-with-java-ee-8/"
+    },
+    {
+      "title": "Efficient Input/Output using JAVA IO, NIO and NIO2",
+      "url": "https://www.udemy.com/course/efficient-inputoutput-using-io-nio-and-nio2-in-java/"
+    },
+    {
+      "title": "Learn Python Scripting - Scripting Masterclass",
+      "url": "https://www.udemy.com/course/learn-python-scripting-scripting-masterclass-2019/"
+    },
+    {
+      "title": "HTML Practice Test for Certification, Exams & Interviews",
+      "url": "https://www.udemy.com/course/html-practice-test-for-certification-exams-interviews/"
+    },
+    {
+      "title": "150+ Exercises - Unit tests in Python - unittest framework",
+      "url": "https://www.udemy.com/course/unit-testing-python-unittest-framework/"
+    },
+    {
+      "title": "Java for beginners: Create 10 useful complete projects",
+      "url": "https://www.udemy.com/course/java-for-beginners-create-10-useful-complete-projects/"
+    },
+    {
+      "title": "Biopython",
+      "url": "https://www.udemy.com/course/learn-biopython/"
+    },
+    {
+      "title": "PHP 5 Introduction to coding Tutorial bootcamp",
+      "url": "https://www.udemy.com/course/php-5-introduction-to-coding-tutorial-bootcamp/"
+    },
+    {
+      "title": "Learn Data Structures and Algorithms using c++",
+      "url": "https://www.udemy.com/course/data-structures-and-algorithms-in-c-algorithms-and-data-structures/"
+    },
+    {
+      "title": "Python from Intermediate to Expert",
+      "url": "https://www.udemy.com/course/python-beginner-to-expert/"
+    },
+    {
+      "title": "Masterclass in ChatGPT, Advanced Analytics & Python Projects",
+      "url": "https://www.udemy.com/course/chatgptcodeinterpreterprojects/"
+    },
+    {
+      "title": "C Programming Language Demystified",
+      "url": "https://www.udemy.com/course/demystifying-c-programming-language-basic/"
+    },
+    {
+      "title": "4 Practice Tests for Python Certification Preparation",
+      "url": "https://www.udemy.com/course/4-practice-tests-for-python-certification-preparation/"
+    },
+    {
+      "title": "2025 Rust Programming for Beginners",
+      "url": "https://www.udemy.com/course/rust-programming4u/"
+    },
+    {
+      "title": "Scala Advanced, Part 3 - Functional Programming, Performance",
+      "url": "https://www.udemy.com/course/scala-advanced-part-3-functional-programming-performance/"
+    },
+    {
+      "title": "C# And Visual Studio Productivity Masterclass",
+      "url": "https://www.udemy.com/course/c-sharp-and-visual-studio-productivity-masterclass/"
+    },
+    {
+      "title": "Complete Python 3 and Raspberry Pi Masterclass",
+      "url": "https://www.udemy.com/course/complete-python-3-raspberry-pi-masterclass/"
+    },
+    {
+      "title": "Dive Deep into Python: Your Gateway to Modern Programming",
+      "url": "https://www.udemy.com/course/python-crash-course-for-beginners-python-programming/"
+    },
+    {
+      "title": "Build 11 JavaScript Application and Web JavaScript BootCamp",
+      "url": "https://www.udemy.com/course/build-11-javascript-application-and-web-javascript-bootcamp/"
+    },
+    {
+      "title": "The Ultimate PHP Training Bundle for Beginner to Advanced",
+      "url": "https://www.udemy.com/course/the-ultimate-php-training-course/"
+    },
+    {
+      "title": "JavaScript Crash Course: Learn the Fundamentals and Beyond.",
+      "url": "https://www.udemy.com/course/javascript-crash-course-bootcamp-projects/"
+    },
+    {
+      "title": "Mastering Data Structure Using C",
+      "url": "https://www.udemy.com/course/six-phrase-myslate-mastering-data-structure-using-c/"
+    },
+    {
+      "title": "Go: Data Structures, Algorithms and Design Patterns with Go",
+      "url": "https://www.udemy.com/course/go-data-structures-algorithms-and-design-patterns-with-go/"
+    },
+    {
+      "title": "Complete C++20 Visual and Practical Course: Zero to Mastery",
+      "url": "https://www.udemy.com/course/mastering-cpp20-programming-a-visual-and-practical-approach/"
+    },
+    {
+      "title": "Python & Java: Master Backend & Frontend Web Developments",
+      "url": "https://www.udemy.com/course/python-java-master-backend-frontend-web-developments/"
+    },
+    {
+      "title": "How to use JavaScript Objects JSON AJAX explained",
+      "url": "https://www.udemy.com/course/how-to-use-javascript-objects-json-ajax-explained/"
+    },
+    {
+      "title": "The Complete Regular Expressions Universe (Master Course)",
+      "url": "https://www.udemy.com/course/the-complete-regular-expressions-beginner-to-expert/"
+    },
+    {
+      "title": "Data Analysis With Python For Beginners: Learn By Practice",
+      "url": "https://www.udemy.com/course/python-data-analysis-masterclass-learn-by-practice/"
+    },
+    {
+      "title": "Java in 3 Hours: Java Programming Tutorial for Beginners",
+      "url": "https://www.udemy.com/course/java-in-3-hours-java-programming-tutorial-for-beginners/"
+    },
+    {
+      "title": "Learn C# with Windows Forms and a Variety of Projects",
+      "url": "https://www.udemy.com/course/learn-c-with-windows-forms-and-vs-2017/"
+    },
+    {
+      "title": "Groovy Programming Fundamentals for Java Developers",
+      "url": "https://www.udemy.com/course/groovy-programming-fundamentals-for-java-developers/"
+    },
+    {
+      "title": "Learn Advanced Python Concepts",
+      "url": "https://www.udemy.com/course/learn-advanced-python-concepts-s/"
+    },
+    {
+      "title": "Python Bootcamp: 30 Hours Of Step By Step Python Lessons",
+      "url": "https://www.udemy.com/course/python_bootcamp/"
+    },
+    {
+      "title": "The Art of Doing: Python Network Applications with Sockets!",
+      "url": "https://www.udemy.com/course/the-art-of-doing-python-network-applications-with-sockets/"
+    },
+    {
+      "title": "Master Web Development: Beginners' Ultimate Guide",
+      "url": "https://www.udemy.com/course/web-development-mastery-the-secrets-of-web-development/"
+    },
+    {
+      "title": "Introduction to Computational Logic",
+      "url": "https://www.udemy.com/course/introduction-to-computational-logic/"
+    },
+    {
+      "title": "The Complete TDD Course: Master Ruby Development with RSpec",
+      "url": "https://www.udemy.com/course/complete-tdd-course-ruby-rspec/"
+    },
+    {
+      "title": "JavaScript From Scratch ( Part 1 - Beginner Level)",
+      "url": "https://www.udemy.com/course/javascript-from-scratch-beginner-level/"
+    },
+    {
+      "title": "GraphQL & Flutter - Build GraphQL APIs & Flutter Client Apps",
+      "url": "https://www.udemy.com/course/graphql_flutter_build_apis/"
+    },
+    {
+      "title": "Java Swing Desktop App with CRUD Operations Using MySql",
+      "url": "https://www.udemy.com/course/java-swing-login-system-with-crud-operations-using-mysql/"
+    },
+    {
+      "title": "Python for Everybody: The Ultimate Python 3 Bootcamp",
+      "url": "https://www.udemy.com/course/python-for-everybody-the-ultimate-modern-python-bootcamp/"
+    },
+    {
+      "title": "JavaScript Array Methods and Objects Data Structures",
+      "url": "https://www.udemy.com/course/javascript-arrays/"
+    },
+    {
+      "title": "Master in Python Language Quickly Using the ChatGPT Open AI",
+      "url": "https://www.udemy.com/course/master-in-python-language-quickly-using-the-chatgpt-open-ai/"
+    },
+    {
+      "title": "ChatGPT Coding Express: Fast-Track Coding with ChatGPT",
+      "url": "https://www.udemy.com/course/chatgpt-coding-masterclass-learn-to-code-with-chatgpt/"
+    },
+    {
+      "title": "Learn Python Programming with ChatGPT",
+      "url": "https://www.udemy.com/course/learn-python-programming-with-chatgpt/"
+    },
+    {
+      "title": "Demystifying OOP with C++",
+      "url": "https://www.udemy.com/course/object-oriented-programming-with-cplusplus/"
+    },
+    {
+      "title": "Python BootCamp: Basic, OOP, GUI Projects, Database & OpenCV",
+      "url": "https://www.udemy.com/course/practical-python-bootcamp-build-100-real-projects/"
+    },
+    {
+      "title": "File Processing with Python",
+      "url": "https://www.udemy.com/course/file-processing-with-python/"
+    },
+    {
+      "title": "Visual Basic .NET Programming for Complete Beginners",
+      "url": "https://www.udemy.com/course/visual-basic-dot-net-for-complete-beginners/"
+    },
+    {
+      "title": "From Zero To AlgoHero - MQL5! Learn to code in MetaTrader 5",
+      "url": "https://www.udemy.com/course/from-zero-to-algohero-mql5-learn-to-code-in-metatrader-5/"
+    },
+    {
+      "title": "C# Mastering Course For Beginners",
+      "url": "https://www.udemy.com/course/c-sharp-mastering-course-for-beginners/"
+    },
+    {
+      "title": "MATLAB for the Absolute Beginner",
+      "url": "https://www.udemy.com/course/matlab-for-the-absolute-beginner/"
+    },
+    {
+      "title": "C Language for Beginners",
+      "url": "https://www.udemy.com/course/c-language-for-beginners/"
+    },
+    {
+      "title": "jQuery Masterclass Course: JavaScript and AJAX Coding Bible",
+      "url": "https://www.udemy.com/course/jquery-series/"
+    },
+    {
+      "title": "Dart Masterclass Programming Course: iOS/Android Bible",
+      "url": "https://www.udemy.com/course/dart-programming/"
+    },
+    {
+      "title": "Design and Control of DC/DC converter MATLAB/Simulink",
+      "url": "https://www.udemy.com/course/maximum-power-point-tracking-mppt-design-and-control/"
+    },
+    {
+      "title": "OOP Java Object Oriented Programming for beginners Projects",
+      "url": "https://www.udemy.com/course/java-object-oriented-programming-basic-principles/"
+    },
+    {
+      "title": "Harnessing AI and Machine Learning for Geospatial Analysis",
+      "url": "https://www.udemy.com/course/ai-for-geospatial-analysis/"
+    },
+    {
+      "title": "Python and JavaScript for beginners: Build 10 Projects",
+      "url": "https://www.udemy.com/course/python-and-javascript-for-beginners-build-10-projects/"
+    },
+    {
+      "title": "Excel Certification Exam Preparation: 4 Practice Tests 2025",
+      "url": "https://www.udemy.com/course/excel-certification-exam-preparation-4-practice-tests-2024/"
+    },
+    {
+      "title": "Multi-Paradigm Programming with Modern C++",
+      "url": "https://www.udemy.com/course/multi-paradigm-programming-with-modern-c/"
+    },
+    {
+      "title": "Laravel pizza ordering web application & deploy on cloudways",
+      "url": "https://www.udemy.com/course/project-with-laravel-pizza-ordering-web-application/"
+    },
+    {
+      "title": "VB.Net Projects and Exercises for Intermediate Programmers",
+      "url": "https://www.udemy.com/course/advanced-vb-net/"
+    },
+    {
+      "title": "Sorting Algorithms using Java & C: Make Your Basics Strong",
+      "url": "https://www.udemy.com/course/sorting-algorithms/"
+    },
+    {
+      "title": "Automate the Boring Stuff with Python Programming",
+      "url": "https://www.udemy.com/course/automate/"
+    },
+    {
+      "title": "Learn GO By Building! - 3 Simple Golang Projects.",
+      "url": "https://www.udemy.com/course/build-3-simple-golang-projects/"
+    },
+    {
+      "title": "Learn Python: Python Baby Steps",
+      "url": "https://www.udemy.com/course/learn-python-python-baby-steps/"
+    },
+    {
+      "title": "Java Tutorial for Complete Beginners",
+      "url": "https://www.udemy.com/course/java-tutorial/"
+    },
+    {
+      "title": "R Programming Language",
+      "url": "https://www.udemy.com/course/r-programming-language/"
+    },
+    {
+      "title": "Scrapy : Python Web Scraping & Crawling for Beginners",
+      "url": "https://www.udemy.com/course/scrapy-python-web-scraping-crawling-for-beginners/"
+    },
+    {
+      "title": "Python Data Course: Python for Data Analysis & Visualization",
+      "url": "https://www.udemy.com/course/python-data-analysis-visualization-course/"
+    },
+    {
+      "title": "Computational Linguistics - Beginner Course",
+      "url": "https://www.udemy.com/course/computational-linguistics-beginner-course/"
+    },
+    {
+      "title": "Asynchronous Programming Design Patterns - C/C++",
+      "url": "https://www.udemy.com/course/eventloop/"
+    },
+    {
+      "title": "Beginner C# Programming with Visual Studio",
+      "url": "https://www.udemy.com/course/c-studies-basic-c-programming-with-visual-studio-2019/"
+    },
+    {
+      "title": "Java Mastery Intermediate: Methods, Collections, and Beyond",
+      "url": "https://www.udemy.com/course/java-mastery-intermediate-methods-collections-and-beyond/"
+    },
+    {
+      "title": "C++ PROGRAMMING",
+      "url": "https://www.udemy.com/course/c-digiflax/"
+    },
+    {
+      "title": "Hello Julia: Learn the New Julia Programming Language",
+      "url": "https://www.udemy.com/course/julia-programming/"
+    },
+    {
+      "title": "Python Video Processing",
+      "url": "https://www.udemy.com/course/python-video-processing/"
+    },
+    {
+      "title": "Python Desktop Apps with Tkinter",
+      "url": "https://www.udemy.com/course/python-gui-tkinter/"
+    },
+    {
+      "title": "Master Windows Command Line: Essential Commands and Scripts",
+      "url": "https://www.udemy.com/course/windows-command-line-batch-scripting-joshuaisrael/"
+    },
+    {
+      "title": "Practical Junit & Mockito Test with Java SpringBoot & JPA",
+      "url": "https://www.udemy.com/course/practical-junit-mockito-test-with-java-springboot-jpa/"
+    },
+    {
+      "title": "Rust for Programmers - Coming from another language [2024]",
+      "url": "https://www.udemy.com/course/rust-for-programmers-coming-from-another-language-2024/"
+    },
+    {
+      "title": "Basics of Python and Image Processing With Python (OpenCV)",
+      "url": "https://www.udemy.com/course/basics-of-python-and-image-processing-with-python-opencv/"
+    },
+    {
+      "title": "C# OOP - Inheritance, Polymorphism, Interfaces",
+      "url": "https://www.udemy.com/course/c-sharp-and-oop/"
+    },
+    {
+      "title": "Mastering React with Tailwind CSS and Redux Toolkit",
+      "url": "https://www.udemy.com/course/mastering-react-with-tailwind-css-and-redux-toolkit/"
+    },
+    {
+      "title": "JSON AJAX data transfer to MySQL database using PHP",
+      "url": "https://www.udemy.com/course/json-ajax-data-transfer-to-mysql-database-using-php/"
+    },
+    {
+      "title": "Python Project: Build a PDF File Handling Tool from Scratch",
+      "url": "https://www.udemy.com/course/python-project-build-a-pdf-file-handling-tool-from-scratch/"
+    },
+    {
+      "title": "C# Acceleration with Visual Studio 2017 Community",
+      "url": "https://www.udemy.com/course/csharp-acceleration-with-visual-studio-2017-community-for-beginners/"
+    },
+    {
+      "title": "Python For Beginners : Quick Start Guide to Python 3",
+      "url": "https://www.udemy.com/course/python3-a-beginners-quick-start-guide-to-python/"
+    },
+    {
+      "title": "Excel VBA Formulas, Functions, UDFs + Create Your Own AddIn!",
+      "url": "https://www.udemy.com/course/excel-vba-formulas-functions-udfs-create-your-own-addin/"
+    },
+    {
+      "title": "AutoCAD Programming using C# with Windows Forms",
+      "url": "https://www.udemy.com/course/autocad-programming-using-csharp-with-windows-forms/"
+    },
+    {
+      "title": "Full Stack Web Development Bootcamp : Spring Boot & Angular",
+      "url": "https://www.udemy.com/course/spring-boot-angular-practical-guide/"
+    },
+    {
+      "title": "Learn practical Python by examples and projects",
+      "url": "https://www.udemy.com/course/comprehensive-python-course/"
+    },
+    {
+      "title": "Themes developer guide for Prestashop 1.7",
+      "url": "https://www.udemy.com/course/create-prestashop-1-7-theme/"
+    },
+    {
+      "title": "Salesforce Lightning Web Components: Zero to Hero",
+      "url": "https://www.udemy.com/course/salesforce-lightning-web-components-lwc/"
+    },
+    {
+      "title": "Reactive Programming in Java using RXJava 3.x - ReactiveX",
+      "url": "https://www.udemy.com/course/reactive-programming-in-java-using-rxjava-3x-reactivex/"
+    },
+    {
+      "title": "Functional Programming using Elixir - The Complete Course",
+      "url": "https://www.udemy.com/course/functional-programming-using-elixir-the-complete-course/"
+    },
+    {
+      "title": "Fundamentals Of Object-Oriented Programming: Java & intelliJ",
+      "url": "https://www.udemy.com/course/fundamentals-of-object-oriented-programming-java-intellij/"
+    },
+    {
+      "title": "JavaScript For Absolute Beginners",
+      "url": "https://www.udemy.com/course/the-complete-javascript-masterclass-course/"
+    },
+    {
+      "title": "C# and Financial Modeling",
+      "url": "https://www.udemy.com/course/c-sharp-and-financial-modeling/"
+    },
+    {
+      "title": "Google Script Create Google Docs on the fly from templates",
+      "url": "https://www.udemy.com/course/apps-script/"
+    },
+    {
+      "title": "Data Structures Algorithms in Java – SECRETS to Ace LeetCode",
+      "url": "https://www.udemy.com/course/data-structures-algorithms-in-java-secrets-to-ace-leetcode/"
+    },
+    {
+      "title": "Java Core Guide: Key Features, OOP, Collections & More",
+      "url": "https://www.udemy.com/course/java-core-guide-key-features-oop-collections-more/"
+    },
+    {
+      "title": "(2025) Quarkus for beginners, everything you need to know.",
+      "url": "https://www.udemy.com/course/quarkus-for-beginners/"
+    },
+    {
+      "title": "Learn JavaScript for Beginners",
+      "url": "https://www.udemy.com/course/learn-javascript-for-beginners/"
+    },
+    {
+      "title": "C# in 6 Hours: C# For Complete Beginners Learn C# by Coding",
+      "url": "https://www.udemy.com/course/c-in-6-hours-c-for-complete-beginners-learn-c-by-coding/"
+    },
+    {
+      "title": "Learn Python 3.14 | Start your Programming Career in 4 Hours",
+      "url": "https://www.udemy.com/course/learn-python-3-9/"
+    },
+    {
+      "title": "5-in-1 Mega Course: Python, Javascript, React JS, CSS, AI",
+      "url": "https://www.udemy.com/course/python-ai-crashcourse/"
+    },
+    {
+      "title": "Microsoft Dynamics AX 2012 R3 Programming - Level 2",
+      "url": "https://www.udemy.com/course/microsoft-dynamics-ax-2012-r3-programming-level-2/"
+    },
+    {
+      "title": "Learn to Program with Processing",
+      "url": "https://www.udemy.com/course/learn-to-program-with-processing/"
+    },
+    {
+      "title": "Learn JavaScript AJAX in 1 hour",
+      "url": "https://www.udemy.com/course/learn-javascript-ajax/"
+    },
+    {
+      "title": "R for Researchers: From Basics to Advanced Analysis",
+      "url": "https://www.udemy.com/course/r-for-research/"
+    },
+    {
+      "title": "Python 3: From ZERO to GUI programming",
+      "url": "https://www.udemy.com/course/python-3-from-zero-to-gui-programming/"
+    },
+    {
+      "title": "PineScript Indicator Development",
+      "url": "https://www.udemy.com/course/pinescript-indicator-development/"
+    },
+    {
+      "title": "DevOps Tools for Beginners: Starting with Python Scripts",
+      "url": "https://www.udemy.com/course/devops-tools-for-beginners-starting-with-python-scripts/"
+    },
+    {
+      "title": "Programming for Beginners: Learn to Code in Python",
+      "url": "https://www.udemy.com/course/programming-for-kids-and-beginners-learn-to-code-in-python/"
+    },
+    {
+      "title": "Haskell for Beginners (programming language)",
+      "url": "https://www.udemy.com/course/haskell-tutorial/"
+    },
+    {
+      "title": "Learn Basics of Outsystems Reactive Development Step by Step",
+      "url": "https://www.udemy.com/course/learn-outsystems-basics/"
+    },
+    {
+      "title": "Learn C++ Advanced: Master Classes on OOPs and Templates",
+      "url": "https://www.udemy.com/course/learn-c-advanced-master-classes-on-oops-and-templates/"
+    },
+    {
+      "title": "The Complete Python 3 Course for Beginners | Learn By Doing",
+      "url": "https://www.udemy.com/course/python-beginners-course/"
+    },
+    {
+      "title": "Let Us PIC: A Datasheet Approach for PIC Microcontroller",
+      "url": "https://www.udemy.com/course/let-us-pic/"
+    },
+    {
+      "title": "PyScript - The Complete Guide (2023 Edition)",
+      "url": "https://www.udemy.com/course/complete-guide-to-master-pyscript-b/"
+    },
+    {
+      "title": "Java Object-Oriented Programming: AP Computer Science B",
+      "url": "https://www.udemy.com/course/ap-computer-science-b-java-object-oriented-programming/"
+    },
+    {
+      "title": "Ruby Programming From Scratch : No Experience Required",
+      "url": "https://www.udemy.com/course/ruby-smartherd/"
+    },
+    {
+      "title": "Hands-On Data Structures and Algorithms in Rust",
+      "url": "https://www.udemy.com/course/hands-on-data-structures-and-algorithms-in-rust/"
+    },
+    {
+      "title": "Spring Security LDAP Integration and SAML Extension",
+      "url": "https://www.udemy.com/course/spring-security-ldap-integration-and-saml-extension/"
+    },
+    {
+      "title": "Java Bootcamp (with Java 17)",
+      "url": "https://www.udemy.com/course/smt-java-advjava/"
+    },
+    {
+      "title": "Python Gui Development with Tkinter Python and Python PyQt5",
+      "url": "https://www.udemy.com/course/python-gui-development-with-tkinter-python-and-python-pyqt5/"
+    },
+    {
+      "title": "Java 21 Programming Masterclass: Fundamentals for Beginners",
+      "url": "https://www.udemy.com/course/java-21-programming-masterclass-fundamentals-for-beginners/"
+    },
+    {
+      "title": "100 Days of JavaScript:From Zero to Becoming a Pro Developer",
+      "url": "https://www.udemy.com/course/100-days-of-javascriptfrom-zero-to-becoming-a-pro-developer/"
+    },
+    {
+      "title": "Basics of Java Programming Language",
+      "url": "https://www.udemy.com/course/-programming-language/"
+    },
+    {
+      "title": "LEETCODE In C++ - Top 100 Coding Interview Problems",
+      "url": "https://www.udemy.com/course/mastering-leetcode-in-c-top-100-most-asked-problems/"
+    },
+    {
+      "title": "Python for Financial Markets Analysis",
+      "url": "https://www.udemy.com/course/python-financial/"
+    },
+    {
+      "title": "{ C } Digital Image Processing From Ground Up™",
+      "url": "https://www.udemy.com/course/image-processing-from-ground-uptm-in-c/"
+    },
+    {
+      "title": "Mastering Solidity, the Ethereum Programming Language",
+      "url": "https://www.udemy.com/course/mastering-solidity/"
+    },
+    {
+      "title": "C++ Programming - The Complete Course",
+      "url": "https://www.udemy.com/course/c-plus-programming-the-complete-course/"
+    },
+    {
+      "title": "Mastering Java 8 Fundamentals",
+      "url": "https://www.udemy.com/course/introduction-to-java-8-i/"
+    },
+    {
+      "title": "Complete Practical LINQ Tutorial in C#",
+      "url": "https://www.udemy.com/course/master-linq-csharp/"
+    },
+    {
+      "title": "Learn MEAN Stack",
+      "url": "https://www.udemy.com/course/learn-mean-stack/"
+    },
+    {
+      "title": "Let's begin with Spring Batch Framework",
+      "url": "https://www.udemy.com/course/spring-batch-framework-for-beginners/"
+    },
+    {
+      "title": "C++ programming in Qt FrameWork Part I",
+      "url": "https://www.udemy.com/course/c-programming-creating-applications-with-qt-framework/"
+    },
+    {
+      "title": "C# Certification Mastery: Challenge Your Knowledge and Earn",
+      "url": "https://www.udemy.com/course/c-csharp-test-your-skills-and-get-certified-in-csharp-programming/"
+    },
+    {
+      "title": "Python 3, be a paid scripting professional",
+      "url": "https://www.udemy.com/course/python-3-tutorials-be-a-paid-scripting-professional/"
+    },
+    {
+      "title": "Project Based Excel VBA Course",
+      "url": "https://www.udemy.com/course/project-based-excel-vba-course/"
+    },
+    {
+      "title": "Quantum Computing in Python using Qiskit",
+      "url": "https://www.udemy.com/course/quantum-computing-in-python-using-qiskit/"
+    },
+    {
+      "title": "Learn FIVE (5) Computer Programming Languages in ONE COURSE",
+      "url": "https://www.udemy.com/course/learn-five-5-computer-programming-languages-in-one-course/"
+    },
+    {
+      "title": "Learn PHP Basics",
+      "url": "https://www.udemy.com/course/learn-php-basics/"
+    },
+    {
+      "title": "Python Automation for Everyone",
+      "url": "https://www.udemy.com/course/learn-python-from-scratch-python-3/"
+    },
+    {
+      "title": "AI for Finance",
+      "url": "https://www.udemy.com/course/ai-for-finance/"
+    },
+    {
+      "title": "Learning Path: Functional Programming in JavaScript",
+      "url": "https://www.udemy.com/course/learning-path-functional-programming-in-javascript/"
+    },
+    {
+      "title": "Dart Programming Tutorial | Learn the Dart for Flutter",
+      "url": "https://www.udemy.com/course/dart-programming-tutorial-learn-the-dart-for-flutter/"
+    },
+    {
+      "title": "Java Programming For Complete Beginners And Experts",
+      "url": "https://www.udemy.com/course/java-from-scratch-to-master/"
+    },
+    {
+      "title": "Learn Pascal Programming from Scratch",
+      "url": "https://www.udemy.com/course/learn-pascal-programming-from-scratch/"
+    },
+    {
+      "title": "C#: The Complete Foundation!",
+      "url": "https://www.udemy.com/course/c-sharp-fundementals/"
+    },
+    {
+      "title": "Learn Python through Music with Ableton Live",
+      "url": "https://www.udemy.com/course/learning-python-with-ableton-live/"
+    },
+    {
+      "title": "C# From Nothing to Everything",
+      "url": "https://www.udemy.com/course/visual-c-sharp-from-nothing-to-everything-level1/"
+    },
+    {
+      "title": "C Programming Mastery: Tricky MCQ Practice Tests",
+      "url": "https://www.udemy.com/course/c-programming-mastery-tricky-mcq-practice-tests/"
+    },
+    {
+      "title": "C# in Depth: A Comprehensive Course (Beginner-To-Advanced)",
+      "url": "https://www.udemy.com/course/c-sharp-beginner-to-advanced/"
+    },
+    {
+      "title": "Python in Action: A Practical Course 50+ Real-World Projects",
+      "url": "https://www.udemy.com/course/python-in-action-a-practical-course-50-real-world-projects/"
+    },
+    {
+      "title": "Assembly Programming For All Platforms, Learn To Code",
+      "url": "https://www.udemy.com/course/assembly/"
+    },
+    {
+      "title": "Learn to Code Your HTML Website: Coding for Beginners",
+      "url": "https://www.udemy.com/course/learn-to-code-your-html-website-coding-for-kids-beginners/"
+    },
+    {
+      "title": "Python - Bottle Web Framework",
+      "url": "https://www.udemy.com/course/python-bottle-web-framework/"
+    },
+    {
+      "title": "Git and GitHub Projects: Project Based Learning (8 Projects)",
+      "url": "https://www.udemy.com/course/git-github-projects/"
+    },
+    {
+      "title": "Demystifying Bitwise Operations In C",
+      "url": "https://www.udemy.com/course/demystifying-bitwise-operations-in-c/"
+    },
+    {
+      "title": "Learn To Build Scala Apps From Scratch",
+      "url": "https://www.udemy.com/course/learn-to-build-scala-apps-from-scratch/"
+    },
+    {
+      "title": "Implementing Serverless Microservices Architecture Patterns",
+      "url": "https://www.udemy.com/course/implementing-serverless-microservices-architecture-patterns/"
+    },
+    {
+      "title": "JAVA Programming for Beginners - The Complete Course",
+      "url": "https://www.udemy.com/course/java-the-complete-course/"
+    },
+    {
+      "title": "Learn and Understand C# Delegates fast by coding",
+      "url": "https://www.udemy.com/course/learn-and-understand-the-concept-of-c-delegates-by-coding/"
+    },
+    {
+      "title": "27hrs Data Structures Algorithm DSA StackQueueLinkedList C++",
+      "url": "https://www.udemy.com/course/27hrs-datastructure-algorithm-cc-stack-queue-linkedlist/"
+    },
+    {
+      "title": "Salesforce Design Patterns",
+      "url": "https://www.udemy.com/course/salesforce-design-patterns/"
+    },
+    {
+      "title": "Oracle Java SE 21 Developer Professional: 1Z0-830",
+      "url": "https://www.udemy.com/course/oracle-certification-java-21-learnit/"
+    },
+    {
+      "title": "Mastering Pointers in C : A Course on Efficient Programming",
+      "url": "https://www.udemy.com/course/mastering-pointers-in-c-a-course-on-efficient-programming/"
+    },
+    {
+      "title": "Tableau Course For Absolute Beginners",
+      "url": "https://www.udemy.com/course/free-tableau-course-for-beginners-enroll-now/"
+    },
+    {
+      "title": "Build a Crypto Currency Portfolio App With Python",
+      "url": "https://www.udemy.com/course/build-a-crypto-currency-portfolio-app-with-python/"
+    },
+    {
+      "title": "Complete In & Out Of Ethereum Blockchain, Solidity & Truffle",
+      "url": "https://www.udemy.com/course/complete-in-out-of-ethereum-blockchain-solidity-truffle/"
+    },
+    {
+      "title": "Python Programming Basic",
+      "url": "https://www.udemy.com/course/python-programming-basic/"
+    },
+    {
+      "title": "Introduction to Apache FreeMarker",
+      "url": "https://www.udemy.com/course/introduction-to-apache-freemarker/"
+    },
+    {
+      "title": "Ultimate JavaScript Arrays",
+      "url": "https://www.udemy.com/course/js-arrays/"
+    },
+    {
+      "title": "C# Restful API and WPF Core with MsSQL & EF Core",
+      "url": "https://www.udemy.com/course/c-restful-api-and-wpf-core-with-mssql-ef-core/"
+    },
+    {
+      "title": "Apache Spark with Python - Learn by Doing",
+      "url": "https://www.udemy.com/course/spark-python/"
+    },
+    {
+      "title": "NodeJS 3 in 1: Basics of NodeJS & Express With Projects",
+      "url": "https://www.udemy.com/course/nodejs-expressjs/"
+    },
+    {
+      "title": "Java Programming for Humans!",
+      "url": "https://www.udemy.com/course/java-programming-for-humans/"
+    },
+    {
+      "title": "Python Programming for Maya Artists",
+      "url": "https://www.udemy.com/course/introduction-to-python-for-maya/"
+    },
+    {
+      "title": "C++ for Beginners: Mastering C++ Programming Essentials",
+      "url": "https://www.udemy.com/course/mastering-c-plus-plus-programming-essentials/"
+    },
+    {
+      "title": "Python with Practical Approach",
+      "url": "https://www.udemy.com/course/python-programming-python/"
+    },
+    {
+      "title": "Julia Programming For Data Science & Machine Learning: Julia",
+      "url": "https://www.udemy.com/course/julialang/"
+    },
+    {
+      "title": "Modern C++ for Complete Beginners",
+      "url": "https://www.udemy.com/course/learn-c-the-modern-way-the-fundamentals/"
+    },
+    {
+      "title": "Python Practice Tests & Interview Questions (Basic/Advanced)",
+      "url": "https://www.udemy.com/course/python-practice-tests-and-interview-questions-basic-advanced/"
+    },
+    {
+      "title": "90 Days of Python : From Zero to becoming a Pro Developer",
+      "url": "https://www.udemy.com/course/90-days-of-python-from-zero-to-becoming-a-pro-developer-c/"
+    },
+    {
+      "title": "Introduction to R Programming - A Modern Approach",
+      "url": "https://www.udemy.com/course/introduction-to-programming-r-a-modern-approach/"
+    },
+    {
+      "title": "PCEP – Certified Python Programmer Complete Course & Exam",
+      "url": "https://www.udemy.com/course/pcep-certified-python-programmer-complete-course-exam-pcep-30-01/"
+    },
+    {
+      "title": "Python beginner to advanced complete master class",
+      "url": "https://www.udemy.com/course/python3-in-depth-from-beginning-to-advanced/"
+    },
+    {
+      "title": "Complete Python Beginner To Developer Course: Build Projects",
+      "url": "https://www.udemy.com/course/the-new-complete-python-course-2019/"
+    },
+    {
+      "title": "What's New in Java 8: Lambdas",
+      "url": "https://www.udemy.com/course/whats-new-in-java-8/"
+    },
+    {
+      "title": "Advanced One Day Java Workshop from Java 8 to 21",
+      "url": "https://www.udemy.com/course/advanced-one-day-java-workshop-from-java-8-to-17/"
+    },
+    {
+      "title": "C# .NET Basics for Beginners",
+      "url": "https://www.udemy.com/course/csharp-basics/"
+    },
+    {
+      "title": "Django 3.0 MasterClass - Learn How To Create Django Apps",
+      "url": "https://www.udemy.com/course/django-30-masterclass-learn-how-to-create-django-apps/"
+    },
+    {
+      "title": "Google's Go (Golang) Programming Language - Beginners Guide",
+      "url": "https://www.udemy.com/course/googles-go-golang-programming-language-beginners-guide/"
+    },
+    {
+      "title": "Make 5 Stunning Applications in Python Everyone need to make",
+      "url": "https://www.udemy.com/course/make-5-stunning-applications-in-python-everyone-need-to-make/"
+    },
+    {
+      "title": "Rolll Play | PHP Programming for Web Developers in ONE DAY",
+      "url": "https://www.udemy.com/course/one-day-code-php-programming-with-examples-in-one-day/"
+    },
+    {
+      "title": "Python GUI Development with tkinter: Build desktop Apps",
+      "url": "https://www.udemy.com/course/python-gui-development-with-tkinter-build-desktop-apps/"
+    },
+    {
+      "title": "Python 3 from Beginner to Expert - Learn Python from Scratch",
+      "url": "https://www.udemy.com/course/python-for-beginners-learn-python-from-scratch/"
+    },
+    {
+      "title": "4 Latest Practice Tests for any Python Certification",
+      "url": "https://www.udemy.com/course/4-latest-practice-tests-for-any-python-certification/"
+    },
+    {
+      "title": "C# .NET Core 8 Masterclass with MS SQL Beginner to Pro 2025",
+      "url": "https://www.udemy.com/course/complete-csharp-masterclass-go-from-zero-to-coding-hero/"
+    },
+    {
+      "title": "Python: Learn Python with Real Python Hands-On Examples",
+      "url": "https://www.udemy.com/course/python-learn-python-with-real-python-hands-on-examples/"
+    },
+    {
+      "title": "Java 21 Mastery: The Complete and Fast-Paced Guide",
+      "url": "https://www.udemy.com/course/java-groundup/"
+    },
+    {
+      "title": "Learn Vue 1 JS introduction to simple reactive JavaScript",
+      "url": "https://www.udemy.com/course/learn-vue-js-introduction-to-simple-reactive-javascript/"
+    },
+    {
+      "title": "Python and Data Science from Scratch With RealLife Exercises",
+      "url": "https://www.udemy.com/course/python-and-data-science-from-scratch-with-reallife-exercises/"
+    },
+    {
+      "title": "Practical Multi-Armed Bandit Algorithms in Python",
+      "url": "https://www.udemy.com/course/practical-multi-armed-bandit-algorithms-in-python/"
+    },
+    {
+      "title": "The Ultimate C++ Advanced Programming Course | 2022",
+      "url": "https://www.udemy.com/course/the-ultimate-c-advanced-course-2022/"
+    },
+    {
+      "title": "Build 17 Beginner's Projects with : Python | JavaScript | C#",
+      "url": "https://www.udemy.com/course/build-17-beginners-projects-with-python-javascript-c/"
+    },
+    {
+      "title": "4 Practice Tests for any C++ Certification",
+      "url": "https://www.udemy.com/course/4-practice-tests-for-any-c-certification/"
+    },
+    {
+      "title": "Learning ASP.Net MVC - A Course For ASP.NET Developers",
+      "url": "https://www.udemy.com/course/learning-aspnet-mvc-a-course-for-aspnet-developers/"
+    },
+    {
+      "title": "Learn Rust in 7 Days",
+      "url": "https://www.udemy.com/course/learn-rust-in-7-days/"
+    },
+    {
+      "title": "C# Programming Crash Course",
+      "url": "https://www.udemy.com/course/c-programming-crash-course/"
+    },
+    {
+      "title": "Java for beginners: Step-by-step hands-on guide to Java",
+      "url": "https://www.udemy.com/course/java-for-beginners-step-by-step-hands-on-guide-to-java/"
+    },
+    {
+      "title": "C Programming: Become A Pro! Think Like a Programmer!",
+      "url": "https://www.udemy.com/course/c-programming-2019-become-a-pro-solve-a-lot-of-exercises/"
+    },
+    {
+      "title": "Learn Programming With Go (Golang) One Game at a Time (2025)",
+      "url": "https://www.udemy.com/course/learn-programming-with-go/"
+    },
+    {
+      "title": "C++ Tutorial for Absolute Beginners . Become An Expert",
+      "url": "https://www.udemy.com/course/c-tutorial-for-absolute-beginners/"
+    },
+    {
+      "title": "OOP Design Patterns in Python",
+      "url": "https://www.udemy.com/course/oop-design-patterns-in-python/"
+    },
+    {
+      "title": "Comprehensive Ruby on Rails",
+      "url": "https://www.udemy.com/course/comprehensive-ruby-on-rails/"
+    },
+    {
+      "title": "Beginner Coding Projects in : Python | JavaScript | Java",
+      "url": "https://www.udemy.com/course/beginner-coding-projects-in-python-javascript-java/"
+    },
+    {
+      "title": "Core Java Industrial Interview Questions -Beginner to Expert",
+      "url": "https://www.udemy.com/course/core-java-industrial-interview-questions-answers/"
+    },
+    {
+      "title": "Programming in C# - From Beginner to Advanced",
+      "url": "https://www.udemy.com/course/programming-in-csharp-from-beginner-to-advanced/"
+    },
+    {
+      "title": "The Python Programmer 2025",
+      "url": "https://www.udemy.com/course/the-python-programmer/"
+    },
+    {
+      "title": "Python PCAP: Certified Associate in Python Programming[2025]",
+      "url": "https://www.udemy.com/course/python-pcap-certified-associate-in-python-programming2024/"
+    },
+    {
+      "title": "Python Fundamentals",
+      "url": "https://www.udemy.com/course/python-fundamentals-code-crew-careers/"
+    },
+    {
+      "title": "C# OOP: C# Object Oriented Programming on Real C# Projects",
+      "url": "https://www.udemy.com/course/cobject-oriented-programming-in-c-with-hands-on-practices/"
+    },
+    {
+      "title": "Parsing Algorithms",
+      "url": "https://www.udemy.com/course/essentials-of-parsing/"
+    },
+    {
+      "title": "Python Programming: Beginner to Expert, 300+ Python Code Ex.",
+      "url": "https://www.udemy.com/course/python-master-python-programming-python-coding-examples/"
+    },
+    {
+      "title": "Python Programming: 200+ Exercises for Practice",
+      "url": "https://www.udemy.com/course/200-exercises-programming-in-python-from-a-to-z/"
+    },
+    {
+      "title": "Advanced React 2023 (Performance & Best Practices)",
+      "url": "https://www.udemy.com/course/advanced-react-render-performance-best-practices-patterns/"
+    },
+    {
+      "title": "React JS + ChatGPT Crash Course: Build Dynamic React Apps",
+      "url": "https://www.udemy.com/course/reactjs-chatgpt-crash-course-build-apps-step-by-step/"
+    },
+    {
+      "title": "The Complete Prolog Programming Course: From Zero to Expert!",
+      "url": "https://www.udemy.com/course/learn-prolog-programming-from-zero-to-hero/"
+    },
+    {
+      "title": "Java & Python Programming Mastery: Learn to Code Like a Pro",
+      "url": "https://www.udemy.com/course/java-python-programming-mastery-learn-to-code-like-a-pro/"
+    },
+    {
+      "title": "Python Crash Course: Gain Real World Developer Skills Now!",
+      "url": "https://www.udemy.com/course/python-crash-programming-course/"
+    },
+    {
+      "title": "Deep Learning into Python and Introduction to Data Science",
+      "url": "https://www.udemy.com/course/complete-python-bootcamp-deep-learning-into-python-coding/"
+    },
+    {
+      "title": "Build a Data Analysis Library from Scratch in Python",
+      "url": "https://www.udemy.com/course/build-a-data-analysis-library-from-scratch-in-python/"
+    },
+    {
+      "title": "Predict the stock market with data and model building!",
+      "url": "https://www.udemy.com/course/artificialintelligence/"
+    },
+    {
+      "title": "Java A-Z™ : Learn java within 8 hours",
+      "url": "https://www.udemy.com/course/java-a-z-become-masterclass-for-java-easy-jobs/"
+    },
+    {
+      "title": "C++ Basics - As Soon As Possible",
+      "url": "https://www.udemy.com/course/cpp-basics/"
+    },
+    {
+      "title": "Intermediate Python: Memory, Decorator, Async, Cython & more",
+      "url": "https://www.udemy.com/course/intermediate-python-memory-decorator-async-cython-more/"
+    },
+    {
+      "title": "An Introduction to Python",
+      "url": "https://www.udemy.com/course/an-introduction-to-python/"
+    },
+    {
+      "title": "Learn Python Programming in 80 minutes with examples. (2023)",
+      "url": "https://www.udemy.com/course/python-in-80minutes-/"
+    },
+    {
+      "title": "Object Oriented Programming (OOP) Practice Tests - Basic/Adv",
+      "url": "https://www.udemy.com/course/object-oriented-programming-oop-practice-tests-basic-advanced/"
+    },
+    {
+      "title": "C# Language Basics and OOPs for Absolute Beginners",
+      "url": "https://www.udemy.com/course/c-language-basics-and-oops-basic-to-advanced/"
+    },
+    {
+      "title": "QGIS and Google Earth Engine Python API for Spatial Analysis",
+      "url": "https://www.udemy.com/course/python-for-spatial-data-analysis-with-earth-engine-and-qgis/"
+    },
+    {
+      "title": "Python 3 Masterclass step by step with coding exercises.",
+      "url": "https://www.udemy.com/course/learn-python-3-step-by-step/"
+    },
+    {
+      "title": "Salesforce Lightning Report and Dashboard",
+      "url": "https://www.udemy.com/course/salesforce-report-and-dashboard/"
+    },
+    {
+      "title": "Java Multithreading , Concurrency & Parallel Programming",
+      "url": "https://www.udemy.com/course/java-multithreading-concurrency-parallel-programming-2e/"
+    },
+    {
+      "title": "Kotlin: Master Kotlin Programming - Step by Step Guide!",
+      "url": "https://www.udemy.com/course/kotlin-master-kotlin-programming-step-by-step-guide/"
+    },
+    {
+      "title": "PHP & Mysqli Tutorials for beginners and professionals",
+      "url": "https://www.udemy.com/course/php-mysqli-tutorials-for-beginners-and-professionals/"
+    },
+    {
+      "title": "Java Programming for Beginners: Become a Java Programmer",
+      "url": "https://www.udemy.com/course/introduction-to-java-programming-b/"
+    },
+    {
+      "title": "Spring Tutorials - Spring Core",
+      "url": "https://www.udemy.com/course/springcore2/"
+    },
+    {
+      "title": "Python Made Simple: The Complete Automation Course",
+      "url": "https://www.udemy.com/course/mastering-python-automation-for-every-day-life/"
+    },
+    {
+      "title": "Practical Reactive Streams with Akka and Java",
+      "url": "https://www.udemy.com/course/practical-reactive-streams-with-akka-and-java/"
+    },
+    {
+      "title": "What's New in C# 12: A Practical Guide with Exercises",
+      "url": "https://www.udemy.com/course/c-sharp-12/"
+    },
+    {
+      "title": "C# in Depth: Puzzles, Gotchas, Questions at Interviews",
+      "url": "https://www.udemy.com/course/csharp-in-depth/"
+    },
+    {
+      "title": "Javascript Programming For Everyone",
+      "url": "https://www.udemy.com/course/javascript-programming-for-everyone/"
+    },
+    {
+      "title": "JavaScript OOP: Mastering Modern Object-Oriented Programming",
+      "url": "https://www.udemy.com/course/javascript-oop-mastering-modern-object-oriented-programming/"
+    },
+    {
+      "title": "Java Fundamentals Course - Sinhala Medium",
+      "url": "https://www.udemy.com/course/java-certificate-course-sinhala-medium/"
+    },
+    {
+      "title": "REST API's RESTFul from 0 to AWS with Spring Boot and Docker",
+      "url": "https://www.udemy.com/course/rest-apis-restful-from-0-to-aws-with-spring-boot-and-docker/"
+    },
+    {
+      "title": "Develop Discord Bots in Python - Ultimate Course",
+      "url": "https://www.udemy.com/course/develop-discord-bots-in-python/"
+    },
+    {
+      "title": "Django Made Easy. Build an application for companies",
+      "url": "https://www.udemy.com/course/django-2-made-easy-2019-build-an-application-for-companies/"
+    },
+    {
+      "title": "Interactive Beginners Guide to MATLAB",
+      "url": "https://www.udemy.com/course/matlab-programming/"
+    },
+    {
+      "title": "Python Fundamentals",
+      "url": "https://www.udemy.com/course/python-fundamentals-techy/"
+    },
+    {
+      "title": "Quick Course - Java interview preparation - for junior",
+      "url": "https://www.udemy.com/course/quick-course-java-interview-preparation-for-junior/"
+    },
+    {
+      "title": "Salesforce Real time project on lightning web component.",
+      "url": "https://www.udemy.com/course/lightning-web-components-with-project/"
+    },
+    {
+      "title": "Application Development with Dynamics 365: 2-in-1",
+      "url": "https://www.udemy.com/course/application-development-with-dynamics-365-2-in-1/"
+    },
+    {
+      "title": "Predict fraud with data visualization & predictive modeling!",
+      "url": "https://www.udemy.com/course/frauddetectionpythontensorflow/"
+    },
+    {
+      "title": "JSON JavaScript Data Quick Course JSON for beginners",
+      "url": "https://www.udemy.com/course/json-javascript/"
+    },
+    {
+      "title": "Exploratory Data Analysis with Pandas and Python 3.x",
+      "url": "https://www.udemy.com/course/exploratory-data-analysis-with-pandas-and-python-3x/"
+    },
+    {
+      "title": "R Crash Course - Learn R-programming in 2 hours: R & RStudio",
+      "url": "https://www.udemy.com/course/r-crash-course-introduction-to-r-rstudio-r-programming/"
+    },
+    {
+      "title": "The LED Pixel Master Course",
+      "url": "https://www.udemy.com/course/the-led-pixel-master-course/"
+    },
+    {
+      "title": "Python Hacking: Build 15+ Penetration Testing Tools [2025]",
+      "url": "https://www.udemy.com/course/python3-for-ethical-hacking-malware-dev-from-scratch/"
+    },
+    {
+      "title": "Python Guided Project: Building Tic-Tac-Toe from Scratch",
+      "url": "https://www.udemy.com/course/python-guided-project-building-tic-tac-toe-from-scratch/"
+    },
+    {
+      "title": "Self Driving and ROS 2 - Learn by Doing! Plan & Navigation",
+      "url": "https://www.udemy.com/course/self-driving-and-ros-2-learn-by-doing-plan-navigation/"
+    },
+    {
+      "title": "Python Tutorial for Absolute Beginners",
+      "url": "https://www.udemy.com/course/python-crash-course-for-absolute-beginners/"
+    },
+    {
+      "title": "Learn Basic Microsoft ASP.Net Development with Visual Studio",
+      "url": "https://www.udemy.com/course/masteraspdotnetbasics/"
+    },
+    {
+      "title": "Object Oriented Programming with Java",
+      "url": "https://www.udemy.com/course/oop-with-java/"
+    },
+    {
+      "title": "C# 7 and .NET Core 2.0 Recipes",
+      "url": "https://www.udemy.com/course/c-7-and-net-core-20-recipes/"
+    },
+    {
+      "title": "C/C++ Pointers & Applications",
+      "url": "https://www.udemy.com/course/cpp-pointers/"
+    },
+    {
+      "title": "Java Spring Framework 5 - Build a Web App step by step",
+      "url": "https://www.udemy.com/course/java-spring-framework-5-build-a-web-app-step-by-step/"
+    },
+    {
+      "title": "Visual Basic .Net - Programming in VB.Net Windows Forms",
+      "url": "https://www.udemy.com/course/visual-basic-net-step-by-step-for-beginners/"
+    },
+    {
+      "title": "101 Python Projects | The Complete Python Course for 2025",
+      "url": "https://www.udemy.com/course/the-complete-python-courses/"
+    },
+    {
+      "title": "JavaScript Fundamentals for Beginners",
+      "url": "https://www.udemy.com/course/javascript-fundamentals-for-absolute-beginners-m/"
+    },
+    {
+      "title": "Spring Boot: Learn Spring Boot From Scratch",
+      "url": "https://www.udemy.com/course/spring-boot-learn-spring-boot-from-scratch/"
+    },
+    {
+      "title": "Recursion For Programmers",
+      "url": "https://www.udemy.com/course/recursion-for-programmers/"
+    },
+    {
+      "title": "Master Ruby, Python and Java",
+      "url": "https://www.udemy.com/course/ruby-python-java/"
+    },
+    {
+      "title": "Design Patterns in TypeScript",
+      "url": "https://www.udemy.com/course/design-patterns-in-typescript/"
+    },
+    {
+      "title": "JavaScript Certification Exam Preparation: 6 Practice Tests",
+      "url": "https://www.udemy.com/course/javascript-certification-exam-preparation-6-practice-tests/"
+    },
+    {
+      "title": "Beginners Guide To C# With Visual Studio 2017",
+      "url": "https://www.udemy.com/course/beginnerscsharpwithvs2017/"
+    },
+    {
+      "title": "Python Web Scraping: Data Extraction with Beautiful Soup",
+      "url": "https://www.udemy.com/course/python-web-scraping-data-extraction-with-beautiful-soup/"
+    },
+    {
+      "title": "Working with Python on Windows and SQL Server Databases",
+      "url": "https://www.udemy.com/course/python-windows-sql-server/"
+    },
+    {
+      "title": "JavaScript AJAX XHR for beginners",
+      "url": "https://www.udemy.com/course/ajax-api-javascript/"
+    },
+    {
+      "title": "The Ultimate hands-on Kivy | Tame your Kivy Python skills!",
+      "url": "https://www.udemy.com/course/the-ultimate-hands-on-kivy-tame-your-kivy-python-skills/"
+    },
+    {
+      "title": "The Ultimate Hands-on Kivymd |Tame your Python Kivy Skills",
+      "url": "https://www.udemy.com/course/the-ultimate-hands-on-kivymd-tame-your-kivymd-python-skills/"
+    },
+    {
+      "title": "Create a Survival Game in Javascript with Phaser 3",
+      "url": "https://www.udemy.com/course/create-a-survival-game-in-javascript-with-phaser-3-in-2020/"
+    },
+    {
+      "title": "Learn C# Coding Basics for Beginners: C# Fundamentals",
+      "url": "https://www.udemy.com/course/csharp-tutorial-for-beginners-csharp-coding/"
+    },
+    {
+      "title": "Fast C# by Windows Forms to Create Pro Windows Apps",
+      "url": "https://www.udemy.com/course/fast-c-by-windows-form-pro-apps/"
+    },
+    {
+      "title": "Fortran Programming Complete Course",
+      "url": "https://www.udemy.com/course/fortran-course/"
+    },
+    {
+      "title": "Learning Doctrine The Easy Way!",
+      "url": "https://www.udemy.com/course/learning-doctrine-the-easy-way/"
+    },
+    {
+      "title": "Learning Perl by Example",
+      "url": "https://www.udemy.com/course/learning-perl-by-example/"
+    },
+    {
+      "title": "Python, Java and PHP Essentials: Complete Coding Bootcamp",
+      "url": "https://www.udemy.com/course/python-java-and-php-essentials-complete-coding-bootcamp/"
+    },
+    {
+      "title": "Python Bootcamp : Complete Python Programming Masterclass",
+      "url": "https://www.udemy.com/course/python-bootcamp-complete-python-programing-masterclass/"
+    },
+    {
+      "title": "High-Performance Computing with Python 3.x",
+      "url": "https://www.udemy.com/course/high-performance-computing-with-python-3x/"
+    },
+    {
+      "title": "A Full Introduction to C++ with Objects",
+      "url": "https://www.udemy.com/course/introduction-to-c-plus-plus/"
+    },
+    {
+      "title": "Understanding basics of programming with C/C++",
+      "url": "https://www.udemy.com/course/basics-of-programming-with-cc/"
+    },
+    {
+      "title": "JavaScript: The Critical Parts Masterclass",
+      "url": "https://www.udemy.com/course/javascript-the-critical-parts-masterclass/"
+    },
+    {
+      "title": "GUI Automation using Python | Use Python for Automation",
+      "url": "https://www.udemy.com/course/python-automation/"
+    },
+    {
+      "title": "Python Beginners to Advance Bootcamp",
+      "url": "https://www.udemy.com/course/python-beginners-to-advance-bootcamp/"
+    },
+    {
+      "title": "Python course from Zero-to-Hero - Intermediate Level",
+      "url": "https://www.udemy.com/course/python-course-from-zero-to-hero-intermediate-level/"
+    },
+    {
+      "title": "90Days Data Science Bootcamp: Build Portfolio Of 90 Projects",
+      "url": "https://www.udemy.com/course/learn-python-programming-for-beginners/"
+    },
+    {
+      "title": "Python Certification Preparation:4 Practice Tests",
+      "url": "https://www.udemy.com/course/python-certification-preparation-4-practice-tests/"
+    },
+    {
+      "title": "Scrapy Masterclass: Learn Web Scraping With Scrapy Framework",
+      "url": "https://www.udemy.com/course/master-web-scraping/"
+    },
+    {
+      "title": "4 Practice Tests for any Python Certification",
+      "url": "https://www.udemy.com/course/4-practice-tests-for-any-python-certification/"
+    },
+    {
+      "title": "Python Programming for Beginners: Learn to Code with Python",
+      "url": "https://www.udemy.com/course/python-programming-for-beginners-learn-to-code-with-python/"
+    },
+    {
+      "title": "From Zero Step by Step C# for Revit API for PlugIn Creation",
+      "url": "https://www.udemy.com/course/revitapi01/"
+    },
+    {
+      "title": "Learn C Programming Language with Examples in One Day",
+      "url": "https://www.udemy.com/course/01-day-c-code-learn-c-programming-with-examples-in-one-day/"
+    },
+    {
+      "title": "SwiftUI iOS13 Coffee Shop Application, Order Products Online",
+      "url": "https://www.udemy.com/course/swiftui-ios13-coffee-shop-application/"
+    },
+    {
+      "title": "Python MS Excel Automation | Learn Excel Data Analysis",
+      "url": "https://www.udemy.com/course/ms-excel-automation-excel-data-analysis-with-python/"
+    },
+    {
+      "title": "Python Programming Masterclass for Beginners : Zero to Hero",
+      "url": "https://www.udemy.com/course/python-programming-masterclass-for-beginners-zero-to-hero/"
+    },
+    {
+      "title": "The Comprehensive Guide to Swift",
+      "url": "https://www.udemy.com/course/the-comprehensive-guide-to-swift/"
+    },
+    {
+      "title": "Data Stream Development via Spark, Kafka and Spring Boot",
+      "url": "https://www.udemy.com/course/data-stream-development-via-spark-kafka-and-spring-boot/"
+    },
+    {
+      "title": "Learn Python from Scratch : Python Programming",
+      "url": "https://www.udemy.com/course/learn-python-from-scratch-python-programming-datascience/"
+    },
+    {
+      "title": "Flutter Masterclass - Your Complete Guide to App Development",
+      "url": "https://www.udemy.com/course/flutter-masterclass-your-complete-guide-to-app-development/"
+    },
+    {
+      "title": "C, C++, Java; A Programming MegaPrimer for Beginners",
+      "url": "https://www.udemy.com/course/c-cplus-plus-java-programming-megaprimer-for-beginners/"
+    },
+    {
+      "title": "Complete DEVOPS Pipeline with Python Web App AWS Devops CICD",
+      "url": "https://www.udemy.com/course/learn-complete-devops-with-python-docker-kubernetes-git/"
+    },
+    {
+      "title": "Getting Started With Python",
+      "url": "https://www.udemy.com/course/gettingstartedwithpython/"
+    },
+    {
+      "title": "Python Programming",
+      "url": "https://www.udemy.com/course/python-bootcamp-learn-python-programming/"
+    },
+    {
+      "title": "Learn Complete CNC Programming in English",
+      "url": "https://www.udemy.com/course/learn-cnc-programming-in-english/"
+    },
+    {
+      "title": "Excel To EXE, Make Secure Windows Applications From Excel",
+      "url": "https://www.udemy.com/course/excel-to-exe-make-secure-windows-applications-from-excel/"
+    },
+    {
+      "title": "Comprehensive Introduction to Programming with C#",
+      "url": "https://www.udemy.com/course/comprehensive-introduction-to-programming-with-csharp/"
+    },
+    {
+      "title": "Introduction to Python: From N00B to N3RD",
+      "url": "https://www.udemy.com/course/total-introduction-to-python/"
+    },
+    {
+      "title": "JavaScript Mastery Made Easy with ChatGPT for Beginners",
+      "url": "https://www.udemy.com/course/chatgpt-for-javascript-mastery-the-secrets-of-ai-revealed/"
+    },
+    {
+      "title": "JavaScript for Beginners - The Complete Intro Course [2022]",
+      "url": "https://www.udemy.com/course/javascript-for-beginners-the-complete-intro-course-2022/"
+    },
+    {
+      "title": "Java Object-Oriented Programming : Build a Quiz Application",
+      "url": "https://www.udemy.com/course/java-object-oriented-programming-build-a-quiz-application/"
+    },
+    {
+      "title": "Learn Python In A Day With 6 Projects",
+      "url": "https://www.udemy.com/course/learn-python-in-a-day/"
+    },
+    {
+      "title": "124 Java Programming Coding Practices for Absolute Beginners",
+      "url": "https://www.udemy.com/course/practical-java-programming-practices-120-common-projects/"
+    },
+    {
+      "title": "C# - Complete A to Z C# Masterclass™: Hints + Coding Tips",
+      "url": "https://www.udemy.com/course/c-sharp-a-3-step-process-to-code-apps-with-an-a-to-z-complete-bootcamp/"
+    },
+    {
+      "title": "The Road To Dynamic Programming: Java, JavaScript, & Python",
+      "url": "https://www.udemy.com/course/the-road-to-dynamic-programming/"
+    },
+    {
+      "title": "Scala Programming For Beginners Complete Guide 2020",
+      "url": "https://www.udemy.com/course/scala_scalable_functional_programming_language_kids_beginners_scratch/"
+    },
+    {
+      "title": "Learn C sharp in 1 hour",
+      "url": "https://www.udemy.com/course/learn-c-sharp-in-1-hour/"
+    },
+    {
+      "title": "Python 101: Python Programming & Python Functions (2025)",
+      "url": "https://www.udemy.com/course/learn-python-step-by-step/"
+    },
+    {
+      "title": "NodeJS & ExpressJS Masterclass: Beginner to Pro REST APIs",
+      "url": "https://www.udemy.com/course/nodejs-beginner-to-pro-apis-for-food-delivery-ecommerce/"
+    },
+    {
+      "title": "Learn PyQt5 From Basics to Real World Projects",
+      "url": "https://www.udemy.com/course/learn-pyqt5-from-basics-to-real-world-projects/"
+    },
+    {
+      "title": "FactorytalkView ME Training Using Studio 5000 PLC's.",
+      "url": "https://www.udemy.com/course/factorytalkviewme-training-connecting-to-rslogix5000-plcs/"
+    },
+    {
+      "title": "Learn To Program With Spring",
+      "url": "https://www.udemy.com/course/learn-to-program-with-spring/"
+    },
+    {
+      "title": "C# Basics with .NET Core for Beginners: Learn by Coding",
+      "url": "https://www.udemy.com/course/csharp-in-depth-for-beginners/"
+    },
+    {
+      "title": "The Complete C Course",
+      "url": "https://www.udemy.com/course/the-complete-c-course-ppa/"
+    },
+    {
+      "title": "A Complete Introduction to the C++ Programming Language",
+      "url": "https://www.udemy.com/course/intro-to-cplusplus/"
+    },
+    {
+      "title": "Absolute beginner's guide to programming and computers",
+      "url": "https://www.udemy.com/course/absolute-beginners-guide-to-programming-and-computers/"
+    },
+    {
+      "title": "Spring Data JPA Fundamentals (with Hibernate)",
+      "url": "https://www.udemy.com/course/spring-data-jpa-fundamentals-with-hibernate/"
+    },
+    {
+      "title": "PyQT5 with Python GUI Programming | Python PyQT",
+      "url": "https://www.udemy.com/course/learn-python-gui-programming-using-pyqt5-gui-python-2021/"
+    },
+    {
+      "title": "Bash Shell Programming for Data Sciences: Animated Course",
+      "url": "https://www.udemy.com/course/hello-big-data-at-bash/"
+    },
+    {
+      "title": "The Complete MATLAB Computer Programming Bootcamp",
+      "url": "https://www.udemy.com/course/the-complete-computer-programming-boot-camp/"
+    },
+    {
+      "title": "Java Programming: Become a Professional Java Engineer!",
+      "url": "https://www.udemy.com/course/java-programming-the-authoritative-edition/"
+    },
+    {
+      "title": "Learn Collections in C# and .NET",
+      "url": "https://www.udemy.com/course/learn-collections-in-c-and-net/"
+    },
+    {
+      "title": "Python Coding Intermediate: Python Classes, Methods and OOPs",
+      "url": "https://www.udemy.com/course/python-coding-intermediate-python-classes-methods-and-oops/"
+    },
+    {
+      "title": "Learn to Code in JavaScript",
+      "url": "https://www.udemy.com/course/learn-to-code-in-javascript/"
+    },
+    {
+      "title": "Scratch Programming - Basic to Expert",
+      "url": "https://www.udemy.com/course/abdullah_scratch-programming/"
+    },
+    {
+      "title": "Swift 3 - Master Swift Development From Scratch",
+      "url": "https://www.udemy.com/course/swift-development/"
+    },
+    {
+      "title": "Java Basics in Practice with 35+ Exercises & Quizzes - 2025",
+      "url": "https://www.udemy.com/course/java-intro-in-practice-iter-academy/"
+    },
+    {
+      "title": "Developing Smart contracts with Solidity",
+      "url": "https://www.udemy.com/course/developing-smart-contracts-with-solidity/"
+    },
+    {
+      "title": "Python for Absolute Beginners",
+      "url": "https://www.udemy.com/course/beginner-python/"
+    },
+    {
+      "title": "Java - A 3-Step Process to Master Java in 7 days for Newbies",
+      "url": "https://www.udemy.com/course/java-a-3-step-process-to-master-java-in-7-days-for-newbies/"
+    },
+    {
+      "title": "Complete JavaScript Full Stack Course 2025 From A - Z",
+      "url": "https://www.udemy.com/course/complete-javascript-full-stack-course/"
+    },
+    {
+      "title": "Core Java Programming from Scratch to Advanced",
+      "url": "https://www.udemy.com/course/core-java-fundamentals/"
+    },
+    {
+      "title": "Cracking Python Interview Questions On Programming",
+      "url": "https://www.udemy.com/course/cracking-python-interview-questions-on-programming-12-hrs/"
+    },
+    {
+      "title": "Learn PhalconPHP Framework",
+      "url": "https://www.udemy.com/course/phalconphp/"
+    },
+    {
+      "title": "Python design patterns masterclass",
+      "url": "https://www.udemy.com/course/pythondesignpatterns/"
+    },
+    {
+      "title": "C++ Programming - Master Class",
+      "url": "https://www.udemy.com/course/cpp-master/"
+    },
+    {
+      "title": "Intermediate & Advanced Java Programming",
+      "url": "https://www.udemy.com/course/intermediate-advanced-java-programming/"
+    },
+    {
+      "title": "Geospatial AI: Deep Learning for Satellite Imagery",
+      "url": "https://www.udemy.com/course/geospatial-ai-deep-learning/"
+    },
+    {
+      "title": "Build 10 C# Beginner Projects from scratch",
+      "url": "https://www.udemy.com/course/build-10-c-beginner-projects-from-scratch/"
+    }
+  ]
+}

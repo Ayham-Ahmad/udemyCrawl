@@ -1,0 +1,2006 @@
+{
+  "main_category": "it-and-software",
+  "sub_category": "IT Certifications",
+  "courses": [
+    {
+      "title": "Learn Modern Javascript by Coding a Snake Game",
+      "url": "https://www.udemy.com/course/learn-modern-javascript-by-coding-a-snake-game/"
+    },
+    {
+      "title": "Computer Architecture & Organization Part 1 : Cache Memory",
+      "url": "https://www.udemy.com/course/computer-architecture-computer-organization-course/"
+    },
+    {
+      "title": "HARD CISSP practice questions #2: All CISSP domains - 125Q",
+      "url": "https://www.udemy.com/course/hardcisspquestions2/"
+    },
+    {
+      "title": "Agile Scrum For Beginners & Scrum Master Certification Prep",
+      "url": "https://www.udemy.com/course/agile-scrum-for-beginners-scrum-master-certification-prep/"
+    },
+    {
+      "title": "Azure Bundle Prep for AZ-900 , AZ-103 and Az-104",
+      "url": "https://www.udemy.com/course/implementing-microsoft-azure-infrastructure-solutions-70533/"
+    },
+    {
+      "title": "Salesforce Experience (Community) Cloud Consultant Training",
+      "url": "https://www.udemy.com/course/salesforce-experience-cloud-certification-training/"
+    },
+    {
+      "title": "The Complete Python Programmer: From Scratch to Applications",
+      "url": "https://www.udemy.com/course/the-complete-python-programmer-from-scratch-to-applications/"
+    },
+    {
+      "title": "AZ-700 Designing & Implementing Azure Networking with SIMS",
+      "url": "https://www.udemy.com/course/az-700-designing-implementing-azure-networking-with-sims/"
+    },
+    {
+      "title": "AZ-104 Microsoft Azure Administrator w/ AZ104 Practice Tests",
+      "url": "https://www.udemy.com/course/az-104-microsoft-azure-administrator-az104-practice-tests/"
+    },
+    {
+      "title": "AI-900 Course Azure AI Fundamentals with Virtual Simulations",
+      "url": "https://www.udemy.com/course/ai-900-course-azure-ai-fundamentals-with-virtual-simulations/"
+    },
+    {
+      "title": "Complete AWS Cloud Practitioner Training - CLF-C02",
+      "url": "https://www.udemy.com/course/complete-aws-cloud-practitioner-training/"
+    },
+    {
+      "title": "Google Cloud Professional Data Engineer Practice Tests",
+      "url": "https://www.udemy.com/course/slg-google-cloud-professional-data-engineer-practice-tests/"
+    },
+    {
+      "title": "Mastering Angular + Ang 17 - 18 + Interview + E-commerce App",
+      "url": "https://www.udemy.com/course/mastering-angular-interview-questions-e-commerce-project/"
+    },
+    {
+      "title": "AWS 3 in 1 Certification Course Bundle",
+      "url": "https://www.udemy.com/course/aws-certified-devops-engineer-get-3-certifications/"
+    },
+    {
+      "title": "AZ-900 Microsoft Azure Fundamentals Practice Questions",
+      "url": "https://www.udemy.com/course/az-900-practice-questions/"
+    },
+    {
+      "title": "Combo Lean Six Sigma Green and Black Belts",
+      "url": "https://www.udemy.com/course/six-sigma-green-and-black-belt-combo/"
+    },
+    {
+      "title": "AWS Certified AI Practitioner AIF-C01 [Beginner to Advanced]",
+      "url": "https://www.udemy.com/course/aws-certified-ai-practitioner-aif-c01-beginner-to-advanced/"
+    },
+    {
+      "title": "Learn Microsoft SQL Server from Scratch",
+      "url": "https://www.udemy.com/course/mastering-sql-server/"
+    },
+    {
+      "title": "Microsoft Python Certification Exam (98-381): Practice Tests",
+      "url": "https://www.udemy.com/course/microsoft-python-certification-exam-98-381-practice-tests/"
+    },
+    {
+      "title": "The Complete Splunk Fundamentals 2 Training",
+      "url": "https://www.udemy.com/course/splunk-fundamentals-2/"
+    },
+    {
+      "title": "CompTIA Cloud+ CV0-004 All-In-One",
+      "url": "https://www.udemy.com/course/comptia-cloud-plus/"
+    },
+    {
+      "title": "Enterprise Architecture Practitioner with the TOGAF Standard",
+      "url": "https://www.udemy.com/course/togaf-10-practitioner/"
+    },
+    {
+      "title": "AWS Certified Machine Learning Engineer - Associate MLA-C01",
+      "url": "https://www.udemy.com/course/aws-certified-machine-learning-engineer-associate-mla-c01-exam-prep/"
+    },
+    {
+      "title": "Professional VMware vSphere 7.x Exam VCP-DCV 2023",
+      "url": "https://www.udemy.com/course/professional-vmware-vsphere-7x-exam-2v0-2120-v/"
+    },
+    {
+      "title": "Python PCEP: Certified Entry-Level Python Programmer [2022]",
+      "url": "https://www.udemy.com/course/python-for-absolute-beginners-codingwithroby/"
+    },
+    {
+      "title": "DP-420 : Microsoft Azure Cosmos DB Exam Guide [Hands-on]",
+      "url": "https://www.udemy.com/course/azure-cosmosdb-database/"
+    },
+    {
+      "title": "Mastering React With Interview Questions,eStore Project",
+      "url": "https://www.udemy.com/course/mastering-react-with-interview-questions-estore-project-nirmal-joshi/"
+    },
+    {
+      "title": "JCL Course: The Ultimate Guide to Job Control Language.",
+      "url": "https://www.udemy.com/course/job-control-language-jcl-course/"
+    },
+    {
+      "title": "MO-211 prep: Microsoft Excel Expert (Microsoft 365 Apps)",
+      "url": "https://www.udemy.com/course/mo-211-microsoft-excel-expert-microsoft-365-apps/"
+    },
+    {
+      "title": "Cisco CCNA 200-301 - Introduction to networking",
+      "url": "https://www.udemy.com/course/cisco-networking-introduction/"
+    },
+    {
+      "title": "Salesforce Service Cloud Consultant Certification",
+      "url": "https://www.udemy.com/course/salesforce-service-cloud-consultant-certification/"
+    },
+    {
+      "title": "Six 2021 CompTIA Security+ (SY0-601) Practice Tests w/PBQs",
+      "url": "https://www.udemy.com/course/security_plus_practice_exams/"
+    },
+    {
+      "title": "Easily Create a vSphere 6.7 VCP Lab with VMware Workstation",
+      "url": "https://www.udemy.com/course/vsphere67lab/"
+    },
+    {
+      "title": "DP-300: Azure Relational Database Administrator Exam Prep",
+      "url": "https://www.udemy.com/course/dp300-azure/"
+    },
+    {
+      "title": "Cisco CCNP CCIE Enterprise ENCOR 350-401 Practice Exams",
+      "url": "https://www.udemy.com/course/ciscoencor/"
+    },
+    {
+      "title": "6 FULL Certified in Cybersecurity (CC) tests #1-6 ISC2 2025",
+      "url": "https://www.udemy.com/course/isc2-certified-in-cybersecurity-cc-tests1/"
+    },
+    {
+      "title": "[NEW] The Ultimate Generative AI Leader Cert. Training",
+      "url": "https://www.udemy.com/course/ai-leader-the-ultimate-generative-ai-leader-cert-training/"
+    },
+    {
+      "title": "Certified Kubernetes Application Developer | CKAD Exam 2025",
+      "url": "https://www.udemy.com/course/certified-kubernetes-application-developer-training/"
+    },
+    {
+      "title": "Salesforce Data Cloud Consultant Certification Course",
+      "url": "https://www.udemy.com/course/salesforce-data-cloud-consultant-certification-course/"
+    },
+    {
+      "title": "Azure DevOps Bootcamp: Zero to Hero (Pipelines,Boards,Repos)",
+      "url": "https://www.udemy.com/course/azdevops/"
+    },
+    {
+      "title": "Microsoft 70-742: Identity in Windows Server 2016",
+      "url": "https://www.udemy.com/course/microsoft-70-742-identity-in-windows-server-2016/"
+    },
+    {
+      "title": "MikroTik Routing Engineer with LABS",
+      "url": "https://www.udemy.com/course/mikrotik-routing-engineer-with-labs-mtcre/"
+    },
+    {
+      "title": "AZ-204: Developing Microsoft Azure Solutions",
+      "url": "https://www.udemy.com/course/microsoft-az-204/"
+    },
+    {
+      "title": "CISM Certification Training: Full Course & 2x Practice Exams",
+      "url": "https://www.udemy.com/course/cism-english/"
+    },
+    {
+      "title": "AZ-900 Azure Sure&Quick Success Complete Course-2 Full Exams",
+      "url": "https://www.udemy.com/course/silver-bullet-to-crack-az900-azure-fundamental-certification/"
+    },
+    {
+      "title": "CompTIA A+ (220-1101 & 220-1102)",
+      "url": "https://www.udemy.com/course/comptia-a-220-1101-220-1102/"
+    },
+    {
+      "title": "Master Python With NumPy For Data Science & Machine Learning",
+      "url": "https://www.udemy.com/course/numpy-for-data-science-and-machine-learning/"
+    },
+    {
+      "title": "Platform App Builder: Rapid Exam Prep",
+      "url": "https://www.udemy.com/course/salesforce-platform-app-builder-rapid-exam-prep/"
+    },
+    {
+      "title": "Master Amazon EC2 Basics with 10 Labs",
+      "url": "https://www.udemy.com/course/ec2with10labs/"
+    },
+    {
+      "title": "AZ-104 Microsoft Azure Administrator Exam Practice Questions",
+      "url": "https://www.udemy.com/course/az-104-microsoft-azure-administrator-practice-exam-questions/"
+    },
+    {
+      "title": "Chris Bryant's CCNA Practice Exam Pack #1 (ICND1 Topics)",
+      "url": "https://www.udemy.com/course/chris-bryant-ccna-practice-exam-1/"
+    },
+    {
+      "title": "Terraform - From Zero to Certified Professional",
+      "url": "https://www.udemy.com/course/terraformcertified/"
+    },
+    {
+      "title": "The Complete Terraform IAC Development Bootcamp",
+      "url": "https://www.udemy.com/course/terraform_training/"
+    },
+    {
+      "title": "Cisco CCNP Switch (300-115): The Complete Course",
+      "url": "https://www.udemy.com/course/cisco-ccnp-switch-300-115-the-complete-course/"
+    },
+    {
+      "title": "AWS Certified Solutions Architect Associate - EXAM REVIEW",
+      "url": "https://www.udemy.com/course/exam-aws-certified-solution-architect-associate/"
+    },
+    {
+      "title": "Ansible for the Absolute Beginner - DevOps",
+      "url": "https://www.udemy.com/course/ansible-for-the-absolute-beginner-devops/"
+    },
+    {
+      "title": "Aruba Switching Training With Labs For ACA ACSA ACSP HPE",
+      "url": "https://www.udemy.com/course/huki-aruba-switching-associate-training/"
+    },
+    {
+      "title": "CompTIA Security+ (SY0-701): Comprehensive Practice Exams",
+      "url": "https://www.udemy.com/course/comptia-security-plus-sy0-701-practice-exams/"
+    },
+    {
+      "title": "Salesforce Certified Agentforce Specialist and Practice Test",
+      "url": "https://www.udemy.com/course/agentforce/"
+    },
+    {
+      "title": "Python,Flask Framework And Django Course For Beginners",
+      "url": "https://www.udemy.com/course/python-and-flask-and-django-course-for-beginners/"
+    },
+    {
+      "title": "Preparing to Certified OpenStack Administrator (COA) Exam",
+      "url": "https://www.udemy.com/course/preparing-to-certified-openstack-administrator-coa-exam/"
+    },
+    {
+      "title": "AWS Certified Solutions Architect Associate: Complete Course",
+      "url": "https://www.udemy.com/course/aws-certified-solutions-architect-associate-master-course/"
+    },
+    {
+      "title": "HashiCorp Certified: Vault Associate 2023",
+      "url": "https://www.udemy.com/course/hashicorp-certified-vault-associate/"
+    },
+    {
+      "title": "MECM Training",
+      "url": "https://www.udemy.com/course/mecm-training/"
+    },
+    {
+      "title": "AZ-300 Microsoft Azure Architect Exam Practice Questions NEW",
+      "url": "https://www.udemy.com/course/exam-az-300/"
+    },
+    {
+      "title": "GCP for AWS Professionals - Learn Google Cloud [2021]",
+      "url": "https://www.udemy.com/course/google-cloud-platform-for-aws-professionals/"
+    },
+    {
+      "title": "CCIE EI v1.1 - Layer 3 Technologies",
+      "url": "https://www.udemy.com/course/xtremeie-layer3/"
+    },
+    {
+      "title": "CompTIA Network+ N10-009 - 2025",
+      "url": "https://www.udemy.com/course/comptia-network-plus-it-cert-doctor/"
+    },
+    {
+      "title": "Mastering FinOps - Practitioner Certification + FREE BOOK",
+      "url": "https://www.udemy.com/course/mastering-finops-certified-finops-practitioner/"
+    },
+    {
+      "title": "Implementing a Cisco ASA Firewall 9.X - All - in - One",
+      "url": "https://www.udemy.com/course/implementing-a-cisco-asa-firewall-9x-all-in-one/"
+    },
+    {
+      "title": "AWS Tutorial:AWS Solutions Architect & SysOps Administrator!",
+      "url": "https://www.udemy.com/course/awstutorial/"
+    },
+    {
+      "title": "Spring Boot REST & Angular + Full Stack Application!",
+      "url": "https://www.udemy.com/course/spring-boot-rest-angular-full-stack-application/"
+    },
+    {
+      "title": "Cisco Certified CCNA 200-301 (Practice Exam)",
+      "url": "https://www.udemy.com/course/simulado-completo-cisco-ccna/"
+    },
+    {
+      "title": "SCS-C01: AWS Certified Security – Specialty Practice Exams",
+      "url": "https://www.udemy.com/course/new-aws-certified-security-specialty-exams/"
+    },
+    {
+      "title": "ServiceNow Certified System Administrator(CSA) Xanadu",
+      "url": "https://www.udemy.com/course/servicenow-certified-system-administrator-practice-tests/"
+    },
+    {
+      "title": "REST API testing using C# RestSharp and SpecFlow",
+      "url": "https://www.udemy.com/course/rest-api-testing-using-csharp-restsharp-and-specflow/"
+    },
+    {
+      "title": "Databricks Certified Data Engineer Associate Exam Guide",
+      "url": "https://www.udemy.com/course/databricks-data-engineer-associate/"
+    },
+    {
+      "title": "RHCSA Exam Training by Infinite Skills",
+      "url": "https://www.udemy.com/course/red-hat-certified-system-administrator-exam-ex200-rhcsa/"
+    },
+    {
+      "title": "How To Crush Any Cyber Security Exam!",
+      "url": "https://www.udemy.com/course/how-to-crush-any-cyber-exam/"
+    },
+    {
+      "title": "Continuous Code Inspection with SonarQube",
+      "url": "https://www.udemy.com/course/continuous-code-inspection-with-sonarqube/"
+    },
+    {
+      "title": "Google Cloud Platform (GCP) Fundamentals - Hands-on (2025)",
+      "url": "https://www.udemy.com/course/gcp-fundamentals/"
+    },
+    {
+      "title": "MuleSoft Certified Developer - Level 2 - Preparation Course",
+      "url": "https://www.udemy.com/course/mule4-mcd-level2/"
+    },
+    {
+      "title": "Salesforce Data Architect Course",
+      "url": "https://www.udemy.com/course/salesforce-certified-data-architect-course/"
+    },
+    {
+      "title": "CCNP SWITCH 300-115 Video Boot Camp With Chris Bryant",
+      "url": "https://www.udemy.com/course/ccnp-switch-video-boot-camp/"
+    },
+    {
+      "title": "SAFE 6.0 Product Owner Product Manager Certified SAFE 6 POPM",
+      "url": "https://www.udemy.com/course/safe-product-owner-product-manager-popm-safe-6-exams/"
+    },
+    {
+      "title": "AI-900 Azure AI Fundamentals | Azure Certification",
+      "url": "https://www.udemy.com/course/microsoft-azure-ai-fundamentals/"
+    },
+    {
+      "title": "98-361: Software Development Fundamentals (using C#)",
+      "url": "https://www.udemy.com/course/98-361-software-development-fundamentals-using-c-sharp/"
+    },
+    {
+      "title": "AWS Certified Data Analytics Specialty Practice Exams",
+      "url": "https://www.udemy.com/course/aws-certified-data-analytics-specialty-practice-exams-amazon/"
+    },
+    {
+      "title": "Databricks Certified Data Engineer Associate - Bootcamp",
+      "url": "https://www.udemy.com/course/databricks-certified-data-engineer-associate-bootcamp/"
+    },
+    {
+      "title": "Google Cloud Fundamentals 101 : A quick guide to learn GCP",
+      "url": "https://www.udemy.com/course/google-cloud-fundamentals-101-a-quick-guide-to-learn-gcp/"
+    },
+    {
+      "title": "Mastering AWS Certified AI Practitioner AIF-C01 - Hands On!",
+      "url": "https://www.udemy.com/course/aws-certified-ai-practitioner-aif-c01-hands-on-in-depth/"
+    },
+    {
+      "title": "LPI Linux Essentials (010-160) Complete Course & Workshop",
+      "url": "https://www.udemy.com/course/lpi-le-workshop/"
+    },
+    {
+      "title": "Cybersecurity Warrior Certification: Cybersecurity Immersion",
+      "url": "https://www.udemy.com/course/cyber-security-building-a-cyberwarrior-certification/"
+    },
+    {
+      "title": "Certified Data Management Professional (CDMP) Essentials",
+      "url": "https://www.udemy.com/course/certified-data-management-professional-cdmp-essentials/"
+    },
+    {
+      "title": "Spring Professional Certification Exam Tutorial - Module 05",
+      "url": "https://www.udemy.com/course/spring-professional-certification-exam-tutorial-module-05/"
+    },
+    {
+      "title": "Python Certification Exam PCAP-31-03 - Preparation (2025)",
+      "url": "https://www.udemy.com/course/pcap-certification-python-exam-practice-tests/"
+    },
+    {
+      "title": "Cisco ACI DCACI - (300-620) Certification Course",
+      "url": "https://www.udemy.com/course/cisco-aci-dcaci-300-620-certification-course/"
+    },
+    {
+      "title": "10 Sample Exams ISTQB Foundation Level (CTFL) v4.0 [NEW!]",
+      "url": "https://www.udemy.com/course/istqb-foundation-level-sample-exam-training/"
+    },
+    {
+      "title": "ChatGPT Expert Professional Certification",
+      "url": "https://www.udemy.com/course/chatgpt_expert/"
+    },
+    {
+      "title": "Back-End Developer - ABAP Cloud {C_ABAPD_2507} - THE BEST",
+      "url": "https://www.udemy.com/course/back-end-developer-abap-cloud-c_abapd_2309-questions/"
+    },
+    {
+      "title": "Robotic Process Automation (RPA) - Automation Anywhere v11",
+      "url": "https://www.udemy.com/course/rpa-automation-anywhere-v11/"
+    },
+    {
+      "title": "Python PCEP-30-01: Certified Entry-Level Python Programmer",
+      "url": "https://www.udemy.com/course/pcep-entry-level-python-programmer-certification/"
+    },
+    {
+      "title": "Master Dynamics 365 Solutions, Forms, Views & Visualizations",
+      "url": "https://www.udemy.com/course/mb2-716-microsoft-dynamics-365-customization-and-configuration-part-3/"
+    },
+    {
+      "title": "[NEW] AZ-900 Microsoft Azure Fundamentals | Practice Exams",
+      "url": "https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-practice-exams-tests/"
+    },
+    {
+      "title": "AZ-204 : Practice Tests",
+      "url": "https://www.udemy.com/course/az-204-mock-test/"
+    },
+    {
+      "title": "AZ-120: Microsoft Azure for SAP Workloads Exam Preparation",
+      "url": "https://www.udemy.com/course/microsoft-azure-for-sap-workloads-az-120-exam-preparation/"
+    },
+    {
+      "title": "MTA: Windows Server Administration Fundamentals: 98-365",
+      "url": "https://www.udemy.com/course/mta-windows-server-administration-fundamentals/"
+    },
+    {
+      "title": "CompTIA CySA+ (CS0-003) Practice Exams",
+      "url": "https://www.udemy.com/course/comptia-cysa-cs0-003-practice-exams/"
+    },
+    {
+      "title": "COBIT® 2019 Foundation Practice Test (450 Questions)",
+      "url": "https://www.udemy.com/course/cobit-2019-foundation-practice-test/"
+    },
+    {
+      "title": "CCNA Security and CCNP Security Deep Dive Part::1",
+      "url": "https://www.udemy.com/course/ccnp-security-300-206_senss-with-b-s-deshwal-ccie-37094/"
+    },
+    {
+      "title": "MO-201 MOS Expert Excel 2019 exam",
+      "url": "https://www.udemy.com/course/mo-201-mos-expert-excel-2019-exam/"
+    },
+    {
+      "title": "Salesforce Development Project",
+      "url": "https://www.udemy.com/course/salesforce-development-project/"
+    },
+    {
+      "title": "Scrum Master Certification (PSM I) Masterclass",
+      "url": "https://www.udemy.com/course/scrum-master-psm-i-certification-masterclass/"
+    },
+    {
+      "title": "Complete Agile, Scrum, Kanban, SAFe, Confluence with ChatGPT",
+      "url": "https://www.udemy.com/course/latest-agile-way-of-workingfundamental-of-scrumkanbansafe/"
+    },
+    {
+      "title": "Scrum Master certification - practice test questions",
+      "url": "https://www.udemy.com/course/scrum-master-certification-practice-test-questions/"
+    },
+    {
+      "title": "The Ultimate Python Guide for Beginners",
+      "url": "https://www.udemy.com/course/the-ultimate-python-guide-for-beginners/"
+    },
+    {
+      "title": "The Python MicroDegree: From Basics To Building Python Apps",
+      "url": "https://www.udemy.com/course/thepythonmicrodegree/"
+    },
+    {
+      "title": "AWS Solutions Architect Associate with Practice Test",
+      "url": "https://www.udemy.com/course/ultimateaws/"
+    },
+    {
+      "title": "Azure Cost Optimization Inside-Out_Cloud Architect must have",
+      "url": "https://www.udemy.com/course/azure-cost-optimization/"
+    },
+    {
+      "title": "AZ-140 Configuring & Operating MS Azure Virtual Desktop AVD",
+      "url": "https://www.udemy.com/course/az-140-configuring-operating-ms-azure-virtual-desktop-avd/"
+    },
+    {
+      "title": "Microsoft DP-700 Exam Prep : Fabric Data Engineer Associate",
+      "url": "https://www.udemy.com/course/dp-700-exam-prep-fabric-data-engineer-associate/"
+    },
+    {
+      "title": "Foundations of Web Development: CSS, Bootstrap, JS, React",
+      "url": "https://www.udemy.com/course/cssbootstrapjavascriptreact-overview-course-for-beginners/"
+    },
+    {
+      "title": "Microsoft 70-744: Securing Windows Server 2016",
+      "url": "https://www.udemy.com/course/microsoft-70-744-securing-windows-server-2016/"
+    },
+    {
+      "title": "CompTIA Advanced Security Practitioner (CASP)",
+      "url": "https://www.udemy.com/course/comptia-advanced-security-practitioner-casp/"
+    },
+    {
+      "title": "AWS Certified Cloud Practitioner CLF-C02: Full Course",
+      "url": "https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c01/"
+    },
+    {
+      "title": "CompTIA Security+ Certification - SY0-401 (2014 Objectives)",
+      "url": "https://www.udemy.com/course/comptia-security-certification-sy0-401-2014-objectives/"
+    },
+    {
+      "title": "Spring Professional Certification Exam Tutorial - Module 07",
+      "url": "https://www.udemy.com/course/spring-professional-certification-exam-tutorial-module-07/"
+    },
+    {
+      "title": "Scrum Master Certification Practice Tests: 1000+ Questions",
+      "url": "https://www.udemy.com/course/professional-scrum-master-psm-certification-preparation/"
+    },
+    {
+      "title": "Jenkins CI/CD Bootcamp| 25+ Jenkinsfile| Real Projects| 2025",
+      "url": "https://www.udemy.com/course/jenkins-cicd-25-jenkinsfile-3-projects-interview-prep/"
+    },
+    {
+      "title": "Salesforce Certified Data Cloud Consultant (September 2025)",
+      "url": "https://www.udemy.com/course/salesforce-certified-data-cloud-consultant/"
+    },
+    {
+      "title": "Mastering AWS: A Complete Guide to Cloud Computing in 2025",
+      "url": "https://www.udemy.com/course/aws-certified-solutions-architect-associate-aws/"
+    },
+    {
+      "title": "Fortinet FCP FortiGate 7.6 Administrator Preparation - NEW",
+      "url": "https://www.udemy.com/course/fortinet-fcp-fortigate-74-administrator-preparation-new/"
+    },
+    {
+      "title": "Salesforce Certified Advanced Administrator - Part 2",
+      "url": "https://www.udemy.com/course/salesforce-advanced-administrator-2/"
+    },
+    {
+      "title": "Salesforce Lightning Report Builder & Dashboards",
+      "url": "https://www.udemy.com/course/salesforce-lightning-report-builder-dashboards/"
+    },
+    {
+      "title": "AWS for Beginners: Start Your AWS Cloud Practitioner Journey",
+      "url": "https://www.udemy.com/course/amazon-aws-cloud-computing-course/"
+    },
+    {
+      "title": "CompTIA Security+ (SY0-701) Practice Exams",
+      "url": "https://www.udemy.com/course/securitypluspracticeexams/"
+    },
+    {
+      "title": "CompTIA Network+ N10-009 Practice Exams",
+      "url": "https://www.udemy.com/course/network-plus-practice-exams/"
+    },
+    {
+      "title": "ServiceNow System Administrator (CSA) Total Exam Prep Course",
+      "url": "https://www.udemy.com/course/ndn-csa-exam-prep/"
+    },
+    {
+      "title": "Lean Six Sigma White Belt Certificate - Official",
+      "url": "https://www.udemy.com/course/six-sigma-white-belt-certificate/"
+    },
+    {
+      "title": "Practice Exams: AWS Machine Learning Engineer Associate Cert",
+      "url": "https://www.udemy.com/course/practice-exams-aws-certified-machine-learning-engineer-associate/"
+    },
+    {
+      "title": "CCNA Networking Essentials: A Comprehensive Cisco Course",
+      "url": "https://www.udemy.com/course/ccna-networking-essentials-a-comprehensive-course/"
+    },
+    {
+      "title": "Agile Scrum Fundamentals+Scrum Master+Scrum Certification",
+      "url": "https://www.udemy.com/course/agile-scrum-training/"
+    },
+    {
+      "title": "HARD CISSP practice questions #1: All CISSP domains - 125Q",
+      "url": "https://www.udemy.com/course/hardcisspquestions1/"
+    },
+    {
+      "title": "ITS 305 IT Specialist Software Development - Exam Prep tests",
+      "url": "https://www.udemy.com/course/mta-98-361-software-development-fundamentals-cs-exam-prep/"
+    },
+    {
+      "title": "AWS Certified Cloud Practitioner- Updated:400+ Questions",
+      "url": "https://www.udemy.com/course/aws-cloud-certified-practitioner-mock-tests/"
+    },
+    {
+      "title": "SC-900 Practice Tests (MS Security, Compliance, & Identity)",
+      "url": "https://www.udemy.com/course/sc-900-exam-questions-microsoft-security-compliance-identity/"
+    },
+    {
+      "title": "Practice Exams | AWS Certified Data Engineer - Associate",
+      "url": "https://www.udemy.com/course/practice-exams-aws-certified-data-engineer-associate-r/"
+    },
+    {
+      "title": "AZ-204 Developing Solutions for Microsoft Azure Lab & Prep",
+      "url": "https://www.udemy.com/course/az-300-microsoft-azure-architect-technologies-lab-practice/"
+    },
+    {
+      "title": "Azure DevOps for Automation Testers Selenium + CICD Concepts",
+      "url": "https://www.udemy.com/course/azure-devops-for-automation-testers-selenium-cicd-concepts/"
+    },
+    {
+      "title": "The Ultimate Advanced Training For Agile Product Owners",
+      "url": "https://www.udemy.com/course/agile-product-owner-certification-training-product-management/"
+    },
+    {
+      "title": "Cisco CCNA: The A, B, C's of IPv6",
+      "url": "https://www.udemy.com/course/the_abcs_of_ipv6/"
+    },
+    {
+      "title": "2025 - API testing with RestSharp along with framework Dev",
+      "url": "https://www.udemy.com/course/api-testing-with-restsharp-and-specflow-in-csharp/"
+    },
+    {
+      "title": "AI-100: Designing and Implementing an Azure AI Solutions",
+      "url": "https://www.udemy.com/course/ai-100-designing-and-implementing-an-azure-ai-solution/"
+    },
+    {
+      "title": "VMware HCX Fundamentals 2022",
+      "url": "https://www.udemy.com/course/vmware-hcx-fundamentals-2022/"
+    },
+    {
+      "title": "TOTAL: CompTIA Tech+ Practice Tests",
+      "url": "https://www.udemy.com/course/comptia-it-fundamentals-fc0-u61-practice-tests/"
+    },
+    {
+      "title": "SC-900 Microsoft Security Exam Practice Test",
+      "url": "https://www.udemy.com/course/sc900-azure-tests/"
+    },
+    {
+      "title": "Linux Redhat System Administration II – SA2 (RHEL8)",
+      "url": "https://www.udemy.com/course/linux-administration-ll/"
+    },
+    {
+      "title": "Practical Guide to setup Hadoop and Spark Cluster using CDH",
+      "url": "https://www.udemy.com/course/cca-131-cloudera-certified-hadoop-and-spark-administrator/"
+    },
+    {
+      "title": "Azure Data Engineer MasterClass | DP-203 | DP-600 | DP-700",
+      "url": "https://www.udemy.com/course/azure-data-engineering/"
+    },
+    {
+      "title": "IT Help Desk Ticketing Tool for L1 Support",
+      "url": "https://www.udemy.com/course/it-help-desk-ticketing-tool-for-l1-support/"
+    },
+    {
+      "title": "Oracle Cloud Infrastructure Foundations Practice Tests",
+      "url": "https://www.udemy.com/course/ocifoundations/"
+    },
+    {
+      "title": "CMMC Model v2.0 (Cybersecurity Maturity Model Certification)",
+      "url": "https://www.udemy.com/course/cybersecurity-maturity-model-certification-cmmc/"
+    },
+    {
+      "title": "CCNP Route 642-902 Implementing Cisco IP Routing",
+      "url": "https://www.udemy.com/course/ccnproute/"
+    },
+    {
+      "title": "AWS Certified Solution Architect - Associate 2020",
+      "url": "https://www.udemy.com/course/aws-certified-solution-architect-associate-2017/"
+    },
+    {
+      "title": "GCP Associate Cloud Engineer Google Certification -150 Demos",
+      "url": "https://www.udemy.com/course/gcp-associate-cloud-engineer-google-certification/"
+    },
+    {
+      "title": "MPLS Fundamentals: Cisco CCNP & Real World",
+      "url": "https://www.udemy.com/course/mpls-fundamentals-for-cisco-ccnp-real-world/"
+    },
+    {
+      "title": "Google Certified Professional Cloud Architect Practice Tests",
+      "url": "https://www.udemy.com/course/google-certified-professional-cloud-architect-practice-tests-s/"
+    },
+    {
+      "title": "Azure Solutions (Exam 70-533) & 365 Admin–(10-Course Bundle)",
+      "url": "https://www.udemy.com/course/azure-cloud-services-and-office-365-admin-7-course-bundle/"
+    },
+    {
+      "title": "AWS Certified Cloud Practitioner - Hands On & Practice Tests",
+      "url": "https://www.udemy.com/course/awscloudpractitioner/"
+    },
+    {
+      "title": "Ultimate Ansible Bootcamp by School of Devops®",
+      "url": "https://www.udemy.com/course/ultimate-ansible-bootcamp/"
+    },
+    {
+      "title": "AZ-103 Microsoft Azure Administrator Practice Exam Questions",
+      "url": "https://www.udemy.com/course/exam-az-103/"
+    },
+    {
+      "title": "AWS Certified Data Engineer Associate Practice Exams DEA-C01",
+      "url": "https://www.udemy.com/course/aws-certified-data-engineer-associate-practice-exams-dea/"
+    },
+    {
+      "title": "Embrace HEX Numbers NOW!",
+      "url": "https://www.udemy.com/course/embrace-hex-numbers-now/"
+    },
+    {
+      "title": "Google Professional Cloud Architect - The Complete Guide",
+      "url": "https://www.udemy.com/course/google-cloud-platform-from-zero-to-hero-the-complete-guide/"
+    },
+    {
+      "title": "Business Architecture Foundation with the TOGAF Standard",
+      "url": "https://www.udemy.com/course/togaf-10-ba-foundation/"
+    },
+    {
+      "title": "COBIT® 2019 Design & Implementation",
+      "url": "https://www.udemy.com/course/cobit-2019-design-implementation/"
+    },
+    {
+      "title": "CSS, Bootstrap And JavaScript And Python Stack Course",
+      "url": "https://www.udemy.com/course/css-bootstrap-and-javascript-and-python-stack-course/"
+    },
+    {
+      "title": "Active Directory and Windows Server 60+ Hour with Labs",
+      "url": "https://www.udemy.com/course/complete-active-directory-9-hours-bootcamp/"
+    },
+    {
+      "title": "VMware vSphere 6.7 Optimize Upgrade Troubleshoot w. Ebook",
+      "url": "https://www.udemy.com/course/vmware-vmware-vsphere-67-optimize-upgrade-troubleshoot-part-1/"
+    },
+    {
+      "title": "Terraform with AWS - Zero to Hero (Oct 2023 updated)",
+      "url": "https://www.udemy.com/course/master-terraform-with-aws/"
+    },
+    {
+      "title": "ISO 27001 Certification - Course to become ISO Lead Auditor",
+      "url": "https://www.udemy.com/course/become-isoiec-27001-lead-auditor-what-is-isms/"
+    },
+    {
+      "title": "AWS Certified Cloud Practitioner - EXAM REVIEW - 2021",
+      "url": "https://www.udemy.com/course/exam-review-aws-certified-cloud-practitioner/"
+    },
+    {
+      "title": "Azure AI Engineer Associate AI-102 : Practice Tests (2025)",
+      "url": "https://www.udemy.com/course/azure-ai-engineer-associate-ai-102-practice-tests-new/"
+    },
+    {
+      "title": "Complete Salesforce LIGHTNING Certified Administrator",
+      "url": "https://www.udemy.com/course/the-complete-salesforce-lightning-certified-administrator/"
+    },
+    {
+      "title": "TOTAL: AWS Solutions Architect SAA-C03 Practice Tests (NEW)",
+      "url": "https://www.udemy.com/course/aws-certified-solutions-architect-associate-practice-tests-h/"
+    },
+    {
+      "title": "Complete Splunk Enterprise Certified Admin Course (NEW)",
+      "url": "https://www.udemy.com/course/the-splunk-enterprise-certified-admin-course-2022-with-labs/"
+    },
+    {
+      "title": "Kubernetes with HELM: Kubernetes for Absolute Beginners",
+      "url": "https://www.udemy.com/course/kubernetes-training/"
+    },
+    {
+      "title": "TOTAL: CompTIA CySA+ (CS0-002) Practice Tests",
+      "url": "https://www.udemy.com/course/comptia-cybersecurity-analyst-csa-cs0-001-practice-tests/"
+    },
+    {
+      "title": "Python Certification Exam PCEP-30-02 - Preparation (2025)",
+      "url": "https://www.udemy.com/course/pcep-certification-python-exam-practice-tests/"
+    },
+    {
+      "title": "Diploma in Python with Data Science and Machine Learning",
+      "url": "https://www.udemy.com/course/diploma-in-python-programming-certification/"
+    },
+    {
+      "title": "SCRUM & Agentic A.I.: Scrum Master Certification Preparation",
+      "url": "https://www.udemy.com/course/scrum-the-masterclass-learn-scrum-here-and-get-certified/"
+    },
+    {
+      "title": "Oracle CIoud 2025 - OCI Foundations Associate 1Z0-1085-25",
+      "url": "https://www.udemy.com/course/oracle-cloud-foundations-associate-1z0-1085/"
+    },
+    {
+      "title": "Spring Professional Certification Exam Tutorial - Module 08",
+      "url": "https://www.udemy.com/course/spring-professional-certification-exam-tutorial-module-08/"
+    },
+    {
+      "title": "AWS Certified Solution Architect Associate - Preparation",
+      "url": "https://www.udemy.com/course/aws-certified-solution-architect-associate-prep/"
+    },
+    {
+      "title": "CCIE EI v1.1 - Mastering BGP",
+      "url": "https://www.udemy.com/course/xtreme-bgp/"
+    },
+    {
+      "title": "AZ-900: Microsoft Azure Fundamentals Exam Prep in 3 Days!",
+      "url": "https://www.udemy.com/course/az900_azure/"
+    },
+    {
+      "title": "Supercourse - Ultimate Advanced Kubernetes Bootcamp",
+      "url": "https://www.udemy.com/course/kubernetes-certified-administrator/"
+    },
+    {
+      "title": "Penetration Testing for the eJPT Certification",
+      "url": "https://www.udemy.com/course/penetration-testing-for-the-ejpt-certification/"
+    },
+    {
+      "title": "SC-900: Microsoft Security, Compliance, & Identity with SIMS",
+      "url": "https://www.udemy.com/course/sc-900-microsoft-security-compliance-identity-with-sims/"
+    },
+    {
+      "title": "Complete Guide on RHCE-EX294 (RHEL8)-Unofficial",
+      "url": "https://www.udemy.com/course/complete-guide-on-rhce-ex294-rhel8-unofficial/"
+    },
+    {
+      "title": "Practice Tests: ServiceNow IT Service Management (CIS-ITSM)",
+      "url": "https://www.udemy.com/course/servicenow-it-service-management-cis-itsm-mainline-exam-practice-tests/"
+    },
+    {
+      "title": "Salesforce Certified Sharing and Visibility Architect Course",
+      "url": "https://www.udemy.com/course/salesforce-certified-sharing-and-visibility-designer-course/"
+    },
+    {
+      "title": "AWS Athena Tutorial with Hands on LAB | Serverless Querying",
+      "url": "https://www.udemy.com/course/aws-athena-tutorial/"
+    },
+    {
+      "title": "Professional Certificate of IBM SPSS Statistics Expert",
+      "url": "https://www.udemy.com/course/professional-certificate-of-ibm-spss-statistics-expert/"
+    },
+    {
+      "title": "Google Cloud Digital Leader Certification For Beginner - GCP",
+      "url": "https://www.udemy.com/course/google-cloud-digital-leader-certification-guide/"
+    },
+    {
+      "title": "CompTIA Advanced Security Practitioner (CASP+ Exam CAS-003)",
+      "url": "https://www.udemy.com/course/comptia-advanced-security-practitioner-casp-exam-cas-003/"
+    },
+    {
+      "title": "Google Certified Associate Cloud Engineer Practice Exams",
+      "url": "https://www.udemy.com/course/google-certified-associate-cloud-engineer-practice-exams-gcp/"
+    },
+    {
+      "title": "Mastering Healthcare Fundamentals",
+      "url": "https://www.udemy.com/course/mastering-healthcare-fundamentals/"
+    },
+    {
+      "title": "[Practice Exams] OCI 2021 Architect 1Z0-1072-21",
+      "url": "https://www.udemy.com/course/practice-exams-oci-2020-architect-1z0-1072-20/"
+    },
+    {
+      "title": "[RETIRED] Practice Exams | AWS Data Analytics Specialty",
+      "url": "https://www.udemy.com/course/practice-exams-aws-certified-data-analytics-specialty/"
+    },
+    {
+      "title": "SC-900: Microsoft Security, Compliance, and Identity + Test",
+      "url": "https://www.udemy.com/course/sc-900-microsoft-security-compliance-and-identity/"
+    },
+    {
+      "title": "Python And Django Framework For Beginners Complete Course",
+      "url": "https://www.udemy.com/course/python-and-django-for-beginners/"
+    },
+    {
+      "title": "Learn to Create AI Voice Assistant (JARVIS) With Python",
+      "url": "https://www.udemy.com/course/learn-to-create-ai-voice-assistant-jarvis-with-python/"
+    },
+    {
+      "title": "Mule 4: Design API with RAML 1.0",
+      "url": "https://www.udemy.com/course/mule-api-design-with-raml/"
+    },
+    {
+      "title": "ServiceNow System Administrator from 0 to Hero",
+      "url": "https://www.udemy.com/course/servicenow-system-administration-from-0-to-hero/"
+    },
+    {
+      "title": "CyberArk Certification with IAM & PAM Guidelines | Mastery |",
+      "url": "https://www.udemy.com/course/cyberark-certification-with-iam-pam-guidelines-mastery/"
+    },
+    {
+      "title": "Google Cloud Digital Cloud Leader Certification Crash Course",
+      "url": "https://www.udemy.com/course/google-cloud-digital-cloud-leader-certification-crash-course/"
+    },
+    {
+      "title": "Real time Full Azure training for System Administrators",
+      "url": "https://www.udemy.com/course/azure-training/"
+    },
+    {
+      "title": "Azure Crash Course - The basics with Hands-On in 3 hours!",
+      "url": "https://www.udemy.com/course/introtoazure/"
+    },
+    {
+      "title": "Pearson INF-201: Information Technology Specialist Databases",
+      "url": "https://www.udemy.com/course/98-364-database-fundamentals-microsoft-sql-server/"
+    },
+    {
+      "title": "Master Dynamics 365 Tables, Relationships, And Columns.",
+      "url": "https://www.udemy.com/course/mb2-716-microsoft-dynamics-365-customization-and-configuration-part-2/"
+    },
+    {
+      "title": "CISSP Easy/Mid practice questions: Domain 5 & 6 - 2025 Exam",
+      "url": "https://www.udemy.com/course/cissp-domain5-6/"
+    },
+    {
+      "title": "Crash Course to pass the Microsoft 365 Fundamentals MS-900",
+      "url": "https://www.udemy.com/course/crash-course-to-pass-the-microsoft-365-fundamentals-ms-900/"
+    },
+    {
+      "title": "Google Cloud Professional Database Engineer Certification",
+      "url": "https://www.udemy.com/course/google-cloud-database/"
+    },
+    {
+      "title": "Kubernetes and Cloud Native Associate (KCNA) Practice Exams",
+      "url": "https://www.udemy.com/course/kcna-exams/"
+    },
+    {
+      "title": "CompTIA Server+ Certification Exam Training SK0-005 Server+",
+      "url": "https://www.udemy.com/course/comptia-server-certification-exam-training-sk0-005-server-plus/"
+    },
+    {
+      "title": "2025-Using Gen AI & AI Agent in Software Automation Testing",
+      "url": "https://www.udemy.com/course/generative-ai-in-software-automation-testing/"
+    },
+    {
+      "title": "Lab setup & Test course for Red Hat EX180, covers EX188",
+      "url": "https://www.udemy.com/course/lab-setup-and-test-course-for-redhat-ex180-podman-openshift/"
+    },
+    {
+      "title": "Prompt Engineering Professional Certification",
+      "url": "https://www.udemy.com/course/prompt-engineering-expert/"
+    },
+    {
+      "title": "MS-500 Microsoft 365 Security Administration Complete Prep",
+      "url": "https://www.udemy.com/course/ms-500-microsoft-365-security-administration-complete-prep/"
+    },
+    {
+      "title": "CompTIA A+ Core 1 (220-1101) & Core 2 (220-1102) - 2025",
+      "url": "https://www.udemy.com/course/it-cert-doctor-comptia-a-220-1101-1102/"
+    },
+    {
+      "title": "AWS Certified Database Specialty Practice Exams",
+      "url": "https://www.udemy.com/course/aws-certified-database-specialty-practice-exams-dbs-c01/"
+    },
+    {
+      "title": "Understand the CCSK Cloud Security Certification (INTRODUCT)",
+      "url": "https://www.udemy.com/course/understanding-ccsk-v4/"
+    },
+    {
+      "title": "Google Cloud (GCP) Professional Cloud Architect",
+      "url": "https://www.udemy.com/course/gcp-architect-am/"
+    },
+    {
+      "title": "Cisco ICND1 - CCENT (100-105) - A Complete Guide",
+      "url": "https://www.udemy.com/course/cisco-icnd1-ccent-100-105-a-complete-guide/"
+    },
+    {
+      "title": "Aruba ClearPass Associate Training With Labs ACNSA ACCA",
+      "url": "https://www.udemy.com/course/huki-aruba-clearpass-associate-training-essentials-with-labs/"
+    },
+    {
+      "title": "The New CCNA Exam v1.0 (200-301) By Hexa CCIE Khawar Butt",
+      "url": "https://www.udemy.com/course/the-new-ccna-exam-v10-200-301-by-hexa-ccie-khawar-butt/"
+    },
+    {
+      "title": "Certified Kubernetes Application Developer 2025",
+      "url": "https://www.udemy.com/course/mastering-certified-kubernetes-application-developer/"
+    },
+    {
+      "title": "The Complete Linux LPIC-1 Certification Course Exams 101-102",
+      "url": "https://www.udemy.com/course/linux-lpic-1-certification-complete-course/"
+    },
+    {
+      "title": "Clear and Simple VMware vSphere 6.5 Foundations VCP - Part 2",
+      "url": "https://www.udemy.com/course/vsphere65foundations2/"
+    },
+    {
+      "title": "Cisco Data Centers | VXLAN EVPN",
+      "url": "https://www.udemy.com/course/ccie-data-center-vxlan-evpn/"
+    },
+    {
+      "title": "Master SAFe 6.0 Release Train Engineer (SAFe RTE) Essentials",
+      "url": "https://www.udemy.com/course/master-safe-60-release-train-engineer-safe-rte-essentials/"
+    },
+    {
+      "title": "MikroTik Basic - Module 1 based on the MTCNA training course",
+      "url": "https://www.udemy.com/course/mikrotik-basic-module-1/"
+    },
+    {
+      "title": "C#/.NET - 50 Essential Interview Questions (Mid Level)",
+      "url": "https://www.udemy.com/course/csharpnet-50-essential-interview-questions-mid-level/"
+    },
+    {
+      "title": "Ultimate AWS Certified Developer Associate 2025 DVA-C02",
+      "url": "https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/"
+    },
+    {
+      "title": "Scrum Developer Professional - Preparation Course",
+      "url": "https://www.udemy.com/course/professional-scrum-developer/"
+    },
+    {
+      "title": "Crash course to pass the Microsoft Azure Fundamentals AZ900",
+      "url": "https://www.udemy.com/course/crash-course-to-pass-the-microsoft-azure-fundamentals-az900/"
+    },
+    {
+      "title": "Azure Migrate: Discover, Assess, Migrate & A to Z Demo",
+      "url": "https://www.udemy.com/course/azure-migrate-discover-assess-migrate/"
+    },
+    {
+      "title": "AZ-900: Microsoft Azure Fundamentals Certification Training",
+      "url": "https://www.udemy.com/course/mastering-azure-fundamentals/"
+    },
+    {
+      "title": "SC-100 Microsoft Cybersecurity Architect course with sims",
+      "url": "https://www.udemy.com/course/microsoft-cybersecurity-architect-course-with-sims/"
+    },
+    {
+      "title": "MTA 98-364: Database Fundamentals Prep Exam",
+      "url": "https://www.udemy.com/course/mta-98-364-database-fundamentals-prep-exam/"
+    },
+    {
+      "title": "Become an AWS Certified Cloud Practitioner: 2020 - Updated",
+      "url": "https://www.udemy.com/course/become-an-aws-certified-cloud-practitioner-2019/"
+    },
+    {
+      "title": "ISO 27001:2022 Foundation by Example",
+      "url": "https://www.udemy.com/course/iso-27001-foundation-by-example/"
+    },
+    {
+      "title": "[2025] SnowPro Advanced Architect COURSE",
+      "url": "https://www.udemy.com/course/snowpro-advanced-architect-certification-course/"
+    },
+    {
+      "title": "Accelerated Learning: Study Skills for Success: IT industry",
+      "url": "https://www.udemy.com/course/accelerated-certification-techniques/"
+    },
+    {
+      "title": "Salesforce Experience (aka Community) Cloud Complete Guide",
+      "url": "https://www.udemy.com/course/salesforce-experience-aka-community-cloud-complete-guide/"
+    },
+    {
+      "title": "ACP-620 Jira Cloud Certification Exam Practices 2025",
+      "url": "https://www.udemy.com/course/jira-cloud-certification-exam-practices-acp-620-managing-jira-projects/"
+    },
+    {
+      "title": "Hands on Google cloud platform(GCP)--- Cloud Architect",
+      "url": "https://www.udemy.com/course/hands-on-google-cloud-platformgcp-cloud-architect/"
+    },
+    {
+      "title": "AZ-104 Microsoft Azure Administrator: AZ-104 Practice Tests",
+      "url": "https://www.udemy.com/course/az-104-practice-tests-microsoft-azure-administrator/"
+    },
+    {
+      "title": "Databricks Certified Data Analyst Associate: Practice Exams",
+      "url": "https://www.udemy.com/course/databricks-certified-data-analyst-associate-practice-exams-j/"
+    },
+    {
+      "title": "Ultimate CKA | Certified Kubernetes Administrator",
+      "url": "https://www.udemy.com/course/ultimate-cka-certified-kubernetes-administrator/"
+    },
+    {
+      "title": "Cisco CCENT Packet Tracer Ultimate labs: ICND1 Exam prep lab",
+      "url": "https://www.udemy.com/course/cisco-ccent-packet-tracer-ultimate-labs-icnd1-exam-prep-lab/"
+    },
+    {
+      "title": "Subnetting - Become a Subnet Master!",
+      "url": "https://www.udemy.com/course/subnetting-become-a-master/"
+    },
+    {
+      "title": "Google Cloud Digital Leader Certification - For Beginners",
+      "url": "https://www.udemy.com/course/google-cloud-digital-leader-certification-for-gcp-beginner/"
+    },
+    {
+      "title": "AZ-104 Practice Tests : Microsoft Azure Administrator (2025)",
+      "url": "https://www.udemy.com/course/microsoft-azure-administrator-az-104-practice-tests-latest/"
+    },
+    {
+      "title": "Java Training Crash Course for Java Beginners",
+      "url": "https://www.udemy.com/course/java-training-crash-course-2022/"
+    },
+    {
+      "title": "Microsoft MB-910 Cert Course: Dynamics 365 Fundamentals-CRM",
+      "url": "https://www.udemy.com/course/mb-901-course/"
+    },
+    {
+      "title": "Become AWS Certified - Solutions Architect Associate 2018",
+      "url": "https://www.udemy.com/course/awscsarch/"
+    },
+    {
+      "title": "The Bible of Competitive Programming & Coding Interviews",
+      "url": "https://www.udemy.com/course/the-bible-of-algorithms-and-interview-questions/"
+    },
+    {
+      "title": "Cisco Networking Fundamentals - CCNA Prep",
+      "url": "https://www.udemy.com/course/cisco-networking-fundamentals/"
+    },
+    {
+      "title": "CompTIA IT Fundamentals Exam FC0-U61 Simplified",
+      "url": "https://www.udemy.com/course/comptia-it-fundamentals-simplified/"
+    },
+    {
+      "title": "Introduction to Cisco Networking - CCNA Prep",
+      "url": "https://www.udemy.com/course/intro-to-cisco-networking/"
+    },
+    {
+      "title": "Certified Cloud Security Professional (CCSP)",
+      "url": "https://www.udemy.com/course/certified-cloud-security-professional/"
+    },
+    {
+      "title": "Latest Google Cloud Architect Practice Test Question",
+      "url": "https://www.udemy.com/course/gcp-arch-exam-practice/"
+    },
+    {
+      "title": "MikroTik Traffic Control with LABS",
+      "url": "https://www.udemy.com/course/mikrotik-traffic-control-with-labs/"
+    },
+    {
+      "title": "Become the Ultimate Certified MuleSoft Architect - MCIA/MCPA",
+      "url": "https://www.udemy.com/course/become-the-ultimate-certified-mulesoft-architect-mciamcpa/"
+    },
+    {
+      "title": "Ultimate Agile Scrum Master Certification Course 2025",
+      "url": "https://www.udemy.com/course/ultimate-agile-scrum/"
+    },
+    {
+      "title": "RHCE Linux System Engineer Complete Course",
+      "url": "https://www.udemy.com/course/centos-7-system-engineer-complete-course/"
+    },
+    {
+      "title": "Pharma Computer System Validation (CSV & Quality)",
+      "url": "https://www.udemy.com/course/pharma-computer-system-validation-csv-quality/"
+    },
+    {
+      "title": "CCNA and CCNP Real World Labs - Data Centers and Cabling",
+      "url": "https://www.udemy.com/course/ccna-and-ccnp-real-world-labs-data-centers-and-cabling/"
+    },
+    {
+      "title": "Microsoft 365 (Office 365) Administration Training",
+      "url": "https://www.udemy.com/course/microsoft365-admin-training/"
+    },
+    {
+      "title": "SAFE 6.0 Scrum Master - Certified SAFE 6 Scrum Master SSM",
+      "url": "https://www.udemy.com/course/safe-scrum-master-ssm-safe-6-exams/"
+    },
+    {
+      "title": "Cisco CCNA",
+      "url": "https://www.udemy.com/course/cisco-ccna-kiel/"
+    },
+    {
+      "title": "AZ-801 Configuring Windows Server Hybrid Advanced Services",
+      "url": "https://www.udemy.com/course/az-801-configuring-windows-server-hybrid-advanced-services-i/"
+    },
+    {
+      "title": "Azure AI Fundamentals AI-900 - Practice Tests (2025)",
+      "url": "https://www.udemy.com/course/azure-ai-fundamentals-ai-900-practice-tests/"
+    },
+    {
+      "title": "Mastering Cybersecurity: Essential Knowledge and Techniques",
+      "url": "https://www.udemy.com/course/mastering-cybersecurity-essential-knowledge-and-techniques/"
+    },
+    {
+      "title": "Agile Scrum Master Certification 2025 : Master for Growth",
+      "url": "https://www.udemy.com/course/mastering-agile-scrum-workshop/"
+    },
+    {
+      "title": "AI-102: Microsoft Certified Azure AI Engineer Associate Prep",
+      "url": "https://www.udemy.com/course/microsoft-azure-ai-services/"
+    },
+    {
+      "title": "Dynamics 365 Finance&Operations: Financials Part2/3 MB-310",
+      "url": "https://www.udemy.com/course/mb310-dynamics-365-financeoperations-financials-part2/"
+    },
+    {
+      "title": "AWS Certified Solutions Architect Associate 2025 – SAA-C03",
+      "url": "https://www.udemy.com/course/aws-certified-solutions-architect-associate-certification-saa-c03/"
+    },
+    {
+      "title": "Linux Super Cert Prep: Get Certified as a Linux System Admin",
+      "url": "https://www.udemy.com/course/level1-linux-intro/"
+    },
+    {
+      "title": "AZ-500 Microsoft Azure Security Technologies with SIMS",
+      "url": "https://www.udemy.com/course/az-500-microsoft-azure-security-technologies-with-sims/"
+    },
+    {
+      "title": "XSS Survival Guide",
+      "url": "https://www.udemy.com/course/xss-survival-guide/"
+    },
+    {
+      "title": "Part 2: AWS Certified Solutions Architect SAA C03 [2025]",
+      "url": "https://www.udemy.com/course/2-aws-certified-solutions-architect-guide-question-bank/"
+    },
+    {
+      "title": "Certified Disaster Recovery Engineer (CDRE)",
+      "url": "https://www.udemy.com/course/certified-disaster-recovery-engineer-cdre_updated-2020/"
+    },
+    {
+      "title": "CCNA 200-301 v1.1 Certification Prep Course",
+      "url": "https://www.udemy.com/course/cisco-ccna-200-301-certification-guide/"
+    },
+    {
+      "title": "GCP CDL Google Cloud Digital Leader Practice Test Exam",
+      "url": "https://www.udemy.com/course/latest-gcp-cdl-google-cloud-digital-leader-practice-exams-tests/"
+    },
+    {
+      "title": "AWS Certified Advanced Networking Specialty Course [ANS-CO1]",
+      "url": "https://www.udemy.com/course/aws-advanced-networking-specialty-ans/"
+    },
+    {
+      "title": "Big Data Hadoop and Spark with Scala",
+      "url": "https://www.udemy.com/course/big-data-harish/"
+    },
+    {
+      "title": "Cisco Troubleshooting Labs For CCNA, CCNP, and CCIE Students",
+      "url": "https://www.udemy.com/course/cisco-troubleshooting-labs-for-ccna-ccnp-and-ccie-students/"
+    },
+    {
+      "title": "Practice Exams | Oracle Database SQL 1Z0-071",
+      "url": "https://www.udemy.com/course/oracle-database-sql-1z0-071-practice-exams/"
+    },
+    {
+      "title": "Practice Exams | AWS Certified AI Practitioner (AIF-C01)",
+      "url": "https://www.udemy.com/course/aws-ai-practitioner-certification-aif-c01-practice-exams/"
+    },
+    {
+      "title": "Master MS Dynamics 365 Business Rules, Workflows & BPFs",
+      "url": "https://www.udemy.com/course/mb2-716-microsoft-dynamics-365-customization-and-configuration-part-4/"
+    },
+    {
+      "title": "CISSP EASY/MID questions #3 - ALL CISSP domains 250 Q - 2025",
+      "url": "https://www.udemy.com/course/cissp-certification-practice-exam-3/"
+    },
+    {
+      "title": "CCNP Route -300-101",
+      "url": "https://www.udemy.com/course/ccnp-route-300-101/"
+    },
+    {
+      "title": "Salesforce Associate Certification - Pass Fast",
+      "url": "https://www.udemy.com/course/salesforce-associate-certification/"
+    },
+    {
+      "title": "CompTIA A+ CompTIA A+ 220-1201, CompTIA A+ 220-1202 Prep Lab",
+      "url": "https://www.udemy.com/course/comptia-a-comptia-a-220-1101-comptia-a-220-1102-prep-lab/"
+    },
+    {
+      "title": "CCNP Switch Verison 2.0 (300-115)",
+      "url": "https://www.udemy.com/course/ccnpswitchv2/"
+    },
+    {
+      "title": "Practice ISTQB Agile Exams & Explanation",
+      "url": "https://www.udemy.com/course/istqb-agile-exams/"
+    },
+    {
+      "title": "AWS Certified Cloud Practitioner 8 High level Test (520 Q)",
+      "url": "https://www.udemy.com/course/aws-practitioner-455/"
+    },
+    {
+      "title": "AZ-104 Azure Administrator Practice Test",
+      "url": "https://www.udemy.com/course/az-100-azure-administrator-infrastructure-practice-test/"
+    },
+    {
+      "title": "Information Security Professional Certification",
+      "url": "https://www.udemy.com/course/information_security_expert/"
+    },
+    {
+      "title": "Apple Certified Support Professional Training 2025",
+      "url": "https://www.udemy.com/course/apple-certified-support-professional-training-2024/"
+    },
+    {
+      "title": "Microsoft Applied Skills: processes using Power Automate",
+      "url": "https://www.udemy.com/course/microsoft-applied-skills-processes-using-power-automate/"
+    },
+    {
+      "title": "CRISC Certified in Risk and Information Systems Control",
+      "url": "https://www.udemy.com/course/crisc-certified-in-risk-and-information-systems-control-m/"
+    },
+    {
+      "title": "CCIE Routing & Switching Version 5.0 - Layer 2",
+      "url": "https://www.udemy.com/course/cciersv5/"
+    },
+    {
+      "title": "AZ-900: Azure Fundamentals Practice Tests",
+      "url": "https://www.udemy.com/course/az-900-practice-test/"
+    },
+    {
+      "title": "Tableau Desktop Specialist + Data Analyst Certification",
+      "url": "https://www.udemy.com/course/tableau-desktop-specialist-data-analyst-certification/"
+    },
+    {
+      "title": "Java Certificat Prep: OCA (1Z0-808) & OCP (1Z0-829, 1Z0-830)",
+      "url": "https://www.udemy.com/course/java-certification-exam-prep-oca-1z0-808-ocp-1z0-829/"
+    },
+    {
+      "title": "User Interface Design Professional Certification",
+      "url": "https://www.udemy.com/course/user-interface-design/"
+    },
+    {
+      "title": "C++ Programming - From Scratch to Advanced",
+      "url": "https://www.udemy.com/course/cpp-programming-from-scratch-to-advanced/"
+    },
+    {
+      "title": "Salesforce Platform App Builder Certification Course",
+      "url": "https://www.udemy.com/course/salesforce-platform-app-builder-certification-course-2020/"
+    },
+    {
+      "title": "Angular 19 - Beginner to Expert + Interview Q&A + E-commerce",
+      "url": "https://www.udemy.com/course/mastering-angular-new-interview-questions/"
+    },
+    {
+      "title": "Ultimate AWS Certified Solutions Architect Associate 2025",
+      "url": "https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/"
+    },
+    {
+      "title": "Business Analysis Techniques - ECBA, CCBA, CBAP Endorsed",
+      "url": "https://www.udemy.com/course/business-analysis-techniques-ecba-ccba-cbap-endorsed/"
+    },
+    {
+      "title": "Become 100% Confident RPA UiPath Developer- Build 8 Projects",
+      "url": "https://www.udemy.com/course/go-from-zero-to-hero-build-rpa-uipath-projects-from-scratch/"
+    },
+    {
+      "title": "Cisco Software-Defined Access (SDA) Training With Lab",
+      "url": "https://www.udemy.com/course/cisco-software-defined-access-sda-training-with-lab/"
+    },
+    {
+      "title": "RETIRED** Azure AI Fundamentals AI-900 practice exams",
+      "url": "https://www.udemy.com/course/ai-900-practice-tests/"
+    },
+    {
+      "title": "Cisco CCNA 200-301 V1.1 Complete Course with Real Labs",
+      "url": "https://www.udemy.com/course/networkforyouccna/"
+    },
+    {
+      "title": "Microsoft DP-600 prep: Fabric Analytics Engineer Associate",
+      "url": "https://www.udemy.com/course/dp-600-implementing-analytics-solutions-using-microsoft-fabric/"
+    },
+    {
+      "title": "CISSP Certification Complete Course - 35+ Hrs & 3600 Q&A",
+      "url": "https://www.udemy.com/course/cissp-english/"
+    },
+    {
+      "title": "Kubernetes - Certified Kubernetes Administrator (CKA)",
+      "url": "https://www.udemy.com/course/kubernetes-hands-on-the-complete-guide/"
+    },
+    {
+      "title": "Cisco CCNA & NEW CCENT / ICND1 (100-105) Labs & More!",
+      "url": "https://www.udemy.com/course/cisco-ccna-200-120-labs-gateway-to-success/"
+    },
+    {
+      "title": "Cisco Meraki Wireless Course with Labs",
+      "url": "https://www.udemy.com/course/veyhurdam-cisco-meraki-wireless-course-with-labs/"
+    },
+    {
+      "title": "The Complete Splunk Core Certified User Course - SPLK-1001",
+      "url": "https://www.udemy.com/course/the-complete-splunk-core-certified-user-course-splk-1001/"
+    },
+    {
+      "title": "The Complete Salesforce Advanced Administrator Certification",
+      "url": "https://www.udemy.com/course/the-complete-salesforce-advanced-administrator-certification/"
+    },
+    {
+      "title": "Python PCEP Certification Practice Tests",
+      "url": "https://www.udemy.com/course/pcep-certification-practice-tests/"
+    },
+    {
+      "title": "Cisco CyberOps Associate CBROPS 200-201: Part 2 Course",
+      "url": "https://www.udemy.com/course/cisco-cyber-security-operations/"
+    },
+    {
+      "title": "[old] Building AWS Basic Architecture for super beginners",
+      "url": "https://www.udemy.com/course/building-aws-architecture-for-super-beginners/"
+    },
+    {
+      "title": "MCD- MuleSoft Certified Developer - Practice Tests",
+      "url": "https://www.udemy.com/course/mcd-mulesoft-certified-developer-exam-practice-tests/"
+    },
+    {
+      "title": "MCSD 70-483 C# Preparation Course + 2 Full Practice Exams",
+      "url": "https://www.udemy.com/course/mcsd-70-483-c-sharp-complete-preparation-course-practice-exams/"
+    },
+    {
+      "title": "MS-900 Exam: Microsoft 365 Fundamentals Course + DEC 2021",
+      "url": "https://www.udemy.com/course/microsoft-365-certification/"
+    },
+    {
+      "title": "Introduction to Containers on AWS - ECS, EKS, and Fargate",
+      "url": "https://www.udemy.com/course/ecsandfargate/"
+    },
+    {
+      "title": "CISSP EASY/MID questions #2 - ALL CISSP domains 250 Q - 2025",
+      "url": "https://www.udemy.com/course/cissp-certification-practice-exam-2/"
+    },
+    {
+      "title": "Java Complete Course Using Visual Studio Code",
+      "url": "https://www.udemy.com/course/java-complete-course-using-visual-studio-code/"
+    },
+    {
+      "title": "Clear and Simple AWS Advanced Security 2022",
+      "url": "https://www.udemy.com/course/awssecurity/"
+    },
+    {
+      "title": "Agile Project Manager 4.0 : Master Agile Project Management",
+      "url": "https://www.udemy.com/course/agile-project-manager-masterclass/"
+    },
+    {
+      "title": "2025-End to End Test Automation with Playwright (TS/C#/Java)",
+      "url": "https://www.udemy.com/course/e2e-playwright/"
+    },
+    {
+      "title": "Salesforce Platform Developer Masterclass: Apex & Lightning",
+      "url": "https://www.udemy.com/course/salesforce-platform-developer-masterclass-apex-lightning-visualforce/"
+    },
+    {
+      "title": "Mastering LookML: Looker's Modeling Language",
+      "url": "https://www.udemy.com/course/looker-lookml/"
+    },
+    {
+      "title": "MikroTik Security Engineer with LABS",
+      "url": "https://www.udemy.com/course/mikrotik-security-engineer-with-labs/"
+    },
+    {
+      "title": "MuleSoft Developer Level 2 - Practice Exam Walkthrough",
+      "url": "https://www.udemy.com/course/mulesoft-certified-developer-level-2-practice-exam-walkthrough/"
+    },
+    {
+      "title": "Windows Server 2016 -- Certification 70-740 Training",
+      "url": "https://www.udemy.com/course/mastering-microsoft-windows-server/"
+    },
+    {
+      "title": "Google Certified Associate Cloud Engineer Practice Tests",
+      "url": "https://www.udemy.com/course/google-certified-associate-cloud-engineer-practice-tests-x/"
+    },
+    {
+      "title": "Practice Exams | AWS Certified Security – Specialty",
+      "url": "https://www.udemy.com/course/practice-exams-aws-certified-security-specialty/"
+    },
+    {
+      "title": "Snowpark : Data engineering with Snowflake.",
+      "url": "https://www.udemy.com/course/snowpark-data-engineering-with-snowflake/"
+    },
+    {
+      "title": "Ultimate AWS Certified Solutions Architect Associate SAA-C03",
+      "url": "https://www.udemy.com/course/aws-certified-solution-architect-associate-2019/"
+    },
+    {
+      "title": "AWS Certified Cloud Practitioner CLF-C01 Exam Questions",
+      "url": "https://www.udemy.com/course/simulado-aws-certified-cloud-practitioner/"
+    },
+    {
+      "title": "CCA131 Cloudera CDH 5 & 6 Hadoop Administrator Master Course",
+      "url": "https://www.udemy.com/course/cca131-demystify-cloudera-distributed-hadoop-administration/"
+    },
+    {
+      "title": "Microsoft 70-741 – Networking with Windows Server 2016",
+      "url": "https://www.udemy.com/course/microsoft-70-741-networking-with-windows-server-2016/"
+    },
+    {
+      "title": "Practice Test Pack for the TOGAF EA Foundation Certification",
+      "url": "https://www.udemy.com/course/togaf-practice-test/"
+    },
+    {
+      "title": "Bash Shell Scripting: From Zero To Automation",
+      "url": "https://www.udemy.com/course/bash-shell-scripting-learn-by-creating-6-real-world-scripts/"
+    },
+    {
+      "title": "HashiCorp Certified: Vault Associate 003 - Practice Exams",
+      "url": "https://www.udemy.com/course/hashicorp-certified-vault-associate-practice-exam/"
+    },
+    {
+      "title": "Cisco ICND2 200-105 - CCNA Bootcamp",
+      "url": "https://www.udemy.com/course/cisco-icnd2/"
+    },
+    {
+      "title": "Batch Scripting Made Easy: Step-by-Step Guide for Beginners",
+      "url": "https://www.udemy.com/course/batch-scriptingcmdms-dos-windows-for-beginners/"
+    },
+    {
+      "title": "AWS Certified SAP on AWS Specialty - Hands On Guide",
+      "url": "https://www.udemy.com/course/aws-certified-sap-on-aws-specialty/"
+    },
+    {
+      "title": "CompTIA Security+ (SY0-701) Practice Exams Set 2",
+      "url": "https://www.udemy.com/course/comptia-security-sy0-701-practice-exams-2nd-edition/"
+    },
+    {
+      "title": "Become An Expert At Microsoft Dynamics 365 Online Deployment",
+      "url": "https://www.udemy.com/course/mb2-715-certification-preparation-course-with-exam-notes/"
+    },
+    {
+      "title": "Amazon SageMaker",
+      "url": "https://www.udemy.com/course/amazon-sagemaker-course/"
+    },
+    {
+      "title": "Spring Professional Certification Exam Tutorial - Module 04",
+      "url": "https://www.udemy.com/course/spring-professional-certification-exam-tutorial-module-04-spring-boot/"
+    },
+    {
+      "title": "Master Matillion: ETL & Cloud Data Integration for Success",
+      "url": "https://www.udemy.com/course/master-matillion-etl-cloud-data-integration-for-success-i/"
+    },
+    {
+      "title": "Android TDD Masterclass - Coroutines, Jetpack",
+      "url": "https://www.udemy.com/course/android-11-tdd-masterclass/"
+    },
+    {
+      "title": "SAP ABAP Netweaver 7.50 certification preparation test",
+      "url": "https://www.udemy.com/course/sap-abap-netweaver-750-certification-preparation-test/"
+    },
+    {
+      "title": "SSCP Certification Complete Training Course - Updated 2025",
+      "url": "https://www.udemy.com/course/sscp-training-english-isc2/"
+    },
+    {
+      "title": "ChatGPT Prompt Engineering Mastery",
+      "url": "https://www.udemy.com/course/chatgpt-prompt-engineering-mastery/"
+    },
+    {
+      "title": "MO-210 prep: Microsoft Excel (from beginner to intermediate)",
+      "url": "https://www.udemy.com/course/mo-210-microsoft-excel-microsoft-365-apps/"
+    },
+    {
+      "title": "SolarWinds NPM Training Course | NCM | NTA | Full LAB",
+      "url": "https://www.udemy.com/course/solarwinds-npm-training-course/"
+    },
+    {
+      "title": "AWS Certified Security Specialty Practice Exams SCS-C02",
+      "url": "https://www.udemy.com/course/aws-certified-security-specialty-practice-exams-course/"
+    },
+    {
+      "title": "Salesforce Certified Platform App Builder Course",
+      "url": "https://www.udemy.com/course/salesforce-platform-app-builder-certification/"
+    },
+    {
+      "title": "MTA 98-361 Software Development Fundamentals Complete Course",
+      "url": "https://www.udemy.com/course/mta-98-361-software-development-fundamentals-complete-course/"
+    },
+    {
+      "title": "Python Complete Course And Flask Framework, HTML Essentials",
+      "url": "https://www.udemy.com/course/python-complete-course-and-flask-framework-html-2024-edition/"
+    },
+    {
+      "title": "Mastering Azure PowerShell",
+      "url": "https://www.udemy.com/course/azure-powershell/"
+    },
+    {
+      "title": "77-728 Microsoft Excel 2016 Expert Certification",
+      "url": "https://www.udemy.com/course/microsoft-excel-certification-mos-excel-expert-exam-77-728/"
+    },
+    {
+      "title": "Professional Diploma in Software Testing & Quality Assurance",
+      "url": "https://www.udemy.com/course/professional-diploma-in-software-testing-quality-assurance/"
+    },
+    {
+      "title": "The Unauthorized Ubiquiti Wireless with LABS Course",
+      "url": "https://www.udemy.com/course/ubiquiti-entreprise-wireless-with-labs-uewa/"
+    },
+    {
+      "title": "Azure Solutions Architect Certification: The Ultimate Bundle",
+      "url": "https://www.udemy.com/course/azure-solutions-architect-certification-the-ultimate-bundle/"
+    },
+    {
+      "title": "CompTIA Project+ Exam Prep",
+      "url": "https://www.udemy.com/course/comptia-project-exam-prep/"
+    },
+    {
+      "title": "MO-200 Microsoft Excel (Office 2019) Associate Certification",
+      "url": "https://www.udemy.com/course/mo-200-excel-associate-office-3652019/"
+    },
+    {
+      "title": "AI-900 Azure AI Fundamentals Complete Exam Prep",
+      "url": "https://www.udemy.com/course/ai-900-azure-ai-fundamentals-complete-exam-prep/"
+    },
+    {
+      "title": "1Z0-931- Oracle Autonomous Database Cloud Specialist",
+      "url": "https://www.udemy.com/course/1z0-931-oracle-autonomous-database-cloud-specialist/"
+    },
+    {
+      "title": "DevOps : CI/CD with Jenkins",
+      "url": "https://www.udemy.com/course/devops-cicd-with-jenkins/"
+    },
+    {
+      "title": "CCIE Security v5 by Khawar Butt",
+      "url": "https://www.udemy.com/course/ccie-security-v5-by-khawar-butt/"
+    },
+    {
+      "title": "ISO/IEC 42001: Artificial Intelligence Management System",
+      "url": "https://www.udemy.com/course/iso-42001-artificial-intelligence-management-system/"
+    },
+    {
+      "title": "Linux Certified System Admin - SA1 (RHEL7)",
+      "url": "https://www.udemy.com/course/linux-startup-red-hat-certified-systems-administrator/"
+    },
+    {
+      "title": "Java SE 11 Developer 1Z0-819 OCP Course - Part 2",
+      "url": "https://www.udemy.com/course/java-se-11-developer-1z0-819-ocp-course-part-2/"
+    },
+    {
+      "title": "CTO Chief Technology Officer Executive Certification",
+      "url": "https://www.udemy.com/course/chief-technology-officer/"
+    },
+    {
+      "title": "CISSP EASY/MID questions #4 - ALL CISSP domains 250 Q - 2025",
+      "url": "https://www.udemy.com/course/cissp-certification-practice-exam-4/"
+    },
+    {
+      "title": "AZ-900 Microsoft Azure Fundamentals + AZ900 Practice Tests",
+      "url": "https://www.udemy.com/course/az-900-microsoft-azure-fundamentals-exam-prep-course/"
+    },
+    {
+      "title": "[NEW] JNCIA-Junos JN0-105 Practice Exams",
+      "url": "https://www.udemy.com/course/jncia-practice-test/"
+    },
+    {
+      "title": "MuleSoft Anypoint Studio for Developers | Mule 4 Indepth MCD",
+      "url": "https://www.udemy.com/course/mulesoft/"
+    },
+    {
+      "title": "Becoming a Cloud Expert - Microsoft Azure IaaS - Level 1",
+      "url": "https://www.udemy.com/course/becoming-a-cloud-expert-microsoft-azure-iaas-level-1/"
+    },
+    {
+      "title": "The Ultimate ISC2 Certified in Cybersecurity (CC) Course '25",
+      "url": "https://www.udemy.com/course/certifiedincybersecurityisc2/"
+    },
+    {
+      "title": "Linux Redhat Administration III - Automation Ansible-RHEL8",
+      "url": "https://www.udemy.com/course/red-hat-system-administration-lll/"
+    },
+    {
+      "title": "AWS Certified Cloud Practitioner exam Guide to Success !!",
+      "url": "https://www.udemy.com/course/aws-practitioner-guide/"
+    },
+    {
+      "title": "Sqoop, Hive and Impala for Data Analysts (Formerly CCA 159)",
+      "url": "https://www.udemy.com/course/cca-159-data-analyst-using-sqoop-hive-and-impala/"
+    },
+    {
+      "title": "Azure AZ-500 Security Technologies Practice Test (Oct 2020)",
+      "url": "https://www.udemy.com/course/azure-az-500-security-technologies-practice-test/"
+    },
+    {
+      "title": "Data Warehousing and SQL End to End",
+      "url": "https://www.udemy.com/course/sqlendtoend/"
+    },
+    {
+      "title": "OpenText ECM Content Server - Getting Started",
+      "url": "https://www.udemy.com/course/opentext-content-server-getting-started/"
+    },
+    {
+      "title": "The Ultimate Agile Leader Certification Training",
+      "url": "https://www.udemy.com/course/the-ultimate-agile-leader-certification-training/"
+    },
+    {
+      "title": "Six Sigma Green Belt Training and Certification",
+      "url": "https://www.udemy.com/course/six-sigma-green-belt-training/"
+    },
+    {
+      "title": "Cyber Security Guidelines for Organizational Users",
+      "url": "https://www.udemy.com/course/isoiec-27001-security-guidelines-for-organizational-users/"
+    },
+    {
+      "title": "CISSP - Certified Information Systems Security Professional",
+      "url": "https://www.udemy.com/course/certified-information-systems-security-professional-cissp-x/"
+    },
+    {
+      "title": "Complete Python Basics clearly explained through Animation",
+      "url": "https://www.udemy.com/course/python-for-beginners-learn-through-animation/"
+    },
+    {
+      "title": "AZ-305 Exam Prep: Designing Azure Infrastructure Solutions",
+      "url": "https://www.udemy.com/course/az-305-exam-prep-designing-microsoft-azure-infrastructure-solutions/"
+    },
+    {
+      "title": "Cisco CCNA 200-301 Configuration Labs",
+      "url": "https://www.udemy.com/course/packet-tracer-labs/"
+    },
+    {
+      "title": "F5 BIG IP Administration - F5 EXAM 201 Preparation",
+      "url": "https://www.udemy.com/course/f5-big-ip-administration/"
+    },
+    {
+      "title": "Prompt Engineering With Gemini For Beginners",
+      "url": "https://www.udemy.com/course/prompt-engineering-with-gemini-for-beginners-u/"
+    },
+    {
+      "title": "F5 201 Exam Preparation - Complete Course w/ Practice Exams",
+      "url": "https://www.udemy.com/course/f5-201-exam/"
+    },
+    {
+      "title": "Complete Teaching of Cisco SD-WAN ( ENSDWI 300-415 )",
+      "url": "https://www.udemy.com/course/complete-teaching-of-cisco-sd-wan-ensdwi-300-415/"
+    },
+    {
+      "title": "Learn Python With 20+ Real World Projects",
+      "url": "https://www.udemy.com/course/learn-python-with-20-real-world-projects/"
+    },
+    {
+      "title": "Cisco CCNP Route (300-101): The Complete Course",
+      "url": "https://www.udemy.com/course/cisco-ccnp-route-300-101-the-complete-course/"
+    },
+    {
+      "title": "Docker and Kubernetes for beginners | DevOps journey",
+      "url": "https://www.udemy.com/course/docker-and-kubernetes-for-beginners-devops-journey/"
+    },
+    {
+      "title": "AI-102 Azure AI Engineer 100% Original Practice Exam OCT'24",
+      "url": "https://www.udemy.com/course/ai102-azure-practice/"
+    },
+    {
+      "title": "Practice Exam - AWS Certified Advanced Networking Specialty",
+      "url": "https://www.udemy.com/course/practice-exam-aws-certified-advanced-networking-specialty/"
+    },
+    {
+      "title": "Spring Professional Certification Exam Tutorial - Module 06",
+      "url": "https://www.udemy.com/course/spring-professional-certification-exam-tutorial-module-06/"
+    },
+    {
+      "title": "Terraform: The Complete Guide from Beginner to Expert",
+      "url": "https://www.udemy.com/course/mastering-terraform-beginner-to-expert/"
+    },
+    {
+      "title": "The Complete Splunk Fundamentals 1 Training Course",
+      "url": "https://www.udemy.com/course/splunk-fundamentals-1/"
+    },
+    {
+      "title": "Become a Master at ServiceNow ITSM",
+      "url": "https://www.udemy.com/course/itsm-masterclass/"
+    },
+    {
+      "title": "Certified Information Systems Security Professional (CISSP)",
+      "url": "https://www.udemy.com/course/certified-information-systems-security-professional-cissp-v/"
+    },
+    {
+      "title": "Unix Command Course for Beginners",
+      "url": "https://www.udemy.com/course/start-practical-unix-or-linux-command-line-for-everyone/"
+    },
+    {
+      "title": "CCSP-Cloud Security Professional-Important recap before Exam",
+      "url": "https://www.udemy.com/course/ccsp-cloud-security-professional-important-recap-before-exam/"
+    },
+    {
+      "title": "Intro to Cyber Security Certification - Security+ Boot Camp",
+      "url": "https://www.udemy.com/course/securityplustraining/"
+    },
+    {
+      "title": "CompTIA Network+ N10-009 Video Bootcamp",
+      "url": "https://www.udemy.com/course/comptia-network-n10_009/"
+    },
+    {
+      "title": "LPIC-1 - Linux System Administrator Masterclass",
+      "url": "https://www.udemy.com/course/lpic-1-linux-system-administrator-masterclass/"
+    },
+    {
+      "title": "Complete Agile Scrum Product Owner Certification Training",
+      "url": "https://www.udemy.com/course/complete-professional-agile-scrum-product-owner-certification-training/"
+    },
+    {
+      "title": "Tableau Desktop Specialist Certification Guide",
+      "url": "https://www.udemy.com/course/tableau-desktop-specialist-certification-guide/"
+    },
+    {
+      "title": "CCNP ROUTE 300-101 Video Boot Camp With Chris Bryant",
+      "url": "https://www.udemy.com/course/ccnp-route-on-demand-video-boot-camp/"
+    },
+    {
+      "title": "TOTAL: AWS Database Course",
+      "url": "https://www.udemy.com/course/total-aws-certified-database-specialty-exam-prep-dbs-c01/"
+    },
+    {
+      "title": "AWS Certified Machine Learning Specialty Practice Exams",
+      "url": "https://www.udemy.com/course/aws-certified-machine-learning-specialty-practice-exams-amazon/"
+    },
+    {
+      "title": "Google Professional Cloud Architect - PCA - Practice Exams",
+      "url": "https://www.udemy.com/course/google-professional-cloud-architect-gcp-pca-exams/"
+    },
+    {
+      "title": "Certified Ethical Hacking Practical Exam Prep (Unofficial)",
+      "url": "https://www.udemy.com/course/ceh-practical-complete-course-exam/"
+    },
+    {
+      "title": "FortiGate FCP_FGT_AD-7.6 Exam Prep: FCP_FGT_AD-7.4 Successor",
+      "url": "https://www.udemy.com/course/fortinet-nse4_fgt-70-exam-preparation-new-version/"
+    },
+    {
+      "title": "Learn Salesforce (Admin + Developer) with LWC Live Project",
+      "url": "https://www.udemy.com/course/learn-salesforce-admin-developer-with-lwc-live-project/"
+    },
+    {
+      "title": "Build A Multiplayer Augmented Reality (AR) Game With Unity",
+      "url": "https://www.udemy.com/course/build-multiplayer-augmented-reality-ar-games-with-photon/"
+    },
+    {
+      "title": "Google Cloud Professional Data Engineer Certification Course",
+      "url": "https://www.udemy.com/course/google-cloud-professional-data-engineer-certification-course/"
+    },
+    {
+      "title": "AI Governance Professional (AIGP) Certification Masterclass",
+      "url": "https://www.udemy.com/course/ai-governance-professional-aigp-certification-masterclass/"
+    },
+    {
+      "title": "Marketing Cloud Intro",
+      "url": "https://www.udemy.com/course/marketing-cloud-full-course/"
+    },
+    {
+      "title": "Cisco CCNA 200-301 Complete A-Z Cisco CCNA Networking Course",
+      "url": "https://www.udemy.com/course/cisco-ccna-200-301-complete-a-z-cisco-ccna-networking-course/"
+    },
+    {
+      "title": "CompTIA Server+ | CompTIA Server+ SK0-005 Certification Prep",
+      "url": "https://www.udemy.com/course/comptia-server-comptia-server-sk0-005-certification-prep/"
+    },
+    {
+      "title": "Certified Ethical Hacker (CEHv11) Exams #UNOFFICIAL#",
+      "url": "https://www.udemy.com/course/ethicalhacker/"
+    },
+    {
+      "title": "CCNP Enterprise -300-415 ENSDWI : Implementing Cisco SD-WAN",
+      "url": "https://www.udemy.com/course/ccnp-enterprise-300-415-ensdwi-implementing-cisco-sd-wan/"
+    },
+    {
+      "title": "Mastering React: React Crash Course with Mini Projects",
+      "url": "https://www.udemy.com/course/mastering-react-react-crash-course-with-mini-projects/"
+    },
+    {
+      "title": "Administration of Red Hat Enterprise Linux (2025)",
+      "url": "https://www.udemy.com/course/administrating-red-hat-enterprise-linux-el-administration/"
+    },
+    {
+      "title": "Tricentis Tosca UI & API Test Automation Tool for Beginners",
+      "url": "https://www.udemy.com/course/tricentis_tosca/"
+    },
+    {
+      "title": "Identity and Access Management:ForgeRock OpenIDM",
+      "url": "https://www.udemy.com/course/identity-and-access-management-forerock-openidm-653/"
+    },
+    {
+      "title": "Java 8 OCA (1Z0-808) Certification - Master the Fundamentals",
+      "url": "https://www.udemy.com/course/letsgetcertified-808/"
+    },
+    {
+      "title": "Python PCEP Practice Tests: Get Your PCEP Certification",
+      "url": "https://www.udemy.com/course/python-pcep-practice-tests-get-your-pcep-certification/"
+    },
+    {
+      "title": "Citrix Cloud (DAAS/CVAD) on Microsoft Azure",
+      "url": "https://www.udemy.com/course/cvad-daas/"
+    },
+    {
+      "title": "Configuring and Operating MS Azure Virtual Desktop (AZ-140)",
+      "url": "https://www.udemy.com/course/exam-az-140/"
+    },
+    {
+      "title": "CISSP Easy/Mid practice questions: Domain 3 & 4 - 2025 Exam",
+      "url": "https://www.udemy.com/course/cissp-domain3-4/"
+    },
+    {
+      "title": "AWS Certified Security Specialist",
+      "url": "https://www.udemy.com/course/aws-security-specialist/"
+    },
+    {
+      "title": "[NEW] Google Cloud Generative AI Leader - 6 Full Mock Exams",
+      "url": "https://www.udemy.com/course/google-cloud-generative-ai-leader-3-mock-generative-ai-leader-exams/"
+    },
+    {
+      "title": "AWS Certified solution architect associate high level test",
+      "url": "https://www.udemy.com/course/aws-certified-solution-architect-associate-high-level-test/"
+    },
+    {
+      "title": "Microsoft Windows 10 - MTA Windows OS Fundamentals 98-349",
+      "url": "https://www.udemy.com/course/microsoft-windows-10-mta-windows-os-fundamentals-98-349/"
+    },
+    {
+      "title": "Learn Netsuite in 10 days",
+      "url": "https://www.udemy.com/course/learn-netsuite-in-10-days/"
+    },
+    {
+      "title": "Pass MB-210 - Microsoft Dynamics 365 Sales On Your First Try",
+      "url": "https://www.udemy.com/course/pass-mb-210-exam-microsoft-dynamics-365-sales-on-your-first-try/"
+    },
+    {
+      "title": "MS-102 Bootcamp: Microsoft 365 Administrator",
+      "url": "https://www.udemy.com/course/ms-102-exam-prep-microsoft-365-administrator/"
+    },
+    {
+      "title": "The Complete Splunk Core Certified Power User Course",
+      "url": "https://www.udemy.com/course/the-complete-splunk-core-certified-power-user-course/"
+    },
+    {
+      "title": "IT Audit: Cloud Audit Fundamentals - AWS, Azure, GCP",
+      "url": "https://www.udemy.com/course/it-audit-cloud-audit-fundamentals-aws-azure-gcp/"
+    },
+    {
+      "title": "Terraform Master Course | HashiCorp Certified Terraform 2021",
+      "url": "https://www.udemy.com/course/ultimate-hashicorp-terraform-certification-study-guide-2020/"
+    },
+    {
+      "title": "AZ-900 Practice Tests for Microsoft Azure Fundamentals 2025",
+      "url": "https://www.udemy.com/course/az-900-practice-tests-course-microsoft-azure-fundamentals/"
+    },
+    {
+      "title": "Comprehensive SQL Bootcamp : Beginner to Advanced",
+      "url": "https://www.udemy.com/course/sql-with-postgresql-for-beginners/"
+    },
+    {
+      "title": "Google Cloud Certified Cloud Digital Leader Practice Tests",
+      "url": "https://www.udemy.com/course/google-cloud-certified-cloud-digital-leader-practice-tests/"
+    },
+    {
+      "title": "Databricks Certified Machine Learning Associate Exam Guide",
+      "url": "https://www.udemy.com/course/databricks-machine-learning/"
+    },
+    {
+      "title": "AWS Certified Cloud Practitioner - Theory + Hands-On + Exam",
+      "url": "https://www.udemy.com/course/awscertified/"
+    },
+    {
+      "title": "Professional Certificate in Agile and SCRUM",
+      "url": "https://www.udemy.com/course/professional-certificate-in-agile-and-scrum/"
+    },
+    {
+      "title": "CSS, JavaScript,PHP And Python Programming All in One Course",
+      "url": "https://www.udemy.com/course/css-javascriptphp-and-python-programming-all-in-one-course/"
+    },
+    {
+      "title": "Salesforce Marketing Cloud Consultant Certification",
+      "url": "https://www.udemy.com/course/salesforce-marketing-cloud-consultant-certification-sfdcfanboy/"
+    },
+    {
+      "title": "CCNA 200-301 v1.1 Exam-Level Practice Tests (400+ Questions)",
+      "url": "https://www.udemy.com/course/ccna-200-301-pre-exam-testing/"
+    },
+    {
+      "title": "CCNP Switch 642-813 Implementing Cisco IP Switched Networks",
+      "url": "https://www.udemy.com/course/ccnpswitch/"
+    },
+    {
+      "title": "CISSP Easy/Mid practice questions: Domain 7 & 8 - 2025 Exam",
+      "url": "https://www.udemy.com/course/cissp-domain7-8/"
+    },
+    {
+      "title": "Spring Professional Certification Exam Tutorial - Module 03",
+      "url": "https://www.udemy.com/course/spring-professional-certification-exam-tutorial-module-03/"
+    },
+    {
+      "title": "Product Owner Level II Certification Practice Exams - PO 2",
+      "url": "https://www.udemy.com/course/product-owner-certification-level-ii-practice-exams/"
+    },
+    {
+      "title": "Prepare the Safe 5.0 Leading Safe certificate",
+      "url": "https://www.udemy.com/course/prepare-the-safe-50-leading-safe-certificate/"
+    },
+    {
+      "title": "Hashicorp Certified: Terraform Associate 2021",
+      "url": "https://www.udemy.com/course/hashicorp-certified-terraform-associate/"
+    },
+    {
+      "title": "Generative AI solutions with Azure OpenAI",
+      "url": "https://www.udemy.com/course/microsoft-applied-skills-develop-generative-ai-solutions-azure-openai/"
+    },
+    {
+      "title": "Google Cloud - Associate Cloud Engineer Certification Course",
+      "url": "https://www.udemy.com/course/google-cloud-associate-cloud-engineer-certification-course/"
+    },
+    {
+      "title": "PCEP-30-01: Certified Entry-Level Practice Tests Certificate",
+      "url": "https://www.udemy.com/course/python-pcep-certified/"
+    },
+    {
+      "title": "Lean Six Sigma Green Belt Certification-ASCB Accredited",
+      "url": "https://www.udemy.com/course/six-sigma-green-belt-training-and-certification-r/"
+    },
+    {
+      "title": "Scrum Master Professional - Preparation Course",
+      "url": "https://www.udemy.com/course/scrum-master-professional-certification/"
+    },
+    {
+      "title": "Active Directory: Securing Active Directory Domain Services",
+      "url": "https://www.udemy.com/course/active-directory-securing-active-directory-domain-services/"
+    },
+    {
+      "title": "Time Series Analysis Real World Projects in Python",
+      "url": "https://www.udemy.com/course/time-series-analysis-real-world-projects-in-python/"
+    },
+    {
+      "title": "EX280-Certified OpenShift Administrator Exam Prep Course",
+      "url": "https://www.udemy.com/course/openshift-administration/"
+    },
+    {
+      "title": "Java Certification : OCP (1Z0-809) Exam Simulation [2025]",
+      "url": "https://www.udemy.com/course/java-ocp/"
+    },
+    {
+      "title": "Informatica Power Center Administration",
+      "url": "https://www.udemy.com/course/informatica-power-center-administration/"
+    },
+    {
+      "title": "Salesforce Certified Advanced Administrator - Part 1",
+      "url": "https://www.udemy.com/course/salesforce-advanced-administrator/"
+    },
+    {
+      "title": "[NEW] Ultimate AWS Certified Cloud Practitioner CLF-C02 2025",
+      "url": "https://www.udemy.com/course/aws-certified-cloud-practitioner-new/"
+    },
+    {
+      "title": "Mulesoft Certified Platform Architect (MCPA) Practice Tests",
+      "url": "https://www.udemy.com/course/mulesoft-certified-platform-architect-mcpa-practice-tests/"
+    },
+    {
+      "title": "Computer system validation & maintenance based on GAMP 5 2nd",
+      "url": "https://www.udemy.com/course/validation-and-maintenance-of-computerized-systems/"
+    },
+    {
+      "title": "Salesforce CPQ Training | Zero to Hero",
+      "url": "https://www.udemy.com/course/salesforce-cpq-training/"
+    }
+  ]
+}

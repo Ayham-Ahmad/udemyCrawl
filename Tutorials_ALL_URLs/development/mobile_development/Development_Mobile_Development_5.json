@@ -1,0 +1,2062 @@
+{
+  "main_category": "development",
+  "sub_category": "Mobile Development",
+  "courses": [
+    {
+      "title": "iOS 12: เขียนแอพ iPhone จากดีไซน์ UI/UX (Programmatically)",
+      "url": "https://www.udemy.com/course/ios-12-iphone-ui-ux-programmatically/"
+    },
+    {
+      "title": "Aplicativo E-Commerce - WEB Services e API",
+      "url": "https://www.udemy.com/course/aplicativo-e-commerce-web-services-e-api/"
+    },
+    {
+      "title": "Programista Swift - wprowadzenie do SwiftUI",
+      "url": "https://www.udemy.com/course/programista-swift-wprowadzenie-do-swiftui/"
+    },
+    {
+      "title": "React Native Campus: 3 Praxis‑Apps mit Expo & Firebase",
+      "url": "https://www.udemy.com/course/react-native-campus-3-praxisapps-mit-expo-firebase/"
+    },
+    {
+      "title": "Dart: Devenez un Expert avec + de 100 questions et exercices",
+      "url": "https://www.udemy.com/course/exercices_dart/"
+    },
+    {
+      "title": "Android Developer 101 Bahasa Indonesia",
+      "url": "https://www.udemy.com/course/android-developer-101-bahasa-indonesia/"
+    },
+    {
+      "title": "iOS 12 App 开发快速入门与实战(简体中文)",
+      "url": "https://www.udemy.com/course/ios-12-app-china/"
+    },
+    {
+      "title": "iOS et Swift: Cloud Firestore et les push notifications",
+      "url": "https://www.udemy.com/course/ios12-et-swift-5-cloud-firestore-et-les-push-notifications/"
+    },
+    {
+      "title": "Flutter - SQLite Datenbank - CRUD - Einfach!",
+      "url": "https://www.udemy.com/course/flutter-sqlite-datenbank-crud-einfach/"
+    },
+    {
+      "title": "iOS Development for beginners (native iOSdevelopment)",
+      "url": "https://www.udemy.com/course/ios-development-for-beginners-native-iosdevelopment/"
+    },
+    {
+      "title": "【Flutter】グラフ作成を通して図形描画に不可欠なCustomPainterを学習する",
+      "url": "https://www.udemy.com/course/flutter_graph/"
+    },
+    {
+      "title": "Android Yazılımı Onarımı - Geliştirme Giriş Seviyesi",
+      "url": "https://www.udemy.com/course/androidgelistirme/"
+    },
+    {
+      "title": "Desarrollo de aplicaciones para iOS 11 desde cero",
+      "url": "https://www.udemy.com/course/desarrollo-de-aplicaciones-para-ios-11-desde-cero/"
+    },
+    {
+      "title": "React Native spielerisch lernen",
+      "url": "https://www.udemy.com/course/react-native-spielerisch-lernen/"
+    },
+    {
+      "title": "ChatGPT ve DALL-E Kullanarak SwiftUI ile Uygulama Geliştir",
+      "url": "https://www.udemy.com/course/chatgpt-ve-dall-e-kullanarak-swiftui-ile-uygulama-gelistir/"
+    },
+    {
+      "title": "Hybrid cross platform mobile development IOS and ANDROID",
+      "url": "https://www.udemy.com/course/ios-9-development-build-15-iphone-apps-with-swift-2/"
+    },
+    {
+      "title": "最新 Android 入門開發實戰：口罩地圖 (使用 Kotlin 程式語言)",
+      "url": "https://www.udemy.com/course/hkt-kotlin-maskmap/"
+    },
+    {
+      "title": "Spiele-Apps - Programmieren lernen für Anfänger",
+      "url": "https://www.udemy.com/course/spiele-apps-programmieren-lernen-fur-anfanger/"
+    },
+    {
+      "title": "0 dan İleri Seviye Swift 5 ile İOS Mobil Uygulama Geliştirme",
+      "url": "https://www.udemy.com/course/0-dan-ileri-seviye-swift-4-ios12-mobil-uygulama-gelistirme/"
+    },
+    {
+      "title": "Cara Membuat Aplikasi Mobile Menggunakan Qt5",
+      "url": "https://www.udemy.com/course/build-mobile-application-using-qt5/"
+    },
+    {
+      "title": "Tworzenie aplikacji mobilnych | Podstawy Flutter & Dart",
+      "url": "https://www.udemy.com/course/tworzenie-aplikacji-mobilnych-podstawy-flutter-dart/"
+    },
+    {
+      "title": "Membuat Aplikasi CRUD Product dengan Flutter, PHP, MySQL",
+      "url": "https://www.udemy.com/course/membuat-aplikasi-crud-product-dengan-flutter-php-mysql/"
+    },
+    {
+      "title": "Desenvolvimento de aplicativos com React Native e Firebase",
+      "url": "https://www.udemy.com/course/desenvolvimento-de-aplicativos-com-react-native-e-firebase/"
+    },
+    {
+      "title": "SwiftUI et CoreData",
+      "url": "https://www.udemy.com/course/swiftuicoredata/"
+    },
+    {
+      "title": "Android com Firebase - Aprenda criar apps - Master Learning",
+      "url": "https://www.udemy.com/course/programadorandroid/"
+    },
+    {
+      "title": "Apprenez à Créer des applications WatchOS avec SwiftUI",
+      "url": "https://www.udemy.com/course/watchos_fr/"
+    },
+    {
+      "title": "App-Entwicklung & User Experience (UX) Design mit Android 8",
+      "url": "https://www.udemy.com/course/android-material-design-tutorial/"
+    },
+    {
+      "title": "Curso de AndroidX y Firebase con Java Login y crud de datos",
+      "url": "https://www.udemy.com/course/curso-de-android-and-firebase-con-java/"
+    },
+    {
+      "title": "Google'ın Populer Dili Flutter'ı Sıfırdan Öğrenin",
+      "url": "https://www.udemy.com/course/google-flutter-ogren/"
+    },
+    {
+      "title": "Apps erstellen ohne Programmieren",
+      "url": "https://www.udemy.com/course/apps-ohne-programmieren/"
+    },
+    {
+      "title": "الدورة الشاملة لتطوير وبرمجة تطبيقات الأندرويد بلغة كوتلن",
+      "url": "https://www.udemy.com/course/learn-android-through-building-projects-in-kotlin/"
+    },
+    {
+      "title": "الدورة الشاملة لتصميم وبرمجة برامج للماك بلغة سويفت",
+      "url": "https://www.udemy.com/course/macos-sierra/"
+    },
+    {
+      "title": "Rpg Online in Stile World of Warcraft con Unity C# [ITA] PUN",
+      "url": "https://www.udemy.com/course/rpg-online-in-stile-world-of-warcraft-con-unity-c-ita-pun/"
+    },
+    {
+      "title": "環境構築からみっちり学びたい人のためのFlutterの教科書",
+      "url": "https://www.udemy.com/course/flutter-textbook/"
+    },
+    {
+      "title": "برمجة تطبيقات الاندرويد, كوتلن | Android Development, Kotlin",
+      "url": "https://www.udemy.com/course/android-development-with-kotlin-arabic/"
+    },
+    {
+      "title": "قم بإنشاء برنامج تطبيقي محلي وبلا حاجة للبرمجة",
+      "url": "https://www.udemy.com/course/create-a-native-app-without-coding-or-programming/"
+    },
+    {
+      "title": "SwiftUI для каждого. Основы.",
+      "url": "https://www.udemy.com/course/swiftui-framework/"
+    },
+    {
+      "title": "programming Mobile Apps using MIT App Inventor (Arabic)",
+      "url": "https://www.udemy.com/course/mit_app_inventor_course_arabic_version/"
+    },
+    {
+      "title": "Créez une app de messagerie avec SwiftUI et CloudFirestore",
+      "url": "https://www.udemy.com/course/swiftui_messenger/"
+    },
+    {
+      "title": "Flutter Uzmanlığına Adım Adım / Paketler Serisi",
+      "url": "https://www.udemy.com/course/flutter-uzmanlgna-adm-adm-flutter-paketler-serisi/"
+    },
+    {
+      "title": "Développer un jeu en Réalité virtuelle avec Unity",
+      "url": "https://www.udemy.com/course/developper-un-jeu-en-realite-virtuel-cardboard-avec-unity/"
+    },
+    {
+      "title": "Flutter Basics 2025: Code Faster & Fix Errors with ChatGPT",
+      "url": "https://www.udemy.com/course/flutter-basics-2025-code-faster-fix-errors-with-chatgpt/"
+    },
+    {
+      "title": "Desarrollo de Juegos para Android con Kotlin",
+      "url": "https://www.udemy.com/course/desarrollo-de-juegos-para-android-con-kotlin/"
+    },
+    {
+      "title": "MIT app inventor 2 (AI2) de cero a master, cero codificación",
+      "url": "https://www.udemy.com/course/mit-app-inventor-2-ai2-de-cero-a-master-cero-codificacion/"
+    },
+    {
+      "title": "تمرين عملي شامل|صمم شاشة تطبيق موبايل احترافية في 9 فيديوهات",
+      "url": "https://www.udemy.com/course/9-udncrg/"
+    },
+    {
+      "title": "Cooking Flutter - Jago Flutter (Seri III)",
+      "url": "https://www.udemy.com/course/cooking-flutter-jago-flutter-seri-iii/"
+    },
+    {
+      "title": "Android Uygulama Geliştirme ve JAVA",
+      "url": "https://www.udemy.com/course/android-uygulama-gelistirme-ve-java/"
+    },
+    {
+      "title": "Programación en Kotlin: Desarrolla para Android con Kotlin",
+      "url": "https://www.udemy.com/course/programacion-kotlin-desarrolla-android-con-kotlin/"
+    },
+    {
+      "title": "The Complete App Development Bootcamp iOS 17 & Swift5 (2024)",
+      "url": "https://www.udemy.com/course/swift-beginner-course-in-tamil/"
+    },
+    {
+      "title": "برمجة تطبيق تويتر مع فلاتر واسترابي-Twitter App With Flutter",
+      "url": "https://www.udemy.com/course/twitter-app-with-flutter/"
+    },
+    {
+      "title": "Aplicativo de Gerenciamento de Produtos - E-Commerce",
+      "url": "https://www.udemy.com/course/aplicativo-de-gerenciamento-de-produtos/"
+    },
+    {
+      "title": "Ingeniería de Software y Fundamentos de Programación",
+      "url": "https://www.udemy.com/course/ingenieria-informatica-y-fundamentos-de-programacion/"
+    },
+    {
+      "title": "Flutter - Push Notifications con Firebase cloud messaging",
+      "url": "https://www.udemy.com/course/flutter-push-notifications-con-firebase-cloud-messaging/"
+    },
+    {
+      "title": "สอนสร้าง App iOS & Android ด้วย ActionScript 3.0 ภายใน 1 วัน",
+      "url": "https://www.udemy.com/course/app-ios-android-actionscript-3-thai/"
+    },
+    {
+      "title": "Flutter: Créez un clone de Tinder avec Parse et Back4App",
+      "url": "https://www.udemy.com/course/flutter_tinder/"
+    },
+    {
+      "title": "Android从开发入门到实战精通课程----Android实战应用篇",
+      "url": "https://www.udemy.com/course/android-android-a/"
+    },
+    {
+      "title": "Android Studio и Firebase - \"Доска Объявлений\" Часть 2",
+      "url": "https://www.udemy.com/course/android-studio-firebase-2/"
+    },
+    {
+      "title": "UITableView mit Swift - von A bis Z",
+      "url": "https://www.udemy.com/course/uitableview-mit-swift-von-a-bis-z/"
+    },
+    {
+      "title": "핵심만 쉽게 iOS11 and Swift4",
+      "url": "https://www.udemy.com/course/ios11-and-swift4/"
+    },
+    {
+      "title": "FLUTTER 1 ve FIREBASE ile Mobil Uygulamalar Geliştirelim",
+      "url": "https://www.udemy.com/course/flutter-ve-firebase-ile-mobil-uygulamalar-gelistirelim/"
+    },
+    {
+      "title": "Podstawy tworzenia aplikacji mobilnych we Flutterze",
+      "url": "https://www.udemy.com/course/podstawy-tworzenia-aplikacji-mobilnych-we-flutterze/"
+    },
+    {
+      "title": "Crea tu propia App de realidad aumentada",
+      "url": "https://www.udemy.com/course/realidad-aumentada-facil/"
+    },
+    {
+      "title": "FlutterFlow: Aprenda como fazer aplicativos sem código",
+      "url": "https://www.udemy.com/course/flutterflow-aprenda-como-fazer-aplicativos-sem-codigo/"
+    },
+    {
+      "title": "Ionic 2 pour les développeurs pressés",
+      "url": "https://www.udemy.com/course/ionic-2-pour-les-developpeurs-presses/"
+    },
+    {
+      "title": "Aplikasi Inventory Menggunakan Flutter, PHP, MySQL",
+      "url": "https://www.udemy.com/course/aplikasi-inventory-menggunakan-flutter-php-mysql/"
+    },
+    {
+      "title": "Ionic 4 For Beginners (in Arabic)",
+      "url": "https://www.udemy.com/course/ionic-for-beginners/"
+    },
+    {
+      "title": "Curso completo de ARKit para iOS con 5 apps profesionales",
+      "url": "https://www.udemy.com/course/arkit-en-espanol/"
+    },
+    {
+      "title": "AR / SwiftUI 超入門 - ARKit ・ RealityKit の基礎から学んでiOSアプリを作ろう",
+      "url": "https://www.udemy.com/course/ar-swiftui-arkit-realitykit-ios/"
+    },
+    {
+      "title": "Android para iniciantes",
+      "url": "https://www.udemy.com/course/android-para-iniciantes/"
+    },
+    {
+      "title": "Flutter & Dart - The Complete Guide [2025 Edition]",
+      "url": "https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/"
+    },
+    {
+      "title": "Criando meu primeiro app com Flutter.",
+      "url": "https://www.udemy.com/course/criando-meu-primeiro-app-com-flutter/"
+    },
+    {
+      "title": "【 SwiftUI 】AI ( 人工知能 ) 超入門 - アニメ顔診断する iOS アプリを作ろう",
+      "url": "https://www.udemy.com/course/swiftui-ai-anime/"
+    },
+    {
+      "title": "Apps Android en Android Studio con Java + Proyecto final",
+      "url": "https://www.udemy.com/course/aplicaciones-android-en-android-studio-con-java/"
+    },
+    {
+      "title": "iOS 10 Development - Build Apps with Swift 3",
+      "url": "https://www.udemy.com/course/ios-10-development-build-15-iphone-apps-with-swift-3/"
+    },
+    {
+      "title": "Mastering Painting in Flutter",
+      "url": "https://www.udemy.com/course/mastering-painting-in-flutter/"
+    },
+    {
+      "title": "Flutter × AWSでカレンダーアプリを開発する",
+      "url": "https://www.udemy.com/course/flutter-aws-calendar/"
+    },
+    {
+      "title": "iOS 14 Instagram ve Tinder Uygulamasını Geliştirin",
+      "url": "https://www.udemy.com/course/ios-swift-tinder-clone-sifirdan-profesyonel-uygulama-gelistirme/"
+    },
+    {
+      "title": "Crear apps para Android y iOS desde cero | Nivel Elemental",
+      "url": "https://www.udemy.com/course/curso-elemental-en-creacion-de-apps/"
+    },
+    {
+      "title": "Tutorial Flutter 3.7.1 - Clean Code Architecture - Uncle Bob",
+      "url": "https://www.udemy.com/course/tutorial-flutter-371-clean-code-architecture-uncle-bob/"
+    },
+    {
+      "title": "Xcode - программируем элементы управления на Swift для iOS",
+      "url": "https://www.udemy.com/course/xcode-uielements/"
+    },
+    {
+      "title": "MySQL com Kodular/Appinventor",
+      "url": "https://www.udemy.com/course/mysql-com-kodularappinventor/"
+    },
+    {
+      "title": "Impresor de tickets PrinterApp V2",
+      "url": "https://www.udemy.com/course/impresor-de-tickets-printerapp-v2/"
+    },
+    {
+      "title": "IONIC ve VUE 3 ile Mobil Uygulama Geliştirme Kursu",
+      "url": "https://www.udemy.com/course/ionic-ve-vue-3-ile-mobil-uygulama-gelistirme-kursu-2021/"
+    },
+    {
+      "title": "Android从开发入门到实战精通课程----Android实战篇",
+      "url": "https://www.udemy.com/course/android-android-e/"
+    },
+    {
+      "title": "Kotlin dari Nol sampai Mahir - Membuat Aplikasi E Commerce",
+      "url": "https://www.udemy.com/course/kotlin-dari-nol-sampai-mahir-membuat-aplikasi-e-commerce/"
+    },
+    {
+      "title": "Curso de AndroidX & Firebase y Kotlin Login y crud de datos",
+      "url": "https://www.udemy.com/course/curso-de-android-and-firebase-con-kotlin/"
+    },
+    {
+      "title": "Flutter & BLoC: Профессиональное Управление Состоянием",
+      "url": "https://www.udemy.com/course/flutter-bloc-s/"
+    },
+    {
+      "title": "Flutter Firebase with GetX",
+      "url": "https://www.udemy.com/course/flutter-firebase-getx-2021/"
+    },
+    {
+      "title": "Le Reskin de A à Z pour débutant , crée ton application !",
+      "url": "https://www.udemy.com/course/le-reskin-pour-debutant/"
+    },
+    {
+      "title": "Firebase & Swift пишем клиент серверное приложение (New)",
+      "url": "https://www.udemy.com/course/iphone-app-swift-firebase/"
+    },
+    {
+      "title": "(Ken Cen出品)沈浸式蘋果Apple Vision Pro程式開發",
+      "url": "https://www.udemy.com/course/apple-vision-pro/"
+    },
+    {
+      "title": "Kivy Python Development: Create Stunning Cross-Platform Apps",
+      "url": "https://www.udemy.com/course/kivymd-develop-apps-using-kivymd-in-python/"
+    },
+    {
+      "title": "Lerne die Android Programmierung in nur 2 Wochen!",
+      "url": "https://www.udemy.com/course/lerne-das-neue-android-und-werde-zum-android-entwickler/"
+    },
+    {
+      "title": "[HINDI] अपना खुद का ऐप बनाएं - React Native",
+      "url": "https://www.udemy.com/course/hindicreating-your-own-app-react-native/"
+    },
+    {
+      "title": "Desenvolvimento Flutter iniciante",
+      "url": "https://www.udemy.com/course/desenvolvimento-flutter-iniciante/"
+    },
+    {
+      "title": "10 projetos de iBeacon - IoT (Internet of Things)",
+      "url": "https://www.udemy.com/course/10-projetos-de-ibeacon-iot-internet-of-things/"
+    },
+    {
+      "title": "Flutter web: aplicaciones web responsivas y firebase cloud",
+      "url": "https://www.udemy.com/course/flutter-web-aplicaciones-web-responsivas-y-firebase-cloud/"
+    },
+    {
+      "title": "Python Uygulamalı Eğitim (OpenCV,Keras,Pandas)",
+      "url": "https://www.udemy.com/course/python-uygulamal-egitim-opencvkeraspandas/"
+    },
+    {
+      "title": "Flutter × Firebase AdMobでアプリに広告を表示して収益化する",
+      "url": "https://www.udemy.com/course/flutter-firebase-admob/"
+    },
+    {
+      "title": "Programación Android con App Inventor 2. De cero a experto.",
+      "url": "https://www.udemy.com/course/app-inventor-2/"
+    },
+    {
+      "title": "Desenvolvimento Android Crie um App FORÇA DE VENDAS completo",
+      "url": "https://www.udemy.com/course/criando-um-app-de-vendas-no-android-studio-e-area-admin-php/"
+    },
+    {
+      "title": "Curso IONIC 6 de cero a PRO",
+      "url": "https://www.udemy.com/course/curso-ionic-6-de-0-a-pro/"
+    },
+    {
+      "title": "Jetpack Compose : Crea apps modernas con MVVM + Hilt + Room",
+      "url": "https://www.udemy.com/course/jetpack-compose-desde-cero-con-room-hilt-y-mvvm/"
+    },
+    {
+      "title": "從零開始學 Jetpack Compose 程式設計 - 最新 Android APP 應用程式開發攻略",
+      "url": "https://www.udemy.com/course/hkt-jetpackcompose/"
+    },
+    {
+      "title": "Android Complete Course in Java",
+      "url": "https://www.udemy.com/course/android-complete-course/"
+    },
+    {
+      "title": "دورة برمجة تطبيقات الأندرويد",
+      "url": "https://www.udemy.com/course/atxjokdl/"
+    },
+    {
+      "title": "Mobile II iOs e Android com Delphi",
+      "url": "https://www.udemy.com/course/mobile-ii-ios-e-android-com-delphi/"
+    },
+    {
+      "title": "Receita Fácil - Jetpack Compose, Kotlin, Testes e muito mais",
+      "url": "https://www.udemy.com/course/receita-facil-app/"
+    },
+    {
+      "title": "IOT Cihaz Tasarımı Web Servis ve Mobil Uygulama Geliştirme",
+      "url": "https://www.udemy.com/course/iot-cihaz-tasarm-web-servis-ve-mobil-uygulama-gelistirme/"
+    },
+    {
+      "title": "Xamarin Forms: Desarrolla más rápido con FreshMvvm",
+      "url": "https://www.udemy.com/course/xamarin-forms-framework-freshmvvm/"
+    },
+    {
+      "title": "Mecânica de Motos, Motores do Zero Maestria",
+      "url": "https://www.udemy.com/course/aprenda-a-como-desmontar-e-monta-um-motor-de-motos/"
+    },
+    {
+      "title": "Construindo aplicativos com React Native, Typescript e Expo",
+      "url": "https://www.udemy.com/course/construindo-aplicativos-com-react-native-typescript-e-expo/"
+    },
+    {
+      "title": "Curso de Desenvolvimento de Aplicativos Android com Kotlin",
+      "url": "https://www.udemy.com/course/curso-de-kotlin-para-android/"
+    },
+    {
+      "title": "Net MAUI crea y lee códigos QR con Web API y SQL Server",
+      "url": "https://www.udemy.com/course/net-maui-crea-y-lee-codigos-qr-con-web-api-y-sql-server/"
+    },
+    {
+      "title": "Domina iOS 17 como un profesional: 50 días de programación",
+      "url": "https://www.udemy.com/course/ios-17-en-50-dias/"
+    },
+    {
+      "title": "Flutterアプリ開発講座(上級編)",
+      "url": "https://www.udemy.com/course/nzigen-flutter_advanced/"
+    },
+    {
+      "title": "Crea App cross-platform con Flutter e Firebase",
+      "url": "https://www.udemy.com/course/crea-app-cross-platform-con-flutter-e-firebase/"
+    },
+    {
+      "title": "React - pierwsze kroki",
+      "url": "https://www.udemy.com/course/react-pierwsze-kroki-vp/"
+    },
+    {
+      "title": "Flutter编程指南之跨平台APP开发",
+      "url": "https://www.udemy.com/course/flutterapp/"
+    },
+    {
+      "title": "Crea tu APP de cuentos con IA y ChatGPT | Flutter y NestJS",
+      "url": "https://www.udemy.com/course/flutter-nestjs-chatgpt/"
+    },
+    {
+      "title": "Desenvolvimento Mobile com Flutter",
+      "url": "https://www.udemy.com/course/desenvolvimento-mobile-com-flutter/"
+    },
+    {
+      "title": "AppleTV Apps entwickeln, der umfassende tvOS Kurs",
+      "url": "https://www.udemy.com/course/appletv-tvos/"
+    },
+    {
+      "title": "Android Mobil Uygulama: Adım Adım Android App Development",
+      "url": "https://www.udemy.com/course/android-mobil-uygulama-adm-adm-android-oreo-ve-pie/"
+    },
+    {
+      "title": "最新從零開始學 Swift 5 程式設計",
+      "url": "https://www.udemy.com/course/hkt-swift/"
+    },
+    {
+      "title": "Android Studio: Complete guide of android app development",
+      "url": "https://www.udemy.com/course/android-studio-complete-guide-of-android-app-development/"
+    },
+    {
+      "title": "Sıfırdan SwiftUI ile Mobil Uygulama Yapmayı Öğren | 2025",
+      "url": "https://www.udemy.com/course/swiftui-ile-mobil-uygulama-yap-yeni-baslayanlara-ozel-2024/"
+    },
+    {
+      "title": "Desenvolva Aplicativos Android e iOS Usando Blocos",
+      "url": "https://www.udemy.com/course/curso-de-desenvolvimento-mobile-android-e-ios-com-thunkable/"
+    },
+    {
+      "title": "Ionic 3 par la pratique",
+      "url": "https://www.udemy.com/course/ionic-3-par-la-pratique/"
+    },
+    {
+      "title": "Unity 2020 ile Arttırılmış Gerçeklik Projeleri",
+      "url": "https://www.udemy.com/course/unity-2020-ile-arttrlms-gerceklik-projeleri/"
+    },
+    {
+      "title": "Flutter workshop:ระบบสั่งอาหารผ่านคิวอาร์โค้ด (Quick Orders)",
+      "url": "https://www.udemy.com/course/flutter-workshop-quick-orders/"
+    },
+    {
+      "title": "دورة برمجة اندرويد وايفون بلغة الجافا فقط || Codename One",
+      "url": "https://www.udemy.com/course/codenameone/"
+    },
+    {
+      "title": "Aplicativos para Android com App Inventor 2",
+      "url": "https://www.udemy.com/course/aplicativos-para-androind-com-app-inventor-2/"
+    },
+    {
+      "title": "【SwiftUI CoreData】 iCloudと連携させてデータ共有できるメモアプリを作ろう",
+      "url": "https://www.udemy.com/course/iosswiftui-coredata-icloud/"
+    },
+    {
+      "title": "【AWS】ローコードで学ぶ、誰でも出来るChatGPTのLINE Bot開発 －対話形式編－",
+      "url": "https://www.udemy.com/course/awschatgptline-conversation/"
+    },
+    {
+      "title": "Adaptadores en Android con Kotlin curso de 0 a 100",
+      "url": "https://www.udemy.com/course/adaptadores-en-android-con-kotlin-curso-de-0-a-100/"
+    },
+    {
+      "title": "من الصفر إلى الإحتراف Andriod و IOS دورة شاملة لصناعة ألعاب",
+      "url": "https://www.udemy.com/course/jeux-andriod/"
+    },
+    {
+      "title": "Learn Flutter&Dart From Scratch in Hindi/Urdu",
+      "url": "https://www.udemy.com/course/learn-flutterdart-from-scratch-in-hindiurdu/"
+    },
+    {
+      "title": "Quasar, VUE 3, Firebase y desarrollo Web y Móvil",
+      "url": "https://www.udemy.com/course/quasar-vue-3-firebase-y-desarrollo-web-y-movil/"
+    },
+    {
+      "title": "Crie uma APP de Lista Telefónica com ANDROID em KOTLIN",
+      "url": "https://www.udemy.com/course/crie-uma-app-de-lista-telefonica-com-android-em-kotlin/"
+    },
+    {
+      "title": "Créez de superbes applications mobiles sans programmer",
+      "url": "https://www.udemy.com/course/creez-de-superbes-applications-mobiles-sans-programmer/"
+    },
+    {
+      "title": "iOS 14 Swift 5 [2020] : From Beginner to Paid Professional",
+      "url": "https://www.udemy.com/course/ios-14-swift-5-2020-from-beginner-to-paid-professional/"
+    },
+    {
+      "title": "Sistema de Comércio com C#",
+      "url": "https://www.udemy.com/course/sistema-de-comercio-com-c-sharp-sql/"
+    },
+    {
+      "title": "【跨平台 APP 開發實戰】React Native x FlutterFlow 實作課程｜數位轉型必修技能",
+      "url": "https://www.udemy.com/course/app-diy-s/"
+    },
+    {
+      "title": "Créez des animations pour iOS avec Swift et Xcode",
+      "url": "https://www.udemy.com/course/creez-des-animations-pour-ios11-avec-swift-4-et-xcode9/"
+    },
+    {
+      "title": "Kotlin Android untuk Pemula: Membuat Aplikasi Todolist",
+      "url": "https://www.udemy.com/course/kotlin-android-untuk-pemula/"
+    },
+    {
+      "title": "Crea una APP clone de InDriver UBER con Kotlin Django MySQL",
+      "url": "https://www.udemy.com/course/crea-una-app-clone-de-indriver-uber-con-kotlin-django-mysql/"
+    },
+    {
+      "title": "React Native EXPO: Una Introducción Al SDK De Facebook",
+      "url": "https://www.udemy.com/course/react-native-expo-intensivo-para-principiantes/"
+    },
+    {
+      "title": "Flutter 3: Evoluciona tus conocimientos",
+      "url": "https://www.udemy.com/course/flutter-evoluciona-tus-habilidades/"
+    },
+    {
+      "title": "เริ่มต้นเรียนรู้สร้าง Mobile App ด้วย Google Flutter",
+      "url": "https://www.udemy.com/course/google-flutter-learn-in-thai/"
+    },
+    {
+      "title": "2023: <React Native> Temel Seviye: IOS, Android Geliştirme",
+      "url": "https://www.udemy.com/course/react-native-ile-ios-android-uygulama-gelistirme/"
+    },
+    {
+      "title": "46 Derste Android Studio ile Whats App Uygulaması Yapma",
+      "url": "https://www.udemy.com/course/46-derste-android-studio-ile-whats-app-uygulamas-yapma/"
+    },
+    {
+      "title": "SwiftUIによるiOS 13アプリ開発入門",
+      "url": "https://www.udemy.com/course/swiftuiappdev/"
+    },
+    {
+      "title": "【Flutter】モバイルアプリ開発でFirebase（2022年1月最新版）（データベース・ログイン機能）",
+      "url": "https://www.udemy.com/course/flutterfirebase202201/"
+    },
+    {
+      "title": "To-Do App & Swift 5 | UIKit | No Storyboard | MVVM | iOS 16",
+      "url": "https://www.udemy.com/course/to-do-app-swift-5-uikit-no-storyboard-mvvm-ios-16/"
+    },
+    {
+      "title": "SwiftUI + Figma - iOS Mobil Uygulama Geliştirme Swift 2025",
+      "url": "https://www.udemy.com/course/swiftui-ile-uygulama-gelistirme-ios-17-xcode-15-2024/"
+    },
+    {
+      "title": "தமிழில் Flutter கற்று|Flutter Course From Beginners In Tamil",
+      "url": "https://www.udemy.com/course/flutter-course-in-tamil/"
+    },
+    {
+      "title": "Criando Aplicativo Flutter Delivery e Mysql",
+      "url": "https://www.udemy.com/course/criando-aplicativo-flutter-delivery-e-mysql/"
+    },
+    {
+      "title": "Swift 3 ile IOS Programlama",
+      "url": "https://www.udemy.com/course/swift2ileios9veosxprogramlama/"
+    },
+    {
+      "title": "Domina iOS 17 como un profesional: 50 días de programación 2",
+      "url": "https://www.udemy.com/course/ios-17-en-50-dias-2/"
+    },
+    {
+      "title": "macOS программирование на Swift в Xcode - Уровень 1",
+      "url": "https://www.udemy.com/course/macos-swift-xcode-level-1/"
+    },
+    {
+      "title": "SPRINT | In unter 6 Stunden von der Idee zum App-Prototypen",
+      "url": "https://www.udemy.com/course/partnaer-sprint-kurs/"
+    },
+    {
+      "title": "Google Maps SDK para Android y Kotlin de la A a la Z",
+      "url": "https://www.udemy.com/course/google-maps-sdk-para-android-y-kotlin-curso-completo-cloud-platform/"
+    },
+    {
+      "title": "Android e Kotlin para iniciantes: Jetpack, MVVM Arquitetura",
+      "url": "https://www.udemy.com/course/android-kotlin-iniciantes-jetpack-mvvm/"
+    },
+    {
+      "title": "Desenvolvimento de Aplicativos Android com Jetpack Compose",
+      "url": "https://www.udemy.com/course/desenvolvimento-android-jetpack-compose/"
+    },
+    {
+      "title": "Kotlin Multiplatform: Crie Aplicativos Android e iOS do Zero",
+      "url": "https://www.udemy.com/course/domine-kotlin-multiplatform-do-zero-ao-aplicativo-completo/"
+    },
+    {
+      "title": "والربح منه VPN كورس انشاء تطبيق",
+      "url": "https://www.udemy.com/course/vpn-wulp/"
+    },
+    {
+      "title": "คอร์สเรียน สร้างเกมบน iOS และ Android ด้วย HTML5",
+      "url": "https://www.udemy.com/course/ios-android-html5/"
+    },
+    {
+      "title": "Jetpack Compose Bootcamp Programı | Android | 2025",
+      "url": "https://www.udemy.com/course/jetpack-compose-bootcamp-program-android/"
+    },
+    {
+      "title": "Web API RESTful crear y consumir en Net MAUI y Net Core(C#)",
+      "url": "https://www.udemy.com/course/web-api-restful-crear-y-consumir-en-net-maui-y-net-corec/"
+    },
+    {
+      "title": "Desarrollo de apps Android desde cero a profesional 2020",
+      "url": "https://www.udemy.com/course/desarrollo-de-apps-android-desde-cero-a-profesional/"
+    },
+    {
+      "title": "Aprende Android con Ejemplos",
+      "url": "https://www.udemy.com/course/aprende-android-con-ejemplos/"
+    },
+    {
+      "title": "تطبيقات الاندرويد بدون برمجة مع الربح من الاعلانات",
+      "url": "https://www.udemy.com/course/androidapp-nocoding/"
+    },
+    {
+      "title": "FlutterFlow : Build Apps Super Easy for Beginner - [ภาษาไทย]",
+      "url": "https://www.udemy.com/course/flutterflow-build-apps-super-easy-thai/"
+    },
+    {
+      "title": "Curso App Inventor 2 - App Anotações com Kodular e Firebase",
+      "url": "https://www.udemy.com/course/curso-app-inventor-2-banco-de-dados-fusion-tables/"
+    },
+    {
+      "title": "صناعة التطبيقات بدون برمجة (ابل و اندرويد) والربح منها",
+      "url": "https://www.udemy.com/course/ysyoeyfk/"
+    },
+    {
+      "title": "iOS: Guide de l'authentification Firebase avec Swift 4",
+      "url": "https://www.udemy.com/course/ios-guide-de-lauthentification-firebase-avec-swift-4/"
+    },
+    {
+      "title": "48 Derste Flutter ile Firebase Kullanımı Temelleri (2020)",
+      "url": "https://www.udemy.com/course/15-derste-flutter-ile-firebase-kullanm-temelleri/"
+    },
+    {
+      "title": "App İnventor ile Mobil Uygulama Geliştirme",
+      "url": "https://www.udemy.com/course/app-inventor-ile-mobil-uygulama-gelistirme/"
+    },
+    {
+      "title": "Aplicativo Hotéis e Pousadas - Xamarin com Mysql",
+      "url": "https://www.udemy.com/course/aplicativo-hoteis-e-pousadas-xamarin-com-mysql/"
+    },
+    {
+      "title": "Crea tu propio PayPal desde cero con Django y React Native",
+      "url": "https://www.udemy.com/course/crea-tu-propio-paypal-desde-cero-con-django-y-react-native/"
+    },
+    {
+      "title": "Flutter实战项目-仿京东商城(provider/dio/缓存/model)",
+      "url": "https://www.udemy.com/course/flutter-provider/"
+    },
+    {
+      "title": "Flutter advanced applications [ More than 20 apps ]",
+      "url": "https://www.udemy.com/course/flutter-advanced-applications-more-than-20-apps/"
+    },
+    {
+      "title": "FlutterFlow: Curso Completo Do Zero ao Expert [Português]",
+      "url": "https://www.udemy.com/course/flutterflow-curso-completo-do-zero-ao-expert-portugues/"
+    },
+    {
+      "title": "Study Case Flutter Presence Apps [ New 2022 ]",
+      "url": "https://www.udemy.com/course/study-case-flutter-presence-apps/"
+    },
+    {
+      "title": "Iot na Prática: com esp32+Firebase+React Native (Atual.2023)",
+      "url": "https://www.udemy.com/course/aprenda-iot-praticando-com-esp32-firebase-reactnative/"
+    },
+    {
+      "title": "【Flutter】2Dゲーム（〇✕ゲーム）を開発する",
+      "url": "https://www.udemy.com/course/flutter_circle_cross/"
+    },
+    {
+      "title": "Aprende inglés con TU propio APP BOT y tus chats de WhatsApp",
+      "url": "https://www.udemy.com/course/chatgpt-whatsapp-flutter-nestjs/"
+    },
+    {
+      "title": "OutSystems - Começando com Mobile #1",
+      "url": "https://www.udemy.com/course/outsystems-comecando-com-mobile-1/"
+    },
+    {
+      "title": "SwiftUI Bootcamp Programı | iOS | 2025",
+      "url": "https://www.udemy.com/course/swiftui-bootcamp-program-ios/"
+    },
+    {
+      "title": "プログラミング不要！Glideで作る4つのスマホアプリケーション",
+      "url": "https://www.udemy.com/course/glideapp/"
+    },
+    {
+      "title": "Xamarin Forms ile web servis ve mobil uygulama geliştirme",
+      "url": "https://www.udemy.com/course/xmarin-forms-ile-web-servis-ve-mobil-uygulama-gelistirme/"
+    },
+    {
+      "title": "Curso Intensivo .NET MAUI API, UI y Arquitectura Moderna",
+      "url": "https://www.udemy.com/course/curso-intensivo-net-maui-api-ui-y-arquitectura-moderna/"
+    },
+    {
+      "title": "iOS программирование на Swift в Xcode - Max level (50 часов)",
+      "url": "https://www.udemy.com/course/ios-swift-ios-dev/"
+    },
+    {
+      "title": "7.5 Jam Jago Interfacing Odoo Android - Level 1",
+      "url": "https://www.udemy.com/course/interfacing-odoo-android-level-1/"
+    },
+    {
+      "title": "بناء تطبيقات iOS و Android عن طريق React Native",
+      "url": "https://www.udemy.com/course/react-native-in-arabic/"
+    },
+    {
+      "title": "Criando Templates para Flutter",
+      "url": "https://www.udemy.com/course/criando-templates-para-flutter/"
+    },
+    {
+      "title": "Expo + Gemini: Aplicaciones con inteligencia artificial",
+      "url": "https://www.udemy.com/course/expo-gemini/"
+    },
+    {
+      "title": "Flutter & Dart Development In 2025: Zero to Dragon (Arabic)",
+      "url": "https://www.udemy.com/course/flutter-dart-development-course-zero-to-dragon/"
+    },
+    {
+      "title": "Aplicativo para Igrejas com Delphi 10",
+      "url": "https://www.udemy.com/course/aplicativo-para-igrejas-com-delphi-10/"
+    },
+    {
+      "title": "Membuat Aplikasi iOS dengan Mudah Menggunakan SWIFT & Xcode",
+      "url": "https://www.udemy.com/course/membuat-aplikasi-ios-dengan-mudah-menggunakan-swift-xcode/"
+    },
+    {
+      "title": "Android Studio 2018 com WEB Services e API",
+      "url": "https://www.udemy.com/course/android-studio-2018-com-web-services-e-api/"
+    },
+    {
+      "title": "Curso de Desarrollo de Apps para iOS con Swift 5 y Xcode",
+      "url": "https://www.udemy.com/course/desarrollo-de-apps-para-ios-con-xcode-12-para-principiantes/"
+    },
+    {
+      "title": "Music App em Flutter",
+      "url": "https://www.udemy.com/course/music-app-em-flutter/"
+    },
+    {
+      "title": "微信支付开发实战教程",
+      "url": "https://www.udemy.com/course/bmtunuze/"
+    },
+    {
+      "title": "Mastering animation in flutter",
+      "url": "https://www.udemy.com/course/mastering-animation-in-flutter/"
+    },
+    {
+      "title": "Apps Nativas Android con HTML5",
+      "url": "https://www.udemy.com/course/apps-nativas-android-con-html5/"
+    },
+    {
+      "title": "iOS Entwicklung - App Monetarisierung mit Swift 3 & iOS 10",
+      "url": "https://www.udemy.com/course/ios-entwicklung-app-monetarisierung-mit-swift-3-ios-10/"
+    },
+    {
+      "title": "En Kapsamlı Android Mobil Uygulama Eğitimi [Kotlin] | 2025",
+      "url": "https://www.udemy.com/course/en-kapsamli-android-mobil-uygulama-egitimi-kotlin-2024/"
+    },
+    {
+      "title": "Firebase: Dominando as Security Rules",
+      "url": "https://www.udemy.com/course/firebase-dominando-as-security-rules/"
+    },
+    {
+      "title": "Android Kotlin + .Net Core 5",
+      "url": "https://www.udemy.com/course/android-kotlin-net-core-5/"
+    },
+    {
+      "title": "Chat Apps using Flutter + GetX + Firebase [Study Case 2021]",
+      "url": "https://www.udemy.com/course/chat-apps-study-case-2021/"
+    },
+    {
+      "title": "Introducción a React Native: Desarrollo de apps móviles",
+      "url": "https://www.udemy.com/course/introduccion-a-react-native-desarrollo-de-apps-moviles/"
+    },
+    {
+      "title": "Android Studio ile Sıfırdan Uygulama Geliştirme (2021)",
+      "url": "https://www.udemy.com/course/android-studio-ile-sfrdan-chat-uygulamas-gelistirme-2021/"
+    },
+    {
+      "title": "IOS 11 SWIFT 4: Sviluppa un'app per iPhone da zero allo store",
+      "url": "https://www.udemy.com/course/ios-11-swift-4-sviluppa-un-app-da-zero-allo-store/"
+    },
+    {
+      "title": "A'dan Z'ye Android Mobil Programlama Kursu: Java & Kotlin",
+      "url": "https://www.udemy.com/course/adan-zye-android-mobil-programlama-kursu-java-kotlin/"
+    },
+    {
+      "title": "Curso Flutter & Dart y Firebase crud en servicios full stack",
+      "url": "https://www.udemy.com/course/curso-de-dart-and-flutter-con-firebase/"
+    },
+    {
+      "title": "Cursor AI ile Mobil Uygulama Geliştir ve Markette Yayınla",
+      "url": "https://www.udemy.com/course/cursor-ai-ile-mobil-uygulama-gelistir-ve-markette-yaynla/"
+    },
+    {
+      "title": "Flutter y Spring Boot: E-Commerce App Mercado Pago y Stripe",
+      "url": "https://www.udemy.com/course/flutter-y-spring-boot-e-commerce-app-mercado-pago-y-stripe/"
+    },
+    {
+      "title": "Jetpack Compose: La nueva era de las UI en Android",
+      "url": "https://www.udemy.com/course/jetpack-compose-la-nueva-era-de-las-ui-en-android/"
+    },
+    {
+      "title": "[중급] 모바일 앱 개발자를 위한 Flutter(플러터) 제대로 배우기 Part.1",
+      "url": "https://www.udemy.com/course/flutter-part1-u/"
+    },
+    {
+      "title": "Андроид приложение от дизайна до готового приложения",
+      "url": "https://www.udemy.com/course/simpleweatherappdev/"
+    },
+    {
+      "title": "Clean Architecture with RxJava Hilt Jetpack [Arabic Course]",
+      "url": "https://www.udemy.com/course/clean-architecture-with-rxjava-hilt-jetpack-arabic-course/"
+    },
+    {
+      "title": "Aplicativo para Delivery com Ionic 6",
+      "url": "https://www.udemy.com/course/aplicativo-para-delivery-com-ionic-6/"
+    },
+    {
+      "title": "Lập trình iOS hiện đại với Swift và SwiftUI",
+      "url": "https://www.udemy.com/course/lap-trinh-ios-hien-dai-voi-swift-va-swiftui/"
+    },
+    {
+      "title": "Compose ist die Zukunft (Android 2023)",
+      "url": "https://www.udemy.com/course/lerne-compose/"
+    },
+    {
+      "title": "【2025年版】ゼロからのiPhoneアプリ開発講座~XcodeでSwift言語でSwiftUIを使ってアプリ開発~",
+      "url": "https://www.udemy.com/course/2025iphonexcodeswiftswiftui/"
+    },
+    {
+      "title": "Room Persistance Librar - Приложение ShoppingList на Котлин",
+      "url": "https://www.udemy.com/course/room-persistance-librar-shoppinglist/"
+    },
+    {
+      "title": "Firebase para Android - Módulo III - Notificações",
+      "url": "https://www.udemy.com/course/firebase-para-android-modulo-iii-notificacoes/"
+    },
+    {
+      "title": "Desenvolvimento de aplicativos iOS - Do básico às vendas!",
+      "url": "https://www.udemy.com/course/davi_ios/"
+    },
+    {
+      "title": "Créez vos propres packages avec Flutter et Dart",
+      "url": "https://www.udemy.com/course/packages-flutter/"
+    },
+    {
+      "title": "Curso de Flutterflow para Principiantes. Crea tu Primera App",
+      "url": "https://www.udemy.com/course/curso-de-flutterflow-para-principiantes-crea-tu-primera-app/"
+    },
+    {
+      "title": "iPad用プログラミング学習アプリ「Swift Playgrounds」を使って学ぶiOSプログラミングの基礎",
+      "url": "https://www.udemy.com/course/ipadswift/"
+    },
+    {
+      "title": "Monetiza en tus apps de Android, sistema de pagos con PayPal",
+      "url": "https://www.udemy.com/course/monetizar-apps-android-pagos-paypal-google-pay-ads/"
+    },
+    {
+      "title": "Xamarin Forms: Validación de Formularios",
+      "url": "https://www.udemy.com/course/xamarin-forms-validacion-formularios/"
+    },
+    {
+      "title": "Swift 4 ve xCode 9 ile baştan sona bir uygulama",
+      "url": "https://www.udemy.com/course/swift-4-ve-xcode-9-ile-bastan-sona-bir-uygulama/"
+    },
+    {
+      "title": "Swift3 从入门到精通",
+      "url": "https://www.udemy.com/course/swift3-ios-level1/"
+    },
+    {
+      "title": "React Native Ultimate - Phát Triển Ứng Dụng Mobile",
+      "url": "https://www.udemy.com/course/hoidanit-react-native-ultimate/"
+    },
+    {
+      "title": "Lập trình iOS với SwiftUI",
+      "url": "https://www.udemy.com/course/lap-trinh-ios-swiftui/"
+    },
+    {
+      "title": "Room на Jetpack Compose : Приложение Список покупок-Блокнот",
+      "url": "https://www.udemy.com/course/room-jetpack-compose/"
+    },
+    {
+      "title": "深入浅出 iPhone 开发 (使用 Swift4)",
+      "url": "https://www.udemy.com/course/swift4-ios11/"
+    },
+    {
+      "title": "Aplicativo de Gerenciamento de Clientes - Xamarin C#",
+      "url": "https://www.udemy.com/course/aplicativo-de-gerenciamento-de-clientes-xamarin-c/"
+    },
+    {
+      "title": "Pratik Flutter Uygulama Geliştirme Kursu",
+      "url": "https://www.udemy.com/course/pratik-flutter-uygulama-gelistirme-kursu/"
+    },
+    {
+      "title": "React Native - znajdź pracę! Pytania na rozmowach 2025",
+      "url": "https://www.udemy.com/course/100-pytan-rozmowa-kwalifikacyjna-react-native-2024/"
+    },
+    {
+      "title": "Desarrollo de aplicaciones con kodular (App Inventor 2)",
+      "url": "https://www.udemy.com/course/desarrollo-de-aplicaciones-con-kodular-app-inventor-2/"
+    },
+    {
+      "title": "The Android Studio 3.1.4 N & Java 8 Build 6 Apps Course (NL)",
+      "url": "https://www.udemy.com/course/the-android-studio-314-n-java-8-build-6-apps-course-nl/"
+    },
+    {
+      "title": "Be the Professional iOS/Android App Builder with Corona SDK",
+      "url": "https://www.udemy.com/course/app-ios-android-corona-sdk-intermediate/"
+    },
+    {
+      "title": "Flutter Django y MySQL: E-Commerce App con Pasarelas de pago",
+      "url": "https://www.udemy.com/course/flutter-django-y-mysql-e-commerce-app-con-pasarelas-de-pago/"
+    },
+    {
+      "title": "Kurs GlideApps – aplikacja bez kodowania",
+      "url": "https://www.udemy.com/course/kurs-glideapps-aplikacja-bez-kodowania/"
+    },
+    {
+      "title": "Mobile KI App Entwicklung mit Nocode & ChatGPT in 5 Stunden",
+      "url": "https://www.udemy.com/course/crashkurs-ki-app-in-60min-bauen-mit-bubble-io-chat-gpt/"
+    },
+    {
+      "title": "Android Unit Testing With Junit, Mockk and Coroutine[Arabic]",
+      "url": "https://www.udemy.com/course/android-unit-testing-with-junit-mockk-and-coroutinearabic/"
+    },
+    {
+      "title": "Firebase 賓果連線遊戲 Android APP 實作 – Java 與 Kotlin 雙語言",
+      "url": "https://www.udemy.com/course/firebase-bingo/"
+    },
+    {
+      "title": "Aplicaciones Android Con Jetpack Compose: Curso Desde 0",
+      "url": "https://www.udemy.com/course/aplicaciones-android-con-jetpack-compose-desde-0/"
+    },
+    {
+      "title": "Optionals in Swift, der umfassende Kurs",
+      "url": "https://www.udemy.com/course/optionals-in-swift/"
+    },
+    {
+      "title": "Android App Development with Google Machine Learning [2024]",
+      "url": "https://www.udemy.com/course/mlkit-android-programlama/"
+    },
+    {
+      "title": "FAST TRACK FLUTTER INTERMEDIATE",
+      "url": "https://www.udemy.com/course/fast-track-flutter-intermediate/"
+    },
+    {
+      "title": "Desarrolla una App de Carros en Venta con Flutter",
+      "url": "https://www.udemy.com/course/desarrolla-una-app-de-carros-en-venta-con-flutter/"
+    },
+    {
+      "title": "Flutter & Dart - Coder des jeux mobiles pour iOS et Android",
+      "url": "https://www.udemy.com/course/coder-des-jeux-mobiles-avec-flutter-dart/"
+    },
+    {
+      "title": "[초급] 안드로이드 앱 개발 초급자 과정 with 코틀린(Kotlin) Part.1",
+      "url": "https://www.udemy.com/course/kotlin-j/"
+    },
+    {
+      "title": "Sıfırdan İleri Seviyeye Kotlin Programlama Eğitimi | 2025",
+      "url": "https://www.udemy.com/course/sfrdan-ileri-seviyeye-kotlin-programlama-egitimi-2024/"
+    },
+    {
+      "title": "Calculator Apps using Flutter and GetX [Study Case 2021]",
+      "url": "https://www.udemy.com/course/kuldii-project-calculator/"
+    },
+    {
+      "title": "Sviluppare 100 app Android B4A mobile",
+      "url": "https://www.udemy.com/course/sviluppare-100-app-android-b4a-mobile/"
+    },
+    {
+      "title": "Android App Development Bootcamp with Java",
+      "url": "https://www.udemy.com/course/the-complete-android-development-bootcamp-with-java-in-hindi/"
+    },
+    {
+      "title": "FlutterFlow: Curso completo De cero a experto",
+      "url": "https://www.udemy.com/course/flutterflow-desde-cero-hasta-la-publicacion-en-tiendas/"
+    },
+    {
+      "title": "Aplicativo Loja Virtual com React",
+      "url": "https://www.udemy.com/course/aplicativo-loja-virtual-com-react/"
+    },
+    {
+      "title": "【한글자막】 ChatGPT 를 이용한 리액트 네이티브 - 모바일 어플리케이션 과정",
+      "url": "https://www.udemy.com/course/the-complete-chatgpt-with-react-native-mobile-application-korean/"
+    },
+    {
+      "title": "Ionic Framework (Advance) by นายแบงค์ จาก Senchabox",
+      "url": "https://www.udemy.com/course/ionic-framework-advance-by-senchabox/"
+    },
+    {
+      "title": "Crea una APP clone de InDriver UBER con Kotlin NestJS MySQL",
+      "url": "https://www.udemy.com/course/crea-una-app-clone-de-indriver-uber-con-kotlin-nestjs-mysql/"
+    },
+    {
+      "title": "Swift ile Programlamaya Giriş",
+      "url": "https://www.udemy.com/course/swift-ile-programlamaya-giris/"
+    },
+    {
+      "title": "İOS 12 ve Swift 4.2 Mobil Uygulama Geliştirme Kursu | 2019",
+      "url": "https://www.udemy.com/course/ios-12-ve-swift-42-mobil-uygulama-gelistirme-kursu/"
+    },
+    {
+      "title": "Aprenda Flutter do 0 Ao Avançado",
+      "url": "https://www.udemy.com/course/aprenda-flutter-do-0-ao-avancado/"
+    },
+    {
+      "title": "Temas Avanzados en .NET MAUI: De la Teoría a la Práctica",
+      "url": "https://www.udemy.com/course/net-maui-avanzado/"
+    },
+    {
+      "title": "Xamarin: Crie aplicativos nativos entre plataformas com C#",
+      "url": "https://www.udemy.com/course/xamarin-crie-aplicativos-nativos-entre-plataformas-com-c/"
+    },
+    {
+      "title": "Delphi İle Kullanıcı Arayüzü Geliştirme",
+      "url": "https://www.udemy.com/course/delphi-ile-arayuz-gelistirme/"
+    },
+    {
+      "title": "EPUB 電子書製作入門的六堂課",
+      "url": "https://www.udemy.com/course/epub-guide/"
+    },
+    {
+      "title": "iOS 11 Development - Build Apps with Swift 4 And Xcode 9",
+      "url": "https://www.udemy.com/course/ios-11-development-build-apps-with-swift-4-and-xcode-9/"
+    },
+    {
+      "title": "Curso de Iniciación a la Realidad Aumentada.",
+      "url": "https://www.udemy.com/course/curso-de-iniciacion-a-la-realidad-aumentada/"
+    },
+    {
+      "title": "Flutter: Membuat Page Login & Logout",
+      "url": "https://www.udemy.com/course/flutter-membuat-page-login-logout/"
+    },
+    {
+      "title": "iOS Proqramçı: Swift dilinin təməlləri (1-ci addım)",
+      "url": "https://www.udemy.com/course/swift-az/"
+    },
+    {
+      "title": "Android性能优化宝典",
+      "url": "https://www.udemy.com/course/android-k/"
+    },
+    {
+      "title": "Flutter实战入门",
+      "url": "https://www.udemy.com/course/flutter-tutorial/"
+    },
+    {
+      "title": "2小時成為Android開發者（廣東話授課）",
+      "url": "https://www.udemy.com/course/android-intro/"
+    },
+    {
+      "title": "Flutter体系课 从入门到实践",
+      "url": "https://www.udemy.com/course/flutter-b/"
+    },
+    {
+      "title": "Corso base di sviluppo di skill per Alexa",
+      "url": "https://www.udemy.com/course/corso-base-sviluppo-skill-alexa/"
+    },
+    {
+      "title": "從零開始學習Flutter",
+      "url": "https://www.udemy.com/course/flutter-hello/"
+    },
+    {
+      "title": "iOS 11 iPhone Apps開發極速入門班（廣東話授課）",
+      "url": "https://www.udemy.com/course/ios-apps-dev-intro-cantonese/"
+    },
+    {
+      "title": "아이폰 앱 개발 강의 - 왕초보 입문편 2편",
+      "url": "https://www.udemy.com/course/swift4-ios11-2/"
+    },
+    {
+      "title": "Android & Kotlin Essentials: Inicia en el Desarrollo Móvil",
+      "url": "https://www.udemy.com/course/android-kotlin-essentials-inicia-en-el-desarrollo-movil/"
+    },
+    {
+      "title": "Crea una APP clone InDriver UBER con Flutter y Spring Boot",
+      "url": "https://www.udemy.com/course/crea-una-app-clone-indriver-uber-con-flutter-y-spring-boot/"
+    },
+    {
+      "title": "Crea una APP clone InDriver UBER con React Native NestJS SQL",
+      "url": "https://www.udemy.com/course/crea-una-app-clone-indriver-uber-con-react-native-nestjs-sql/"
+    },
+    {
+      "title": "Sıfırdan Jetpack Compose ile Android Uygulama Geliştirme",
+      "url": "https://www.udemy.com/course/jetpack-compose-uygulama-gelistirme-rehberi/"
+    },
+    {
+      "title": "iOS: Créez un clone d'Instagram avec Swift et Firebase",
+      "url": "https://www.udemy.com/course/ios-creez-un-clone-dinstagram-avec-swift-4-et-firebase/"
+    },
+    {
+      "title": "Criar aplicativo para Android e IOS sem saber programar",
+      "url": "https://www.udemy.com/course/criar-aplicativo-para-android-e-ios-sem-saber-programar/"
+    },
+    {
+      "title": "Android Hilt, Inyección de Dependencias con Kotlin y Jetpack",
+      "url": "https://www.udemy.com/course/android-hilt-inyeccion-dependencias-kotlin-jetpack/"
+    },
+    {
+      "title": "Design de Interfaces com React Native",
+      "url": "https://www.udemy.com/course/design-de-interfaces-com-react-native/"
+    },
+    {
+      "title": "[중급] 모바일 앱 개발자를 위한 Flutter(플러터) 제대로 배우기 Part.2",
+      "url": "https://www.udemy.com/course/flutter-part2-w/"
+    },
+    {
+      "title": "Curso Completo de React Native para Principiantes",
+      "url": "https://www.udemy.com/course/react-native-desenvolvendo-aplicacoes-hibridas-do-zero/"
+    },
+    {
+      "title": "Flutter × Firebaseで開発するWEBアプリ入門",
+      "url": "https://www.udemy.com/course/flutter_web_firebase/"
+    },
+    {
+      "title": "未経験でも3時間でアプリが完成！リスキリングであなたも市民開発者【プログラミング不要のDX：ノーコードGlide超入門】",
+      "url": "https://www.udemy.com/course/dx-glide/"
+    },
+    {
+      "title": ".NET MAUI desde cero con Web API y SQL SERVER",
+      "url": "https://www.udemy.com/course/net-maui-desde-cero-con-web-api-y-sql-server/"
+    },
+    {
+      "title": "【初心者向け】作りながら学べる！Android開発のためのJava入門講座",
+      "url": "https://www.udemy.com/course/java-intro-for-android/"
+    },
+    {
+      "title": "電商 App 設計開發 — 夜市外送 App＋付款功能",
+      "url": "https://www.udemy.com/course/rookiego-nm-a01/"
+    },
+    {
+      "title": "Delphi ile Android ve IOS Programlama 2 (İleri Seviye)",
+      "url": "https://www.udemy.com/course/delphi-ile-android-ve-ios-programlama-2-ileri-seviye/"
+    },
+    {
+      "title": "【Xcode 16 / Swift 6】SwiftUI版クイズアプリ開発講座",
+      "url": "https://www.udemy.com/course/swiftui-animalquiz/"
+    },
+    {
+      "title": "Desarrollo de Aplicaciones con Algolia.",
+      "url": "https://www.udemy.com/course/desarrollo-de-aplicacones-con-algolia/"
+    },
+    {
+      "title": "Flutter уроки",
+      "url": "https://www.udemy.com/course/artprograms_flutter/"
+    },
+    {
+      "title": "Android JetPack Compose Desde Cero",
+      "url": "https://www.udemy.com/course/android-jetpack-compose-desde-cero/"
+    },
+    {
+      "title": "Apprenez à développer des applications iOS professionnelles",
+      "url": "https://www.udemy.com/course/developper-une-application-ios/"
+    },
+    {
+      "title": "Learn Apps developement using MAUI تعلم تقنية ماوي للتطبيقات",
+      "url": "https://www.udemy.com/course/learn-apps-developement-using-maui/"
+    },
+    {
+      "title": "Многопоточность в Swift с нуля - Tread,GCD, OperatioQueue",
+      "url": "https://www.udemy.com/course/multithreading-swift/"
+    },
+    {
+      "title": "Delphi Mobile Avançado - Delphi 10 com Mysql",
+      "url": "https://www.udemy.com/course/delphi-mobile-avancado-delphi-10-com-mysql/"
+    },
+    {
+      "title": "Weather App & Swift 5 | UIKit | No Storyboard | iOS 16 |2023",
+      "url": "https://www.udemy.com/course/weather-app/"
+    },
+    {
+      "title": "Reskin تعلم الريسكين فى ساعتيين باحتراف",
+      "url": "https://www.udemy.com/course/reskinreverseengineering/"
+    },
+    {
+      "title": "Crea un APP clone de InDriver UBER React Native Django MySQL",
+      "url": "https://www.udemy.com/course/crea-un-app-clone-de-indriver-uber-react-native-django-mysql/"
+    },
+    {
+      "title": "Crea tus primeras tres apps reales con .NET MAUI y C#",
+      "url": "https://www.udemy.com/course/aprende-net-maui/"
+    },
+    {
+      "title": "Complete Flutter App Development Course 2025 (Arabic)",
+      "url": "https://www.udemy.com/course/flutter-app-development-in-arabic-2025-from-zero-to-hero/"
+    },
+    {
+      "title": "【注意：2024年5月マイクロソフトのサポート終了済】Xamarin.Forms with Prism for MVVM",
+      "url": "https://www.udemy.com/course/peacock-xamarin-prism/"
+    },
+    {
+      "title": "Kotlin NestJS y MySQL: E-Commerce App MVVM + Jetpack + Room",
+      "url": "https://www.udemy.com/course/kotlin-nestjs-y-mysql-ecommerce-app-mvvm-jetpack-room-pagos/"
+    },
+    {
+      "title": "Swift 3 المرحلة المتقدمة",
+      "url": "https://www.udemy.com/course/swift-3-arabic-2/"
+    },
+    {
+      "title": "E-commerce App & Admin Website Using Flutter & Supabase",
+      "url": "https://www.udemy.com/course/e-commerce-app-admin-website-using-flutter-supabase/"
+    },
+    {
+      "title": "Flutter et le Machine Learning",
+      "url": "https://www.udemy.com/course/flutter-et-le-machine-learning/"
+    },
+    {
+      "title": "Devenez un AS du développement mobile avec FLUTTER & CHATGPT",
+      "url": "https://www.udemy.com/course/devenez-un-as-du-developpement-mobile-avec-flutter-et-chatgpt/"
+    },
+    {
+      "title": "Jago Kotlin - Kotlin From Zero to Hero (Seri II)",
+      "url": "https://www.udemy.com/course/jago-kotlin-kotlin-from-zero-to-hero-seri-ii/"
+    },
+    {
+      "title": "POO en Kotlin",
+      "url": "https://www.udemy.com/course/poo-en-kotlin/"
+    },
+    {
+      "title": "Android Mobil Uygulama Geliştirme Bootcamp: Compose | 2025",
+      "url": "https://www.udemy.com/course/android-mobil-uygulama-gelistirme-kursu/"
+    },
+    {
+      "title": "Membuat Aplikasi Ebook dengan Flutter dan Admin Panel + ADS",
+      "url": "https://www.udemy.com/course/membuat-aplikasi-ebook-dengan-flutter-dan-admin-panel-ads/"
+    },
+    {
+      "title": "간단한 게임을 만들면서 시작하는 iOS 개발",
+      "url": "https://www.udemy.com/course/ios-rjdn/"
+    },
+    {
+      "title": "Kotlin Android dan Firebase Bahasa Indonesia",
+      "url": "https://www.udemy.com/course/kotlin-android-firebase-bahasa-indonesia/"
+    },
+    {
+      "title": "【Flutter】ローカル通知を使ったアラームアプリ開発（SQLiteでデータベース管理）",
+      "url": "https://www.udemy.com/course/flutter_local_notification/"
+    },
+    {
+      "title": ".NET MAUI - Técnicas de Construção de Telas",
+      "url": "https://www.udemy.com/course/net-maui-tecnicas-de-construcao-de-telas/"
+    },
+    {
+      "title": "React Native Design de Aplicativos",
+      "url": "https://www.udemy.com/course/react-native-design-de-aplicativos/"
+    },
+    {
+      "title": "React Native 2025 - Panduan Praktis",
+      "url": "https://www.udemy.com/course/react-native-rwid/"
+    },
+    {
+      "title": "Swift&SwiftUI iOS Mobil Uygulama Başlangıçtan İleri Seviyeye",
+      "url": "https://www.udemy.com/course/swiftui-ile-mobil-uygulama-gelistirme/"
+    },
+    {
+      "title": "Belajar React Native dengan Membuat Movie App",
+      "url": "https://www.udemy.com/course/belajar-react-native-dengan-membuat-movie-app/"
+    },
+    {
+      "title": "Programowanie w Android Studio dla początkujących,",
+      "url": "https://www.udemy.com/course/programowanie-w-android-studio-dla-poczatkujacych/"
+    },
+    {
+      "title": "Kotlin Multiplatform: Domine do Básico ao Intermediário",
+      "url": "https://www.udemy.com/course/kotlin-multiplatform-domine-do-basico-ao-intermediario/"
+    },
+    {
+      "title": "Programista Swift - tworzenie gier 2D i 3D - część 2",
+      "url": "https://www.udemy.com/course/tworzenie-gier-w-swift-4-spritekit-scenekit-i-arkit/"
+    },
+    {
+      "title": "[KR/EN] Create visionOS App with Simulator",
+      "url": "https://www.udemy.com/course/basic_visionos/"
+    },
+    {
+      "title": "iOS et Swift: Les notions intermédiaires",
+      "url": "https://www.udemy.com/course/ios-12-et-swift-42-plus-loin-dans-lapprentissage/"
+    },
+    {
+      "title": "Curso de Desenvolvimento de Aplicativos PHP E JS",
+      "url": "https://www.udemy.com/course/aplicativos-php-e-js/"
+    },
+    {
+      "title": "Desarrollar un Sistema de Reservas con Kotlin + API REST...",
+      "url": "https://www.udemy.com/course/desarrollar-un-sistema-de-reservas-con-kotlin-api-rest/"
+    },
+    {
+      "title": "macOS программирование на Swift в Xcode - Уровень 2",
+      "url": "https://www.udemy.com/course/macos-swift-xcode-level-2/"
+    },
+    {
+      "title": "Concevez des applications mobile avec React Native",
+      "url": "https://www.udemy.com/course/developpez-des-applications-mobile-avec-react-native/"
+    },
+    {
+      "title": "Firebase com Kotlin - Firestore e Storage",
+      "url": "https://www.udemy.com/course/firebase-com-kotlin-firestore-e-storage/"
+    },
+    {
+      "title": "Flutter Intermediate Level",
+      "url": "https://www.udemy.com/course/flutter-intermediate-level/"
+    },
+    {
+      "title": "[중급] 모바일 앱 개발자를 위한 Flutter(플러터) 제대로 배우기 Part.3",
+      "url": "https://www.udemy.com/course/flutter-part3/"
+    },
+    {
+      "title": "Podcasts & Swift 5 | No Storyboard | API / JSON | Core Data",
+      "url": "https://www.udemy.com/course/podcasts-swift-5-no-storyboard-apijson-core-data/"
+    },
+    {
+      "title": "كورس تعلم التيكتوك 2023",
+      "url": "https://www.udemy.com/course/2023-chl/"
+    },
+    {
+      "title": "Desenvolvimento Android: Android para iniciantes",
+      "url": "https://www.udemy.com/course/desenvolvimento-android-android-para-iniciantes/"
+    },
+    {
+      "title": "iOS & Swift - Chat Application Like Whatsapp (Arabic)",
+      "url": "https://www.udemy.com/course/ios-chat-uikit/"
+    },
+    {
+      "title": "Desarrollo de Apps en Android Studio",
+      "url": "https://www.udemy.com/course/desarrollo-de-apps-en-android-studio/"
+    },
+    {
+      "title": "Legacy: Flutter 2 desde cero, creando más de 10 proyectos",
+      "url": "https://www.udemy.com/course/flutter-desde-cero-creando-mas-de-10-proyectos/"
+    },
+    {
+      "title": "Ultimativer Android Java Kurs für Beginner",
+      "url": "https://www.udemy.com/course/ultimativer-android-java-kurs-fur-beginner/"
+    },
+    {
+      "title": "Flutter Redux Essential 코스 (Korean)",
+      "url": "https://www.udemy.com/course/flutter-redux-essential-korean/"
+    },
+    {
+      "title": "Aprende como crear aplicaciones con .NET MAUI SQL y Azure",
+      "url": "https://www.udemy.com/course/aprende-como-crear-aplicaciones-con-net-maui-y-sql-server/"
+    },
+    {
+      "title": "Flutter Material3 & Firebase Chat App Course [Arabic]",
+      "url": "https://www.udemy.com/course/flutter-material3-firebase-chat-app-course-2024-arabic/"
+    },
+    {
+      "title": "Aplicativo Restaurante - Delphi 10.3 com Mysql",
+      "url": "https://www.udemy.com/course/aplicativo-restaurante-delphi-103-com-mysql/"
+    },
+    {
+      "title": "Ionic3 com WEB API e WEB Services PHP",
+      "url": "https://www.udemy.com/course/ionic3-com-web-api-e-web-services-php/"
+    },
+    {
+      "title": "برمجة متجر الكتروني متكامل بلغة السويفت",
+      "url": "https://www.udemy.com/course/outputswift/"
+    },
+    {
+      "title": "[기초] 모바일 앱 개발자를 위한 Flutter(플러터) 제대로 배우기 Part.2",
+      "url": "https://www.udemy.com/course/flutter-part2/"
+    },
+    {
+      "title": "Crie jogos e aplicativos com o MIT App Inventor!!",
+      "url": "https://www.udemy.com/course/appinventor/"
+    },
+    {
+      "title": "React Native İle Mobil Programlama(C# Sql Ve Firebase) 2024",
+      "url": "https://www.udemy.com/course/react-native-ile-mobil-programlamac-sql-ve-firebase-2024/"
+    },
+    {
+      "title": "Apple iOS Programlama 2- iPhone ve iPad Uygulama Geliştirme",
+      "url": "https://www.udemy.com/course/apple-iphone-ve-ipad-programlama-egitimi/"
+    },
+    {
+      "title": "【1日完結】挫折したけどAndroidアプリを再チャレンジされたい方の集合場所！　AndroidStudio2.3対応",
+      "url": "https://www.udemy.com/course/1android-androidstudio23/"
+    },
+    {
+      "title": "App Store & Swift 5 | UIKit | No Storyboard | MVVM | iOS 16",
+      "url": "https://www.udemy.com/course/app-store-swift-5-uikit-no-storyboard-mvvm-ios-16/"
+    },
+    {
+      "title": "flutter getx [Arabic]",
+      "url": "https://www.udemy.com/course/flutter-getx-2022-arabic/"
+    },
+    {
+      "title": "Entwickle watchOS 3 Apps mit Swift",
+      "url": "https://www.udemy.com/course/watchos-swift/"
+    },
+    {
+      "title": "Aplicativo para Delivery(2022)- Crie você mesmo Android/IOS",
+      "url": "https://www.udemy.com/course/crie-um-aplicativo-para-delivery-sem-saber-programar/"
+    },
+    {
+      "title": "Flutter & Dart - Le Guide Ultime 2024",
+      "url": "https://www.udemy.com/course/flutter-dart-le-guide-complet/"
+    },
+    {
+      "title": "Приложение Gps Tracker на Open Street Maps - Android studio",
+      "url": "https://www.udemy.com/course/gps-tracker-open-street-maps-android-studio/"
+    },
+    {
+      "title": "Flutter + Gemini: Aplicaciones con inteligencia artificial",
+      "url": "https://www.udemy.com/course/flutter-gemini/"
+    },
+    {
+      "title": "【 iOS 開発 】SwiftUI でタイマーアプリを作ろう【 Swift / iPhone アプリ 】",
+      "url": "https://www.udemy.com/course/ios-swiftui-swift-timer/"
+    },
+    {
+      "title": "60Derste Temelden İleriye Projelerle Android Studio Dersleri",
+      "url": "https://www.udemy.com/course/60derste-temelden-ileriye-projelerle-android-studio-dersleri/"
+    },
+    {
+      "title": "Mobil Uygulama Geliştirme (App Inventor)",
+      "url": "https://www.udemy.com/course/kod-yazmadan-mobil-uygulama-gelistirme/"
+    },
+    {
+      "title": "Desarrollo de Aplicaciones para Android con Kotlin",
+      "url": "https://www.udemy.com/course/desarrollo-de-aplicaciones-para-android-con-kotlin/"
+    },
+    {
+      "title": "React Native: 2025 Apps Reais, React/Expo do Zero ao Hero!",
+      "url": "https://www.udemy.com/course/crie-aplicativos-moveis-curso-react-native-do-zero-ao-hero/"
+    },
+    {
+      "title": "Android Studio и Firebase - \"Доска Объявлений\" Часть 3",
+      "url": "https://www.udemy.com/course/android-studio-firebase-3/"
+    },
+    {
+      "title": "Cursor AI ile Flutter Mobil Uygulama Geliştir ve Yayınla",
+      "url": "https://www.udemy.com/course/cursor-ai-ile-flutter-mobil-uygulama-gelistir-ve-yayinla/"
+    },
+    {
+      "title": "Xamarin.Forms Masterclass: Native Apps mit C# und VS 2019",
+      "url": "https://www.udemy.com/course/xamarin-forms-masterclass/"
+    },
+    {
+      "title": "Unity 3D- Trivia Bilgi Yarışması- (Firebase Storage ve Json)",
+      "url": "https://www.udemy.com/course/unity-3d-trivia-bilgi-yarsmas-firebase-storage-ve-json/"
+    },
+    {
+      "title": "Curso IOS Objetive-C, desarrollo de app catálogo comercial",
+      "url": "https://www.udemy.com/course/desarrollo-de-aplicativo-ios-catalogo-comercial/"
+    },
+    {
+      "title": "핵심만 쉽게 iOS9 and Objective-C",
+      "url": "https://www.udemy.com/course/ios9-and-objective-c/"
+    },
+    {
+      "title": "Crea una Agenda de Contactos con Core Data",
+      "url": "https://www.udemy.com/course/app-iphone-con-ios-8-swift-y-core-data/"
+    },
+    {
+      "title": "iOS Entwicklung - Entwickle Quiz Apps mit Swift 3 und iOS 10",
+      "url": "https://www.udemy.com/course/ios-entwicklung-entwickle-quiz-apps-mit-swift-3-und-ios-10/"
+    },
+    {
+      "title": "Android Sensors | Cas pratiques d'applications",
+      "url": "https://www.udemy.com/course/android-sensors-cas-pratiques-dapplications/"
+    },
+    {
+      "title": "처음 배우는 자연어 처리",
+      "url": "https://www.udemy.com/course/nlp_hihrd/"
+    },
+    {
+      "title": "Sıfırdan Zirveye Kodlama Bilmeden Mobil Uygulama Yapma Kursu",
+      "url": "https://www.udemy.com/course/sifirdan-zirveye-kodlama-bilmeden-android-mobil-uygulama-yapma-kursu/"
+    },
+    {
+      "title": "Kurs Programowanie Android Techniki Zaawansowane",
+      "url": "https://www.udemy.com/course/kurs-programowanie-android-techniki-zaawansowane/"
+    },
+    {
+      "title": "iOS программирование в Xcode на Swift - уровень 3, анимация",
+      "url": "https://www.udemy.com/course/ios-xcode-swift-3/"
+    },
+    {
+      "title": "SpriteKit Einführung - Spieleentwicklung für iOS mit Swift 3",
+      "url": "https://www.udemy.com/course/einfuhrung-in-spritekit-swift-30-ios-10/"
+    },
+    {
+      "title": "Master avanzado Android: Patrones de programación con Kotlin",
+      "url": "https://www.udemy.com/course/master-avanzado-android-patrones-de-programacion-con-kotlin/"
+    },
+    {
+      "title": "Ionic 4, React, GraphQL & Apollo: Consumindo API da SpaceX",
+      "url": "https://www.udemy.com/course/ionic-react-graphql/"
+    },
+    {
+      "title": "Developpement Mobiles : Xamarin Forms et MvvmCross",
+      "url": "https://www.udemy.com/course/developpement-mobiles-xamarin-forms-et-mvvmcross/"
+    },
+    {
+      "title": "Flutter & Dart - The Complete Guide [2023 Edition] A-Z",
+      "url": "https://www.udemy.com/course/el5hatib-flutter/"
+    },
+    {
+      "title": "Sıfırdan İleri Seviye JAVA Öğren",
+      "url": "https://www.udemy.com/course/sfrdan-ileri-seviye-java-ogren/"
+    },
+    {
+      "title": "XCode 11 , Swift 5 ve IOS13 ile Mobil Uygulamalar",
+      "url": "https://www.udemy.com/course/xcode-10-ve-swift-ile-mobil-uygulamalar/"
+    },
+    {
+      "title": "ノーコードアプリ開発FlutterFlow Blogアプリ",
+      "url": "https://www.udemy.com/course/flutterflow-f/"
+    },
+    {
+      "title": "React Native İle Sıfırdan IOS ve Android Uygulama Geliştirme",
+      "url": "https://www.udemy.com/course/react-native-ile-sifirdan-ios-ve-android-uygulama-gelistirme/"
+    },
+    {
+      "title": "كورس حوت الاندرويد لتعلم تطوير التطبيقات (عربي)",
+      "url": "https://www.udemy.com/course/7oot_al_java/"
+    },
+    {
+      "title": "Desarrolla Android (Desde 0 Hasta las Ultimas Tecnologías)",
+      "url": "https://www.udemy.com/course/desarrolla-android-desde-0-hasta-las-ultimas-tecnologias/"
+    },
+    {
+      "title": "Приложение для фитнеса на Android Studio + Kotlin",
+      "url": "https://www.udemy.com/course/android-studio-kotlin/"
+    },
+    {
+      "title": "(kivy + Python) المرجع الشامل لبناء تطبيقات الموبايل ببايثون",
+      "url": "https://www.udemy.com/course/kivy-python-y/"
+    },
+    {
+      "title": "Compose Multiplatform Bootcamp | Android | iOS | 2025",
+      "url": "https://www.udemy.com/course/compose-multiplatform-bootcamp-android-ios/"
+    },
+    {
+      "title": "AppSheet: Crie seu App para Gerenciar seu Negócio",
+      "url": "https://www.udemy.com/course/appsheet-crie-seu-app-para-gerenciar-seu-negocio/"
+    },
+    {
+      "title": "Construir juegos de realidad virtual para Android e iPhones",
+      "url": "https://www.udemy.com/course/construir-juegos-de-realidad-virtual-para-android-e-iphones/"
+    },
+    {
+      "title": "Aplicativos Flutter com Banco de Dados Mysql",
+      "url": "https://www.udemy.com/course/aplicativos-flutter-com-banco-de-dados-mysql/"
+    },
+    {
+      "title": "SwiftUI для начинающих программистов на Swift",
+      "url": "https://www.udemy.com/course/swift_ui/"
+    },
+    {
+      "title": "微信小程序实战教程",
+      "url": "https://www.udemy.com/course/chltsfxe/"
+    },
+    {
+      "title": "iOS 18 & Swift 6: Desenvolvimento de Aplicativos",
+      "url": "https://www.udemy.com/course/ios-18-swift-6-desenvolvimento-de-aplicativos/"
+    },
+    {
+      "title": "Flutterflow / Firebase 2023 en Español (Tinder clon)",
+      "url": "https://www.udemy.com/course/flutterflow-firebase-2023-en-espanol-tinder-clon/"
+    },
+    {
+      "title": "Android II Banco de dados Servidor usando php e java",
+      "url": "https://www.udemy.com/course/android-ii-banco-de-dados-servidor-usando-php-e-java/"
+    },
+    {
+      "title": ".NET MAUI - Técnicas de construcción de pantallas",
+      "url": "https://www.udemy.com/course/net-maui-tecnicas-de-construccion-de-pantallas/"
+    },
+    {
+      "title": "The Complete Flutter Development Bootcamp with Dart",
+      "url": "https://www.udemy.com/course/flutter-bootcamp-with-dart/"
+    },
+    {
+      "title": "Plus | + Módulos EXTRA | APP DELIVERY Multi Servicio | UBER",
+      "url": "https://www.udemy.com/course/app-delivery-flutter-nestjs-plus/"
+    },
+    {
+      "title": "Flutterflow do zero 2025 Crie Apps Modernos com Supabase.",
+      "url": "https://www.udemy.com/course/flutterflow-do-zero-2025-desenvolvimento-mobile-low-code/"
+    },
+    {
+      "title": "【AWS】AWSで実装するChatGPT VisionのLINE Bot開発！ー画像解析・画像生成編",
+      "url": "https://www.udemy.com/course/awsawschatgpt-visionline-bot/"
+    },
+    {
+      "title": "สอนสร้าง App และ Game บน iOS Android โดยไม่ต้องเขียนโค๊ด",
+      "url": "https://www.udemy.com/course/app-game-ios-android/"
+    },
+    {
+      "title": "【SwiftUI + MapKit】配車アプリを作りながらマップと位置情報の扱い方を学ぶ実践的iPhoneアプリ開発講座",
+      "url": "https://www.udemy.com/course/taxi-app-with-swiftui/"
+    },
+    {
+      "title": "Twitter APIを使ってSwiftでTwitterを作ろう",
+      "url": "https://www.udemy.com/course/twitterapi-swift/"
+    },
+    {
+      "title": "Crea un Clone de Instagram con ChatGPT, Flutter y Firebase",
+      "url": "https://www.udemy.com/course/crea-un-clone-de-instagram-con-chatgpt-flutter-y-firebase/"
+    },
+    {
+      "title": "Swift Ve Java'yı Aynı Anda Öğrenin!",
+      "url": "https://www.udemy.com/course/swift-ve-java-ile-programlama-temelerini-ogrenin/"
+    },
+    {
+      "title": "اندرويد ستوديو کوتلن فايربيس(Android+Kotlin+Firebase) Arabic",
+      "url": "https://www.udemy.com/course/android-salarpro/"
+    },
+    {
+      "title": "Android Studio untuk Pemula: Membuat Aplikasi Todolist",
+      "url": "https://www.udemy.com/course/android-studio-untuk-pemula/"
+    },
+    {
+      "title": "Android Projects Course Build 3 Applications from Scratch",
+      "url": "https://www.udemy.com/course/android-projects-course-build-3-applications-from-scratch/"
+    },
+    {
+      "title": "Клиент-серверная iOS-разработка, на языке Swift в Xcode",
+      "url": "https://www.udemy.com/course/ios-client-server/"
+    },
+    {
+      "title": "Curso Javascript + React Native + Typescript P/ Iniciante",
+      "url": "https://www.udemy.com/course/aplicacao-navegador-completo-javascript-html-css/"
+    },
+    {
+      "title": "Conversando com o ChatGPT para criar aplicativos em Flutter",
+      "url": "https://www.udemy.com/course/ia-flutter/"
+    },
+    {
+      "title": "Android development App for beginners (Arabic)",
+      "url": "https://www.udemy.com/course/android-development-app-for-beginners-arabic/"
+    },
+    {
+      "title": "DART& Flutter بالعربي",
+      "url": "https://www.udemy.com/course/dart-flutter-k/"
+    },
+    {
+      "title": "Xamarin De cero a experto con Web API y Entity Framework(C#)",
+      "url": "https://www.udemy.com/course/xamarin-de-cero-a-experto-con-web-api-y-entity-frameworkc/"
+    },
+    {
+      "title": "Curso Intermedio de AppGyver en español Cero Codificación",
+      "url": "https://www.udemy.com/course/curso-intermedio-de-appgyver-en-espanol-cero-codificacion/"
+    },
+    {
+      "title": "입문자를 위한 Kotlin(코틀린) 완벽 마스터하기",
+      "url": "https://www.udemy.com/course/kotlin-c/"
+    },
+    {
+      "title": "Android Studio и Firebase - \"Доска Объявлений\" Часть 4",
+      "url": "https://www.udemy.com/course/android-studio-firebase-4/"
+    },
+    {
+      "title": "Flutter et Riverpod : Maîtrisez la Gestion d'État Réactive",
+      "url": "https://www.udemy.com/course/flutter-riverpod/"
+    },
+    {
+      "title": ".NET MAUI - Desenvolvimento de Aplicativos Desktop e Mobile",
+      "url": "https://www.udemy.com/course/desenvolvimento-de-aplicativos-com-net-maui/"
+    },
+    {
+      "title": "[기초] 모바일 앱 개발자를 위한 Flutter(플러터) 제대로 배우기 Part.1",
+      "url": "https://www.udemy.com/course/flutter-part1/"
+    },
+    {
+      "title": "Curso de IONIC 3 Desenvolvendo Aplicativos",
+      "url": "https://www.udemy.com/course/curso-de-ionic-3-desenvolvendo-aplicativos/"
+    },
+    {
+      "title": "Android App Development Complete Course With Kotlin & Java",
+      "url": "https://www.udemy.com/course/android-ready/"
+    },
+    {
+      "title": "Flutter Curso Completo : App Móvil con Python y MongodB",
+      "url": "https://www.udemy.com/course/flutter-avanzado-con-getx-app-movil-con-python-y-mongodb/"
+    },
+    {
+      "title": ".Net Maui | C# ile Mobil ve Masaüstü Uygulama Geliştirin",
+      "url": "https://www.udemy.com/course/net-maui/"
+    },
+    {
+      "title": "Flutter Made Easy in Bahasa Indonesia",
+      "url": "https://www.udemy.com/course/flutter-made-easy/"
+    },
+    {
+      "title": "Aplicativo Financeiro com Ionic 5",
+      "url": "https://www.udemy.com/course/aplicativo-financeiro-com-ionic-5/"
+    },
+    {
+      "title": "Android Mobil Uygulama Geliştirme Kursu: Java | 2020",
+      "url": "https://www.udemy.com/course/android-mobil-uygulama-gelistirme-kursu-java/"
+    },
+    {
+      "title": "Flutter Laravel MySQL: E-Commerce App con Pasarelas de pago",
+      "url": "https://www.udemy.com/course/flutter-laravel-mysql-e-commerce-app-con-pasarelas-de-pago/"
+    },
+    {
+      "title": "Sıfırdan Xamarin ile Aynı Anda Android İOS Uygulama Gelştrm",
+      "url": "https://www.udemy.com/course/visual-studio-xamarin-ile-ios-ve-andiroid-ayn-anda-glstm/"
+    },
+    {
+      "title": "Criando Aplicativo Financeiro com Ionic3",
+      "url": "https://www.udemy.com/course/criando-aplicativo-financeiro-com-ionic3/"
+    },
+    {
+      "title": "Apprendre Swift : La Formation Complète pour Débutant·e·s",
+      "url": "https://www.udemy.com/course/apprendre-swift/"
+    },
+    {
+      "title": "Desarrollo de aplicaciones móviles con iOS y Firebase 2",
+      "url": "https://www.udemy.com/course/desarrollo-de-aplicaciones-moviles-con-ios-y-firebase-2/"
+    },
+    {
+      "title": "Jetpack Compose desde cero, migra tus vistas de Android XML",
+      "url": "https://www.udemy.com/course/jetpack-compose-curso-desde-cero-migrar-vistas-android-xml/"
+    },
+    {
+      "title": "Kotlin知識ゼロOK！Composeで始めるプロのAndroid開発者になるためのマスターコース",
+      "url": "https://www.udemy.com/course/kotlin_android_pro/"
+    },
+    {
+      "title": "Xamarin Forms: CollectionView a Fondo",
+      "url": "https://www.udemy.com/course/xamarin-forms-collectionview/"
+    },
+    {
+      "title": "Ionic 8.6 – Crie Apps Android, IOS e PWA",
+      "url": "https://www.udemy.com/course/ionic-86-crie-apps-componentes-visuais-plugins-nativos/"
+    },
+    {
+      "title": "Firebase Database : CRUD Android App Development",
+      "url": "https://www.udemy.com/course/firebase-database-crud-android-app-development/"
+    },
+    {
+      "title": "Android Bootcamp Programı | Java | 2025",
+      "url": "https://www.udemy.com/course/android-bootcamp-program-java/"
+    },
+    {
+      "title": "Advanced React Native Topics",
+      "url": "https://www.udemy.com/course/advanced-react-native-topics/"
+    },
+    {
+      "title": "Xamarin C# com Mysql - Visual Studio 2019",
+      "url": "https://www.udemy.com/course/xamarin-c-com-mysql-visual-studio-2019/"
+    },
+    {
+      "title": "Delphi ile Android ve IOS Programlama 1",
+      "url": "https://www.udemy.com/course/delphi-ile-android-ve-ios-programlama-1/"
+    },
+    {
+      "title": "Curso de Xamarin para Android y Firebase en C# Login y crud",
+      "url": "https://www.udemy.com/course/curso-de-xamarin-para-android-y-firebase-en-c-sharp/"
+    },
+    {
+      "title": "Créez une API avec Swift et Vapor",
+      "url": "https://www.udemy.com/course/swift-vapor-french/"
+    },
+    {
+      "title": "Membuat Storage Portofolio menggunakan NodeJS dan Flutter",
+      "url": "https://www.udemy.com/course/membuat-storage-portofolio-menggunakan-nodejs-dan-flutter/"
+    },
+    {
+      "title": "Flutter & Firebase E-Ticaret ve Admin Uygulaması",
+      "url": "https://www.udemy.com/course/flutter-firebase-e-ticaret-ve-admin-uygulamas-2024/"
+    },
+    {
+      "title": "MIT APP INVENTOR İLE ANDROİD MOBİL UYGULAMA VE OYUN TASARIMI",
+      "url": "https://www.udemy.com/course/mit-app-inventor-ile-android-mobil-uygulama-ve-oyun-tasarimi/"
+    },
+    {
+      "title": "NET MAUI From 0 To Hero [Arabic]",
+      "url": "https://www.udemy.com/course/net-maui-from-0-to-hero-arabic/"
+    },
+    {
+      "title": "초보자도 쉽게 할 수 있는 아이폰 어플 만들기",
+      "url": "https://www.udemy.com/course/icearrowswiftbeginner/"
+    },
+    {
+      "title": ".NET MAUI: crea aplicaciones para Android, iOS, Mac y Window",
+      "url": "https://www.udemy.com/course/net-maui-crea-aplicaciones-para-android-ios-mac-y-window/"
+    },
+    {
+      "title": "Flutter e Dart: Crea App Android e iOS",
+      "url": "https://www.udemy.com/course/flutter-dart-app-android-ios/"
+    },
+    {
+      "title": "[중급] 안드로이드 앱 개발자를 위한 Kotlin(코틀린) 스킬업 클래스 Part.1",
+      "url": "https://www.udemy.com/course/kotlin-part1-g/"
+    },
+    {
+      "title": "Crea una app con ChatGPT en Android: Curso completo",
+      "url": "https://www.udemy.com/course/crea-una-app-con-chatgpt-en-android/"
+    },
+    {
+      "title": "คอร์สเรียนเขียน iOS App ด้วยภาษา Swift และ Xcode",
+      "url": "https://www.udemy.com/course/ios-app-swift-xcode/"
+    },
+    {
+      "title": "React Native - The Practical Guide [2025]",
+      "url": "https://www.udemy.com/course/react-native-the-practical-guide/"
+    },
+    {
+      "title": "【入門編】React Native & Expo でアプリ開発のスキルを身につける！",
+      "url": "https://www.udemy.com/course/react-native-todo-list/"
+    },
+    {
+      "title": "Curso de iBeacon para Eventos",
+      "url": "https://www.udemy.com/course/curso-de-ibeacon-para-eventos/"
+    },
+    {
+      "title": "Curso de SwiftUI | Aprende creando proyectos reales",
+      "url": "https://www.udemy.com/course/tutoriales-de-swiftui-la-guia-completa-en-pildoras-vol1/"
+    },
+    {
+      "title": "Les animations avec Flutter et Dart",
+      "url": "https://www.udemy.com/course/flutter_animations/"
+    },
+    {
+      "title": "Aprende a desarrollar aplicaciones Android desde cero",
+      "url": "https://www.udemy.com/course/aprende-a-desarrollar-aplicaciones-android-desde-cero/"
+    },
+    {
+      "title": "Crea tu propio TikTok con React Native y Django",
+      "url": "https://www.udemy.com/course/crea-tu-propio-tiktok-con-react-native-y-django/"
+    },
+    {
+      "title": "RealEstate App SwiftUI 4.0 iOS16 تطبيق عقاري",
+      "url": "https://www.udemy.com/course/swiftui-40-ios16tariqalmazyad/"
+    },
+    {
+      "title": "CoreML - Maitrisez le machine learning sur iOS",
+      "url": "https://www.udemy.com/course/coreml-maitrisez-le-machine-learning-sur-ios/"
+    },
+    {
+      "title": "WebRTC 2021 Praktyczny Kurs. Zbuduj wideoczat z React",
+      "url": "https://www.udemy.com/course/webrtc-2021-praktyczny-kurs-zbuduj-wasna-aplikacje-z-react/"
+    },
+    {
+      "title": "Ionic 6: Crea aplicaciones móviles iOS y Android con React",
+      "url": "https://www.udemy.com/course/ionic-crea-aplicaciones-moviles-ios-y-android-con-react/"
+    },
+    {
+      "title": "Desenvolvendo Aplicativos Mobile com C++ para Android e iOS",
+      "url": "https://www.udemy.com/course/desenvolvendo-aplicativos-mobile-com-cpp-para-android-e-ios/"
+    },
+    {
+      "title": "Flutter Profissional: DDD, Clean Architecture e SOLID 2025",
+      "url": "https://www.udemy.com/course/flutter-profissional-apps-modernos-e-boas-praticas-2025/"
+    },
+    {
+      "title": "Desarrollo de Apps para Android",
+      "url": "https://www.udemy.com/course/desarrollo-de-apps-para-android/"
+    },
+    {
+      "title": "Injeção de Dependências no Flutter com GetIt + Injectable",
+      "url": "https://www.udemy.com/course/flutter-di/"
+    },
+    {
+      "title": "Arquitectura Limpia con Flutter",
+      "url": "https://www.udemy.com/course/arquitectura-limpia-con-flutter/"
+    },
+    {
+      "title": "Kotlin Android Developer 101 Bahasa Indonesia",
+      "url": "https://www.udemy.com/course/kotlin-android-developer-101-bahasa-indonesia/"
+    },
+    {
+      "title": "Crea una APP clone de InDriver UBER con Flutter Django MySQL",
+      "url": "https://www.udemy.com/course/crea-una-app-clone-de-indriver-uber-con-flutter-django-mysql/"
+    },
+    {
+      "title": "Разработке iOS приложения \"ToDo List\" на языке Swift в Xcode",
+      "url": "https://www.udemy.com/course/ios-todo-list/"
+    },
+    {
+      "title": "Android Uygulama: Pie ile Android App Geliştirip Yayınlayın",
+      "url": "https://www.udemy.com/course/android-uygulamaoreo-ve-pie-ile-android-uygulama-gelistirme/"
+    },
+    {
+      "title": "Advanced 3G Optimization For Eng. Emad Salem",
+      "url": "https://www.udemy.com/course/advanced-3g-optimization-for-eng-emad-salem/"
+    },
+    {
+      "title": "Projelerle Flutter ile Android & Ios Geliştirme",
+      "url": "https://www.udemy.com/course/projelerle-flutter/"
+    },
+    {
+      "title": "CURSO ANDROID DESDE CERO",
+      "url": "https://www.udemy.com/course/curso-android-desde-cero/"
+    },
+    {
+      "title": "Intégrez des tests à vos applications Flutter",
+      "url": "https://www.udemy.com/course/flutter_test/"
+    },
+    {
+      "title": "iOS & Swift - The Complete iOS App Development Bootcamp",
+      "url": "https://www.udemy.com/course/ios-13-app-development-bootcamp/"
+    },
+    {
+      "title": "Introdução ao Desenvolvimento de Apps Android com JAVA",
+      "url": "https://www.udemy.com/course/introducao-ao-desenvolvimento-de-apps-android-com-java/"
+    },
+    {
+      "title": "Como crear aplicaciones para ANDROID con ejemplos prácticos",
+      "url": "https://www.udemy.com/course/disena-pantallas-para-dispositivos-android-desde-cero/"
+    },
+    {
+      "title": "60分で分かるFlutter Golden Tests (golden_toolkit by ebay)",
+      "url": "https://www.udemy.com/course/flutter-golden-tests/"
+    },
+    {
+      "title": "Supabase를 활용한 풀스택 입문 크로스플랫폼 플러터(Flutter) 앱 개발",
+      "url": "https://www.udemy.com/course/hongdroid_supabase/"
+    },
+    {
+      "title": "Mastering Flutter E-commerce: Build a Full-Featured App",
+      "url": "https://www.udemy.com/course/mastering-flutter-e-commerce-build-a-full-featured-app/"
+    },
+    {
+      "title": "iOS et Swift : Guide de la monétisation avec Google AdMob",
+      "url": "https://www.udemy.com/course/ios-12-guide-de-la-monetisation/"
+    },
+    {
+      "title": "Курс по архитектуре MVVM под iOS на Swift",
+      "url": "https://www.udemy.com/course/mvvm-ios/"
+    },
+    {
+      "title": "Xamarin Forms: Crea un aplicación de Chat en tiempo real",
+      "url": "https://www.udemy.com/course/xamarin-forms-chat/"
+    },
+    {
+      "title": "iOS 9 y Swift2 crea apps iPhone desde Cero con servicios web",
+      "url": "https://www.udemy.com/course/aprende-ios9-con-swift-2-y-crea-aplicaciones-iphone-ipad/"
+    },
+    {
+      "title": "Robotics + Arduino Application Development Course\"",
+      "url": "https://www.udemy.com/course/application2dev/"
+    },
+    {
+      "title": "Curso de inventario en almacenes y bodegas",
+      "url": "https://www.udemy.com/course/aplicacion-movil-para-realizar-inventario-en-almacenes/"
+    },
+    {
+      "title": "[Flutter]最短で75言語に対応させ、あなたのアプリを世界の人が届ける方法",
+      "url": "https://www.udemy.com/course/flutter_l10n/"
+    },
+    {
+      "title": "[초급] 안드로이드 앱 개발 초급자 과정 with 코틀린(Kotlin) Part.2",
+      "url": "https://www.udemy.com/course/with-kotlin-part2/"
+    },
+    {
+      "title": "Firebase para Android - Módulo IV - Agenda de Serviços",
+      "url": "https://www.udemy.com/course/firebase-para-android-modulo-iiii-agenda-de-servicos/"
+    },
+    {
+      "title": "აპლიკაციების დეველოპმენტი ანდროიდისთვის",
+      "url": "https://www.udemy.com/course/geoandroiddeveloper/"
+    },
+    {
+      "title": "JetPack Compose Desde Cero - Android",
+      "url": "https://www.udemy.com/course/jetpack-compose-desde-cero-android/"
+    },
+    {
+      "title": "Flutter avec Mysql php Crud",
+      "url": "https://www.udemy.com/course/flutter-avec-mysql-php-crud/"
+    },
+    {
+      "title": "Android App Development Course in Tamil",
+      "url": "https://www.udemy.com/course/android-app-development-with-java-in-tamil/"
+    },
+    {
+      "title": "Flutter: Guide de l'authentification à Firebase",
+      "url": "https://www.udemy.com/course/flutter_auth/"
+    },
+    {
+      "title": "Chat App & Swift 5 | UIKit | No Storyboard | MVVM | iOS 16",
+      "url": "https://www.udemy.com/course/chat-app-swift-5-uikit-no-storyboard-ios-16-2022/"
+    },
+    {
+      "title": "Complete Android App Development Masterclass in اردو & हिंदी",
+      "url": "https://www.udemy.com/course/complete-android-app-development-masterclass-in-urdu-hindi/"
+    }
+  ]
+}

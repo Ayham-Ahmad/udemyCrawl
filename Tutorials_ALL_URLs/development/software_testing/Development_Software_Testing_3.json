@@ -1,0 +1,1506 @@
+{
+  "main_category": "development",
+  "sub_category": "Software Testing",
+  "courses": [
+    {
+      "title": "Automatización de APIs con Karate DSL y ChatGPT + Portafolio",
+      "url": "https://www.udemy.com/course/automatizacion-de-apis-con-karate-dsl-y-chatgpt-portafolio/"
+    },
+    {
+      "title": "Automatisation des tests logiciels avec Katalon de A à Z",
+      "url": "https://www.udemy.com/course/automatisation-des-test-logiciels-avec-katalon-de-a-a-z/"
+    },
+    {
+      "title": "QA Testing Quiz - Pytania rekrutacyjne na testera",
+      "url": "https://www.udemy.com/course/quiz-na-testera/"
+    },
+    {
+      "title": "DEVENIR TESTEUR DES SYSTEMES EMBARQUES",
+      "url": "https://www.udemy.com/course/test-des-systemes-embarques/"
+    },
+    {
+      "title": "从质量效能推动DevOps转型",
+      "url": "https://www.udemy.com/course/devops-w/"
+    },
+    {
+      "title": "Masterclass de QA Testing orientado al mercado laboral",
+      "url": "https://www.udemy.com/course/masterclass-de-qa-testing-orientado-al-mercado-laboral/"
+    },
+    {
+      "title": "Testes Unitários com jest",
+      "url": "https://www.udemy.com/course/testes-unitarios-com-jest/"
+    },
+    {
+      "title": "Ninja do Cypress",
+      "url": "https://www.udemy.com/course/ninja-do-cypress/"
+    },
+    {
+      "title": "Testes contínuos em CodeceptJS no Github Actions",
+      "url": "https://www.udemy.com/course/testes-continuos-em-codeceptjs-no-github-actions/"
+    },
+    {
+      "title": "Préparation Efficace au Certificat ISTQB Agile",
+      "url": "https://www.udemy.com/course/agile-formation-istqb-agile-tester-100-de-reussite/"
+    },
+    {
+      "title": "Testes Automatizados com Playwright + Typescript - Básico",
+      "url": "https://www.udemy.com/course/testes-automatizados-com-playwright-typescript-basico-pt-br/"
+    },
+    {
+      "title": "Maîtrisez les Tests Unitaires en .NET Core (.NET 7) et Xunit",
+      "url": "https://www.udemy.com/course/maitrisez-les-tests-unitaires-en-net-core-net-7-et-xunit/"
+    },
+    {
+      "title": "Selenium 4 WebDriver 自动化测试Java版 +面试问题（中文讲解）",
+      "url": "https://www.udemy.com/course/selenium-webdriver-with-java-testng-and-log4j2/"
+    },
+    {
+      "title": "Introducción a la automatización de pruebas Web - Playwright",
+      "url": "https://www.udemy.com/course/introduccion-a-la-automatizacion-de-pruebas-web-playwright/"
+    },
+    {
+      "title": "Testy jednostkowe w Python – zrozum, a nie zapamiętaj",
+      "url": "https://www.udemy.com/course/testy-jednostkowe-w-python/"
+    },
+    {
+      "title": "Complete manual software testing course",
+      "url": "https://www.udemy.com/course/learn-manual-testing-in-hindi/"
+    },
+    {
+      "title": "Selenium ile Test Otomasyonu(J-unit, Test NG, CucumberBDD)",
+      "url": "https://www.udemy.com/course/selenium-ile-test-otomasyonuj-unit-test-ng-cucumber-bdd/"
+    },
+    {
+      "title": "Master: Robot Framework con Python Test QA (En Español)",
+      "url": "https://www.udemy.com/course/master-robot-framework-nivel-1-en-espanol/"
+    },
+    {
+      "title": "API авто-тесты: Java, Rest Assured, Maven + Postman + Ci/CD",
+      "url": "https://www.udemy.com/course/api-java-rest-assured-maven-postman-cicd/"
+    },
+    {
+      "title": "Testes unitários em C# com NUnit e Moq",
+      "url": "https://www.udemy.com/course/testes-unitarios-em-csharp-com-nunit-e-moq/"
+    },
+    {
+      "title": "Aprenda testes integrados com Selenium em C#",
+      "url": "https://www.udemy.com/course/aprenda-testes-integrados-com-selenium-em-csharp/"
+    },
+    {
+      "title": "Dominando o PLAYWRIGHT!",
+      "url": "https://www.udemy.com/course/dominando-o-playwright/"
+    },
+    {
+      "title": "Mastering C# Testing From Unit to Integration with Moq",
+      "url": "https://www.udemy.com/course/mastering-c-testing-from-unit-to-integration-with-moq/"
+    },
+    {
+      "title": "Introdução ao BDD",
+      "url": "https://www.udemy.com/course/introducao-ao-bdd/"
+    },
+    {
+      "title": "Automação de Testes de API com Playwright e Python",
+      "url": "https://www.udemy.com/course/automacao-de-testes-de-api-com-playwright-e-python/"
+    },
+    {
+      "title": "Xray en Jira: Curso Esencial para Gestión de Pruebas",
+      "url": "https://www.udemy.com/course/xray-en-jira-curso-esencial/"
+    },
+    {
+      "title": "Testes Automatizados usando Robot Framework - Módulo 2",
+      "url": "https://www.udemy.com/course/testes-automatizados-usando-robot-framework-modulo-2/"
+    },
+    {
+      "title": "Test Android Mobile với APPIUM",
+      "url": "https://www.udemy.com/course/test-android-mobile-voi-appium/"
+    },
+    {
+      "title": "【한글자막】 Jira & Agile 사용한 소프트웨어 테스트 마스터 클래스: 품질 보증 (QA) 팀 리더되기",
+      "url": "https://www.udemy.com/course/jira-agile-qa-leader/"
+    },
+    {
+      "title": "【ウズカレ式】2.5時間で「ソフトウェアテストの概要」が学べる講座＜JSTQB-FL試験対策①＞",
+      "url": "https://www.udemy.com/course/jstqb-tr/"
+    },
+    {
+      "title": "Testes Unitários do Zero com Angular 14 / Jasmine e Karma",
+      "url": "https://www.udemy.com/course/testes-unitarios-com-angular-14-jasmine-e-karma/"
+    },
+    {
+      "title": "QA קורס בדיקות תוכנה ידני",
+      "url": "https://www.udemy.com/course/qa-israelonline-cource/"
+    },
+    {
+      "title": "Performance Testing Using Apache JMeter (بالعربية)",
+      "url": "https://www.udemy.com/course/performance-testing-using-apache-jmeter-arabic/"
+    },
+    {
+      "title": "Pengujian Kegunaan dalam Pengembangan Perangkat Lunak",
+      "url": "https://www.udemy.com/course/usability-testing-/"
+    },
+    {
+      "title": "Tổng quan về kiểm thử tự động",
+      "url": "https://www.udemy.com/course/automation-test-fundamental/"
+    },
+    {
+      "title": "Testando API REST com MongoDB e RabbitMQ em Cypress",
+      "url": "https://www.udemy.com/course/testando-api-rest-com-cypress/"
+    },
+    {
+      "title": "ISTQB Foundation Level Pratik Konu Çağrışımlı Test",
+      "url": "https://www.udemy.com/course/istqb-foundation-level-pratik-konu-cagrsml-test/"
+    },
+    {
+      "title": "TDD em C# com xUnit, NUnit e Moq. Testes e Frameworks .NET.",
+      "url": "https://www.udemy.com/course/c-testes-e-frameworks/"
+    },
+    {
+      "title": "工程總監帶你學軟體測試 Learn QA testing with engineering director",
+      "url": "https://www.udemy.com/course/learn-qa-testing-with-engineering-director/"
+    },
+    {
+      "title": "Podstawy Frameworka Appium w praktyce i pigułce!",
+      "url": "https://www.udemy.com/course/framework-appium/"
+    },
+    {
+      "title": "Pruebas Unitarias en Spring Boot con JUnit y Mockito.",
+      "url": "https://www.udemy.com/course/pruebas-unitarias-en-spring-boot-con-junit-y-mockito/"
+    },
+    {
+      "title": "2 EXAMENS ISTQB FONDATION V4 - COMPLETS AVEC DETAILS",
+      "url": "https://www.udemy.com/course/2-examens-istqb-fondation-v4-complets-avec-details/"
+    },
+    {
+      "title": "Подготовка к собеседованию Мануальный тестировщик ТЕСТЫ",
+      "url": "https://www.udemy.com/course/career-and-interview-qa-2022/"
+    },
+    {
+      "title": "Software Testing für Anfänger oder Quereinsteiger",
+      "url": "https://www.udemy.com/course/software-tester-werden-videokurs-software-testing/"
+    },
+    {
+      "title": "Все про Charles Proxy для розробки та тестування",
+      "url": "https://www.udemy.com/course/charles-proxy-course/"
+    },
+    {
+      "title": "Postman İle API Testlerine Giriş: Başlangıç Seviyesi Eğitim",
+      "url": "https://www.udemy.com/course/postman-ile-api-testleri-egitimi/"
+    },
+    {
+      "title": "Pruebas unitarias con xUnit en .NET",
+      "url": "https://www.udemy.com/course/xunit-net/"
+    },
+    {
+      "title": "ChatGPT w testowaniu oprogramowania",
+      "url": "https://www.udemy.com/course/chatgpt-w-testowaniu-oprogramowania/"
+    },
+    {
+      "title": "Fundamentos de Testing de Software y TDD con JUnit 5",
+      "url": "https://www.udemy.com/course/testing-software-tdd-junit/"
+    },
+    {
+      "title": "API Testing اختبار البرمجيات",
+      "url": "https://www.udemy.com/course/api-testing/"
+    },
+    {
+      "title": "KI-Komplett: Die All in One Masterclass",
+      "url": "https://www.udemy.com/course/ki-komplett-die-all-in-one-masterclass/"
+    },
+    {
+      "title": "Selenium từ cơ bản đến nâng cao",
+      "url": "https://www.udemy.com/course/selenium-tu-co-ban-va-nang-cao-voi-springboot/"
+    },
+    {
+      "title": "Performance Testing using JMeter Tool - تعلم أساسيات",
+      "url": "https://www.udemy.com/course/performance-testing-jmeter/"
+    },
+    {
+      "title": "SDET QA Yazılım Test Otomasyonu",
+      "url": "https://www.udemy.com/course/yazilim-test-muhendisligi-selenium-testng-cucumber/"
+    },
+    {
+      "title": "Automatyzacja testów: WebdriverIO + Typescript - Jenkins",
+      "url": "https://www.udemy.com/course/testowanie-automatyczne-webdriverio/"
+    },
+    {
+      "title": "Podstawy korzystania z WireMock do testowania REST API",
+      "url": "https://www.udemy.com/course/podstawy-korzystania-z-wiremock-do-testowania-rest-api/"
+    },
+    {
+      "title": "Создание фреймворка и автоматизация тестов на Java+Selenium",
+      "url": "https://www.udemy.com/course/buildyourtestautomationframework/"
+    },
+    {
+      "title": "Robot eXpress",
+      "url": "https://www.udemy.com/course/robot-express/"
+    },
+    {
+      "title": "Master en API testing desde cero",
+      "url": "https://www.udemy.com/course/master-en-api-testing-desde-cero-2023/"
+    },
+    {
+      "title": "Curso completo de testes de software, de jUnit a Arquitetura",
+      "url": "https://www.udemy.com/course/testes-ao-codigo-do-legacy-ao-archunit/"
+    },
+    {
+      "title": "Simulado CTFL-AT",
+      "url": "https://www.udemy.com/course/simulado-ctfl-at/"
+    },
+    {
+      "title": "Trở thành Quality Control (QC) / Tester (kiểm thử phần mềm)",
+      "url": "https://www.udemy.com/course/tro-thanh-quality-control-qc-tester-kiem-thu-phan-mem/"
+    },
+    {
+      "title": "Kurs Jenkins dla testerów automatyzujących",
+      "url": "https://www.udemy.com/course/kurs-jenkins-dla-testerow-automatyzujacych/"
+    },
+    {
+      "title": "Devops et Test logiciel avec Azure DevOps -2025",
+      "url": "https://www.udemy.com/course/devops-et-test-logiciel-avec-azure-devops-test-plan-de-a-a-z/"
+    },
+    {
+      "title": "Uygulamalı Etik Hacker Kursu Pythonla Hacker Araçları",
+      "url": "https://www.udemy.com/course/uygulamal-etik-hacker-kursu-pythonla-hacker-araclari-yazma/"
+    },
+    {
+      "title": "ChatGPT Elite Kurs: Von A-Z inkl. App, Sora & DALLE 2025!",
+      "url": "https://www.udemy.com/course/chatgpt-elite-kurs-von-a-z-inkl-app-sora-dalle-2025/"
+    },
+    {
+      "title": "JMeter od podstaw: Kompletny kurs testowania wydajności",
+      "url": "https://www.udemy.com/course/jmeter-od-podstaw-kompletny-kurs-testowania-wydajnosci/"
+    },
+    {
+      "title": "Sıfırdan Postman ile API Testi & Test Otomasyonu Öğrenin",
+      "url": "https://www.udemy.com/course/sifirdanpostmanileapitestiveotomasyonu/"
+    },
+    {
+      "title": "הקורס השלם לאוטומציה: בניית תשתית עם Playwright & Python",
+      "url": "https://www.udemy.com/course/test-automation-build-a-scalable-framework-from-scratch/"
+    },
+    {
+      "title": "Maîtrisez Cypress : Tests Automatisés pour Applications Web",
+      "url": "https://www.udemy.com/course/maitrisez-cypress-tests-automatises-pour-applications-web/"
+    },
+    {
+      "title": "Rest API Testing (Automation) from Scratch-Rest Assured Java",
+      "url": "https://www.udemy.com/course/rest-api-automation-testing-rest-assured/"
+    },
+    {
+      "title": "Software Testing Level 2 بالعربي",
+      "url": "https://www.udemy.com/course/software-testing-level-2/"
+    },
+    {
+      "title": "Cypress на реальном проекте для начинающих QA Automation",
+      "url": "https://www.udemy.com/course/cypress-qa-automation/"
+    },
+    {
+      "title": "Frida快速入门[Win]/OD/CE/IDA/Python/TypeScript/JavaScript",
+      "url": "https://www.udemy.com/course/learnfrida/"
+    },
+    {
+      "title": "Узучаем Java Тестирование: написание юнит-тестов в JUnit5",
+      "url": "https://www.udemy.com/course/junit-5-30/"
+    },
+    {
+      "title": "Initiation au test logiciel ou application mobile",
+      "url": "https://www.udemy.com/course/initiation-au-test-logiciel/"
+    },
+    {
+      "title": "Pruebas Unitarias en .Net",
+      "url": "https://www.udemy.com/course/pruebas-unitarias-en-net/"
+    },
+    {
+      "title": "React Nextjs-Testing Library Jest Full Project Test بالعربي",
+      "url": "https://www.udemy.com/course/react-nextjs-testing-library-jest-full-project-test/"
+    },
+    {
+      "title": "Kurs: Testautomatisierung mit Selenium für Java + Python",
+      "url": "https://www.udemy.com/course/kurs-testautomatisierung-mit-selenium-4-java-python/"
+    },
+    {
+      "title": "Robot Framework: Testes Automatizados de interface e API",
+      "url": "https://www.udemy.com/course/robot-framework-testes-automatizados-de-interface-e-api/"
+    },
+    {
+      "title": "ISTQB CTFL v4 - دليلك لاجتياز شهادة اختبار البرمجيات",
+      "url": "https://www.udemy.com/course/istqb-ctfl-v4/"
+    },
+    {
+      "title": "Unit Testing in .NET",
+      "url": "https://www.udemy.com/course/unit-testing-in-net/"
+    },
+    {
+      "title": "Testes contínuos em Playwright no Github Actions",
+      "url": "https://www.udemy.com/course/testes-continuos-em-playwright-no-github-actions/"
+    },
+    {
+      "title": "Введення в тестування (QA). Що таке якість ПЗ?",
+      "url": "https://www.udemy.com/course/web-academy-qa-eadfl/"
+    },
+    {
+      "title": "Testes de Mapas e Geolocalização com Cypress",
+      "url": "https://www.udemy.com/course/testes-de-mapas-geolocalizacao-e-componentes-com-cypress/"
+    },
+    {
+      "title": "Jira + Xray: Aprenda a criar e gerir seu Plano de Teste",
+      "url": "https://www.udemy.com/course/jira-xray-2024-aprenda-a-criar-e-gerir-seu-plano-de-teste/"
+    },
+    {
+      "title": "İş Görüşmelerine Hazırlık ve CV Hazırlama Rehberi",
+      "url": "https://www.udemy.com/course/test-uzmanlarnn-kariyer-yolculugu/"
+    },
+    {
+      "title": "Learn Software Testing in Hindi",
+      "url": "https://www.udemy.com/course/learn-software-testing-in-hindi/"
+    },
+    {
+      "title": "Mastering Web Automation using Playwright & JavaScript (AR)",
+      "url": "https://www.udemy.com/course/mastering-web-automation-using-playwright-and-javascript/"
+    },
+    {
+      "title": "C# .NET: Testy jednostkowe i integracyjne + praktyka",
+      "url": "https://www.udemy.com/course/c-net-testy-jednostkowe-i-integracyjne/"
+    },
+    {
+      "title": "Robot Framework com Playwright e GitHub Actions",
+      "url": "https://www.udemy.com/course/robot-framework-com-playwright-e-github-actions/"
+    },
+    {
+      "title": "Primeiros passos com Selenium | C# | NUnit | VSCode",
+      "url": "https://www.udemy.com/course/primeiros-passos-com-selenium-c-nunit-vscode/"
+    },
+    {
+      "title": "Formation de test des API/WEBSERVICES avec SOAPUI de A à Z",
+      "url": "https://www.udemy.com/course/formation-de-test-des-apiwebservices-avec-soapui-de-a-a-z/"
+    },
+    {
+      "title": "초보자를 위한 Postman 및 API 테스트 빠른 입문",
+      "url": "https://www.udemy.com/course/introduction-postman-api-korean/"
+    },
+    {
+      "title": "Automatización de APIS con Karate Labs + Jenkins desde Cero",
+      "url": "https://www.udemy.com/course/automatizacion-de-apis-con-karate-labs-jenkins-desde-cero/"
+    },
+    {
+      "title": "Автоматизация мобильного тестирования с Robot Framework",
+      "url": "https://www.udemy.com/course/robotframework-mobile/"
+    },
+    {
+      "title": "Pengenalan Quality Engineering Di Dunia Industri",
+      "url": "https://www.udemy.com/course/quality-engineering/"
+    },
+    {
+      "title": "Iniciando na área de testes de software",
+      "url": "https://www.udemy.com/course/iniciando-na-area-de-testes-de-software/"
+    },
+    {
+      "title": "Manuel ve Otomasyon Test Projesi",
+      "url": "https://www.udemy.com/course/manuel-ve-otomasyon-test-projesi/"
+    },
+    {
+      "title": "Mobile Testing",
+      "url": "https://www.udemy.com/course/mobile-testing/"
+    },
+    {
+      "title": "Automatización avanzada de pruebas de software",
+      "url": "https://www.udemy.com/course/automationtestingspa/"
+    },
+    {
+      "title": "JUnit 5",
+      "url": "https://www.udemy.com/course/junit5-dmdev/"
+    },
+    {
+      "title": "Appium自动化测试实战",
+      "url": "https://www.udemy.com/course/appium-k/"
+    },
+    {
+      "title": "Осваиваем Kali Linux с нуля",
+      "url": "https://www.udemy.com/course/kali-linux-ru/"
+    },
+    {
+      "title": "Formation Selenium A4Q FOUNDATION certifié en automatisation",
+      "url": "https://www.udemy.com/course/a4q-certification-devenir-testeur-selenium-a4q/"
+    },
+    {
+      "title": "Selenium Webdriver y Python: Automatizacíon de pruebas 2020",
+      "url": "https://www.udemy.com/course/selenium-webdriver-y-python-automatizacion-de-pruebas-2020/"
+    },
+    {
+      "title": "ゼロから始めるAIテスティング/今からでも遅くない AIテスティングの全てを学ぼう！",
+      "url": "https://www.udemy.com/course/ai-ai-testing/"
+    },
+    {
+      "title": "தமிழ் மொழியில் Selenium கற்றுக்கொள்ளுங்கள் | Learn Selenium",
+      "url": "https://www.udemy.com/course/selenium-tamil/"
+    },
+    {
+      "title": "Préparation efficace au Certificat ISTQB TEST MANAGER V3",
+      "url": "https://www.udemy.com/course/certification-istqb-testeur-certifie-avance-test-manager/"
+    },
+    {
+      "title": "Master Selenium in മലയാളം | by Entri",
+      "url": "https://www.udemy.com/course/master-selenium-in-by-entri/"
+    },
+    {
+      "title": "Master: Robocorp RPA Testing QA Básico-Avanzado (Español)",
+      "url": "https://www.udemy.com/course/master-robocorp-testing-qa-basico-avanzado-espanol/"
+    },
+    {
+      "title": "Pregatire pentru interviul QA (Testare Software)",
+      "url": "https://www.udemy.com/course/pregatire-pentru-interviul-qa-testare-software/"
+    },
+    {
+      "title": "QA Automation Selenium Webdriver , Java , Git ,Jenkis",
+      "url": "https://www.udemy.com/course/qa-automation-selenium-webdriver-java-git-jenkis/"
+    },
+    {
+      "title": "Arquitetura de testes de software - Curso COMPLETO!!",
+      "url": "https://www.udemy.com/course/arquitetura-de-testes-de-software-curso-completo/"
+    },
+    {
+      "title": "Governança de TI e Testes de Software (2025)",
+      "url": "https://www.udemy.com/course/testes-de-software-para-iniciantes/"
+    },
+    {
+      "title": "Tester Universal - Introductorio",
+      "url": "https://www.udemy.com/course/tester_universal_choucair/"
+    },
+    {
+      "title": "Jmeter接口性能及自动化测试实战",
+      "url": "https://www.udemy.com/course/jmeter-performance-testing/"
+    },
+    {
+      "title": "Postman von Grund auf – REST API testen",
+      "url": "https://www.udemy.com/course/postman-von-grund-auf-rest-api-testen/"
+    },
+    {
+      "title": "Testing untuk Web Developer",
+      "url": "https://www.udemy.com/course/testing-untuk-web-developer/"
+    },
+    {
+      "title": "自动化测试框架",
+      "url": "https://www.udemy.com/course/lcghfwjb/"
+    },
+    {
+      "title": "Programación en Java para Selenium Webdriver",
+      "url": "https://www.udemy.com/course/programacion-desde-cero-para-testers/"
+    },
+    {
+      "title": "Cypress ile Web Testlerini Güçlendirin",
+      "url": "https://www.udemy.com/course/cypress-ile-web-testlerini-guclendirin-sfrdan-uzmanlga/"
+    },
+    {
+      "title": "QA Testing: Guia Media Pruebas, API y Automatizacion",
+      "url": "https://www.udemy.com/course/qa-testing-guia-media-pruebas-api-y-automatizacion/"
+    },
+    {
+      "title": "Selenium və Java ilə Test Avtomatlaşdırma",
+      "url": "https://www.udemy.com/course/selenium-ve-java-ile-test-avtomatlasdirma/"
+    },
+    {
+      "title": "Maîtriser l'automatisation des tests avec Cypress",
+      "url": "https://www.udemy.com/course/maitriser-lautomatisation-des-tests-avec-cypress/"
+    },
+    {
+      "title": "Practical Manual Software Testing",
+      "url": "https://www.udemy.com/course/practical_software_testing_full_course/"
+    },
+    {
+      "title": "Trilhe sua Carreira: Explorando Cargos em Teste de Software",
+      "url": "https://www.udemy.com/course/trilhe-sua-carreira-explorando-cargos-em-teste-de-software/"
+    },
+    {
+      "title": "Desenvolvimento Web para QAs",
+      "url": "https://www.udemy.com/course/desenvolvimento-web-para-qas/"
+    },
+    {
+      "title": "Teste de Performance com Jmeter",
+      "url": "https://www.udemy.com/course/jmeter52/"
+    },
+    {
+      "title": "Gestion des tests : TestLink, Squash, Xray et autres outils",
+      "url": "https://www.udemy.com/course/testlink-outil-de-gestion-des-tests-de-a-a-z/"
+    },
+    {
+      "title": "Análise de Requisitos e Testes de Software (2025)",
+      "url": "https://www.udemy.com/course/analise-de-requisitos-testes-de-software-2024/"
+    },
+    {
+      "title": "[2025] Cypress od podstaw: Automatyzacja testów",
+      "url": "https://www.udemy.com/course/cypress-od-podstaw-automatyzacja-testow/"
+    },
+    {
+      "title": "FlutterでのはじめてのTDD(テスト 駆動開発)！【flutter testで、テストの第一歩から実導入まで】",
+      "url": "https://www.udemy.com/course/flutter-tdd/"
+    },
+    {
+      "title": "Quality Assurance Engineer : Cypress Dari Awal Sampai Mahir",
+      "url": "https://www.udemy.com/course/quality-assurance-engineer-cypress-dari-awal-sampai-mahir/"
+    },
+    {
+      "title": "Testes de Contrato em JAVA com PACT",
+      "url": "https://www.udemy.com/course/testes-de-contrato-em-java-com-pact/"
+    },
+    {
+      "title": "基於Selenium WebDriver 的Web 應用自動化測試",
+      "url": "https://www.udemy.com/course/selenium-webdriver-web/"
+    },
+    {
+      "title": "Manuel Yazılım Test Uzmanlığı Eğitimi & ISTQB",
+      "url": "https://www.udemy.com/course/manuel-yazilim-test-uzmanligi-egitimi/"
+    },
+    {
+      "title": "Automatización Móvil desde Cero con Appium + Cucumber",
+      "url": "https://www.udemy.com/course/automatizacion-de-pruebas-moviles-desde-cero-con-appium/"
+    },
+    {
+      "title": "JUnit 从入门到精通",
+      "url": "https://www.udemy.com/course/junit-ap/"
+    },
+    {
+      "title": "Testautomatisierung: Selenium WebDriver Java von Grund auf",
+      "url": "https://www.udemy.com/course/selenium-webdriver-java-von-grund-auf/"
+    },
+    {
+      "title": "KI Neueinsteiger? Starte ohne Vorkenntnisse mit ChatGPT & Co",
+      "url": "https://www.udemy.com/course/ki-neueinsteiger-starte-ohne-vorkenntnisse-mit-chatgpt-co/"
+    },
+    {
+      "title": "Bootcamp Cypress en español - Un framework desde cero (2025)",
+      "url": "https://www.udemy.com/course/bootcamp-cypress-como-crear-un-framework-desde-cero/"
+    },
+    {
+      "title": "Автоматизация тестирования API в Postman для начинающих",
+      "url": "https://www.udemy.com/course/at-postman-qahacking/"
+    },
+    {
+      "title": "Performance testing con JMeter + BlazeMeter",
+      "url": "https://www.udemy.com/course/performance-testing-con-jmeter-blazemeter/"
+    },
+    {
+      "title": "Cucumber con Selenium para la automatización de pruebas.",
+      "url": "https://www.udemy.com/course/cucumber-con-selenium-para-la-automatizacion-de-pruebas/"
+    },
+    {
+      "title": "Learn GenAI Tools & AI Agents for Software Testing",
+      "url": "https://www.udemy.com/course/generative-ai-in-software-testing/"
+    },
+    {
+      "title": "Unit Testing en C#",
+      "url": "https://www.udemy.com/course/unit-testing-nicopaez/"
+    },
+    {
+      "title": "Тестировщик с нуля. Тесты",
+      "url": "https://www.udemy.com/course/tests4testers/"
+    },
+    {
+      "title": "Java-Selenium con Cucumber de Novato a Experto",
+      "url": "https://www.udemy.com/course/java-selenium-con-cucumber-de-novato-a-experto/"
+    },
+    {
+      "title": "Arduino Eğitim Kursu",
+      "url": "https://www.udemy.com/course/sezerduino/"
+    },
+    {
+      "title": "【ウズカレ式】2.5時間で「ソフトウェアテストマネジメントの全体像」が学べる講座＜JSTQB-FL試験対策③＞",
+      "url": "https://www.udemy.com/course/jstqb-fl3/"
+    },
+    {
+      "title": "Cypress io باللغه العربيه",
+      "url": "https://www.udemy.com/course/cypress-io/"
+    },
+    {
+      "title": "Formation conception de tests logiciels de A à Z",
+      "url": "https://www.udemy.com/course/formation-conception-de-tests-de-a-a-z/"
+    },
+    {
+      "title": "Testare automată pentru începători!",
+      "url": "https://www.udemy.com/course/testare-automata-pentru-incepatori/"
+    },
+    {
+      "title": "Rozmowa Kwalifikacyjna dla Testera Oprogramowania - Pytania",
+      "url": "https://www.udemy.com/course/rozmowa-kwalifikacyjna-dla-testera-oprogramowania-pytania/"
+    },
+    {
+      "title": "Test logiciel :Devenez un Expert avec l’Aide de ChatGPT",
+      "url": "https://www.udemy.com/course/test-logiciel-devenez-un-expert-avec-laide-de-chatgpt/"
+    },
+    {
+      "title": "Test logiciel : Réussir vos entretiens d'embauche -2025",
+      "url": "https://www.udemy.com/course/test-logiciel-reussir-vos-entretiens-dembauche-2022/"
+    },
+    {
+      "title": "Belajar K6 Performance Testing",
+      "url": "https://www.udemy.com/course/belajar-k6/"
+    },
+    {
+      "title": "Cypress io | Sıfırdan İleri Seviyeye Web Otomasyon Testi",
+      "url": "https://www.udemy.com/course/cypress-io-sifirdan-ileri-seviyeye-web-otomasyon-testi/"
+    },
+    {
+      "title": "Test Mobile de A à Z - Cours Complet - de Débutant à Expert",
+      "url": "https://www.udemy.com/course/devenir-testeur-mobile-pro/"
+    },
+    {
+      "title": "Aprende API test con Java Rest Assured y Cucumber",
+      "url": "https://www.udemy.com/course/aprende-api-test-con-java-rest-assured-y-cucumber/"
+    },
+    {
+      "title": "Formation de l'automatisation des tests avec Playwright",
+      "url": "https://www.udemy.com/course/initiation-a-lautomatisation-des-tests-avec-playwright/"
+    },
+    {
+      "title": "Cypress: Testare Automatizată de la Începător la Avansat",
+      "url": "https://www.udemy.com/course/cypress-testare-automatizata-de-la-incepator-la-avansat/"
+    },
+    {
+      "title": "Learn OpenBullet from scratch",
+      "url": "https://www.udemy.com/course/learn-openbullet-from-scratch/"
+    },
+    {
+      "title": "Software Testing für Anfänger oder Quereinsteiger (Teil 2)",
+      "url": "https://www.udemy.com/course/software-tester-abc-teil-2-software-testing-kurse-bundel/"
+    },
+    {
+      "title": "İSTQB Proqram Testi Əsasları (Azərbaycan dilində)",
+      "url": "https://www.udemy.com/course/proqram-testi-ve-qa-temelleri/"
+    },
+    {
+      "title": "Master:Playwright con Python, pruebas automatizada (Español)",
+      "url": "https://www.udemy.com/course/masterplaywright-con-python-pruebas-automatizada-espanol/"
+    },
+    {
+      "title": "Kurs Git dla początkujących",
+      "url": "https://www.udemy.com/course/kurs-gita/"
+    },
+    {
+      "title": "Automatización con Cypress 2025: De la Teoría a la Práctica",
+      "url": "https://www.udemy.com/course/automatizacion-cypress-de-la-teoria-a-la-practica/"
+    },
+    {
+      "title": "Testes Automatizados Usando Robot Framework – Módulo 1",
+      "url": "https://www.udemy.com/course/testes-automatizados-usando-robot-framework-modulo-1/"
+    },
+    {
+      "title": "Тестировщик ПО, стань Junior QA Engineer",
+      "url": "https://www.udemy.com/course/junior-qa-engineer/"
+    },
+    {
+      "title": "Appium - Mobile App Automation, Java + Ci/CD on GitLab",
+      "url": "https://www.udemy.com/course/appium-automation-mobile-app-java-cicd-gitlab/"
+    },
+    {
+      "title": "Selenium WebDriver with Java -Basics to Advanced+Frameworks",
+      "url": "https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/"
+    },
+    {
+      "title": "Resolución de modelo de examen de Agile Tester (CTFL-AT)",
+      "url": "https://www.udemy.com/course/resolucion-de-examen-istqb-agile-tester-ctfl-at/"
+    },
+    {
+      "title": "Что такое Тестирование ПО? Как и куда развиваться?",
+      "url": "https://www.udemy.com/course/software-testing-demo/"
+    },
+    {
+      "title": "Integração contínua com GitHub Actions",
+      "url": "https://www.udemy.com/course/integracao-continua-com-github-actions/"
+    },
+    {
+      "title": "Tester oprogramowania - Bootcamp",
+      "url": "https://www.udemy.com/course/tester-oprogramowania-bootcamp/"
+    },
+    {
+      "title": "現役アーキテクトが教える『Javaテスト基礎＆実践』JUnit5、Mockito、DBUnit／CICD／生成AI活用",
+      "url": "https://www.udemy.com/course/learn-java-testing/"
+    },
+    {
+      "title": "Testare manuala OOP Testare Automata Playwright VS Selenium",
+      "url": "https://www.udemy.com/course/testare-automata-csharp/"
+    },
+    {
+      "title": "Basics of API testing with Test Coverage and Test Case write",
+      "url": "https://www.udemy.com/course/basics-of-api-testing-with-test-coverage-and-test-case-write/"
+    },
+    {
+      "title": "QC Fresher: Từ viết CV đến vượt phỏng vấn – Bạn sẽ làm được!",
+      "url": "https://www.udemy.com/course/qc-fresher-interview/"
+    },
+    {
+      "title": "SoapUI + WebServices / Rest API 测试详解+实战演示",
+      "url": "https://www.udemy.com/course/webservices-rest-api-testwith-soapui/"
+    },
+    {
+      "title": "Selenium IDE Tutorial Deutsch - Software Testing",
+      "url": "https://www.udemy.com/course/selenium-ide-tutorial-deutsch/"
+    },
+    {
+      "title": "Sıfırdan C# Selenium Bot Otomasyon Programlama",
+      "url": "https://www.udemy.com/course/sifirdan-csharp-selenium-bot-programlama/"
+    },
+    {
+      "title": "Wprowadzenie do testowania dla programistów .net",
+      "url": "https://www.udemy.com/course/wprowadzenie-do-testowania-dla-programistow-net/"
+    },
+    {
+      "title": "Fundamentos de Testes de Software para Iniciantes (2025)",
+      "url": "https://www.udemy.com/course/testes-de-software-2024/"
+    },
+    {
+      "title": "Produtividade de Testes de Software com Uso do ChatGPT",
+      "url": "https://www.udemy.com/course/produtividade-de-testes-de-software-com-uso-da-ia/"
+    },
+    {
+      "title": "Curso de Testes de Games para Iniciantes",
+      "url": "https://www.udemy.com/course/curso-de-testes-de-games-para-iniciantes/"
+    },
+    {
+      "title": "Тестирование программного обеспечения",
+      "url": "https://www.udemy.com/course/software-testing-fundamentals/"
+    },
+    {
+      "title": "Robot Framework: Testes Mobile para Android com Appium",
+      "url": "https://www.udemy.com/course/robot-framework-testes-mobile-para-android-com-appium/"
+    },
+    {
+      "title": "Curso completo de automatización con UFT One v15",
+      "url": "https://www.udemy.com/course/curso-completo-uft-one/"
+    },
+    {
+      "title": "Docker com Linux para QAs",
+      "url": "https://www.udemy.com/course/docker-para-qas/"
+    },
+    {
+      "title": "JMETER - Teste de Performance de aplicações Web",
+      "url": "https://www.udemy.com/course/jmeter-teste-de-performance-de-aplicacoes-web/"
+    },
+    {
+      "title": "Noções Básicas de Automação de Testes para Mobile",
+      "url": "https://www.udemy.com/course/automacao-de-testes-para-mobile/"
+    },
+    {
+      "title": "Selenium Webdriver con JAVA: Aprende Automatizacion I",
+      "url": "https://www.udemy.com/course/selenium-webdriver-con-java-aprende-automatizacion-i/"
+    },
+    {
+      "title": "Automatisation avec Katalon Studio-Approche professionnelle",
+      "url": "https://www.udemy.com/course/automatisation-avec-katalon-studio-approche-professionnelle/"
+    },
+    {
+      "title": "ISTQB Certified Tester Foundation V4 Curso Completo de ISTQB",
+      "url": "https://www.udemy.com/course/istqb-certified-tester-foundation/"
+    },
+    {
+      "title": "Teste Unitário - Básico para Desenvolvedores C#",
+      "url": "https://www.udemy.com/course/teste-unitario-dotnet/"
+    },
+    {
+      "title": "Автоматизация API: REST Assured + Java, проект с Google API",
+      "url": "https://www.udemy.com/course/rest-assured-google-api-automation/"
+    },
+    {
+      "title": "Playwright con Typescript",
+      "url": "https://www.udemy.com/course/playwright-con-typescript/"
+    },
+    {
+      "title": "ISTQB CTFL v4.0 Foundation Level Sertifika Hazırlık Seti",
+      "url": "https://www.udemy.com/course/istqb-ctfl-foundation-level-sertifika-sinavi-hazirlik-soru-seti/"
+    },
+    {
+      "title": "Testes unitários importam?",
+      "url": "https://www.udemy.com/course/testes-unitarios-importam/"
+    },
+    {
+      "title": "Automatización desde cero con Playwright y Typescript",
+      "url": "https://www.udemy.com/course/automatizacion-de-pruebas-con-playwright-y-typescript/"
+    },
+    {
+      "title": "Softwarequalität durch Unit Testing",
+      "url": "https://www.udemy.com/course/clean-code-unit-testing-java-junit/"
+    },
+    {
+      "title": "Unit Testing JavaScript",
+      "url": "https://www.udemy.com/course/unit-testing-javascript/"
+    },
+    {
+      "title": "【ウズカレ式】3時間で「ソフトウェアテスト技法の基礎」が学べる講座＜JSTQB-FL試験対策②＞",
+      "url": "https://www.udemy.com/course/jstqb-fl2/"
+    },
+    {
+      "title": "ISTQB Agile Tester - Certified Tester [CTFL-AT]",
+      "url": "https://www.udemy.com/course/istqb-agile-tester-espanol/"
+    },
+    {
+      "title": "Browserautomatisierung mit Python und Selenium",
+      "url": "https://www.udemy.com/course/browserautomatisierung-mit-python-und-selenium/"
+    },
+    {
+      "title": "Devenir Test manager / Responsable de test de A à Z",
+      "url": "https://www.udemy.com/course/devenir-test-manager-responsable-de-test-de-a-a-z/"
+    },
+    {
+      "title": "Testes Unitários em Java Utilizando o JUnit",
+      "url": "https://www.udemy.com/course/testes-unidade-automaticos-software-junit/"
+    },
+    {
+      "title": "‫أوتوميشن من الصفر للاحتراف: Mastering Selenium with Java‬",
+      "url": "https://www.udemy.com/course/selenium-with-java-ar/"
+    },
+    {
+      "title": "Preparatório para CTFL - ISTQB/BSQTB (3.1.1/4.0)",
+      "url": "https://www.udemy.com/course/preparatorio-para-ctfl-istqbbsqtb/"
+    },
+    {
+      "title": "Убийца Selenium: Автоматизация тестов с Cypress",
+      "url": "https://www.udemy.com/course/cypress-m/"
+    },
+    {
+      "title": "Estratégias para gerenciar massa de dados em testes + DbUnit",
+      "url": "https://www.udemy.com/course/massa-de-dados-dbunit/"
+    },
+    {
+      "title": "【한글자막】 Selenium WebDriver와 자바 : 기본부터 고급까지 + 프레임워크",
+      "url": "https://www.udemy.com/course/selenium-webdriver-java-k/"
+    },
+    {
+      "title": "Probador Certificado ISTQB 4.0 Nivel Básico - Fundamentos",
+      "url": "https://www.udemy.com/course/istqb-4-fundamentos-tester-software/"
+    },
+    {
+      "title": "QA Automation Serenity BDD, WebDriver, Java ,Git , Jenkis",
+      "url": "https://www.udemy.com/course/qa-automation-serenity-bdd-webdriver-java-git-jenkis/"
+    },
+    {
+      "title": "Principios de pruebas software",
+      "url": "https://www.udemy.com/course/principios-de-pruebas-software/"
+    },
+    {
+      "title": "Curso Automação Selenium em Python com Behave para iniciante",
+      "url": "https://www.udemy.com/course/curso-automacao-selenium-em-python-com-behave-para-iniciante/"
+    },
+    {
+      "title": "Python - Testowanie kodu",
+      "url": "https://www.udemy.com/course/testy-automatyczne-kodu-python/"
+    },
+    {
+      "title": "【한글자막】 Jest / Vitest 를 활용한 React 테스팅 라이브러리",
+      "url": "https://www.udemy.com/course/jest-testing-library/"
+    },
+    {
+      "title": "Testando Componentes com Cypress",
+      "url": "https://www.udemy.com/course/testando-componentes-com-cypress/"
+    },
+    {
+      "title": "Selenium WebDriver - Do zero a criação de projetos + Projeto",
+      "url": "https://www.udemy.com/course/selenium-webdriver-do-zero-a-criacao-de-projetos-projeto/"
+    },
+    {
+      "title": "Egzamin ISTQB w pytaniach i odpowiedziach",
+      "url": "https://www.udemy.com/course/egzamin-istqb-w-pytaniach-i-odpowiedziach/"
+    },
+    {
+      "title": "Кто такой тестировщик ? Что нужно знать и уметь ?",
+      "url": "https://www.udemy.com/course/who-is-a-tester/"
+    },
+    {
+      "title": "Curso Testing para Android con JUnit, Mockito, Espresso, TDD",
+      "url": "https://www.udemy.com/course/curso-testing-para-android-con-junit-mockito-espresso-tdd/"
+    },
+    {
+      "title": "SonarQube - Le guide complet",
+      "url": "https://www.udemy.com/course/sonarqube-le-guide-complet-edition-2021/"
+    },
+    {
+      "title": "Cómo integrar Cypress con Testrail",
+      "url": "https://www.udemy.com/course/como-integrar-cypress-con-testrail/"
+    },
+    {
+      "title": "Website Testing Masterclass: Real Test Cases for QA Success",
+      "url": "https://www.udemy.com/course/test-cases/"
+    },
+    {
+      "title": "Learn PyTest From Scratch in The Hindi Language",
+      "url": "https://www.udemy.com/course/learn-pytest-from-scratch-in-hindi/"
+    },
+    {
+      "title": "Selenium и Selenide для начинающих Automation QA + 2 проекта",
+      "url": "https://www.udemy.com/course/selenium-selenide-test-automation-engineer/"
+    },
+    {
+      "title": "２時間で分かるERPデータ移行の基礎",
+      "url": "https://www.udemy.com/course/2-npveck/"
+    },
+    {
+      "title": "Khóa học Robot Framework từ cơ bản đến nâng cao (Tiếng Việt)",
+      "url": "https://www.udemy.com/course/khoa-hoc-robot-framework-tu-co-ban-en-nang-cao-tieng-viet/"
+    },
+    {
+      "title": "The Complete 2025 Software Testing Bootcamp",
+      "url": "https://www.udemy.com/course/testerbootcamp/"
+    },
+    {
+      "title": "Curso de testing para PHP y Laravel - Experto en 100 días",
+      "url": "https://www.udemy.com/course/curso-de-testing-para-php-y-laravel-experto-en-100-dias/"
+    },
+    {
+      "title": "Mini Curso de Testes para Chatbots com Cypress",
+      "url": "https://www.udemy.com/course/chatbots-com-cypress/"
+    },
+    {
+      "title": "Dominando o TestComplete",
+      "url": "https://www.udemy.com/course/dominando-o-testcomplete/"
+    },
+    {
+      "title": "軟體 API測試從初學者到專業-完整的Postman指南",
+      "url": "https://www.udemy.com/course/postman_testing/"
+    },
+    {
+      "title": "Squash tm de A à Z : L'outil de gestion des tests Logiciel",
+      "url": "https://www.udemy.com/course/squach-tm-de-a-a-z-loutil-de-gestion-des-tests-logiciel/"
+    },
+    {
+      "title": "Practical Manual Software Testing - Basic to Advanced",
+      "url": "https://www.udemy.com/course/practical-software-testing/"
+    },
+    {
+      "title": "Aprende con Cyberia Films y Soul Angels",
+      "url": "https://www.udemy.com/course/aprende-con-cyberia-films-y-soul-angels/"
+    },
+    {
+      "title": "JMeter İle Performans Testi",
+      "url": "https://www.udemy.com/course/jmeterileperformanstesti/"
+    },
+    {
+      "title": "Initiation au test logiciel - Exercice ISTQB Fondation",
+      "url": "https://www.udemy.com/course/initiation-au-test-logiciel-et-fonctionnel/"
+    },
+    {
+      "title": "Что такое тестирование и кто такой тестировщик 2020",
+      "url": "https://www.udemy.com/course/who_is_software_tester/"
+    },
+    {
+      "title": "Robot Framework - Kurs Podstawowy",
+      "url": "https://www.udemy.com/course/robot-framework-kurs-podstawowy/"
+    },
+    {
+      "title": "Test Driven Development con Java y Junit5",
+      "url": "https://www.udemy.com/course/testdrivendevelopment/"
+    },
+    {
+      "title": "Playwright ile Modern Test Otomasyonu: POM ve Allure Report",
+      "url": "https://www.udemy.com/course/playwright-ile-modern-test-otomasyonu-pom-ve-allure-report/"
+    },
+    {
+      "title": "Maîtrisez les Tests REACT.js avec RTL et JEST (FR)",
+      "url": "https://www.udemy.com/course/tests-react-js-avec-react-testing-library-et-jest/"
+    },
+    {
+      "title": "Test logiciel avancé : Elaboration d’une stratégie de test",
+      "url": "https://www.udemy.com/course/test-logiciel-avance-elaboration-dune-strategie-de-test/"
+    },
+    {
+      "title": "Corso base di Git: impara a tenere traccia del tuo codice",
+      "url": "https://www.udemy.com/course/corso-base-di-git-impara-a-tenere-traccia-del-tuo-codice/"
+    },
+    {
+      "title": "Selenium 4 + Java 21 (Cucumber + Jenkins) desde Cero",
+      "url": "https://www.udemy.com/course/selenium-4-java-21-cucumber-jenkins-desde-cero/"
+    },
+    {
+      "title": "Tester Oprogramowania (QA Tester) - Pytania rekrutacyjne",
+      "url": "https://www.udemy.com/course/qa-tester-pytania-rekrutacyjne/"
+    },
+    {
+      "title": "2023 ISTQB Advanced Level Test Analyst Türkçe Sınav Soruları",
+      "url": "https://www.udemy.com/course/2023-istqb-advanced-level-sertifika-turkce-snav-sorular/"
+    },
+    {
+      "title": "QA Iniciante: Fundamentos de Teste",
+      "url": "https://www.udemy.com/course/qa-iniciante-fundamentos-de-teste/"
+    },
+    {
+      "title": "Automação de Testes com Playwright, Python e Pytest",
+      "url": "https://www.udemy.com/course/automacao-de-testes-com-playwright-python-e-pytest/"
+    },
+    {
+      "title": "Java İle Selenium Webdriver Başlangıç Eğitimi",
+      "url": "https://www.udemy.com/course/java-ile-selenium-webdriver-baslangc-egitimi/"
+    },
+    {
+      "title": "Testando Javascript e React com Jest e Enzyme",
+      "url": "https://www.udemy.com/course/javascript-react-jest-enzyme/"
+    },
+    {
+      "title": "Automatizando Testes de Player de Música com Robot Framework",
+      "url": "https://www.udemy.com/course/automatizando-testes-de-player-de-musica-com-robot-framework/"
+    },
+    {
+      "title": "Testeur logiciel XRAY - JIRA : Outil de management des tests",
+      "url": "https://www.udemy.com/course/testeur-logiciel-avec-xray-outil-de-management-des-tests/"
+    },
+    {
+      "title": "Learn Manual Software Testing In Arabic.",
+      "url": "https://www.udemy.com/course/manual-software-testing-in-arabic/"
+    },
+    {
+      "title": "Junit em Testes de Software",
+      "url": "https://www.udemy.com/course/junit-em-testes-de-software/"
+    },
+    {
+      "title": "Selenium WebDriver с нуля до профи",
+      "url": "https://www.udemy.com/course/selenium-webdriver-fromscratch/"
+    },
+    {
+      "title": "Тестирование ПО. Баг и баг репорт. Практика 2025",
+      "url": "https://www.udemy.com/course/holiver_qa_bugreports/"
+    },
+    {
+      "title": "【JUnit 5】Javaテスト徹底攻略！Mockito×DBRiderとAI活用で高品質な単体テスト設計を習得",
+      "url": "https://www.udemy.com/course/junit-5mockitodbriderai/"
+    },
+    {
+      "title": "Introdução aos testes automatizados",
+      "url": "https://www.udemy.com/course/introducao-aos-testes-automatizados/"
+    },
+    {
+      "title": "Playwright eXplorer: Testando o clone do Spotify",
+      "url": "https://www.udemy.com/course/playwright-explorer-testando-o-clone-do-spotify/"
+    },
+    {
+      "title": "Selenium Webdriver - Twój pierwszy test automatyczny",
+      "url": "https://www.udemy.com/course/selenium-webdriver-twoj-pierwszy-test-automatyczny/"
+    },
+    {
+      "title": "Selenium Webdriver desde cero C# (Español)",
+      "url": "https://www.udemy.com/course/testautomationconselenium1/"
+    },
+    {
+      "title": "【한글자막】 자동화 테스터를 위한 핵심 Java - 쉽게 배우는 코딩!",
+      "url": "https://www.udemy.com/course/java-code-made-easy/"
+    },
+    {
+      "title": "Introdução a Carreira de QA",
+      "url": "https://www.udemy.com/course/introducao-a-carreira-de-qa/"
+    },
+    {
+      "title": "Google Chrome DevTools для QA та розробників",
+      "url": "https://www.udemy.com/course/google-chrome-devtools-course-for-qa/"
+    },
+    {
+      "title": "【C#】xUnitを使ってテストコードを書く方法",
+      "url": "https://www.udemy.com/course/xunitbasic/"
+    },
+    {
+      "title": "Universo Robot Framework",
+      "url": "https://www.udemy.com/course/universo-robot-framework/"
+    },
+    {
+      "title": "Curso de JUnit 5",
+      "url": "https://www.udemy.com/course/curso-de-junit-5/"
+    },
+    {
+      "title": "X86软件逆向分析实战（一）",
+      "url": "https://www.udemy.com/course/reverseskill01/"
+    },
+    {
+      "title": "Robot/AutoIT/Sikuli----覆盖Selenium WebDriver不能自动化测试的功能",
+      "url": "https://www.udemy.com/course/robot-autoit-sikuli/"
+    },
+    {
+      "title": "Osnove testiranja, automatsko testiranje, [WDIO, CYPRESS]",
+      "url": "https://www.udemy.com/course/osnove-automatskog-testiranja/"
+    },
+    {
+      "title": "Testes contínuos em Cypress no Github Actions",
+      "url": "https://www.udemy.com/course/testes-continuos-em-cypress-no-github-actions/"
+    },
+    {
+      "title": "Fundamentos do Postman: Iniciando com Testes de API",
+      "url": "https://www.udemy.com/course/fundamentos-do-postman-iniciando-com-testes-de-api/"
+    },
+    {
+      "title": "Real time Automation+Manual Interview Questions with Answers",
+      "url": "https://www.udemy.com/course/testing-interview-questions-with-answers/"
+    },
+    {
+      "title": "Quality Assurance Testing dərsləri (Azərbaycan dilində) QA",
+      "url": "https://www.udemy.com/course/manual_testing_azerbaycan_dilinde/"
+    },
+    {
+      "title": "4 EXAMENS ISTQB FONDATION V4 - COMPLETS AVEC DETAILS",
+      "url": "https://www.udemy.com/course/4-examens-istqb-fondation-v4-complets-avec-details/"
+    },
+    {
+      "title": "Playwright za Početnike - Kompletan kurs ( UI + API )",
+      "url": "https://www.udemy.com/course/playwright-za-pocetnike/"
+    },
+    {
+      "title": "Automatyzacja testów: Selenium WebDriver Java od podstaw",
+      "url": "https://www.udemy.com/course/automatyzacja-testow-selenium-webdriver-java-od-podstaw/"
+    },
+    {
+      "title": "C# ile Test Driven Development",
+      "url": "https://www.udemy.com/course/c-ile-test-driven-development/"
+    },
+    {
+      "title": "Selenium 4 WebDriver with Java (Basics to ARCHITECT Level)",
+      "url": "https://www.udemy.com/course/selenium-training/"
+    },
+    {
+      "title": "自动化测试技术",
+      "url": "https://www.udemy.com/course/ovjoydxi/"
+    },
+    {
+      "title": "A-Z™ | Yazılım Test Uzmanlığı",
+      "url": "https://www.udemy.com/course/a-zyazilimtestuzmanligi/"
+    },
+    {
+      "title": "ISTQB Yazılım Test Uzmanı Foundation Level v4.0 Eğitimi",
+      "url": "https://www.udemy.com/course/istqb-yazilim-test-uzmani-foundation-level-sinav-egitimi/"
+    },
+    {
+      "title": "FAPS - Fundamentos de Automatización de Pruebas de Software",
+      "url": "https://www.udemy.com/course/faps-fundamentos-de-automatizacion-de-pruebas-de-software/"
+    },
+    {
+      "title": "Pengujian Proyek Sistem Informasi",
+      "url": "https://www.udemy.com/course/pengujian-proyek-sistem-informasi/"
+    },
+    {
+      "title": "Teste de Software - A Arte de ser um Usuário com Técnica!",
+      "url": "https://www.udemy.com/course/conceitos-de-teste-e-processo-com-ia/"
+    },
+    {
+      "title": "introduction to software testing بالعربي",
+      "url": "https://www.udemy.com/course/introduction-to-software-testing-f/"
+    },
+    {
+      "title": "ISTQB FOUNDATION LEVEL TÜM KONULAR SORU BANKASI",
+      "url": "https://www.udemy.com/course/istqb-foundation-level-tum-konular-soru-bankasi/"
+    },
+    {
+      "title": "Master API testing using Postman in Hindi/Urdu",
+      "url": "https://www.udemy.com/course/learn-api-testing-using-postman-in-hindiurdu/"
+    },
+    {
+      "title": "Java/Selenium ile Page Object Model (POM)",
+      "url": "https://www.udemy.com/course/java-selenium-ile-pom/"
+    },
+    {
+      "title": "[A-Z] Web Otomasyon Testi Öğrenin! (Java/Selenium/Cucumber)",
+      "url": "https://www.udemy.com/course/web-otomasyon-testi-ogrenin/"
+    },
+    {
+      "title": "Curso Automação de Testes - Cypress 2025",
+      "url": "https://www.udemy.com/course/curso-automacao-de-testes-cypress-basico/"
+    },
+    {
+      "title": "JMeter 2025: Pruebas de Carga, Estrés y Rendimiento",
+      "url": "https://www.udemy.com/course/aprende-a-hacer-pruebas-de-performance-con-jmeter/"
+    },
+    {
+      "title": "Performance testing - Introducción",
+      "url": "https://www.udemy.com/course/performance-testing-introduccion/"
+    },
+    {
+      "title": "Examens de préparation au Certificat ISTQB TEST MANAGER V3",
+      "url": "https://www.udemy.com/course/examens-de-preparation-au-certificat-istqb-test-manager-v3/"
+    },
+    {
+      "title": "Curs introductiv de Testare Software",
+      "url": "https://www.udemy.com/course/curs-introductiv-de-testare-software-qa/"
+    },
+    {
+      "title": "Pytania i odpowiedzi rekrutacyjne dla testera",
+      "url": "https://www.udemy.com/course/pytania-i-odpowiedzi-rekrutacyjne-dla-testera/"
+    },
+    {
+      "title": "Testautomatisierung mit dem Robot Framework (Selenium)",
+      "url": "https://www.udemy.com/course/robot-framework-selenium-tutorial-deutsch/"
+    },
+    {
+      "title": "Test API với REST ASSURE - Phần 1",
+      "url": "https://www.udemy.com/course/rest-assure-phan-1/"
+    },
+    {
+      "title": "Curso de teste unitário com QUnit",
+      "url": "https://www.udemy.com/course/curso-de-teste-unitario-com-qunit/"
+    },
+    {
+      "title": "Appium! Automatización de Pruebas en Dispositivos Móviles",
+      "url": "https://www.udemy.com/course/appium-automatizacion-de-pruebas-en-dispositivos-moviles/"
+    },
+    {
+      "title": "Kurs Java dla Testerów Oprogramowania",
+      "url": "https://www.udemy.com/course/kurs-java-dla-testerow-oprogramowania/"
+    },
+    {
+      "title": "Aprenda JMeter em 1 Hora - Iniciante",
+      "url": "https://www.udemy.com/course/aprenda-jmeter-em-1-hora-iniciante/"
+    },
+    {
+      "title": "Test Mühendisliği Yol Haritası",
+      "url": "https://www.udemy.com/course/test-muhendisligi-yol-haritasi/"
+    },
+    {
+      "title": "Formation Test des API/WEBSERVICES avec Postman & Soapui",
+      "url": "https://www.udemy.com/course/certification-test-logiciel-avec-les-api-de-a-a-z/"
+    },
+    {
+      "title": "Azure DevOps Server / TFS [In Arabic]",
+      "url": "https://www.udemy.com/course/tfs-azure-devops-server/"
+    },
+    {
+      "title": "Testowanie REST API - REST Assured Java",
+      "url": "https://www.udemy.com/course/rest-assured-java/"
+    },
+    {
+      "title": "Les tests de performance avec JMETER de A à Z",
+      "url": "https://www.udemy.com/course/les-tests-de-performance-avec-jmeter-de-a-a-z/"
+    },
+    {
+      "title": "Synpress blockchain QA Automation - Paso a Paso",
+      "url": "https://www.udemy.com/course/synpress-blockchain-qa-automation-paso-a-paso/"
+    },
+    {
+      "title": "TestNG 测试框架完整版 - 从初学到精通",
+      "url": "https://www.udemy.com/course/testng-complete-version/"
+    },
+    {
+      "title": "Cypress入門：テスト自動化を始めよう！vs codeとNode.jsを用いてエンドツーエンドテストを実践する",
+      "url": "https://www.udemy.com/course/cypress-hotate/"
+    },
+    {
+      "title": "Unit Test Yazma Sanatı",
+      "url": "https://www.udemy.com/course/unit-test-yazma-sanati/"
+    },
+    {
+      "title": "Java, JUnit ve Mockito ile Unit Test Yazma Eğitimi",
+      "url": "https://www.udemy.com/course/java-unit-test-egitimi/"
+    },
+    {
+      "title": "Kurs Cucumber BDD dla testerów automatyzujących",
+      "url": "https://www.udemy.com/course/kurs-cucumber-bdd/"
+    },
+    {
+      "title": "Débutez avec DevOps & CICD quand on est developpeur [2025]",
+      "url": "https://www.udemy.com/course/debutez-avec-devops-et-la-cicd-quand-on-est-developpeur/"
+    },
+    {
+      "title": "JUnit para Testadores",
+      "url": "https://www.udemy.com/course/junit-para-testadores/"
+    },
+    {
+      "title": "Automatyzacja testów: API REST Assured w Java od podstaw",
+      "url": "https://www.udemy.com/course/automatyzacja-api-rest-assured-java-maven-junit-testng/"
+    },
+    {
+      "title": "ISTQB Yazılım Test Uzmanı Foundation Level Çalışma Soruları",
+      "url": "https://www.udemy.com/course/istqb-yazlm-test-uzman-foundation-level-calsma-sorular/"
+    },
+    {
+      "title": "Robot Framework: Básico - WEB e API",
+      "url": "https://www.udemy.com/course/robot-framework-basico-web-e-api/"
+    },
+    {
+      "title": "Selenium e Java com Visual Studio Code",
+      "url": "https://www.udemy.com/course/selenium-e-java-no-visual-studio-code/"
+    },
+    {
+      "title": "Python ユニットテスト入門 ～ テスト自動化・ バグの早期発見と修正・コードの品質向上・開発の効率化を実現する方法",
+      "url": "https://www.udemy.com/course/pyhon-unittest-basic/"
+    },
+    {
+      "title": "Dominando Testes Unitários com C# na Prática",
+      "url": "https://www.udemy.com/course/dominando-os-testes-de-software-no-net/"
+    },
+    {
+      "title": "Fundamentos de Pruebas de Software - QA",
+      "url": "https://www.udemy.com/course/fundamentos-de-pruebas-de-software-qa/"
+    },
+    {
+      "title": "Playwright Zombie Edition",
+      "url": "https://www.udemy.com/course/playwright-zombie/"
+    },
+    {
+      "title": "Automação Web do Zero: Do Cypress Studio ao PageObjects",
+      "url": "https://www.udemy.com/course/cypress-do-zero-2023-do-cypress-studio-ao-pageobjects/"
+    },
+    {
+      "title": "Jira ve Xray ile Manuel Test Süreci :Pratik örnekler(Klavuz)",
+      "url": "https://www.udemy.com/course/jira-ve-xray-ile-manuel-test-sureci-pratik-orneklerklavuz/"
+    },
+    {
+      "title": "Testes unitários com JUnit 5",
+      "url": "https://www.udemy.com/course/testes-unitarios-junit5/"
+    },
+    {
+      "title": "احتراف صيانة الموبايل قسم السوفت وير",
+      "url": "https://www.udemy.com/course/htsoftware/"
+    },
+    {
+      "title": "Zostań QA lub testerem oprogramowania od zera",
+      "url": "https://www.udemy.com/course/zostan-qa-od-zera/"
+    },
+    {
+      "title": "STM32F4 DISCOVERY KARTI İLE CAN BUS KURSU",
+      "url": "https://www.udemy.com/course/stm32f4-discovery-karti-ile-can-bus-dersleri/"
+    },
+    {
+      "title": "Robot Framework Discover",
+      "url": "https://www.udemy.com/course/robot-discover/"
+    },
+    {
+      "title": "Автоматизация веб-тестирования с Robot Framework",
+      "url": "https://www.udemy.com/course/robotframework-web/"
+    },
+    {
+      "title": "Introducere Software Testing",
+      "url": "https://www.udemy.com/course/introducere-software-testing/"
+    },
+    {
+      "title": "Curso Creación Framework con Selenium, Spring y Cucumber",
+      "url": "https://www.udemy.com/course/curso-creacion-framework-con-selenium-spring-y-cucumber/"
+    },
+    {
+      "title": "Sıfırdan Appium & Java İle Mobil Test Otomasyonu Öğrenin",
+      "url": "https://www.udemy.com/course/sifirdanappiumjavailemobiltestotomasyonuogrenin/"
+    },
+    {
+      "title": "API Testing Using the Postman Tool - Basic to Advanced",
+      "url": "https://www.udemy.com/course/api-testing-postman/"
+    },
+    {
+      "title": "La guía completa: API Testing con Python",
+      "url": "https://www.udemy.com/course/la-guia-completa-test-de-api-rest-con-python/"
+    },
+    {
+      "title": "Masterclass de test logiciels - De débutant à expert",
+      "url": "https://www.udemy.com/course/masterclass-de-test-logiciels-de-debutant-a-expert/"
+    },
+    {
+      "title": "Oracle Virtualbox Tutorial Deutsch - Software Testing",
+      "url": "https://www.udemy.com/course/oracle-virtualbox-tutorial-deutsch-videokurs/"
+    },
+    {
+      "title": "Automação de Testes com Sikuli",
+      "url": "https://www.udemy.com/course/aumentando-sua-produtividade-com-sikuli/"
+    },
+    {
+      "title": "【한글자막】 기초부터 배우는 Selenium Webdriver와 Python + 프레임워크",
+      "url": "https://www.udemy.com/course/selenium-webdriver-python/"
+    },
+    {
+      "title": "Performance testing - Introducción a K6",
+      "url": "https://www.udemy.com/course/performance-testing-introduccion-k6/"
+    },
+    {
+      "title": "SQL dla testerów oprogramowania",
+      "url": "https://www.udemy.com/course/sql-dla-testerow-oprogramowania/"
+    },
+    {
+      "title": "Automatisation des tests avec Robot Framework",
+      "url": "https://www.udemy.com/course/automatisation-des-tests-avec-robot-framework/"
+    },
+    {
+      "title": "Тестирование ПО:Проверка знаний перед собеседованием!",
+      "url": "https://www.udemy.com/course/testinasobesedovanietestirovaniepo/"
+    },
+    {
+      "title": "Java單元測試: Junit5 Jupiter 實戰課程(基於JDK 16版本)",
+      "url": "https://www.udemy.com/course/java-junit5-jupiter-jdk-16/"
+    },
+    {
+      "title": "Performance Testing Basics with JMeter & Apache Benchmark",
+      "url": "https://www.udemy.com/course/jmeter-performance/"
+    },
+    {
+      "title": "Aprende Automatización Web con Selenium",
+      "url": "https://www.udemy.com/course/aprende-automatizacion-web-con-selenium/"
+    },
+    {
+      "title": "Kotlin と JUnit で学ぶ、はじめてのユニットテスト【丁寧な解説＋演習問題で プログラミング 中級者になろう】",
+      "url": "https://www.udemy.com/course/unittest-kotlin-junit/"
+    },
+    {
+      "title": "QA קורס בדיקות תוכנה",
+      "url": "https://www.udemy.com/course/qa-testing/"
+    },
+    {
+      "title": "Postman do Básico ao Avançado com Projetos",
+      "url": "https://www.udemy.com/course/postman-do-basico-ao-avancado-com-projetos/"
+    },
+    {
+      "title": "Teste de API com Cypress - Básico",
+      "url": "https://www.udemy.com/course/curso-de-automacao-de-teste-de-api-com-cypress/"
+    },
+    {
+      "title": "Practical Software Testing [In Arabic]",
+      "url": "https://www.udemy.com/course/practical-software-testing-istqb-basics-in-arabic/"
+    },
+    {
+      "title": "Testare Manuala Testare Automata Java Selenium VS Playwright",
+      "url": "https://www.udemy.com/course/manual-software-testing-introducere-in-selenium/"
+    },
+    {
+      "title": "6 EXAMENS -Selenium A4Q Foundation-100% de réussite",
+      "url": "https://www.udemy.com/course/examens-selenium-a4q-foundation-100-de-reussite/"
+    },
+    {
+      "title": "Como se tornar um QA?",
+      "url": "https://www.udemy.com/course/como-se-tornar-um-qa/"
+    },
+    {
+      "title": "Học Cucumber từ website đến Android",
+      "url": "https://www.udemy.com/course/hoc-cucumber-tu-website-en-android/"
+    },
+    {
+      "title": "Cypress ve POM: Modern Test Otomasyon Stratejileri",
+      "url": "https://www.udemy.com/course/cypress-ve-pom-modern-test-otomasyon-stratejileri/"
+    },
+    {
+      "title": "[TELUGU] Complete Manual Testing, Agile & Jira with project",
+      "url": "https://www.udemy.com/course/manualtestingintelugu/"
+    },
+    {
+      "title": "Introdução a Testes de Software para quem não é de TI.",
+      "url": "https://www.udemy.com/course/introducao-a-testes-de-software-para-quem-nao-e-de-ti/"
+    },
+    {
+      "title": "CI/CD para Testers: Jenkins, GitHub Actions a fondo!",
+      "url": "https://www.udemy.com/course/cicd-para-testers-jenkins-github-actions-a-fondo/"
+    },
+    {
+      "title": "{TELUGU} Manual Testing, Agile & Jira , Zephyr with project",
+      "url": "https://www.udemy.com/course/telugu-manual-testing-agile-jira-zephyr-with-project/"
+    },
+    {
+      "title": "Testreporting - Know-How & Vorlagen für das Testmanagement",
+      "url": "https://www.udemy.com/course/testreporting/"
+    },
+    {
+      "title": "Figma для мобильного тестировщика (Mobile QA)",
+      "url": "https://www.udemy.com/course/figma-mobile-qa/"
+    },
+    {
+      "title": "Testing Exploratorio",
+      "url": "https://www.udemy.com/course/testing-exploratorio-aa/"
+    },
+    {
+      "title": "Wstęp do testowania oprogramowania.",
+      "url": "https://www.udemy.com/course/wstep-do-testowania-oprogramowania/"
+    },
+    {
+      "title": "[TDD] Développement piloté par les tests avec React Native",
+      "url": "https://www.udemy.com/course/tdd-developpement-pilote-par-les-tests-avec-react-native/"
+    },
+    {
+      "title": "Le Test logiciel en Agilité de A à Z-2025",
+      "url": "https://www.udemy.com/course/test-logiciel-agile-methodes-et-outils-essentiels/"
+    },
+    {
+      "title": "SAP Hata Ayıklama (Debugging) Eğitim",
+      "url": "https://www.udemy.com/course/sap-hata-ayklama-debugging-egitim/"
+    }
+  ]
+}

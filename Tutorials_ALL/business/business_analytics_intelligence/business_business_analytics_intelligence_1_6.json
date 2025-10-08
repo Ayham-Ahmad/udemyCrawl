@@ -1,0 +1,2317 @@
+{
+  "courses": [
+    {
+      "title": "[좋은기분리포트] 삼성바이오로직스 - 이공계 취업생을 위한 기업분석보고서",
+      "url": "https://www.udemy.com/course/nastar_sambio/",
+      "bio": "기업을 알면 취업이 보인다. 좋은 기분 리포트!",
+      "objectives": [
+        "커피 한 잔의 값으로 취업하고픈 기업이 바로 이해됩니다.",
+        "1만원으로 1년 연봉을 벌 수 있다면, 나는 30분을 투자할 수 있습니다.",
+        "이 기업의 사업 분야, 사업 분석, 기술 및 지식재산 등을 알아볼 수 있습니다.",
+        "취업하고 싶은 기업을 보는 시각이 생깁니다."
+      ],
+      "course_content": {
+        "삼성바이오로직스": [
+          "소개",
+          "기업 개요",
+          "회계/재무 분석",
+          "사업내용 및 사업별 제품분석",
+          "시장/산업/정책동향",
+          "연구개발현황 및 기술",
+          "지식재산권 분석"
+        ]
+      },
+      "requirements": [
+        "사전 지식은 필요 없습니다."
+      ],
+      "description": "1. 안녕하세요? 변리사 나성곤입니다.\n저는 15년 이상 기술사업화 분석 및 기획 업무를 수행하였습니다.\n기업의 사업, 제품, 상품, 기술을 통해 기업을 이해하는 방법을 알려드리고자 합니다.\n2. 기술과 콘텐츠가 제품/상품이 되고, 기업으로 성장하는 과정은 경제를 이해하는 가장 중요한 관점입니다.\n3. 약력\n- 전 삼성SDS(구 삼성네트웍스) 기술기획팀\n- 전 연세대학교 기술경영센터\n- 전 연세대학교 공학대학원 겸임교수\n- 전 과학기술정보통신부 규제개선위원회 위원\n- 현 골든피쉬 주식회사(기술사업화 전문회사) 대표이사\n- 현 나스타특허법률사무소 대표변리사",
+      "target_audience": [
+        "이공계 취업준비생"
+      ]
+    },
+    {
+      "title": "Power BI+ Dashboard de Fluxo Caixa +Dados do Protheus TOTVS",
+      "url": "https://www.udemy.com/course/power-bi-dashboard-de-fluxo-caixa-dados-do-protheus-totvs/",
+      "bio": "Dashboard de Fluxo de Caixa Mobile e Desktop criado usando a estrutura de dados do Protheus da TOTVS com Power BI",
+      "objectives": [
+        "Dashboard pronto para usar só conectar no Protheus",
+        "Automatizar cargas de dados e trabalhos repetitivos e manuais",
+        "Dashboard de Fluxo de Caixa versão Mobile e Desktop com os dados direto do Protheus",
+        "Material exclusivo para download e Editável",
+        "Fórmulas DAX com Dados do Protheus",
+        "Poer BI com Protheus"
+      ],
+      "course_content": {},
+      "requirements": [
+        "Não é necessário Experiência",
+        "Aprenda a Desenvolver do Zero"
+      ],
+      "description": "Explore a Expansão de Suas Habilidades em Análise de Fluxo de Caixa com nosso Curso!\nAprofunde-se na criação de dashboards financeiros para o controle de fluxo de caixa e aprenda a transformar dados financeiros brutos em visualizações dinâmicas e perspicazes usando o Microsoft Power BI.\n\n\nO que você vai aprender:\nConceitos Essenciais de Dashboards Financeiros: Compreenda os elementos fundamentais de um dashboard de fluxo de caixa e sua relevância para impulsionar decisões estratégicas no ambiente financeiro.\n\n\nIntegração com Fontes de Dados Financeiros: Adquira habilidades para extrair e manipular dados de fluxo de caixa de diversas fontes, garantindo precisão e eficácia na análise financeira.\n\n\nDesenvolvimento de Dashboards de Fluxo de Caixa no Power BI: Domine o processo de criação passo a passo de dashboards interativos e otimizados para o monitoramento contínuo do fluxo de caixa.\n\n\nCustomização e Análise Avançada: Explore técnicas avançadas de customização para adaptar seu dashboard às necessidades específicas da sua empresa e conduza análises profundas para insights financeiros significativos.\n\n\nEstratégias e Orientações Especializadas: Receba insights valiosos de especialistas do setor sobre as melhores práticas para a manutenção e otimização contínuas de seus dashboards de fluxo de caixa.\n\n\nBenefícios do Curso:\nOrientação Especializada: Conte com instrutores com experiência sólida em análise financeira e BI.\nRecursos Aplicáveis: Tenha acesso a uma variedade de recursos práticos, incluindo modelos de dashboards, estudos de casos e tutoriais interativos.\nCertificado de Conclusão: Demonstre suas novas habilidades com um certificado reconhecido no mercado, valorizando seu perfil profissional.\n\n\nTOTVS e Protheus são produtos e marcas registradas e de propriedade da TOTVS S.A. A TOTVS é detentora dos direitos legais do ERP Protheus. O SENHOR DOS DADOS é um canal independente e não tem nenhum vínculo direto ou indireto com a TOTVS, qualquer uma de suas franquias ou qualquer um de seus representantes e soluções.",
+      "target_audience": [
+        "Consultores ou profissionais que atuam com sistema protheus da Totvs",
+        "Quem deseja aprender Power BI com os dados do Protheus",
+        "Gestores e Analistas",
+        "Profissionais da área Comercial"
+      ]
+    },
+    {
+      "title": "تعلم إنشاء التقارير التفاعلية عبر جوجل داتا استوديو (Looker)",
+      "url": "https://www.udemy.com/course/arabic-looker/",
+      "bio": "أساسيات إنشاء لوحات البيانات والتقارير التفاعلية باستخدام جوجل داتا استوديو",
+      "objectives": [
+        "إنشاء تقرير تفاعلي وربطه بمصادر البيانات",
+        "التعرف على قوائم الواجهة الرئيسية",
+        "إدراج و تنسيق العدادات و إنشاء الفلاتر",
+        "إدراج الرسوم البيانية وتنسيقها",
+        "تنسيق لوحة البيانات",
+        "تهيئة التقرير ونشره"
+      ],
+      "course_content": {
+        "مقدمة": [
+          "إنشاء تقرير تفاعلي وربطه بمصادر البيانات",
+          "التعرف على قوائم الواجهة الرئيسية"
+        ],
+        "تصميم التقرير": [
+          "تصميم عنوان التقرير",
+          "إدراج و تنسيق العدادات و إنشاء الفلاتر",
+          "إنشاء وتنسيق الجداول والتعامل مع عناصر التحكم",
+          "إدراج الرسوم البيانية وتنسيقها"
+        ],
+        "تنسيق التقرير": [
+          "تنسيق لوحة البيانات",
+          "تنسيقات إضافية",
+          "إدارة الصفحات وتنسيق الخط والخلفية"
+        ],
+        "نشر التقرير": [
+          "عرض التقرير ومراجعته قبل النشر",
+          "تهيئة التقرير ونشره",
+          "تصدير الملف بصيغة PDF"
+        ]
+      },
+      "requirements": [
+        "وجود حساب جيميل لدى المتدرب"
+      ],
+      "description": "في هذه الدورة المختصرة ستتعرف على كيفية إنشاء لوحة بيانات تفاعلية ( داشبورد ) باستخدام جوجل داتا استوديو ( Looker Studio ) هذه الأداة الرائعة والتي تقدم لنا العديد من الوظائف المميزة والمجانية والتي تساعدنا في إنشاء تقارير تفاعلية جميلة ومحببة للجمهور وتختصر علينا الكثير من الوقت والجهد.\n\nبخطوات عملية لتصميم التقارير ولوحات القيادة باستخدام لوكر استوديو ستتعلم نبذة حول إنشاء لوحات البيانات وربطها بمصادر البيانات والتعريف ب لوكر استوديو كما ستتعرف على كيفية جلب البيانات من المصادر المختلفة، وتهيئة وتطوير نموذج البيانات إنشاء التقارير التفاعلية و لوحات القيادة.\n\nفإذا كنت ممن يمارس صناعة التقارير بشكل يومي أو متكرر على برامج أخرى مثل الاكسل وغيرها من البرامج والتطبيقات، فإن جوجل داتا استوديو سيسهل عليك العملية بكامله وسيجعل من صناعة التقارير أمر محبب لك و شي بسيط جداً تستطيع القيام به بكل يسر وسهولة.\n\nفي هذه الدورة المصغرة، ستتمكن من :\n\nإنشاء تقرير تفاعلي وربطه بمصادر البيانات\nإنشاء وتنسيق الجداول والتعامل مع عناصر التحكم\nالتعرف على قوائم الواجهة الرئيسية\nإدراج و تنسيق العدادات و إنشاء الفلاتر\nإدراج الرسوم البيانية وتنسيقها\nتنسيق لوحة البيانات\nتهيئة التقرير ونشره\n\nالخلاصة أن الغاية والهدف من إنشاء لوحات البيانات و التقارير التفاعلية هي اظهار البيانات بطريقة مبسطة ومحببة وسهلة للتحديث وللقراءة و توضح حقائق موجودة في البيانات من الصعب الحصول عليها من الجداول التقليدية.\n\nهدفنا أن نجعل التعلم أسهل!",
+      "target_audience": [
+        "هذه الدورة مقدمة لكل من يعمل على التقارير التفاعلية بشكل مستمر"
+      ]
+    },
+    {
+      "title": "Power BI Desktop: Veri Analizinde Ustalığa Doğru",
+      "url": "https://www.udemy.com/course/power-bi-desktop-veri-analizi/",
+      "bio": "Veri dönüştürme, DAX işlevlerini kullanma, veri görselleştirme ve iş zekası çözümleri oluşturma becerileri kazanın",
+      "objectives": [
+        "Veri analizi temel kavramlarını tekniklerini ve araçlarını öğrenin.",
+        "Veri analizi için kullanılan en popüler araçlardan biri olan Power BI Desktop'ın nasıl kullanılacağını öğrenin.",
+        "Veri temizleme ve düzenleme tekniklerini kullanarak verilerden doğru sonuçlar elde etmeyi öğrenin.",
+        "Veri yönetimi ve modellenmesi konularında pratik beceriler kazanın.",
+        "Verileri görselleştirme tekniklerini öğrenerek etkili raporlar oluşturma becerileri kazanın.",
+        "Kapsamlı veri setlerine dayalı iki kurs projesiyle becerileri geliştirin (adım adım çözümler)",
+        "İş zekâsı iş akışını baştan sona öğrenin"
+      ],
+      "course_content": {
+        "Başlarken": [
+          "Giriş",
+          "Kurs Tanıtım",
+          "Genel Açıklamalar"
+        ],
+        "Power BI ile Tanışma": [
+          "Veri Analizi ve Power BI",
+          "Power BI Desktop Kurulum",
+          "Power BI Desktop Seçenekler",
+          "Power BI Desktop Ara yüz",
+          "Öğrendiklerimizi Kontrol Edelim"
+        ],
+        "Veri Alma ve Şekillendirme": [
+          "Veri Alma ve Şekillendirme",
+          "Uygulama Çalışması-1",
+          "Uygulama Çalışması-1 Çözüm",
+          "Power Query Düzenleyicisi",
+          "Veri Kaynağı Ayarları",
+          "Power Query Sekmeleri",
+          "Tarih Tablosu Oluşturma",
+          "Değerleri Değiştirme Ve Dizin Sütunu",
+          "Sorguları Birleştir",
+          "Sorguları Ekleme",
+          "Klasörden Veri Alma",
+          "Koşullu Sütun Ekleme",
+          "Verileri Gruplama",
+          "Özet Sütun Oluştur/Çöz",
+          "Sorguları Düzenleme",
+          "Sorguları Yenileme",
+          "Veri Profili Oluşturma",
+          "Excel’den Veri Modeli Aktarma",
+          "Veri Düzenleme",
+          "Öğrendiklerimizi Kontrol Edelim"
+        ],
+        "Veri Modeli Tasarlama": [
+          "Veri Modeli Tasarlama",
+          "Verileri Modelleme",
+          "Yıldız Şeması",
+          "Olgu vs Boyut Tabloları",
+          "Veri Tabanı Normalleştirme",
+          "Kar Tanesi Şeması",
+          "DAX ile Tarih Tablosu Oluşturma",
+          "İlişkilerin Yönetimi",
+          "Kardinalite",
+          "İlişkileri Etkinleştirme",
+          "Olgu Tablolarını İlişkilendirme",
+          "Çapraz Filtre Yönü",
+          "Hiyerarşileri Tanımlama",
+          "Alanları Rapor Görünümünde Gizle",
+          "Tablo ve Sütun Özellikleri Yapılandırma",
+          "Veri Kategorilerini Belirleme",
+          "Uygulama Çalışması-2",
+          "Uygulama Çalışması-2 Çözüm",
+          "Veri Modelleme │ İyi Uygulamalar",
+          "Öğrendiklerimizi Kontrol Edelim"
+        ],
+        "DAX ile Hesaplanmış Alanlar": [
+          "DAX ile Hesaplanmış Alanlar",
+          "Ölçüler",
+          "Sütun veya Ölçü Ekleme",
+          "Hızlı Ölçüler",
+          "Örtük vs. Açık Ölçüler",
+          "Filtre Bağlamını Anlama",
+          "Filtre Bağlamı"
+        ],
+        "Temel DAX İşlevleri": [
+          "Temel DAX İşlevleri",
+          "DAX İşleçleri",
+          "Temel İşlev Türleri",
+          "Toplama İşlevleri",
+          "Uygulama Çalışması-3",
+          "Uygulama Çalışması-3 Çözüm",
+          "Ölçüler Tablosu Oluşturma",
+          "Yineleyici Fonksiyonlar",
+          "İlişki İşlevleri",
+          "Tarih ve Zaman İşlevleri",
+          "Filtre İşlevleri",
+          "Akıllı Zaman Gösterimi İşlevleri",
+          "Mantıksal İşlevler",
+          "Bilgi İşlevleri",
+          "Metin İşlevleri",
+          "Tablo Düzenleme İşlevleri",
+          "Matematik İşlevleri",
+          "DAX Değişkenlerini Kullanma",
+          "Uygulama Çalışması-4",
+          "Uygulama Çalışması-4 Çözüm",
+          "Hesaplanmış Sütunlar ve Ölçüler │ İyi Uygulamalar",
+          "Hız ve Performans│ İyi Uygulamalar",
+          "Öğrendiklerimizi Kontrol Edelim"
+        ],
+        "Rapor Oluşturma": [
+          "Rapor Oluşturma",
+          "Etkili Rapor Tasarımı",
+          "Rapor Tasarımı: Uygulama",
+          "Görsel Ekleme",
+          "Etkili Görsel Seçimi",
+          "Verileri Gruplandırma ve Gruplama",
+          "Dağılım Grafikleri",
+          "Daha Fazla Görsel Ekleme",
+          "Biçimlendirme Seçenekleri",
+          "Etkili Rapor Tasarımı",
+          "Rapor Tasarımı: Uygulama",
+          "Rapor Biçimlendirme: Uygulama",
+          "Koşullu Biçimlendirme",
+          "Filtre Seçenekleri",
+          "Etkileşimleri Düzenleme",
+          "Yeni Parametre Tanımlama",
+          "Detaylandırma",
+          "Uygulama Çalışması-5",
+          "Uygulama Çalışması-5 Çözüm",
+          "Araç İpuçları ile Çalışma",
+          "Yer İşareti ve Düğme Ekleme",
+          "Rolleri Yönetme",
+          "Desktop vs. Mobil Düzen",
+          "Raporu Yayımlama",
+          "Veri Görselleştirme │ İyi Uygulamalar",
+          "Öğrendiklerimizi Kontrol Edelim"
+        ],
+        "Kapanış": [
+          "Kaynaklar ve Sonraki Adım"
+        ],
+        "BONUS: Final Projesi": [
+          "BONUS: Final Projesi"
+        ]
+      },
+      "requirements": [
+        "Microsoft Power BI Desktop (ücretsiz indirme)",
+        "Windows işletim sistemi kurulu bir bilgisayar. (Power BI şu anda Mac için mevcut değildir)",
+        "Excel Power Query, Power Pivot ve DAX bilgisi bir artıdır, ancak zorunlu değildir."
+      ],
+      "description": "Temel Kazanımlar\n• Profesyonel kalitede iş zekâsı raporları oluşturun\n• Ham verileri düzenleyin ve etkileşimli görsel panolara dönüştürün\n• Profesyonel analistler ve veri bilimcileri tarafından kullanılan araçların kullanımını öğrenin\n• Kapsamlı veri setlerine dayalı iki kurs projesiyle becerileri geliştirin (adım adım çözümler)\n• İş zekâsı iş akışını baştan sona öğrenin\n• Profesyonel BI geliştiricisinden öğrenin\nİhtiyaçlar\n• Microsoft Power BI Desktop (ücretsiz indirme)\n• Windows işletim sistemi kurulu bir bilgisayar. (Power BI şu anda Mac için mevcut değildir)\n• Excel Power Query, Power Pivot ve DAX bilgisi bir artıdır, ancak zorunlu değildir.\nAçıklama\nMicrosoft Power BI Desktop kullanımını ve etkileyici raporlar hazırlamayı öğrenmek istiyorsanız tam olarak doğru yerdesiniz.\nPower BI, günümüzün en güçlü self servis iş zekâsı platformu olarak hem veri uzmanları hem de yeni başlayanlar için son derece gerekli bir araç haline geliyor. Power BI ile yüzlerce veri kaynağına bağlanabilir, basit ve sezgisel araçlar kullanarak karmaşık ilişkisel modeller oluşturabilir ve baştan sona ücretsiz olarak göz alıcı interaktif panolar tasarlayabilirsiniz.\nKurs PROJESİ:\nBu kursta, küresel bir üretim şirketi olan Adventure Works Cycles için İş Zekâsı Analisti rolünü oynayacaksınız. Göreviniz: Yalnızca Power BI ve bir takım veri dosyalarını (csv, xls) kullanarak profesyonel kalitede, uçtan uca bir iş zekâsı raporu tasarlamak ve sunmak.\nEndişelenmenize gerek yok! Power BI Desktop'ın tüm ayrıntılarını öğrenmenizde size rehberlik edeceğim. Ustalığa giden bu yolculuğun her adımında net açıklamalar ve usta işi yöntemleri paylaşacağım. Power BI iş akışı boyunca istikrarlı, sistematik bir ilerlemeyi takip edeceğiz ve projemizi DÖRT ADIMDA tamamlayacağız:\nPOWER BI ADIM-1: Veri Alma ve Şekillendirme\n· Power Query Düzenleyicisi\n· Veri Kaynağı Ayarları\n· Power Query Sekmeleri\n· Tarih Tablosu Oluşturma\n· Değerleri Değiştirme Ve Dizin Sütunu\n· Sorguları Birleştir\n· Sorguları Ekleme\n· Klasörden Veri Alma\n· Koşullu Sütun Ekleme\n· Verileri Gruplama\n· Özet Sütun Oluştur/Çöz\n· Sorguları Düzenleme\n· Sorguları Yenileme\n· Veri Profili Oluşturma\n· Excel’den Veri Modeli Aktarma\n· Veri Düzenleme\n\n\nPOWER BI ADIM-2: Veri Modeli Tasarlama\n· Verileri Modelleme\n· Yıldız Şeması\n· Olgu vs Boyut Tabloları\n· Veri Tabanı Normalleştirme\n· Kar Tanesi Şeması\n· DAX ile Tarih Tablosu Oluşturma\n· İlişkilerin Yönetimi\n· Kardinalite\n· İlişkileri Etkinleştirme\n· Olgu Tablolarını İlişkilendirme\n· Çapraz Filtre Yönü\n· Hiyerarşileri Tanımlama\n· Alanları Rapor Görünümünde Gizle\n· Tablo ve Sütun Özellikleri Yapılandırma\n· Veri Kategorilerini Belirleme\n· Veri Modelleme │ İyi Uygulamalar\n· DAX ile Hesaplanmış Alanlar\n· Ölçüler\n· Sütun veya Ölçü Ekleme\n· Hızlı Ölçüler\n· Örtük vs. Açık Ölçüler\n· Filtre Bağlamı\n\n\nPOWER BI ADIM-3: DAX ile Hesaplanmış Alanlar Ekleme\n· DAX İşleçleri\n· Temel İşlev Türleri\n· Toplama İşlevleri\n· Ölçüler Tablosu Oluşturma\n· Yineleyici Fonksiyonlar\n· İlişki İşlevleri\n· Tarih ve Zaman İşlevleri\n· Filtre İşlevleri\n· Akıllı Zaman Gösterimi İşlevleri\n· Mantıksal İşlevler\n· Bilgi İşlevleri\n· Metin İşlevleri\n· Tablo Düzenleme İşlevleri\n· Matematik İşlevleri\n· DAX Değişkenlerini Kullanma\n· Hesaplanmış Sütunlar ve Ölçüler │ İyi Uygulamalar\n· Hız ve Performans│ İyi Uygulamalar\n\n\nPOWER BI ADIM-4: Power BI Raporları Hazırlama\n· Power BI Rapor Görünümü\n· Görsel Ekleme\n· Etkili Görsel Seçimi\n· Yapay Zekâ Görselleri\n· Verileri Gruplandırma ve Gruplama\n· Dağılım Grafikleri\n· Daha Fazla Görsel Ekleme\n· Biçimlendirme Seçenekleri\n· Etkili Rapor Tasarımı\n· Rapor Tasarımı: Uygulama\n· Rapor Biçimlendirme: Uygulama\n· Koşullu Biçimlendirme\n· Filtre Seçenekleri\n· Etkileşimleri Düzenleme\n· Yeni Parametre Tanımlama\n· Detaylandırma\n· Araç İpuçları ile Çalışma\n· Yer İşareti ve Düğme Ekleme\n· Rolleri Yönetme\n· Desktop vs. Mobil Düzen\n· Raporu Yayımlama\n· Veri Görselleştirme │ İyi Uygulamalar\n\n\nAdventure Works projesinin sonunda, yalnızca Power BI kullanarak baştan sona bir iş zekâsı aracı geliştirmiş olacaksınız. Öğrenilen kavramları kendi Power BI projelerinize kolaylıkla uygulayacak bilgi ve pratiği de kazanmış olacaksınız.\nPower BI becerilerini daha fazla pratik yaparak geliştirmek isteyenler için ayrıca Bonus Final Projesi veri dosyaları ekledim. Bu kurs boyunca geliştirdiğiniz tüm becerileri kullanarak ulusal bir kahve zinciri olan Haldoz Kafe verilerini görsel raporlara dönüştürebilirsiniz.\nGenel kullanıcı, iş analist veya veri bilimi uzmanı… Hangi kullanıcı grubunda olduğunuz fark etmez. Bu kurs Power BI USTASI olmanız için gereken araçları sağlayacaktır.\nHemen katılın ve aşağıdakilere anında, ömür boyu erişim elde edin:\n• 100'den fazla sayfalı Power BI e-kitabı\n• İndirilebilir Power BI proje dosyaları\n• Ev ödevi alıştırmaları ve testler\n• 1'e 1 uzman desteği\n• Kurs Soru-Cevap forumu\n• 30-gün Para İade  Garantisi\nKursta görüşmek üzere!\nDr. Fatih ÖZDEMİR (Kurucu, Haldoz Analitik)",
+      "target_audience": [
+        "Microsoft Power BI Desktop kullanımını ve etkileyici raporlar hazırlamayı öğrenmek istiyorsanız tam olarak doğru yerdesiniz.",
+        "Power BI, günümüzün en güçlü self servis iş zekâsı platformu olarak hem veri uzmanları hem de yeni başlayanlar için son derece gerekli bir araç haline geliyor. Power BI ile yüzlerce veri kaynağına bağlanabilir, basit ve sezgisel araçlar kullanarak karmaşık ilişkisel modeller oluşturabilir ve baştan sona ücretsiz olarak göz alıcı interaktif panolar tasarlayabilirsiniz.",
+        "Veri bilimine meraklı, veri görselleştirme için çözüm arayan tüm öğrenci ve profesyoneller"
+      ]
+    },
+    {
+      "title": "Cognos Analytics 11.1.7 - E4 Berichtserstellung Vertiefung",
+      "url": "https://www.udemy.com/course/cognos-analytics-1117-berichtserstellung-vertiefung/",
+      "bio": "Werden Sie zum Profi in Cognos Reporting mit Makros, Zielgruppenverteilung, Master-Detail-Verbindungen...",
+      "objectives": [
+        "Arbeiten mit Abfragen (join & union)",
+        "Master-Detail-Verbindungen",
+        "Komplexe Berechnungen und Aggregationen",
+        "Erweiterte bedingte Formatierung mit Ausgabevariablen",
+        "Spezielle Berichtsgestaltung für PDF, Excel und HTML",
+        "Dynamisierung von Berichten durch Cognos-Makros",
+        "Zielgruppenverteilung",
+        "Tipps und Tricks"
+      ],
+      "course_content": {
+        "Einführung": [
+          "Filten mit Unterabfragen",
+          "Abfragen mit Schnittpunkt-und-Außer-Verbindungen",
+          "Abfragen mit direkt SQL"
+        ],
+        "Master-Detail-Verbindungen": [
+          "Master-Detail-Verbindungen - Kacheln",
+          "Master-Detail-Verbindungen - Seitensätze"
+        ],
+        "Komplexe Berechnungen und Aggregationen": [
+          "Filter mit Aggregaten - erstes Datum Filtern",
+          "Errechnen von Teilsummen",
+          "Durchschnitte der letzten X Monate (moving-average)",
+          "Laufende Summen (running-total)"
+        ],
+        "Erweiterte bedingte Formatierung mit Ausgabevariablen": [
+          "Wechselnder Zeilenhintergrund in Listen",
+          "Mehrsprachigkeit für Objekte einrichten",
+          "Zeichenfolgenvariablen"
+        ],
+        "Spezielle Berichtsgestaltung für PDF, Excel und HTML": [
+          "Spezielle Berichtsgestaltung für Excel",
+          "Spezielle Berichtsgestaltung für PDF",
+          "Spezielle Berichtsgestaltung für HTML"
+        ],
+        "Dynamisierung von Berichten durch Cognos-Makros": [
+          "Dynamische Datenelemente per Eingabeaufforderung",
+          "Dynamische Datenelemente MUN"
+        ],
+        "Zielgruppenverteilung": [
+          "Zielgruppenverteilung mit einer Abfrage",
+          "Zielgruppenverteilung mit Empfängerlisten"
+        ],
+        "Cognos Reporting Tipps und Tricks": [
+          "Sortierung von Monatsnamen in Visualisierungen",
+          "Microcharts in Kreuztabellen"
+        ]
+      },
+      "requirements": [
+        "Besuch des Kurses \"Cognos Analytics 11.1.7 - Berichtserstellung Grundlagen\" empfehlenswert."
+      ],
+      "description": "Das Seminar richtet sich an Cognos Berichtsersteller die schon mit der Erstellung von Berichten vertraut sind und tiefer in die der Berichtserstellung einsteigen möchten.\nIn dem Seminar werden weitere Funktionen zur Berichtsgestaltung und -Dynamisierung auf Basis von Beispielen aus der Praxis behandelt und erarbeitet.\nDie Teilnehmer lernen neben vielen weiteren Themen Berichte an Zielgruppen zu verteilen, Abfragen miteinander zu Verknüpfen und mit Cognos-Makros zu arbeiten.\n\n\nZielgruppe\nProfessionelle Cognos Anwender: Berichtsersteller die mit Cognos Reporting schon vertraut sind\n\n\nVoraussetzungen\nErfahrungen im Bereich der Datenauswertung, z.B. durch das Arbeiten mit Excel.\n\n\nKursdauer\nWir empfehlen für diesen Kurs 12 Stunden Zeit einzuplanen um die Übungen zu erarbeiten.\n\n\nKernthemen\n\n\nAbschnitt 1: Arbeiten mit Abfragen\n\n\nTabellarische Daten anzeigen\nJoin-Verbindungen\nUnion-Verbindungen\nSQL-Direkteingabe\nBeispiel: Erzeugen von Nullzeilen\n\n\nAbschnitt 2: Master-Detail Verbindungen\n\n\nEinrichten erweiterter Seitenumbrüche\nAnlegen von Microcharts in Listen\nMaster-Detail Auswirkungen auf  Datencontainer (Singleton, Liste…)\n\n\nAbschnitt 3: Komplexe Berechnungen und Aggregationen\n\n\nErstellen neuer Kennzahlenauswertungen über IF-THEN-ELSE\nAggregateinstellungen für Datenelemente und Berechnungen\n\n\nAbschnitt 4: Erweiterte Bedingte Formatierung\n\n\nMehrsprachige Berichte erstellen\nZeilen abwechselnd grau / weiß formatieren\nDynamisches Berichtslayout (Ein- und Ausblenden von Objekten)\n\n\nAbschnitt 5: Spezielle Berichtsgestaltung für PDF, Excel und HTML\n\n\nFormatieren von Berichten für die Excel-Ausgabe\nErstellen von Navigationsmöglichkeiten im HTML\nErweitertes Inhaltsverzeichnis für PDF (Kapitelnummerierung)\n\n\nAbschnitt 6: Dynamisierung von Berichten\n\n\nOptimierung von Berichten\nDynamische Sortierung per Eingabeaufforderung\nDynamische Spalteninhalte über Makros\n\n\nAbschnitt 7: Zielgruppenverteilung\n\n\nErstellen einer automatischen Berichtsverteilung\nAnlegen von Zielgruppen und Empfänger (z.B. Vertriebsgebiete und eMail-Empfänger)\nEinrichten von Filtern und Master-Detail-Beziehungen für die Verteilung\nAutomatisches Ergänzen von sprechenden Berichtsnamen\nEinrichten von Zeitplänen für die Berichtsausführung und Verteilung\n\n\nKursreferenzen\nInhalte vergleichbar mit Kursen B6059G, B6259G, B6159FG, U5B5A59G, U5B5A58G",
+      "target_audience": [
+        "Cognos Berichtsersteller, die tiefer in die professionellen Funktionalitäten einsteigen möchten.",
+        "Data Scientisten, die komplexere Berechnungen in Berichten durchführen müssen",
+        "Datenanalysten, die Datenquellen verknüpfen und auswerten"
+      ]
+    },
+    {
+      "title": "【ビジネス統計】Excelデータ集計・グラフ作成「考え方」講座",
+      "url": "https://www.udemy.com/course/excel-data-graph/",
+      "bio": "【グラフ初心者向け】データ集計・グラフ作成の基本的な考え方と多様なグラフのポイントを体系的に整理し、わかりやすく丁寧に解説する入門講座です",
+      "objectives": [
+        "グラフ作成の基本的な考え方を理解する",
+        "グラフタイプ別に論点を体系的に整理する",
+        "ヒストグラムや散布図に関するポイントを理解する",
+        "箱ひげ図に関するポイントを理解する",
+        "棒グラフや折れ線グラフに関するポイントを理解する"
+      ],
+      "course_content": {
+        "はじめに": [
+          "はじめに（必ず最初にご覧ください）",
+          "なぜグラフが大切か",
+          "Excelのグラフ機能",
+          "本コースで学ぶ内容",
+          "講義スライド"
+        ],
+        "グラフ作成の基本": [
+          "グラフとは",
+          "データとは",
+          "変数とは",
+          "ヒストグラムの概要（詳細は別途）",
+          "散布図の概要（詳細は別途）",
+          "箱ひげ図の概要（詳細は別途）",
+          "折れ線グラフの概要（詳細は別途）",
+          "「グラフ作成の基本」のまとめ"
+        ],
+        "グラフタイプの整理": [
+          "グラフタイプの整理",
+          "元データと集計データ",
+          "原因軸と結果軸",
+          "連続変数とカテゴリ変数",
+          "度数と統計量",
+          "塗分け変数"
+        ],
+        "ヒストグラム": [
+          "ヒストグラムの目的とポイント",
+          "ヒストグラムの作成方法（グラフツール）",
+          "ヒストグラムの調整",
+          "いろいろなヒストグラム"
+        ],
+        "散布図": [
+          "散布図の目的とポイント",
+          "散布図の作成方法",
+          "散布図の調整",
+          "いろいろな散布図"
+        ],
+        "箱ひげ図": [
+          "箱ひげ図の目的とポイント",
+          "箱ひげ図の作成方法",
+          "箱ひげ図の調整",
+          "いろいろな箱ひげ図"
+        ],
+        "棒グラフ・折れ線グラフ": [
+          "棒グラフ・折れ線グラフの目的とポイント",
+          "棒グラフ・折れ線グラフの作成方法①",
+          "棒グラフ・折れ線グラフの作成方法②",
+          "棒グラフの調整",
+          "いろいろな棒グラフ",
+          "折れ線グラフの調整",
+          "いろいろな折れ線グラフ"
+        ],
+        "さいごに": [
+          "まとめ",
+          "付録（グラフの「塗分け」について）"
+        ],
+        "ボーナスセクション": [
+          "ボーナスレクチャー"
+        ]
+      },
+      "requirements": [
+        "特にありません。Excel初心者の方やデータ分析初心者の方でもご受講いただけます。"
+      ],
+      "description": "＼グラフ作成を「何となく」で済ませていませんか？／\n\n\n本コースは、Excelを使ったデータ集計とグラフ作成の基本的な考え方を丁寧に解説する初心者向けの講座です。特に、ビジネスシーンで実際に役立つスキルを身につけることを目的としています。\n\n\n日々の業務では、多くのデータを取り扱うことが求められますが、データの意味を正しく理解し、効果的に表現するのは意外と難しいものです。このコースでは、単なる操作方法だけでなく、「なぜその操作が必要か」「どのような場面でそのグラフを使うべきか」という根本的な考え方を重視しています。\n\n\nまず、データ集計・グラフ作成がなぜ重要かを理解します。元データから何を読み取るべきかを明確にし、どのようなメッセージを伝えたいのかを整理する方法を学びます。そのうえで、目的に最も適したグラフタイプ（ヒストグラム、散布図、箱ひげ図、棒グラフ、折れ線グラフなど）の選定ポイントを身につけます。\n\n\nさらに、このコースではデータを扱う際に欠かせない「変数の種類」や「カテゴリの区別」などの基本概念を丁寧に説明しています。連続変数、カテゴリ変数といった分類を理解することで、より正確で伝わりやすいデータ表現が可能になります。\n\n\nまた、Excelの便利な関数（COUNTIF、AVERAGEIFなど）を用いて、元データを効率的に集計データへと変換する具体的な方法も習得できます。関数を適切に活用することで、集計作業を効率化でき、手作業でのミスも減らせるようになります（とはいえ本コースではExcel関数の紹介がメインというわけではなく、グラフ作成の「考え方」に焦点を当てています）。\n\n\n本コースは、特に忙しいビジネスパーソンが隙間時間でも効率よく学べるよう、「1トピック1スライド」の形式を採用しています。各スライドは約5分程度の短時間で完結し、重要な概念は繰り返し登場するため、自然と理解が深まる仕組みになっています。また、視覚的にもわかりやすい図表を豊富に使い、視覚と聴覚の両面から学習効果を高めています。\n\n\nExcel初心者やデータ分析を初めて担当する方、改めてデータの取り扱いを基礎から学び直したい方に最適な内容です。データの集計とグラフ作成に自信を持ち、実務で即戦力として活躍できるようになるために、ぜひ本コースをご活用ください。",
+      "target_audience": [
+        "グラフ作成におけるポイントを整理したい方",
+        "無駄なく効率的にグラフを作成できるようになりたい方",
+        "目的に応じて適切にグラフを選択できるようになりたい方",
+        "さまざまなグラフの使い分けを適切に行えるようになりたい方"
+      ]
+    },
+    {
+      "title": "MEGA Pack de Excel: 3 cursos en 1, de básico e intermedio",
+      "url": "https://www.udemy.com/course/megapack-de-excel-3-cursos-en-1-de-basico-e-intermedio/",
+      "bio": "Aprende Tablas y Graficas Dinámicas, Dashboards, Funciones Básicas y Avanzadas, Listas de Verificación y Mas",
+      "objectives": [
+        "Formulas y funciones basicas de Excel, las mas utilizadas en el mundo laboral, BuscarV, Indice, Coincidir, SumarSI, SumarSIConjunto, ContarSI, ContarSIConjunto",
+        "Combinación de formulas y funciones con graficas y filtros",
+        "Filtros con listas de verificacion, combinadas con formulas funciones y tablas dinamicas",
+        "Diferentes tipos de gráficos, aplicarles formato a sus etiquetas, combinarlos con formulas y hacerlos dinámicos e interactivos",
+        "Tablas dinámicas: Diseño y Formato, Campo Calculado, Filtros, Que son las Filas y Columnas, Sumatorias y Promedios, Coneccion de varias tablas dinamicas",
+        "Dashboard con tablas dinamicas conectadas sin necesidad de utilizar programación, solo formulas, graficas, y tablas dinámicas",
+        "Analizar Inventario y Venta con listas de verificación y subtotales",
+        "Graficos de: Barras, Pastel, Apilado, Area, Lineal, Lineal combinado con Area, Lineal combinado con Barras, Grafico con minimos, maximos y simbolos automatizado",
+        "Formatos condicionales a etiquetas, formatos condicionales a celdas y textos, formatos condicionales a graficas, formato condicional a simbolos automatizados"
+      ],
+      "course_content": {
+        "Introducción": [
+          "Introducción"
+        ],
+        "Primer Curso: Excel Basico, formulas y funciones mas utlizadas, tablas dinamicas": [
+          "Funcion SI - Ejercicio 1",
+          "Funcion SI - Ejercicio 2",
+          "Funcion SI con formato condicional",
+          "Funcion SI anidado - Ejercicio 1",
+          "Funcion SI anidado con formato condicional - Ejercicio 2",
+          "Funcion BuscarV",
+          "Funcion BuscarV con formato condicional",
+          "SumarSI - Ejercicio 1",
+          "SumarSI - Ejercicio 2",
+          "Grafica con lista de verificacion - Ejercicio 1",
+          "Grafica con lista de verificación - Ejercicio 2",
+          "Grafico de barras vertical combinado",
+          "Tablas dinámicas: Crearla desde cero",
+          "Ejercicio de practica con varias funciones: BuscarV, SI, SI anidado,"
+        ],
+        "Segundo Curso: Graficas dinámicas e interactiva en Excel, formatos condicionales": [
+          "Funciones Indice y Coincidir combinadas - Parte 1",
+          "Indice y Coincidir con grafica de barras y grafica de pastel y filtro dinámicos",
+          "Formato a etiquetado de graficas",
+          "Grafica con símbolos fijos insertados",
+          "Grafica de area apilada",
+          "Grafica de barras con color invertido",
+          "Grafica de barras con con formula de jerarquia",
+          "Grafica lineal con etiquetado a un lado",
+          "Grafica con Minimos y Maximos diferenciados - Parte 1",
+          "Grafica con Minimos y Maximos diferenciados - Parte 2",
+          "Grafica combinada lineal con barras y con minimos y maximos",
+          "Graficas varias con objetivos",
+          "Formato condicional 1 - Reglas de color a celdas",
+          "Formato condicional 2 - Semáforo automatizado",
+          "Formato condicional 3 - Aplicando barras de color automatizadas en celdas",
+          "Formato condicional 4 - Insertando símbolos y semáforos",
+          "Función Sumar SI en composición de Inventarios",
+          "Combinación de funciones Indice y Coincidir en composición de inventario",
+          "Combinación de SumarSIConjunto, Indice, Coincidir con graficas automatizadas",
+          "Lista de verificación en ejercicio practico composición de inventario"
+        ],
+        "Tercer Curso: Excel de Básico a Intermedio, Funciones y Formulas mas comunes": [
+          "Recorrido breve por el curso",
+          "Funcion SI, SIError",
+          "La famosa funcion BuscaV",
+          "Funciones Indice y Coincidir",
+          "Funcion Concatenado",
+          "Ejercicio practico parte 1 - acomodo y obtencion de la informacion con funciones",
+          "Ejercicio practico parte 2 - Acomodo y obtención de datos",
+          "Ejercicio practico parte 3-Realizando graficas automatizadas de barras combinada",
+          "Ejercicio practico parte 4 - Aplicar formatos y analizando datos",
+          "Ejercicio practico parte 5 - Desarrollando tablas automatizadas con funciones 1",
+          "Ejercicio practico parte 5 - Desarrollando tablas automatizadas con funciones 2",
+          "Dashboard sin programar - Parte 1",
+          "Dashboard sin programar - Parte 2",
+          "Dashboard sin programar - Parte 3",
+          "Otros usos de BuscarV"
+        ]
+      },
+      "requirements": [
+        "Deseos de aprender",
+        "Computadora con Excel"
+      ],
+      "description": "Como ya lo he mencionado en mis cursos anteriores, Excel es de las herramientas mas usadas en el mundo laboral como herramienta de análisis de datos e inteligencia de negocios, les comparto unos datos interesantes:\nMas de 750 millones de personas de todo el mundo usan esta herramienta\n80% de los negocios usan Microsoft Excel\nEn Wall Street usan Excel para crear modelos financieros complejos y,\nAsociaciones gubernamentales también usan Excel para crear modelos complejos\nEn este curso junte TRES CURSOS EN UNO, y este PACK estará disponible por tiempo limitado, algunos de los temas coinciden en los tres cursos, sin embargo son ejemplos diferentes y en algunos casos de diferente nivel, con este curso te aseguro que pasaras de un nivel básico a un nivel intermedio, incluso algunas de las funciones las vamos a utilizar de forma básica y avanzada, como por ejemplo la función SI combinada con graficas, listas de verificación, y al mismo tiempo combinándola con otras funciones como Indice, Coincidir, SumarSIConjunto y otras mas. El utilizar este tipo de combinación con graficas, tablas y dashboard es ya un nivel de intermedio - avanzado, no me atrevo a decir que ya serias un nivel avanzado al terminar este curso, pero te faltaría poco para serlo, como por ejemplo saber programar, y saber power query, ambos temas también muy importantes que los vamos a incluir en este curso mas adelante y tendrás ya acceso gratuito, yo te hare saber cuando se agreguen estos temas.\n\n\nEstos son los temas de los tres cursos:\n\n\nPrimer Curso - Curso Basico de Excel\n1. Función SI - Vamos a crear un grupo de inventarios por medio de la función SI.\n2. Función SI - Crearemos un grupo de ventas del mismo modo que hicimos el grupo de inventarios.\n3. Formato condicional en celda y texto - Aplicaremos el formato condicional que esta por default y lo modificaremos para que este personalizado.\n4. Función SI anidado - Aplicaremos la función SI, y la función Y, dentro de juna función SI, de este forma nuestros grupos de análisis serán mas extensos.\n5. Formato condicional (iconos tipo semáforo) - En la función SI anidado agregaremos un formato condicional con unos iconos que darán un aspecto tipo semáforo.\n6. Función SumarSI - Usaremos la función SumarSI para sumar el inventario total por mes, extraído de una tabla de datos, también crearemos nuestra primer lista de verificacion (data validation) con el que podremos filtrar por zona y hacer dinámicos nuestra tabla de datos\n7. Función SumarSI.Conjunto - Usaremos la función SumarSI.Conjunto para sumar el inventario total, inventario de baja rotación, inventario de alta rotacion e inventario descontinuado por zona y por mes, también extraído de una tabla de datos.\n8. Función BuscarV - Usaremos la famosa función BuscarV para obtener información de una tabla de datos a otra tabla\n9. Función concatenado con BuscarV\n10.Grafica de pastel - Desarrollaremos una grafica de pastel interactiva, vamos a filtrar por medio de una lista de verificación y al mismo tiempo cambiara de valores nuestro grafico de pastel\n11. Grafica de barras con lista de verificación - Al igual que en la grafica de pastel, esta grafica de barras también sera interactiva\n12. Grafica de barras combinada con grafica lineal - Desarrollaremos una grafica donde nos muestre que asesores de venta cumplieron con la meta y cuales no, para esto la combinaremos con una grafica lineal.\n\n\nSegundo Curso - Curso de Graficas en Excel\n1. Grafica de pastel y Grafica de Barras combinadas con las funciones Indice y Coincidir, y con una lista de verificación\n2. Grafica de con mínimos y máximos diferenciados\n3. Grafica de barras vertical con orden usando la función de Jerarquía\n4. Grafica de barras vertical con colores invertidos aplicando formatos condicionales a las barras y texto de la grafica y al texto de la tabla base también\n5. Grafica de atea apilada con totales marcados\n6. Formatos a las etiquetas (texto) de las graficas\n7. Grafica lineal con mínimo y máximo\n8. Varios tipos de graficas con objetivos\n9. Grafica lineal con etiqueta movible al lado\n10. Grafica de barras con símbolos fijos insertados\n11. Formato condicional a celdas\n12. Formato condicional a celdas con símbolos de color (semáforo)\n13. Formato condicional a celda 2\n14. Formato condicional insertando símbolos variados\n15. SumarSI.Conjunto y SumarSI\n16. Indice y Coincidir\n17. Graficas combinadas\n18. Listas de verificación\n\n\nTercer Curso - Curso de Excel de Básico a Intermedio (Dashboar sin programar - Ejercicios practicos y análisis de datos)\n1. Función BuscarV, BuscarH\n2. Función Indice combinado con la funcion coincidir\n3. Función Si, SiError\n4. Funciones de Texto (Extrae, Izquierda, Derecha, Remplazar)\n5. Función Contara, ContarSi, ContarSiConjunto\n6. Función SumarSi, SumarSiConjunto\n7. Funciones matematicas (sumar, restar, promedios, subtotales, redondear, redondear.mas, redondear.menosetc)\n8. Formatos Condicionales\n9. Función Escoger\n0. Tablas dinámicas\n11. Creación de diferentes tipos gráficos\n12. Combinación de funciones, tablas y graficas dinámicas\n\n\nEstoy seguro de que los ejercicios presentados en estos cursos te van a ser muy utiles en tu empleo actual, o si eres estudiante te ayudaran a comprender con mayor claridad como usar lo basico e intermedio de Excel en el mundo laboral, y como te comente anteriormente en los próximos meses agregaremos mas temas para que ya pases a un nivel avanzado, empezaremos agregando temas de Power Query y Power Pivot y posterior a eso Programación.\n\n\nTe recuerdo que este PACK de cursos es por tiempo limitado\n\n\nCualquier duda que tengas contáctame y te responderé a la brevedad\n\n\nTe espero en el curso!",
+      "target_audience": [
+        "Estudiantes",
+        "Profesionistas de cualquier area",
+        "Personas que quieran pasar de un Excel Basico a Intermedio",
+        "Analistas",
+        "Cualquier persona que desee aprender Excel con ejemplos prácticos y útiles en el mundo laboral",
+        "Emprendedores"
+      ]
+    },
+    {
+      "title": "Microsoft Power BI Desktop (Urdu اردو / Hindi हिंदी)",
+      "url": "https://www.udemy.com/course/microsoft-power-bi-desktop-for-business-intelligence-urdu/",
+      "bio": "Master Power BI Desktop for data analysis with hands-on projects from Certified analyst in (Urdu اردو / Hindi हिंद",
+      "objectives": [
+        "Create high-caliber business intelligence reports starting from scratch",
+        "Merge and convert unprocessed data into visually appealing, interactive dashboards.",
+        "Develop and deploy tools, to be utilized by expert analysts and data scientists",
+        "Demonstrate proficiency through a comprehensive course projects with detailed solutions."
+      ],
+      "course_content": {
+        "Connect and transform the raw source data": [
+          "Introduction to the course",
+          "Excel vs. Power BI",
+          "How to install Power BI",
+          "Change default setting",
+          "Power BI workflow",
+          "Display of final dashboard",
+          "Back end vs front end",
+          "Types of data connectors",
+          "Introduction of Power Query",
+          "Query editing tools",
+          "Power query interface",
+          "Assignment with solution",
+          "Extracting data from web",
+          "Data profiling & colum quality",
+          "Numeric tools",
+          "Date and time tools",
+          "Change locale type",
+          "Index and conditional colums",
+          "Grouping & aggregating",
+          "Pivoting and un-pivoting",
+          "Merge queries",
+          "Append queries"
+        ],
+        "Design and build a relational model": [
+          "Data modeling",
+          "Data normalization",
+          "Fact and dimension tables",
+          "Primary and foreign keys",
+          "Star and snowflake schema",
+          "Active and inactive relationship",
+          "Relationship Cardinality",
+          "Connecting Multiple fact tables",
+          "Filter context and flow"
+        ],
+        "Analyze the data with calculated columns & DAX measures": [
+          "Introduction of DAX",
+          "Calculate colums",
+          "DAX Measure",
+          "Quick measures",
+          "Filter context",
+          "DAX Syntax and operators",
+          "Basic Math and stats functions",
+          "Counting functions",
+          "Basic logical functions",
+          "Switch functions",
+          "Text functions",
+          "Basic date and time function",
+          "Related function",
+          "Calculate function",
+          "ALL function",
+          "Filter function",
+          "Iterator function",
+          "Time intelligence"
+        ],
+        "Design custom, interactive reports and dashboards": [
+          "Visualizing data (3 Questions)",
+          "Dashboard design framework",
+          "Power BI interface",
+          "Adding report pages and Objects",
+          "Building and formatting charts",
+          "Line charts",
+          "KPI Card",
+          "Bar and donut chart",
+          "Basic filter option",
+          "Table for Top N products",
+          "Top N text cards",
+          "Map visuals",
+          "Report slicers",
+          "Gauge charts",
+          "Report interaction",
+          "Donut Charts with visual filter",
+          "Adding bookmarks"
+        ],
+        "Multiple choice question - Test with solution": [
+          "Assignment",
+          "Sales ddata"
+        ]
+      },
+      "requirements": [
+        "This course caters specifically to PC/Windows users and is not compatible with Mac at present.",
+        "While familiarity with Excel Power Query, Power Pivot, & DAX is advantageous, it's not mandatory."
+      ],
+      "description": "Welcome to the Power BI Desktop Course in (Urdu اردو / Hindi हिंदी) language.\nIf you're a data professional or an aspiring analyst aiming to master the leading business intelligence platform, you're in the perfect spot.\nThroughout this course, you'll engage in hands-on projects and unique real-world assignments to sharpen your skills.\nThe Course Project:\nImagine yourself as a Business Intelligence Analyst for AdventureWorks Cycles, a fictitious manufacturing company. Your mission is to transform raw data into professional-grade reports and dashboards. These will track KPIs, analyze regional performance, delve into product-level trends, and pinpoint high-value customers.\nDon't fret! We'll be your mentors every step of the way. Expect crystal-clear explanations and valuable pro tips, ensuring your journey from novice to expert – is guaranteed.\nThis course is designed to follow the critical stages of the business intelligence workflow and simulate real-world tasks that data professionals encounter on the job:\n\n\nSTAGE 1: Connecting & Shaping Data\nIn this stage, we'll focus on building automated workflows to extract, transform, and load our project data using Power Query and explore common data connectors, storage modes, profiling tools, table transformations, and more:\n\n\nData connectors\nStorage & import modes\nQuery editing tools\nTable transformations\nConnecting to a database\nExtracting data from the web\nQA and profiling tools\nText, numerical, date & time tools\nRolling calendars\nIndex & conditional columns\nGrouping & aggregating\nPivoting & unpivoting\nMerging & appending queries\nSTAGE 2: Creating a Relational Data Model\nIn stage 2, we'll review data modeling best practices, introduce topics like cardinality, normalization, filter flow, and star schemas, and begin to build our AdventureWorks data model from the ground up:\n\n\nDatabase normalization\nFact & dimension tables\nPrimary & foreign keys\nStar & snowflake schemas\nActive & inactive relationships\nRelationship cardinality\nFilter context & flow\nSTAGE 3: Adding Calculated Fields with DAX\nIn stage 3, we'll introduce data analysis expressions (DAX). We'll create calculated columns and measures, explore topics like row and filter context, and practice applying powerful tools like filter functions, iterators, and time intelligence patterns:\n\n\nDAX vs. M\nCalculated columns & measures\nImplicit, explicit & quick measures\nMeasure calculation steps\nDAX syntax & operators\nMath & stats functions\nConditional & logical functions\nThe SWITCH function\nText functions\nDate & time functions\nThe RELATED function\nCALCULATE, FILTER & ALL\nIterator (X) functions\nTime intelligence patterns\n\n\nSTAGE 4: Visualizing Data with Reports\nStage 4 is about bringing our data to LIFE with reports and dashboards. We'll review data viz best practices, build and format basic charts, and add interactivity with bookmarks, slicer panels, parameters, tooltips, report navigation, and more:\n\n\nData viz best practices\nDashboard design framework\nCards & KPIs\nLine charts, trend lines & forecasts\nOn-object formatting\nTable & matrix visuals\nConditional formatting\nTop N filtering\nMap visuals\nDrill up, drill down\nReport slicers & interactions\nBookmarks & page navigation\nNumeric & field parameters\nReady to get started? Join today and get immediate, lifetime access to:\n10 hours of high-quality video\nDownloadable course project files\nIf you're looking for the ONE course to help you build job-ready Power BI skills, you've come to the right place.\n\n\nHappy learning!\n-Jaffar Tayyar",
+      "target_audience": [
+        "Professionals seeking a practical, project-centered initiation into Microsoft Power BI Desktop",
+        "Data analysts and Excel users aiming to refine their expertise in advanced data modeling, dashboard creation, and business intelligence capabilities.",
+        "Individuals aspiring to excel as data professionals and seek mastery in the leading business intelligence tool available"
+      ]
+    },
+    {
+      "title": "[좋은기분리포트] 카카오 - 이공계 취업생을 위한 기업분석보고서",
+      "url": "https://www.udemy.com/course/nastar_kakao/",
+      "bio": "기업을 알면 취업이 보인다. 좋은 기분 리포트!",
+      "objectives": [
+        "커피 한 잔의 값으로 취업하고픈 기업이 바로 이해됩니다.",
+        "1만원으로 1년 연봉을 벌 수 있다면, 나는 30분을 투자할 수 있습니다.",
+        "이 기업의 사업 분야, 사업 분석, 기술 및 지식재산 등을 알아볼 수 있습니다.",
+        "취업하고 싶은 기업을 보는 시각이 생깁니다."
+      ],
+      "course_content": {
+        "카카오": [
+          "소개",
+          "기업 개요",
+          "회계/재무 분석",
+          "사업내용 및 사업별 제품분석",
+          "시장/산업/정책동향",
+          "연구개발현황 및 기술",
+          "지식재산권 분석"
+        ]
+      },
+      "requirements": [
+        "사전 지식은 필요 없습니다."
+      ],
+      "description": "1. 안녕하세요? 변리사 나성곤입니다.\n저는 15년 이상 기술사업화 분석 및 기획 업무를 수행하였습니다.\n기업의 사업, 제품, 상품, 기술을 통해 기업을 이해하는 방법을 알려드리고자 합니다.\n2. 기술과 콘텐츠가 제품/상품이 되고, 기업으로 성장하는 과정은 경제를 이해하는 가장 중요한 관점입니다.\n3. 약력\n- 전 삼성SDS(구 삼성네트웍스) 기술기획팀\n- 전 연세대학교 기술경영센터\n- 전 연세대학교 공학대학원 겸임교수\n- 전 과학기술정보통신부 규제개선위원회 위원\n- 현 골든피쉬 주식회사(기술사업화 전문회사) 대표이사\n- 현 나스타특허법률사무소 대표변리사",
+      "target_audience": [
+        "이공계 취업준비생"
+      ]
+    },
+    {
+      "title": "비즈니스 애널리틱스 - 비즈니스 데이터 실무 분석",
+      "url": "https://www.udemy.com/course/maso-ba-excel-onc55-2/",
+      "bio": "비즈니스 데이터 실무 분석",
+      "objectives": [
+        "엑셀을 활용한 쉽고 빠른 데이터 분석",
+        "데이터를 자동으로 수집하고 활용하는 법",
+        "데이터 전처리를 통해 빠르게 일처리하는 법",
+        "업무에 실질적인 성과를 가져다주는 데이터 기반 의사결정"
+      ],
+      "course_content": {
+        "매출과 이익의 경향성 탐색": [
+          "BAA071 – 매출과 이익의 추이 분석",
+          "BAA072 – 맞춤형 날짜를 활용한 경향 분석"
+        ],
+        "비즈니스에 많이 쓰는 데이터 시각화": [
+          "BAA081 – 월별 매출 요약 보고서",
+          "BAA082 – 비즈니스 대시보드"
+        ],
+        "매출 성장 추세 판단": [
+          "BAA091 – 연평균성장률(CAGR)",
+          "BAA092 – 매출과 이익의 Z분석"
+        ],
+        "시계열 분석의 이해": [
+          "BAA101 – 시계열 분석의 이해(1)",
+          "BAA102 – 시계열 분석의 이해(2)"
+        ],
+        "다음 달 판매량 추정하기 - 모형접근법": [
+          "BAA111 – 추세선을 활용한 추정",
+          "BAA112 – 추정량을 얼마나 믿을 수 있을까"
+        ],
+        "다음 달 판매량 추정하기 - 이동평균법": [
+          "BAA121 – 계절성을 반영한 지수평활법 추정",
+          "BAA122 – 확률 기반 실적 평가"
+        ],
+        "99. 최종 테스트": [
+          "비즈니스 애널리틱스 - 비즈니스 데이터 실무 분석 평가 문제"
+        ],
+        "실습 진행 환경 안내": [
+          "dss101 – 엑셀 데이터 분석 도구 설정",
+          "dss104 – 엑셀 2013에서 파워쿼리 사용하기",
+          "dss105 – 엑셀 2016에서 파워쿼리 사용하기",
+          "dss106 – 엑셀 2019 & Office 365에서 파워쿼리 사용하기",
+          "dss107 – E1 엑셀 Power Pivot 사용 환경설정",
+          "dss108 – 엑셀 Power Pivot 사용 가능 버전 안내"
+        ]
+      },
+      "requirements": [
+        "비즈니스 애널리틱스에 관해 기본부터 차근차근 학습하기 때문에 데이터 분석에 관한 사전지식 없이도 수강 가능하십니다.",
+        "실습 위주의 강의로, 강의 화면과 실습 화면을 분리할 수 있는 듀얼 모니터 또는 여분 기기 활용을 권장드립니다.",
+        "Windows OS 기반의 실습 환경을 구성하여 진행되는 강의이므로 참고 부탁드립니다."
+      ],
+      "description": "\"어제보다 성장하겠습니다. 그리고, 어제보다 성장하려는 사람을 돕겠습니다.\"\n\n\n마소캠퍼스의 진심과 소망을 담은 Actionable Content로,\n2013년부터 온오프라인으로 함께해 온 누적 강의 1억시간!\n이 소중한 경험과 시간은 언제나 마소캠퍼스와 수강생 모두의 성장의 원천입니다.\n\n\n-\n\n\n우리는 디지털 전환(Digital Transformation) 시대에 살고 있습니다.\n현 시대는 직감이 아닌, 데이터 기반의 의사결정 역량을 요구합니다.\n\n\n코로나 사태 이후, 비대면 트렌드가 정착되고 데이터가 기하급수적으로 증가하고 있는 상황에서, 방대한 데이터를 신속하게 분석하고 고도화된 의사결정을 내릴 수 있는 인재를 확보하는 것이 기업의 주요 과제가 되고 있습니다.\n\n\n비즈니스 애널리틱스 활용을 통한 디지털 역량의 확보는 곧 개인의 경쟁력이 되고, 디지털 인재의 확보는 기업의 경쟁력이 됩니다.\n\n\n비즈니스 애널리틱스는 우리에게 다음과 같은 이점을 줍니다.\n\n\n1. 조직의 문제를 해결하는 실질적 데이터 활용법을 제시합니다.\n2. 이론 지식에 의존하는 자세에서 벗어나 실습을 통해 스스로 성과를 낼 수 있는 능력을 습득합니다.\n3. 실무에서 데이터 셋을 만났을 때, 효율적·효과적 의사결정을 내도록 이끕니다.\n4. 성공적인 의사결정을 토대로, 새로운 전략을 수립하여 기업이 앞으로 나아갈 발판을 마련합니다.\n\n\n본 강좌를 통해 디지털 전환 시대의 필수 역량, 데이터 기반 의사결정 능력을 늦기 전에 확보하신 후, 디지털 인재로서의 성장을 이루어보세요.\n\n\nPOINT 1. 시뮬레이션 실습을 통한 A to Z 진짜 의사결정 경험하기\n본 강의는 ‘마소 전자마트’라는 가상의 기업을 가정합니다.\n그리고 그 기업의 성과 개선을 위해 비즈니스 데이터를 모아 다양한 특징을 살피고 분석하며, 도움이 되는 의사결정을 합니다.\n이와 같이 가상 기업 데이터를 통해 다양한 상황을 접해보고, 현업에 활용할 지식을 충분히 갖출 수 있습니다.\n더군다나, 조직의 문제를 해결하기 위한 전반적인 데이터 활용법을 다룸으로써 A to Z 데이터 활용법 마스터가 가능합니다.\n\n\nPOINT 2. 전 과정 실습으로 업무 연계성 강화하기\n이론에만 그치는 강의는 NO! 중요한 건 실제 비즈니스 환경에서의 활용입니다.\n본 강의는 데이터 전처리와 유형별 분류, 테이블 이용과 자동 취합, 환율 변경 등 다양한 기능을 이용해 데이터를 분석하는 방법을 배우고, 실습을 통해 업무 활용도를 강화합니다.\n실습 자료의 구조적 문제를 파악하고 비즈니스 데이터의 경향성을 파악하는 등 실습을 통해 다양한 Business Question을 해결하도록 이끕니다.\n\n\n마소캠퍼스의 <비즈니스 애널리틱스 - 비즈니스 데이터 분석 실무> 강의를 듣고 나면, 여러분께서는 다음과 같은 역량을 확보하실 수 있습니다.\n\n\n1. 실무에서 요구하는 엑셀 기반의 데이터 분석 능력\n2. 시간의 흐름에 따른 데이터 요약법\n3. 과거의 데이터 요약을 통한 미래의 데이터 예측력\n4. 확률에 기반한 성과 판단 능력\n\n\n비즈니스 애널리틱스 과정에 있어 필수 역량들을 모두 키워가실 수 있습니다.\n누구보다 빠르고, 탄탄하게 비즈니스 애널리틱스를 완전 정복해보세요!\n\n\n*본 과정은 MSIQ 데이터사이언스마스터/디지털마케팅마스터 자격을 보유한 마소캠퍼스 콘텐츠랩의 자체 개발 평가 문항이 포함되어 있습니다.[민간자격 등록번호 : 2020-005943(데이터사이언스)/2020-005944(디지털마케팅)]\n\n\n\n\n-\n\n\n[ 강 사 소 개 ]\n\n\n최 정 아\n現 마소캠퍼스 콘텐츠랩 이사\n연세대학교 경영학 석사\nYSCEC의 웹마스터로서 연세-게이오(日)-릿쿄(日)-푸단(中) 대학의 YKLP 사업에 초기부터 합류해 성공적으로 론칭시킨 국제 원격교육 전문가입니다. 이후 플레이포럼 편집장으로 자리를 옮겨 MAU 238만 명의 커뮤니티를 7년간 운영하면서 최대 900만 뷰를 달성한 디지털 콘텐츠를 제작했습니다. 언어학, 정보학, 경영학 학위를 소지한 다재다능한 디지털마케팅 전문가로서 데이터를 활용해 디지털 플랫폼에서 최고의 퍼포먼스를 이뤄냈습니다. 효과적인 데이터 마케팅 방법을 다룬 도서를 다수 출간하여 모두 경제경영 분야 베스트셀러에 오른 검증된 지식을 공유하고 있습니다.\n-",
+      "target_audience": [
+        "데이터에 기반한 의사결정을 통해 비즈니스 성공률을 높이고 싶은 분들",
+        "기업이 원하는 Digital Transformation 시대의 인재로 거듭나고 싶은 분들",
+        "데이터 분석이 어렵게 느껴지는 비전공자 혹은 실무자 분들",
+        "단기간에 쉽고 빠르게 데이터 분석을 학습하여 실무에 바로 적용하고 싶은 분들",
+        "\"창업/입사/직무전환/리스킬/탤런트 트랜스포메이션\"을 꿈꾸는 분들"
+      ]
+    },
+    {
+      "title": "AI for Transformers",
+      "url": "https://www.udemy.com/course/ai-for-transformers/",
+      "bio": "Explore AI fundamentals, machine learning, generative AI, and real-world applications across robotics, healthcare, and s",
+      "objectives": [
+        "Understand the foundations of Artificial Intelligence, including data, algorithms, and specialized hardware, and how they interact within modern AI ecosystems.",
+        "Analyze real-world applications of AI across industries such as healthcare, finance, manufacturing, and logistics.",
+        "Evaluate ethical, societal, and regulatory challenges in AI adoption, including fairness, bias, transparency, and the importance of responsible AI development.",
+        "Acquire emerging AI technologies knowledge such as generative AI, conversational AI, and human-AI interfaces (AR, VR, BCI) ."
+      ],
+      "course_content": {
+        "The Age of AI": [
+          "The Age of AI",
+          "Lecture 1: QUIZ"
+        ],
+        "Lectures": [
+          "Powering the Future with Data, Algorithms, and Smart Machines",
+          "Lecture 2: Quiz"
+        ],
+        "AI's Societal Impact": [
+          "AI's Societal Impact",
+          "Lecture 3: Quiz"
+        ],
+        "Explore how Cloud AI, Natural Language Processing, and Generative AI are shaping": [
+          "Cloud AI, Natural Language Processing, and Generative AI Are Shaping Industries",
+          "Lecture 4: QUIZ"
+        ],
+        "Conversational AI, Human Interfaces & Trust": [
+          "Conversational AI, Human Interfaces & Trust",
+          "Lecture 5: QUIZ"
+        ],
+        "Real-Time Insights, Pattern Recognition, and Advanced AI Analytics": [
+          "Real-Time Insights, Pattern Recognition, and Advanced AI Analytics",
+          "Lecture 6: QUIZ"
+        ],
+        "AI-Driven Robots, Drones & Autonomous Vehicles": [
+          "AI-Driven Robots, Drones & Autonomous Vehicles",
+          "Lecture 7: QUIZ"
+        ],
+        "AI in Space, Workforce, and Future Technologies": [
+          "AI in Space, Workforce, and Future Technologies",
+          "Lecture 8: QUIZ"
+        ],
+        "AI’s Societal Impact, Failures & Future-Safe Careers": [
+          "AI’s Societal Impact, Failures & Future-Safe Careers",
+          "Lecture 9: QUIZ"
+        ],
+        "AI Predictions, Careers, and Preparation": [
+          "AI Predictions, Careers, and Preparation",
+          "Lecture 10: QUIZ"
+        ]
+      },
+      "requirements": [
+        "No prior programming or AI knowledge is required. This course is designed for beginners with a curious mind and interest in Artificial Intelligence. All concepts will be explained from the ground up using real-world examples. A stable internet connection and a modern web browser are recommended for accessing course materials and tools."
+      ],
+      "description": "Welcome to AI for Transformers, a future-ready course designed to equip learners with a solid understanding of Artificial Intelligence and its transformational impact on industries and society. Whether you're a student, professional, or tech enthusiast, this course provides a comprehensive, accessible introduction to the core concepts and real-world use cases of AI.\nWe begin by exploring the evolution of AI, from its origins to recent breakthroughs in deep learning, natural language processing, and generative AI. You’ll gain insights into how data, algorithms, and specialized hardware—like GPUs and edge devices—form the backbone of modern AI systems.\nThe course covers ethical considerations, bias mitigation, and the role of regulations in building trustworthy AI. You'll also examine the ways AI enhances human collaboration, augments creativity, and influences daily life—from smart homes to autonomous vehicles and AI-powered healthcare.\nThrough engaging content, case studies, and interactive assignments, you’ll explore conversational AI, cloud AI, pattern recognition, robotics, drones, and future technologies like AI in space exploration and biotech.\nBy the end of this course, you’ll not only understand the “how” and “why” of AI systems but also how to prepare for AI-driven careers and contribute responsibly to the AI-powered future. Take the next step in your career and attend this course to start building your AI career.",
+      "target_audience": [
+        "This course is ideal for beginners, students, educators, and curious professionals who want to understand the fundamentals of Artificial Intelligence and its real-world applications. Whether you're from a non-technical background or simply interested in how AI is transforming industries, this course will provide you with a clear, engaging, and future-ready introduction to AI concepts and innovations."
+      ]
+    },
+    {
+      "title": "如何用数据和方差判断评估策略的优劣",
+      "url": "https://www.udemy.com/course/gamjjttl/",
+      "bio": "教你⽤数据检验效果，通过⽅差分析评估策略的有效性",
+      "objectives": [
+        "理解方差分析的原理，能够掌握方差分析的使用流程",
+        "掌握方差分析的分析过程，能够正确解读分析结果",
+        "掌握方差分析的常见场景，能够在产品/运营工作中落地应用",
+        "可以从数据角度评估决策的有效性"
+      ],
+      "course_content": {
+        "课程导读": [
+          "课程简介",
+          "讲师介绍",
+          "课程大纲",
+          "引入讲解"
+        ],
+        "课程内容": [
+          "1.⽅差分析可以解决哪些典型问题？",
+          "2.⽩话⽅差分析的来⻰去脉",
+          "3.⽅差分析的定义和应⽤场景",
+          "4.⽅差分析的使⽤流程",
+          "5.典型案例拆解"
+        ],
+        "课程回顾": [
+          "课程总结",
+          "课后寄语"
+        ]
+      },
+      "requirements": [
+        "具备基础的统计学知识"
+      ],
+      "description": "方差分析是统计学中较为常见的研究方法，该方法不仅能够构建统计学模型同时在现实生活中拥有十分广泛的应用领域。\n一般而言，当企业有了全新的业务需求、重大的技术变更，又或者从一个新的数据来源获取了全新的数据，并期望将它应用在一个具体业务中的时候，人们会遇到各种需要评估运营效果、分析策略有效性的场景，\n因此对于互联网产品和运营类员工而言，了解和熟练运用方差分析是必备的技能。\n为此，三节课邀请到前阿⾥巴巴数据专家，拥有多年数据分析和产品运营经验的Rex为你详细讲解数据检验和方差分析，使你能够从数据角度评估决策的有效性。",
+      "target_audience": [
+        "适合于互联网产品/运营类学员"
+      ]
+    },
+    {
+      "title": "LGPD - Lei Geral de Proteção de Dados - Comentada",
+      "url": "https://www.udemy.com/course/lgpdcomentada/",
+      "bio": "Um uurso direto e rápido",
+      "objectives": [
+        "Lei Geral de Proteção de Dados Comentada Artigo por Artigo",
+        "Curso direcionado para estudantes que desejam interpretar a lei",
+        "Curso direcionado para concurseiros, pois nas provas a LGPD está sendo muito cobrada",
+        "Comentários artigo por artigo"
+      ],
+      "course_content": {
+        "Capítulo I - DISPOSIÇÕES PRELIMINARES": [
+          "Bloco 1",
+          "Bloco 2"
+        ],
+        "Capítulo II - DO TRATAMENTO DE DADOS PESSOAIS": [
+          "Bloco 1",
+          "Bloco 2",
+          "Bloco 3"
+        ],
+        "Capítulo III - DOS DIREITOS DO TITULAR": [
+          "Bloco 1"
+        ],
+        "Capítulo IV - DO TRATAMENTO DE DADOS PESSOAIS PELO PODER PÚBLICO": [
+          "Bloco 1",
+          "Bloco 2"
+        ],
+        "Capítulo V - DA TRANSFERÊNCIA INTERNACIONAL DE DADOS": [
+          "Bloco 1"
+        ],
+        "Capítulo VI - DOS AGENTES DE TRATAMENTO DE DADOS PESSOAIS": [
+          "Bloco 1",
+          "Bloco 2",
+          "Bloco 3"
+        ],
+        "Capítulo VII - DA SEGURANÇA E DAS BOAS PRÁTICAS": [
+          "Bloco 1",
+          "Bloco 2",
+          "Bloco 3"
+        ],
+        "Capítulo VIII - DA FISCALIZAÇÃO": [
+          "Bloco 1"
+        ],
+        "Capítulo IX - DA ANPD E DO CNPD": [
+          "Bloco 1",
+          "Bloco 2"
+        ],
+        "Capítulo X - DISPOSIÇÕES FINAIS E TRANSITÓRIAS": [
+          "Bloco 1"
+        ]
+      },
+      "requirements": [
+        "Vontade!!! :)"
+      ],
+      "description": "É cada vez mais comum que nas profissões e nas academias seja exigido o conhecimento em Proteção de Dados Pessoais.\nNa academia o Direito Digital / Proteção de Dados já é determinado pela Resolução do CNE/MEC 5/2018;\nPara O Concurso da Magistratura, o Conselho Nacional de Justiça em sua Resolução 75 inclui o Direito Digital / Proteção de Dados como matéria obrigatória para o concurso;\nEm vários concursos e exames, por consequencia, poderão exigir o conhecimento em Proteção de Dados, no Brasil a LGPD é a Lei Geral de Proteção de Dados Pessoais, matéria de Direito Digital.\nAssim essa disciplina poderá ser o seu diferencial na aprovação acadêmica e profissional.\n\n\nÉ cada vez mais comum que nas profissões e nas academias seja exigido o conhecimento em Proteção de Dados Pessoais.\nNa academia o Direito Digital / Proteção de Dados já é determinado pela Resolução do CNE/MEC 5/2018;\nPara O Concurso da Magistratura, o Conselho Nacional de Justiça em sua Resolução 75 inclui o Direito Digital / Proteção de Dados como matéria obrigatória para o concurso;\nEm vários concursos e exames, por consequencia, poderão exigir o conhecimento em Proteção de Dados, no Brasil a LGPD é a Lei Geral de Proteção de Dados Pessoais, matéria de Direito Digital.\nAssim essa disciplina poderá ser o seu diferencial na aprovação acadêmica e profissional.\n\n\nÉ cada vez mais comum que nas profissões e nas academias seja exigido o conhecimento em Proteção de Dados Pessoais.\nNa academia o Direito Digital / Proteção de Dados já é determinado pela Resolução do CNE/MEC 5/2018;\nPara O Concurso da Magistratura, o Conselho Nacional de Justiça em sua Resolução 75 inclui o Direito Digital / Proteção de Dados como matéria obrigatória para o concurso;\nEm vários concursos e exames, por consequencia, poderão exigir o conhecimento em Proteção de Dados, no Brasil a LGPD é a Lei Geral de Proteção de Dados Pessoais, matéria de Direito Digital.\nAssim essa disciplina poderá ser o seu diferencial na aprovação acadêmica e profissional.",
+      "target_audience": [
+        "Todos os acadêmicos, profissionais e concurseiros que desejem conhecer a Lei 13.709/2018 - LGPD"
+      ]
+    },
+    {
+      "title": "Perplexity Desde Cero: La IA que Supera a Google y ChatGPT",
+      "url": "https://www.udemy.com/course/perplexity-desde-cero/",
+      "bio": "Usa Perplexity paso a paso y descubre cómo esta IA supera a Google y ChatGPT para estudiar, investigar y ser Productivo",
+      "objectives": [
+        "Entender qué es Perplexity AI y cómo revoluciona la búsqueda inteligente.",
+        "Diferenciar Perplexity de Google y ChatGPT para saber cuándo usar cada uno.",
+        "Configurar tu cuenta y personalizar Perplexity según tus necesidades.",
+        "Manejar la interfaz de búsqueda y navegación paso a paso.",
+        "Formular prompts efectivos para obtener respuestas útiles y claras.",
+        "Realizar búsquedas conversacionales y guiar la conversación iterativamente.",
+        "Explorar resultados: interpretar enlaces, resúmenes y fuentes confiables.",
+        "Identificar errores comunes al usar Perplexity y cómo evitarlos.",
+        "Usar Perplexity en español y conocer sus límites y posibilidades reales.",
+        "Aprovechar Perplexity Pro y sus funciones avanzadas para investigar mejor.",
+        "Verificar fuentes y agregar palabras clave para afinar la búsqueda.",
+        "Comparar información entre expertos y publicaciones con visión crítica.",
+        "Reconocer y evitar sesgos en los resultados de la IA.",
+        "Aplicar follow-ups para investigar con mayor profundidad y precisión.",
+        "Hacer investigaciones rápidas, confiables y con criterios académicos.",
+        "Contrastar visiones para desarrollar pensamiento crítico con IA.",
+        "Adjuntar archivos y trabajar con documentos directamente en Perplexity.",
+        "Crear y organizar tu biblioteca en Perplexity para guardar información.",
+        "Usar el modo incógnito para proteger tu privacidad en búsquedas.",
+        "Elaborar ensayos académicos apoyados en fuentes verificadas.",
+        "Redactar tesis, papers y artículos con apoyo de Perplexity.",
+        "Generar bibliografías y listados de fuentes de forma automatizada.",
+        "Analizar textos críticos y fortalecer argumentos con evidencia.",
+        "Crear esquemas y mapas mentales con ayuda de la IA.",
+        "Buscar datos estadísticos y actualizados en segundos.",
+        "Preparar clases y materiales educativos en minutos con Perplexity.",
+        "Simular debates y diálogos argumentativos con IA para practicar.",
+        "Investigar casos de estudio y presentarlos de forma profesional.",
+        "Aplicar Perplexity en investigación de mercado y tendencias.",
+        "Analizar la competencia con IA sin perder tiempo en exceso de datos.",
+        "Redactar textos profesionales y reportes con claridad y rapidez.",
+        "Hacer análisis financiero y generar proyecciones fundamentadas.",
+        "Optimizar procesos de trabajo y productividad con IA.",
+        "Crear contenido para blogs y redes sociales usando Perplexity.",
+        "Redactar textos SEO y optimizarlos con IA para posicionamiento web.",
+        "Analizar reseñas y feedback de clientes con IA en segundos.",
+        "Detectar oportunidades de negocio con análisis inteligente.",
+        "Construir buyer personas basadas en datos reales y actualizados.",
+        "Automatizar resúmenes complejos con prompts inteligentes.",
+        "Diseñar workflows de investigación para proyectos profesionales.",
+        "Integrar Perplexity con otras herramientas y APIs útiles.",
+        "Analizar sentimiento y contexto en textos largos.",
+        "Validar hipótesis e ideas con Perplexity y fuentes verificadas.",
+        "Crear informes ejecutivos y presentaciones con IA.",
+        "Aprender buenas prácticas de ética y uso responsable de IA.",
+        "Conocer limitantes del plan gratuito y cómo aprovecharlo al máximo.",
+        "Acceder a recursos extra: glosario, bibliografía y webs recomendadas.",
+        "Descubrir salidas profesionales para expertos en Perplexity."
+      ],
+      "course_content": {
+        "Introducción a Perplexity": [
+          "Perplexity AI explicado: el buscador que piensa contigo",
+          "Perplexity vs Google y ChatGPT",
+          "Plataformas para Usar Perplexity"
+        ],
+        "Entendiendo la UI y las Configuraciones de Perplexity": [
+          "Interfaz de Búsqueda de Perplexity",
+          "Ajustes de Perplexity: Sección \"Cuenta\"",
+          "Ajustes de Perplexity: Sección \"Preferencias\"",
+          "Ajustes de Perplexity: Sección \"Personalización\"",
+          "Ajustes de Perplexity: Sección \"Tareas\"",
+          "Ajustes de Perplexity: Secciones \"Notificaciones, Conectores y API\"",
+          "Ajustes de Perplexity: Secciones \"Idioma y Recursos Adicionales\""
+        ],
+        "Los secretos para usar efectivamente a Perplexity IA": [
+          "Cómo hacer preguntas que generan respuestas útiles en Perplexity AI",
+          "Perplexity como interlocutor: del dato al diálogo"
+        ],
+        "Funciones Esenciales": [
+          "Primer Búsqueda: Cómo Leer Respuestas y Fuentes",
+          "Verificación Específica de las Fuentes y Agregar Palabras y Frases a Seguimiento",
+          "Errores Comunes al Empezar en Perplexity",
+          "Indagación Iterativa: Cómo Guiar la Conversación",
+          "Enfocar el Contexto de la Búsqueda",
+          "Adjuntar Archivos y Trabajar con Documentos",
+          "Biblioteca de Perplexity",
+          "Modo Incógnito en Perplexity"
+        ],
+        "Perplexity como herramienta de investigación": [
+          "Investigar con velocidad y criterio usando Perplexity AI",
+          "Cómo usar Perplexity AI para acceder a información confiable desde el primer",
+          "Contrastar visiones para construir conocimiento crítico",
+          "Perplexity AI como sintetizador inteligente de información"
+        ],
+        "Presentación de los Usos de Perplexity": [
+          "Presentación de las Ramas"
+        ],
+        "Estudiantes / Académico": [
+          "Cómo Facilitar la Lectura de Documentos, Libros y Textos Académicos",
+          "Diferencias Entre los Tipos de Fuentes y Posibles Sesgos",
+          "Hacer Follow-up a las Respuestas de Perplexity",
+          "Generar un Listado con las Fuentes",
+          "Preparar Ensayos con Perplexity",
+          "Preparar Tesis con Perplexity",
+          "Preparar Presentaciones con Perplexity"
+        ],
+        "Profesionales / Trabajo": [
+          "Presentación del Uso de Perplexity en un Contexto Laboral",
+          "Investigación de Mercado con Perplexity",
+          "Análisis de la Competencia",
+          "Redacción Profesional con Perplexity",
+          "Análisis Financiero y Proyecciones",
+          "Optimización de Procesos y Productividad"
+        ],
+        "Uso cotidiano": [
+          "Organizar un Viaje con Itinerario",
+          "Aprender Hobbies y Actividades de Ocio",
+          "Perplexity como Asistente para Tomar Decisiones",
+          "Buscar y Comparar Reseñas de Productos"
+        ],
+        "Para productos contenido y marketing el uso de Perplexity": [
+          "Cómo usar la IA para generar contenido atractivo, confiable y adaptado a tu audi",
+          "Cómo aprovechar Perplexity AI para escribir textos que informen y se posicionen",
+          "Cómo usar la IA para detectar oportunidades y anticipar cambios en tu sector",
+          "Cómo usar Perplexity AI para analizar rivales y detectar oportunidades estratégi"
+        ]
+      },
+      "requirements": [
+        "No se requiere ningún requisito previo"
+      ],
+      "description": "Perplexity Desde Cero: La IA que Supera a Google y ChatGPT es un curso práctico diseñado para que dejes de perder horas entre pestañas y resultados irrelevantes. Aquí aprenderás a transformar preguntas en respuestas accionables con fuentes citadas, optimizando estudio, investigación y trabajo en menos tiempo.\nEmpezamos con la configuración ideal: Cuenta, Preferencias, Personalización, Tareas, Notificaciones, Conectores, API, Idioma y Recursos. Luego recorremos la interfaz de búsqueda, cómo leer las respuestas, abrir y evaluar fuentes, y qué errores evitar al comenzar. Verás cómo guiar la conversación con indagación iterativa, enfocar el contexto, adjuntar archivos (papers, PDFs, informes) y gestionar tu Biblioteca; también cuándo usar modo incógnito.\nEl corazón del curso son los casos de uso. En el área académica, aprenderás a: facilitar la lectura de libros y textos, distinguir tipos de fuentes y sesgos, hacer follow-up a respuestas, generar listados de referencias, y preparar ensayos, tesis y presentaciones con rigor. En el ámbito profesional, veremos investigación de mercado, análisis de la competencia, redacción profesional, análisis financiero y proyecciones, y optimización de procesos. Para la vida diaria: planificar viajes con itinerario, aprender hobbies, comparar reseñas y tomar decisiones con claridad.\n¿Por qué Perplexity supera a Google y ChatGPT en estas tareas?\nFrente al “ruido” de Google, Perplexity sintetiza y prioriza en una sola respuesta, con referencias integradas, evitando saltar entre decenas de enlaces.\nA diferencia de un chat genérico, Perplexity está orientado a búsquedas con evidencia: puedes pedirle que limite por sitio, fecha o tipo de documento, y que compare fuentes y te entregue el razonamiento y los enlaces en el mismo flujo.\nEl resultado: menos tiempo buscando, más tiempo produciendo (ensayos, informes, presentaciones y decisiones fundamentadas).\nIncluye plantillas de prompts para búsquedas por sitio, rango temporal y tipo de documento; checklists de verificación de fuentes; y ejercicios guiados para pasar de la pregunta al entregable final. Cerramos con ética y buenas prácticas para usar IA con criterio.\nSi quieres estudiar, investigar y trabajar mejor en menos tiempo, este curso te da el método, las herramientas y los ejemplos para lograrlo desde la primera semana.",
+      "target_audience": [
+        "Cualquiera que busca más variedad en las IAs que usa en el día a día",
+        "Cualquiera que busca un uso más acádemico para las IAs",
+        "Cualquiera que necesite que las respuestas de la IA estén respaldadas por fuentes verificables",
+        "Cualquiera que necesite una IA que le pueda ayudar a reducir tiempos y mejorar la eficiencia en sus tareas"
+      ]
+    },
+    {
+      "title": "مبادئ تحليل البيانات وأشهر أدواته",
+      "url": "https://www.udemy.com/course/data_analysis/",
+      "bio": "هذا الكورس مصمم للراغبين في دخول عالم تحليل البيانات بشكل عملي بهدف التميز الوظيفي , و أيضاً لطلاب دراسات الأعمال",
+      "objectives": [
+        "التمييز بين تحليل البينات وتحليل الأعمال والمفاهيم المرتبطة بها",
+        "اكتساب مهارات التحليل وكيفية تطويرها وأنواع التفكير",
+        "التعرف على أنواع البينات أنواع تحليلها",
+        "استخدام_SQL_و أدواته و تصور البيانات باستخدام_Tableau",
+        "دراسة حالة مع أمثلة تطبيقية"
+      ],
+      "course_content": {
+        "المحور الأول - مدخل إلى تحليل البيانات": [
+          "ماهي البيانات وماهي تحليل البيانات",
+          "ما هو تحليل البيانات؟",
+          "النظام البيئي للبيانات Data ecosystem",
+          "النظام البيئي للبيانات (Data ecosystem)",
+          "توضيح اهم مفاهيم علم تحليل البيانات",
+          "ما الفرق بين محلل البيانات وعالم البيانات ؟",
+          "Analytical skills المهارات التحليلية",
+          "من مهارات تحليل البيانات"
+        ],
+        "المحور الثاني - البيانات المهيكلة وغير المهيكلة + البيانات الضخمة": [
+          "Hadoop أدوات البيانات الضخمة",
+          "Hadoop ما هو تعريف",
+          "البيانات المهيكلة - غير المهيكلة - شبه المهيكلة",
+          "يعتبر فيسبوك ويوتيوب مثالاً على البيانات غير المهيكلة",
+          "البيانات الضخمة-الخصائص-الأدوات- احصائيات",
+          ":أهم ما يميز البيانات الضخمة الخصائص الثلاثة التالية"
+        ],
+        "المحور الثالث - هرم DIKW مع مثال تطبيقي": [
+          "شرح هرم نموذج البيانات DIKW",
+          "ماذا تعني DIKW",
+          "شرح عملي لهرم DIKW مع الأمثلة",
+          "ما هو تصنيف العبارة (إشارة المرور التي أقود باتجاهها تحولت إلى اللون الأحمر)؟"
+        ],
+        "المحور الرابع - الأنواع الاربعة لتحليل البيانات": [
+          "الأنواع الأربعة لتحليل البيانات",
+          "ماهي أنواع تحليلات البيانات ؟",
+          "شرح تفصيلي مع الأمثلة لأنواع تحليل البيانات الأربعة",
+          "تجيب التحليلات التنبؤية عن السؤال التالي"
+        ],
+        "المحور الخامس - SQL في تحليل البيانات": [
+          "مقدمة لـSQL في تحليل البيانات",
+          "من أبرز أدوات تحليل البيانات الرئيسية",
+          "شرح الاستعلام في SQL",
+          "SELECT–FROM–WHERE هيكل الاستعلام للحصول على معلومات من قاعدة البيانات هو",
+          "شرح لأداة BigQuery",
+          "BigQuery خدمة ويب من غوغل تُستخدم لمعالجة البيانات الكبيرة أو تحليلها من خلال",
+          "تنقية وتنظيف البيانات في SQL",
+          "من طرق تنقية وتنظيف البيانات Data Cleaning في SQL"
+        ],
+        "Data visualization by Tableau": [
+          "تصور البيانات_ Data visualization باستخدام Tableau",
+          "العناصر الأساسية لتصور البيانات الناجح حسب مخطط Venn",
+          "تطبيق عملي في أداة Tableau public_الجزء الأول",
+          "تطبيق عملي في أداة Tableau public_الجزء الثاني",
+          "تصفية البيانات لتشمل عاماً محدداً في برنامج تابلو بسحب الجدول year إلى Filters",
+          "لإنشاء تصور خاص بك باستخدام جدول محمّل على Tableau Puplic تبدأ بـ"
+        ],
+        "البرمجة بلغة R & R_Studio": [
+          "01. مقدمة للبرمجة بلغة R",
+          "اختر الإجابة الصحيحة",
+          "02. شرح لأهم أساسيات البرمجة بلغة R",
+          "المفاهيم الأساسية لـ لغة البرمجة R تتضمن 6 عناصر منها",
+          "03. مقدمة للبرمجة بلغة R_Studio",
+          "تعريف RStudio هو",
+          "04. شرح للوظائف الهامة في R_Studio",
+          "من أشهر الوظائف functions لتنظيم البيانات في لغة R هي"
+        ],
+        "منصة Alteryx": [
+          "مقدمة عن منصة Alteryx",
+          "تعريف Alteryx"
+        ],
+        "شرح دراسة الحالة والهدف منها وكيفية انشائها": [
+          "شرح دراسة الحالة والهدف منها وكيفية انشائها",
+          "Portfolio أو حافظة الأعمال هي"
+        ]
+      },
+      "requirements": [
+        "لا يتوجب معرفة اي لغة برمجة مسبقاً, سوف نشرح الأساسيات المطلوبة لأدوات تحليل البيانات"
+      ],
+      "description": "هل تعلم مدى أهمية البيانات والفائدة من تحليلها وترغب في الاطلاع على علم البيانات الذي أصبح مطلوبا في العديد من الشركات بصورة علمية و عملية ... هذا الكورس يقدم لكم مزيجا نظريا وعمليا من خلال شرح المفاهيم الأساسية لتحليل البيانات إضافة إلى التدريب على أشهر الأدوات المستخدمة مع أمثلة عملية عليها\nسنبدأ ببعض التعاريف الهامة كتعريف البيانات و تحليل البيانات و النظام البيئي للبيانات ومعرفة الفرق بين عالم و محلل و مهندس البيانات إضافة إلى محللي الأعمال. ثم سننتقل إلى المهارات التحليلية لمعرفة الأسئلة والطريقة التي يفكر بها محللو البيانات و كيفية تطوير مهارات تحليل البيانات ثم أنواع التفكير التحليلي والناقد والإبداعي\nالتعرف إلى البيانات الضخمة وخصائصها ومكوناها وأدواتها ثم استكشاف الأنواع الأربعة الرئيسية لتحليل البيانات\nالمحور التالي سيكون عن لغة الاستعلام المهيكلة وأبرز أدواتها و كيفية تنقية و تنظيف البيانات عن طريق المهام المستخدمة لهذا الغرض ثم بعد ذلك الانتقال إلى تصور البيانات و معرفة العناصر الأساسية لتصور البيانات الناجح مع أمثلة بيانات من جميع أنحاء الويب\nننتقل في المحور الذي يليه للتعرف على فوائد استخدام لغات البرمجة مع تحليل البيانات وما هي أفضل لغة لتحليل البيانات و كتابة كود برمجي ضمن بيئة تطوير متكاملة\nوفي النهاية الجزء الأخير من البرنامج الذي سيجمع كل ما تعلمته معا .. ستأخذ معرفتك الجديدة وتضعها موضع التنفيذ و تتعلم كيفية إنشاء دراسة حالة مع وجود أمثلة على دراسة حالة خاصة بتحليل البيانات و بعض المصادر الخاصة للحصول على مجموعات بيانات عامة مجانية لتتمكن من إضافتها إلى الملف التعريفي الخاص بك و بذلك يكون لديك بعض الأمثلة الرائعة لدراسة حالة و أفضل المحافظ الخاصة بتحليل البيانات التي ستظهر مهاراتك لأصحاب العمل كما نأمل أن تلهمك عندما تبدأ مشروعك الخاص لتحظى بمستقبل مهني مميز\nبانتظارك لمتابعة الكورس كاملا لتضيف شيئا رائعا لمساركم البرمجي والتقني والمعلوماتي أيضا",
+      "target_audience": [
+        "هذا الكورس مصمم للراغبين في دخول عالم تحليل البيانات بشكل عملي بهدف التميز الوظيفي , و لطلاب دراسات الأعمالل"
+      ]
+    },
+    {
+      "title": "Python dalam Bahasa Indonesia: Dari Pemula hingga Profesiona",
+      "url": "https://www.udemy.com/course/python-dalam-bahasa-indonesia-dari-pemula-hingga-profesiona/",
+      "bio": "Python, API, Web, Basis Data, Analisis Data",
+      "objectives": [
+        "Konsumsi data melalui API",
+        "Analisis data",
+        "Pemrograman Berorientasi Objek",
+        "Python tingkat lanjut",
+        "Web Scraping",
+        "Basis data: MongoDB, SQLite"
+      ],
+      "course_content": {
+        "Python dari 0 sampai 100": [
+          "Variabel",
+          "Tipe Data",
+          "Numerik",
+          "Operasi",
+          "List",
+          "Tuple",
+          "Set",
+          "Dictionary",
+          "Perulangan 1",
+          "Perulangan 2",
+          "Fungsi",
+          "Lambda",
+          "Modul",
+          "Direktori",
+          "File",
+          "Penanganan Eksepsi",
+          "Kelas",
+          "Pewarisan",
+          "Polimorfisme",
+          "Enkapsulasi",
+          "Abstraksi"
+        ],
+        "Analisis Data": [
+          "Pandas",
+          "Numpy",
+          "Matplotlib",
+          "Seaborn"
+        ],
+        "Basis Data": [
+          "Sqlite 1",
+          "Sqlite 2",
+          "MongoDB 1",
+          "MongoDB 2"
+        ],
+        "Web, API, dan Web Scraping": [
+          "Web Flask 1",
+          "Web Flask 2",
+          "Klasifikasi Web Flask 1",
+          "Klasifikasi Web Flask 2",
+          "Formulir Web Flask",
+          "FastAPI 1",
+          "FastAPI 2",
+          "Streamlit 1",
+          "Streamlit 2",
+          "Konsumsi API",
+          "Web Scraping 1",
+          "Web Scraping 2"
+        ]
+      },
+      "requirements": [
+        "Tanpa persyaratan"
+      ],
+      "description": "Kuasai Python dari dasar hingga tingkat ahli.\nKamu akan mempelajari segalanya mulai dari konsep paling dasar—seperti variabel, struktur kontrol, dan fungsi—hingga topik lanjutan seperti pemrograman berorientasi objek, penanganan eksepsi, dan otomatisasi.\nKenali pustaka penting yang memungkinkan kamu menerapkan Python di berbagai bidang, seperti analisis data, pengembangan web, dan basis data.\nPelajari cara mengolah dan memvisualisasikan data seperti seorang profesional dengan Pandas, NumPy, Matplotlib, dan Seaborn.\nPandas dan NumPy akan membantumu memanipulasi data secara efisien, sehingga kamu dapat membersihkan, mentransformasi, dan menganalisis informasi dalam jumlah besar.\nDengan Matplotlib dan Seaborn, kamu bisa membuat grafik berkualitas tinggi untuk memvisualisasikan data secara jelas dan efektif, mendukung pengambilan keputusan dan analisis statistik.\nKembangkan API modern dan efisien dengan Flask dan FastAPI\nFlask adalah framework ringan untuk membangun aplikasi web dan API—ideal untuk proyek yang cepat dan skalabel.\nFastAPI adalah alternatif modern yang memungkinkan kamu membangun API berkinerja tinggi dengan validasi data otomatis dan dokumentasi terintegrasi.\nJelajahi basis data SQL dan NoSQL dengan SQLite dan MongoDB\nKamu akan belajar bekerja dengan basis data SQL (relasional) menggunakan SQLite, yang memungkinkan penyimpanan dan pengelolaan data terstruktur dengan mudah.\nKamu juga akan bekerja dengan MongoDB, basis data NoSQL yang ideal untuk menangani data dalam format JSON yang fleksibel dan untuk penskalaan aplikasi tanpa skema yang kaku.",
+      "target_audience": [
+        "Untuk semua tingkat"
+      ]
+    },
+    {
+      "title": "Curso Data Visualization Python, Matplotlib & Seaborn 2024",
+      "url": "https://www.udemy.com/course/data-visualization-python-matplotlib-seaborn-2024/",
+      "bio": "Domina la visualización de datos con Python: aprende Matplotlib y Seaborn para gráficos avanzados y análisis visual.",
+      "objectives": [
+        "Los estudiantes aprenderán a utilizar las poderosas librerías Matplotlib y Seaborn para crear gráficos impresionantes y comunicar datos de manera efectiva.",
+        "Conocerán cómo utilizar Pandas para leer, limpiar, y manipular datos desde archivos CSV, preparándolos para la visualización.",
+        "Aprenderán a crear y personalizar diferentes tipos de gráficos como líneas, barras, pasteles, dispersión, box plots, histogramas, y más.",
+        "Los estudiantes podrán interpretar datos complejos mediante gráficos avanzados como heatmaps, gráficos de violin, y gráficos de dispersión conjunta.",
+        "Descubrirán cómo utilizar Google Colab para ejecutar Python y sus librerías, permitiéndoles trabajar en la nube de manera colaborativa.",
+        "Entenderán cómo elegir el tipo de gráfico adecuado para diferentes tipos de datos y cómo interpretar los resultados para tomar decisiones informadas."
+      ],
+      "course_content": {
+        "Introducción": [
+          "Bienvenida al curso",
+          "Contenido del curso",
+          "Mensaje Importante Evaluación",
+          "Descargar datasets CSV"
+        ],
+        "Módulo 1: Introducción a visualización de datos": [
+          "Para que sirve la visualización de datos",
+          "Como se utiliza Python + Matplotlib & Seaborn en visualización de datos",
+          "Como utilizar Google Colab con Python",
+          "Introducción a la librería Pandas para utilizar archivos CSV"
+        ],
+        "Módulo 2: Matplotlib y tipos de Gráficos": [
+          "Instalación de Matplotlib & Seaborn",
+          "Gráfico de líneas (Line Chart) Teoría",
+          "Gráfico de líneas (Line Chart) Actividad datos dummy",
+          "Gráfico de líneas (Line Chart) Actividad datos CSV",
+          "Gráficos de Barras (Bar Charts) Teoría",
+          "Gráficos de Barras (Bar Charts) Actividad datos dummy",
+          "Gráficos de Barras (Bar Charts) Actividad datos CSV",
+          "Gráficos de Pastel (Pie Charts) Teoría",
+          "Gráficos de Pastel (Pie Charts) Actividad datos dummy",
+          "Gráficos de Pastel (Pie Charts) Actividad datos CSV",
+          "Gráficos de Dispersión (Scatter Plots) Teoría",
+          "Gráficos de Dispersión (Scatter Plots) Actividad datos dummy",
+          "Gráficos de Dispersión (Scatter Plots) Actividad datos CSV",
+          "Gráficos de Caja y Bigote(Box Plots) Teoría",
+          "Gráficos de Caja y Bigote(Box Plots) Actividad datos dummy",
+          "Gráficos de Caja y Bigote(Box Plots) Actividad datos CSV",
+          "Gráficos de Histogramas(Histograms) Teoría",
+          "Gráficos de Histogramas(Histograms) Actividad datos dummy",
+          "Gráficos de Histogramas(Histograms) Actividad datos CSV",
+          "Gráficos de mapa de calor(Heatmaps) Teoría",
+          "Gráficos de mapa de calor(Heatmaps) Actividad datos dummy",
+          "Gráficos de mapa de calor(Heatmaps) Actividad datos CSV",
+          "Gráficos de Áreas(Area Charts) Teoría",
+          "Gráficos de Áreas(Area Charts) Actividad datos dummy",
+          "Gráficos de Áreas(Area Charts) Actividad datos CSV",
+          "Gráficos de Violin(Violin Plots) Teoría",
+          "Gráficos de Violin(Violin Plots) Actividad datos dummy",
+          "Gráficos de Violin(Violin Plots) Actividad datos CSV",
+          "Gráficos de Barras Apiladas(Stacked Bar Plots) Teoría",
+          "Gráficos de Barras Apiladas(Stacked Bar Plots) Actividad datos dummy",
+          "Gráficos de Barras Apiladas(Stacked Bar Plots) Actividad datos CSV"
+        ],
+        "Módulo 3: Seaborn y Tipos de Gráficos": [
+          "Antes de empezar seaborn",
+          "Gráficos de Líneas (Line Charts) Teoría",
+          "Actividad datos dummy",
+          "Actividad datos CSV",
+          "Gráficos de Barras (Bar Charts) Teoría",
+          "Actividad datos dummy",
+          "Actividad datos CSV",
+          "Gráficos de Pastel (Pie Charts) Teoría",
+          "Actividad datos dummy",
+          "Actividad datos CSV",
+          "Gráficos de Dispersión (Scatter Plots) Teoría",
+          "Actividad datos dummy",
+          "Actividad datos CSV",
+          "Gráficos de Caja y Bigote(Box Plots) Teoría",
+          "Actividad datos dummy",
+          "Actividad datos CSV",
+          "Gráficos de Histogramas(Histograms) Teoría",
+          "Actividad datos dummy",
+          "Actividad datos CSV",
+          "Gráfico de mapas de calor(Heatmaps) Teoría",
+          "Actividad datos dummy",
+          "Actividad datos CSV",
+          "Gráfico de Dispersión Conjunto (Jointplot) Teoría",
+          "Actividad datos dummy",
+          "Actividad datos CSV",
+          "Gráficos de Violin (Violin Plots) Teoría",
+          "Actividad datos dummy",
+          "Actividad datos CSV",
+          "Gráfico de Regresión(regplot) Teoría",
+          "Actividad datos dummy",
+          "Actividad datos CSV"
+        ],
+        "Cierre del Curso": [
+          "Cierre del Curso"
+        ]
+      },
+      "requirements": [
+        "Conocimientos básicos de Python (deseable pero no obligatorio).",
+        "Acceso a una computadora con conexión a internet.",
+        "Navegador web actualizado (preferiblemente Chrome o Firefox).",
+        "Cuenta en Google para usar Google Colab.",
+        "Interés en la visualización de datos.",
+        "Disposición para aprender y experimentar."
+      ],
+      "description": "¡Bienvenido al curso definitivo de visualización de datos con Python! Este curso de Data Visualization Python, Matplotlib & Seaborn te guiará desde los conceptos básicos hasta las técnicas avanzadas para crear gráficos impactantes y análisis visuales utilizando las poderosas bibliotecas de Matplotlib y Seaborn.\nEstructura del Curso:\nIntroducción y Fundamentos: Comenzaremos con una sólida introducción sobre la importancia de la visualización de datos. Aprenderás a utilizar Google Colab para ejecutar Python en la nube, asegurándote de que tienes todo lo necesario para comenzar sin problemas. Además, cubriremos los conceptos esenciales de la biblioteca Pandas, permitiéndote manejar y manipular archivos CSV de manera eficiente.\nGráficos con Matplotlib: En este módulo, te sumergirás en Matplotlib. Aprenderás a crear una variedad de gráficos, desde líneas y barras hasta gráficos de pastel y cajas y bigotes. Usaremos tanto datos generados como datasets reales para ilustrar cómo estos gráficos pueden ayudar a interpretar datos de diferentes maneras.\nGráficos con Seaborn: A continuación, exploraremos Seaborn, una biblioteca que lleva la visualización de datos a otro nivel con gráficos estadísticos avanzados. Aprenderás a crear gráficos de dispersión conjuntos (jointplot), gráficos de regresión (regplot), y mucho más. Utilizaremos datasets de diversas fuentes para garantizar que puedes aplicar estos conocimientos a situaciones del mundo real.\nTecnologías y Herramientas:\nPython: El lenguaje de programación central del curso.\nGoogle Colab: Para escribir y ejecutar código en la nube.\nPandas: Para manejar y analizar datos.\nMatplotlib y Seaborn: Para crear visualizaciones de datos avanzadas.\nActividades Prácticas: Cada módulo incluye ejercicios prácticos y ejemplos de código detallados. Trabajarás con datos dummy y datasets reales, lo que te permitirá aplicar lo aprendido en contextos diversos. Al finalizar el curso, estarás equipado con las habilidades necesarias para transformar datos en gráficos claros y convincentes.\n¡Inscríbete ahora y lleva tus habilidades de visualización de datos al siguiente nivel!",
+      "target_audience": [
+        "Entusiastas de la visualización de datos que desean aprender técnicas avanzadas utilizando Python, Matplotlib y Seaborn.",
+        "Analistas de datos principiantes que quieren empezar con herramientas potentes y accesibles.",
+        "Profesores y educadores que buscan recursos para enseñar visualización de datos a sus estudiantes.",
+        "Investigadores y académicos que requieren herramientas visuales para interpretar y comunicar sus resultados.",
+        "Programadores y desarrolladores que buscan incorporar visualizaciones en sus proyectos.",
+        "Profesionales de negocios que necesitan presentar datos de manera efectiva.",
+        "Estudiantes de ciencia de datos y análisis de datos que desean mejorar sus habilidades de visualización."
+      ]
+    },
+    {
+      "title": "【한글자막】 클릭 센스 : Data Science 와 BI 를 위한 Qlik Sense",
+      "url": "https://www.udemy.com/course/best-data-science-bi-qlik-sense/",
+      "bio": "실습을 통해 단계적으로 Qlik Sense 배우기 : Qlik Sense 인터페이스 탐색, 데이터 소스에 연결, 첫 번째 차트 작성법, 복잡한 데이터 파일을 사용하는 고급 시각화 기술을 다루기",
+      "objectives": [
+        "비즈니스 인텔리전스(BI)를 위한 Qlik Sense",
+        "데이터 준비 및 수정하기",
+        "데이터 과학에 Qlik Sense 사용하기",
+        "여러 데이터 파일 간 연관 만들기",
+        "대화형 대시보드 작성하기",
+        "몇 분 내로 데이터에서 인사이트 도출하기",
+        "다양한 데이터 소스에 연결하기",
+        "Qlik Sense 인터페이스를 사용하고 탐색하기",
+        "표현식(Expressions) 다루기",
+        "여러가지 데이터 차트 만들기",
+        "스토리 작업하기"
+      ],
+      "course_content": {
+        "Qlik Sense에 뛰어들어 봅시다!": [
+          "환영인사 및 과정개요",
+          "*** Qlik Sense 라이선스 관련 중요 업데이트 ***",
+          "설치하기",
+          "리뷰 남기기",
+          "보너스: 학습 경로",
+          "번개처럼 빠르게 인사이트 도출하기",
+          "자료 받기"
+        ],
+        "Qlik Sense 기본": [
+          "섹션 개요",
+          "실무과제 소개 및 데이터에 연결하기",
+          "인터페이스 탐색하기",
+          "차원(Dimensions)과 측정값(Measures)",
+          "첫 번째 차트 작성하기",
+          "차트 표현식 (Chart expressions)",
+          "대체 측정값 및 내보내기",
+          "섹션 마무리",
+          "Qlik Sense 기본"
+        ],
+        "첫 번째 대시보드 구축하기": [
+          "섹션 개요 및 과제",
+          "데이터 연관 만들기",
+          "지도 만들기",
+          "계층 구조 및 지도",
+          "지도 표현식",
+          "분포도 및 산점도",
+          "TOTAL 키워드 사용하기",
+          "KPI 차트 및 Big Numbers",
+          "필터창 추가하기",
+          "다수의 시트 다루기",
+          "섹션 마무리",
+          "Qlik Sense 대시보드"
+        ],
+        "Qlik Sense 커스터마이징하기": [
+          "섹션 개요",
+          "이미지 다루기",
+          "앱 옵션",
+          "작업 디렉토리 변경하기",
+          "섹션 마무리",
+          "Qlik 커스터마이징 하기"
+        ],
+        "작업 공유하기": [
+          "섹션 개요",
+          "탐색 및 내보내기",
+          "스토리 개요",
+          "스토리 마무리하기",
+          "섹션 마무리",
+          "작업 공유하기"
+        ],
+        "데이터 준비하기": [
+          "섹션 개요",
+          "실무 과제",
+          "초기 수정 사항 (데이터 연결 시)",
+          "언피벗(Unpivot) 및 연관(Associations)",
+          "단어 시각화 및 트리맵",
+          "집합 분석 (Set analysis)",
+          "불릿 차트(Bullet chart) 뽀개기",
+          "섹션 마무리",
+          "데이터 준비하기"
+        ],
+        "결론": [
+          "감사의 말씀"
+        ],
+        "보너스 섹션": [
+          "보너스",
+          "Q&A 게시판 안내"
+        ]
+      },
+      "requirements": [
+        "컴퓨터에 대한 기본 지식",
+        "학습에 대한 욕구",
+        "데이터에 대한 열정"
+      ],
+      "description": "100% 실습을 통한 단계적 Qlik Sense 학습!\n다양한 데이터 소스를 연결하고, 인사이트를 발견하고, 멋진 대시보드를 완성해보세요!\n모든 섹션에 퀴즈 포함!\n\n\nData Science 와 BI를 위한 Qlik Sense 강의를 선택해야 하는 이유\n엑셀에 대한 혼란을 떨쳐버리고 싶으신가요?\n또는 여러분의 기업 또는 사업을 위한 데이터 시각화(data visualization)를 더욱 다양화하고 싶으신가요?\n그렇다면 이 Qlik Sense 기본 과정이 여러분의 커리어 성공의 열쇠가 되어드릴 겁니다. 여러분이 관심있는 분야가 데이터 과학(Data science)이든 비즈니스 인텔리전스(Business Intelligence)이든, 또는 Qlik Sense 자격증을 준비하고 있든 상관없습니다. 더는 다른 곳을 찾아 헤맬 필요가 없습니다!\n\n\n이 과정은 100% 실습 과정입니다. 여러분을 Qlik Sense 인터페이스 사용부터 데이터 시각화 기초에 이르는 여정에 초대합니다.\n\n\n여러분은 Qlik Sense 인터페이스를 탐색하고, 데이터 소스에 연결하고, 첫 번째 차트를 작성하는 방법을 배우게 될 것입니다. 그리고 나서, 복잡한 데이터 파일을 사용하는 고급 시각화 기술도 다루게 될 겁니다. 그 과정에서 여러분은 귀한 팁과 요령을 배워 Qlik Sense를 식은 죽 먹기처럼 다룰 수 있게 될 것입니다.\n\n\n또한, 모든 섹션이 끝날 때마다 보너스 퀴즈 (bonus quiz)가 준비되어 있습니다. 여러분의 스킬을 테스트하고 실무에 대비해보시기 바랍니다.\n\n\n최종적으로 이 과정을 수강하고 나면, 여러분은 개인적인 및 전문적인 프로젝트에서 Qlik Sense를 활용할 수 있는 만반의 준비를 갖추게 될 것입니다. 여러분만의 차트(charts)와 대시보드(dashboard)를 만들 수 있을 뿐 아니라, 분석 스토리텔링(storytelling of analysis)을 더 편안하게 수행할 수 있게 될 것입니다.\n\n\n다양한 데이터 소스를 연결하는 것부터 영향력 있는 인사이트(insights)를 발견하고 멋진 대시보드를 작성하는 것까지, 이 Qlik Sense 기본 과정은 엔터프라이즈 환경에서 여러분이 데이터 시각화 기술을 완벽하게 익힐 수 있도록 도와 줄 것입니다.\n\n\nData Science 와 BI를 위한 Qlik Sense 강의는 이렇게 진행 됩니다\n비즈니스 인텔리전스(BI)를 위한 Qlik Sense\n데이터 준비 및 수정하기\n데이터 과학에 Qlik Sense 사용하기\n여러 데이터 파일 간 연관 만들기\n대화형 대시보드 작성하기\n몇 분 내로 데이터에서 인사이트 도출하기\n다양한 데이터 소스에 연결하기\nQlik Sense 인터페이스를 사용하고 탐색하기\n표현식(Expressions) 다루기\n여러가지 데이터 차트 만들기\n스토리 작업하기\n\n\n강의에서 만나요,\n- Ligency Team\n\n\nP.S 강의를 들으시고 강의와 관련하여 궁금하신 점은 무엇이든 Q&A에 남기실 수 있지만, 꼭 영어로 남겨주세요. 그래야 답변을 드릴 수 있습니다. :)",
+      "target_audience": [
+        "시각화 기술을 다듬고 싶은 야심찬 데이터 과학자",
+        "시각화 기술과 도구에 대한 입문 교육이 필요한 데이터 분석가",
+        "시각화 분야에서 경력을 쌓고 싶은 BI 개발자",
+        "Qlik Sense가 익숙하지 않은 시각화 전문가"
+      ]
+    },
+    {
+      "title": "如何做好趋势分析，从历史数据中科学发现未来趋势",
+      "url": "https://www.udemy.com/course/yfjxirdc/",
+      "bio": "了解两种最基本的预测方法：时间序列预测和回归分析预测，业绩预估更有底气",
+      "objectives": [
+        "理解趋势预测的原理，能够掌握趋势预测的使用流程",
+        "掌握如何在Excel中做时间序列预测，并能够正确解读分析结果",
+        "了解如何在Excel中做回归分析预测，并能解读指标含义",
+        "理解趋势估计的常见场景，能够在产品/运营工作中落地应用"
+      ],
+      "course_content": {
+        "课程导读": [
+          "课程简介",
+          "讲师介绍",
+          "课程大纲",
+          "引入讲解"
+        ],
+        "课程内容": [
+          "1.为什么要预测未来？",
+          "2.趋势预测的理论依据和价值",
+          "3.趋势预测的定义",
+          "4.两种常见的趋势预测方法"
+        ],
+        "课程回顾": [
+          "课后寄语"
+        ]
+      },
+      "requirements": [
+        "具备基础的统计学知识"
+      ],
+      "description": "“以史为鉴，可知更替”，历史似乎告诉我们事物总是在重复过去。\n但是在现代，信息技术的发达，人们可以利用大数据方法去寻找历史中存在的模式，进而预测未来。\n为使你了解如何从历史数据中科学地预测未来数据，我们邀请前阿⾥巴巴数据专家Rex老师，为你带来这门课程。\nRex老师拥有10余年数据分析和数据运营经验，是数据挖掘与⼈⼯智能领域的专家。\n课程首先引入疑问：为什么要预测未来？接下来结合趋势预测可以解决的典型问题进行评估。\n在此基础上阐述趋势预测的定义，介绍趋势预测的两种常见方法（时间序列趋势预测、回归趋势预测），最终利用Excel平台引入数据进行回归分析预测讲解。\n课程沿着“发现问题——分析问题——解决问题”思路出发，逻辑清晰，案例通俗易懂。\n旨在帮助你了解数据分析预测未来的重要性，并能够尝试利用历史数据对未来进行科学合理地预测。",
+      "target_audience": [
+        "需要进行趋势预测的互联网产品/运营类人员",
+        "需要预测业绩随时间变化情况的营销/销售人员",
+        "希望使用Excel做趋势分析的其他人员"
+      ]
+    },
+    {
+      "title": "Einführung in SPSS (induktiv)",
+      "url": "https://www.udemy.com/course/einfuhrung-in-spss-induktiv/",
+      "bio": "Alles, was du zur Signifikanztestung deiner Hypothesen wissen musst.",
+      "objectives": [
+        "Die Teilnehmer/innen lernen, ihre Hypothesen selbst auszuwerten.",
+        "Die Teilnehmer/innen können am Ende selbstständig Hypothesentests in SPSS durchführen.",
+        "Die Teilnehmer/innen kennen die Voraussetzungen der inferenzstatistischen Analyseverfahren.",
+        "Die Teilnehmer/innen kennen induktive Verfahren zum Testen von Unterschieds- und Zusammenhangshypothesen."
+      ],
+      "course_content": {
+        "Einführung und Grundlagen der schließenden Statistik": [
+          "Einführung",
+          "Einführung induktiv und Signifikanz",
+          "Arten von Hypothesen",
+          "Verfahren wählen"
+        ],
+        "Auswertung unabhängiger Stichproben für Zusammenhangshypothesen": [
+          "Chi-Quadrat Test",
+          "Spearman Korrelation",
+          "Pearson Korrelation"
+        ],
+        "Auswertung unabhängiger Stichproben bei Unterschiedshypothesen": [
+          "T-Test für unabhängige Stichproben",
+          "Mann-Whitney-U-Test",
+          "Einfaktorielle Varianzanalyse",
+          "Kruskal-Wallis-Test"
+        ],
+        "Anwendungstutorials": [
+          "Normalverteilung",
+          "Chi-Quadrat Test",
+          "Spearman Korrelation",
+          "Pearson Korrelation",
+          "T-Test",
+          "U-Test",
+          "Varianzanalyse",
+          "Kruskal-Wallis-Test"
+        ]
+      },
+      "requirements": [
+        "Vorkenntnisse in deskriptiven Verfahren sind sinnvoll, aber nicht zwingend erforderlich."
+      ],
+      "description": "In diesem Kurs gehen wir in mehreren vier Abschnitten mit 19 Lektionen verschiedene Analyseverfahren durch, welche du zur Überprüfung deiner Hypothesen verwenden kannst. Der Kurs umfasst eine Einführung in inferenzstatistische Methoden und eignet sich sehr gut für Personen, die noch nie mit SPSS gearbeitet haben oder wenig Vorkenntnisse haben. Aber auch für die diejenigen, die schon Erfahrungen mitbringen, bietet dieser Kurs eine ideale Auffrischung und Ergänzung.\nAnhand eines Entscheidungsbaumes werden verschiedene Verfahren zur Analyse von Zusammenhängen und Unterschieden vorgestellt. Dabei wird zuerst auf den Chi-Quadrat Test, die Spearman Korrelation und die Pearson Korrelation zur Analyse von Zusammenhängen eingegangen. Danach werden der T-Test, der Mann-Whitney-U-Test, die einfaktorielle Varianzanalyse und der Kruskal-Wallis Test zur Untersuchung von Unterschieden vorgestellt. Darüber hinaus wird das Konzept der Signifikanz erläutert, Arten von Hypothesen vorgestellt und die statistischen Grundlagen zur Analyse von Zusammenhängen und Unterschieden erklärt.\nErgänzt werden diese Themen durch ein Tutorial zur Testung der Normalverteilung sowie Übungsblätter und einen Übungsdatensatz mit dem man das Erlernte anwenden kann.\nAlle Analysen werden theoretisch erklärt und praktisch angewendet. Neben Power Point Folien mit den wichtigsten Informationen zum Durchführen, Interpretieren und Verschriftlichen deiner Ergebnisse, gibt es auch praktische Anwendungstutorials, in denen ich zeige, wie du das Erlernte in SPSS umsetzen kannst.",
+      "target_audience": [
+        "Der Kurs richtet sich an alle, die Signifikanztests bzw. Hypothesentests in SPSS durchführen möchten."
+      ]
+    },
+    {
+      "title": "دليل المدير المتميز في استثمار المعلومات باستعمال بور بي أي",
+      "url": "https://www.udemy.com/course/amsdataanalysis1/",
+      "bio": "تحول إلي خبير في تحليل البيانات في يوم واحد باستعمال Power BI",
+      "objectives": [
+        "يستطيع المدير بعد هذا المشروع يمكنك من استخدام أدوات ذكاء الأعمال و بور بي أي (Power BI) في عمل التقارير و تحليل البيانات",
+        "يستطيع المتدرب من ربط جميع البيانات التي لدية و حساب مؤشرات قياس الأداء"
+      ],
+      "course_content": {
+        "Introduction مقدمة": [
+          "Introduction مقدمة",
+          "أهمية تحليل البيانات",
+          "برامج تحليل البيانات"
+        ],
+        "برنامج بور بي أي": [
+          "برنامج باور بي أي Microsoft Power BI Desktop",
+          "التعرف علي البرنامج",
+          "مصادر البيانات",
+          "مصادر البيانات"
+        ],
+        "تصميم لوحة البيانات": [
+          "جمع بيانات المبيعات",
+          "التعرف علي بيانات المبيعات",
+          "تقرير مبسط للمبيعات",
+          "إضافة مخطط الأعمدة",
+          "إضافة مخطط دائري",
+          "إضافة مخطط الانحدار",
+          "أجب علي الأسئلة التالية من خلال تحليل البيانات"
+        ],
+        "بناء نموذج البيانات": [
+          "إضافة تعريف البيانات",
+          "بناء نموذج البيانات",
+          "تحليل بيانات متعددة المصادر",
+          "تحديث البيانات",
+          "إضافة بيانات الموظفين",
+          "تحليل مبيعات الموظفين",
+          "إضافة تعريف الموارد البشرية",
+          "تحديث نموذج البيانات",
+          "أجب علي الأسئلة التالية من خلال تحليل البيانات"
+        ],
+        "تحليل البيانات": [
+          "تحليل بيانات الموارد البشرية",
+          "تحليل بيانات الإدارات",
+          "تصميم لوحة بيانات ديناميكية",
+          "مصفوفة البيانات الديناميكية",
+          "إضافة المخطط الزمني",
+          "حساب التوقعات المستقبلية للمبيعات",
+          "التوقعات المستقبلية للمديرين",
+          "شارك بأفكارك"
+        ],
+        "مشاركة البيانات": [
+          "مشاركة البيانات",
+          "مشاركة البيانات علي الموبيل"
+        ],
+        "ماذا بعد": [
+          "30"
+        ]
+      },
+      "requirements": [
+        "لا يتطلب الكورس إلا معرفة بسيطة باستخدام الكمبيوتر"
+      ],
+      "description": "كن متميزا مع كورس لا يؤهلك فقط للتميز ولكن لفهم حقيقي لإدارة الأعمال بالاستخدام الأمثل لتحليل البيانات. مع خبرة أكثر من 30 سنة في الإدارة أسعى جاهدا لتقديم المعلومة بطريقة سهلة.\nيهدف هذا البرنامج إلي تطوير مهارات تحليل البيانات باستخدام البرنامج المجاني باور بي أي من ميكروسوفت، بعد هذا المشروع يستطيع المشارك من استخدام أدوات الذكاء الاصطناعي و بور بي أي في عمل التقارير و تحليل البيانات في مجال عمله.\nلا يتطلب الكورس إلا معرفة بسيطة باستخدام الكمبيوتر مثل التعامل مع الملفات و فتح ملفات الاكسيل و نقل البيانات من مكان لآخر بالإضافة إلي فهم مفاهيم البيانات الأساسية و معرفة العلاقة بين البيانات المختلفة من ملفات و أنظمة سواء بيانات مالية أو مبيعات أو مخزون أو جودة\nستناقش هذه الدورة التدريبية الأساليب المختلفة وأفضل الممارسات التي تتماشى مع متطلبات الأعمال والمتطلبات الفنية لنمذجة البيانات وتصورها وتحليلها باستخدام Power BI. ستوضح الدورة أيضًا كيفية الوصول إلى البيانات ومعالجتها من مجموعة من مصادر البيانات بما في ذلك البيانات العلائقية وغير العلائقية. ستناقش الدورة أيضًا كيفية إدارة ونشر التقارير ولوحات المعلومات للمشاركة وتوزيع المحتوى. أخيرًا ، ستوضح هذه الدورة التدريبية كيفية إنشاء تقارير مرقمة ضمن خدمة Power BI ونشرها في مساحة عمل لتضمينها في Power BI.\n\n\n\n\nيستهدف هذا البرنامج التدريبي المديرين والمتخصصين في المجالات المختلفة مثل المبيعات و المشتريات و الصيانة و التشغيل والمالية و المحاسبة و الموارد البشرية ، تستهدف هذه الدورة أيضًا الأفراد الذين يطورون التقارير التي تصور البيانات من تقنيات منصة البيانات الموجودة في السحابة وفي أماكن العمل.",
+      "target_audience": [
+        "المديرين",
+        "الإداريين",
+        "السكرتارية",
+        "مديري المشاريع",
+        "المحاسبين",
+        "مديري المبيعات",
+        "مديري المخازن"
+      ]
+    },
+    {
+      "title": "Cognos Analytics 12.0.4 - G5 Dimensionale Berichtserstellung",
+      "url": "https://www.udemy.com/course/cognos-analytics-12-g5-dimensionale-berichtserstellung/",
+      "bio": "In dem Seminar erlernen die Teilnehmer die Verwendung von multidimensionalen Reporting-Funktionen.",
+      "objectives": [
+        "In diesem Kurs erlernen Sie das Reporting auf dimensionalen Datenmodellen (Würfel / Cubes).",
+        "Familienfunktionen: children, parent, ancestor, descandants",
+        "Funktionen für obere und untere Werte: topCount, bottomCount, topPercent, bottomPercent",
+        "Filterfunktionen: filter, except",
+        "Schnittpunktfunktionen: tuple, completeTuple",
+        "Mitglieds- und Aufsummierungsfunktionen: aggregate, total ... within set",
+        "Satzfunktionen: set, head, tail, item",
+        "und viele weitere wie nextMember, prevMember"
+      ],
+      "course_content": {
+        "Einführung": [
+          "Grundlagen dimensionales Reporting",
+          "Einfügeoptionen und Drilldown",
+          "Drillup Mitglieder erweitern und minimieren",
+          "Mitglieder und Mitgliedssätze 1",
+          "Mitglieder und Mitgliedssätze 2"
+        ],
+        "Navigieren in multidimensionalen Strukturen": [
+          "Member Unique Names (MUN(",
+          "Familienfunktionen Quartalsbericht",
+          "Set - Item - Tuple"
+        ],
+        "Spezielle Kennzahlen": [
+          "Spezielle Mitglieder und Kennzahlen",
+          "CurrentMeasure",
+          "CurrentMember - CompleteTuple"
+        ],
+        "Filtern": [
+          "Slicer",
+          "topCount",
+          "Except",
+          "Filterfunktion",
+          "Filterfunktion - Attribute",
+          "Detailfilter"
+        ],
+        "Berechnungen": [
+          "Familienfunktion Descendants",
+          "Familienfunktion Ancestor",
+          "Berechnung Aggregate mit Except"
+        ],
+        "Sortieren": [
+          "Satz-Sortierungen",
+          "ORDER Funktion"
+        ],
+        "Funktionen": [
+          "Last Periods und PeriodsToDate"
+        ],
+        "Drill Methoden": [
+          "Erweiterte Drillmethoden"
+        ],
+        "Drillthrough": [
+          "Zielbericht (Dimensional)",
+          "Zielbericht (Relational)",
+          "Drillthrough Quellbericht"
+        ],
+        "Cognos Makros für eindeutige Mitgleidsnamen": [
+          "Makro Member Unique Name"
+        ]
+      },
+      "requirements": [
+        "Grundkenntnisse im Cognos Reporting sollten vorhanden sein (Kurs Berichtserstellung Grundlagen)."
+      ],
+      "description": "Seminarbeschreibung\nDie Berichtserstellung in Cognos Analytics auf dimensionalen Datenmodellen stellt den Reportersteller vor besondere Herausforderungen. Ad-Hoc-Analysen sind auf Würfeln (Daten-Cubes) sehr schnell erstellt. Wenn es aber um Standardberichte geht, ist es notwendig das navigieren in den Daten-Strukturen zu verinnerlichen. Hierzu stehen (auf MDX basierende) Funktionen zur Verfügung die in diesem Kurs anhand praxisorientierter Übungen erlernt werden.\nDer  Kurs eignet sich für alle Anwender, die ein dimensionales Datenmodell bereitgestellt bekommen (PowerCube, Dynamic Cubes, TM1, DMR, Planning Analytics).\nIn dem Seminar erlernen die Teilnehmer die Verwendung von multidimensionalen Reporting-Funktionen.\nFamilienfunktionen\nchildren, parent, ancestor, descandants\nFunktionen für obere und untere Werte\ntopCount, bottomCount, topPercent, bottomPercent\nFilterfunktionen\nfilter, except\nSchnittpunktfunktionen\ntuple\nMitglieds- und Aufsummierungsfunktionen\naggregate, total\nSatzfunktionen\nset, head, tail\n\n\nZielgruppe\nCognos Anwender: Berichtsersteller und Analysten aus den Fachbereichen\n\n\nVoraussetzungen\nTeilnahme an dem Kurs Berichterstellung Grundlagen.\n\n\nDauer\nUm die Übungen nachzustellen, empfehlen wir 12 Stunden Zeit für diesen Kurs einzuplanen.\n\n\nKernthemen\nGrundlagen der Cognos BI Architektur und multidimensionalem Reporting\nBerichtserstellung mit Report Studio auf multidimensionalen Daten\nNavigieren in multidimensionalen Strukturen\nFiltern von dimensionalen Daten\nBerechnungen und dimensionale Funktionen\nSortieren von dimensionalen Daten\nFunktionen zum Navigieren in Dimensionen\nErweiterte Drillmethoden und Mitgliedssätze\nErweiterten Drillthrough-Zugriff einrichten\nErstellen von komplexen Berichten, Zeitpläne erstellen, verteilte Reports\n\n\nTipp: Dieser Kurs ist gerade bei performancekritischen Abfragen sehr wichtig, da bei einer \"falschen\" Filterung bzw. Selektion der Daten im relationalen Stil eine vielfache Laufzeit bei der Berichtsausführung resultiert.\nMit der richtigen Funktion machen Sie aus 10 Minuten Laufzeit 10 Sekunden!\n\n\nKursreferenz\nInhalte vergleichbar mit Kursen B6061G, B6061FG",
+      "target_audience": [
+        "IBM Cognos"
+      ]
+    },
+    {
+      "title": "Cognos Analytics 11.1.7 - E1 Einführung in die Oberfläche",
+      "url": "https://www.udemy.com/course/cognos-analytics-11-1-7-einfuhrung-in-die-oberflache-gui/",
+      "bio": "Alle Basics der Oberfläche für Anwender: Berichte und Dashboards aufrufen und kopieren, Zeitpläne erstellen...",
+      "objectives": [
+        "Einführung in die Cognos Analytics GUI",
+        "Suchen und Finden von Cognos Inhalten",
+        "Berichte aufrufen, verwalten, abonieren und Zeitpläne erstellen",
+        "Veröffentlichen von Cognos Inhalten, z.B. per E-Mail",
+        "Analysieren von Daten mit interaktiven Berichten"
+      ],
+      "course_content": {
+        "Die ersten Schritte mit Cognos Analytics": [
+          "Oberfläche Cognos Analytics",
+          "Berichte und Dashboards aufrufen und schließen",
+          "Kurzüberblick der verschiedenen Cognos Ansichten"
+        ],
+        "Suchen und Finden von Cognos Inhalten": [
+          "Suchen und Finden von Cognos Inhalten"
+        ],
+        "Berichte aufrufen und verwalten": [
+          "Objekte kopieren, umbenennen, verschieben, löschen",
+          "Ordner anlegen und verschieben von mehreren Objekten",
+          "Berichtseigenschaften und Berichtsansichten erstellen"
+        ],
+        "Berichte abonnieren und Zeitpläne erstellen": [
+          "Berichte abonnieren",
+          "Zeitpläne erstellen",
+          "Daten per Zeitplan aktualisieren"
+        ],
+        "Veröffentlichen von Cognos Inhalten": [
+          "Veröffentlichen von Cognos Inhalten (Teilen und Einbetten)",
+          "Dashboards als PDF-Dokument speichern",
+          "Analysen als E-Mail oder im Messenger versenden"
+        ],
+        "Zugriffrechte Steuern": [
+          "Zugriffsrechte Steuern",
+          "Eigene Berechtigungen und Funktionen prüfen"
+        ],
+        "Interaktiver Berichtsmodus": [
+          "Listenbericht auf relationalen Daten",
+          "Erweiterte Sortieroptionen",
+          "Kreuztabellen auf dimensionalen Daten (Drill-up und Drill-Down)",
+          "Berechnungen auf dimensionalen Daten (Satzfunktionen)"
+        ],
+        "Erweiterte Benutzereinstellungen": [
+          "AI Learning Informationen zurücksetzen",
+          "Fehleranalyse mit Sitzungsprotokollen",
+          "Berechtigungsnachweise verwalten und erneuern"
+        ]
+      },
+      "requirements": [
+        "Keine Vorkenntnisse nötig."
+      ],
+      "description": "Der Kurs \"IBM Cognos Analytics - Einführung für Anwender\" zeigt die Oberfläche von Cognos Analytics.\nDie Übungen zeigen Schritt für Schritt den sicheren Umgang mit der neuen GUI. Anwender können sich mit den Übungen mit der Bedienung von Cognos Analytics vertraut machen und bei dem Finden und Aufrufen von Inhalten schneller werden.\n\n\nDieser Kurs ist der Grundlagenkurs für alle Anwender von IBM Cognos Analytics. Nach einer Einführung in die Oberfläche werden die wichtigsten Punkte zu Benutzereinstellungen besprochen.\n\nDie Teilnehmer erarbeiten sich dann die Möglichkeiten zum (zeitgesteuerten) Aufrufen, Exportieren und Verwalten von Cognos Inhalten.\n\nAuch die Anpassung von interaktiven Standardreports ist Bestandteil dieses Kurses. Hier ergänzen die Teilnehmer in einer Kreuztabelle Berechnungen und Auswertungen und wechseln zu Diagrammdarstellungen.\n\n\nACHTUNG: Es wird in diesem Kurs explizit nicht die Erstellung von Dashboards oder Berichten behandelt. Diese Funktionalitäten erfordern auch eine gesonderte Berechtigung in Cognos Analytics und wird in unseren Vertiefungskursen ausführlich behandelt.\nAnwender, die diesen Kurs besucht haben, sind gut vorbereitet um die Kurse\nDashboards, Storys und Datenupload\nBerichtserstellung Grundlagen\nBerichtserstellung Vertiefung\nMultidimensionale Berichtserstellung\nMetadatenmodellierung mit Datenmodulen\nzu besuchen.\nAuch wenn in diesem Kurs nur um die Grundfunktionalitäten der Oberfläche erlernt werden, bleiben so auch verborgene Highlights nicht versteckt.  So kann z.B. eine gespeicherte Suche wie ein Bookmark helfen die täglich genutzten Objekte schneller wiederzufinden. Das spart Zeit und der Umgang mit Cognos Analytics macht noch mehr Spaß!",
+      "target_audience": [
+        "Alle Cognos Anwender und Datenanalysen"
+      ]
+    },
+    {
+      "title": "⽤数据检验效果，通过参数估计从少量样本中分析产品问题",
+      "url": "https://www.udemy.com/course/gokrauvz/",
+      "bio": "数据太多，提取就像大海捞针？掌握参数估值，成为运营达人！",
+      "objectives": [
+        "理解参数估计的原理，能够掌握参数估计的使用流程",
+        "掌握参数估计的分析过程，能够正确解读分析结果",
+        "掌握参数估计的常见场景，能够在产品/运营工作中落地应用",
+        "通过实际案例，理解如何在工作中应用估计方法"
+      ],
+      "course_content": {
+        "课程导读": [
+          "课程简介",
+          "讲师介绍",
+          "课程大纲",
+          "引入讲解"
+        ],
+        "课程内容": [
+          "1.参数估计可以解决哪些问题？",
+          "2.参数估计的定义",
+          "3.参数估计的使用流程",
+          "4.典型案例分析"
+        ],
+        "课程回顾": [
+          "课后寄语"
+        ]
+      },
+      "requirements": [
+        "具备基础的统计学知识"
+      ],
+      "description": "互联网诞生后，让人们的生活工作的各个领域都有了连接，后疫情时代，互联网发展迅速，人们迎来了数据大爆炸的环境。作为运营人员，数据分析整合的压力骤增，所以，选取部分样本，采取参数估值的方法就成为了运营人的制胜法宝。比如微信的MAU有13亿，领导要求一小时内分析全部用户的画像，显然不可能，抽取10万用户来评估13亿就简单多了！又如，抖音投放获客活动，但无法精准评估抖音流量时，就可以重点分析获客活动的用户……参数估值，就是用最小的工作量拿到较为准确的数据。那么，究竟如何将这一方法运用到实际工作当中呢？本次课程就将为你解开参数估值的奥秘！",
+      "target_audience": [
+        "需要进行总体情况估计的互联网产品/运营类人员",
+        "需要通过数据分析业绩情况的营销/销售人员",
+        "希望使用Excel估计总体的其他人员"
+      ]
+    },
+    {
+      "title": "Análisis de Redes Organizacionales para Impacto Estratégico",
+      "url": "https://www.udemy.com/course/analisis-de-redes-organizacionales-para-impacto-estrategico/",
+      "bio": "Desata el poder de las redes organizativas en el panorama empresarial actual",
+      "objectives": [
+        "Definir ONA y su importancia en las organizaciones modernas, incluyendo su contexto histórico y evolución.",
+        "Comprender los conceptos clave y la terminología relacionada con ONA, así como entender el proceso de recopilación y preparación de datos.",
+        "Adquirir el conocimiento y las habilidades para aplicar ONA estratégicamente en diversos contextos organizativos.",
+        "Desarrollar experiencia práctica analizando informes de ONA, tanto activos como pasivos."
+      ],
+      "course_content": {
+        "Introducción a ONA y su importancia": [
+          "Intro",
+          "Introducción a ONA"
+        ],
+        "ONA para la gestión del cambio": [
+          "ONA para la gestión del cambio",
+          "Aplicación práctica de ONA para la gestión del cambio",
+          "Caso de estudio: Acelerando la transformación digital a través de ONA"
+        ],
+        "ONA para el desarrollo de liderazgo": [
+          "ONA para el desarrollo de liderazgo",
+          "Aplicación práctica de ONA para el desarrollo de liderazgo",
+          "Caso de estudio: Mejorando la identificación de HiPOs a través de ONA"
+        ],
+        "ONA para onboarding": [
+          "ONA para onboarding",
+          "Aplicación práctica de ONA para onboarding"
+        ],
+        "Otras aplicaciones estratégicas de ONA": [
+          "ONA para bienestar del empleado",
+          "ONA para trabajo híbrido",
+          "ONA para fusiones y adquisiciones",
+          "ONA para desarrollo organizacional",
+          "ONA para retención de talento"
+        ],
+        "Práctica con Cognitive Network Analyzer™": [
+          "Práctica: Explorando Cognitive Network Analyzer™",
+          "Introducción a Cognitive Network Analyzer™",
+          "Acceso a Cognitive Network Analyzer™",
+          "Encuestas de ONA activo",
+          "Panel de ONA activo",
+          "Insights de ONA",
+          "Agentes de IA"
+        ],
+        "El Rol de ONA en el futuro del trabajo": [
+          "Hacia un futuro del trabajo redárquico",
+          "ONA y organizaciones autónomas descentralizadas (DAOs)"
+        ],
+        "Conclusión & siguientes pasos": [
+          "Conclusión",
+          "Únete a nuestra comunidad de ONA"
+        ]
+      },
+      "requirements": [
+        "Análisis de Redes Organizacionales para Impacto Estratégico está diseñado para ser accesible a una amplia gama de estudiantes, incluyendo principiantes. No hay requisitos estrictos para tomar el curso, y está estructurado para adaptarse a estudiantes con diversos niveles de familiaridad con el tema. El objetivo es reducir las barreras para los principiantes y hacer el curso lo más inclusivo posible. Sin embargo, es beneficioso que los estudiantes tengan una comprensión básica de las estructuras y dinámicas organizativas. Tener cierta familiaridad con la gestión y conceptos organizativos puede ser ventajoso pero no es obligatorio. El curso aborda conceptos fundamentales de ONA y gradualmente desarrolla el conocimiento necesario para comprender temas más avanzados. En cuanto a herramientas y equipo, los estudiantes deben tener acceso a una computadora con conexión a internet, ya que el curso puede incluir recursos en línea y actividades interactivas. Al mantener los requisitos mínimos, este curso busca ser accesible a una amplia audiencia, incluyendo a aquellos que son nuevos en ONA y análisis organizativo, al tiempo que proporciona conocimientos y habilidades valiosas a todos los participantes."
+      ],
+      "description": "Desbloquea el potencial latente del análisis de redes organizacionales (ONA) dentro del cambiante panorama empresarial moderno. Desentrañar la intrincada red de conexiones dentro de una organización no solo es deseable; es un requisito previo para catalizar cambios profundos y alcanzar objetivos estratégicos.\nNuestro curso, \"Análisis de Redes Organizacionales para Impacto Estratégico\", está meticulosamente diseñado para dotarte del conocimiento y la experiencia necesarios para aprovechar las capacidades transformadoras del ONA. Ya seas un profesional de recursos humanos, un gerente, un analista de datos, un consultor o un aspirante a especialista en desarrollo organizacional, este curso está adaptado para satisfacer tus requisitos específicos.\nA lo largo del programa, emprenderás un viaje esclarecedor a través de los dominios fundamentales de ONA, explorando sus aplicaciones estratégicas en la gestión del cambio, iniciativas de diversidad e inclusión, estrategias de retención de talento y una variedad de otros casos prácticos. Participa en experiencias prácticas, sumergiéndote en el análisis de informes de ONA activos y pasivos, lo que te permitirá descifrar los datos y tomar decisiones estratégicas bien fundamentadas. Además, damos gran importancia a las consideraciones éticas en torno a ONA, asegurando que no solo seas competente, sino también responsable en el uso de esta poderosa herramienta.\nÚnete a nosotros en esta expedición transformadora para adquirir las habilidades que las organizaciones de todo el mundo buscan activamente para elevar su eficiencia operativa y fomentar el éxito. Esta es tu oportunidad de convertirte en un experto de ONA, permitiéndote impulsar cambios estratégicos en las organizaciones con las que colaboras. Aprovecha esta oportunidad para inscribirte en el curso y desbloquear un mundo de oportunidades que el ONA tiene para ofrecer. Tu viaje hacia la excelencia organizativa comienza aquí.",
+      "target_audience": [
+        "Este curso está dirigido a una amplia audiencia, desde principiantes hasta aquellos con algún conocimiento previo de ONA. Ofrece perspectivas tanto teóricas como prácticas, lo que lo hace valioso para aquellos que buscan mejorar sus habilidades y tomar decisiones informadas por datos en entornos organizativos. Ya seas un profesional experimentado o alguien que comienza su trayectoria profesional, este curso proporciona conocimientos y herramientas valiosas para ayudarte a aprovechar el poder de ONA en beneficio de tu organización y carrera."
+      ]
+    },
+    {
+      "title": "Kundencontrolling mit Excel für Anfänger",
+      "url": "https://www.udemy.com/course/kundencontrolling-mit-excel-fur-anfanger/",
+      "bio": "Lernen Sie, wie Sie ein einfaches Excel-Tool Ihrer Kunden erstellen",
+      "objectives": [],
+      "course_content": {
+        "Einleitung": [
+          "Einleitung",
+          "So funktioniert Udemy",
+          "Wer ist Ihr Trainer? - Kristoffer Ditz",
+          "Lern Notizen"
+        ],
+        "Was werden Sie in diesem Kurs lernen?": [
+          "Was werden Sie in diesem Kurs lernen?"
+        ],
+        "Kundendaten erfassen": [
+          "Stammdaten",
+          "Eingabemaske",
+          "Monate aus Datum",
+          "Filter und Summe",
+          "Auswertungszeitraum",
+          "Drucktitel festlegen"
+        ],
+        "Kundenanalyse": [
+          "Kundenanalyse - Namen",
+          "Kundenanalyse - Umsätze",
+          "Nach Umsatz sortiert",
+          "Daten automatisch aktualisieren"
+        ],
+        "Schlusswort": [
+          "Flashback",
+          "Vielen Dank"
+        ],
+        "Bonus": [
+          "Bonus Lektion"
+        ]
+      },
+      "requirements": [
+        "Grundkenntnisse Betriebswirtschaft von Vorteil",
+        "Kenntnisse MS Excel"
+      ],
+      "description": "Allgemein\nDer Kunde ist König\nControlling wird oft mit Kontrolle verwechselt. Dabei kommt es aus dem Englischen von \"to control\" also steuern.\nExcel ist im Controlling eines der wichtigsten Instrumente. Große Daten müssen konsolidiert und im Anschluss analysiert werden.\nIm Vertrieb möchten wir natürlich die relevanten Daten unserer Kunden erfassen.\nHierzu gehört neben dem Erfassungsdatum, die Anschrift und die Umsätze nach dem jeweiligen Vertriebskanal.\nIm Anschluss möchten wir natürlich eine Übersicht, was ein einzelner Kunde an Umsatz erzielt hat, am besten nach Monatsübersicht und welche Kunden am stärksten waren. Somit werden den Entscheidungsträgern (Geschäftsführung, oder Vertriebsleitung, Key Account Management), wichtige Entscheidungshilfen geliefert, um die entsprechenden Massnahmen einzuleiten.\nDas Controlling dient hier als interner Berater bzw. Sparringpartner für das Management.\nIn diesem Kurs werden Sie lernen, wie Sie ein einfaches Kundencontrolling mit Excel erstellen, damit Sie einen guten Eindruck bekommen, wie ein erfolgreiches Vertriebscontrolling funktioniert bzw. aufgebaut ist.\nDarüber hinaus lernen Sie mehrere Excel-Tipps, welche Sie direkt in Ihrem Job einbringen können, nicht nur im Controlling.\nVon daher ist der Online-Kurs für Vertriebler und Controller gleichermaßen geeignet.\n\n\nInhalt\nStammdaten einsetzen\nEingabemaske richtig aufsetzen\nKundenanalyse nach Monat\nUmsätze automatisch sortieren\nZusätzlich erhalten Sie die fertige Excel-Datei zur Übung und Vertiefung, welche Sie natürlich auch in Ihrem Job gewinnbringend einsetzen können.",
+      "target_audience": [
+        "Junior Vertriebscontroller",
+        "Key Account Manager",
+        "Vertriebsassistenten",
+        "Assistenten Vertriebsleitung"
+      ]
+    },
+    {
+      "title": "Analisis Bisnis untuk Pemula : Metode Statistik",
+      "url": "https://www.udemy.com/course/business-statistic-ii/",
+      "bio": "Analisis Regresi, Analisis Variance, Metode Nonparametric",
+      "objectives": [],
+      "course_content": {},
+      "requirements": [
+        "Menguasai matematika dasar"
+      ],
+      "description": "Materi yang disampaikan merupakan pembahasan mengenai korelasi, regresi, ANOVA, Goodness of Fit test, Contingency Table Analysis dan statistik non parametrik, materi berisi penjelasan dan contoh penerapannya, durasi penyampaian materi sekitar 20 menit dalam bentuk audio visual dalam beberapa bagian pertemuan, setelah menyelesaikan course ini diharapkan mahasiswa dapat memahami dan menerapkan metode statistic dalam latihan yang diberikan.",
+      "target_audience": [
+        "Student yang ingin belajar bisnis statistik"
+      ]
+    },
+    {
+      "title": "# IBM Cognos Analytics Kursübersicht (Inhalte und Versionen)",
+      "url": "https://www.udemy.com/course/ibm-cognos-analytics-kursubersicht-inhalte-und-versionen/",
+      "bio": "Übersicht aller Kurse für IBM Cognos Analytics.",
+      "objectives": [],
+      "course_content": {
+        "Einführung": [
+          "Vorstellung der Apparo Group",
+          "Vorstellung des Cognos User Group e.V.",
+          "Ziel dieses Kurses"
+        ],
+        "Kursübersicht": [
+          "Warum überschneiden sich unsere Themen z.B. E3/F3/G3",
+          "Kurse für alle Anwender",
+          "Kurse für Analysten",
+          "Kurse für Berichtsersteller",
+          "Kurse für dimensionale Datenmodelle",
+          "Kurse für Modellierer",
+          "Kurs für Analysis Studio Umsteiger und Cube Analysten"
+        ],
+        "Weitere Tools und Unterstützung für Cognos Analytics": [
+          "Apparo Fast Edit - Dateneingabe für Cognos Analytics",
+          "Apparo University - die \"On-Prem\" Variante der Videoschulungen",
+          "Apparo Beratung und Training"
+        ],
+        "Beispiel: Self-Service mit Cognos Analytics 12.0.4": [
+          "Demo: In 4 Minuten von einer Excel-Datei zum fertigen Dashboard mit KI Assistent"
+        ]
+      },
+      "requirements": [
+        "Grundkenntnisse in der Datenanalyse (z.B. Umgang mit Excel)"
+      ],
+      "description": "In diesem Kurs präsentieren wir unsere Kursstruktur und zeigen auf, welche Schulungen für die unterschiedlichen Anwendergruppen verfügbar sind.\nDie Bandbreite reicht von Endanwendern, die lediglich Berichte aufrufen oder Dashboards nutzen, über Berichtersteller, die komplexe Berichte erstellen, bis hin zu Datenmodellierern, die Datenmodule speziell für das Cognos-Umfeld entwickeln.\nDarüber hinaus geben wir einen Überblick über zusätzliche Kursangebote, wie beispielsweise Schulungen für die Nutzung mobiler Endgeräte oder für Anwender, die von einer älteren Version auf eine neue Version umsteigen möchten.\nDieser Kurs hilft Ihnen, die für Ihre Anforderungen passenden Schulungen zu identifizieren und gezielt das nötige Wissen aufzubauen, um Ihre Aufgaben effizient zu meistern.\n\n\nSchauen Sie sich diesen kostenlosen Kurs an bevor Sie einen unserer anderen Kurse buchen!\nHINWEIS: Sollten Sie feststellen, dass Sie bei einer Schulung versehentlich die falsche Version gebucht haben, beispielsweise einen Kurs zur Version 11.0 (wie A3), obwohl Sie eigentlich die Version 12 benötigen (G3), kontaktieren Sie uns bitte. Wir prüfen gerne, ob wir Ihnen den passenden Kurs freischalten können, und unterstützen Sie dabei, die richtige Schulung für Ihre Bedürfnisse zu finden.\nUnsere Kurse orientieren sich an den Long-Term-Support-Versionen von Cognos Analytics. Dadurch stehen Ihnen über die Jahre hinweg zahlreiche Themen in einer stets aktualisierten und angepassten Variante zur Verfügung. So bleiben Sie immer auf dem neuesten Stand und erhalten genau die Inhalte, die zu Ihrer aktuellen Version passen.",
+      "target_audience": [
+        "Datenanalysten, Berichtsersteller, Datenmodellierer, ETL und DWH Entwickler"
+      ]
+    },
+    {
+      "title": "Business Analytics Crash Course",
+      "url": "https://www.udemy.com/course/business-analytics-crash-course/",
+      "bio": "Learn to create data visualizations, develop predictive models, and interpret the results to enhance business operation",
+      "objectives": [],
+      "course_content": {
+        "Introduction": [
+          "Business Analytics Introduction and Types of Analytics."
+        ],
+        "Organizational Ecosystem and Roles and Skill set contribution.": [
+          "Organizational Ecosystem and Roles and Skill set contribution."
+        ],
+        "Excel Practice.": [
+          "Conditional Formating, Slicer and Pivot Tables."
+        ],
+        "Formulas and Filtering.": [
+          "Formulas and Filtering."
+        ],
+        "Charts/Plots": [
+          "Charts/Plots"
+        ]
+      },
+      "requirements": [
+        "No prerequisites."
+      ],
+      "description": "In this Interactive course, you will expanse over modules covering Decision Making in Business, Decision Modelling & Data Visualization, Segmentation and Profiling, Lifecycle Management and finally Contextual Marketing.\nLearn the art and science of data driven decision making. This course is ideal for career newbies and professionals who aspire to familiarize and improve their marketing programs with daily commercial/business decision making tools and techniques.\nThe training is structured around industry learnings and practice, all the while augmented with speaker sessions by subject experts. At the end of the session, attendees will be adept with a comprehensive understanding of how primary & secondary data are used for improved business decision making through different models, matrixes and tools.\n\n\nFollowing Topics are included in this course:\nIntroduction\nTypes of Analytics.\nOrganizational Ecosystem.\nRoles and Skill set contribution.\nExcel Practice.\nConditional Formating.\nSlicer.\nPivot Table.\nFormulas and Filtering.\nCharts/Plots\n\n\nWhat are the Training Takeaways:\nYou will learn about improving the marketing programs with daily commercial/business decision making tools and techniques.\nyou will able to learn the art and science of data driven decision making.\nYou will expanse over modules covering Decision Making in Business, Decision Modelling & Data Visualization, Segmentation and Profiling, Lifecycle Management and Contextual Marketing.",
+      "target_audience": [
+        "Fresh Graduates with the passion to pursue their career in Business Analytics.",
+        "Business/Marketing Heads & Executives."
+      ]
+    },
+    {
+      "title": "Cognos Analytics 12.0.4 - G7 Cognos Mobile und KI Assistent",
+      "url": "https://www.udemy.com/course/cognos-analytics-1204-g7-cognos-mobile-und-ki-assistent/",
+      "bio": "Verwendung der Cognos Apps am Smartphone, Tablet und der KI Assistent, Active Report Viewer",
+      "objectives": [],
+      "course_content": {
+        "Einführung": [
+          "Download & Installation der App und Anmeldung am Server",
+          "Überblick Mobile App",
+          "Erstellung eines Boards",
+          "Navigation im Content",
+          "Definieren von Alarmen auf Visualisierungen",
+          "Definieren von Benachrichtigungen",
+          "Boards freigeben für andere Benutzer",
+          "Überblick Reports App"
+        ],
+        "KI Assistant - wir sprechen mit Cognos Analytics": [
+          "Einführung in den Assistenten",
+          "Befehle des Assistenten & Best Practices",
+          "Filtern und Vergleichen mit dem Assistenten",
+          "Dashboard mit Hilfe des Assistenten erstellen",
+          "Key Drivers & Narrative Insights"
+        ]
+      },
+      "requirements": [
+        "Keine speziellen Vorkenntnisse nötig. Der Kurs leitet Schritt für Schritt durch alle Module."
+      ],
+      "description": "Hier ist eine ausführliche Kursbeschreibung für ein Seminar zu IBM Cognos Analytics mit Schwerpunkt auf die Verwendung der Cognos Apps auf mobilen Geräten sowie den KI-Assistenten und den Active Report Viewer.\nIBM Cognos Analytics: Nutzung mobiler Anwendungen, KI-Assistent und Active Report Viewer\nZielgruppe: Analysten, Fachanwender, Führungskräfte, IT-Administratoren\nVoraussetzungen: Grundkenntnisse in IBM Cognos Analytics empfohlen\nKursbeschreibung\nIBM Cognos Analytics bietet leistungsstarke Möglichkeiten zur Analyse und Visualisierung von Daten – nicht nur am Desktop, sondern auch auf mobilen Endgeräten. Dieser Kurs vermittelt Ihnen die optimale Nutzung von Cognos auf Smartphones und Tablets sowie den Einsatz des KI-Assistenten zur Unterstützung Ihrer Analyseprozesse. Außerdem erfahren Sie, wie interaktive Berichte im Active Report Viewer genutzt und bereitgestellt werden können, um datengetriebene Entscheidungen effizient zu unterstützen.\nLernziele\nNach diesem Kurs sind Sie in der Lage:\nDie Cognos Analytics Mobile App auf Smartphones und Tablets effektiv einzusetzen.\nDashboards und Berichte auf mobilen Endgeräten zu navigieren, zu filtern und zu analysieren.\nDen KI-Assistenten in Cognos für natürliche Sprachsuche und automatische Analyseempfehlungen zu nutzen.\nInteraktive Active Reports mit dem Active Report Viewer zu öffnen und zu analysieren.\nWichtige Sicherheits- und Performance-Aspekte der mobilen Nutzung von Cognos zu berücksichtigen.\nKursinhalte\n1. Einführung in Cognos Analytics auf mobilen Geräten\nÜberblick über die Cognos Analytics Mobile App\nInstallation und Einrichtung der App\nAnmeldung und Sicherheitskonzepte für mobile Anwendungen\nUnterstützung für Smartphones und Tablets\nNavigation und Bedienung: Berichte, Dashboards, Lesezeichen\n2. Arbeiten mit Berichten und Dashboards in der Cognos Mobile App\nZugriff auf gespeicherte Berichte und Live-Daten\nInteraktive Filter und Drill-Through-Funktionen\nNutzung von Benachrichtigungen und Warnmeldungen\nOffline-Modus: Arbeiten ohne ständige Serververbindung\n3. Der KI-Assistent in IBM Cognos Analytics\nFunktionsweise des KI-gestützten Assistenten\nDatenabfragen mit natürlicher Sprache (NLQ – Natural Language Querying)\nAutomatische Analyseempfehlungen und Insights\nPraktische Anwendungsfälle für Analysten und Fachanwender\n4. Einführung in den Active Report Viewer\nWas sind Active Reports und wie unterscheiden sie sich von Standardberichten?\nNutzung des Active Report Viewers zur Analyse von Offline-Berichten\nArbeiten mit interaktiven Steuerelementen (Filter, Drilldowns, Diagramme)\nBest Practices für die Erstellung und Verteilung von Active Reports\n5. Best Practices und Performance-Tipps\nOptimierung der Performance für mobile Nutzung\nSicherheitseinstellungen für mobile Geräte\nUnterschiede zwischen Web-Zugriff und nativer App-Nutzung\nInhalte werden vermittelt durch:\nPraxisnahe DemonstrationenZielgruppe\nDieser Kurs richtet sich an alle, die IBM Cognos Analytics auch mobil nutzen möchten, um Berichte und Dashboards von unterwegs aus zu analysieren. Besonders geeignet für:\nFachanwender, die interaktive Berichte und Analysen auf Smartphones oder Tablets nutzen möchten.\nFührungskräfte, die schnell auf aktuelle Berichte zugreifen wollen.\nAnalysten und Datenverantwortliche, die den KI-Assistenten für datengetriebene Entscheidungen einsetzen möchten.\nIT-Administratoren, die den sicheren mobilen Zugriff auf Cognos Analytics ermöglichen sollen.\nVoraussetzungen\nGrundkenntnisse in IBM Cognos Analytics sind von Vorteil, aber nicht zwingend erforderlich. Teilnehmer sollten mit der Navigation in Cognos Analytics vertraut sein und grundlegende Kenntnisse über Berichte und Dashboards besitzen.",
+      "target_audience": [
+        "Datenanalysten",
+        "Fachbereichsanwender z.B. aus dem Controlling",
+        "Manager und Führungskräfte",
+        "BI Entwickler"
+      ]
+    },
+    {
+      "title": "Business Statistic untuk Pemula",
+      "url": "https://www.udemy.com/course/business-statistic/",
+      "bio": "Measurement, Probability, Interval Estimation, Statistical Inference",
+      "objectives": [],
+      "course_content": {
+        "Pengenalan Data, Statistics dan Statistical Measurement": [
+          "Data dan Statistik",
+          "Data dan Statistik (Bagian 2)",
+          "Statistik Deskriptif",
+          "Statistik Deskriptif (Bagian 2)",
+          "Pengenalan Data, Statistics dan Statistical Measurement"
+        ],
+        "Distribusi Probabilitas Dasar, Diskrit dan Probabilitas Kontinu": [
+          "Probability",
+          "Probability (Bagian 2)",
+          "Distribusi Probabilitas Diskrit",
+          "Distribusi Probabilitas Diskrit (Bagian 2)",
+          "Distribusi Probabilitas Berkelanjutan",
+          "Distribusi Probabilitas Berkelanjutan (Bagian 2)",
+          "Distribusi Probabilitas Dasar, Diskrit dan Probabilitas Kontinu"
+        ],
+        "Estimasi Interval": [
+          "Estimasi Interval",
+          "Estimasi Interval (Bagian 2)",
+          "Inferensi Statistik"
+        ],
+        "Inferensi Statistik": [
+          "Tes Hipotesis",
+          "Tes Hipotesis (Bagian 2)",
+          "Analisis Varians",
+          "Analisis Varians (Bagian 2)",
+          "Regresi Linier Sederhana",
+          "Regresi Linier Sederhana (Bagian 2)",
+          "Inferensi Statistik"
+        ]
+      },
+      "requirements": [
+        "Memiliki kemampuan analisis yang baik"
+      ],
+      "description": "Course ini memberikan pemahaman dasar tentang statistik yang umum digunakan untuk mempersiapkan pelajar untuk course statistik yang lebih maju. Course ini menekankan dalam memahami bahan dasar dalam analisis statistik yang sangat diperlukan bagi pelajar untuk membuat keputusan dari data. Materi yang terkandung adalah pengantar tentang data dan statistik, statistik deskriptif, pengantar probabilitas, distribusi probabilitas diskrit, distribusi probabilitas kontinu, distribusi sampling dan sampling, estimasi interval, tes hipotesis, analisis varian, dan regresi linier sederhana. Course ini terkait dengan metodologi penelitian dan tesis.",
+      "target_audience": [
+        "Student yang ingin belajar business statistic"
+      ]
+    },
+    {
+      "title": "Cognos Analytics 11.0.13 - A1 Einführung für Anwender",
+      "url": "https://www.udemy.com/course/einfuhrung-fur-anwender-ibm-cognos-analytics-11013/",
+      "bio": "Grundlagen der Bedienung von IBM Cognos Analytics. Finden und Aufrufen von Objekten, Grundlegende Einstellungen.",
+      "objectives": [],
+      "course_content": {
+        "Überblick Cognos Analytics": [
+          "Überblick Cognos Analytics"
+        ],
+        "Suchen und Finden von Cognos Inhalten": [
+          "Suchen und Finden von Cognos Inhalten"
+        ],
+        "Berichte aufrufen und verwalten": [
+          "Berichte aufrufen und verwalten"
+        ],
+        "Berichte abonnieren und Zeitpläne erstellen": [
+          "Berichte abonnieren",
+          "Zeitpläne erstellen"
+        ],
+        "Veröffentlichen von Cognos Inhalten": [
+          "Veröffentlichen von Cognos Inhalten (Teilen und Einbetten)",
+          "Cognos Berichte und Dashboards als PDF Dokumente per eMail versenden"
+        ],
+        "Zugriffrechte Steuern": [
+          "Sicherheitseinstellungen von Einträgen anpassen"
+        ],
+        "Interaktiver Berichtsmodus": [
+          "Interaktiver Berichtsmodus"
+        ]
+      },
+      "requirements": [
+        "Zugriff auf ein Cognos Analytics System"
+      ],
+      "description": "Der Kurs „IBM Cognos Analytics – Einführung für Anwender“ enthält 7 Abschnitte. Zum erfolgreichen Abschluss werden Fragen gestellt. Der Abschluss aller Lektionen kann mit einem Zertifikat durch den Trainer bestätigt werden.\n\n\nCognos hat mit der Version 11 eine komplett neue Oberfläche enthalten. Neue Anwender, aber auch gerade Umsteiger von älteren Versionen können sich mit diesem Kurs erstmal mit Cognos vertraut machen. Anhand von kleinen Übungen wird die Oberfläche Schritt für Schritt vorgestellt.\n\n\nSEMINARBESCHREIBUNG\nDieser Kurs ist der Grundlagenkurs für alle Anwender von IBM Cognos Analytics. Nach einer Einführung in die Oberfläche werden die wichtigsten Punkte zu Benutzereinstellungen besprochen.\nDie Teilnehmer erarbeiten sich dann die Möglichkeiten zum (zeitgesteuerten) Aufrufen, Exportieren und Verwalten von Cognos Inhalten.\nAuch die Anpassung von interaktiven Standardreports ist Bestandteil dieses Kurses. Hier ergänzen die Teilnehmer in einer Kreuztabelle Berechnungen und Auswertungen und wechseln zu Diagrammdarstellungen.\n\n\nZEITAUFWAND FÜR DIESEN KURS\n8 Stunden\nBeachten Sie, dass dieser Kurs nur die Bedienung aus End-Anwendersicht beschreibt. Diese Grundlage ist für alle Anwender von Cognos Analytics notwendig.\nDie Analyse von Daten und die Erstellung von komplexen Berichten wird in unseren Vertiefungskursen gezeigt.\n\n\nHinweis: Dieser Kurs bezieht sich auf die Funktionalitäten der Version 11.0.13. Viele Unternehmen nutzen schon eine der Nachfolgeversionen 11.1.7 oder 1.2.4. Diese drei Versionen sind sogenannte Long-Term-Support-Versionen und am häufigsten in Unternehmen anzutreffen.",
+      "target_audience": [
+        "Cognos Anwender"
+      ]
+    },
+    {
+      "title": "Menganalisis Data dengan Tableau",
+      "url": "https://www.udemy.com/course/analyzing-data-with-tableau/",
+      "bio": "Konsep Business Intelligence, Tableau Public",
+      "objectives": [],
+      "course_content": {
+        "Pengenalan Tableau": [
+          "Overview",
+          "Pengenalan Tableau",
+          "Masuk ke Tableau",
+          "Lembar Kerja Tableau",
+          "Menggabungkan 2 Tabel",
+          "Pengenalan Tableau"
+        ],
+        "Menerapkan Tableau Publik dan Menganalisis Data dengan Tableau": [
+          "Membuat Visualisasi Data",
+          "Mengatur Jenis Grafik dan Warna",
+          "Menerapkan Fitur Filter dan Sorting",
+          "Mempublikasikan Lembar Kerja",
+          "Menggunakan Fitur Trendline dan Forecast",
+          "Membangung Dasbor",
+          "Menerapkan Tableau Publik dan Menganalisis Data dengan Tableau"
+        ]
+      },
+      "requirements": [
+        "Tableau"
+      ],
+      "description": "Course ini merupakan bagian dari sistem intelijen kompetitif bisnis, dengan fokus Menganalisis Data dengan Tableau untuk mengorganisasikan data menjadi informasi, informasi menjadi knowledge, serta dashboard sebagai kebutuhan dalam mendukung keputusan bisnis. Setelah mengikuti mata kuliah ini, mahasiswa diharapkan mampu memahami konsep Business Intelligence dan menggunakan BI Tools (Tableau Public), mengoperasikan Tableau Public, menyiapkan dan menghubungkan data di lembar kerja Tableau, memahami pentingnya visualisasi data, mengetahui berbagai jenis grafik dan kegunaannya, mampu menggunakan grafik yang tepat untuk menyelesaikan permasalahan yang memerlukan analisis data dan membuat dashboard interaktif di Tableau.\n\n\nTotal durasi pembelajaran antara 100 – 150 menit dengan materi yang telah disusun sedemikian rupa agar mudah dicerna, dipahami dan dilaksanakan dengan baik. Dengan menggunakan Tableau Public yang bersifat open source, gratis, dan dapat diakses secara online, para peserta akan dapat menggunakan Tableau Public untuk memanipulasi dan menyiapkan data untuk dianalisis melalui koneksi ke sumber data, menggabungkan tabel, dan menghasilkan dasbor interaktif yang akan membantu orang mengambil keputusan dan mengambil tindakan berdasarkan data bisnis mereka. Pembelajaran dan tutorial Menganalisis Data dengan Tableau ini juga mendemonstrasikan cara membuat dashboard di Tableau yang dapat membantu perusahaan untuk membuat keputusan manajemen yang lebih baik berdasarkan analisis data-data terkini maupun data historikal, serta memberikan laporan yang bersifat prediktif dalam konteks bisnis.\nKomposisi materi course ini meliputi:\nPengenalan Tableau\nLogin ke Tableau\nLembar Kerja Tableau\nMenggabungkan 2 Tabel\nMembuat Visualisasi Data\nMengatur Jenis Grafik dan Warna\nMenerapakan Fitur Filter dan Sort\nMempublikasikan Lembar Kerja\nMenggunakan Fitur Trendline dan Forecast\nMembangun Dashboard.",
+      "target_audience": [
+        "Yang ingin mempelajari analisis data dengan tableau"
+      ]
+    },
+    {
+      "title": "Metodologi Penelitian untuk Pemula",
+      "url": "https://www.udemy.com/course/research-methodology/",
+      "bio": "The Broad Problem Area, Problem Statement , Quantitative Data Analysis, Theoretical Framework & Hypothesis Development",
+      "objectives": [],
+      "course_content": {
+        "Metode Penelitian": [
+          "Pengantar Penelitian",
+          "The Broad Problem Area dan mendefinisikan Problem Statement – 1",
+          "The Broad Problem Area dan mendefinisikan Problem Statement – 2",
+          "Kerangka Teoretis dan Pengembangan Hipotesis",
+          "Elemen Desain Penelitian",
+          "Pengukuran Variabel",
+          "Metode Pengumpulan Data dan Pengambilan Sampel",
+          "Analisis Data Kuantitatif",
+          "Analisis Data Kuantitatif (Teknik Pengumpulan Data)",
+          "Analisis Data Kuantitatif (Prosedur Penelitian)",
+          "Analisis Data Kualitatif (Menganalisis Data)"
+        ]
+      },
+      "requirements": [
+        "Menguasai matematika dasar"
+      ],
+      "description": "Topik yang disajikan dalam mata kuliah ini adalah tentang Metodologi Penelitian. Kursus ini mendefinisikan penelitian bisnis sebagai penyelidikan atau penyelidikan yang terorganisir, sistematis, berbasis data, kritis, objektif, ilmiah atau investigasi ke dalam masalah tertentu, yang dilakukan dengan tujuan menemukan jawaban atau solusi untuk itu. Setelah mempelajarinya, Student harus dapat melakukan penelitiannya.\nMateri yang akan dibahas pada course ini antara lain:\nPengantar Penelitian\nThe Broad Problem Area dan Defining The Problem Statement – Bagian 1\nThe Broad Problem Area dan Defining The Problem Statement – Bagian 2\nKerangka Teoretis dan Pengembangan Hipotesis\nElemen Desain Penelitian\nPengukuran Variabel\nMetode Pengumpulan Data dan Pengambilan Sampel\nAnalisis Data Kuantitatif\nAnalisis Data Kuantitatif (Teknik pengumpulan data)\nAnalisis Data Kuantitatif (Prosedur Penelitian)\nAnalisis Data Kualitatif (Menganalisis Data)\n\n\nSetelah menyelesaikan course ini, diharapkan student dapat:\nStudent mampu mendeskripsikan dan mendefinisikan riset bisnis, membedakan riset terapan dan riset dasar\nStudent akan dapat mengidentifikasi area masalah dan mempersempit masalah yang luas menjadi topik yang layak untuk penelitian\nStudent mampu mengembangkan rumusan masalah dan tujuan penelitian yang baik\nStudent akan dapat mengidentifikasi dan melabeli variabel yang terkait dengan penelitian\nStudent akan dapat mendefinisikan hubungan antar variabel dan mengembangkan kerangka teori\nStudent akan dapat mengembangkan serangkaian hipotesis penelitian mereka\nStudent dapat menyatakan hipotesis pada bilangan nol dan alternatifnya\nStudent akan dapat menunjukkan kemampuan untuk menyiapkan data untuk analisis kuantitatif dan mengoperasikan analisis deskriptif dan inferensial\nStudent mampu melakukan operasionalisasi variabel\nStudent dapat memahami teknil pengumpulan data dalam penelitian kualitatif, dapat mengatur semua jenis data kualitatif didalam NVivo 12, dan dapat mendemostrasikan NVivo 12",
+      "target_audience": [
+        "Pelajar yang ingin belajar Metodologi Penelitian"
+      ]
+    },
+    {
+      "title": "Guías de Reportes Exportables de Sellia",
+      "url": "https://www.udemy.com/course/guias-de-reportes-exportables-de-sellia/",
+      "bio": "Manejo y Gestión para Administradores",
+      "objectives": [],
+      "course_content": {
+        "Reportes Exportables": [
+          "Reporte de Conversaciones",
+          "Reporte de Conversaciones + Mensajes",
+          "Reporte de Conversaciones de WhatsApp",
+          "Reporte de Bot Inicio - Fin",
+          "Reporte de Bot",
+          "Reporte de Bot Last Step",
+          "Reporte de Clientes",
+          "Reporte de Intervalos",
+          "Reporte de Intervalos por Día",
+          "Reporte de Resumen",
+          "Reporte de Templates",
+          "Reporte de Tiempo de Agentes",
+          "Reporte Quincenal"
+        ]
+      },
+      "requirements": [
+        "Ser usuario de un perfil Administrador de Sellia"
+      ],
+      "description": "Este curso ayudará a entender de mejor manera los datos e información que incluyen los reportes exportables de Sellia, de esta forma será mucho más fácil la interpretación de los datos para poder llevar una mejor labor de interpretación y análisis.\n\nHoy en día es de suma importancia conocer el comportamiento de nuestro mercado y usuarios finales, esto nos es de gran ayuda para poder crear y desarrollar estrategias mucho mejor planeadas y directas, esto con la finalidad de obtener mejores resultados.\n\n\nEl análisis de datos contribuye de mucha forma para poder realizar esto, ya que conocer el comportamiento nos ayudará a lo que mencionamos anteriormente, con los reportes exportables de Sellia ponemos a su disposición una gran variedad de reportes exportables que recaudarán una gran cantidad de datos de suma importancia de todo tipo, reportes de conversaciones, de mensajes, de conexión de agentes, montos por cobrar, interacciones, entre muchas otras cosas más. Una de la gran ventaja es que esta información de gran utilidad será propiedad totalmente de ustedes, pueden extraer a información y hacer uso de ella para material y/o reportes internos de su compañía.\n\n\nLos reportes exportables pueden encontrarlos en el menú de \"Reportes\" de su sesión de Administrador de Sellia, la forma de utilizarlos es muy sencilla, pueden filtrar por campañas, fechas y reportes. Cualquier duda pueden consultar nuestro curso de Administradores de Sellia.",
+      "target_audience": [
+        "Cualquier usuario de la plataforma de Sellia Enterprise/Franquicias"
+      ]
+    },
+    {
+      "title": "People Analytics: Aplicaciones en Recursos Humanos",
+      "url": "https://www.udemy.com/course/people-analytics-recursos-humanos/",
+      "bio": "People Analytics | HR | Recursos Humanos | Reclutamiento | Coaching | Data Analytics | Tecnología | Psicología | Google",
+      "objectives": [],
+      "course_content": {
+        "Introducción": [
+          "¿Qué es People Analytics?",
+          "Analítica en Reclutamiento",
+          "Analítica en Gestión de Desempeño",
+          "Analítica en Capacitación",
+          "Analítica en Bienestar y Compromiso",
+          "Necesidad de Estudiantes y Profesionales",
+          "Sistemas People Analytics",
+          "NOM-035 con People Analytics"
+        ],
+        "El Cambio de la Gestión de Talento": [
+          "Evolución de Capital Humano",
+          "Beneficios de People Analytics",
+          "Uso Efectivo de IA con People Analytics",
+          "Reflexiones Filosóficas",
+          "Abre las Posibilidades"
+        ]
+      },
+      "requirements": [
+        "Pasión por las personas y la gestión del talento."
+      ],
+      "description": "¿Te interesa transformar Recursos Humanos con tecnología y datos? Este curso gratuito te ofrece una introducción clara y reflexiva a People Analytics, la disciplina que está revolucionando el área de RRHH en empresas modernas.\nAprenderás cómo se aplica People Analytics en procesos clave como el Reclutamiento y Selección, la Capacitación y Desarrollo, la Gestión del Desempeño y la implementación de la NOM-035, utilizando datos para tomar mejores decisiones organizacionales. Exploraremos también cómo la Inteligencia Artificial está impactando el talento humano y por qué es fundamental que los profesionales de Recursos Humanos se adapten a esta transformación digital.\nAdemás, este curso no se queda solo en la parte técnica. Te invita a reflexionar filosóficamente sobre el uso ético de los datos en la gestión de personas, cuestionando si estamos siguiendo preceptos idealistas que conllevan a pérdidas y sufrimiento o si con tecnología partimos desde el material estructural para mejorar la Calidad de Vida Laboral de las y los colaboradores.\nIdeal para estudiantes, profesionistas y consultores que buscan dar el primer paso en el mundo del People Analytics, este curso te dejará listo para avanzar hacia un enfoque más estratégico, innovador y humano en la gestión del talento.\n¡Inscríbete ahora y disfruta de nuestra experiencia!",
+      "target_audience": [
+        "Estudiantes y egresados de Psicología, Recursos Humanos, Administración y afines.",
+        "Profesionales de RRHH que desean modernizar sus procesos con datos y tecnología.",
+        "Personas interesadas en aplicar People Analytics en reclutamiento, capacitación o desempeño.",
+        "Consultores, coaches o formadores que buscan integrar herramientas analíticas a sus servicios.",
+        "Líderes de talento humano que quieren tomar decisiones estratégicas con base en evidencia.",
+        "Personas curiosas por la evolución del pensamiento organizacional frente a la inteligencia artificial.",
+        "Quienes buscan reflexionar sobre el papel ético y filosófico del uso de datos en la gestión de personas."
+      ]
+    },
+    {
+      "title": "İş Zekâsı ve İş Analitiği: Veri Odaklı Karar Almak",
+      "url": "https://www.udemy.com/course/is-zekasi-ve-is-analitigi-veri-odakli-karar-almak/",
+      "bio": "İş Zekâsı, İş Analitiği ve Veri Görselleştirme ile Stratejik Kararlar Alın, Veriye Dayalı İş Süreçlerini Optimize Edin",
+      "objectives": [],
+      "course_content": {
+        "Introduction": [
+          "Tanıtım",
+          "İş Zekası Nedir?",
+          "İş Zekası Nedir? (2)",
+          "İş Zekası Yazılımlarının Genel Yapısı",
+          "MS PowerBI Nedir?",
+          "Tableau Nedir?",
+          "Qlik Nedir?",
+          "M Power BI Örnek Raporları",
+          "Patisserie Proje Tanıtım",
+          "Dinamik Raporu HTML Paylaşma",
+          "İhtiyaçlardan Gereksinimlere",
+          "Minimum Viable Product",
+          "Competitive Intelligence",
+          "Stop Scope Creep"
+        ]
+      },
+      "requirements": [
+        "Öğrenme isteği."
+      ],
+      "description": "Bu kurs, iş zekâsı ve iş analitiği kavramlarını anlamak, veri odaklı karar alma süreçlerini geliştirmek ve stratejik düşünme becerilerini artırmak isteyen herkes için hazırlanmıştır. Bir yazılım eğitimi sunmayan bu kurs, iş zekâsının temel prensiplerini ve farklı sektörlerde nasıl uygulandığını ele alır. İş dünyasında veriye dayalı karar alma süreçleri giderek daha önemli hale gelirken, iş zekâsı ve analitik yaklaşımlar şirketlerin rekabet avantajı elde etmesine yardımcı olmaktadır.\nBu eğitimde, veri toplama ve analiz süreçlerinin iş stratejilerine nasıl entegre edileceğini, iş zekâsının organizasyonel yapılar üzerindeki etkilerini ve lider şirketlerin bu süreçleri nasıl yönettiğini öğreneceksiniz. Ayrıca, veri görselleştirme ve raporlama yöntemlerinin karar alma süreçlerinde nasıl kullanıldığını keşfedeceksiniz.\nGerçek hayattan örneklerle desteklenen bu kurs, iş zekâsı ve analitiğin farklı iş alanlarındaki uygulamalarını anlamanıza yardımcı olacak. Veriyi nasıl kullanacağınızı bilmek, iş dünyasında daha bilinçli ve etkili kararlar almanızı sağlar.\nAyrıca, iş zekâsının yalnızca büyük şirketler için değil, küçük ve orta ölçekli işletmeler için de nasıl kritik bir rol oynadığını göreceksiniz. İş analitiği ile pazar eğilimlerini anlama, operasyonları optimize etme ve geleceğe yönelik stratejik tahminler yapma gibi konulara da değineceğiz. Bu bilgileri kullanarak kendi sektörünüzde fark yaratabilir, daha bilinçli kararlar alarak iş süreçlerinizi geliştirebilirsiniz. Siz de bu kursa katılarak veri odaklı iş süreçlerini anlamaya ve profesyonel gelişiminizi desteklemeye adım atabilirsiniz!",
+      "target_audience": [
+        "İş zekâsı ve iş analitiği konularına ilgili olan herkes."
+      ]
+    },
+    {
+      "title": "Tableauデータ可視化 Part1",
+      "url": "https://www.udemy.com/course/tableau-part1/",
+      "bio": "ビジネス現場で役立つ！Tableauによる効果的なデータ分析",
+      "objectives": [],
+      "course_content": {
+        "紹介": [
+          "この講座を提供しているpicture academyについて",
+          "Tableauデータ可視化 Part1 テキスト"
+        ],
+        "Tableauデータ可視化 Part1": [
+          "可視化の考え方、BIツールとは",
+          "Tableauの特徴/様々なBIツールの使い分け",
+          "効果的な業務ダッシュボードとは、可視化分析の事例の紹介",
+          "可視化分析の事例の紹介その２"
+        ]
+      },
+      "requirements": [
+        "特別な事前のスキルや経験は不要です。データ分析やBIツールに興味がある初心者から中級者まで、幅広く対応しています。",
+        "PCとインターネット接続環境が必要です。Udemyのプラットフォーム上で講座を受講するためにはこれらが必須となります。",
+        "Tableauのインストールは推奨です。コース内での基本操作や事例をフォローするために役立ちます。",
+        "好奇心と学ぶ意欲。本講座は実践的な知識とスキルを習得することを目的としているので、積極的に学び取る姿勢があればより効果的に学べます。"
+      ],
+      "description": "現代のビジネス界において、データ分析は欠かせないスキルとなっています。その中心に位置するのがデータ可視化。本コースでは、データ可視化の魅力とその重要性を理解するところからスタートします。\n\n\n「Tableau」という人気の高いBIツールを中心に、様々なBIツールの特性や使い分け、効果的な業務ダッシュボードの設計方法など、実践的な内容を深く掘り下げて学びます。さらに、データ分析官の現場からのリアルな可視化分析事例を多数紹介。これにより、理論だけでなく、実務での具体的なアプローチ方法も手に入れることができます。\n\n\n本コースのハイライト：\nデータ可視化の基本から、Tableauを用いた高度な分析テクニックまでを網羅。\nBIツールの種類やその使い方を徹底的に解説。\n現場でのリアルな事例を通じて、効果的なダッシュボードの作成方法を学べる。\n約1時間半の充実した講義動画と資料で、初心者から中級者までしっかりサポート。\nデータ分析の世界に飛び込みたい、既存の知識をさらに深めたいという方には最適なコースです。今、データをアートのように美しく、そして有効に表示するスキルを手に入れ、ビジネスの現場で差をつけましょう！",
+      "target_audience": [
+        "データ可視化に興味を持っている初心者：基礎から応用までをしっかり学ぶことができます。",
+        "既存のBIツールの使い方に不満を感じている方：様々なツールの特性と使い分けを学ぶことで、より適切なツールの選択ができるようになります。",
+        "ビジネスの現場で効果的なダッシュボードを作成したい方：業務に活かせるダッシュボードの設計方法や、実践的な事例を通じてのスキルアップが期待できます。",
+        "データ分析やBIに関するキャリアアップを目指す方：現場の事例やTableauの詳細な使い方を学ぶことで、より高度な分析スキルを習得できます。"
+      ]
+    },
+    {
+      "title": "PowerBIでサクッとグラフを作成・データ分析の新しい可能性を開け！Microsotfユーザーが無料で使える分析ソフト",
+      "url": "https://www.udemy.com/course/excel_power-bi/",
+      "bio": "Excelの表をPower BIで動的に可視化し、操作するたびに変化するレポート作成を体験！フィルター操作で効率的なデータ分析が可能に。短時間でMicrosoft Power BIの基本を学び、ビジネスインテリジェンスの第一歩を踏み出そう！",
+      "objectives": [],
+      "course_content": {
+        "第１章 はじめに": [
+          "得られる未来（PowerBIの動くグラフがすごい！）",
+          "概要とコース構成",
+          "演習ファイルのダウンロード"
+        ],
+        "第２章 Excelでのデータ分析の基本": [
+          "【重要】テーブル表とクロス表の違い"
+        ],
+        "第３章 ExcelとPowerBIの違い": [
+          "Excelでテーブルをクロス表へ変換（ピボットテーブルの基本）",
+          "様々なクロス表を作ってみる（ピボットテーブルの発展）",
+          "PowerBIで同じグラフを作る実演"
+        ],
+        "第４章 PowerBIでのデータ分析の基本": [
+          "インストール＆PowerBI起動",
+          "データの読込み＆画面構成",
+          "基本的なグラフの作り方（棒グラフ・円グラフ）",
+          "保存＆データ読み込みに関する補足（テーブル機能紹介）"
+        ],
+        "さいごに": [
+          "さいごに"
+        ],
+        "ボーナスレクチャー": [
+          "ボーナスレクチャー"
+        ]
+      },
+      "requirements": [
+        "必須: Windows PCにMicrosoft Power BI Desktopをインストールできる環境があること（無料でダウンロード可能）。",
+        "必須: 基本的なコンピュータ操作ができること（ファイルの保存やソフトウェアのインストールなど）。",
+        "推奨:Excelを触ったことがない初心者でも、学びたい意欲があれば十分です。"
+      ],
+      "description": "■このコースの概要説明\nデータ分析を始めたいけれど、何から手を付ければよいかわからない…。\nExcelを使ったことがないけれど、データの可視化に興味がある…。\n動的でインタラクティブなレポート作成を体験してみたい…。\nそんなあなたのためのコースです！\nこのコースでは、Microsoft Power BIの基本的な使い方を初心者でも簡単に学べる内容に特化しています。特にExcelの知識が不要なため、これからデータ分析を始める方にぴったりです。\nコース本編の内容は以下の通りです：\n第1章: はじめに（得られる未来、コースの概要）\n第2章: データ分析を始める前の土台（テーブル表とクロス表の違い）\n第3章: ExcelとPower BIの違い（基本的なデータの変換や操作）\n第4章: Power BIでのデータ分析の基本（データの読み込み、基本グラフ作成）\n■コースを受講するとできること\nこのコースを受講すると、以下のスキルや知識が身につきます：\nPower BIを初めて使う方でも、自信を持って基本操作を行えるようになります。\nExcelの表形式データをPower BIにインポートして可視化する方法を理解できます。\n動的に変化するインタラクティブなレポートを作成する基礎を体験できます。\nフィルターやスライサーを使って、効率的にデータを操作する方法を学べます。\nPower BIを使うことで、日常業務や個人プロジェクトでデータを活用するイメージが持てます。\n■こんな方が受講に向いています\nデータ分析に興味があるけれど、初心者で何から始めればよいか悩んでいる方。\nExcelや表計算ソフトの代わりに、簡単で効率的な可視化ツールを探している方。\n業務やプロジェクトで役立つ、動的なグラフ作成に興味がある方。\nPower BIをこれから学び始めたいが、時間やコストを抑えたい方。\nデータ可視化ツールの基礎を体験してみたい方。\n■必要なツールや要件\nWindows PCにMicrosoft Power BI Desktopをインストールできる環境が必要です（無料ダウンロード可能）。\n基本的なコンピュータ操作ができること（ファイル保存、ソフトウェアインストールなど）。\nExcelの知識がなくても大丈夫ですが、データ操作に興味がある方が適しています。\n皆さまのご参加を心よりお待ちしております！\n\nまっち",
+      "target_audience": [
+        "Power BIを初めて触れる初心者で、基本的な使い方を簡単に体験したい方。",
+        "Excelや表計算ソフトの代わりに、より効率的なデータ可視化ツールを探している方。",
+        "業務や日常でデータを活用したいが、専門知識や複雑な操作に自信がない方。",
+        "ビジネスインテリジェンスツールの活用を始めたいが、時間やコストをかけずに最初の一歩を踏み出したい方。"
+      ]
+    },
+    {
+      "title": "はじめてのデータサイエンス",
+      "url": "https://www.udemy.com/course/pa_datascience_gairon/",
+      "bio": "2時間で理解するデータサイエンスの世界",
+      "objectives": [],
+      "course_content": {
+        "紹介": [
+          "この講座を提供しているpicture academyについて",
+          "教材（テキスト・演習）"
+        ],
+        "はじめてのデータサイエンス": [
+          "AI・機械学習・データ分析の基本概念と流れ",
+          "特徴量とは・特徴量設計の大切さ",
+          "様々な機械学習モデルの特徴と活用例",
+          "機械学習・ディープラーニングの活用事例"
+        ]
+      },
+      "requirements": [
+        "スキルや経験: 特に必要ありません。データサイエンスやAIに関する知識がない初心者の方も安心して受講できます。",
+        "ツール: 本講座は主に講義動画を中心に進行しますので、動画を視聴できるデバイス（PC、タブレット、スマートフォンなど）が必要です。",
+        "機器: インターネット接続が可能な環境であること。"
+      ],
+      "description": "『はじめてのデータサイエンス』講座は、現代のビジネス環境で不可欠となっているデータリテラシーを習得するための入門コースです。この講座では、わずか2時間の講義と演習を通じて、データサイエンスの基本的な概念や技術を体系的に学ぶことができます。\n講座の内容は、AI、機械学習、ディープラーニングなどの最重要概念の紹介から始まり、これらの技術がどのように日常のアプリケーションやビジネスに応用されているかの実例を交えて解説します。特に、機械学習の活用事例やデータ分析の具体的な流れ、代表的な機械学習手法の特徴と用途、ディープラーニング技術の特性など、幅広いトピックを網羅しています。\nさらに、この講座は初心者を対象としており、多くのデータサイエンティストを育て上げてきた講師が、参加者一人ひとりの理解を深めるために、丁寧に講義を進めます。講座の終了時には、データサイエンスの基本的な知識をしっかりと身につけ、それを実際のビジネスや研究に応用するための第一歩を踏み出すことができるでしょう。",
+      "target_audience": [
+        "データサイエンス入門者: データサイエンスやAIに興味を持ち、基本知識を一通り広く学びたい方。",
+        "ビジネストランスレーター: ビジネス課題と技術の両方を理解し、両者の橋渡しをする役割を目指す方。",
+        "データサイエンス実践・資格取得希望者: 今後、データサイエンスの実践講座や資格講座に挑戦したいと考えている方。"
+      ]
+    },
+    {
+      "title": "DAX Best Practices in Power BI –Performance & Clean(தமிழில்)",
+      "url": "https://www.udemy.com/course/powerbi-dax-best-practices-tamil/",
+      "bio": "Learn how to write efficient, clean, and production-ready DAX in Tamil – with real-world tips, examples, and performance",
+      "objectives": [],
+      "course_content": {
+        "Introduction": [
+          "Intro to DAX Best Practices"
+        ],
+        "Improve DAX Clarity with Variables and Smart Measures": [
+          "Use Variables & Avoid Calculated Columns",
+          "DAX Variables & Measures vs Calculated Columns"
+        ],
+        "Mastering SUMX, CALCULATE & DIVIDE for Efficient DAX": [
+          "SUMX, CALCULATE, DIVIDE()",
+          "Iterators, Context & Safe Calculations"
+        ],
+        "Smarter DAX Logic: IF Alternatives & Filter Functions": [
+          "Nested IF, REMOVEFILTERS vs ALL()",
+          "Filter Logic & Code Optimization"
+        ],
+        "DAX Formatting, Display Folders & Comments Best Practices": [
+          "Formatting, Folders, Comments",
+          "Writing Clean & Organized DAX"
+        ],
+        "Final Thoughts: Apply DAX Best Practices": [
+          "Wrap-up + Final Tips"
+        ]
+      },
+      "requirements": [
+        "Power BI Desktop install பண்ணிருக்க வேண்டும் (Free-ஆ Microsoft site-ல இருந்து download பண்ணலாம்)",
+        "Power BI-யில் basic visuals create பண்ணற knowledge இருக்கணும்",
+        "Basic DAX functions (like SUM, AVERAGE, COUNT) பற்றி idea இருந்தா போதும்",
+        "Laptop or PC with Windows OS (Power BI Desktop Windows-ல தான் support ஆகும்)",
+        "Interest to improve your DAX performance and code clarity"
+      ],
+      "description": "இந்த course, Power BI-யில் DAX-ஐ deep-ஆன level-ல் புரிஞ்சிக்க விரும்பும் தமிழ் பேசும் learners-க்கு special-ஆ design பண்ணிருக்கேன். Day-to-day business scenarios-க்கு suit ஆகுற மாதிரி, real-world examples use பண்ணி, DAX best practices-ஐ நீங்க complete-ஆ கற்றுக்கலாம்.\nஇந்த course-ல நீங்க கற்றுக்கப்போற விஷயங்கள்:\nVAR keyword use பண்ணி complex formulas-ஐ readable-ஆவும், maintainable-ஆவும் simplify பண்ணுறது\nCalculated Columns avoid பண்ணி Measures-ஐ efficient-ஆ use பண்ணுற decision-making\nIterators like SUMX எப்படி performance-ஐ affect பண்ணும் – and when to use it properly\nCALCULATE()-ஐ use பண்ணி filter context-ஐ smart-ஆ modify பண்ணுறது\nDIVIDE() function-ஐ use பண்ணி divide-by-zero errors avoid பண்ணுறது\nNested IF statements avoid பண்ணுற alternatives\nALL() vs REMOVEFILTERS() – advanced filtering strategy\nDisplay Folders, comments & formatting styles use பண்ணி neat-ஆ DAX எழுதுறதுக்கு tips\nஇது just theory இல்ல. ஒவ்வொரு concept-க்கும் practical demo இருக்கும். Beginners-க்கும் intermediate-க்கும் சுலபமா புரிய customize பண்ணியிருக்கேன்.\nCourse-ல் cover பண்ணற content-ஐ real-world Power BI projects-ல எப்படி use பண்ணலாம்-னு final section-ல் tips கொடுக்கிறேன். Interviews-க்கும் useful pointers இருக்கும்.\nஇந்த course-ஐ முடிச்சதுக்கப்புறம், நீங்க ஒரு professional DAX developer மாதிரி, faster, cleaner, and more optimized code எழுதத் தொடங்குவீங்க. இது future Power BI projects-க்கு ஒரு solid foundation-ஆ இருக்கும்.\nAlso, industry-ல commonly பண்ணுற mistakes avoid பண்ண tips & real-time performance comparison-களும் shared பண்ணிருக்கும்.\nIf you're looking to write better DAX, improve Power BI performance, and stand out in your job or freelance career — இந்த course உங்களுக்கு perfect pick.",
+      "target_audience": [
+        "Power BI already use பண்ணிட்டு இருக்கிற learners, especially those who want to improve their DAX skills",
+        "Beginners who know basic visuals and simple DAX functions",
+        "Data Analysts, BI Developers, or Excel users moving to Power B",
+        "Professionals preparing for Power BI job interviews",
+        "Tamil-speaking learners who want to understand DAX concepts clearly in their native language",
+        "Anyone struggling with DAX performance, filter context, or formula clarity"
+      ]
+    },
+    {
+      "title": "الذكاء الاصطناعي للجميع: دليل بسيط وودود للعقول الفضولية",
+      "url": "https://www.udemy.com/course/ai-terms-definitions-ar-free/",
+      "bio": "دورة مبسطة وشاملة في الذكاء الاصطناعي، صُممت بمحبة للأطفال، والأشخاص ذوي الهمم ، وكل من يحتاج إلى أسلوب تعليمي لطيف",
+      "objectives": [],
+      "course_content": {
+        "مقدمة تعريفية": [
+          "المقدمة"
+        ],
+        "الذكاء الاصطناعى وتعليم الآلة": [
+          "أنواع تعليم االآلة"
+        ],
+        "أنواع الذكاء الاصطناعى": [
+          "شرح تفصيلى لأنواع الذكاء الاصطناعى"
+        ],
+        "أهمية الذكاء الاصطناعى": [
+          "شرح تفصيلى لماذا الطلب متزايد الآن على الذكاء الاصطناعى وتطبيقاتة"
+        ],
+        "ما هى نوعية المشاكل التى يستطيع الذكاء الاصطناعى حلها؟ ولماذا؟": [
+          "شرح بالتفصيل كيفية تدريب الآلة على تكوين نموذج لحل المشكلات"
+        ]
+      },
+      "requirements": [
+        "تحت إشراف الوالدين أو المشرفين الكبار: يُشترط أن يكون المشاركون تحت إشراف بالغين أثناء الدورة.",
+        "لا توجد خبرة سابقة مطلوبة: الدورة مصممة لتكون مناسبة للجميع، بغض النظر عن مستوى المعرفة السابق.",
+        "الاهتمام بالتكنولوجيا: يجب أن يكون لدى المشاركين رغبة في استكشاف عالم الذكاء الاصطناعي والتكنولوجيا."
+      ],
+      "description": "يفضل أن تتم هذه الدورة بإشراف أحد الوالدين، أو المعلمين، أو مقدمي الرعاية، وهي مصممة لتشجيع الأطفال، وبناء الثقة، وفتح أبواب المستقبل\nمرحبًا بك في دورة \"الذكاء الاصطناعي للجميع\" — دورة مبسطة ودافئة، مصممة خصيصًا للأطفال، والمتعلمين الفريدين، و ذوي الهمم الخاصة.\nفي هذه الدورة، سنستكشف معًا عالم الذكاء الاصطناعي المدهش بطريقة ودودة، بصرية، وسهلة الفهم. سنتعرف على ما هو الذكاء الاصطناعي فعلاً، وأنواعه المختلفة، والفرق بينه وبين التعلم الآلي والتعلم العميق — وكل ذلك من خلال أمثلة واقعية وشرح بسيط.\nسنجيب عن أسئلة ممتعة مثل:\n\no هل يمكن للكمبيوتر أن يفكر مثل الإنسان؟\no كيف يرشح لنا يوتيوب ما الذي نريد مشاهدته؟\no هل يمكن للذكاء الاصطناعي مساعدة من لا يستطيع الرؤية أو التحدث؟\no والأهم من ذلك، سنكتشف كيف يساعد الذكاء الاصطناعي الناس بالفعل في حياتهم اليومية، وخاصة من لديهم احتياجات خاصة — من المساعدين الصوتيين الذين يساعدوننا على التحدث، إلى أدوات ذكية تدعم التعلم والحركة والتواصل.\no مهما كانت طريقتك في التعلم.\no فلنبدأ هذه الرحلة الرائعة معًا — لأن الذكاء الاصطناعي يجب أن يكون لكل عقل، ولكل قلب\no سنتناول أسئلة مثيرة مثل:\no كيف يساعد الذكاء الاصطناعي الأشخاص الذين لا يستطيعون الرؤية أو الكلام؟\n\n\nسنستكشف أيضًا كيف يساهم الذكاء الاصطناعي في تحسين حياة الأشخاص ذوي الاحتياجات الخاصة، من خلال أدوات ذكية مثل المساعدات الصوتية، وتقنيات الدعم في التعليم، والحركة، والتواصل.\nهذه الدورة مثالية للتعلّم تحت إشراف أحد الوالدين، المعلمين، أو مقدمي الرعاية، وهي تهدف إلى إثارة الفضول، وبناء الثقة بالنفس، وفتح الأبواب أمام المستقبل — لكل من يرغب في فهم التقنية بلغة بسيطة وقلب مفتوح.\nلنبدأ رحلتنا سويًا، لأن الذكاء الاصطناعي يجب أن يكون متاحًا لكل عقل، ولكل إنسان.",
+      "target_audience": [
+        "ذوي الهمم الخاصة: تُعتبر الدورة فرصة مميزة لذوي الهمم الخاصة لتعزيز مهاراتهم وتطوير قدراتهم في بيئة داعمة.",
+        "الأطفال: الدورة موجهة للأطفال الذين يرغبون في استكشاف التكنولوجيا والذكاء الاصطناعي بطريقة ممتعة وتعليمية.",
+        "المبتدئون في مجال التكنولوجيا: تُناسب الدورة جميع المبتدئين الذين يسعون لتوسيع معرفتهم ومهاراتهم في هذا المجال."
+      ]
+    }
+  ]
+}

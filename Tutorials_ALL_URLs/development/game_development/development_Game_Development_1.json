@@ -1,0 +1,2054 @@
+{
+  "main_category": "development",
+  "sub_category": "Game Development",
+  "courses": [
+    {
+      "title": "Make a 2.5D Game with Godot 4 (2025 UPDATED with Godot 4.4)",
+      "url": "https://www.udemy.com/course/adventurer-andie-learn-to-make-a-2point5d-platformer-with-godot/"
+    },
+    {
+      "title": "Create a Complete Online Co-Op Multiplayer Game in Godot 4",
+      "url": "https://www.udemy.com/course/create-a-complete-online-cooperative-multiplayer-game-in-godot-4/"
+    },
+    {
+      "title": "Beginner VR Oculus Rift Development with Unity3D",
+      "url": "https://www.udemy.com/course/developing-oculus-rift-vr-applications-with-unity3d/"
+    },
+    {
+      "title": "Unreal: The complete guide for game level design in Unreal 4",
+      "url": "https://www.udemy.com/course/unreal-the-complete-guide-for-game-level-design-in-unreal-4/"
+    },
+    {
+      "title": "Three.js & WebGL 3D Programming Crash Course (VR, OpenGL)",
+      "url": "https://www.udemy.com/course/threejs-programming/"
+    },
+    {
+      "title": "Unreal 5 Stealth Combat: Make Stealth Games in UE5 Blueprint",
+      "url": "https://www.udemy.com/course/unreal-5-stealth-combat/"
+    },
+    {
+      "title": "Unreal Engine 5 Beginner Blueprints: Make your first game!",
+      "url": "https://www.udemy.com/course/unrealengine5-make-your-first-game/"
+    },
+    {
+      "title": "Learning Unreal Engine: From Beginner To Advanced",
+      "url": "https://www.udemy.com/course/learning-unreal-engine-from-beginner-to-pro/"
+    },
+    {
+      "title": "Learn to Build a 3D Puzzle Game with Unity",
+      "url": "https://www.udemy.com/course/3dmotive-learn-to-build-a-3d-puzzle-game-with-unity/"
+    },
+    {
+      "title": "How to Create iOS 2D Games with SpriteKit and Swift",
+      "url": "https://www.udemy.com/course/2d-games-with-spritekit/"
+    },
+    {
+      "title": "Asteroids with Python PyGame",
+      "url": "https://www.udemy.com/course/asteroids-with-python-pygame/"
+    },
+    {
+      "title": "Godot 3 Complete Developer Course - 2D and 3D",
+      "url": "https://www.udemy.com/course/godotcourse/"
+    },
+    {
+      "title": "How to Make a FPS Game – Unreal Engine 5 Multiplayer",
+      "url": "https://www.udemy.com/course/ue5-multiplayer-fps/"
+    },
+    {
+      "title": "Learn to Build an Outdoor Environment with Unreal Engine 4",
+      "url": "https://www.udemy.com/course/3dmotive-learn-to-build-an-outdoor-environment-with-unreal-engine-4/"
+    },
+    {
+      "title": "The Most Comprehensive Guide To Unity Game Development Vol 1",
+      "url": "https://www.udemy.com/course/the-most-comprehensive-guide-to-unity-game-development/"
+    },
+    {
+      "title": "Create a Third-Person Player Character Controller",
+      "url": "https://www.udemy.com/course/create-a-third-person-player-character-controller/"
+    },
+    {
+      "title": "Improve Your Game Design With Better Gameplay",
+      "url": "https://www.udemy.com/course/gamedesign/"
+    },
+    {
+      "title": "Intro to Construct 3 - Build a Platformer",
+      "url": "https://www.udemy.com/course/intro-to-construct-3-build-a-platformer/"
+    },
+    {
+      "title": "Coding in Unity: Introduction to Shaders",
+      "url": "https://www.udemy.com/course/coding-in-unity-introduction-to-shaders/"
+    },
+    {
+      "title": "DirectX 11 Programming",
+      "url": "https://www.udemy.com/course/directx11/"
+    },
+    {
+      "title": "Unreal Engine 5 Blueprint Game Development (Updated 5.6)",
+      "url": "https://www.udemy.com/course/unrealblueprint/"
+    },
+    {
+      "title": "Complete Godot 3D: Develop Your Own 3D Games Using Godot 4",
+      "url": "https://www.udemy.com/course/complete-godot-3d/"
+    },
+    {
+      "title": "Game Audio 201: Advanced Sound Design & Recording Techniques",
+      "url": "https://www.udemy.com/course/gameaudio201/"
+    },
+    {
+      "title": "The Beginner's Guide to Animation (Unity 5 to 2020+)",
+      "url": "https://www.udemy.com/course/mastering-3d-animation-in-unity/"
+    },
+    {
+      "title": "Procedural Race Tracks - Houdini 17.5/18 and Houdini Engine",
+      "url": "https://www.udemy.com/course/procedural-race-tracks-houdini-175-and-houdini-engine/"
+    },
+    {
+      "title": "Practical guide to AI in Unity",
+      "url": "https://www.udemy.com/course/ai-in-unity/"
+    },
+    {
+      "title": "The Complete 2025 ROBLOX Studio Masterclass (UPDATED)",
+      "url": "https://www.udemy.com/course/the-complete-2024-roblox-studio-masterclass/"
+    },
+    {
+      "title": "Unreal Engine 5: Action Adventure Game Development Course",
+      "url": "https://www.udemy.com/course/unreal-engine-5-action-adventure/"
+    },
+    {
+      "title": "Python for Game Programming: Pygame from A to Z",
+      "url": "https://www.udemy.com/course/python-for-game-programming-pygame-from-a-to-z/"
+    },
+    {
+      "title": "Make a fighting game in Unity",
+      "url": "https://www.udemy.com/course/make-a-fighting-game-in-unity/"
+    },
+    {
+      "title": "Your Game, Your Graphics: 2D Art Design in Inkscape",
+      "url": "https://www.udemy.com/course/create-2d-game-with-inkscape/"
+    },
+    {
+      "title": "Unreal Engine 5: Blueprint Scripting 101",
+      "url": "https://www.udemy.com/course/unreal-engine-blueprint-scripting-101/"
+    },
+    {
+      "title": "Unreal Engine 5: The Ultimate Beginner Course",
+      "url": "https://www.udemy.com/course/unreal-engine-5/"
+    },
+    {
+      "title": "Android Game Development for Beginners - Learn Core Concepts",
+      "url": "https://www.udemy.com/course/android-game-development-for-beginners-learn/"
+    },
+    {
+      "title": "SolidWorks Complete Course: Learn 3D Modeling in SolidWorks",
+      "url": "https://www.udemy.com/course/solidworks-course-3d-modeling/"
+    },
+    {
+      "title": "Program Voxel Minecraft Worlds with C# - Unity 6 Compatible",
+      "url": "https://www.udemy.com/course/unityminecraft/"
+    },
+    {
+      "title": "Learning Unity and C# for Complete Beginners",
+      "url": "https://www.udemy.com/course/learning-unity-and-c-for-complete-beginners/"
+    },
+    {
+      "title": "Make Game Assets Easily And Export To Godot / Unity / Unreal",
+      "url": "https://www.udemy.com/course/the-blender-to-godot-modelling-workflow/"
+    },
+    {
+      "title": "Unity C# Mobile Game Development: Make 3 Games From Scratch",
+      "url": "https://www.udemy.com/course/unity-mobile/"
+    },
+    {
+      "title": "Unreal Engine - VFX for Games - Beginner to Intermediate",
+      "url": "https://www.udemy.com/course/ue4-vfx-for-games-beginner-to-intermediate/"
+    },
+    {
+      "title": "Unity 2D RPG: Complete Combat System",
+      "url": "https://www.udemy.com/course/unity-2d-rpg/"
+    },
+    {
+      "title": "Unreal Engine 5 C++: Advanced Action RPG",
+      "url": "https://www.udemy.com/course/unreal-engine-5-advanced-action-rpg/"
+    },
+    {
+      "title": "Create HTML5 Games Using Adobe Animate",
+      "url": "https://www.udemy.com/course/create-html5-games-using-adobe-animate/"
+    },
+    {
+      "title": "Visual Effects for Games in Unity - Stylized Explosion",
+      "url": "https://www.udemy.com/course/visual-effects-for-games-in-unity-stylized-explosion/"
+    },
+    {
+      "title": "Learn To Create An Online Multiplayer Game In Unity",
+      "url": "https://www.udemy.com/course/unity-online-multiplayer/"
+    },
+    {
+      "title": "Modding By Kaupenjoe: Forge Modding for Minecraft 1.18.1",
+      "url": "https://www.udemy.com/course/minecraft-modding-forge-118/"
+    },
+    {
+      "title": "Unreal Engine 5 for Beginners (2024) - The Complete Course",
+      "url": "https://www.udemy.com/course/ue5-beginner/"
+    },
+    {
+      "title": "The Ultimate Guide to Video Game Optimisation",
+      "url": "https://www.udemy.com/course/video-game-optimisation/"
+    },
+    {
+      "title": "Unreal Engine 5 C++: Make Your Own Action Combat Game",
+      "url": "https://www.udemy.com/course/unreal-engine-action-combat-game/"
+    },
+    {
+      "title": "Learn how to make iPhone/android 2D Games without coding",
+      "url": "https://www.udemy.com/course/nocode2dgames/"
+    },
+    {
+      "title": "Unity 2D Game Developer Course Farming RPG",
+      "url": "https://www.udemy.com/course/unity-2d-game-developer-course-farming-rpg/"
+    },
+    {
+      "title": "Complete ARCore & ARKit Gaming Developer - Augmented Reality",
+      "url": "https://www.udemy.com/course/complete-arcore-arkit-gaming-developer-augmented-reality/"
+    },
+    {
+      "title": "Mathematics for Game Development - Unity 6 Compatible",
+      "url": "https://www.udemy.com/course/games_mathematics/"
+    },
+    {
+      "title": "VR Development Fundamentals With Meta Quest 2 And Unity",
+      "url": "https://www.udemy.com/course/oculus-quest-development-with-unity/"
+    },
+    {
+      "title": "Metroidvania Toolkit: Make a 2D Action Platformer in Unity",
+      "url": "https://www.udemy.com/course/metroidvania-toolkit/"
+    },
+    {
+      "title": "Unreal Engine 5 C++ Multiplayer Shooter",
+      "url": "https://www.udemy.com/course/unreal-engine-5-cpp-multiplayer-shooter/"
+    },
+    {
+      "title": "Unity C# Scripting : Complete C# For Unity Game Development",
+      "url": "https://www.udemy.com/course/unity-c-sharp-scripting/"
+    },
+    {
+      "title": "Learn To Create A First Person Shooter With Unity & C#",
+      "url": "https://www.udemy.com/course/unityfpsgame/"
+    },
+    {
+      "title": "Becoming an Unreal Automation Expert",
+      "url": "https://www.udemy.com/course/becoming-an-unreal-automation-expert/"
+    },
+    {
+      "title": "The Absolute Beginner's Guide To Unreal Engine 4 and 5!",
+      "url": "https://www.udemy.com/course/the-absolute-beginners-guide-to-learning-unreal-engine-4/"
+    },
+    {
+      "title": "Unity VFX Graph - Magic Effects - Intermediate Level",
+      "url": "https://www.udemy.com/course/unity-vfx-graph-thunderlord-magic-effects/"
+    },
+    {
+      "title": "Learn C++ Programming By Making Games Volume 2",
+      "url": "https://www.udemy.com/course/learn-cpp-programming-by-making-games-volume-2/"
+    },
+    {
+      "title": "Unity for kids",
+      "url": "https://www.udemy.com/course/unity-for-kids/"
+    },
+    {
+      "title": "Unity Game Development Build 2D & 3D Games",
+      "url": "https://www.udemy.com/course/devslopes-unity3d/"
+    },
+    {
+      "title": "Learn To Code By Making a 2D Platformer in Unity & C#",
+      "url": "https://www.udemy.com/course/unityplatformer/"
+    },
+    {
+      "title": "Shaders in Unity with Amplify",
+      "url": "https://www.udemy.com/course/shaders-in-unity-with-amplify/"
+    },
+    {
+      "title": "Create a 3D Car Racing Game with THREE.js and CANNON.js",
+      "url": "https://www.udemy.com/course/create-a-3d-car-racing-game-with-threejs-and-cannonjs/"
+    },
+    {
+      "title": "Advanced Unreal Engine 5 Multiplayer Gameplay Programming",
+      "url": "https://www.udemy.com/course/advanced-unreal-engine-5-multiplayer-gameplay-programming/"
+    },
+    {
+      "title": "Unity Mobile Game - Create an Addictive Idle Carrot Clicker",
+      "url": "https://www.udemy.com/course/idle-clicker/"
+    },
+    {
+      "title": "Unity Android : Build 3D ZigZag Racing Game with Unity & C#",
+      "url": "https://www.udemy.com/course/unity-android-3d-zigzag-racing-game-development/"
+    },
+    {
+      "title": "Flappy Bird Clone - The Complete SFML C++ Game Course",
+      "url": "https://www.udemy.com/course/flappy-bird-sfml/"
+    },
+    {
+      "title": "Master Unity® VR: Make 30 Mini Games in 3D",
+      "url": "https://www.udemy.com/course/build-30-mini-virtual-reality-games-in-unity-3d-from-scratch/"
+    },
+    {
+      "title": "The complete guide for blueprint development in Unreal 4",
+      "url": "https://www.udemy.com/course/the-complete-guide-for-blueprint-development-in-unreal-4/"
+    },
+    {
+      "title": "Unity Game Development: Make Professional 3D Games",
+      "url": "https://www.udemy.com/course/unity-game-development-make-professional-3d-games/"
+    },
+    {
+      "title": "Android Game Development - Create Your First Mobile Game",
+      "url": "https://www.udemy.com/course/android-game-development-course/"
+    },
+    {
+      "title": "Learn Advanced C# Scripting in Unity 5 for Games",
+      "url": "https://www.udemy.com/course/3dmotive-learn-advanced-c-scripting-in-unity-5/"
+    },
+    {
+      "title": "Learn To Create a Match-3 Puzzle Game in Unity",
+      "url": "https://www.udemy.com/course/unitypuzzle/"
+    },
+    {
+      "title": "Creating turn-based game, Unity Engine",
+      "url": "https://www.udemy.com/course/turn-based-strategy-game-development/"
+    },
+    {
+      "title": "ROBLOX Studio 2025: The Ultimate Scripting Mastery Course",
+      "url": "https://www.udemy.com/course/roblox-studio-lua-luau-scripting-basics/"
+    },
+    {
+      "title": "Unreal Engine 5 PCG: Procedural Content Generation (English)",
+      "url": "https://www.udemy.com/course/unreal-engine-pcg-english/"
+    },
+    {
+      "title": "Full Scratch 3.0 Programming Course: Beginner to Advanced",
+      "url": "https://www.udemy.com/course/learn-to-code-with-scratch-programming-course/"
+    },
+    {
+      "title": "Unity C# Game Development: Learn C# Unity From Scratch",
+      "url": "https://www.udemy.com/course/c-unity-game-development-learn-c-unity-from-scratch/"
+    },
+    {
+      "title": "Unreal Engine 5: Build a Complete Survival Game in UE5",
+      "url": "https://www.udemy.com/course/unreal-engine-5-build-a-complete-survival-game/"
+    },
+    {
+      "title": "Modern UI Development in Unity 4.6/5.0",
+      "url": "https://www.udemy.com/course/modern-ui-development-in-unity-46-or-50/"
+    },
+    {
+      "title": "Make Simple Games with Python",
+      "url": "https://www.udemy.com/course/make-simple-games-with-python/"
+    },
+    {
+      "title": "Construct 2 - From Beginner to Advanced - Ultimate Course!",
+      "url": "https://www.udemy.com/course/construct-2-from-beginner-to-advanced-build-10-games/"
+    },
+    {
+      "title": "Learn Kotlin and Create Games Using the LibGdx Library",
+      "url": "https://www.udemy.com/course/kotlin-libgdx-game-developers-masterclass/"
+    },
+    {
+      "title": "Build a Battle Royale and an RPG in Unity and Blender!",
+      "url": "https://www.udemy.com/course/build-a-battle-royale-and-an-rpg-in-unity-and-blender/"
+    },
+    {
+      "title": "Welcome To Game Design - Game Design Canvas And Document",
+      "url": "https://www.udemy.com/course/welcome-to-game-design-game-design-canvas-semaphore/"
+    },
+    {
+      "title": "How to Publish a Game on Steam - Unreal Engine 5",
+      "url": "https://www.udemy.com/course/ue5-steam/"
+    },
+    {
+      "title": "Multiplayer Virtual Reality (VR) Development With Unity",
+      "url": "https://www.udemy.com/course/multiplayer-virtual-reality-vr-development-with-unity/"
+    },
+    {
+      "title": "Metaverse Fundamentals: Blockchain, Cryptocurrency and NFTs",
+      "url": "https://www.udemy.com/course/metaverse-fundamentals-blockchain-cryptocurrency-and-nfts/"
+    },
+    {
+      "title": "Beginner to Expert Full Guide - Roblox Studio 2024",
+      "url": "https://www.udemy.com/course/byteblox-expert/"
+    },
+    {
+      "title": "Unity Third Person Shooter",
+      "url": "https://www.udemy.com/course/unity-third-person-shooter/"
+    },
+    {
+      "title": "Unreal Engine: Creating Widgets for UI",
+      "url": "https://www.udemy.com/course/unreal-engine-creating-widgets-for-ui/"
+    },
+    {
+      "title": "Unity VR/XR Developer: Make Immersive VIRTUAL REALITY Games",
+      "url": "https://www.udemy.com/course/unity-vr-game-development/"
+    },
+    {
+      "title": "Complete C# Unity 3D Game Development in Unity 6",
+      "url": "https://www.udemy.com/course/unitycourse2/"
+    },
+    {
+      "title": "RPG Shops & Abilities: Intermediate C# Game Coding",
+      "url": "https://www.udemy.com/course/rpg-shops-abilities/"
+    },
+    {
+      "title": "Learn Modern OpenGL Programming",
+      "url": "https://www.udemy.com/course/learn-modern-opengl-programming/"
+    },
+    {
+      "title": "Godot 4 Multiplayer: Make Your Own Online Game",
+      "url": "https://www.udemy.com/course/godot-4-multiplayer/"
+    },
+    {
+      "title": "The Ultimate 2D & 3D Shader Graph VFX Unity Course",
+      "url": "https://www.udemy.com/course/the-ultimate-2d-3d-shader-graph-vfx-unity-course/"
+    },
+    {
+      "title": "The Ultimate C++ Unreal Engine 5 & AI Game Dev Course",
+      "url": "https://www.udemy.com/course/full-ai-system-in-unreal-engine5-and-cpp-beginners-to-advance/"
+    },
+    {
+      "title": "Godot 4 C# Action Adventure: Build your own 2.5D RPG",
+      "url": "https://www.udemy.com/course/godot-4-c-action-adventure-build-your-own-25d-rpg/"
+    },
+    {
+      "title": "Creating An RPG In GoDot",
+      "url": "https://www.udemy.com/course/creating-an-rpg-in-godot/"
+    },
+    {
+      "title": "Unreal Engine 5: Create a top-down 2D survivors style game",
+      "url": "https://www.udemy.com/course/unreal-engine-5-create-a-top-down-2d-survivors-style-game/"
+    },
+    {
+      "title": "Make An RPG With GameMaker Studio 2",
+      "url": "https://www.udemy.com/course/gamemakerstudio2rpg/"
+    },
+    {
+      "title": "GameMaker Studio 2 - The Complete Guide",
+      "url": "https://www.udemy.com/course/gamemaker-studio-2-the-complete-guide/"
+    },
+    {
+      "title": "Unity & 100+ Asset Store Kits - The Complete Game Developer",
+      "url": "https://www.udemy.com/course/best-unity-asset-store-course/"
+    },
+    {
+      "title": "Unreal Engine 5 : Exploring Lyra for Game Development",
+      "url": "https://www.udemy.com/course/exploring-lyra-for-game-development-in-unreal-engine-52/"
+    },
+    {
+      "title": "Unleash Your Creativity: Build Point & Click Game in Unity",
+      "url": "https://www.udemy.com/course/create-a-point-click-adventure-using-unity-3d/"
+    },
+    {
+      "title": "Make Unity 3D interactive games with Fungus - no coding!",
+      "url": "https://www.udemy.com/course/make-interactive-games-with-fungus-unity3d-no-coding-required/"
+    },
+    {
+      "title": "Unity Game Development Master Class",
+      "url": "https://www.udemy.com/course/unity-game-development-master-class/"
+    },
+    {
+      "title": "Unreal 5 Materials - Part 1 Environments",
+      "url": "https://www.udemy.com/course/unreal-5-materials-part-1-environments/"
+    },
+    {
+      "title": "Build Your Own First Person Shooter / Survival Game in Unity",
+      "url": "https://www.udemy.com/course/build-your-own-first-person-shooter-survival-game-in-unity/"
+    },
+    {
+      "title": "Unity 3D Course: No Coding, Build & Market Video Games Fast",
+      "url": "https://www.udemy.com/course/hackingunity3d/"
+    },
+    {
+      "title": "Construct 3 Game Development: Build 2D Games Without Coding",
+      "url": "https://www.udemy.com/course/construct-3-game-development-build-2d-games-without-coding/"
+    },
+    {
+      "title": "Pixel Art Characters: 2D Character Design & Animation",
+      "url": "https://www.udemy.com/course/pixel-art-characters/"
+    },
+    {
+      "title": "Unreal Engine 5: Making Mario",
+      "url": "https://www.udemy.com/course/unreal-engine-making-mario/"
+    },
+    {
+      "title": "Goal-Oriented Action Planning - Advanced AI For Games",
+      "url": "https://www.udemy.com/course/ai_with_goap/"
+    },
+    {
+      "title": "Unreal Engine 5 C++: Create Custom Editor Tools",
+      "url": "https://www.udemy.com/course/unrealengine5-c-one-course-solution-for-extending-editor/"
+    },
+    {
+      "title": "Creating Gameplay Mechanics With Blueprints in Unreal Engine",
+      "url": "https://www.udemy.com/course/creating-gameplay-mechanics-with-blueprints-in-unreal-engine/"
+    },
+    {
+      "title": "Android Game Development with Godot Engine - Create 5 Games!",
+      "url": "https://www.udemy.com/course/godotengine/"
+    },
+    {
+      "title": "Learn To Create An RPG Game In Unity",
+      "url": "https://www.udemy.com/course/unity2drpg/"
+    },
+    {
+      "title": "Bolt Visual Scripting in Unity",
+      "url": "https://www.udemy.com/course/bolt-visual-scripting-in-unity/"
+    },
+    {
+      "title": "The Complete Guide To Creating Games In Unity Game Engine",
+      "url": "https://www.udemy.com/course/the-complete-guide-to-creating-games-in-unity-game-engine/"
+    },
+    {
+      "title": "The Complete Guide to Unity 2D : Endless Runner",
+      "url": "https://www.udemy.com/course/endless-runner-alexdev/"
+    },
+    {
+      "title": "The Complete Unity Indie Game Developer Course",
+      "url": "https://www.udemy.com/course/the-complete-unity-indie-game-developer-course/"
+    },
+    {
+      "title": "C# For Beginners: Learn C# Programming From Scratch",
+      "url": "https://www.udemy.com/course/c-for-beginners-learn-c-programming-from-scratch/"
+    },
+    {
+      "title": "Build a Augmented Reality (AR) Game with Unity",
+      "url": "https://www.udemy.com/course/build-augmented-reality-dartboard-game-with-unity/"
+    },
+    {
+      "title": "Control Rig for Unreal Engine 5",
+      "url": "https://www.udemy.com/course/controlrig/"
+    },
+    {
+      "title": "Unity 3D and C# - The Complete RPG Guide for Beginners",
+      "url": "https://www.udemy.com/course/the-complete-unity-guide-3d-beginner-to-rpg-game-dev-in-c/"
+    },
+    {
+      "title": "Intro to Airplane Physics in Unity 3D - 2017 & 2018",
+      "url": "https://www.udemy.com/course/intro-to-airplane-physics-in-unity-3d/"
+    },
+    {
+      "title": "Create Your First RPG And FPS Multiplayer Game In Unity",
+      "url": "https://www.udemy.com/course/create-your-first-rpg-and-fps-multiplayer-game-in-unity/"
+    },
+    {
+      "title": "Unity Parkour & Climbing System",
+      "url": "https://www.udemy.com/course/unity-parkour-system/"
+    },
+    {
+      "title": "Game Development 101: C# and Unity",
+      "url": "https://www.udemy.com/course/make-a-katamari-style-sticky-ball-game-in-unity/"
+    },
+    {
+      "title": "Unity 2020 URP Make a juicy 2d Shooter prototype",
+      "url": "https://www.udemy.com/course/unity-2020-urp-how-to-make-a-2d-roguelike-shooter/"
+    },
+    {
+      "title": "Unreal Engine 5 Blueprints: Develop Your First Two Games",
+      "url": "https://www.udemy.com/course/ue5-twogames/"
+    },
+    {
+      "title": "Learn Unity's Entity Component System to Optimise Your Games",
+      "url": "https://www.udemy.com/course/unitydots/"
+    },
+    {
+      "title": "Build an FPS Multi-Player Game with Photon PUN2 & UNITY",
+      "url": "https://www.udemy.com/course/fps-photon-pun2-unity/"
+    },
+    {
+      "title": "JavaScript DOM for Beginners Learn how to code",
+      "url": "https://www.udemy.com/course/javascript-example-code/"
+    },
+    {
+      "title": "Unity Android Game Development : Build 10 2D & 3D Games",
+      "url": "https://www.udemy.com/course/unityandroidgamecourse/"
+    },
+    {
+      "title": "Roblox for Beginners: Learn to Script Your Very Own Games!",
+      "url": "https://www.udemy.com/course/roblox-for-beginners-learn-to-script-your-very-own-games/"
+    },
+    {
+      "title": "Build Location Based Augmented Reality Apps with Mapbox",
+      "url": "https://www.udemy.com/course/build-location-based-augmented-reality-apps-with-mapbox/"
+    },
+    {
+      "title": "Unity 2D Master: Game Development with C# and Unity",
+      "url": "https://www.udemy.com/course/unity2dmaster/"
+    },
+    {
+      "title": "Learn C++ and Make a Game from Scratch",
+      "url": "https://www.udemy.com/course/complete-game-development-series-04-making-a-game-with-c/"
+    },
+    {
+      "title": "Pathfinding in Unity",
+      "url": "https://www.udemy.com/course/pathfinding-in-unity/"
+    },
+    {
+      "title": "Create a Low Poly Game using Unity, Blender and MagicaVoxel",
+      "url": "https://www.udemy.com/course/create-a-low-poly-game-in-1-hour-using-unity-and-blender/"
+    },
+    {
+      "title": "Model and Texture a Stylized Dungeon for Games",
+      "url": "https://www.udemy.com/course/3dmotive-model-and-texture-a-stylized-dungeon-for-games/"
+    },
+    {
+      "title": "Create Old Arcade Games With Unity Game Engine",
+      "url": "https://www.udemy.com/course/make-mobile-games-for-kids-with-unity/"
+    },
+    {
+      "title": "Unreal Engine 5- Beginner Lighting, Fog, and Post Processing",
+      "url": "https://www.udemy.com/course/ue5lighting/"
+    },
+    {
+      "title": "Create an Idle Tycoon Game using Visual Scripting in Unity",
+      "url": "https://www.udemy.com/course/idle-clicker-tycoon-game-bolt-unity-development-visual-scripting/"
+    },
+    {
+      "title": "The Ultimate Guide to Game Development with Unity (Official)",
+      "url": "https://www.udemy.com/course/the-ultimate-guide-to-game-development-with-unity/"
+    },
+    {
+      "title": "Unity & Blender Masterclass: Make a 3D Zenda Game!",
+      "url": "https://www.udemy.com/course/build-the-legend-of-zenda-game-in-unity3d-and-blender/"
+    },
+    {
+      "title": "Unity: From Master To Pro By Building 6 Games",
+      "url": "https://www.udemy.com/course/create-a-2d-platformer-game-with-unity/"
+    },
+    {
+      "title": "Learn Unity Engine and C# by creating a real top down RPG",
+      "url": "https://www.udemy.com/course/learn-unity-engine-by-making-a-top-down-rpg/"
+    },
+    {
+      "title": "Houdini 16.5 - Procedural Prop Modeling - Ammo Crate",
+      "url": "https://www.udemy.com/course/procedural-prop-modeling-ammo-crate/"
+    },
+    {
+      "title": "Build A Multiplayer Kart Racing Game - Unity 6 Compatible",
+      "url": "https://www.udemy.com/course/kart-racing/"
+    },
+    {
+      "title": "Unity: Particles from beginner to advanced!",
+      "url": "https://www.udemy.com/course/unity-particles-from-beginner-to-advanced/"
+    },
+    {
+      "title": "Unity 3rd Person Combat & Traversal",
+      "url": "https://www.udemy.com/course/unity-3rd-person-combat-traversal/"
+    },
+    {
+      "title": "Unreal Engine 5 Blueprints - The Ultimate Developer Course",
+      "url": "https://www.udemy.com/course/ue5-ultimate-bp-course/"
+    },
+    {
+      "title": "Unity Game Tutorial: Board Game - Ludo 3D",
+      "url": "https://www.udemy.com/course/unity-game-tutorial-board-game-ludo-3d/"
+    },
+    {
+      "title": "Unreal Engine 5 : All in one UE5 master Blueprint",
+      "url": "https://www.udemy.com/course/unreal-engine-5-create-video-game-in-ue5-with-blueprint/"
+    },
+    {
+      "title": "Unreal 4 Material Shaders: All You Need to Get Started",
+      "url": "https://www.udemy.com/course/unreal4-materials-101/"
+    },
+    {
+      "title": "Unity C# Programming: Ultimate Guide to Game Scripting",
+      "url": "https://www.udemy.com/course/cs-unity-beginner/"
+    },
+    {
+      "title": "Unreal Engine 5 : 7 Course in 1 ultimate mega course UE5",
+      "url": "https://www.udemy.com/course/unreal-engine-5-7-course-in-1-ultimate-mega-course-ue5/"
+    },
+    {
+      "title": "C++ Fundamentals: Game Programming For Beginners",
+      "url": "https://www.udemy.com/course/cpp-fundamentals/"
+    },
+    {
+      "title": "Learn How To Do Amazing Cloth Animation In Unreal Engine!",
+      "url": "https://www.udemy.com/course/learn-how-to-do-cloth-animation-in-unreal-engine-4/"
+    },
+    {
+      "title": "Unreal Engine 5 C++: Climbing System",
+      "url": "https://www.udemy.com/course/unreal-engine-5-cpp-climbing-system/"
+    },
+    {
+      "title": "The Ultimate Unreal Engine 2D Game Development Course",
+      "url": "https://www.udemy.com/course/unreal-2d-course/"
+    },
+    {
+      "title": "Unity Mobile Multiplayer Third Person Shooting Game",
+      "url": "https://www.udemy.com/course/multiplayerthirdpersonshooter/"
+    },
+    {
+      "title": "The Beginners Guide to 3D Web Game Development with Three.JS",
+      "url": "https://www.udemy.com/course/beginners-3d-web-game-development-with-threejs/"
+    },
+    {
+      "title": "Unity For Beginners:Game Development From Scratch with Unity",
+      "url": "https://www.udemy.com/course/learn-game-development-from-scratch-with-c-unity/"
+    },
+    {
+      "title": "Brick Breaker Game in most Powerful C++ graphic library SDL2",
+      "url": "https://www.udemy.com/course/brick-breaker-game-in-most-powerful-c-graphic-library-sdl2/"
+    },
+    {
+      "title": "Build your first game with RPG Maker MV",
+      "url": "https://www.udemy.com/course/build-your-first-game-with-rpg-maker-mv/"
+    },
+    {
+      "title": "Learn Java Creating Android Games Using the LibGDX library",
+      "url": "https://www.udemy.com/course/libgdx-game-development-masterclass/"
+    },
+    {
+      "title": "Learn Godot 4 by making 2 games",
+      "url": "https://www.udemy.com/course/learn-godot-4-by-making-a-2d-game/"
+    },
+    {
+      "title": "Godot 4: Build a 2D Action-Adventure Game",
+      "url": "https://www.udemy.com/course/godot-action-adventure/"
+    },
+    {
+      "title": "Unreal Engine 5 - Learn to Make a Professional Main Menu",
+      "url": "https://www.udemy.com/course/unreal-engine-5-main-menu-widget-blueprint/"
+    },
+    {
+      "title": "A gentle introduction to Google Go (Golang) for Beginners",
+      "url": "https://www.udemy.com/course/a-gentle-introduction-to-google-go-golang-for-beginners/"
+    },
+    {
+      "title": "Single&Multiplayer online game development Webgl's BabylonJs",
+      "url": "https://www.udemy.com/course/single-multiplayer-game-development-in-webgls-babylonjs/"
+    },
+    {
+      "title": "WebGL w/ Unity: The Ultimate Guide to Games in the Browser",
+      "url": "https://www.udemy.com/course/webgl-with-unity-the-ultimate-guide-to-games-in-the-browser/"
+    },
+    {
+      "title": "Make Your First 2D Game with Unity & C# - Beginner Course",
+      "url": "https://www.udemy.com/course/make-your-first-2d-game-with-unity-c-beginner-course/"
+    },
+    {
+      "title": "Intro to 3d Modeling Using Blender",
+      "url": "https://www.udemy.com/course/3dmotive-intro-to-3d-modeling-using-blender/"
+    },
+    {
+      "title": "Blender Animation & Rigging: Bring Your Creations To Life",
+      "url": "https://www.udemy.com/course/blender-animation-rigging/"
+    },
+    {
+      "title": "Unreal Engine 5 for Beginners: Building a tiny Resource Game",
+      "url": "https://www.udemy.com/course/unreal-engine-5-for-beginners-building-a-tiny-resource-game/"
+    },
+    {
+      "title": "Unreal Engine 5: One Course Solution For Dynamic Sky System",
+      "url": "https://www.udemy.com/course/unreal-engine-5one-course-solution-for-sky-weather-system/"
+    },
+    {
+      "title": "Unity 3D 2017 - Build , program & publish Crossy Road game",
+      "url": "https://www.udemy.com/course/unity-3d-2016-build-program-publish-crossy-road-game/"
+    },
+    {
+      "title": "The Ultimate Guide To C# Unity Programming",
+      "url": "https://www.udemy.com/course/the-ultimate-guide-to-c-unity-programming-2020/"
+    },
+    {
+      "title": "Learn Rigging & Animation Techniques in Spine",
+      "url": "https://www.udemy.com/course/take10animation/"
+    },
+    {
+      "title": "Learn 2D Game Development: Godot 4.3+ & C# from Scratch",
+      "url": "https://www.udemy.com/course/learn-2d-game-development-godot-43-c-from-scratch/"
+    },
+    {
+      "title": "Fast and Furious Game Development with JavaScript and AI",
+      "url": "https://www.udemy.com/course/fast-and-furious-game-development-with-javascript-and-ai/"
+    },
+    {
+      "title": "Unity Android Game & App Development - Build 10 Games & Apps",
+      "url": "https://www.udemy.com/course/learn-unity-game-development-android-app-development/"
+    },
+    {
+      "title": "The Ultimate Guide to Savegames in Unity",
+      "url": "https://www.udemy.com/course/zero-to-hero-guide-for-creating-savegames-in-unity/"
+    },
+    {
+      "title": "Create an RPG Game in Unity",
+      "url": "https://www.udemy.com/course/create-an-rpg-game-in-unity/"
+    },
+    {
+      "title": "Unity 2D Platformer Game Development Course",
+      "url": "https://www.udemy.com/course/unitypixelplatformer/"
+    },
+    {
+      "title": "Construct 3 - The Complete Game Creation Learning Course",
+      "url": "https://www.udemy.com/course/construct-3/"
+    },
+    {
+      "title": "Unity Game Developer Masterclass 2021 (2D, 3D and FPS)",
+      "url": "https://www.udemy.com/course/unity-game-developer-masterclass/"
+    },
+    {
+      "title": "Unreal Engine 5 Fundamentals – A Beginner’s Guide",
+      "url": "https://www.udemy.com/course/unreal-engine-5-fundamentals-a-beginners-guide/"
+    },
+    {
+      "title": "Build Your MR Game & Publish it on Meta's Horizon Store",
+      "url": "https://www.udemy.com/course/mixedreality/"
+    },
+    {
+      "title": "Create an Arcade Style Game in Roblox",
+      "url": "https://www.udemy.com/course/getting-started-in-roblox-development/"
+    },
+    {
+      "title": "Exploring Game Mechanics with Python by Example",
+      "url": "https://www.udemy.com/course/exploring-game-mechanics-with-python-and-pygame/"
+    },
+    {
+      "title": "Complete Facebook Instant Games Course",
+      "url": "https://www.udemy.com/course/complete-facebook-instant-games-course/"
+    },
+    {
+      "title": "iOS / OSX Game Development - From Start to Store in Swift",
+      "url": "https://www.udemy.com/course/ios-osx-games-from-start-to-store/"
+    },
+    {
+      "title": "How to Make a 2D Platformer with Unity & C#",
+      "url": "https://www.udemy.com/course/how-to-make-a-2d-platformer-with-unity-c/"
+    },
+    {
+      "title": "Create a Complete 2D Survivors Style Game in Godot 4",
+      "url": "https://www.udemy.com/course/create-a-complete-2d-arena-survival-roguelike-game-in-godot-4/"
+    },
+    {
+      "title": "Learn to Program by Making Games in Unity",
+      "url": "https://www.udemy.com/course/makingunitygames/"
+    },
+    {
+      "title": "Augmented Reality in Depth 101",
+      "url": "https://www.udemy.com/course/augmented-reality-in-depth-101-by-debayandey-thnewagetraveller/"
+    },
+    {
+      "title": "Build an Idle Business Tycoon Game with Unity3D & PlayMaker",
+      "url": "https://www.udemy.com/course/visual-development-idle-business-tycoon-game-unity-playmaker/"
+    },
+    {
+      "title": "Unity Basics: A Monetised Android/iOS Game in 4 Hours.",
+      "url": "https://www.udemy.com/course/unity-basics-a-monetised-mobile-game-in-4-hours/"
+    },
+    {
+      "title": "Unity Game Development: Create 2D And 3D Games With C#",
+      "url": "https://www.udemy.com/course/unity-game-development-create-2d-and-3d-games-with-c/"
+    },
+    {
+      "title": "Make Awesomely Strange Video Games with Unity and Playmaker",
+      "url": "https://www.udemy.com/course/cant-code-who-cares-make-games-anyway/"
+    },
+    {
+      "title": "Pixel Art Environments: 2D Environment Design & Animation.",
+      "url": "https://www.udemy.com/course/pixel-art-environments-2d-environments/"
+    },
+    {
+      "title": "Intro to Unity 3D Physics: Helicopters",
+      "url": "https://www.udemy.com/course/intro-to-unity-3d-physics-helicopters-early-access/"
+    },
+    {
+      "title": "Unity 5.5: develop and publish games quickly",
+      "url": "https://www.udemy.com/course/learn-how-to-use-unity-55-to-develop-and-publish-games/"
+    },
+    {
+      "title": "Create 2 procedurally generated 2D roguelite in Godot 4.4",
+      "url": "https://www.udemy.com/course/create-a-procedurally-generated-2d-roguelike-in-godot-4/"
+    },
+    {
+      "title": "Unreal Engine 5: Soulslike Melee Combat System",
+      "url": "https://www.udemy.com/course/unreal-engine-5-soulslike-combat/"
+    },
+    {
+      "title": "Unity Tutorial: Idle, Clicker, Incremental Game",
+      "url": "https://www.udemy.com/course/unity-tutorial-idle-clicker-incremental-game/"
+    },
+    {
+      "title": "Unreal Engine 5: Intermediate Course",
+      "url": "https://www.udemy.com/course/unreal-engine-5-the-intermediate-course/"
+    },
+    {
+      "title": "Unity Visual Scripting: Learn Game Coding The Easy Way",
+      "url": "https://www.udemy.com/course/unity-visual-scripting-bolt/"
+    },
+    {
+      "title": "Blender 3D Model a Ghibli Art Stylized Scene",
+      "url": "https://www.udemy.com/course/blender-ghibli-beginners-3d-model-guide-oriental-stylized-scene/"
+    },
+    {
+      "title": "Unreal Engine VR Development Fundamentals",
+      "url": "https://www.udemy.com/course/unreal-engine-vr-development-fundamentals/"
+    },
+    {
+      "title": "Master Lua Programming and Create Amazing Games with LÖVE!",
+      "url": "https://www.udemy.com/course/lua-love/"
+    },
+    {
+      "title": "Master Mobile Game Development with Godot 4",
+      "url": "https://www.udemy.com/course/mobile-game-godot/"
+    },
+    {
+      "title": "Learn To Create A Farming Game With Unity 6 & C#",
+      "url": "https://www.udemy.com/course/unity6-farming/"
+    },
+    {
+      "title": "Create a Complete Grid-Based Puzzle Game in Godot 4 with C#",
+      "url": "https://www.udemy.com/course/create-a-complete-grid-based-puzzle-game-godot-4-c-sharp/"
+    },
+    {
+      "title": "Unreal Engine C++, A Beginners 101",
+      "url": "https://www.udemy.com/course/unreal-engine-cpp-101/"
+    },
+    {
+      "title": "Unity + SQL Databases Player Management Leaderboards + More!",
+      "url": "https://www.udemy.com/course/unity-sql-database/"
+    },
+    {
+      "title": "Modding By Kaupenjoe: Fabric Modding for Minecraft 1.18.1",
+      "url": "https://www.udemy.com/course/minecraft-modding-fabric-118/"
+    },
+    {
+      "title": "Unreal Engine 5 Survival Framework – Multiplayer Game Dev",
+      "url": "https://www.udemy.com/course/unreal-engine-5-survival-framework-multiplayer-game-dev/"
+    },
+    {
+      "title": "Learn To Code by Making Video Games - No Experience Needed!",
+      "url": "https://www.udemy.com/course/the-complete-beginners-guide-to-making-games-with-gms-2/"
+    },
+    {
+      "title": "The Ultimate Guide to making a 2D strategy game in Unity",
+      "url": "https://www.udemy.com/course/the-ultimate-guide-to-making-a-2d-strategy-game-in-unity/"
+    },
+    {
+      "title": "Game Physics - Introducing Gravitation & Rotation in Unity",
+      "url": "https://www.udemy.com/course/gamephysics/"
+    },
+    {
+      "title": "Creating Real Time Hair for Game Characters [Beginner]",
+      "url": "https://www.udemy.com/course/realtimehairforgames/"
+    },
+    {
+      "title": "A Beginner's Guide To Machine Learning with Unity",
+      "url": "https://www.udemy.com/course/machine-learning-with-unity/"
+    },
+    {
+      "title": "Learn how to create a 2D Tower Defense Game in Unity",
+      "url": "https://www.udemy.com/course/learn-how-to-create-a-2d-tower-defense-game-in-unity-2020/"
+    },
+    {
+      "title": "Unity 5 Professional Guide - Develop a 2D Arkanoid Game!",
+      "url": "https://www.udemy.com/course/unity-professional-guide/"
+    },
+    {
+      "title": "Learn to Program & Model Procedural Cities in Unity/Blender",
+      "url": "https://www.udemy.com/course/procedural-cities-in-unity-blender/"
+    },
+    {
+      "title": "Python Game Development - Create a Flappy Bird Clone",
+      "url": "https://www.udemy.com/course/python-game-development-create-a-flappy-bird-clone/"
+    },
+    {
+      "title": "Learn to make a 3D Platformer Game with Unity",
+      "url": "https://www.udemy.com/course/unity3dplatformer/"
+    },
+    {
+      "title": "Unity 2D Dungeon Gunner Roguelike Development Course",
+      "url": "https://www.udemy.com/course/unity-2d-dungeon-gunner-roguelike-development-course/"
+    },
+    {
+      "title": "Learn to make an Awesome Builder-Defender game in Unity!",
+      "url": "https://www.udemy.com/course/awesome-builder-defender-game-in-unity/"
+    },
+    {
+      "title": "Build an FPS Zombie Game From Scratch - Unity 6 Compatible",
+      "url": "https://www.udemy.com/course/unity-complete/"
+    },
+    {
+      "title": "Blender and Godot 4: Make a Low poly Ps1 Style Horror game",
+      "url": "https://www.udemy.com/course/blender-and-godot-4-full-course-low-poly/"
+    },
+    {
+      "title": "Learn UV Unwrapping with Blender for Unity 3D Game Design",
+      "url": "https://www.udemy.com/course/learn-uv-unwrapping-with-blender-for-unity-3d-game-design/"
+    },
+    {
+      "title": "HTML5 Game Development: 2D Platform Game Fundamentals",
+      "url": "https://www.udemy.com/course/html5-game-development-2d-platform-game-fundamentals/"
+    },
+    {
+      "title": "Complete Roblox Lua: Start making Games with Roblox Studio",
+      "url": "https://www.udemy.com/course/complete-roblox-lua-start-making-games-with-roblox-studio/"
+    },
+    {
+      "title": "Create Fun Games and School Presentations Using Scratch 2.0",
+      "url": "https://www.udemy.com/course/create-fun-games-and-school-presentations-using-scratch-20/"
+    },
+    {
+      "title": "Learn Game Development with C# Programming and MonoGame!",
+      "url": "https://www.udemy.com/course/monogame/"
+    },
+    {
+      "title": "Godot 2D Megacourse: Mastering 2D Game Development",
+      "url": "https://www.udemy.com/course/godot-2d-megacourse-game-development-beginner-to-expert/"
+    },
+    {
+      "title": "The Ultimate Beginners Guide to Game Development with ROBLOX",
+      "url": "https://www.udemy.com/course/robloxeducation/"
+    },
+    {
+      "title": "Little Adventurer: Make a 3D action game with Godot 4",
+      "url": "https://www.udemy.com/course/littleadventurerandiegodot/"
+    },
+    {
+      "title": "Learn To Create An Action RPG Game In Unity",
+      "url": "https://www.udemy.com/course/unityarpg/"
+    },
+    {
+      "title": "Master Unity By Building 6 Fully Featured Games From Scratch",
+      "url": "https://www.udemy.com/course/make-mobile-games-like-a-pro-using-unity-game-engine/"
+    },
+    {
+      "title": "Unity 2D Game - Kawaii Survivor - The Coolest Roguelike Ever",
+      "url": "https://www.udemy.com/course/unity-2d-game-kawaii-survivor-the-coolest-roguelike-ever/"
+    },
+    {
+      "title": "Advanced AI for Games; Behaviour Trees (Unity 6 Compatible)",
+      "url": "https://www.udemy.com/course/behaviour-trees/"
+    },
+    {
+      "title": "Unreal Engine 5 Dedicated Servers with AWS and GameLift",
+      "url": "https://www.udemy.com/course/unreal-engine-5-dedicated-servers-with-aws-and-gamelift/"
+    },
+    {
+      "title": "Learn To Create a Turn-Based Strategy Game With Unity & C#",
+      "url": "https://www.udemy.com/course/unity-turnbased-strategy/"
+    },
+    {
+      "title": "Intro to Game Development using Unity - Part I",
+      "url": "https://www.udemy.com/course/intro-to-game-development-using-unity-part-i/"
+    },
+    {
+      "title": "Build a Idle Clicker Business Sim: Unity C# Game Development",
+      "url": "https://www.udemy.com/course/build-a-tycoon-business-sim-in-unity3d-c-game-development/"
+    },
+    {
+      "title": "Python for Unreal Engine Editor Tools Scripting",
+      "url": "https://www.udemy.com/course/ue4python/"
+    },
+    {
+      "title": "Complete RPG Maker MZ: Create and Publish for PC and Mobile",
+      "url": "https://www.udemy.com/course/complete-rpg-maker-mz/"
+    },
+    {
+      "title": "The Ultimate Guide to Unity Designpatterns",
+      "url": "https://www.udemy.com/course/ultimate-guide-to-designpatterns-in-unity/"
+    },
+    {
+      "title": "Intro to 3D Game Development Masterclass in Godot! (2024)",
+      "url": "https://www.udemy.com/course/godot-masterclass/"
+    },
+    {
+      "title": "Game Development in JS/TS - The Complete Guide (w/ Phaser 3)",
+      "url": "https://www.udemy.com/course/game-development-in-js-the-complete-guide-w-phaser-3/"
+    },
+    {
+      "title": "Make Online Games Using Unity's Multiplayer Framework",
+      "url": "https://www.udemy.com/course/unity-multiplayer-netcode/"
+    },
+    {
+      "title": "Complete Gaming Package: Learn To Code In Unity® And Unreal",
+      "url": "https://www.udemy.com/course/complete-gaming-package-learn-to-code-in-unity-and-unreal/"
+    },
+    {
+      "title": "Build a complete pixel platformer in Godot 4! (2024)",
+      "url": "https://www.udemy.com/course/build-a-platformer/"
+    },
+    {
+      "title": "Learn To Create A Vampire Survivors Style Game in Unity & C#",
+      "url": "https://www.udemy.com/course/unity-vampire-survival/"
+    },
+    {
+      "title": "The Ultimate Guide to Creating an RPG Game in Unity 6",
+      "url": "https://www.udemy.com/course/2d-rpg-alexdev/"
+    },
+    {
+      "title": "Masterclass in C# Programing & Unity 3D Game Development FPS",
+      "url": "https://www.udemy.com/course/masterclass-in-c-programing-unity-3d-game-development-fps/"
+    },
+    {
+      "title": "Learn How To Code Games In Roblox Studio 2025",
+      "url": "https://www.udemy.com/course/code-a-simple-game-in-roblox-studio/"
+    },
+    {
+      "title": "How to Make a 2D Clicker Game - Unreal Engine 5 (2024)",
+      "url": "https://www.udemy.com/course/make-a-2d-idle-clicker-game-unreal-engine-5-blueprint/"
+    },
+    {
+      "title": "Unity Dialogue & Quests: Intermediate C# Game Coding",
+      "url": "https://www.udemy.com/course/unity-dialogue-quests/"
+    },
+    {
+      "title": "3Ds Max Game Modeling: Complete 3D Modeling in 3Ds Max",
+      "url": "https://www.udemy.com/course/3ds-max-modeling/"
+    },
+    {
+      "title": "Create A 2D Ren'Py VIsual Novel RPG",
+      "url": "https://www.udemy.com/course/create-a-2d-renpy-visual-novel-rpg/"
+    },
+    {
+      "title": "Programming Design Patterns For Unity: Write Better Code",
+      "url": "https://www.udemy.com/course/programming-design-patterns/"
+    },
+    {
+      "title": "Unreal Engine 5: The Complete Beginner’s Course",
+      "url": "https://www.udemy.com/course/unreal-engine-5-the-complete-beginners-course/"
+    },
+    {
+      "title": "Make an Assassins GO Board Game in Unity",
+      "url": "https://www.udemy.com/course/make-an-assassins-go-board-game-in-unity/"
+    },
+    {
+      "title": "Unity 5: Lighting Fundamentals",
+      "url": "https://www.udemy.com/course/unity-5-lighting-fundamentals/"
+    },
+    {
+      "title": "Unity ® Virtual Reality (VR) Development: No Coding Approach",
+      "url": "https://www.udemy.com/course/unity-vr-dev-no-coding-required/"
+    },
+    {
+      "title": "RPG COURSE",
+      "url": "https://www.udemy.com/course/the-complete-guide-to-c-unity-programming-build-an-rpg/"
+    },
+    {
+      "title": "Unity 5 - Inventory System for Professional Games",
+      "url": "https://www.udemy.com/course/unity-5-inventory-system-for-professional-games/"
+    },
+    {
+      "title": "Make a Match-Three Puzzle Game in Unity",
+      "url": "https://www.udemy.com/course/make-a-puzzle-match-game-in-unity/"
+    },
+    {
+      "title": "Learn to Create a Metroidvania Game using Unity & C#",
+      "url": "https://www.udemy.com/course/unity-metvania/"
+    },
+    {
+      "title": "Godot Beginner Course - Learn How To Make Games",
+      "url": "https://www.udemy.com/course/godot-beginner-course/"
+    },
+    {
+      "title": "Learn To Code Trading Card Game Battle System With Unity 3D",
+      "url": "https://www.udemy.com/course/learn-to-code-trading-card-game-battle-system-with-unity-3d/"
+    },
+    {
+      "title": "Master Unity Game Development in 30 Days : 25+ Game Projects",
+      "url": "https://www.udemy.com/course/master-unity-game-development-in-30-days/"
+    },
+    {
+      "title": "The Ultimate Guide to Creating a Tower Defense Game in Unity",
+      "url": "https://www.udemy.com/course/3d-td-alexdev/"
+    },
+    {
+      "title": "Unreal Engine 5 C++ Game Development (Updated 5.6)",
+      "url": "https://www.udemy.com/course/unrealcourse/"
+    },
+    {
+      "title": "Beginning Mobile Game Development with Solar2D",
+      "url": "https://www.udemy.com/course/beginning-mobile-game-development/"
+    },
+    {
+      "title": "Cocos2d-x v3 C++ - Beginning Game Development",
+      "url": "https://www.udemy.com/course/cocos2d-x-v3-cpp/"
+    },
+    {
+      "title": "Character Modelling & Rigging in Blender- Character Design",
+      "url": "https://www.udemy.com/course/complete-character-modeling-and-rigging-in-blender/"
+    },
+    {
+      "title": "Unreal Engine 5: (Easy!) Mini-Map",
+      "url": "https://www.udemy.com/course/unreal-engine-5-easy-mini-map/"
+    },
+    {
+      "title": "Create a Complete 2D Platformer in the Godot Engine",
+      "url": "https://www.udemy.com/course/create-a-complete-2d-platformer-in-the-godot-engine/"
+    },
+    {
+      "title": "Beginner's Guide to Multiplayer Game Development in Unity",
+      "url": "https://www.udemy.com/course/beginners-guide-to-multiplayer-game-development-in-unity/"
+    },
+    {
+      "title": "Unity 5 Professional Guide - Mastering C# Programming!",
+      "url": "https://www.udemy.com/course/unity-5-become-a-pro-from-the-very-basics/"
+    },
+    {
+      "title": "Unreal Engine 5 VR Blueprint Crash Course",
+      "url": "https://www.udemy.com/course/unreal-engine-5-vr-blueprint-crash-course/"
+    },
+    {
+      "title": "Unity 2019 Learn to write better code making a City Builder",
+      "url": "https://www.udemy.com/course/city-builder-game-in-unity-2019-using-best-coding-practices/"
+    },
+    {
+      "title": "Make 10 Advanced Pro Games in Python",
+      "url": "https://www.udemy.com/course/make-10-advanced-pro-games-in-python/"
+    },
+    {
+      "title": "Complete C# Unity 2D Game Development (Updated To Unity 6)",
+      "url": "https://www.udemy.com/course/unitycourse/"
+    },
+    {
+      "title": "The Complete iOS Game Course Using SpriteKit And Swift 3",
+      "url": "https://www.udemy.com/course/the-complete-ios-game-course-using-swift/"
+    },
+    {
+      "title": "Learn Java by building 17 projects step by step",
+      "url": "https://www.udemy.com/course/java-for-beginners-with-17-hands-on-projects/"
+    },
+    {
+      "title": "Unreal Engine 5 C++ The Ultimate Game Developer Course",
+      "url": "https://www.udemy.com/course/unreal-engine-5-the-ultimate-game-developer-course/"
+    },
+    {
+      "title": "How to become Technical Artist in Game Development",
+      "url": "https://www.udemy.com/course/technical-artist/"
+    },
+    {
+      "title": "Unreal Engine 4 Blueprints - The Ultimate Developer Course",
+      "url": "https://www.udemy.com/course/unreal-engine-blueprints-the-ultimate-developer-course/"
+    },
+    {
+      "title": "LittleAdventurer2D: Make a 2D Action Game with Godot 4(2025)",
+      "url": "https://www.udemy.com/course/little-adventurer-andie-2d-godot/"
+    },
+    {
+      "title": "Anime Character Creator: Make 3D Anime Characters in Blender",
+      "url": "https://www.udemy.com/course/blender-anime-character/"
+    },
+    {
+      "title": "Game Development using Corona SDK in 2016 with ASO & Ads",
+      "url": "https://www.udemy.com/course/game-development-with-corona/"
+    },
+    {
+      "title": "Unreal Engine 5 C++ Multiplayer: Make An Online Co-op Game",
+      "url": "https://www.udemy.com/course/unreal-engine-5-multiplayer/"
+    },
+    {
+      "title": "Python Design Patterns",
+      "url": "https://www.udemy.com/course/python-design-patterns/"
+    },
+    {
+      "title": "The Ultimate 2D Top Down Unreal Engine Course",
+      "url": "https://www.udemy.com/course/unreal-2d-top-down/"
+    },
+    {
+      "title": "Learn to Write Unity Compute Shaders",
+      "url": "https://www.udemy.com/course/compute-shaders/"
+    },
+    {
+      "title": "Making an Action-Adventure Game Using GameMaker",
+      "url": "https://www.udemy.com/course/gamemakerstudio2/"
+    },
+    {
+      "title": "Unreal 5 Niagara - Introduction To Niagara",
+      "url": "https://www.udemy.com/course/unreal-5-niagara-introduction-to-niagara/"
+    },
+    {
+      "title": "Unreal Engine 5 UI Design: Advance inventory system with UE5",
+      "url": "https://www.udemy.com/course/unreal-engine-5-ui-design-advance-inventory-system-with-ue5/"
+    },
+    {
+      "title": "How to Make a Retro Style 3D FPS in the Godot Game Engine",
+      "url": "https://www.udemy.com/course/how-to-make-a-retro-style-3d-fps-in-the-godot-game-engine/"
+    },
+    {
+      "title": "Unreal Engine Cinematic Creator for Video Game Design",
+      "url": "https://www.udemy.com/course/unreal-cinematics/"
+    },
+    {
+      "title": "Learn how to create a 2D RPG game with Unity",
+      "url": "https://www.udemy.com/course/learn-how-to-create-a-2d-rpg-game-with-unity/"
+    },
+    {
+      "title": "Learn Unity Games Engine & C# By Creating A VR Space Shooter",
+      "url": "https://www.udemy.com/course/unityspaceshooter/"
+    },
+    {
+      "title": "Create your First Computer Game with Stencyl",
+      "url": "https://www.udemy.com/course/create-your-first-computer-game-with-stencyl/"
+    },
+    {
+      "title": "Unreal Engine 5 - Gameplay Ability System - Top Down RPG",
+      "url": "https://www.udemy.com/course/unreal-engine-5-gas-top-down-rpg/"
+    },
+    {
+      "title": "Unreal Engine 5 C++ Multiplayer CRASH COURSE",
+      "url": "https://www.udemy.com/course/ue5-multiplayer-crash-course/"
+    },
+    {
+      "title": "Game Audio 101: How to Create Sounds for Games",
+      "url": "https://www.udemy.com/course/gameaudio101/"
+    },
+    {
+      "title": "Learn Godot by Creating an Idle Business Tycoon Game",
+      "url": "https://www.udemy.com/course/godot-gdscript-learn-game-development-idle-business-tycoon-python/"
+    },
+    {
+      "title": "Create Stunning Vertical Shoot 'Em Up for Mobile with Unity",
+      "url": "https://www.udemy.com/course/create-a-shmup-with-unity-3d/"
+    },
+    {
+      "title": "Unreal Engine 5 Blueprint Scripting Masterclass, Create GTA5",
+      "url": "https://www.udemy.com/course/ue5-blueprint-scripting-masterclass-create-gta5-style-game/"
+    },
+    {
+      "title": "Unity 3D Game Development (2021) - From Beginners to Masters",
+      "url": "https://www.udemy.com/course/unity-3d-game-development-beginners-to-masters/"
+    },
+    {
+      "title": "All About Gaming Industry Careers & Game Design Fundamentals",
+      "url": "https://www.udemy.com/course/game-industry-career-guide/"
+    },
+    {
+      "title": "Learn to Create & Publish Games for Mobile",
+      "url": "https://www.udemy.com/course/unitymobile/"
+    },
+    {
+      "title": "Create a Battle Royale game using Unreal Engine 4 Blueprints",
+      "url": "https://www.udemy.com/course/battleroyale/"
+    },
+    {
+      "title": "Blender Texture Painting: Create Stunning Stylised Models",
+      "url": "https://www.udemy.com/course/blender-texture-painting/"
+    },
+    {
+      "title": "Modding By Kaupenjoe: Minecraft Modding 1.20.X for Forge",
+      "url": "https://www.udemy.com/course/minecraft-modding-120x-for-forge/"
+    },
+    {
+      "title": "Tic-Tac-Toe Clone - The Complete SFML C++ Game Course",
+      "url": "https://www.udemy.com/course/tic-tac-toe-sfml/"
+    },
+    {
+      "title": "Develop 16 Augmented Reality Apps in Vuforia 8 in Unity 2020",
+      "url": "https://www.udemy.com/course/create-augmented-reality-apps-using-vuforia-in-unity-sdk/"
+    },
+    {
+      "title": "Unity & C# - Build A Complete 2D Mobile Platformer Game",
+      "url": "https://www.udemy.com/course/unity-2d-course-build-a-mobile-platformer-game-from-scratch/"
+    },
+    {
+      "title": "Modern Unity UI with UI Toolkit",
+      "url": "https://www.udemy.com/course/modern-unity-ui-with-ui-toolkit/"
+    },
+    {
+      "title": "Android Game Programming & Development for Beginners",
+      "url": "https://www.udemy.com/course/android-game-programming-for-beginners/"
+    },
+    {
+      "title": "Unreal Engine 4: How to Develop Your First Two Games",
+      "url": "https://www.udemy.com/course/unreale4/"
+    },
+    {
+      "title": "The complete guide for game environment design in Unreal 4",
+      "url": "https://www.udemy.com/course/the-complete-guide-for-game-environment-design-in-unreal-4/"
+    },
+    {
+      "title": "Modding By Kaupenjoe: Minecraft Modding 1.20.X for Fabric",
+      "url": "https://www.udemy.com/course/minecraft-modding-120x-for-fabric/"
+    },
+    {
+      "title": "Unreal Engine 4 Game Develop: Battle Royale with Blueprint",
+      "url": "https://www.udemy.com/course/ue4blueprintbattleroyale/"
+    },
+    {
+      "title": "Creating Kid's Games with Construct 2",
+      "url": "https://www.udemy.com/course/construct2kidsgames/"
+    },
+    {
+      "title": "Learn To Create A Racing Game With Unity & C#",
+      "url": "https://www.udemy.com/course/unity-racer/"
+    },
+    {
+      "title": "How to Create a Platformer with a Story - GameMaker Studio 2",
+      "url": "https://www.udemy.com/course/platformer/"
+    },
+    {
+      "title": "Create a 3D RPG Game With THREE.js",
+      "url": "https://www.udemy.com/course/create-a-3d-rpg-game-with-threejs/"
+    },
+    {
+      "title": "Level Management in Unity",
+      "url": "https://www.udemy.com/course/level-management-in-unity/"
+    },
+    {
+      "title": "Learn how to make a juicy game in Godot 4",
+      "url": "https://www.udemy.com/course/learn-how-to-make-a-game-juicy-in-godot-4/"
+    },
+    {
+      "title": "Learn To Code By Making Games in Python",
+      "url": "https://www.udemy.com/course/learn-to-code-by-making-games-in-python/"
+    },
+    {
+      "title": "Simple HTML5 Game Development",
+      "url": "https://www.udemy.com/course/html5-simple-game-development/"
+    },
+    {
+      "title": "Python Course:Learn Python By building Games in Python.",
+      "url": "https://www.udemy.com/course/python-games-development/"
+    },
+    {
+      "title": "The Complete Unity 5 Intro - Learn to Build and Design Games",
+      "url": "https://www.udemy.com/course/3dmotive-the-complete-unity-5-intro-learn-to-build-and-design-games/"
+    },
+    {
+      "title": "The Beginner's Guide to AI - Unity 6 Compatible",
+      "url": "https://www.udemy.com/course/artificial-intelligence-in-unity/"
+    },
+    {
+      "title": "Ultimate Unity Overview (70+ Tools and Features Explained!)",
+      "url": "https://www.udemy.com/course/ultimate-unity-overview/"
+    },
+    {
+      "title": "Learn To Create a Card Combat Game With Unity & C#",
+      "url": "https://www.udemy.com/course/unity-card-combat/"
+    },
+    {
+      "title": "Complete game animators pipeline from Blender to engine",
+      "url": "https://www.udemy.com/course/complete-game-animators-pipeline-from-blender-to-engine/"
+    },
+    {
+      "title": "Jumpstart to 2D Game Development: Godot 4.4+ for Beginners",
+      "url": "https://www.udemy.com/course/jumpstart-to-2d-game-development-godot-4-for-beginners/"
+    },
+    {
+      "title": "Unity RPG Inventory Systems Asset Pack: Behind The Scenes",
+      "url": "https://www.udemy.com/course/unityinventory/"
+    },
+    {
+      "title": "The Complete LibGDX Game Course Using Java",
+      "url": "https://www.udemy.com/course/the-complete-libgdx-game-course/"
+    },
+    {
+      "title": "How to Program Games: Tile Classics in JS for HTML5 Canvas",
+      "url": "https://www.udemy.com/course/how-to-program-games/"
+    },
+    {
+      "title": "Become a video game developer with Gamemaker Studio 2.3",
+      "url": "https://www.udemy.com/course/become-a-video-game-developer-with-gms-23/"
+    },
+    {
+      "title": "Learning Path: C++ Game Programming",
+      "url": "https://www.udemy.com/course/learning-path-c-game-programming/"
+    },
+    {
+      "title": "Unity NEW Multiplayer Photon Fusion Game Development Course!",
+      "url": "https://www.udemy.com/course/unity-multiplayer-2dgame-fusion/"
+    },
+    {
+      "title": "Unreal Engine 5 C++: Advanced Frontend UI Programming",
+      "url": "https://www.udemy.com/course/ureal-engine-5-cpp-advanced-frontend-ui-programming/"
+    },
+    {
+      "title": "Unity By Example : 20+ Mini Projects in Unity",
+      "url": "https://www.udemy.com/course/unity-game-development-by-example/"
+    },
+    {
+      "title": "Learn to Code in Game Maker Language",
+      "url": "https://www.udemy.com/course/learn-to-code-in-game-maker-language/"
+    },
+    {
+      "title": "Learn To Create A Local Multiplayer Game In Unity",
+      "url": "https://www.udemy.com/course/unity-local-multiplayer/"
+    },
+    {
+      "title": "Python Game Development™ : Build 11 Total Games",
+      "url": "https://www.udemy.com/course/python-game-development-build-11-total-games/"
+    },
+    {
+      "title": "Unreal Engine 4 C++ The Ultimate Shooter Course",
+      "url": "https://www.udemy.com/course/unreal-engine-the-ultimate-shooter-course/"
+    },
+    {
+      "title": "Python Game Development™: Build 5 Professional Games",
+      "url": "https://www.udemy.com/course/python-game-developmenttm-build-5-professional-games/"
+    },
+    {
+      "title": "Create Board and Video Game Design Projects - 4 Courses in 1",
+      "url": "https://www.udemy.com/course/game-design-masterclass-board-and-digital-onedaycode/"
+    },
+    {
+      "title": "Learn To Code By Making a 2D Platformer in Unity",
+      "url": "https://www.udemy.com/course/unity2dplatformer/"
+    },
+    {
+      "title": "How to Make Tile Based Platform Games in Gamemaker",
+      "url": "https://www.udemy.com/course/how-to-make-tile-based-platform-games-with-gamemaker/"
+    },
+    {
+      "title": "Godot Game Engine - The Complete Course",
+      "url": "https://www.udemy.com/course/learngodot/"
+    },
+    {
+      "title": "Building Perceptive AI in Unreal Engine",
+      "url": "https://www.udemy.com/course/perceptive-ai-in-unreal-engine/"
+    },
+    {
+      "title": "Complete 2D Platformer in Unity C#",
+      "url": "https://www.udemy.com/course/complete-unity-platformer/"
+    },
+    {
+      "title": "The complete guide for UI game development in Unreal Engine",
+      "url": "https://www.udemy.com/course/the-complete-guide-for-ui-game-development-in-unreal-engine/"
+    },
+    {
+      "title": "Write Unity CG Shaders From Scratch (2D, 3D)",
+      "url": "https://www.udemy.com/course/unity-shader-development/"
+    },
+    {
+      "title": "Rigging Your Character For 3D Animation In Unreal Engine 4!",
+      "url": "https://www.udemy.com/course/rigging-a-character-for-animation-in-unreal-engine-4/"
+    },
+    {
+      "title": "Intro to C# Programming and Scripting for Games in Unity",
+      "url": "https://www.udemy.com/course/3dmotive-intro-to-c-programming-and-scripting-for-games-in-unity/"
+    },
+    {
+      "title": "Game Character Sculpting For Beginners with Zbrush & Maya",
+      "url": "https://www.udemy.com/course/game-character-sculpting-for-beginners/"
+    },
+    {
+      "title": "Unity Mobile Game Development",
+      "url": "https://www.udemy.com/course/unitymobilecourse/"
+    },
+    {
+      "title": "Math For Video Games: The Fastest Way To Get Smarter At Math",
+      "url": "https://www.udemy.com/course/math-for-games/"
+    },
+    {
+      "title": "Learn To Write 2D Games with C# and Unity",
+      "url": "https://www.udemy.com/course/unity-game-developers-masterclass-write-games-using-c/"
+    },
+    {
+      "title": "Intro to UVW Unwrapping in 3ds Max for Games",
+      "url": "https://www.udemy.com/course/3dmotive-intro-to-uvw-unwrapping-in-3ds-max-for-games/"
+    },
+    {
+      "title": "Business Intelligence Solutions with Qlik Sense",
+      "url": "https://www.udemy.com/course/business-intelligence-solutions-with-qlik-sense/"
+    },
+    {
+      "title": "How to Create a 3D Survival Game in Godot 4 with GDScript",
+      "url": "https://www.udemy.com/course/godot-survival-game/"
+    },
+    {
+      "title": "Create Your Own Augmented Reality Application",
+      "url": "https://www.udemy.com/course/augmented-reality-merge-cube-create-your-augmented-reality-application/"
+    },
+    {
+      "title": "Learn To Create a Tower Defence Game With Unity & C#",
+      "url": "https://www.udemy.com/course/unity-tower-defence/"
+    },
+    {
+      "title": "Unity 5 Interact with the database like a pro - php mysql",
+      "url": "https://www.udemy.com/course/unity-5-interact-with-the-database-like-a-pro-php-mysql/"
+    },
+    {
+      "title": "MVC Architecture For Unity 6.2 & C# - Lifetime Access",
+      "url": "https://www.udemy.com/course/mvc-architecture-for-unity/"
+    },
+    {
+      "title": "Unreal Engine 5: One Course Solution For Material",
+      "url": "https://www.udemy.com/course/unreal-engin5-one-course-solution-for-material/"
+    },
+    {
+      "title": "Godot 4: Design & Code a Retro Atari Style 2D Game, SeaQuest",
+      "url": "https://www.udemy.com/course/godot-4-retro-remake-design-and-code-a-seaquest-remake/"
+    },
+    {
+      "title": "Welcome To Game Design - Introduction to Board Game Design",
+      "url": "https://www.udemy.com/course/welcome-to-game-design-master-board-game-design/"
+    },
+    {
+      "title": "Learn C# and make a videogame with Unity",
+      "url": "https://www.udemy.com/course/learn-program-csharp-make-videogame-unity-prefabs-animations-platform/"
+    },
+    {
+      "title": "Introduction to Mobile Games Development with Gamesalad",
+      "url": "https://www.udemy.com/course/introduction-to-mobile-games-development/"
+    },
+    {
+      "title": "Unreal Engine: Advanced Widgets for UI",
+      "url": "https://www.udemy.com/course/unreal-engine-advanced-widgets-for-ui/"
+    },
+    {
+      "title": "Unreal Engine: Ultimate Survival Horror Course",
+      "url": "https://www.udemy.com/course/unreal-engine-ultimate-survival-horror-course/"
+    },
+    {
+      "title": "Godot 4 Shaders: Craft Stunning Visuals",
+      "url": "https://www.udemy.com/course/godot-4-shaders/"
+    },
+    {
+      "title": "Create a 3D multi-player game using THREE.js and Socket.IO",
+      "url": "https://www.udemy.com/course/create-a-3d-multi-player-game-using-threejs-and-socketio/"
+    },
+    {
+      "title": "From Tester to QA Lead: Game Testing, Jira & QA Mastery",
+      "url": "https://www.udemy.com/course/qa_lead_in_game_testing/"
+    },
+    {
+      "title": "Game AI Fundamentals with Godot Engine",
+      "url": "https://www.udemy.com/course/game-ai-fundamentals-with-godot-engine/"
+    },
+    {
+      "title": "The Ultimate Hyper-Casual Guide With Unity",
+      "url": "https://www.udemy.com/course/the-ultimate-hyper-casual-guide-with-unity/"
+    },
+    {
+      "title": "Game Development/Art - Create a 2D Action Game with Unity/C#",
+      "url": "https://www.udemy.com/course/creating-a-cool-2d-action-game-in-unity/"
+    },
+    {
+      "title": "The Art of Doing: Video Game Creation With Python and Pygame",
+      "url": "https://www.udemy.com/course/the-art-of-doing-video-game-creation-with-python-and-pygame/"
+    },
+    {
+      "title": "Unity 3D Master Class - Game Development For Beginners",
+      "url": "https://www.udemy.com/course/unity-3d-master-class-game-development-for-beginners/"
+    },
+    {
+      "title": "Creating a Node Based Editor in Unity 3D",
+      "url": "https://www.udemy.com/course/creating-a-node-based-editor-in-unity-3d/"
+    },
+    {
+      "title": "Learn to Create a 3D Platformer Game with Unity & C#",
+      "url": "https://www.udemy.com/course/unityplatformer3d/"
+    },
+    {
+      "title": "RPG Core Combat Creator: Learn Intermediate Unity C# Coding",
+      "url": "https://www.udemy.com/course/unityrpg/"
+    },
+    {
+      "title": "Unity Multiplayer UNET Build Online Shooter . Code included",
+      "url": "https://www.udemy.com/course/unity-multiplayer-make-a-shooter-game-code-included/"
+    },
+    {
+      "title": "Create Space Invaders with Python PyGame",
+      "url": "https://www.udemy.com/course/create-space-invaders-with-python-pygame/"
+    },
+    {
+      "title": "Unity Mobile Game - Create Your First Hybrid Casual Game !",
+      "url": "https://www.udemy.com/course/hybrid-casual-mobile-game/"
+    },
+    {
+      "title": "The Complete Modern OpenGL and GLSL Shaders Course for 2021",
+      "url": "https://www.udemy.com/course/introduction-to-modern-opengl-a-tale-of-two-shaders/"
+    },
+    {
+      "title": "Design Patterns for Game Programming - Unity 6 Compatible",
+      "url": "https://www.udemy.com/course/design-patterns-for-game-programming/"
+    },
+    {
+      "title": "Unreal Engine 5 - Traversal Parkour System using Blueprints",
+      "url": "https://www.udemy.com/course/unreal-engine-53-building-a-traversal-parkour-system/"
+    },
+    {
+      "title": "Unreal Engine 4 C++ The Ultimate Game Developer Course",
+      "url": "https://www.udemy.com/course/unreal-engine-the-ultimate-game-developer-course/"
+    },
+    {
+      "title": "Unreal Engine 4 - Build Your First Game with UE4!!",
+      "url": "https://www.udemy.com/course/unreal-engine-4-ue4-complete-beginners-course/"
+    },
+    {
+      "title": "QA: Become a Game Tester 2025",
+      "url": "https://www.udemy.com/course/qa-become-a-game-tester/"
+    },
+    {
+      "title": "Unreal Engine 4: For Absolute Beginners",
+      "url": "https://www.udemy.com/course/unreal-engine-4-ue4/"
+    },
+    {
+      "title": "3D Game Development with Blender",
+      "url": "https://www.udemy.com/course/3d-game-development-with-blender/"
+    },
+    {
+      "title": "Unreal Engine 5 Blueprints: First Person Shooter (FPS)",
+      "url": "https://www.udemy.com/course/unreal-engine-5-blueprints-fps/"
+    },
+    {
+      "title": "Unreal Engine: Create an Arcade Classic!",
+      "url": "https://www.udemy.com/course/unreal-engine-4-create-an-arcade-classic/"
+    },
+    {
+      "title": "Roblox Beginner ESSENTIALS Course: Code & Build Custom Games",
+      "url": "https://www.udemy.com/course/roblox-studio-beginner-course/"
+    },
+    {
+      "title": "3D Pixel Art for non artist. Crossy Road Modeling. Unity 3D",
+      "url": "https://www.udemy.com/course/3d-pixel-art-for-non-artist-crossy-road-modeling-unity-3d/"
+    },
+    {
+      "title": "Unity Game Audio 1: Adding Sound to a Game for Beginners",
+      "url": "https://www.udemy.com/course/unity-audio-for-beginners/"
+    },
+    {
+      "title": "Complete Pygame Tutorial - Create a Dungeon Crawler",
+      "url": "https://www.udemy.com/course/pygame-dungeon-crawler/"
+    },
+    {
+      "title": "Unity C# Editor Scripting Masterclass",
+      "url": "https://www.udemy.com/course/unity-editor-scripting/"
+    },
+    {
+      "title": "The Complete Guide to Unity 2D : Platformer Development",
+      "url": "https://www.udemy.com/course/platformer-alexdev/"
+    },
+    {
+      "title": "Build Multiplayer Games With Unity And Photon ( PUN 2)",
+      "url": "https://www.udemy.com/course/build-multiplayer-games-with-unity-and-photon-pun-2/"
+    },
+    {
+      "title": "Unity tutorial from scratch till infinity",
+      "url": "https://www.udemy.com/course/unity-tutorial-from-scratch-till-infinity/"
+    },
+    {
+      "title": "Shader Development from Scratch with Cg - Unity 6 Compatible",
+      "url": "https://www.udemy.com/course/unity-shaders/"
+    },
+    {
+      "title": "The Ultimate C# and Unity course for beginners",
+      "url": "https://www.udemy.com/course/ultimate/"
+    },
+    {
+      "title": "Learn To Use Shader Graph To Create Awesome Effects In Unity",
+      "url": "https://www.udemy.com/course/unity-shader-graph/"
+    },
+    {
+      "title": "Unity Shader Graph: Create Procedural Shaders & Dynamic FX",
+      "url": "https://www.udemy.com/course/unity-shader-graph-procedural/"
+    },
+    {
+      "title": "Godot 4: Build an Action Combat RPG",
+      "url": "https://www.udemy.com/course/godot-rpg/"
+    },
+    {
+      "title": "Unity DOTS Fundamentals - Making a full game with ECS",
+      "url": "https://www.udemy.com/course/unitydotsfundamentals/"
+    },
+    {
+      "title": "Internet of Things using Augmented Reality in Unity IoTAR",
+      "url": "https://www.udemy.com/course/internet-of-things-using-augmented-reality-and-unity-iotar/"
+    },
+    {
+      "title": "Practical OpenGL and GLSL shaders fundamentals with C++",
+      "url": "https://www.udemy.com/course/opengl-and-glsl-fundamentals-cpp/"
+    },
+    {
+      "title": "Unity Mobile Game - Create Your First Hyper Casual Game !",
+      "url": "https://www.udemy.com/course/unity-mobile-game/"
+    },
+    {
+      "title": "Unreal Engine Blueprints Optimization",
+      "url": "https://www.udemy.com/course/unreal-engine-game-optimization/"
+    },
+    {
+      "title": "Create Your 3D MOBA Game for Mobile Using Godot",
+      "url": "https://www.udemy.com/course/create-your-3d-moba-game-for-mobile-using-godot/"
+    },
+    {
+      "title": "Unreal engine 5:Advance locomotion system ALS (Intermediate)",
+      "url": "https://www.udemy.com/course/unreal-engine-5-advance-locomotion-system-als-intermediate/"
+    },
+    {
+      "title": "Unreal Engine 5 (UE5): Blueprints for Beginners",
+      "url": "https://www.udemy.com/course/unreal-engine-5-blueprints/"
+    },
+    {
+      "title": "Modern OpenGL C++ 3D Game Tutorial Series & 3D Rendering",
+      "url": "https://www.udemy.com/course/opengl-tutorials/"
+    },
+    {
+      "title": "Unity2D Professional Development From A to Z Build 10 Games",
+      "url": "https://www.udemy.com/course/unity3d-professional-2d-game-development-from-a-to-z/"
+    },
+    {
+      "title": "Complete Godot 2D: Develop Your Own 2D Games Using Godot 4",
+      "url": "https://www.udemy.com/course/complete-godot-4-game-developer-2d-online-course/"
+    },
+    {
+      "title": "Creating a Modular Kitbash in Blender",
+      "url": "https://www.udemy.com/course/modular-kitbash-in-blender/"
+    },
+    {
+      "title": "Coding for actual beginners (C# / Unity / Game development)",
+      "url": "https://www.udemy.com/course/coding-for-actual-beginners-c-unity-game-development/"
+    },
+    {
+      "title": "Basic to Advance Realtime VFX Course in Unreal Engine 5",
+      "url": "https://www.udemy.com/course/basic-to-advance-realtime-vfx-course-in-unreal-engine-5/"
+    },
+    {
+      "title": "The Complete Guide to Unity 3D : Making a Top Down Shooter",
+      "url": "https://www.udemy.com/course/3d-tds-alexdev/"
+    },
+    {
+      "title": "Unreal Engine 5: Creating a Car Racing Game",
+      "url": "https://www.udemy.com/course/unreal-engine-5-creating-a-car-racing-game/"
+    },
+    {
+      "title": "Unity 3D location based game development with Mapbox",
+      "url": "https://www.udemy.com/course/mapbox-unity-3d-essentials/"
+    },
+    {
+      "title": "Epic Construct 2 Course: Complete 60 Beginner Games!",
+      "url": "https://www.udemy.com/course/the-complete-game-developer-course-build-60-games/"
+    },
+    {
+      "title": "JavaScript Game Development Step by Step",
+      "url": "https://www.udemy.com/course/javascript-game-development-step-by-step/"
+    },
+    {
+      "title": "Unreal Engine 5: The Ultimate Endless Runner Course",
+      "url": "https://www.udemy.com/course/unreal-engine-5-endless-runner/"
+    },
+    {
+      "title": "Learn Game Artificial Intelligence in Unity Visual Scripting",
+      "url": "https://www.udemy.com/course/visual-scripting-with-unity/"
+    },
+    {
+      "title": "Game Audio Essentials: SFX & Sound Design For Video Games",
+      "url": "https://www.udemy.com/course/game-audio-essentials/"
+    },
+    {
+      "title": "Video Game Design for Kids",
+      "url": "https://www.udemy.com/course/video-game-design-for-ages-7-10/"
+    },
+    {
+      "title": "Develop Minecraft Plugins (Java)",
+      "url": "https://www.udemy.com/course/develop-minecraft-plugins-java-programming/"
+    },
+    {
+      "title": "Unreal Engine 5 - Blueprints Game Developer Masterclass",
+      "url": "https://www.udemy.com/course/unreal-engine-5-blueprints-game-developer-masterclass/"
+    },
+    {
+      "title": "Lets Make a Hack n Slash game with SDL2 and C++",
+      "url": "https://www.udemy.com/course/hack-n-slash-sdl2/"
+    },
+    {
+      "title": "Introduction to World Machine",
+      "url": "https://www.udemy.com/course/introduction-to-world-machine/"
+    },
+    {
+      "title": "Blender Character Creator for Video Games (Updated to 4.2)",
+      "url": "https://www.udemy.com/course/blendercharacters/"
+    },
+    {
+      "title": "Starting 2D Game Development in Unity with C#",
+      "url": "https://www.udemy.com/course/2d-game-development-unity/"
+    },
+    {
+      "title": "How To Get A Job In The Video Game Industry",
+      "url": "https://www.udemy.com/course/gameindustryjobs/"
+    },
+    {
+      "title": "Learn Unity Shaders from Scratch",
+      "url": "https://www.udemy.com/course/learn-unity-shaders-from-scratch/"
+    },
+    {
+      "title": "Python GUI Programming Recipes using PyQt5",
+      "url": "https://www.udemy.com/course/python-gui-programming-recipes-using-pyqt5/"
+    },
+    {
+      "title": "Scratch 3.0 for Teachers | Teach Coding with Games & Scratch",
+      "url": "https://www.udemy.com/course/scratch-3-for-teachers-teach-coding-with-games/"
+    },
+    {
+      "title": "Mastering Game Feel in Unity: Where Code Meets Fun!",
+      "url": "https://www.udemy.com/course/mastering-game-feel-in-unity/"
+    },
+    {
+      "title": "Flame & Flutter with Dart : Build your First 2D Mobile Game",
+      "url": "https://www.udemy.com/course/code-a-2d-mobile-game-in-less-than-6-hours/"
+    },
+    {
+      "title": "Unity 2019 Make an intermediate 3d survival game",
+      "url": "https://www.udemy.com/course/unity-2019-make-a-3d-survival-game/"
+    },
+    {
+      "title": "Complete C# Unity Developer: Create Games and Learn to Code",
+      "url": "https://www.udemy.com/course/unity-developer-course/"
+    },
+    {
+      "title": "Scratch Programming - Build 14 Games in Scratch 3.0 Bootcamp",
+      "url": "https://www.udemy.com/course/learn-coding-by-creating-a-game-from-scratch-in-scratch-2-0/"
+    },
+    {
+      "title": "Coding in Unity: Mastering Procedural Mesh Generation",
+      "url": "https://www.udemy.com/course/coding-in-unity-procedural-mesh-generation/"
+    },
+    {
+      "title": "Unreal Engine 5: One Course Solution For Niagara VFX",
+      "url": "https://www.udemy.com/course/unreal-engine-5-one-course-solution-for-niagara-vfx/"
+    },
+    {
+      "title": "Godot 4 - Create 3D RTS style game",
+      "url": "https://www.udemy.com/course/godot-4-create-3d-rts-style-game/"
+    },
+    {
+      "title": "Python Game Development using Pygame and Python 3",
+      "url": "https://www.udemy.com/course/python-game-development-using-pygame-and-python-3/"
+    },
+    {
+      "title": "Become A Game Maker With GameMaker Studio 2",
+      "url": "https://www.udemy.com/course/become-a-game-maker-with-gamemaker-studio-2/"
+    },
+    {
+      "title": "Create a Space Shoot 'Em Up With Unity",
+      "url": "https://www.udemy.com/course/spaceshooter/"
+    },
+    {
+      "title": "Complete Unity® and Android Development: Build Games & Apps",
+      "url": "https://www.udemy.com/course/complete-unity-and-android-development-build-games-and-apps/"
+    },
+    {
+      "title": "Learn to Code Video Games: Complete Guide to Construct 2 & 3",
+      "url": "https://www.udemy.com/course/gaming-bootcamp-mentor-training/"
+    },
+    {
+      "title": "Facial Animation & More In Unreal Engine! | 3D Animation",
+      "url": "https://www.udemy.com/course/facial-animation-in-unreal-engine-4/"
+    },
+    {
+      "title": "Unreal Engine 5 (UE5): Complete Lighting Guide for Beginners",
+      "url": "https://www.udemy.com/course/ue5-lighting/"
+    },
+    {
+      "title": "Game Development (Android + IOS): Build 12 Apps & Games",
+      "url": "https://www.udemy.com/course/android-game-development-using-python-build-12-apps-games/"
+    },
+    {
+      "title": "Procedural Terrain Generation with Unity",
+      "url": "https://www.udemy.com/course/procedural-terrain-generation-with-unity/"
+    },
+    {
+      "title": "Unity : Beginner to Advanced - Complete Course",
+      "url": "https://www.udemy.com/course/unity-master-video-game-development-the-complete-course/"
+    },
+    {
+      "title": "Unreal Engine 5 (UE5): The Complete Beginner's Course",
+      "url": "https://www.udemy.com/course/unreal-engine-5-beginners-course/"
+    },
+    {
+      "title": "Unreal Engine 5 (UE5): Complete Beginners Course",
+      "url": "https://www.udemy.com/course/unreal-engine-course/"
+    },
+    {
+      "title": "Ask Me Anything About Unity",
+      "url": "https://www.udemy.com/course/unity-ama/"
+    },
+    {
+      "title": "Godot : Beginner to Advanced - Complete Course",
+      "url": "https://www.udemy.com/course/godot-beginner-to-advanced-complete-course/"
+    },
+    {
+      "title": "Unity Android : Build 8 Mobile Games with Unity & C#",
+      "url": "https://www.udemy.com/course/unity-android-game-development/"
+    },
+    {
+      "title": "Make a Tetris-style Puzzler in Unity",
+      "url": "https://www.udemy.com/course/make-a-tetris-style-puzzler-in-unity/"
+    },
+    {
+      "title": "Roblox Rapid Game Development Course - 2025",
+      "url": "https://www.udemy.com/course/robloxadvancedcodingcourse/"
+    },
+    {
+      "title": "Unity Multiplayer Game development with Photon PUN 2",
+      "url": "https://www.udemy.com/course/unity-multiplayer-game-development-using-photon-2-2019/"
+    },
+    {
+      "title": "Unreal Engine 4 Class: Blueprints",
+      "url": "https://www.udemy.com/course/unreal-engine-4-blueprints/"
+    },
+    {
+      "title": "Create a 3D Endless Runner from Scratch - Unity 6 Compatible",
+      "url": "https://www.udemy.com/course/endlessrunner/"
+    },
+    {
+      "title": "Godot Genesis: Learning Through 6 classic Game Genres",
+      "url": "https://www.udemy.com/course/godot-genesis-learning-through-6-classic-game-genres/"
+    },
+    {
+      "title": "JavaScript HTML Game from Scratch Blackjack",
+      "url": "https://www.udemy.com/course/javascript-game/"
+    },
+    {
+      "title": "Make a 2D Action Platformer in Unreal Engine 5",
+      "url": "https://www.udemy.com/course/ue-2d-action-platformer/"
+    },
+    {
+      "title": "Little Adventurer: Learn to make a 3D action game with Unity",
+      "url": "https://www.udemy.com/course/project-little-adventurer-learn-to-create-a-3d-action-game/"
+    },
+    {
+      "title": "Learn To Create A Roguelike Game In Unity",
+      "url": "https://www.udemy.com/course/unityroguelike/"
+    },
+    {
+      "title": "Building a Crafting Game, with GameMaker",
+      "url": "https://www.udemy.com/course/crafting/"
+    },
+    {
+      "title": "Unreal Engine 5 : Getting Started with Blueprints",
+      "url": "https://www.udemy.com/course/ue4-getting-started-blueprints/"
+    },
+    {
+      "title": "Unity Turn-Based Strategy Game: Intermediate C# Coding",
+      "url": "https://www.udemy.com/course/unity-turn-based-strategy/"
+    },
+    {
+      "title": "Make Games without Code? Master Visual Scripting in Unity!",
+      "url": "https://www.udemy.com/course/make-games-without-code-unity-visual-scripting/"
+    },
+    {
+      "title": "Master Visual Scripting in Unity by Making Advanced Games",
+      "url": "https://www.udemy.com/course/master-visual-scripting-in-unity-by-making-advanced-games/"
+    },
+    {
+      "title": "Code Ninja : 10X Your Game Dev Speed",
+      "url": "https://www.udemy.com/course/unity-code-ninja/"
+    },
+    {
+      "title": "ARKIT & Unity 3D, creating Augmented Reality Apps with C#",
+      "url": "https://www.udemy.com/course/arkit-unity-3d-creating-augmented-reality-apps-with-c/"
+    },
+    {
+      "title": "Reinforcement Learning: AI Flight with Unity ML-Agents",
+      "url": "https://www.udemy.com/course/ai-flight/"
+    },
+    {
+      "title": "Learn How to Make Trading Card Game Menus With Unity 3D",
+      "url": "https://www.udemy.com/course/learn-how-to-make-trading-card-game-menus-with-unity-3d/"
+    },
+    {
+      "title": "Unreal Engine 5 C++ Inventory Systems",
+      "url": "https://www.udemy.com/course/unreal-engine-5-inventory-systems/"
+    },
+    {
+      "title": "Unity Game Development : Build 5 Games With Unity & C#",
+      "url": "https://www.udemy.com/course/unity-2d-game-development-by-example/"
+    },
+    {
+      "title": "Start Augmented Reality & Virtual Reality Metaverse Business",
+      "url": "https://www.udemy.com/course/businesses-in-augmented-reality-virtual-reality/"
+    }
+  ]
+}
